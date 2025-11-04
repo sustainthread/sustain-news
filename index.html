@@ -128,15 +128,6 @@
             gap:10px;
         }
 
-        .keyword-badge {
-            background: #e7f6f5;
-            color: var(--deep-navy);
-            border-radius: 10px;
-            padding:6px 10px;
-            font-size:0.82rem;
-            font-weight:600;
-        }
-
         /* Read button in soft teal with medium blue hover */
         .btn-read {
             background: var(--soft-teal);
@@ -264,30 +255,6 @@
             background: white;
             color: var(--deep-navy);
         }
-
-        /* Relevance filter */
-        .relevance-filter {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-        .relevance-option {
-            padding: 4px 8px;
-            border-radius: 6px;
-            border: 1px solid rgba(121,192,188,0.3);
-            background: white;
-            cursor: pointer;
-            font-size: 0.85rem;
-            transition: all 0.2s ease;
-        }
-        .relevance-option:hover {
-            background: rgba(121,192,188,0.1);
-        }
-        .relevance-option.active {
-            background: var(--soft-teal);
-            color: var(--deep-navy);
-            border-color: var(--soft-teal);
-        }
     </style>
 </head>
 <body>
@@ -309,7 +276,7 @@
             <div style="margin-top:10px;color:#6b7f84;">Loading latest sustainability news...</div>
         </div>
 
-        <!-- Enhanced Controls: search, filters, sort, pagination -->
+        <!-- Simplified Controls: search, source filter, sort, pagination -->
         <div class="controls" style="display:none;" id="controlsBar">
             <div class="left">
                 <!-- Search -->
@@ -322,14 +289,6 @@
                     <label for="sourceFilter" class="filter-label">Source:</label>
                     <select id="sourceFilter" class="filter-select">
                         <option value="all">All Sources</option>
-                    </select>
-                </div>
-                
-                <!-- Keyword Filter -->
-                <div class="filter-group">
-                    <label for="keywordFilter" class="filter-label">Topic:</label>
-                    <select id="keywordFilter" class="filter-select">
-                        <option value="all">All Topics</option>
                     </select>
                 </div>
                 
@@ -351,14 +310,6 @@
                         <option value="date">Newest First</option>
                         <option value="date_oldest">Oldest First</option>
                     </select>
-                </div>
-
-                <!-- Relevance Filter -->
-                <div class="relevance-filter">
-                    <span class="filter-label">Quality:</span>
-                    <div class="relevance-option active" data-min="0">All</div>
-                    <div class="relevance-option" data-min="3">Good</div>
-                    <div class="relevance-option" data-min="5">Best</div>
                 </div>
                 
                 <!-- Results Info -->
@@ -398,7 +349,6 @@
         let filtered = [];
         let currentPage = 1;
         let totalPages = 1;
-        let currentRelevanceFilter = 0; // 0 = all, 3 = good, 5 = best
 
         async function loadNews(){
             try {
@@ -425,17 +375,13 @@
                 // Normalize each article shape to expected fields
                 articles = articles.map(a => {
                     const sourceName = (a.source && a.source.name) ? a.source.name : (typeof a.source === 'string' ? a.source : 'Unknown');
-                    const keyword = a.keyword || '';
-                    const relevanceScore = a.relevance_score || 0;
                     
                     return {
                         title: a.title || a.headline || '',
                         url: a.url || '#',
                         date: a.date || a.publishedAt ? (a.date ? a.date : tryFormatDate(a.publishedAt)) : '',
                         description: a.description || a.summary || '',
-                        source: sourceName,
-                        keyword: keyword,
-                        relevance_score: relevanceScore
+                        source: sourceName
                     };
                 });
 
@@ -503,21 +449,12 @@
             sources.sort();
             sources.forEach(s => sourceSel.append(`<option value="${escapeHtmlAttr(s)}">${escapeHtml(s)}</option>`));
 
-            // Keyword Filter
-            const keywordSel = $('#keywordFilter');
-            keywordSel.empty();
-            keywordSel.append(`<option value="all">All Topics</option>`);
-            const keywords = [...new Set(articles.map(a => a.keyword).filter(Boolean))];
-            keywords.sort();
-            keywords.forEach(k => keywordSel.append(`<option value="${escapeHtmlAttr(k)}">${escapeHtml(k)}</option>`));
-
             $('#controlsBar').show();
         }
 
         function applyFilter(){
             const searchTerm = $('#searchInput').val().toLowerCase();
             const sourceFilter = $('#sourceFilter').val();
-            const keywordFilter = $('#keywordFilter').val();
             const dateFilter = $('#dateFilter').val();
             const sortBy = $('#sortFilter').val();
 
@@ -525,29 +462,25 @@
                 // Search filter
                 const matchesSearch = !searchTerm || 
                     (article.title && article.title.toLowerCase().includes(searchTerm)) ||
-                    (article.description && article.description.toLowerCase().includes(searchTerm)) ||
-                    (article.keyword && article.keyword.toLowerCase().includes(searchTerm));
+                    (article.description && article.description.toLowerCase().includes(searchTerm));
 
                 // Source filter
                 const matchesSource = !sourceFilter || sourceFilter === 'all' || article.source === sourceFilter;
 
-                // Keyword filter
-                const matchesKeyword = !keywordFilter || keywordFilter === 'all' || article.keyword === keywordFilter;
-
                 // Date filter
                 const matchesDate = !dateFilter || dateFilter === 'all' || article.date === dateFilter;
 
-                // Relevance filter - only show articles with relevance >= current filter
-                const matchesRelevance = article.relevance_score >= currentRelevanceFilter;
-
-                return matchesSearch && matchesSource && matchesKeyword && matchesDate && matchesRelevance;
+                return matchesSearch && matchesSource && matchesDate;
             });
 
             // Sort articles
             filtered.sort((a, b) => {
                 switch(sortBy) {
                     case 'relevance':
-                        return (b.relevance_score || 0) - (a.relevance_score || 0);
+                        // Simple relevance based on search term match
+                        const aRelevance = (a.title && searchTerm && a.title.toLowerCase().includes(searchTerm)) ? 1 : 0;
+                        const bRelevance = (b.title && searchTerm && b.title.toLowerCase().includes(searchTerm)) ? 1 : 0;
+                        return bRelevance - aRelevance;
                     case 'date':
                         const dateA = parseDDMMYYYY(a.date);
                         const dateB = parseDDMMYYYY(b.date);
@@ -592,11 +525,6 @@
                     trackedUrl = `${article.url}${article.url.includes('?') ? '&' : '?'}utm_source=sustainthread.github.io&utm_medium=referral&utm_campaign=sustainability-news`;
                 }
 
-                const keywordBadge = article.keyword ? `<span class="keyword-badge">${escapeHtml(article.keyword)}</span>` : '';
-                
-                // LEGAL COMPLIANCE: No images to avoid copyright infringement
-                // Images are completely removed from display
-
                 const cardHtml = `
                     <div class="news-card card">
                         <div class="card-top">
@@ -614,7 +542,6 @@
                             </div>
 
                             <div class="card-footer">
-                                <div>${keywordBadge}</div>
                                 <a class="btn-read" href="${escapeHtmlAttr(trackedUrl)}" target="_blank" rel="noopener noreferrer">
                                     Read Article <i class="fas fa-arrow-right" style="margin-left:6px;font-size:0.85rem;"></i>
                                 </a>
@@ -688,17 +615,8 @@
         // wire events
         $(document).on('input', '#searchInput', function(){ applyFilter(); });
         $(document).on('change', '#sourceFilter', function(){ applyFilter(); });
-        $(document).on('change', '#keywordFilter', function(){ applyFilter(); });
         $(document).on('change', '#dateFilter', function(){ applyFilter(); });
         $(document).on('change', '#sortFilter', function(){ applyFilter(); });
-
-        // Relevance filter events
-        $(document).on('click', '.relevance-option', function(){
-            $('.relevance-option').removeClass('active');
-            $(this).addClass('active');
-            currentRelevanceFilter = parseInt($(this).data('min'));
-            applyFilter();
-        });
 
         // initial load
         $(document).ready(function(){ loadNews(); });
