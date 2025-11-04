@@ -280,6 +280,30 @@
             background: white;
             color: var(--deep-navy);
         }
+
+        /* Relevance filter */
+        .relevance-filter {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .relevance-option {
+            padding: 4px 8px;
+            border-radius: 6px;
+            border: 1px solid rgba(121,192,188,0.3);
+            background: white;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s ease;
+        }
+        .relevance-option:hover {
+            background: rgba(121,192,188,0.1);
+        }
+        .relevance-option.active {
+            background: var(--soft-teal);
+            color: var(--deep-navy);
+            border-color: var(--soft-teal);
+        }
     </style>
 </head>
 <body>
@@ -339,9 +363,18 @@
                 <div class="filter-group">
                     <label for="sortFilter" class="filter-label">Sort:</label>
                     <select id="sortFilter" class="sort-select">
+                        <option value="relevance">Most Relevant</option>
                         <option value="date">Newest First</option>
                         <option value="date_oldest">Oldest First</option>
                     </select>
+                </div>
+
+                <!-- Relevance Filter -->
+                <div class="relevance-filter">
+                    <span class="filter-label">Quality:</span>
+                    <div class="relevance-option active" data-min="0">All</div>
+                    <div class="relevance-option" data-min="3">Good</div>
+                    <div class="relevance-option" data-min="5">Best</div>
                 </div>
                 
                 <!-- Results Info -->
@@ -381,6 +414,7 @@
         let filtered = [];
         let currentPage = 1;
         let totalPages = 1;
+        let currentRelevanceFilter = 0; // 0 = all, 3 = good, 5 = best
 
         async function loadNews(){
             try {
@@ -408,6 +442,7 @@
                 articles = articles.map(a => {
                     const sourceName = (a.source && a.source.name) ? a.source.name : (typeof a.source === 'string' ? a.source : 'Unknown');
                     const keyword = a.keyword || '';
+                    const relevanceScore = a.relevance_score || 0;
                     
                     return {
                         title: a.title || a.headline || '',
@@ -416,7 +451,8 @@
                         description: a.description || a.summary || '',
                         image: a.image || a.urlToImage || '', // Handle both field names
                         source: sourceName,
-                        keyword: keyword
+                        keyword: keyword,
+                        relevance_score: relevanceScore
                     };
                 });
 
@@ -518,12 +554,17 @@
                 // Date filter
                 const matchesDate = !dateFilter || dateFilter === 'all' || article.date === dateFilter;
 
-                return matchesSearch && matchesSource && matchesKeyword && matchesDate;
+                // Relevance filter - only show articles with relevance >= current filter
+                const matchesRelevance = article.relevance_score >= currentRelevanceFilter;
+
+                return matchesSearch && matchesSource && matchesKeyword && matchesDate && matchesRelevance;
             });
 
             // Sort articles
             filtered.sort((a, b) => {
                 switch(sortBy) {
+                    case 'relevance':
+                        return (b.relevance_score || 0) - (a.relevance_score || 0);
                     case 'date':
                         const dateA = parseDDMMYYYY(a.date);
                         const dateB = parseDDMMYYYY(b.date);
@@ -562,10 +603,10 @@
                 const sourceDomain = (article.url && article.url !== '#') ? (new URL(article.url).hostname) : '';
                 const sourceLogo = sourceDomain ? `https://www.google.com/s2/favicons?domain=${sourceDomain}&sz=64` : '';
                 
-                // tracked URL (retain any existing utm)
+                // CORRECT UTM - use sustainthread.github.io
                 let trackedUrl = article.url || '#';
                 if (article.url && !article.url.includes('utm_source=')) {
-                    trackedUrl = `${article.url}${article.url.includes('?') ? '&' : '?'}utm_source=londhevishalps.github.io`;
+                    trackedUrl = `${article.url}${article.url.includes('?') ? '&' : '?'}utm_source=sustainthread.github.io&utm_medium=referral&utm_campaign=sustainability-news`;
                 }
 
                 const keywordBadge = article.keyword ? `<span class="keyword-badge">${escapeHtml(article.keyword)}</span>` : '';
@@ -672,6 +713,14 @@
         $(document).on('change', '#keywordFilter', function(){ applyFilter(); });
         $(document).on('change', '#dateFilter', function(){ applyFilter(); });
         $(document).on('change', '#sortFilter', function(){ applyFilter(); });
+
+        // Relevance filter events
+        $(document).on('click', '.relevance-option', function(){
+            $('.relevance-option').removeClass('active');
+            $(this).addClass('active');
+            currentRelevanceFilter = parseInt($(this).data('min'));
+            applyFilter();
+        });
 
         // initial load
         $(document).ready(function(){ loadNews(); });
