@@ -170,7 +170,7 @@
             margin-top: 2.5rem;
         }
 
-        /* ---------- New: image sizing + controls (non-invasive) ---------- */
+        /* ---------- Image handling ---------- */
         .article-image {
             width: 100%;
             max-height: 180px;
@@ -178,8 +178,19 @@
             display: block;
             border-bottom: 1px solid rgba(0,0,0,0.04);
         }
+        .image-placeholder {
+            width: 100%;
+            height: 180px;
+            background: linear-gradient(135deg, var(--soft-teal), var(--medium-blue));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-size: 0.9rem;
+            border-bottom: 1px solid rgba(0,0,0,0.04);
+        }
         @media (max-width: 576px) {
-            .article-image { max-height: 200px; }
+            .article-image, .image-placeholder { max-height: 200px; }
         }
 
         /* Enhanced Filter & pagination controls */
@@ -237,17 +248,6 @@
             color: var(--deep-navy);
             min-width: 200px;
         }
-
-        /* Relevance badges */
-        .relevance-badge {
-            padding: 4px 8px;
-            border-radius: 12px;
-            font-size: 0.75rem;
-            font-weight: 600;
-        }
-        .relevance-high { background: #dcfce7; color: #166534; }
-        .relevance-medium { background: #fef9c3; color: #854d0e; }
-        .relevance-low { background: #fee2e2; color: #991b1b; }
 
         /* Pagination number buttons */
         .pagination-custom {
@@ -339,7 +339,6 @@
                 <div class="filter-group">
                     <label for="sortFilter" class="filter-label">Sort:</label>
                     <select id="sortFilter" class="sort-select">
-                        <option value="relevance">Relevance</option>
                         <option value="date">Newest First</option>
                         <option value="date_oldest">Oldest First</option>
                     </select>
@@ -409,18 +408,15 @@
                 articles = articles.map(a => {
                     const sourceName = (a.source && a.source.name) ? a.source.name : (typeof a.source === 'string' ? a.source : 'Unknown');
                     const keyword = a.keyword || '';
-                    const relevanceScore = a.relevance_score || 0;
                     
                     return {
                         title: a.title || a.headline || '',
                         url: a.url || '#',
                         date: a.date || a.publishedAt ? (a.date ? a.date : tryFormatDate(a.publishedAt)) : '',
                         description: a.description || a.summary || '',
-                        image: a.image || a.urlToImage || '',
+                        image: a.image || a.urlToImage || '', // Handle both field names
                         source: sourceName,
-                        keyword: keyword,
-                        relevance_score: relevanceScore,
-                        api_source: a.api_source || 'newsapi'
+                        keyword: keyword
                     };
                 });
 
@@ -528,8 +524,6 @@
             // Sort articles
             filtered.sort((a, b) => {
                 switch(sortBy) {
-                    case 'relevance':
-                        return (b.relevance_score || 0) - (a.relevance_score || 0);
                     case 'date':
                         const dateA = parseDDMMYYYY(a.date);
                         const dateB = parseDDMMYYYY(b.date);
@@ -576,13 +570,20 @@
 
                 const keywordBadge = article.keyword ? `<span class="keyword-badge">${escapeHtml(article.keyword)}</span>` : '';
                 
-                // Relevance badge
-                const relevanceClass = article.relevance_score >= 5 ? 'relevance-high' : 
-                                     article.relevance_score >= 3 ? 'relevance-medium' : 'relevance-low';
-                const relevanceBadge = article.relevance_score ? 
-                    `<span class="relevance-badge ${relevanceClass}">Rel: ${article.relevance_score}</span>` : '';
+                // Image handling - show placeholder if no image
+                let imageHtml = '';
+                if (article.image) {
+                    imageHtml = `<img src="${escapeHtmlAttr(article.image)}" alt="${escapeHtmlAttr(article.title)}" class="article-image" onerror="this.parentNode.replaceChild(createImagePlaceholder(), this)">`;
+                } else {
+                    imageHtml = createImagePlaceholder();
+                }
 
-                const imageHtml = article.image ? `<img src="${escapeHtmlAttr(article.image)}" alt="${escapeHtmlAttr(article.title)}" class="article-image" onerror="this.style.display='none'">` : '';
+                function createImagePlaceholder() {
+                    const placeholder = document.createElement('div');
+                    placeholder.className = 'image-placeholder';
+                    placeholder.innerHTML = '<div><i class="fas fa-newspaper fa-2x mb-2"></i><br>No Image</div>';
+                    return placeholder;
+                }
 
                 const cardHtml = `
                     <div class="news-card card">
@@ -602,10 +603,7 @@
                             </div>
 
                             <div class="card-footer">
-                                <div style="display: flex; gap: 8px; align-items: center;">
-                                    ${keywordBadge}
-                                    ${relevanceBadge}
-                                </div>
+                                <div>${keywordBadge}</div>
                                 <a class="btn-read" href="${escapeHtmlAttr(trackedUrl)}" target="_blank" rel="noopener noreferrer">
                                     Read Article <i class="fas fa-arrow-right" style="margin-left:6px;font-size:0.85rem;"></i>
                                 </a>
