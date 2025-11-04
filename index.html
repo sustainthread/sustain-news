@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Sustainability News Hub</title>
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+
+    <style>
+        /* --- Ocean & Coastal Hues palette --- */
+        :root{
+          --off-white: #EDE8E5;
+          --deep-navy: #003249;
+          --soft-teal: #79C0BC;
+          --medium-blue: #428CA9;
+          --muted-text: #334b52;
+        }
+
+        body {
+            background-color: var(--off-white);
+            color: var(--deep-navy);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+            -webkit-font-smoothing:antialiased;
+            -moz-osx-font-smoothing:grayscale;
+        }
+
+        .hero-section {
+            background: var(--deep-navy);
+            color: var(--off-white);
+            padding: 2.5rem 0;
+            text-align: center;
+        }
+
+        .hero-section h1 { margin: 0; font-size: 1.9rem; font-weight:600; }
+        .hero-section p.lead { color: rgba(237,232,229,0.95); margin-top:.4rem; }
+
+        .container-main { max-width: 1200px; margin: 1.75rem auto; padding: 0 1rem; }
+
+        /* Card layout */
+        .news-card {
+            border: 1px solid rgba(121,192,188,0.18);
+            border-radius: 12px;
+            background: #fff;
+            transition: transform .18s ease, box-shadow .18s ease;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+        .news-card:hover {
+            transform: translateY(-6px);
+            box-shadow: 0 10px 24px rgba(0,0,0,0.08);
+        }
+
+        /* Header area inside card: source left, date right */
+        .card-top {
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+            padding: 12px 14px;
+            background: linear-gradient(0deg, rgba(121,192,188,0.03), rgba(121,192,188,0.02));
+            border-bottom: 1px solid rgba(121,192,188,0.08);
+        }
+        .source-left {
+            display:flex;
+            align-items:center;
+            gap:10px;
+        }
+        .source-logo {
+            width:26px;
+            height:26px;
+            object-fit:cover;
+            border-radius:6px;
+            background:#f2f2f2;
+            flex-shrink:0;
+        }
+        .source-name {
+            font-weight:600;
+            color: var(--deep-navy);
+            font-size:0.92rem;
+        }
+        .article-date {
+            font-size:0.85rem;
+            color: #6b7f84;
+        }
+
+        .card-body {
+            padding: 16px;
+            display:flex;
+            flex-direction:column;
+            gap:10px;
+            flex:1 1 auto;
+        }
+
+        .card-title {
+            margin:0;
+            font-size:1.05rem;
+            color: var(--deep-navy);
+            line-height:1.35;
+            font-weight:600;
+        }
+
+        .card-desc {
+            margin:0;
+            color: var(--muted-text);
+            font-size:0.93rem;
+            line-height:1.45;
+            flex:1 1 auto;
+        }
+
+        .card-footer {
+            display:flex;
+            justify-content:space-between;
+            align-items:center;
+            padding: 12px 14px 18px 14px;
+            gap:10px;
+        }
+
+        .keyword-badge {
+            background: #e7f6f5;
+            color: var(--deep-navy);
+            border-radius: 10px;
+            padding:6px 10px;
+            font-size:0.82rem;
+            font-weight:600;
+        }
+
+        /* Read button in soft teal with medium blue hover */
+        .btn-read {
+            background: var(--soft-teal);
+            color: var(--deep-navy);
+            border: none;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-weight:600;
+            text-decoration:none;
+            display:inline-flex;
+            align-items:center;
+            gap:8px;
+            transition: background .15s ease, color .15s ease;
+        }
+        .btn-read:hover {
+            background: var(--medium-blue);
+            color: #fff;
+        }
+
+        /* Responsive grid */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 1.25rem;
+        }
+        @media (max-width: 992px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 576px) { .grid { grid-template-columns: 1fr; } }
+
+        /* Loading / error */
+        #loading { text-align:center; padding:2.2rem 0; color:#6b7f84; }
+        #errorMessage { margin-top:1rem; }
+
+        /* Footer stays as before but with color match */
+        .footer {
+            background: var(--deep-navy);
+            color: var(--off-white);
+            padding: 1.75rem 0;
+            margin-top: 2.5rem;
+        }
+
+        /* ---------- New: image sizing + controls (non-invasive) ---------- */
+        .article-image {
+            width: 100%;
+            max-height: 180px;
+            object-fit: cover;
+            display: block;
+            border-bottom: 1px solid rgba(0,0,0,0.04);
+        }
+        @media (max-width: 576px) {
+            .article-image { max-height: 200px; }
+        }
+
+        /* Enhanced Filter & pagination controls */
+        .controls {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            gap: 12px;
+            margin: 1rem 0;
+            flex-wrap: wrap;
+            background: white;
+            padding: 1rem;
+            border-radius: 12px;
+            border: 1px solid rgba(121,192,188,0.18);
+        }
+        .controls .left {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            flex-wrap: wrap;
+        }
+        .controls .right {
+            display: flex;
+            gap: 8px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+
+        /* Enhanced filter elements */
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .filter-label {
+            margin: 0;
+            font-weight: 600;
+            color: var(--muted-text);
+            font-size: 0.9rem;
+        }
+        .filter-select {
+            border: 1px solid rgba(121,192,188,0.3);
+            border-radius: 6px;
+            padding: 6px 10px;
+            background: white;
+            color: var(--deep-navy);
+        }
+
+        /* Search box */
+        .search-box {
+            border: 1px solid rgba(121,192,188,0.3);
+            border-radius: 6px;
+            padding: 6px 12px;
+            background: white;
+            color: var(--deep-navy);
+            min-width: 200px;
+        }
+
+        /* Relevance badges */
+        .relevance-badge {
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .relevance-high { background: #dcfce7; color: #166534; }
+        .relevance-medium { background: #fef9c3; color: #854d0e; }
+        .relevance-low { background: #fee2e2; color: #991b1b; }
+
+        /* Pagination number buttons */
+        .pagination-custom {
+            display:flex;
+            gap:6px;
+            align-items:center;
+        }
+        .page-btn {
+            border: 1px solid rgba(0,0,0,0.08);
+            padding: 6px 10px;
+            border-radius:6px;
+            background: transparent;
+            cursor:pointer;
+            font-weight:600;
+            transition: all 0.2s ease;
+        }
+        .page-btn:hover {
+            background: rgba(121,192,188,0.1);
+        }
+        .page-btn.active {
+            background: var(--soft-teal);
+            color: var(--deep-navy);
+        }
+
+        /* Sort dropdown */
+        .sort-select {
+            border: 1px solid rgba(121,192,188,0.3);
+            border-radius: 6px;
+            padding: 6px 10px;
+            background: white;
+            color: var(--deep-navy);
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero -->
+    <section class="hero-section">
+        <div class="container">
+            <h1>🌿 Sustainability News Hub</h1>
+            <p class="lead">Latest updates on ESG, circular economy, and sustainable business practices</p>
+            <p style="margin:0;"><small>curated by Vishal Londhe</small></p>
+        </div>
+    </section>
+
+    <!-- Main -->
+    <main class="container-main">
+        <div id="loading">
+            <div class="spinner-border" role="status" style="color:var(--soft-teal);">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+            <div style="margin-top:10px;color:#6b7f84;">Loading latest sustainability news...</div>
+        </div>
+
+        <!-- Enhanced Controls: search, filters, sort, pagination -->
+        <div class="controls" style="display:none;" id="controlsBar">
+            <div class="left">
+                <!-- Search -->
+                <div class="filter-group">
+                    <input type="text" id="searchInput" class="search-box" placeholder="Search articles...">
+                </div>
+                
+                <!-- Source Filter -->
+                <div class="filter-group">
+                    <label for="sourceFilter" class="filter-label">Source:</label>
+                    <select id="sourceFilter" class="filter-select">
+                        <option value="all">All Sources</option>
+                    </select>
+                </div>
+                
+                <!-- Keyword Filter -->
+                <div class="filter-group">
+                    <label for="keywordFilter" class="filter-label">Topic:</label>
+                    <select id="keywordFilter" class="filter-select">
+                        <option value="all">All Topics</option>
+                    </select>
+                </div>
+                
+                <!-- Date Filter -->
+                <div class="filter-group">
+                    <label for="dateFilter" class="filter-label">Date:</label>
+                    <select id="dateFilter" class="filter-select">
+                        <option value="all">All Dates</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="right">
+                <!-- Sort -->
+                <div class="filter-group">
+                    <label for="sortFilter" class="filter-label">Sort:</label>
+                    <select id="sortFilter" class="sort-select">
+                        <option value="relevance">Relevance</option>
+                        <option value="date">Newest First</option>
+                        <option value="date_oldest">Oldest First</option>
+                    </select>
+                </div>
+                
+                <!-- Results Info -->
+                <div id="resultsInfo" style="color:#6b7f84; font-weight:600; font-size:0.9rem;"></div>
+                
+                <!-- Pagination -->
+                <div class="pagination-custom" id="paginationNumbers"></div>
+            </div>
+        </div>
+
+        <div id="newsGrid" class="grid" style="display:none;"></div>
+
+        <div id="errorMessage" class="alert alert-danger text-center" style="display:none;">
+            <h5>Unable to Load News</h5>
+            <p id="errorText">There was a problem loading the news articles.</p>
+            <button onclick="loadNews()" class="btn btn-danger btn-sm">Try Again</button>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container">
+            <a href="https://www.linkedin.com/in/vishallondhe" target="_blank" class="btn btn-outline-light btn-sm">
+                <i class="fab fa-linkedin me-2"></i>
+                Follow me on LinkedIn
+            </a>
+            <p class="mt-3 mb-0">&copy; 2025 Sustainability News Hub</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        // Configuration
+        const PAGE_SIZE = 9; // 3 columns x 3 rows
+        let articles = [];
+        let filtered = [];
+        let currentPage = 1;
+        let totalPages = 1;
+
+        async function loadNews(){
+            try {
+                $('#loading').show();
+                $('#newsGrid').hide();
+                $('#errorMessage').hide();
+                $('#controlsBar').hide();
+
+                // cache-bust
+                const resp = await fetch('./news.json?_=' + new Date().getTime());
+                if (!resp.ok) throw new Error('Failed to load news file');
+
+                const data = await resp.json();
+
+                // Handle both array and object formats
+                if (Array.isArray(data)) {
+                    articles = data;
+                } else if (data.articles && Array.isArray(data.articles)) {
+                    articles = data.articles;
+                } else {
+                    throw new Error('Unexpected data format in news.json');
+                }
+
+                // Normalize each article shape to expected fields
+                articles = articles.map(a => {
+                    const sourceName = (a.source && a.source.name) ? a.source.name : (typeof a.source === 'string' ? a.source : 'Unknown');
+                    const keyword = a.keyword || '';
+                    const relevanceScore = a.relevance_score || 0;
+                    
+                    return {
+                        title: a.title || a.headline || '',
+                        url: a.url || '#',
+                        date: a.date || a.publishedAt ? (a.date ? a.date : tryFormatDate(a.publishedAt)) : '',
+                        description: a.description || a.summary || '',
+                        image: a.image || a.urlToImage || '',
+                        source: sourceName,
+                        keyword: keyword,
+                        relevance_score: relevanceScore,
+                        api_source: a.api_source || 'newsapi'
+                    };
+                });
+
+                // Remove any falsy duplicates by URL and keep newest occurrences first
+                const seen = new Set();
+                articles = articles.filter(it => {
+                    if (!it.url) return false;
+                    if (seen.has(it.url)) return false;
+                    seen.add(it.url);
+                    return true;
+                });
+
+                // Build filters and show controls
+                populateFilters();
+                applyFilter(); // this will render and show UI
+            } catch (err) {
+                $('#loading').hide();
+                $('#errorText').text(err.message);
+                $('#errorMessage').show();
+                console.error(err);
+            }
+        }
+
+        function tryFormatDate(d) {
+            if (!d) return '';
+            // If ISO format -> convert to dd-mm-yyyy
+            try {
+                const dt = new Date(d);
+                if (!isNaN(dt)) {
+                    const dd = String(dt.getUTCDate()).padStart(2,'0');
+                    const mm = String(dt.getUTCMonth()+1).padStart(2,'0');
+                    const yy = dt.getUTCFullYear();
+                    return `${dd}-${mm}-${yy}`;
+                }
+            } catch(e) {}
+            return String(d).slice(0,10);
+        }
+
+        function parseDDMMYYYY(s) {
+            if (!s) return null;
+            const parts = s.split('-');
+            if (parts.length !== 3) return null;
+            const d = Number(parts[0]), m = Number(parts[1]), y = Number(parts[2]);
+            if (!d || !m || !y) return null;
+            return new Date(y, m-1, d).getTime();
+        }
+
+        function populateFilters(){
+            // Date Filter
+            const dateSel = $('#dateFilter');
+            dateSel.empty();
+            dateSel.append(`<option value="all">All Dates</option>`);
+            const dates = [...new Set(articles.map(a => a.date).filter(Boolean))];
+            dates.sort((a,b) => {
+                const pa = parseDDMMYYYY(a), pb = parseDDMMYYYY(b);
+                return (pb || 0) - (pa || 0);
+            });
+            dates.forEach(d => dateSel.append(`<option value="${escapeHtmlAttr(d)}">${escapeHtml(d)}</option>`));
+
+            // Source Filter
+            const sourceSel = $('#sourceFilter');
+            sourceSel.empty();
+            sourceSel.append(`<option value="all">All Sources</option>`);
+            const sources = [...new Set(articles.map(a => a.source).filter(Boolean))];
+            sources.sort();
+            sources.forEach(s => sourceSel.append(`<option value="${escapeHtmlAttr(s)}">${escapeHtml(s)}</option>`));
+
+            // Keyword Filter
+            const keywordSel = $('#keywordFilter');
+            keywordSel.empty();
+            keywordSel.append(`<option value="all">All Topics</option>`);
+            const keywords = [...new Set(articles.map(a => a.keyword).filter(Boolean))];
+            keywords.sort();
+            keywords.forEach(k => keywordSel.append(`<option value="${escapeHtmlAttr(k)}">${escapeHtml(k)}</option>`));
+
+            $('#controlsBar').show();
+        }
+
+        function applyFilter(){
+            const searchTerm = $('#searchInput').val().toLowerCase();
+            const sourceFilter = $('#sourceFilter').val();
+            const keywordFilter = $('#keywordFilter').val();
+            const dateFilter = $('#dateFilter').val();
+            const sortBy = $('#sortFilter').val();
+
+            filtered = articles.filter(article => {
+                // Search filter
+                const matchesSearch = !searchTerm || 
+                    (article.title && article.title.toLowerCase().includes(searchTerm)) ||
+                    (article.description && article.description.toLowerCase().includes(searchTerm)) ||
+                    (article.keyword && article.keyword.toLowerCase().includes(searchTerm));
+
+                // Source filter
+                const matchesSource = !sourceFilter || sourceFilter === 'all' || article.source === sourceFilter;
+
+                // Keyword filter
+                const matchesKeyword = !keywordFilter || keywordFilter === 'all' || article.keyword === keywordFilter;
+
+                // Date filter
+                const matchesDate = !dateFilter || dateFilter === 'all' || article.date === dateFilter;
+
+                return matchesSearch && matchesSource && matchesKeyword && matchesDate;
+            });
+
+            // Sort articles
+            filtered.sort((a, b) => {
+                switch(sortBy) {
+                    case 'relevance':
+                        return (b.relevance_score || 0) - (a.relevance_score || 0);
+                    case 'date':
+                        const dateA = parseDDMMYYYY(a.date);
+                        const dateB = parseDDMMYYYY(b.date);
+                        return (dateB || 0) - (dateA || 0);
+                    case 'date_oldest':
+                        const dateAOld = parseDDMMYYYY(a.date);
+                        const dateBOld = parseDDMMYYYY(b.date);
+                        return (dateAOld || 0) - (dateBOld || 0);
+                    default:
+                        return 0;
+                }
+            });
+
+            currentPage = 1;
+            totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+            renderPage();
+            updatePaginationNumbers();
+            $('#loading').hide();
+            $('#newsGrid').show();
+            $('#resultsInfo').text(`${filtered.length} article${filtered.length===1?'':'s'}`);
+        }
+
+        function renderPage(){
+            const grid = $('#newsGrid');
+            grid.empty();
+
+            if (!filtered || filtered.length === 0) {
+                grid.append(`<div class="col-12"><div class="alert alert-info">No articles found matching your filters.</div></div>`);
+                return;
+            }
+
+            const start = (currentPage - 1) * PAGE_SIZE;
+            const pageItems = filtered.slice(start, start + PAGE_SIZE);
+
+            pageItems.forEach(article => {
+                const sourceDomain = (article.url && article.url !== '#') ? (new URL(article.url).hostname) : '';
+                const sourceLogo = sourceDomain ? `https://www.google.com/s2/favicons?domain=${sourceDomain}&sz=64` : '';
+                
+                // tracked URL (retain any existing utm)
+                let trackedUrl = article.url || '#';
+                if (article.url && !article.url.includes('utm_source=')) {
+                    trackedUrl = `${article.url}${article.url.includes('?') ? '&' : '?'}utm_source=londhevishalps.github.io`;
+                }
+
+                const keywordBadge = article.keyword ? `<span class="keyword-badge">${escapeHtml(article.keyword)}</span>` : '';
+                
+                // Relevance badge
+                const relevanceClass = article.relevance_score >= 5 ? 'relevance-high' : 
+                                     article.relevance_score >= 3 ? 'relevance-medium' : 'relevance-low';
+                const relevanceBadge = article.relevance_score ? 
+                    `<span class="relevance-badge ${relevanceClass}">Rel: ${article.relevance_score}</span>` : '';
+
+                const imageHtml = article.image ? `<img src="${escapeHtmlAttr(article.image)}" alt="${escapeHtmlAttr(article.title)}" class="article-image" onerror="this.style.display='none'">` : '';
+
+                const cardHtml = `
+                    <div class="news-card card">
+                        ${imageHtml}
+                        <div class="card-top">
+                            <div class="source-left">
+                                <img src="${sourceLogo}" alt="${escapeHtmlAttr(article.source)}" class="source-logo" onerror="this.style.display='none'">
+                                <div class="source-name">${escapeHtml(article.source)}</div>
+                            </div>
+                            <div class="article-date">${escapeHtml(article.date || '')}</div>
+                        </div>
+
+                        <div class="card-body">
+                            <div>
+                                <h3 class="card-title">${escapeHtml(article.title || 'No title')}</h3>
+                                <p class="card-desc">${escapeHtml(article.description || 'No description available.')}</p>
+                            </div>
+
+                            <div class="card-footer">
+                                <div style="display: flex; gap: 8px; align-items: center;">
+                                    ${keywordBadge}
+                                    ${relevanceBadge}
+                                </div>
+                                <a class="btn-read" href="${escapeHtmlAttr(trackedUrl)}" target="_blank" rel="noopener noreferrer">
+                                    Read Article <i class="fas fa-arrow-right" style="margin-left:6px;font-size:0.85rem;"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                grid.append(cardHtml);
+            });
+        }
+
+        function updatePaginationNumbers(){
+            const container = $('#paginationNumbers');
+            container.empty();
+
+            // show page buttons with ellipsis when many pages
+            const maxButtons = 7;
+            const pages = [];
+            const start = Math.max(1, currentPage - Math.floor(maxButtons/2));
+            let end = start + maxButtons - 1;
+            if (end > totalPages) {
+                end = totalPages;
+            }
+            // adjust start if end is trimmed
+            const adjStart = Math.max(1, end - maxButtons + 1);
+
+            if (adjStart > 1) {
+                // first page
+                pages.push(1);
+                if (adjStart > 2) pages.push('...');
+            }
+            for (let p = adjStart; p <= end; p++) pages.push(p);
+            if (end < totalPages) {
+                if (end < totalPages - 1) pages.push('...');
+                pages.push(totalPages);
+            }
+
+            // Prev
+            const prevBtn = $(`<button class="page-btn" ${currentPage===1?'disabled':''}>Prev</button>`);
+            prevBtn.on('click', () => { if (currentPage>1) { currentPage--; renderPage(); updatePaginationNumbers(); }});
+            container.append(prevBtn);
+
+            pages.forEach(p => {
+                if (p === '...') {
+                    container.append(`<div style="padding:6px 8px;color:#6b7f84;">...</div>`);
+                } else {
+                    const btn = $(`<button class="page-btn ${p===currentPage?'active':''}">${p}</button>`);
+                    btn.on('click', () => { currentPage = p; renderPage(); updatePaginationNumbers(); });
+                    container.append(btn);
+                }
+            });
+
+            // Next
+            const nextBtn = $(`<button class="page-btn" ${currentPage===totalPages?'disabled':''}>Next</button>`);
+            nextBtn.on('click', () => { if (currentPage<totalPages) { currentPage++; renderPage(); updatePaginationNumbers(); }});
+            container.append(nextBtn);
+        }
+
+        // small helpers to reduce XSS risk when injecting strings
+        function escapeHtml(str){
+            if (str === null || str === undefined) return '';
+            return String(str)
+                .replaceAll('&','&amp;')
+                .replaceAll('<','&lt;')
+                .replaceAll('>','&gt;')
+                .replaceAll('"','&quot;')
+                .replaceAll("'",'&#39;');
+        }
+        function escapeHtmlAttr(s){ return escapeHtml(s).replaceAll('"','&quot;'); }
+
+        // wire events
+        $(document).on('input', '#searchInput', function(){ applyFilter(); });
+        $(document).on('change', '#sourceFilter', function(){ applyFilter(); });
+        $(document).on('change', '#keywordFilter', function(){ applyFilter(); });
+        $(document).on('change', '#dateFilter', function(){ applyFilter(); });
+        $(document).on('change', '#sortFilter', function(){ applyFilter(); });
+
+        // initial load
+        $(document).ready(function(){ loadNews(); });
+    </script>
+</body>
+</html>
