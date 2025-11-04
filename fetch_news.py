@@ -84,7 +84,9 @@ class NewsAggregator:
                             'source': article.get('source'),  # This is a string from MediaStack
                             'content': article.get('description'),
                             'keyword': keyword,
-                            'source_api': 'mediastack'
+                            'source_api': 'mediastack',
+                            'urlToImage': article.get('image'),  # MediaStack uses 'image'
+                            'image': article.get('image')  # Also include as 'image' for your frontend
                         }
                         self.articles.append(formatted_article)
                     print(f"✅ Found {len(data.get('data', []))} articles for '{keyword}'")
@@ -139,6 +141,14 @@ class NewsAggregator:
         else:
             return 'Unknown Source'
     
+    def get_image_url(self, article):
+        """Safely get image URL from either API format"""
+        # Try multiple possible image fields
+        return (article.get('urlToImage') or 
+                article.get('image') or 
+                article.get('urlToImage') or 
+                '')
+    
     def process_articles(self):
         """Process and clean articles"""
         print("🔧 Processing articles...")
@@ -151,11 +161,13 @@ class NewsAggregator:
                 'description': article.get('description', ''),
                 'url': article.get('url', ''),
                 'publishedAt': article.get('publishedAt', ''),
-                'source': self.get_source_name(article),  # Use the safe method
+                'source': self.get_source_name(article),
                 'content': article.get('content', ''),
                 'keyword': article.get('keyword', ''),
                 'relevance_score': self.calculate_relevance_score(article),
-                'api_source': article.get('source_api', 'newsapi')
+                'api_source': article.get('source_api', 'newsapi'),
+                'image': self.get_image_url(article),  # Include image URL
+                'urlToImage': self.get_image_url(article)  # Also include for compatibility
             }
             processed_articles.append(processed_article)
         
