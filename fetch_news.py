@@ -1,100 +1,144 @@
-import requests
+import feedparser
 import json
 import os
 from datetime import datetime, timedelta
 import hashlib
+import re
+from urllib.parse import urlparse
 
-# Configuration
-CONFIG = {
-    'newsapi_key': os.getenv('NEWS_API_KEY'),
-    'mediastack_key': os.getenv('MEDIASTACK_API_KEY'),
-    'keywords': [
-        "sustainability", "climate", "carbon", "greenhouse", "emissions", "renewable",
-        "wastewater", "pollution", "circular", "biodiversity", "chemical management",
-        "supply chain", "ESG", "textile", "fashion", "clean production", "ZDHC",
-        "net zero", "carbon neutral", "sustainable fashion", "ethical fashion",
-        "organic cotton", "recycled polyester", "fast fashion", "slow fashion"
-    ],
-    'domains': [
-        "bbc.com", "reuters.com", "theguardian.com", "forbes.com",
-        "businessoffashion.com", "ecotextile.com", "sourcingjournal.com",
-        "fashionunited.com", "bloomberg.com", "greenbiz.com", "voguebusiness.com"
-    ]
-}
+# Configuration - RSS Feeds for sustainability/fashion topics
+RSS_FEEDS = [
+    # Environment/Climate feeds
+    'https://feeds.bbci.co.uk/news/science_and_environment/rss.xml',
+    'https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml',
+    'https://www.theguardian.com/us/environment/rss',
+    'https://feeds.npr.org/1005/rss.xml',  # NPR Environment
+    'https://www.sciencedaily.com/rss/earth_climate/environment.xml',
+    
+    # Fashion/Sustainability specific
+    'https://www.businessoffashion.com/rss',
+    'https://www.ecotextile.com/rss',
+    'https://sourcingjournal.com/feed/',
+    'https://fashionunited.com/feed/',
+    'https://www.voguebusiness.com/feed/rss',
+    
+    # General sustainability
+    'https://www.greenbiz.com/rss',
+    'https://feeds.feedburner.com/SustainableBrands',
+    'https://www.triplepundit.com/feed/',
+]
+
+# Keywords for relevance scoring
+KEYWORDS = [
+    "sustainability", "climate", "carbon", "greenhouse", "emissions", "renewable",
+    "wastewater", "pollution", "circular", "biodiversity", "chemical management",
+    "supply chain", "ESG", "textile", "fashion", "clean production", "ZDHC",
+    "net zero", "carbon neutral", "sustainable fashion", "ethical fashion",
+    "organic cotton", "recycled polyester", "fast fashion", "slow fashion"
+]
 
 class NewsAggregator:
     def __init__(self):
         self.articles = []
         
-    def fetch_newsapi(self):
-        """Fetch news from NewsAPI"""
-        print("📡 Fetching from NewsAPI...")
+    def fetch_rss_feeds(self):
+        """Fetch news from RSS feeds"""
+        print("📡 Fetching from RSS feeds...")
         
-        for keyword in CONFIG['keywords']:
+        for feed_url in RSS_FEEDS:
             try:
-                url = "https://newsapi.org/v2/everything"
-                params = {
-                    'q': keyword,
-                    'domains': ','.join(CONFIG['domains']),
-                    'from': (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d'),
-                    'sortBy': 'relevancy',
-                    'pageSize': 50,
-                    'apiKey': CONFIG['newsapi_key']
-                }
+                print(f"Fetching from: {feed_url}")
+                feed = feedparser.parse(feed_url)
                 
-                response = requests.get(url, params=params)
-                if response.status_code == 200:
-                    data = response.json()
-                    for article in data.get('articles', []):
-                        article['source'] = 'newsapi'
-                        article['keyword'] = keyword
-                        self.articles.append(article)
-                    print(f"✅ Found {len(data.get('articles', []))} articles for '{keyword}'")
-                else:
-                    print(f"❌ NewsAPI error for '{keyword}': {response.status_code}")
+                for entry in feed.entries[:15]:  # Get first 15 articles from each feed
+                    # Skip if article is too old (optional)
+                    published_time = self.get_published_time(entry)
+                    if published_time and published_time < (datetime.now() - timedelta(days=14)):
+                        continue
                     
+                    article = {
+                        'title': entry.title,
+                        'description': self.get_clean_description(entry),
+                        'url': entry.link,
+                        'publishedAt': published_time.isoformat() if published_time else datetime.now().isoformat(),
+                        'source': self.get_source_name(feed_url, entry),
+                        'content': self.get_clean_description(entry),
+                        'relevance_score': self.calculate_relevance_score(entry),
+                        'api_source': 'rss',
+                        # No image fields to comply with legal recommendations
+                    }
+                    self.articles.append(article)
+                    
+                print(f"✅ Found {len(feed.entries)} articles from {self.get_domain_name(feed_url)}")
+                
             except Exception as e:
-                print(f"❌ Error fetching from NewsAPI for '{keyword}': {e}")
+                print(f"❌ Error fetching from {feed_url}: {e}")
+                continue
     
-    def fetch_mediastack(self):
-        """Fetch news from MediaStack"""
-        print("📡 Fetching from MediaStack...")
+    def get_published_time(self, entry):
+        """Extract publication time from RSS entry"""
+        if hasattr(entry, 'published_parsed') and entry.published_parsed:
+            return datetime(*entry.published_parsed[:6])
+        elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+            return datetime(*entry.updated_parsed[:6])
+        return None
+    
+    def get_source_name(self, feed_url, entry):
+        """Extract source name from feed or entry"""
+        if hasattr(entry, 'source') and entry.source:
+            return entry.source
+        elif hasattr(entry, 'author') and entry.author:
+            return entry.author
+        else:
+            # Extract from domain name
+            return self.get_domain_name(feed_url)
+    
+    def get_domain_name(self, url):
+        """Extract clean domain name from URL"""
+        domain = urlparse(url).netloc
+        return domain.replace('www.', '').split('.')[0].title()
+    
+    def get_clean_description(self, entry):
+        """Extract and clean description - keep it very short for legal safety"""
+        description = ""
         
-        for keyword in CONFIG['keywords']:
-            try:
-                url = "http://api.mediastack.com/v1/news"
-                params = {
-                    'access_key': CONFIG['mediastack_key'],
-                    'keywords': keyword,
-                    'languages': 'en',
-                    'limit': 50,
-                    'sort': 'published_desc'
-                }
-                
-                response = requests.get(url, params=params)
-                if response.status_code == 200:
-                    data = response.json()
-                    for article in data.get('data', []):
-                        # Convert MediaStack format to match NewsAPI
-                        formatted_article = {
-                            'title': article.get('title'),
-                            'description': article.get('description'),
-                            'url': article.get('url'),
-                            'publishedAt': article.get('published_at'),
-                            'source': article.get('source'),  # This is a string from MediaStack
-                            'content': article.get('description'),
-                            'keyword': keyword,
-                            'source_api': 'mediastack',
-                            'urlToImage': article.get('image'),  # MediaStack uses 'image'
-                            'image': article.get('image')  # Also include as 'image' for your frontend
-                        }
-                        self.articles.append(formatted_article)
-                    print(f"✅ Found {len(data.get('data', []))} articles for '{keyword}'")
-                else:
-                    print(f"❌ MediaStack error for '{keyword}': {response.status_code}")
-                    
-            except Exception as e:
-                print(f"❌ Error fetching from MediaStack for '{keyword}': {e}")
+        if hasattr(entry, 'description'):
+            description = entry.description
+        elif hasattr(entry, 'summary'):
+            description = entry.summary
+        
+        # Remove HTML tags
+        clean_desc = re.sub('<[^<]+?>', '', description)
+        
+        # Limit to first sentence or 120 characters max (legally safe)
+        if '.' in clean_desc:
+            clean_desc = clean_desc.split('.')[0] + '.'
+        else:
+            clean_desc = clean_desc[:120]
+        
+        return clean_desc.strip()
+    
+    def calculate_relevance_score(self, entry):
+        """Calculate relevance score based on keywords"""
+        content = f"{entry.title} {self.get_clean_description(entry)}".lower()
+        score = 0
+        
+        for keyword in KEYWORDS:
+            if keyword.lower() in content:
+                score += 2  # Higher weight for keyword matches
+        
+        # Bonus for recent articles
+        published_time = self.get_published_time(entry)
+        if published_time:
+            days_old = (datetime.now() - published_time).days
+            if days_old <= 1:
+                score += 3
+            elif days_old <= 3:
+                score += 2
+            elif days_old <= 7:
+                score += 1
+        
+        return score
     
     def deduplicate_articles(self):
         """Remove duplicate articles based on URL and title"""
@@ -120,89 +164,58 @@ class NewsAggregator:
         print(f"✅ Removed {len(self.articles) - len(unique_articles)} duplicates")
         self.articles = unique_articles
     
-    def calculate_relevance_score(self, article):
-        """Calculate relevance score based on keywords"""
-        content = f"{article.get('title', '')} {article.get('description', '')} {article.get('content', '')}".lower()
-        score = 0
-        
-        for keyword in CONFIG['keywords']:
-            if keyword.lower() in content:
-                score += 1
-        
-        return score
-    
-    def get_source_name(self, article):
-        """Safely get source name whether it's a string or object"""
-        source = article.get('source')
-        if isinstance(source, dict):
-            return source.get('name', 'Unknown Source')
-        elif isinstance(source, str):
-            return source
-        else:
-            return 'Unknown Source'
-    
-    def get_image_url(self, article):
-        """Safely get image URL from either API format"""
-        # Try multiple possible image fields
-        return (article.get('urlToImage') or 
-                article.get('image') or 
-                article.get('urlToImage') or 
-                '')
-    
     def process_articles(self):
         """Process and clean articles"""
         print("🔧 Processing articles...")
         
-        processed_articles = []
-        for article in self.articles:
-            # Ensure all required fields exist
-            processed_article = {
-                'title': article.get('title', 'No Title'),
-                'description': article.get('description', ''),
-                'url': article.get('url', ''),
-                'publishedAt': article.get('publishedAt', ''),
-                'source': self.get_source_name(article),
-                'content': article.get('content', ''),
-                'keyword': article.get('keyword', ''),
-                'relevance_score': self.calculate_relevance_score(article),
-                'api_source': article.get('source_api', 'newsapi'),
-                'image': self.get_image_url(article),  # Include image URL
-                'urlToImage': self.get_image_url(article)  # Also include for compatibility
-            }
-            processed_articles.append(processed_article)
-        
         # Sort by relevance score and date
-        processed_articles.sort(key=lambda x: (x['relevance_score'], x['publishedAt']), reverse=True)
-        self.articles = processed_articles
+        self.articles.sort(key=lambda x: (x['relevance_score'], x['publishedAt']), reverse=True)
+        
+        print(f"📊 Total unique articles: {len(self.articles)}")
+        
+        # Show top articles by relevance
+        top_articles = [a for a in self.articles if a['relevance_score'] > 0][:5]
+        if top_articles:
+            print("🏆 Top relevant articles:")
+            for article in top_articles:
+                print(f"   - {article['title']} (Score: {article['relevance_score']})")
     
     def save_articles(self):
         """Save articles to JSON files"""
         print("💾 Saving articles...")
         
-        # Save raw data
-        with open('news_raw.json', 'w', encoding='utf-8') as f:
-            json.dump({
-                'last_updated': datetime.now().isoformat(),
-                'total_articles': len(self.articles),
-                'articles': self.articles
-            }, f, indent=2, ensure_ascii=False)
+        # Filter to only relevant articles (score > 0) for the main feed
+        relevant_articles = [article for article in self.articles if article['relevance_score'] > 0]
         
-        # Save clean data for frontend
+        # Save clean data for frontend (no images)
+        frontend_data = {
+            'status': 'ok',
+            'last_updated': datetime.now().isoformat(),
+            'total_articles': len(relevant_articles),
+            'articles': [
+                {
+                    'title': article['title'],
+                    'description': article['description'],
+                    'url': article['url'],
+                    'publishedAt': article['publishedAt'],
+                    'source': {'name': article['source']},  # Format for frontend compatibility
+                    'content': article['content'],
+                    # No image fields included
+                }
+                for article in relevant_articles[:100]  # Limit for frontend
+            ]
+        }
+        
         with open('news.json', 'w', encoding='utf-8') as f:
-            json.dump({
-                'last_updated': datetime.now().isoformat(),
-                'total_articles': len(self.articles),
-                'articles': self.articles[:100]  # Limit for frontend
-            }, f, indent=2, ensure_ascii=False)
+            json.dump(frontend_data, f, indent=2, ensure_ascii=False)
         
-        print(f"✅ Saved {len(self.articles)} articles to news.json")
+        print(f"✅ Saved {len(relevant_articles)} relevant articles to news.json")
 
 def main():
     aggregator = NewsAggregator()
     
-    # Fetch from both APIs
-    aggregator.fetch_newsapi()
-    aggregator.fetch_mediastack()
+    # Fetch from RSS feeds only
+    aggregator.fetch_rss_feeds()
     
     print(f"📊 Total articles fetched: {len(aggregator.articles)}")
     
@@ -213,7 +226,7 @@ def main():
     # Save results
     aggregator.save_articles()
     
-    print("🎉 News aggregation completed successfully!")
+    print("🎉 RSS news aggregation completed successfully!")
 
 if __name__ == "__main__":
     main()
