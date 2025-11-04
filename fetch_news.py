@@ -37,6 +37,23 @@ KEYWORDS = [
     "organic cotton", "recycled polyester", "fast fashion", "slow fashion"
 ]
 
+# Map domains to proper source names
+SOURCE_NAME_MAP = {
+    'bbci.co.uk': 'BBC',
+    'nytimes.com': 'New York Times',
+    'theguardian.com': 'The Guardian',
+    'npr.org': 'NPR',
+    'sciencedaily.com': 'Science Daily',
+    'businessoffashion.com': 'Business of Fashion',
+    'ecotextile.com': 'Ecotextile',
+    'sourcingjournal.com': 'Sourcing Journal',
+    'fashionunited.com': 'Fashion United',
+    'voguebusiness.com': 'Vogue Business',
+    'greenbiz.com': 'GreenBiz',
+    'feedburner.com': 'Sustainable Brands',
+    'triplepundit.com': 'Triple Pundit'
+}
+
 class NewsAggregator:
     def __init__(self):
         self.articles = []
@@ -61,11 +78,10 @@ class NewsAggregator:
                         'description': self.get_clean_description(entry),
                         'url': entry.link,
                         'publishedAt': published_time.isoformat() if published_time else datetime.now().isoformat(),
-                        'source': self.get_source_name(feed_url, entry),
+                        'source': self.get_proper_source_name(feed_url, entry),
                         'content': self.get_clean_description(entry),
                         'relevance_score': self.calculate_relevance_score(entry),
                         'api_source': 'rss',
-                        # No image fields to comply with legal recommendations
                     }
                     self.articles.append(article)
                     
@@ -83,20 +99,22 @@ class NewsAggregator:
             return datetime(*entry.updated_parsed[:6])
         return None
     
-    def get_source_name(self, feed_url, entry):
-        """Extract source name from feed or entry"""
-        if hasattr(entry, 'source') and entry.source:
-            return entry.source
-        elif hasattr(entry, 'author') and entry.author:
-            return entry.author
-        else:
-            # Extract from domain name
-            return self.get_domain_name(feed_url)
+    def get_proper_source_name(self, feed_url, entry):
+        """Get proper source name from domain mapping, not author names"""
+        domain = self.get_domain_name(feed_url)
+        
+        # Use our mapping first
+        for key, name in SOURCE_NAME_MAP.items():
+            if key in domain:
+                return name
+        
+        # Fallback: clean up domain name
+        clean_name = domain.replace('www.', '').split('.')[0]
+        return clean_name.title()
     
     def get_domain_name(self, url):
-        """Extract clean domain name from URL"""
-        domain = urlparse(url).netloc
-        return domain.replace('www.', '').split('.')[0].title()
+        """Extract domain name from URL"""
+        return urlparse(url).netloc
     
     def get_clean_description(self, entry):
         """Extract and clean description - keep it very short for legal safety"""
@@ -200,7 +218,6 @@ class NewsAggregator:
                     'publishedAt': article['publishedAt'],
                     'source': {'name': article['source']},  # Format for frontend compatibility
                     'content': article['content'],
-                    # No image fields included
                 }
                 for article in relevant_articles[:100]  # Limit for frontend
             ]
