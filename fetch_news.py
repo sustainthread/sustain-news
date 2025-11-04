@@ -81,7 +81,7 @@ class NewsAggregator:
                             'description': article.get('description'),
                             'url': article.get('url'),
                             'publishedAt': article.get('published_at'),
-                            'source': {'name': article.get('source')},
+                            'source': article.get('source'),  # This is a string from MediaStack
                             'content': article.get('description'),
                             'keyword': keyword,
                             'source_api': 'mediastack'
@@ -129,6 +129,16 @@ class NewsAggregator:
         
         return score
     
+    def get_source_name(self, article):
+        """Safely get source name whether it's a string or object"""
+        source = article.get('source')
+        if isinstance(source, dict):
+            return source.get('name', 'Unknown Source')
+        elif isinstance(source, str):
+            return source
+        else:
+            return 'Unknown Source'
+    
     def process_articles(self):
         """Process and clean articles"""
         print("🔧 Processing articles...")
@@ -141,7 +151,7 @@ class NewsAggregator:
                 'description': article.get('description', ''),
                 'url': article.get('url', ''),
                 'publishedAt': article.get('publishedAt', ''),
-                'source': article.get('source', {}).get('name', 'Unknown Source'),
+                'source': self.get_source_name(article),  # Use the safe method
                 'content': article.get('content', ''),
                 'keyword': article.get('keyword', ''),
                 'relevance_score': self.calculate_relevance_score(article),
