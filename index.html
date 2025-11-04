@@ -570,20 +570,12 @@
 
                 const keywordBadge = article.keyword ? `<span class="keyword-badge">${escapeHtml(article.keyword)}</span>` : '';
                 
-                // Image handling - show placeholder if no image
+                // SIMPLE Image handling - only show image if available
                 let imageHtml = '';
-                if (article.image) {
-                    imageHtml = `<img src="${escapeHtmlAttr(article.image)}" alt="${escapeHtmlAttr(article.title)}" class="article-image" onerror="this.parentNode.replaceChild(createImagePlaceholder(), this)">`;
-                } else {
-                    imageHtml = createImagePlaceholder();
+                if (article.image && article.image.trim() !== '') {
+                    imageHtml = `<img src="${escapeHtmlAttr(article.image)}" alt="${escapeHtmlAttr(article.title)}" class="article-image" onerror="this.style.display='none'">`;
                 }
-
-                function createImagePlaceholder() {
-                    const placeholder = document.createElement('div');
-                    placeholder.className = 'image-placeholder';
-                    placeholder.innerHTML = '<div><i class="fas fa-newspaper fa-2x mb-2"></i><br>No Image</div>';
-                    return placeholder;
-                }
+                // If no image, don't show anything - card starts with source header
 
                 const cardHtml = `
                     <div class="news-card card">
