@@ -267,25 +267,38 @@
             text-decoration: underline;
         }
 
-        /* Simple subscribe button */
-        .btn-subscribe {
+        /* Newsletter form styling */
+        .newsletter-form {
+            background: rgba(255,255,255,0.1);
+            padding: 1.5rem;
+            border-radius: 12px;
+            margin: 1rem 0;
+        }
+        .newsletter-form .form-control {
+            background: rgba(255,255,255,0.9);
+            border: 1px solid rgba(255,255,255,0.3);
+            color: var(--deep-navy);
+        }
+        .newsletter-form .btn-subscribe {
             background: var(--soft-teal);
             color: var(--deep-navy);
             border: none;
             padding: 10px 20px;
             border-radius: 8px;
             font-weight: 600;
-            text-decoration: none;
-            display: inline-flex;
-            align-items: center;
-            gap: 8px;
             transition: all 0.15s ease;
-            margin: 10px 0;
         }
-        .btn-subscribe:hover {
+        .newsletter-form .btn-subscribe:hover {
             background: var(--medium-blue);
             color: #fff;
-            transform: translateY(-2px);
+        }
+        #newsletterSuccess {
+            display: none;
+            background: rgba(121,192,188,0.2);
+            border: 1px solid var(--soft-teal);
+            border-radius: 8px;
+            padding: 1rem;
+            margin-top: 1rem;
         }
     </style>
 </head>
@@ -364,17 +377,37 @@
     <!-- Footer with EU Compliance Links -->
     <footer class="footer text-center">
         <div class="container">
-            <!-- Subscribe Button -->
-            <div class="mb-4">
+            <!-- Newsletter Form -->
+            <div class="newsletter-form">
                 <h5 class="mb-3">📬 Stay Updated with Sustainability News</h5>
                 <p class="mb-3" style="opacity: 0.9;">Get curated news delivered to your inbox every week</p>
-                <button class="btn-subscribe" onclick="openNewsletterModal()">
-                    <i class="fas fa-envelope me-2"></i>
-                    Subscribe to Newsletter
-                </button>
+                
+                <form id="newsletterForm" class="row g-2 justify-content-center">
+                    <div class="col-md-4">
+                        <input type="text" class="form-control" id="firstName" placeholder="First Name" required>
+                    </div>
+                    <div class="col-md-4">
+                        <input type="email" class="form-control" id="email" placeholder="Your Email" required>
+                    </div>
+                    <div class="col-md-2">
+                        <button type="submit" class="btn btn-subscribe w-100">
+                            <i class="fas fa-envelope me-2"></i>
+                            Subscribe
+                        </button>
+                    </div>
+                </form>
+                
+                <div id="newsletterSuccess" class="alert alert-success">
+                    <i class="fas fa-check-circle me-2"></i>
+                    <strong>Thank you!</strong> Please check your email to confirm your subscription.
+                </div>
+                
+                <p class="small mt-3 mb-0" style="opacity: 0.7;">
+                    No spam. Unsubscribe at any time.
+                </p>
             </div>
 
-            <a href="https://www.linkedin.com/in/vishallondhe" target="_blank" class="btn btn-outline-light btn-sm">
+            <a href="https://www.linkedin.com/in/vishallondhe" target="_blank" class="btn btn-outline-light btn-sm mt-3">
                 <i class="fab fa-linkedin me-2"></i>
                 Follow me on LinkedIn
             </a>
@@ -392,9 +425,6 @@
             </div>
         </div>
     </footer>
-
-    <!-- ConvertKit Script -->
-    <script async data-uid="a90da59a81" src="https://f.convertkit.com/ckjs/ck.5.js"></script>
 
     <!-- Privacy Modal -->
     <div class="modal fade" id="privacyModal" tabindex="-1">
@@ -483,18 +513,52 @@
         let currentPage = 1;
         let totalPages = 1;
 
-        // ConvertKit modal function
-        function openNewsletterModal() {
-            // ConvertKit should automatically handle the modal when the script loads
-            // If it doesn't work, we'll trigger it manually
-            const convertKitForm = document.querySelector('[data-uid="a90da59a81"]');
-            if (convertKitForm) {
-                // ConvertKit forms with modal format should auto-show when triggered
-                console.log('ConvertKit form found, should show modal');
-            } else {
-                console.log('ConvertKit form not found yet');
+        // Newsletter form handler
+        $('#newsletterForm').on('submit', function(e) {
+            e.preventDefault();
+            
+            const firstName = $('#firstName').val();
+            const email = $('#email').val();
+            
+            // Simple validation
+            if (!firstName || !email) {
+                alert('Please fill in all fields');
+                return;
             }
-        }
+            
+            // Show loading state
+            const submitBtn = $(this).find('button[type="submit"]');
+            submitBtn.html('<i class="fas fa-spinner fa-spin me-2"></i> Subscribing...');
+            submitBtn.prop('disabled', true);
+            
+            // Send to ConvertKit
+            fetch('https://app.convertkit.com/forms/8757066/subscriptions', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    email_address: email,
+                    fields: {
+                        first_name: firstName
+                    }
+                })
+            })
+            .then(response => {
+                if (response.ok) {
+                    // Show success message
+                    $('#newsletterForm').hide();
+                    $('#newsletterSuccess').show();
+                } else {
+                    throw new Error('Subscription failed');
+                }
+            })
+            .catch(error => {
+                alert('Sorry, there was an error. Please try again later.');
+                submitBtn.html('<i class="fas fa-envelope me-2"></i> Subscribe');
+                submitBtn.prop('disabled', false);
+            });
+        });
 
         async function loadNews(){
             try {
