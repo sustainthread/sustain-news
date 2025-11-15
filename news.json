@@ -1,8 +1,18 @@
 {
   "status": "ok",
-  "last_updated": "2025-11-14T06:53:42.054782",
-  "total_articles": 50,
+  "last_updated": "2025-11-15T06:47:13.391569",
+  "total_articles": 53,
   "articles": [
+    {
+      "title": "Fossil fuel emissions rise again - but renewables boom offers hope for climate",
+      "description": "Carbon emissions from burning fossil fuels are forecast to reach a new high in 2025 but could soon peak.",
+      "url": "https://www.bbc.com/news/articles/c620q30w0q0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-13T03:16:15",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "Carbon emissions from burning fossil fuels are forecast to reach a new high in 2025 but could soon peak."
+    },
     {
       "title": "Greenhouse Gas Emissions Head for a Record in 2025, Global Carbon Project Reports",
       "description": "But there are signs that greenhouse gas pollution in China might be slowing, according to a new analysis.",
@@ -12,26 +22,6 @@
         "name": "New York Times"
       },
       "content": "But there are signs that greenhouse gas pollution in China might be slowing, according to a new analysis."
-    },
-    {
-      "title": "Plan for Australia’s largest carbon capture project near Darwin criticised as creating ‘dumping ground’",
-      "description": "Climate advocates fear the project, proposed by Japanese oil and gas giant Inpex, would turn the area into the ‘world’s largest carbon dumping ground’Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereOil and gas giant Inpex has proposed Australia’s largest carbon capture facility in waters off the Northern Territory, which climate advocates have warned could turn Darwin into a carbon dumping ground.",
-      "url": "https://www.theguardian.com/environment/2025/nov/14/darwin-carbon-capture-storage-ccs-proposal-inpex",
-      "publishedAt": "2025-11-14T04:29:30",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Climate advocates fear the project, proposed by Japanese oil and gas giant Inpex, would turn the area into the ‘world’s largest carbon dumping ground’Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereOil and gas giant Inpex has proposed Australia’s largest carbon capture facility in waters off the Northern Territory, which climate advocates have warned could turn Darwin into a carbon dumping ground."
-    },
-    {
-      "title": "Mango Tangos With TextileGenesis for Supply Chain Mapping",
-      "description": "Mango has tracked over 40 million products flowing the Spanish retailer’s value chain using TextileGenesis’ fiber-forward, 6-D traceability platform.",
-      "url": "https://sourcingjournal.com/topics/technology/mango-textilegenesis-traceability-supply-chain-mapping-1234787968/",
-      "publishedAt": "2025-11-13T17:25:43",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "Mango has tracked over 40 million products flowing the Spanish retailer’s value chain using TextileGenesis’ fiber-forward, 6-D traceability platform."
     },
     {
       "title": "With Global Emissions Rules Held Off, What’s Next for the Shipping Industry?",
@@ -54,44 +44,64 @@
       "content": "The California governor painted the president as a threat to American competitiveness by letting China dominate the renewable energy industry."
     },
     {
+      "title": "About 1m Ford diesel cars sold in UK with defective emissions controls, court told",
+      "description": "Ford denies having created ‘defeat devices’ in legal action on behalf of 1.",
+      "url": "https://www.theguardian.com/business/2025/nov/15/ford-diesel-cars-uk-emissions-legal-action",
+      "publishedAt": "2025-11-15T06:00:04",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Ford denies having created ‘defeat devices’ in legal action on behalf of 1."
+    },
+    {
+      "title": "Indigenous People Take the Stage at COP30 Climate Talks in Belém, Brazil",
+      "description": "This summit is unlike any of its predecessors in at least one significant way: The Indigenous presence is palpable and strong.",
+      "url": "https://www.nytimes.com/2025/11/14/climate/cop30-belem-indigenous-people.html",
+      "publishedAt": "2025-11-14T21:41:34",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "This summit is unlike any of its predecessors in at least one significant way: The Indigenous presence is palpable and strong."
+    },
+    {
+      "title": "Shuffle Board: Accelerating Circularity Restructures for Next Phase",
+      "description": "Nonprofit founder Karla Magruder transitions to board chair with COO Eileen Mockus steps in and up as CEO amid its shift to commercial T2T recycling.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-accelerating-circularity-under-armour-rhone-1234790305/",
+      "publishedAt": "2025-11-14T21:30:00",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "Nonprofit founder Karla Magruder transitions to board chair with COO Eileen Mockus steps in and up as CEO amid its shift to commercial T2T recycling."
+    },
+    {
+      "title": "Protesters blockade Cop30 summit over plight of Indigenous peoples",
+      "description": "Munduruku people demand to speak to Brazil’s president, saying they are never listened toCop30: click here for full Guardian coverage of the climate talks in BrazilProtesters blockaded the main entrance to the Cop30 climate conference for several hours early on Friday morning, demanding to speak to Brazil’s president about the plight of the country’s Indigenous peoples.",
+      "url": "https://www.theguardian.com/environment/2025/nov/14/protesters-blockade-cop30-summit-over-plight-of-indigenous-peoples",
+      "publishedAt": "2025-11-14T16:23:20",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Munduruku people demand to speak to Brazil’s president, saying they are never listened toCop30: click here for full Guardian coverage of the climate talks in BrazilProtesters blockaded the main entrance to the Cop30 climate conference for several hours early on Friday morning, demanding to speak to Brazil’s president about the plight of the country’s Indigenous peoples."
+    },
+    {
       "title": "An Escape From India’s Air Pollution for Those Who Can Afford It",
       "description": "Companies are offering much-needed, but expensive, air purification systems to shelter from the smog in one of the world’s most polluted cities.",
       "url": "https://www.nytimes.com/2025/11/14/business/india-pollution-clean-air.html",
-      "publishedAt": "2025-11-14T05:00:11",
+      "publishedAt": "2025-11-14T14:46:40",
       "source": {
         "name": "New York Times"
       },
       "content": "Companies are offering much-needed, but expensive, air purification systems to shelter from the smog in one of the world’s most polluted cities."
     },
     {
-      "title": "Cop30: ‘We will exterminate ourselves’ if we keep extracting fossil fuels, activists say – as it happened",
-      "description": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heatingMore than half of all delegation members at Cop30 have withheld or obscured details of their affiliations, potentially concealing conflicts of interest and undermining trust in the Cop process, warns Transparency International.",
-      "url": "https://www.theguardian.com/environment/live/2025/nov/13/cop30-live-calls-for-just-transition-plan-grow-as-report-warns-world-on-track-for-26c-of-heating",
-      "publishedAt": "2025-11-13T20:39:43",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Climate Action Tracker report finds pledges made in past year have not cut the forecast for global heatingMore than half of all delegation members at Cop30 have withheld or obscured details of their affiliations, potentially concealing conflicts of interest and undermining trust in the Cop process, warns Transparency International."
-    },
-    {
       "title": "The Global Climate Leadership Vacuum",
       "description": "The United States is largely absent from the United Nations climate negations in Brazil.",
       "url": "https://www.nytimes.com/2025/11/13/climate/cop30-un-climate-talks.html",
-      "publishedAt": "2025-11-13T18:43:32",
+      "publishedAt": "2025-11-13T18:43:33",
       "source": {
         "name": "New York Times"
       },
       "content": "The United States is largely absent from the United Nations climate negations in Brazil."
-    },
-    {
-      "title": "Saving Sustainability: How Denim Mills Stay Green Amid Financial Pressure",
-      "description": "Mills are targeting initiatives that deliver the biggest environmental impact.",
-      "url": "https://sourcingjournal.com/denim/denim-mills/how-denim-mills-stay-sustainable-amid-financial-pressure-1234787785/",
-      "publishedAt": "2025-11-13T17:27:34",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "Mills are targeting initiatives that deliver the biggest environmental impact."
     },
     {
       "title": "Major US broadcasters sit out Cop30 climate talks: ‘They’re missing a lot’",
@@ -114,14 +124,14 @@
       "content": "As aquaculture grows at a rapid pace, farmers in Bangladesh are testing whether growing multiple species together can make it more sustainable and economically viable."
     },
     {
-      "title": "The Billion-Dollar Patagonia Paradox",
-      "description": "Patagonia’s GHG strategy extends beyond its direct operations and supply chain to leverage its brand for broader systemic change.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/the-paradox-of-patagonia-still-generates-billions-emissions-1234788016/",
-      "publishedAt": "2025-11-13T14:32:49",
+      "title": "Brazil's indigenous groups want to be heard at COP30",
+      "description": "The BBC's Ione Wells asks two indigenous leaders what they want from the climate talks.",
+      "url": "https://www.bbc.com/news/videos/c9q197rljgno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-12T22:24:59",
       "source": {
-        "name": "Sourcing Journal"
+        "name": "BBC"
       },
-      "content": "Patagonia’s GHG strategy extends beyond its direct operations and supply chain to leverage its brand for broader systemic change."
+      "content": "The BBC's Ione Wells asks two indigenous leaders what they want from the climate talks."
     },
     {
       "title": "Al Gore wonders if ‘bullying’ Trump prompted Bill Gates to backtrack on climate",
@@ -132,6 +142,16 @@
         "name": "The Guardian"
       },
       "content": "Exclusive interview with ex-US vice-president at Cop30 also reveals his hope around much-maligned climate summitFear of being bullied by Donald Trump may have prompted Bill Gates to row back on the climate crisis, Al Gore has speculated, as he slammed the billionaire’s new position as “silly”, and the US president for his anti-climate stance."
+    },
+    {
+      "title": "From Brazil to Belfast - pupils hold their own COP30 event",
+      "description": "The COP30 climate simulation negotiation brought pupils from 28 schools to Belfast Castle.",
+      "url": "https://www.bbc.com/news/articles/c70jg33gynko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-12T17:50:52",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "The COP30 climate simulation negotiation brought pupils from 28 schools to Belfast Castle."
     },
     {
       "title": "China’s Green Triumph",
@@ -154,24 +174,154 @@
       "content": "Many business leaders are skipping the annual United Nations climate summit in Belém, Brazil, or are attending events in other cities."
     },
     {
-      "title": "California governor calls Trump ‘an invasive species’ at Cop30 climate talks",
-      "description": "Gavin Newsom is most senior US politician at annual talks, heading alternate delegation in Trump’s absenceUS politics live – latest updatesCalifornia’s governor, Gavin Newsom, has said Donald Trump is an “invasive species” whose dismissal of the climate crisis is an “abomination”, in a fiery attack at the UN climate talks in Brazil – from which Trump and his administration have been completely absent.",
-      "url": "https://www.theguardian.com/environment/2025/nov/11/gavin-newsom-trump-cop30",
-      "publishedAt": "2025-11-11T23:56:34",
+      "title": "Protesters break into COP30 venue in Brazil",
+      "description": "More than 200 delegations, including senior world leaders, are attending the UN climate talks.",
+      "url": "https://www.bbc.com/news/articles/c0l7yjgn050o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-12T02:50:49",
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "content": "Gavin Newsom is most senior US politician at annual talks, heading alternate delegation in Trump’s absenceUS politics live – latest updatesCalifornia’s governor, Gavin Newsom, has said Donald Trump is an “invasive species” whose dismissal of the climate crisis is an “abomination”, in a fiery attack at the UN climate talks in Brazil – from which Trump and his administration have been completely absent."
+      "content": "More than 200 delegations, including senior world leaders, are attending the UN climate talks."
     },
     {
-      "title": "Graeme Samuel calls for Labor to ditch ‘national interest’ workaround for environment laws",
-      "description": "Former ACCC chair condemns proposed exemption allowing minister to approve projects that don’t comply with lawGet our breaking news email, free app or daily news podcastThe former competition watchdog chief Graeme Samuel says the government should axe its proposal to allow the environment minister to make decisions in breach of national laws if it is deemed in the “national interest”.",
-      "url": "https://www.theguardian.com/environment/2025/nov/14/graeme-samuel-calls-for-labor-to-ditch-national-interest-workaround-for-environment-laws",
-      "publishedAt": "2025-11-14T05:59:51",
+      "title": "Protesters clash with security at COP30 climate talks in Brazil",
+      "description": "Demonstrators, some wearing traditional indigenous dress, broke through security lines of the UN climate summit.",
+      "url": "https://www.bbc.com/news/videos/c4gkyx4r190o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-12T02:11:02",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "Demonstrators, some wearing traditional indigenous dress, broke through security lines of the UN climate summit."
+    },
+    {
+      "title": "Byte-Sized AI: Target Adds In-App Gifting Features; AliExpress Intros AI-Enabled U.S. Seller Tools",
+      "description": "Target's hoping to help consumers with gifting; a female-founded startup manufacturing tech startup has come out of stealth and more.",
+      "url": "https://sourcingjournal.com/topics/technology/byte-sized-ai-artificial-intelligence-target-mango-inspectorio-dryft-aliexpress-1234790327/",
+      "publishedAt": "2025-11-15T01:38:29",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "Target's hoping to help consumers with gifting; a female-founded startup manufacturing tech startup has come out of stealth and more."
+    },
+    {
+      "title": "Carbios Eyes China, Gets Closer to PET Plant Plans",
+      "description": "The French recycler reached a binding agreement on the core goals of its collaboration with Wankai, a subsidiary of China's third largest PET producer.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/carbios-china-recycled-polyester-wankai-rpet-plant-1234788101/",
+      "publishedAt": "2025-11-15T01:35:33",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "The French recycler reached a binding agreement on the core goals of its collaboration with Wankai, a subsidiary of China's third largest PET producer."
+    },
+    {
+      "title": "‘Why Would We Shut Off 300 Lanes?’ UP CEO Fires Back at BNSF’s Claim of Intermodal Cuts",
+      "description": "Jim Vena dismissed BNSF’s warnings over the $85 billion UP-NS merger, days before shareholders of both companies approved the deal.",
+      "url": "https://sourcingjournal.com/topics/logistics/union-pacific-jim-vena-norfolk-southern-railroad-merger-bnsf-300-intermodal-lane-cuts-shareholder-approval-1234790352/",
+      "publishedAt": "2025-11-15T01:32:44",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "Jim Vena dismissed BNSF’s warnings over the $85 billion UP-NS merger, days before shareholders of both companies approved the deal."
+    },
+    {
+      "title": "Material World: Innovera Purses Debut in Germany, Circulose Scales With M&S",
+      "description": "The London retailer is Circulose's first UK-based scaling partner while Melina Bucher teams with Modern Meadow on next-gen suede handbags.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-innovera-circulose-lenzing-marks-spencer-1234788077/",
+      "publishedAt": "2025-11-14T20:00:00",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "The London retailer is Circulose's first UK-based scaling partner while Melina Bucher teams with Modern Meadow on next-gen suede handbags."
+    },
+    {
+      "title": "NCTO, AAFA Laud Washington for Trade Agreements With Guatemala, El Salvador",
+      "description": "The trade groups said the Trump administration's decision to reinstate free trade under the provisions of CAFTA-DR is a step in the right direction.",
+      "url": "https://sourcingjournal.com/topics/trade/ncto-aafa-caftadr-trump-guatemala-el-salvador-free-trade-agreement-tariffs-1234790303/",
+      "publishedAt": "2025-11-14T18:03:00",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "The trade groups said the Trump administration's decision to reinstate free trade under the provisions of CAFTA-DR is a step in the right direction."
+    },
+    {
+      "title": "DHL Unveils $1.2B India Investment Plan",
+      "description": "DHL will expand an automated sorting hub in Delhi, and upgrade facilities for its Indian delivery subsidiary as the country's global trade influence grows.",
+      "url": "https://sourcingjournal.com/topics/logistics/dhl-1-2b-india-investment-plan-funding-1234790306/",
+      "publishedAt": "2025-11-14T16:43:50",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "DHL will expand an automated sorting hub in Delhi, and upgrade facilities for its Indian delivery subsidiary as the country's global trade influence grows."
+    },
+    {
+      "title": "The Death (and Life) of the Electric Car",
+      "description": "From near death in the early aughts to more than 10 percent of new U.",
+      "url": "https://triplepundit.com/2025/the-death-and-life-of-the-electric-car/",
+      "publishedAt": "2025-11-14T16:41:23",
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "content": "From near death in the early aughts to more than 10 percent of new U."
+    },
+    {
+      "title": "The Dogs of 8,000 B.C. Were Amazingly Diverse",
+      "description": "The staggering array of modern dog breeds is typically traced to the Victorian era.",
+      "url": "https://www.nytimes.com/2025/11/13/science/archaeology-wolves-dogs.html",
+      "publishedAt": "2025-11-14T15:13:47",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "The staggering array of modern dog breeds is typically traced to the Victorian era."
+    },
+    {
+      "title": "What are bio-beads used for and how did they get spilled on to Camber Sands beach?",
+      "description": "Plastic pellets attract algae and smell like food so can be eaten by birds, fish and dolphins, which can prove fatalBeads spreading on Sussex coast after ‘catastrophic’ spill, meeting toldMillions of toxic plastic beads were spilled on to Camber Sands beach, in East Sussex, a few days ago, putting wildlife at risk in what the local MP called an “environmental catastrophe”.",
+      "url": "https://www.theguardian.com/environment/2025/nov/14/what-are-bio-beads-used-for-and-how-did-they-get-spilled-on-to-camber-sands-beach",
+      "publishedAt": "2025-11-14T14:06:33",
       "source": {
         "name": "The Guardian"
       },
-      "content": "Former ACCC chair condemns proposed exemption allowing minister to approve projects that don’t comply with lawGet our breaking news email, free app or daily news podcastThe former competition watchdog chief Graeme Samuel says the government should axe its proposal to allow the environment minister to make decisions in breach of national laws if it is deemed in the “national interest”."
+      "content": "Plastic pellets attract algae and smell like food so can be eaten by birds, fish and dolphins, which can prove fatalBeads spreading on Sussex coast after ‘catastrophic’ spill, meeting toldMillions of toxic plastic beads were spilled on to Camber Sands beach, in East Sussex, a few days ago, putting wildlife at risk in what the local MP called an “environmental catastrophe”."
+    },
+    {
+      "title": "Plastic beads spreading on Sussex coast after ‘catastrophic’ spill, meeting told",
+      "description": "Local people describe devastating impact of millions of toxic beads from Southern Water site near Camber SandsWhat are bio-beads used for and how did they get spilled on to Camber Sands beach?The massive spill of plastic beads at Camber Sands is devastating for local people, wildlife and tourism and the beads are dispersing along the coast, residents heard at an emotional public meeting on Thursday.",
+      "url": "https://www.theguardian.com/environment/2025/nov/14/plastic-beads-spreading-sussex-coast-catastrophic-spill-meeting-told-camber-sands",
+      "publishedAt": "2025-11-14T14:05:13",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Local people describe devastating impact of millions of toxic beads from Southern Water site near Camber SandsWhat are bio-beads used for and how did they get spilled on to Camber Sands beach?The massive spill of plastic beads at Camber Sands is devastating for local people, wildlife and tourism and the beads are dispersing along the coast, residents heard at an emotional public meeting on Thursday."
+    },
+    {
+      "title": "National parks facing ‘nightmare’ under Trump, warns ex-director of service",
+      "description": "Jonathan Jarvis, who led the agency from 2009 to 2017, laid out the dire consequences of not closing parks in shutdownAmericans should “raise hell” to protect US national parks through the “nightmare” of Donald Trump’s presidency, according to a former National Park Service director, amid alarm over the impact of the federal government shutdown.",
+      "url": "https://www.theguardian.com/us-news/2025/nov/14/national-park-service-trump-administration",
+      "publishedAt": "2025-11-14T14:00:42",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Jonathan Jarvis, who led the agency from 2009 to 2017, laid out the dire consequences of not closing parks in shutdownAmericans should “raise hell” to protect US national parks through the “nightmare” of Donald Trump’s presidency, according to a former National Park Service director, amid alarm over the impact of the federal government shutdown."
+    },
+    {
+      "title": "How a Texas shrimper stalled Exxon’s $10bn plastics plant | Shilpi Chhotray",
+      "description": "Diane Wilson recognized Exxon’s playbook – and showed how local people can take on even the most entrenched industriesWhen ExxonMobil announced it would “slow the pace of development” on a $10bn plastics plant along the Texas Gulf coast, the company blamed market conditions.",
+      "url": "https://www.theguardian.com/commentisfree/2025/nov/14/texas-shrimper-exxon-plastics",
+      "publishedAt": "2025-11-14T13:00:40",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Diane Wilson recognized Exxon’s playbook – and showed how local people can take on even the most entrenched industriesWhen ExxonMobil announced it would “slow the pace of development” on a $10bn plastics plant along the Texas Gulf coast, the company blamed market conditions."
+    },
+    {
+      "title": "Custom-Fitting Jeans Made Easy: How Neems Jeans Is Redefining Accessible Denim",
+      "description": "Daniela Rodriguez and Andre Ramirez founded the company in 2020.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/neems-jeans-accessible-custom-fitting-jeans-cone-denim-1234787319/",
+      "publishedAt": "2025-11-14T13:00:00",
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "content": "Daniela Rodriguez and Andre Ramirez founded the company in 2020."
     },
     {
       "title": "The great escape: seal flees killer whales by jumping on to photographer’s boat",
@@ -187,7 +337,7 @@
       "title": "Trump Administration Revokes Biden Ban on Drilling and Mining in Alaska Wilderness",
       "description": "The decision to allow oil and gas drilling in Alaska’s ecologically sensitive North Slope has the support of the state’s governor and senators.",
       "url": "https://www.nytimes.com/2025/11/13/climate/trump-revokes-biden-ban-on-drilling-mining-in-alaska-wilderness.html",
-      "publishedAt": "2025-11-14T01:34:27",
+      "publishedAt": "2025-11-14T01:34:28",
       "source": {
         "name": "New York Times"
       },
@@ -214,26 +364,6 @@
       "content": "The e-tail giant has been accused of discriminating against employees with disabilities in its New York State warehouses."
     },
     {
-      "title": "The Dogs of 8,000 B.C. Were Amazingly Diverse",
-      "description": "The staggering array of modern dog breeds is typically traced to the Victorian era.",
-      "url": "https://www.nytimes.com/2025/11/13/science/archaeology-wolves-dogs.html",
-      "publishedAt": "2025-11-13T20:15:27",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "The staggering array of modern dog breeds is typically traced to the Victorian era."
-    },
-    {
-      "title": "Hapag-Lloyd CEO: Container Demand ‘Stronger Than We Anticipated’",
-      "description": "The ocean carrier saw a strong jump in volumes in its third quarter, with total 20-foot equivalent units increasing 6.",
-      "url": "https://sourcingjournal.com/topics/logistics/hapag-lloyd-container-market-volumes-maersk-gemini-cooperation-costs-earnings-red-sea-terminals-1234788084/",
-      "publishedAt": "2025-11-13T19:30:35",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "The ocean carrier saw a strong jump in volumes in its third quarter, with total 20-foot equivalent units increasing 6."
-    },
-    {
       "title": "Our dogs' diversity can be traced back to the Stone Age",
       "description": "A new study suggests their physical transformation began much earlier than we previously thought.",
       "url": "https://www.bbc.com/news/articles/ce9d7j89ykro?at_medium=RSS&at_campaign=rss",
@@ -244,30 +374,10 @@
       "content": "A new study suggests their physical transformation began much earlier than we previously thought."
     },
     {
-      "title": "EU Commission to Pull Forward Its Plan to End De Minimis",
-      "description": "The trade provision was initially set to be reformed in 2028, but politicians have made it a key issue as businesses rail against it.",
-      "url": "https://sourcingjournal.com/topics/trade/european-union-commission-maros-sefcovic-de-minimis-brussels-shein-temu-1234788080/",
-      "publishedAt": "2025-11-13T18:50:57",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "The trade provision was initially set to be reformed in 2028, but politicians have made it a key issue as businesses rail against it."
-    },
-    {
-      "title": "Hundreds of thousands to lose heat pump subsidies in Reeves’s budget plan",
-      "description": "Exclusive: Supporters say grants largely going to middle-class households, but experts warn move will slow transition from gas boilersHundreds of thousands of homeowners will lose their right to subsidies for eco-friendly heat pumps as a result of government plans to bring down energy bills at the budget.",
-      "url": "https://www.theguardian.com/politics/2025/nov/13/hundreds-of-thousands-to-lose-heat-pump-subsidies-in-reevess-budget-plan",
-      "publishedAt": "2025-11-13T16:59:29",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Exclusive: Supporters say grants largely going to middle-class households, but experts warn move will slow transition from gas boilersHundreds of thousands of homeowners will lose their right to subsidies for eco-friendly heat pumps as a result of government plans to bring down energy bills at the budget."
-    },
-    {
       "title": "Bird Flu Ravaged the World’s Largest Elephant Seal Population, Study Finds",
       "description": "After the H5N1 virus hit the remote island of South Georgia in 2023, more than 50,000 breeding females may have disappeared.",
       "url": "https://www.nytimes.com/2025/11/13/science/bird-flu-h5n1-elephant-seals.html",
-      "publishedAt": "2025-11-13T16:00:08",
+      "publishedAt": "2025-11-13T16:00:09",
       "source": {
         "name": "New York Times"
       },
@@ -292,36 +402,6 @@
         "name": "The Guardian"
       },
       "content": "Mining crew had hit unknown pocket of water last Saturday about three-quarters of a mile into the mineCrews have found the body of the coal miner missing since a West Virginia mine flooded on Saturday, said the state’s governor, Patrick Morrisey, on Thursday."
-    },
-    {
-      "title": "US Denim Mills and House of Denim Deepen Partnership with Women-Driven Capsule Collection: ROOTS Chapter 3",
-      "description": "ROOTS Chapter 3 is a collaborative project between House of Denim and US Denim.",
-      "url": "https://sourcingjournal.com/denim/denim-mills/us-denim-mills-and-house-of-denim-deepen-partnership-1234787823/",
-      "publishedAt": "2025-11-13T15:00:00",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "ROOTS Chapter 3 is a collaborative project between House of Denim and US Denim."
-    },
-    {
-      "title": "Google Leverages AI Voice Agents, Buy For Me Function to Bring Agentic Commerce to Consumers",
-      "description": "The technology company wants to enrich users' shopping experiences ahead of the holidays.",
-      "url": "https://sourcingjournal.com/topics/technology/google-artificial-intelligence-agentic-commerce-buy-for-me-price-tracking-1234787995/",
-      "publishedAt": "2025-11-13T14:00:00",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "The technology company wants to enrich users' shopping experiences ahead of the holidays."
-    },
-    {
-      "title": "DHL Profits Rise Despite 32% US-Bound Air Freight Volume Drop",
-      "description": "FedEx shares also climb on upbeat earnings outlook, signaling some resilience across global couriers ahead of peak season.",
-      "url": "https://sourcingjournal.com/topics/logistics/dhl-express-air-freight-shipments-us-b2c-volumes-de-minimis-tariffs-guidance-capacity-adjustments-fedex-1234788040/",
-      "publishedAt": "2025-11-13T13:00:00",
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "content": "FedEx shares also climb on upbeat earnings outlook, signaling some resilience across global couriers ahead of peak season."
     },
     {
       "title": "U.K. Gives Go-Ahead to Smaller Nuclear Reactor in Wales",
@@ -384,16 +464,6 @@
       "content": "A plan to sustainably manage the shrinking waterway could soon be up to the Trump administration — or eventually the Supreme Court."
     },
     {
-      "title": "Trump administration planning to allow oil and gas drilling off California coast",
-      "description": "Plan, which Gavin Newsom, the governor, has said would be ‘dead on arrival’, will allow six lease sales from 2027 to 2030The Trump administration is planning to allow oil and gas drilling off the California coast for the first time in decades, according to a draft plan shared with the Washington Post.",
-      "url": "https://www.theguardian.com/us-news/2025/nov/11/trump-administration-drilling-off-california",
-      "publishedAt": "2025-11-11T21:10:32",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Plan, which Gavin Newsom, the governor, has said would be ‘dead on arrival’, will allow six lease sales from 2027 to 2030The Trump administration is planning to allow oil and gas drilling off the California coast for the first time in decades, according to a draft plan shared with the Washington Post."
-    },
-    {
       "title": "A Shot At Survival: New Vaccine Brings Hope to Elephants Battling Deadly Disease",
       "description": "Elephant endotheliotropic herpesvirus, or EEHV, is a leading cause of death for young Asian elephants.",
       "url": "https://triplepundit.com/2025/eehv-vaccine-asian-elephant-conservation/",
@@ -414,14 +484,14 @@
       "content": "The plan follows up on a manifesto promise to work towards the phasing out the practice."
     },
     {
-      "title": "Groups Sue to Reverse Trump’s Cuts to Energy Projects in Democratic States",
-      "description": "A lawsuit filed on Monday argued that the president has discriminated against blue states by slashing federal funds for political leverage during the shutdown.",
-      "url": "https://www.nytimes.com/2025/11/10/us/politics/trump-shutdown-cuts-lawsuit.html",
-      "publishedAt": "2025-11-11T02:38:33",
+      "title": "20 Years Older, Any Wiser?",
+      "description": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often.",
+      "url": "https://triplepundit.com/2025/triplepundit-20-years/",
+      "publishedAt": "2025-11-05T18:13:30",
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "content": "A lawsuit filed on Monday argued that the president has discriminated against blue states by slashing federal funds for political leverage during the shutdown."
+      "content": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often."
     },
     {
       "title": "Where Do My Old Tires Go? eTracks Has the Answer",
@@ -444,16 +514,6 @@
       "content": "As Côte d'Ivoire’s banking system struggles to reach millions of residents, fintech startup Wave is redefining how people save and spend money across West Africa via a simple smartphone app with no transaction fees."
     },
     {
-      "title": "20 Years Older, Any Wiser?",
-      "description": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often.",
-      "url": "https://triplepundit.com/2025/triplepundit-20-years/",
-      "publishedAt": "2025-11-05T18:13:30",
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "content": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often."
-    },
-    {
       "title": "James Watson: Controversial discoverer of 'the secret of life'",
       "description": "James Watson, the godfather of DNA who discovered the \"secrets of life\" has died aged 97.",
       "url": "https://www.bbc.com/news/articles/cyr70zznpjxo?at_medium=RSS&at_campaign=rss",
@@ -472,36 +532,6 @@
         "name": "Triple Pundit"
       },
       "content": "Minerals pass through countless hands before reaching manufacturers, making it nearly impossible to trace the ethics of their origins."
-    },
-    {
-      "title": "Back from the Brink: Two Decades of Species Revival",
-      "description": "Experts say we're in the middle of the sixth \"mass extinction,\" with tens of thousands of animal species at risk of being wiped out, but it's not too late to do something.",
-      "url": "https://triplepundit.com/2025/conservation-species-saved-extinction/",
-      "publishedAt": "2025-11-06T19:19:48",
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "content": "Experts say we're in the middle of the sixth \"mass extinction,\" with tens of thousands of animal species at risk of being wiped out, but it's not too late to do something."
-    },
-    {
-      "title": "From 2005 to the Decade of Ecosystem Restoration: Will We Reconnect with Nature?",
-      "description": "Even as the average person becomes more disconnected from nature, conservation efforts that kicked off in the 2000s are successfully bringing ecosystems back from collapse.",
-      "url": "https://triplepundit.com/2025/ecosystem-restoration-steward-solutions-journalism/",
-      "publishedAt": "2025-11-06T13:03:24",
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "content": "Even as the average person becomes more disconnected from nature, conservation efforts that kicked off in the 2000s are successfully bringing ecosystems back from collapse."
-    },
-    {
-      "title": "Bird flu virus spreading in UK could be worst yet, expert warns farmers",
-      "description": "A top virology expert tells the BBC that the \"super-infectious\" avian influenza virus could mutate.",
-      "url": "https://www.bbc.com/news/articles/cp85r67kn8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-06T12:07:36",
-      "source": {
-        "name": "BBC"
-      },
-      "content": "A top virology expert tells the BBC that the \"super-infectious\" avian influenza virus could mutate."
     }
   ]
 }
