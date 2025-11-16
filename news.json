@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "last_updated": "2025-11-15T06:47:13.391569",
-  "total_articles": 53,
+  "last_updated": "2025-11-16T06:54:39.477146",
+  "total_articles": 51,
   "articles": [
     {
       "title": "Fossil fuel emissions rise again - but renewables boom offers hope for climate",
@@ -24,6 +24,16 @@
       "content": "But there are signs that greenhouse gas pollution in China might be slowing, according to a new analysis."
     },
     {
+      "title": "Biodiversity offsets didn’t work in NSW. Will Labor make the same mistake nationwide?",
+      "description": "Offsets were meant to be a last resort for mitigating environmental damage from development projects, but rapidly became the defaultFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal government risks repeating grievous mistakes made in NSW with its proposals to change the way developers compensate for damage to the environment, scientists and legal experts have warned.",
+      "url": "https://www.theguardian.com/environment/2025/nov/15/biodiversity-offset-scheme-nsw-australia-failing-nature-protection",
+      "publishedAt": "2025-11-15T19:00:12",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Offsets were meant to be a last resort for mitigating environmental damage from development projects, but rapidly became the defaultFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal government risks repeating grievous mistakes made in NSW with its proposals to change the way developers compensate for damage to the environment, scientists and legal experts have warned."
+    },
+    {
       "title": "With Global Emissions Rules Held Off, What’s Next for the Shipping Industry?",
       "description": "Voting on the first international emissions standard for the shipping industry was pushed back another year, but innovators are still scaling new ways to reduce climate impacts from shipping.",
       "url": "https://triplepundit.com/2025/clean-technology-emissions-shipping-industry/",
@@ -34,24 +44,44 @@
       "content": "Voting on the first international emissions standard for the shipping industry was pushed back another year, but innovators are still scaling new ways to reduce climate impacts from shipping."
     },
     {
-      "title": "Newsom in the Spotlight at the Climate Conference That Trump Decided to Skip",
-      "description": "The California governor painted the president as a threat to American competitiveness by letting China dominate the renewable energy industry.",
-      "url": "https://www.nytimes.com/2025/11/11/climate/gavin-newsom-cop30-belem-climate.html",
-      "publishedAt": "2025-11-12T05:06:34",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "The California governor painted the president as a threat to American competitiveness by letting China dominate the renewable energy industry."
-    },
-    {
-      "title": "About 1m Ford diesel cars sold in UK with defective emissions controls, court told",
-      "description": "Ford denies having created ‘defeat devices’ in legal action on behalf of 1.",
-      "url": "https://www.theguardian.com/business/2025/nov/15/ford-diesel-cars-uk-emissions-legal-action",
-      "publishedAt": "2025-11-15T06:00:04",
+      "title": "We have lift-off! Melbourne’s skyscraper peregrine chicks take to the sky",
+      "description": "Falcon fledglings’ inaugural flight watched by dedicated fans includes dramatic crash-landingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA trio of young falcons born atop a 35-storey building in Melbourne’s CBD have taken flight for the first time, with the take-off captured on a livestream for the world to see.",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/16/we-have-lift-off-melbournes-skyscraper-peregrine-chicks-take-to-the-sky",
+      "publishedAt": "2025-11-16T03:35:04",
       "source": {
         "name": "The Guardian"
       },
-      "content": "Ford denies having created ‘defeat devices’ in legal action on behalf of 1."
+      "content": "Falcon fledglings’ inaugural flight watched by dedicated fans includes dramatic crash-landingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA trio of young falcons born atop a 35-storey building in Melbourne’s CBD have taken flight for the first time, with the take-off captured on a livestream for the world to see."
+    },
+    {
+      "title": "Thousands take to streets of Glasgow to highlight 'climate emergency'",
+      "description": "Demonstrators marched through the city centre on a day of global action to coincide with the COP30 climate talks in Brazil.",
+      "url": "https://www.bbc.com/news/videos/c0rpee2je5go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-15T19:19:48",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "Demonstrators marched through the city centre on a day of global action to coincide with the COP30 climate talks in Brazil."
+    },
+    {
+      "title": "Australian investment in green projects surges despite drastic US policy reversal, report shows",
+      "description": "Exclusive: Growth has been steady even since Trump’s re-election, building on increase from $20bn to $157bn, says thinktankFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSurging Australian demand for pro-environment investments has overcome a US-led backlash, with potential global ramifications, against green finance brought on by Donald Trump’s re-election, even if backers are less vocal about their projects.",
+      "url": "https://www.theguardian.com/australia-news/2025/nov/15/australian-investment-in-green-projects-surges-despite-drastic-us-policy-reversal-report-shows",
+      "publishedAt": "2025-11-15T19:00:10",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Exclusive: Growth has been steady even since Trump’s re-election, building on increase from $20bn to $157bn, says thinktankFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSurging Australian demand for pro-environment investments has overcome a US-led backlash, with potential global ramifications, against green finance brought on by Donald Trump’s re-election, even if backers are less vocal about their projects."
+    },
+    {
+      "title": "Thousands take to streets to highlight 'climate emergency'",
+      "description": "Demonstrators marched through Glasgow city centre on a day of global action to coincide with the COP30 climate talks in Brazil.",
+      "url": "https://www.bbc.com/news/articles/cly4r9ggqleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-15T16:24:08",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "Demonstrators marched through Glasgow city centre on a day of global action to coincide with the COP30 climate talks in Brazil."
     },
     {
       "title": "Indigenous People Take the Stage at COP30 Climate Talks in Belém, Brazil",
@@ -72,16 +102,6 @@
         "name": "Sourcing Journal"
       },
       "content": "Nonprofit founder Karla Magruder transitions to board chair with COO Eileen Mockus steps in and up as CEO amid its shift to commercial T2T recycling."
-    },
-    {
-      "title": "Protesters blockade Cop30 summit over plight of Indigenous peoples",
-      "description": "Munduruku people demand to speak to Brazil’s president, saying they are never listened toCop30: click here for full Guardian coverage of the climate talks in BrazilProtesters blockaded the main entrance to the Cop30 climate conference for several hours early on Friday morning, demanding to speak to Brazil’s president about the plight of the country’s Indigenous peoples.",
-      "url": "https://www.theguardian.com/environment/2025/nov/14/protesters-blockade-cop30-summit-over-plight-of-indigenous-peoples",
-      "publishedAt": "2025-11-14T16:23:20",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Munduruku people demand to speak to Brazil’s president, saying they are never listened toCop30: click here for full Guardian coverage of the climate talks in BrazilProtesters blockaded the main entrance to the Cop30 climate conference for several hours early on Friday morning, demanding to speak to Brazil’s president about the plight of the country’s Indigenous peoples."
     },
     {
       "title": "An Escape From India’s Air Pollution for Those Who Can Afford It",
@@ -144,16 +164,6 @@
       "content": "Exclusive interview with ex-US vice-president at Cop30 also reveals his hope around much-maligned climate summitFear of being bullied by Donald Trump may have prompted Bill Gates to row back on the climate crisis, Al Gore has speculated, as he slammed the billionaire’s new position as “silly”, and the US president for his anti-climate stance."
     },
     {
-      "title": "From Brazil to Belfast - pupils hold their own COP30 event",
-      "description": "The COP30 climate simulation negotiation brought pupils from 28 schools to Belfast Castle.",
-      "url": "https://www.bbc.com/news/articles/c70jg33gynko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-12T17:50:52",
-      "source": {
-        "name": "BBC"
-      },
-      "content": "The COP30 climate simulation negotiation brought pupils from 28 schools to Belfast Castle."
-    },
-    {
       "title": "China’s Green Triumph",
       "description": "China is equipping other countries to fight climate change.",
       "url": "https://www.nytimes.com/2025/11/12/briefing/chinas-green-triumph.html",
@@ -174,24 +184,64 @@
       "content": "Many business leaders are skipping the annual United Nations climate summit in Belém, Brazil, or are attending events in other cities."
     },
     {
-      "title": "Protesters break into COP30 venue in Brazil",
-      "description": "More than 200 delegations, including senior world leaders, are attending the UN climate talks.",
-      "url": "https://www.bbc.com/news/articles/c0l7yjgn050o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-12T02:50:49",
+      "title": "What’s More Dangerous than India’s Frequent Heat Waves? Heat Stress.",
+      "description": "Women who face long-term heat exposure in workplaces and homes are finding it takes a heavy toll on their health and income.",
+      "url": "https://www.nytimes.com/2025/11/16/world/asia/heat-stress-women-india.html",
+      "publishedAt": "2025-11-16T05:09:55",
       "source": {
-        "name": "BBC"
+        "name": "New York Times"
       },
-      "content": "More than 200 delegations, including senior world leaders, are attending the UN climate talks."
+      "content": "Women who face long-term heat exposure in workplaces and homes are finding it takes a heavy toll on their health and income."
     },
     {
-      "title": "Protesters clash with security at COP30 climate talks in Brazil",
-      "description": "Demonstrators, some wearing traditional indigenous dress, broke through security lines of the UN climate summit.",
-      "url": "https://www.bbc.com/news/videos/c4gkyx4r190o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-12T02:11:02",
+      "title": "How Many People Die in India From Hot Weather? Nobody Really Knows.",
+      "description": "Officials have yet to grasp the magnitude of heat-related deaths, let alone effectively deal with the problem, public health experts and scientists say.",
+      "url": "https://www.nytimes.com/2025/11/16/world/asia/india-heat-wave-deaths.html",
+      "publishedAt": "2025-11-16T05:01:12",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "Officials have yet to grasp the magnitude of heat-related deaths, let alone effectively deal with the problem, public health experts and scientists say."
+    },
+    {
+      "title": "Nature not a blocker to housing growth, inquiry finds",
+      "description": "Commons committee report challenges ‘lazy narrative’ used by ministers that scapegoats wildlife and the environmentNature is not a blocker to housing growth, an inquiry by MPs has found, in direct conflict with claims made by ministers.",
+      "url": "https://www.theguardian.com/uk-news/2025/nov/16/nature-not-blocker-housing-growth-inquiry",
+      "publishedAt": "2025-11-16T00:01:16",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Commons committee report challenges ‘lazy narrative’ used by ministers that scapegoats wildlife and the environmentNature is not a blocker to housing growth, an inquiry by MPs has found, in direct conflict with claims made by ministers."
+    },
+    {
+      "title": "These parrots came to Los Angeles as pets – then went wild. Now scientists are unlocking their mysteries",
+      "description": "Once escapees from the pet trade, Los Angeles’s feral parrots have become a vibrant part of city life, and could even aid conservation in their native homelandsA morning mist hung over the palm trees as birds chattered and cars roared by on the streets of Pasadena.",
+      "url": "https://www.theguardian.com/environment/2025/nov/15/los-angeles-wild-parrots-conservation",
+      "publishedAt": "2025-11-15T18:03:37",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Once escapees from the pet trade, Los Angeles’s feral parrots have become a vibrant part of city life, and could even aid conservation in their native homelandsA morning mist hung over the palm trees as birds chattered and cars roared by on the streets of Pasadena."
+    },
+    {
+      "title": "Thousands march outside COP30 summit in call for action",
+      "description": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks.",
+      "url": "https://www.bbc.com/news/articles/cy40z22qqwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-15T17:09:03",
       "source": {
         "name": "BBC"
       },
-      "content": "Demonstrators, some wearing traditional indigenous dress, broke through security lines of the UN climate summit."
+      "content": "This is the first time since 2021 that protesters have been allowed to demonstrate outside the UN talks."
+    },
+    {
+      "title": "Hochul Urged to Ban Horseshoe Crab Fishing",
+      "description": "Supporters of the legislation argue it would protect a declining horseshoe crab population, while opponents warn it will harm the commercial fishing industry.",
+      "url": "https://www.nytimes.com/2025/11/15/science/horseshoe-crabs-protections-hochul-ny.html",
+      "publishedAt": "2025-11-15T10:00:49",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "Supporters of the legislation argue it would protect a declining horseshoe crab population, while opponents warn it will harm the commercial fishing industry."
     },
     {
       "title": "Byte-Sized AI: Target Adds In-App Gifting Features; AliExpress Intros AI-Enabled U.S. Seller Tools",
@@ -272,26 +322,6 @@
         "name": "New York Times"
       },
       "content": "The staggering array of modern dog breeds is typically traced to the Victorian era."
-    },
-    {
-      "title": "What are bio-beads used for and how did they get spilled on to Camber Sands beach?",
-      "description": "Plastic pellets attract algae and smell like food so can be eaten by birds, fish and dolphins, which can prove fatalBeads spreading on Sussex coast after ‘catastrophic’ spill, meeting toldMillions of toxic plastic beads were spilled on to Camber Sands beach, in East Sussex, a few days ago, putting wildlife at risk in what the local MP called an “environmental catastrophe”.",
-      "url": "https://www.theguardian.com/environment/2025/nov/14/what-are-bio-beads-used-for-and-how-did-they-get-spilled-on-to-camber-sands-beach",
-      "publishedAt": "2025-11-14T14:06:33",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Plastic pellets attract algae and smell like food so can be eaten by birds, fish and dolphins, which can prove fatalBeads spreading on Sussex coast after ‘catastrophic’ spill, meeting toldMillions of toxic plastic beads were spilled on to Camber Sands beach, in East Sussex, a few days ago, putting wildlife at risk in what the local MP called an “environmental catastrophe”."
-    },
-    {
-      "title": "Plastic beads spreading on Sussex coast after ‘catastrophic’ spill, meeting told",
-      "description": "Local people describe devastating impact of millions of toxic beads from Southern Water site near Camber SandsWhat are bio-beads used for and how did they get spilled on to Camber Sands beach?The massive spill of plastic beads at Camber Sands is devastating for local people, wildlife and tourism and the beads are dispersing along the coast, residents heard at an emotional public meeting on Thursday.",
-      "url": "https://www.theguardian.com/environment/2025/nov/14/plastic-beads-spreading-sussex-coast-catastrophic-spill-meeting-told-camber-sands",
-      "publishedAt": "2025-11-14T14:05:13",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Local people describe devastating impact of millions of toxic beads from Southern Water site near Camber SandsWhat are bio-beads used for and how did they get spilled on to Camber Sands beach?The massive spill of plastic beads at Camber Sands is devastating for local people, wildlife and tourism and the beads are dispersing along the coast, residents heard at an emotional public meeting on Thursday."
     },
     {
       "title": "National parks facing ‘nightmare’ under Trump, warns ex-director of service",
@@ -424,26 +454,6 @@
       "content": "Austin Becker developed an early warning system to protect critical infrastructure from storms."
     },
     {
-      "title": "Trump Is Said to Propose Opening California Coast to Oil Drilling",
-      "description": "Gov.",
-      "url": "https://www.nytimes.com/2025/11/11/climate/offshore-drilling-california-trump-newsom.html",
-      "publishedAt": "2025-11-13T07:57:37",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "Gov."
-    },
-    {
-      "title": "Western US states fail to agree on plan to manage Colorado River before federal deadline",
-      "description": "Stakeholders have spent months ironing out disagreements over how to distribute water from the sprawling basinState negotiators embroiled in an impasse over how to manage the imperiled Colorado River were unable to agree on a plan before a federally set deadline on Tuesday, thrusting deliberations deeper into uncertain territory.",
-      "url": "https://www.theguardian.com/environment/2025/nov/12/colorado-river-agreement-state-negotiators",
-      "publishedAt": "2025-11-12T15:31:04",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Stakeholders have spent months ironing out disagreements over how to distribute water from the sprawling basinState negotiators embroiled in an impasse over how to manage the imperiled Colorado River were unable to agree on a plan before a federally set deadline on Tuesday, thrusting deliberations deeper into uncertain territory."
-    },
-    {
       "title": "There’s a New Forecast for Peak Oil Demand. It’s Increasingly Cloudy.",
       "description": "The International Energy Agency once projected that oil and gas demand could level off by 2030.",
       "url": "https://www.nytimes.com/2025/11/12/climate/iea-fossil-fuel-forecast.html",
@@ -454,14 +464,14 @@
       "content": "The International Energy Agency once projected that oil and gas demand could level off by 2030."
     },
     {
-      "title": "States That Rely on the Colorado River Miss Deadline to Agree on Cuts",
-      "description": "A plan to sustainably manage the shrinking waterway could soon be up to the Trump administration — or eventually the Supreme Court.",
-      "url": "https://www.nytimes.com/2025/11/11/climate/states-that-rely-on-the-colorado-river-miss-deadline-to-agree-on-cuts.html",
-      "publishedAt": "2025-11-12T02:45:27",
+      "title": "20 Years Older, Any Wiser?",
+      "description": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often.",
+      "url": "https://triplepundit.com/2025/triplepundit-20-years/",
+      "publishedAt": "2025-11-05T18:13:30",
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "content": "A plan to sustainably manage the shrinking waterway could soon be up to the Trump administration — or eventually the Supreme Court."
+      "content": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often."
     },
     {
       "title": "A Shot At Survival: New Vaccine Brings Hope to Elephants Battling Deadly Disease",
@@ -484,16 +494,6 @@
       "content": "The plan follows up on a manifesto promise to work towards the phasing out the practice."
     },
     {
-      "title": "20 Years Older, Any Wiser?",
-      "description": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often.",
-      "url": "https://triplepundit.com/2025/triplepundit-20-years/",
-      "publishedAt": "2025-11-05T18:13:30",
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "content": "As TriplePundit marks 20 years as a newsroom, we’re taking a look back at how the sustainability space has grown and changed — with an eye toward the progress we made, what we learned, and why on earth we can’t do it more often."
-    },
-    {
       "title": "Where Do My Old Tires Go? eTracks Has the Answer",
       "description": "Jurisdictions around the world have put laws on the books to incentivize tire recovery and recycling.",
       "url": "https://triplepundit.com/2025/tire-epr-traceability-platform-etracks-esrp/",
@@ -512,26 +512,6 @@
         "name": "Triple Pundit"
       },
       "content": "As Côte d'Ivoire’s banking system struggles to reach millions of residents, fintech startup Wave is redefining how people save and spend money across West Africa via a simple smartphone app with no transaction fees."
-    },
-    {
-      "title": "James Watson: Controversial discoverer of 'the secret of life'",
-      "description": "James Watson, the godfather of DNA who discovered the \"secrets of life\" has died aged 97.",
-      "url": "https://www.bbc.com/news/articles/cyr70zznpjxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-07T20:22:44",
-      "source": {
-        "name": "BBC"
-      },
-      "content": "James Watson, the godfather of DNA who discovered the \"secrets of life\" has died aged 97."
-    },
-    {
-      "title": "The Blockchain Solution for the World’s Most Problematic Minerals",
-      "description": "Minerals pass through countless hands before reaching manufacturers, making it nearly impossible to trace the ethics of their origins.",
-      "url": "https://triplepundit.com/2025/blockchain-tin-mining-due-dilligence/",
-      "publishedAt": "2025-11-07T09:00:00",
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "content": "Minerals pass through countless hands before reaching manufacturers, making it nearly impossible to trace the ethics of their origins."
     }
   ]
 }
