@@ -266,6 +266,38 @@
             color: white !important;
             text-decoration: underline;
         }
+
+        /* Scroll to top button */
+        .scroll-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            background: var(--soft-teal);
+            color: var(--deep-navy);
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border: none;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            z-index: 1000;
+            opacity: 0;
+            visibility: hidden;
+        }
+        .scroll-to-top:hover {
+            background: var(--medium-blue);
+            color: white;
+            transform: translateY(-3px);
+        }
+        .scroll-to-top.show {
+            opacity: 1;
+            visibility: visible;
+        }
     </style>
 </head>
 <body>
@@ -274,7 +306,7 @@
         <div class="container">
             <h1>🌿 Sustainability News Hub</h1>
             <p class="lead">Latest updates on ESG, circular economy, and sustainable business practices</p>
-            <p style="margin:0;"><small>curated by Vishal Londhe</small></p>
+            <p style="margin:0;"><small>curated by <a href="https://www.linkedin.com/in/vishallondhe" target="_blank" style="color:inherit;text-decoration:underline;">Vishal Londhe</a></small></p>
         </div>
     </section>
 
@@ -294,7 +326,7 @@
                 <div class="filter-group">
                     <input type="text" id="searchInput" class="search-box" placeholder="Search articles...">
                 </div>
-                
+
                 <!-- Source Filter -->
                 <div class="filter-group">
                     <label for="sourceFilter" class="filter-label">Source:</label>
@@ -302,7 +334,7 @@
                         <option value="all">All Sources</option>
                     </select>
                 </div>
-                
+
                 <!-- Date Filter -->
                 <div class="filter-group">
                     <label for="dateFilter" class="filter-label">Date:</label>
@@ -311,7 +343,7 @@
                     </select>
                 </div>
             </div>
-            
+
             <div class="right">
                 <!-- Sort -->
                 <div class="filter-group">
@@ -322,10 +354,10 @@
                         <option value="date_oldest">Oldest First</option>
                     </select>
                 </div>
-                
+
                 <!-- Results Info -->
                 <div id="resultsInfo" style="color:#6b7f84; font-weight:600; font-size:0.9rem;"></div>
-                
+
                 <!-- Pagination -->
                 <div class="pagination-custom" id="paginationNumbers"></div>
             </div>
@@ -340,6 +372,11 @@
         </div>
     </main>
 
+    <!-- Scroll to Top Button -->
+    <button class="scroll-to-top" id="scrollToTop" title="Go to top">
+        <i class="fas fa-chevron-up"></i>
+    </button>
+
     <!-- Footer with EU Compliance Links -->
     <footer class="footer text-center">
         <div class="container">
@@ -347,7 +384,7 @@
                 <i class="fab fa-linkedin me-2"></i>
                 Follow me on LinkedIn
             </a>
-            
+
             <div class="mt-3">
                 <div class="legal-links mb-2">
                     <a href="#privacy" data-bs-toggle="modal" data-bs-target="#privacyModal" class="me-3">Privacy Notice</a>
@@ -373,13 +410,13 @@
           <div class="modal-body">
             <h6>Data Collection</h6>
             <p>This website does not collect personal data from users. We display aggregated news content with proper attribution to original sources.</p>
-            
+
             <h6>External Links</h6>
             <p>Articles link to external news websites. We are not responsible for the privacy practices of these third-party sites.</p>
-            
+
             <h6>Your Rights</h6>
             <p>Under GDPR, you have the right to access, rectify, or erase any personal data. Since we don't collect personal data, no user accounts or tracking are maintained.</p>
-            
+
             <h6>Contact</h6>
             <p>For privacy concerns, contact us via LinkedIn.</p>
           </div>
@@ -419,7 +456,7 @@
           </div>
           <div class="modal-body">
             <p>This aggregator operates under the principles of fair use and the EU Copyright Directive's exception for "very short extracts."</p>
-            
+
             <h6>What we display:</h6>
             <ul>
               <li>Headlines and very short text extracts</li>
@@ -428,7 +465,7 @@
               <li>No full article content</li>
               <li>No images from original articles</li>
             </ul>
-            
+
             <h6>For publishers:</h6>
             <p>If you're a publisher and wish to have your content removed, please contact us via LinkedIn.</p>
           </div>
@@ -440,7 +477,7 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <!-- Bootstrap JS for modals -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <script>
         // Configuration
         const PAGE_SIZE = 9; // 3 columns x 3 rows
@@ -474,7 +511,7 @@
                 // Normalize each article shape to expected fields
                 articles = articles.map(a => {
                     const sourceName = (a.source && a.source.name) ? a.source.name : (typeof a.source === 'string' ? a.source : 'Unknown');
-                    
+
                     return {
                         title: a.title || a.headline || '',
                         url: a.url || '#',
@@ -617,7 +654,7 @@
             pageItems.forEach(article => {
                 const sourceDomain = (article.url && article.url !== '#') ? (new URL(article.url).hostname) : '';
                 const sourceLogo = sourceDomain ? `https://www.google.com/s2/favicons?domain=${sourceDomain}&sz=64` : '';
-                
+
                 // CORRECT UTM - use sustainthread.github.io
                 let trackedUrl = article.url || '#';
                 if (article.url && !article.url.includes('utm_source=')) {
@@ -699,6 +736,25 @@
             container.append(nextBtn);
         }
 
+        // Scroll to top functionality
+        function initScrollToTop() {
+            const scrollButton = $('#scrollToTop');
+            
+            // Show/hide button based on scroll position
+            $(window).on('scroll', function() {
+                if ($(window).scrollTop() > 300) {
+                    scrollButton.addClass('show');
+                } else {
+                    scrollButton.removeClass('show');
+                }
+            });
+            
+            // Scroll to top when clicked
+            scrollButton.on('click', function() {
+                $('html, body').animate({ scrollTop: 0 }, 500);
+            });
+        }
+
         // small helpers to reduce XSS risk when injecting strings
         function escapeHtml(str){
             if (str === null || str === undefined) return '';
@@ -718,7 +774,10 @@
         $(document).on('change', '#sortFilter', function(){ applyFilter(); });
 
         // initial load
-        $(document).ready(function(){ loadNews(); });
+        $(document).ready(function(){ 
+            loadNews(); 
+            initScrollToTop();
+        });
     </script>
 </body>
 </html>
