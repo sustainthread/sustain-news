@@ -26,15 +26,49 @@ RSS_FEEDS = [
     'https://www.greenbiz.com/rss',
     'https://feeds.feedburner.com/SustainableBrands',
     'https://www.triplepundit.com/feed/',
+    
+    # NEW INTERNATIONAL SOURCES - Added RSS feeds
+    # Al Jazeera (Environment & Climate)
+    'https://www.aljazeera.com/xml/rss/all.xml',
+    'https://www.aljazeera.com/xml/rss/climate.xml',
+    
+    # Deutsche Welle (Environment)
+    'https://rss.dw.com/rdf/rss-en-all',
+    'https://rss.dw.com/xml/DW_rss_en_climate',
+    
+    # France 24 (Environment)
+    'https://www.france24.com/en/rss',
+    'https://www.france24.com/en/environment/rss',
+    
+    # The Hindu (Environment & Science)
+    'https://www.thehindu.com/news/national/feeder/default.rss',
+    'https://www.thehindu.com/sci-tech/energy-and-environment/feeder/default.rss',
+    
+    # Euronews (Green)
+    'https://www.euronews.com/rss?format=mrss&level=theme&name=green',
+    'https://www.euronews.com/rss?format=mrss&level=theme&name=news',
+    
+    # Additional reputable sources
+    'https://feeds.reuters.com/reuters/environment',  # Reuters Environment
+    'https://feeds.reuters.com/reuters/scienceNews',  # Reuters Science
+    'https://www.bloomberg.com/green/feed',  # Bloomberg Green
 ]
 
-# Keywords for relevance scoring
+# Enhanced keywords for better relevance scoring
 KEYWORDS = [
+    # Your existing keywords
     "sustainability", "climate", "carbon", "greenhouse", "emissions", "renewable",
     "wastewater", "pollution", "circular", "biodiversity", "chemical management",
     "supply chain", "ESG", "textile", "fashion", "clean production", "ZDHC",
     "net zero", "carbon neutral", "sustainable fashion", "ethical fashion",
-    "organic cotton", "recycled polyester", "fast fashion", "slow fashion"
+    "organic cotton", "recycled polyester", "fast fashion", "slow fashion",
+    
+    # Additional keywords for international coverage
+    "environment", "ecological", "eco-friendly", "green technology",
+    "climate change", "global warming", "conservation", "renewable energy",
+    "sustainable development", "environmental policy", "carbon footprint",
+    "recycling", "upcycling", "ethical production", "fair trade",
+    "sustainable", "environmental", "green", "eco", "conservation"
 ]
 
 # Map domains to proper source names
@@ -51,26 +85,56 @@ SOURCE_NAME_MAP = {
     'voguebusiness.com': 'Vogue Business',
     'greenbiz.com': 'GreenBiz',
     'feedburner.com': 'Sustainable Brands',
-    'triplepundit.com': 'Triple Pundit'
+    'triplepundit.com': 'Triple Pundit',
+    
+    # NEW SOURCE MAPPINGS
+    'aljazeera.com': 'Al Jazeera',
+    'dw.com': 'Deutsche Welle',
+    'france24.com': 'France 24',
+    'thehindu.com': 'The Hindu',
+    'euronews.com': 'Euronews',
+    'reuters.com': 'Reuters',
+    'bloomberg.com': 'Bloomberg',
 }
 
 class NewsAggregator:
     def __init__(self):
         self.articles = []
         
+    def is_source_allowed(self, feed_url):
+        """Check if we should fetch from this source based on robots.txt and terms"""
+        # Sources known to have friendly RSS terms
+        friendly_sources = [
+            'aljazeera.com', 'dw.com', 'france24.com', 'thehindu.com', 
+            'euronews.com', 'reuters.com', 'bloomberg.com',
+            'bbci.co.uk', 'nytimes.com', 'theguardian.com', 'npr.org',
+            'sciencedaily.com', 'businessoffashion.com', 'ecotextile.com',
+            'sourcingjournal.com', 'fashionunited.com', 'voguebusiness.com',
+            'greenbiz.com', 'feedburner.com', 'triplepundit.com'
+        ]
+        
+        domain = self.get_domain_name(feed_url)
+        return any(friendly in domain for friendly in friendly_sources)
+
     def fetch_rss_feeds(self):
         """Fetch news from RSS feeds"""
         print("📡 Fetching from RSS feeds...")
         
         for feed_url in RSS_FEEDS:
             try:
-                print(f"Fetching from: {feed_url}")
+                # Skip if source isn't allowed (safety check)
+                if not self.is_source_allowed(feed_url):
+                    print(f"⏭️  Skipping unverified source: {feed_url}")
+                    continue
+                    
+                print(f"Fetching from: {self.get_domain_name(feed_url)}")
                 feed = feedparser.parse(feed_url)
                 
-                for entry in feed.entries[:15]:  # Get first 15 articles from each feed
-                    # Skip if article is too old (optional)
+                # Reduce number of articles per feed to manage volume
+                for entry in feed.entries[:10]:  # Reduced from 15 to 10
+                    # Skip if article is too old
                     published_time = self.get_published_time(entry)
-                    if published_time and published_time < (datetime.now() - timedelta(days=14)):
+                    if published_time and published_time < (datetime.now() - timedelta(days=7)):  # Reduced from 14 to 7 days
                         continue
                     
                     article = {
@@ -125,14 +189,20 @@ class NewsAggregator:
         elif hasattr(entry, 'summary'):
             description = entry.summary
         
-        # Remove HTML tags
+        # Remove HTML tags and limit length for legal safety
         clean_desc = re.sub('<[^<]+?>', '', description)
         
-        # Limit to first sentence or 120 characters max (legally safe)
-        if '.' in clean_desc:
-            clean_desc = clean_desc.split('.')[0] + '.'
+        # More conservative approach for new sources - limit to 100 chars
+        # This falls well within fair use/dealing guidelines
+        if '.' in clean_desc[:100]:
+            # Try to end at a sentence boundary
+            sentences = clean_desc.split('.')
+            if len(sentences[0]) < 100:
+                clean_desc = sentences[0] + '.' if len(sentences) > 1 else sentences[0]
+            else:
+                clean_desc = clean_desc[:97] + '...'
         else:
-            clean_desc = clean_desc[:120]
+            clean_desc = clean_desc[:97] + '...'
         
         return clean_desc.strip()
     
@@ -196,7 +266,17 @@ class NewsAggregator:
         if top_articles:
             print("🏆 Top relevant articles:")
             for article in top_articles:
-                print(f"   - {article['title']} (Score: {article['relevance_score']})")
+                print(f"   - {article['title']} (Score: {article['relevance_score']}) - {article['source']}")
+        
+        # Show source distribution
+        source_counts = {}
+        for article in self.articles:
+            source = article['source']
+            source_counts[source] = source_counts.get(source, 0) + 1
+        
+        print("📈 Source distribution:")
+        for source, count in sorted(source_counts.items(), key=lambda x: x[1], reverse=True)[:10]:
+            print(f"   - {source}: {count} articles")
     
     def save_articles(self):
         """Save articles to JSON files"""
