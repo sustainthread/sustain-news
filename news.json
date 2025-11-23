@@ -1,7 +1,7 @@
 {
   "status": "ok",
-  "last_updated": "2025-11-22T06:47:28.798416",
-  "total_articles": 110,
+  "last_updated": "2025-11-23T06:51:03.588931",
+  "total_articles": 117,
   "articles": [
     {
       "title": "ESG Outlook: Philippe Berlan of EverDye on Sustainable, Decarbonized Textile Dyeing",
@@ -14,24 +14,34 @@
       "content": "Philippe Berlan on transforming textile dyeing with bio-based solutions for a sustainable future."
     },
     {
-      "title": "At COP, India seeks ‘just transition mechanism’",
-      "description": "India says finance to adapt to climate change is an ‘essential investment’; Environment Minister ...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-seeks-a-just-transition-mechanism-at-climate-talks/article70304582.ece",
-      "publishedAt": "2025-11-20T19:08:36",
+      "title": "In One Week, Trump Moves to Reshape U.S. Environmental Policy",
+      "description": "The Trump administration this week moved to weaken the Clean Water Act and the Endangered Species...",
+      "url": "https://www.nytimes.com/2025/11/22/climate/trump-environmental-policy-week.html",
+      "publishedAt": "2025-11-22T19:30:22",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "The Trump administration this week moved to weaken the Clean Water Act and the Endangered Species..."
+    },
+    {
+      "title": "Is the global public tuning out the climate change debate?",
+      "description": "Divisions mark the last days of the UN climate summit in the Brazilian city of Belem.",
+      "url": "https://www.aljazeera.com/video/inside-story/2025/11/22/is-the-global-public-tuning-out-the-climate-change-debate?traffic_source=rss",
+      "publishedAt": "2025-11-22T22:12:07",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Divisions mark the last days of the UN climate summit in the Brazilian city of Belem."
+    },
+    {
+      "title": "Watch: Is COP30 an inflection point in the fight against climate change?",
+      "description": "COP30 is underway in Belém, Brazil, but talks are stuck on fossil fuel phaseout and climate finance.",
+      "url": "https://www.thehindu.com/videos/watch-is-cop30-an-inflection-point-in-the-fight-against-climate-change/article70311059.ece",
+      "publishedAt": "2025-11-22T11:04:22",
       "source": {
         "name": "The Hindu"
       },
-      "content": "India says finance to adapt to climate change is an ‘essential investment’; Environment Minister ..."
-    },
-    {
-      "title": "Why Russia's environmental activists are all going underground",
-      "description": "Russians still protest environmental causes.",
-      "url": "https://www.dw.com/en/why-russia-s-environmental-activists-are-all-going-underground/a-74842183?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-21T19:01:00",
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "content": "Russians still protest environmental causes."
+      "content": "COP30 is underway in Belém, Brazil, but talks are stuck on fossil fuel phaseout and climate finance."
     },
     {
       "title": "Fashion Supply Chains Enter the ‘MMA Era:’ MIT’s Charles Fine on Resilience, Digital Change and China’s Next Global Leap",
@@ -42,26 +52,6 @@
         "name": "Sourcing Journal"
       },
       "content": "Resilient, data-driven and hybrid strategies redefine global fashion supply chains for disruption."
-    },
-    {
-      "title": "Supreme Court accepts Centre's definition of Aravali Hills, bans grant of fresh mining leases",
-      "description": "SC directed the authorities to identify permissible areas for \"mining and ecologically sensitive,...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/supreme-court-accepts-centres-definition-of-aravali-hills-bans-grant-of-fresh-mining-leases/article70307837.ece",
-      "publishedAt": "2025-11-21T13:27:52",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "SC directed the authorities to identify permissible areas for \"mining and ecologically sensitive,..."
-    },
-    {
-      "title": "Is air pollution a South Asian crisis? | Explained",
-      "description": "What was the 2024 India-Pakistan Smog? How has air pollution become rampant across the South Asia...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/is-air-pollution-a-south-asian-crisis-explained/article70304588.ece",
-      "publishedAt": "2025-11-21T03:00:00",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "What was the 2024 India-Pakistan Smog? How has air pollution become rampant across the South Asia..."
     },
     {
       "title": "Energy Department Reorganization Reflects Shift Away From Renewable Energy",
@@ -104,64 +94,164 @@
       "content": "Fallout from increased emissions linked to president’s ‘America First’ policies expected to most ..."
     },
     {
-      "title": "Can Pakistan join the Gaza stabilisation force without facing backlash?",
-      "description": "Islamabad balances alliances, economic needs and public sentiment as it weighs potential troop de...",
-      "url": "https://www.aljazeera.com/news/2025/11/22/can-pakistan-join-the-gaza-stabilisation-force-without-facing-backlash?traffic_source=rss",
-      "publishedAt": "2025-11-22T04:44:05",
+      "title": "COP30 climate talks: Indigenous people reflect on meaning of their participation",
+      "description": "Many Indigenous people who attended the talks felt strengthened by the solidarity with tribes fro...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop30-climate-talks-indigenous-people-reflect-on-meaning-of-their-participation/article70313562.ece",
+      "publishedAt": "2025-11-23T04:16:27",
       "source": {
-        "name": "Al Jazeera"
+        "name": "The Hindu"
       },
-      "content": "Islamabad balances alliances, economic needs and public sentiment as it weighs potential troop de..."
+      "content": "Many Indigenous people who attended the talks felt strengthened by the solidarity with tribes fro..."
     },
     {
-      "title": "Major MAGA figure Marjorie Taylor Greene resigns after Trump clash",
-      "description": "Greene says &#039;standing up for American women raped at 14&#039; should not lead to being brand...",
-      "url": "https://www.aljazeera.com/news/2025/11/22/major-maga-figure-marjorie-taylor-greene-resigns-after-trump-clash?traffic_source=rss",
-      "publishedAt": "2025-11-22T03:43:24",
+      "title": "Denial, division, geopolitics dealt heavy blows to global cooperation this year: UN climate chief Stiell after COP",
+      "description": "Mr.",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/denial-division-geopolitics-dealt-heavy-blows-to-global-cooperation-this-year-un-climate-chief-stiell-after-cop/article70313484.ece",
+      "publishedAt": "2025-11-23T02:17:57",
       "source": {
-        "name": "Al Jazeera"
+        "name": "The Hindu"
       },
-      "content": "Greene says &#039;standing up for American women raped at 14&#039; should not lead to being brand..."
+      "content": "Mr."
     },
     {
-      "title": "Cop30: countries still far apart as climate talks overrun – as it happened",
-      "description": "Summit president André Corrêa do Lago issued plea to preserve Paris agreement with countries unab...",
-      "url": "https://www.theguardian.com/world/live/2025/nov/21/cop30-live-fossil-fuel-phaseout-final-text-brazil-belem-latest-news-updates",
-      "publishedAt": "2025-11-22T01:53:52",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Summit president André Corrêa do Lago issued plea to preserve Paris agreement with countries unab..."
-    },
-    {
-      "title": "Marjorie Taylor Greene resigns after public feud with Trump",
-      "description": "The congresswoman, a once-loyal supporter of President Donald Trump, has recently taken positions...",
-      "url": "https://www.dw.com/en/marjorie-taylor-greene-resigns-after-public-feud-with-trump/a-74845585?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-22T01:39:00",
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "content": "The congresswoman, a once-loyal supporter of President Donald Trump, has recently taken positions..."
-    },
-    {
-      "title": "Miliband urges Cop30 to find ‘creative’ routes to roadmap on phasing out fossil fuel",
-      "description": "UK energy secretary says UN climate talks must find way to keep proposals alive despite significa...",
-      "url": "https://www.theguardian.com/environment/2025/nov/21/miliband-cop30-creative-routes-roadmap-phase-out-fossil-fuel",
-      "publishedAt": "2025-11-21T23:50:31",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "UK energy secretary says UN climate talks must find way to keep proposals alive despite significa..."
-    },
-    {
-      "title": "'A lot of fighting': Fossil fuel row breaks out at UN climate summit",
-      "description": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic.",
-      "url": "https://www.bbc.com/news/articles/c0q5ewew4geo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-21T21:21:41",
+      "title": "COP30: Five key takeaways from a deeply divisive climate summit",
+      "description": "What did we learn from a climate summit that ended in a deal with no new mention of fossil fuels?...",
+      "url": "https://www.bbc.com/news/articles/cp84m16mdm1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-23T00:10:18",
       "source": {
         "name": "BBC"
       },
-      "content": "A row over fossil fuels has broken out at COP30 but this is also likely to be a negotiating tactic."
+      "content": "What did we learn from a climate summit that ended in a deal with no new mention of fossil fuels?..."
+    },
+    {
+      "title": "Fury, confusion and gratitude as climate deal reached in Belé – as it happened",
+      "description": "After a series of all-night meetings and fears the summit could collapse, an agreement has been g...",
+      "url": "https://www.theguardian.com/environment/live/2025/nov/22/cop30-climate-talks-deal-overtime-live-news",
+      "publishedAt": "2025-11-22T22:48:08",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "After a series of all-night meetings and fears the summit could collapse, an agreement has been g..."
+    },
+    {
+      "title": "UN climate talks fail to secure new fossil fuel promises",
+      "description": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on clima...",
+      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-22T22:38:19",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on clima..."
+    },
+    {
+      "title": "'How ambitious was it?': BBC on the ground as COP30 ends",
+      "description": "The COP30 climate summit fails to secure new pledges to cut fossil fuels after running over time ...",
+      "url": "https://www.bbc.com/news/videos/c4gple9llrwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-22T22:25:13",
+      "source": {
+        "name": "BBC"
+      },
+      "content": "The COP30 climate summit fails to secure new pledges to cut fossil fuels after running over time ..."
+    },
+    {
+      "title": "World leaders, rights groups react to COP30 climate deal",
+      "description": "Deal reached at UN climate talks in Brazil spurs mixed reactions as climate campaigners say more ...",
+      "url": "https://www.aljazeera.com/news/2025/11/22/world-leaders-rights-groups-react-to-cop30-climate-deal?traffic_source=rss",
+      "publishedAt": "2025-11-22T21:55:22",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Deal reached at UN climate talks in Brazil spurs mixed reactions as climate campaigners say more ..."
+    },
+    {
+      "title": "End of fossil fuel era inches closer as Cop30 deal agreed after bitter standoff",
+      "description": "Wealthy countries should triple funds for countries to tackle climate impacts, but deforestation ...",
+      "url": "https://www.theguardian.com/environment/2025/nov/22/cop30-deal-inches-closer-to-end-of-fossil-fuel-era-after-bitter-standoff",
+      "publishedAt": "2025-11-22T21:52:41",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Wealthy countries should triple funds for countries to tackle climate impacts, but deforestation ..."
+    },
+    {
+      "title": "Germany's Merz, Brazil's Lula reconcile after Belem comments",
+      "description": "German Chancellor Friedrich Merz recently came under fire in Brazil for comments he made after hi...",
+      "url": "https://www.dw.com/en/germany-s-merz-brazil-s-lula-reconcile-after-belem-comments/a-74850206?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-22T20:16:00",
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "content": "German Chancellor Friedrich Merz recently came under fire in Brazil for comments he made after hi..."
+    },
+    {
+      "title": "COP30 Climate Summit Ends With Dire Warnings and Scant Plans for Action",
+      "description": "The final agreement, with no direct mention of the fossil fuels dangerously heating Earth, was a ...",
+      "url": "https://www.nytimes.com/2025/11/22/climate/cop30-climate-summit-ends-belem.html",
+      "publishedAt": "2025-11-22T19:48:24",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "The final agreement, with no direct mention of the fossil fuels dangerously heating Earth, was a ..."
+    },
+    {
+      "title": "COP30: No fossil fuel deal after protests, chaos and compromise",
+      "description": "Two weeks of climate negotiations in the Brazilian city of Belem have closed with an agreement th...",
+      "url": "https://www.dw.com/en/cop30-no-fossil-fuel-deal-after-protests-chaos-and-compromise/a-74843443?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-22T18:16:00",
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "content": "Two weeks of climate negotiations in the Brazilian city of Belem have closed with an agreement th..."
+    },
+    {
+      "title": "COP30: New climate deal reached in Brazil, but still no fossil fuel roadmap",
+      "description": "UN climate talks in Brazil resulted in a modest agreement to increase financial support for count...",
+      "url": "http://www.euronews.com/green/2025/11/22/cop30-new-climate-deal-reached-in-brazil-but-still-no-fossil-fuel-roadmap",
+      "publishedAt": "2025-11-22T17:54:36",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "UN climate talks in Brazil resulted in a modest agreement to increase financial support for count..."
+    },
+    {
+      "title": "G20 declaration adopted unanimously: World leaders defy US boycott to summit in Africa",
+      "description": "World leaders from the Group of 20 rich and developing economies broke with tradition and adopted...",
+      "url": "https://www.france24.com/en/video/20251122-g20-declaration-adopted-unanimously-world-leaders-defy-us-boycott-to-summit-in-africa",
+      "publishedAt": "2025-11-22T16:52:39",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "World leaders from the Group of 20 rich and developing economies broke with tradition and adopted..."
+    },
+    {
+      "title": "Europe agrees to a COP30 outcome deal",
+      "description": "The COP30 climate talks in Brazil are moving toward a deal as the two-week conference enters its ...",
+      "url": "https://www.france24.com/en/video/20251122-europe-agrees-to-a-cop30-outcome-deal",
+      "publishedAt": "2025-11-22T16:51:03",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "The COP30 climate talks in Brazil are moving toward a deal as the two-week conference enters its ..."
+    },
+    {
+      "title": "COP30 summit in Brazil adopts climate deal – after omitting calls to phase out fossil fuels",
+      "description": "The COP30 climate talks in Brazil on Saturday culminated in a final agreement which dropped any e...",
+      "url": "https://www.france24.com/en/environment/20251122-cop30-climate-talks-reach-tentative-agreement-after-omitting-reference-fossil-fuels",
+      "publishedAt": "2025-11-22T15:30:49",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "The COP30 climate talks in Brazil on Saturday culminated in a final agreement which dropped any e..."
+    },
+    {
+      "title": "‘Superfluous consumerism’: adult Advent calendar trend alarms green groups",
+      "description": "Trend is adding to ‘waste crisis’ owing to individual packaging and potential for unwanted items,...",
+      "url": "https://www.theguardian.com/lifeandstyle/2025/nov/22/adult-advent-calendar-trend-alarms-green-groups-waste-crisis",
+      "publishedAt": "2025-11-22T10:00:36",
+      "source": {
+        "name": "The Guardian"
+      },
+      "content": "Trend is adding to ‘waste crisis’ owing to individual packaging and potential for unwanted items,..."
     },
     {
       "title": "COP30 runs into overtime to reach deal as nations clash over fossil fuels",
@@ -204,16 +294,6 @@
       "content": "Fashion brand Everlane has pledged to support regenerative cashmere farming in Mongolia through i..."
     },
     {
-      "title": "COP30 draft climate cover text skips mention of fossil fuel use",
-      "description": "A flashpoint has emerged in the COP with developing countries opposing the inclusion of language ...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop30-draft-climate-cover-text-skips-mention-of-fossil-fuel-use/article70307886.ece",
-      "publishedAt": "2025-11-21T14:26:05",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "A flashpoint has emerged in the COP with developing countries opposing the inclusion of language ..."
-    },
-    {
       "title": "COP30 talks stall as fossil fuel phaseout remains contentious",
       "description": "At COP30 in Belem, disputes over phasing out fossil fuels threaten to extend the UN climate summi...",
       "url": "https://www.france24.com/en/video/20251121-cop30-talks-stall-as-fossil-fuel-phaseout-remains-contentious",
@@ -224,16 +304,6 @@
       "content": "At COP30 in Belem, disputes over phasing out fossil fuels threaten to extend the UN climate summi..."
     },
     {
-      "title": "World collectively needs to hike climate finance: India at COP30",
-      "description": "Bhupender Yadav highlighted India’s efforts and experiences in accessing adaptation finance, the ...",
-      "url": "https://www.thehindu.com/news/national/world-collectively-needs-to-hike-climate-finance-india-at-cop30/article70306570.ece",
-      "publishedAt": "2025-11-21T07:13:00",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "Bhupender Yadav highlighted India’s efforts and experiences in accessing adaptation finance, the ..."
-    },
-    {
       "title": "COP30 climate talks head for final showdown as draft deal drops fossil fuel transition",
       "description": "The COP30 climate summit was headed for a showdown on Friday after host Brazil released a draft p...",
       "url": "https://www.france24.com/en/live-news/20251121-fossil-fuel-showdown-looms-on-un-climate-summit-s-final-day",
@@ -242,26 +312,6 @@
         "name": "France 24"
       },
       "content": "The COP30 climate summit was headed for a showdown on Friday after host Brazil released a draft p..."
-    },
-    {
-      "title": "India's delayed action plan raises eyebrows at COP30 climate summit",
-      "description": "India says it has met a key target of its previous climate action plan, but many say it needs to ...",
-      "url": "https://www.bbc.com/news/articles/cy8v8k8mlego?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-21T01:17:06",
-      "source": {
-        "name": "BBC"
-      },
-      "content": "India says it has met a key target of its previous climate action plan, but many say it needs to ..."
-    },
-    {
-      "title": "Fire Breaks Out at COP30 Climate Talks in Brazil",
-      "description": "Delegates were evacuated from the conference venue, where thousands from nearly 200 countries had...",
-      "url": "https://www.nytimes.com/2025/11/20/climate/fire-cop30-belem-climate.html",
-      "publishedAt": "2025-11-20T23:45:34",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "Delegates were evacuated from the conference venue, where thousands from nearly 200 countries had..."
     },
     {
       "title": "Fire breaks out at COP30 climate talks, suspending key negotiations",
@@ -314,274 +364,544 @@
       "content": "We want to hear about how these shifts showed up in your everyday lives this yearThe climate cris..."
     },
     {
-      "title": "Will Pakistan and Indonesia join Gaza stabilization force?",
-      "description": "Pakistan and Indonesia, the world's two most populous Muslim nations, are weighing their options ...",
-      "url": "https://www.dw.com/en/will-pakistan-and-indonesia-join-gaza-stabilization-force/a-74838150?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-22T06:38:00",
+      "title": "Cyclone Fina batters Australia's Northern Territory",
+      "description": "Residents of Australia's Northern Territory spent their Sunday morning assessing the damage from ...",
+      "url": "https://www.dw.com/en/cyclone-fina-batters-australia-s-northern-territory/a-74851157?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-23T06:49:00",
       "source": {
         "name": "Deutsche Welle"
       },
-      "content": "Pakistan and Indonesia, the world's two most populous Muslim nations, are weighing their options ..."
+      "content": "Residents of Australia's Northern Territory spent their Sunday morning assessing the damage from ..."
     },
     {
-      "title": "TVK chief Vijay to resume public engagement with indoor, limited-access meet in Kancheepuram",
-      "description": "He will address supporters in Kancheepuram district at 11 a.",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tvk-chief-vijay-to-resume-public-engagement-with-indoor-limited-access-meet-in-kancheepuram/article70310480.ece",
-      "publishedAt": "2025-11-22T06:32:25",
+      "title": "Syrian refugees in Germany face pressure to return",
+      "description": "The heated debate about whether Syrians should return to their homeland to help rebuild after mor...",
+      "url": "https://www.dw.com/en/syrian-refugees-in-germany-face-pressure-to-return/a-74833167?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-23T06:46:00",
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "content": "The heated debate about whether Syrians should return to their homeland to help rebuild after mor..."
+    },
+    {
+      "title": "Fire breaks out at district hospital in M.P.'s Betul; patients shifted to safety",
+      "description": "Patients from the female ward and the paediatric ward were shifted to safer areas as a precaution.",
+      "url": "https://www.thehindu.com/news/national/madhya-pradesh/fire-breaks-out-at-district-hospital-in-mps-betul-patients-shifted-to-safety/article70313697.ece",
+      "publishedAt": "2025-11-23T06:41:55",
       "source": {
         "name": "The Hindu"
       },
-      "content": "He will address supporters in Kancheepuram district at 11 a."
+      "content": "Patients from the female ward and the paediatric ward were shifted to safer areas as a precaution."
     },
     {
-      "title": "Electrification work begins at Subarnapur in Odisha following Mohan Charan Majhi’s direction",
-      "description": "A day after the Chief Minister's direction, officials of the District Administration and personne...",
-      "url": "https://www.thehindu.com/news/national/odisha/electrification-work-begins-at-subarnapur-in-odisha-following-mohan-charan-majhis-direction/article70310512.ece",
-      "publishedAt": "2025-11-22T06:30:39",
+      "title": "Illegal cough syrup trade: U.P. Police book 12 medical store owners",
+      "description": "A drug department probe found that more than 37 lakh bottles of codeine syrup worth around ₹57 cr...",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/illegal-cough-syrup-trade-up-police-book-12-medical-store-owners/article70313681.ece",
+      "publishedAt": "2025-11-23T06:35:20",
       "source": {
         "name": "The Hindu"
       },
-      "content": "A day after the Chief Minister's direction, officials of the District Administration and personne..."
+      "content": "A drug department probe found that more than 37 lakh bottles of codeine syrup worth around ₹57 cr..."
     },
     {
-      "title": "KRCL personnel reunite runaway boy with parents after he was seen without ticket on Mumbai-Mangaluru train",
-      "description": "It was subsequently found that the child had been missing from his school in Vasco-da-Gama, Goa, ...",
-      "url": "https://www.thehindu.com/news/cities/Mangalore/krcl-personnel-reunite-runaway-boy-with-parents-after-he-was-seen-without-ticket-on-mumbai-mangaluru-train/article70310557.ece",
-      "publishedAt": "2025-11-22T06:30:01",
+      "title": "Accused, shunned, exiled: The women banished to Ghana’s ‘witch camps’",
+      "description": "Women accused of witchcraft are cast out of their communities in north Ghana.",
+      "url": "https://www.aljazeera.com/features/longform/2025/11/23/accused-shunned-exiled-the-women-banished-to-ghanas-witch-camps?traffic_source=rss",
+      "publishedAt": "2025-11-23T06:32:58",
       "source": {
-        "name": "The Hindu"
+        "name": "Al Jazeera"
       },
-      "content": "It was subsequently found that the child had been missing from his school in Vasco-da-Gama, Goa, ..."
+      "content": "Women accused of witchcraft are cast out of their communities in north Ghana."
     },
     {
-      "title": "Kerala local body polls: Defections, narrow margins define fierce battle for Koothattukulam",
-      "description": "Despite setbacks, both fronts remain confident of wresting power in the upcoming election...",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-local-body-polls-defections-narrow-margins-define-fierce-battle-for-koothattukulam/article70310498.ece",
-      "publishedAt": "2025-11-22T06:25:35",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "Despite setbacks, both fronts remain confident of wresting power in the upcoming election..."
-    },
-    {
-      "title": "‘Save Banyan Trees’ representatives felicitated by Telangana CM Revanth",
-      "description": "Telangana Chief Minister Revanth Reddy praises Parigi MLA T.",
-      "url": "https://www.thehindu.com/news/national/telangana/save-banyan-trees-representatives-felicitated-by-telangana-cm-revanth/article70310555.ece",
-      "publishedAt": "2025-11-22T06:22:54",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "Telangana Chief Minister Revanth Reddy praises Parigi MLA T."
-    },
-    {
-      "title": "Kalaburagi study suggests a KMF-style cooperative cure for price volatility of vegetables",
-      "description": "The study suggests a KMF-style overhaul of vegetable marketing; the model would allow vegetable f...",
-      "url": "https://www.thehindu.com/news/national/karnataka/kalaburagi-study-suggests-a-kmf-style-cooperative-cure-for-price-volatility-of-vegetables/article70308170.ece",
-      "publishedAt": "2025-11-22T06:14:50",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "The study suggests a KMF-style overhaul of vegetable marketing; the model would allow vegetable f..."
-    },
-    {
-      "title": "Nine-month-old baby girl abandoned on express train rescued at Chennai Central",
-      "description": "Despite a thorough search of all coaches, the parents could not be traced; further efforts to ide...",
-      "url": "https://www.thehindu.com/news/cities/chennai/nine-month-old-baby-abandonedon-express-train-rescued-at-chennai-central/article70310495.ece",
-      "publishedAt": "2025-11-22T06:14:46",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "Despite a thorough search of all coaches, the parents could not be traced; further efforts to ide..."
-    },
-    {
-      "title": "Two BLOs die across two districts in M.P.; kin allege SIR survey work pressure",
-      "description": "Relatives and friends of the deceased teachers-cum-BLOs, however, blamed heavy workload and press...",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/two-blos-die-across-two-districts-in-mp-kin-allege-sir-survey-work-pressure/article70310525.ece",
-      "publishedAt": "2025-11-22T06:12:18",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "Relatives and friends of the deceased teachers-cum-BLOs, however, blamed heavy workload and press..."
-    },
-    {
-      "title": "Latest news bulletin | November 22nd, 2025 – Morning",
-      "description": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2025 -...",
-      "url": "http://www.euronews.com/video/2025/11/22/latest-news-bulletin-november-22nd-2025-morning",
-      "publishedAt": "2025-11-22T06:00:33",
+      "title": "China's 2-tonne eVTOL completes cross-city cargo test flight",
+      "description": "A domestically developed 2-tonne eVTOL has completed a low-altitude cross-city cargo test flight ...",
+      "url": "http://www.euronews.com/video/2025/11/23/chinas-2-tonne-evtol-completes-cross-city-cargo-test-flight",
+      "publishedAt": "2025-11-23T06:30:59",
       "source": {
         "name": "Euronews"
       },
-      "content": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2025 -..."
+      "content": "A domestically developed 2-tonne eVTOL has completed a low-altitude cross-city cargo test flight ..."
     },
     {
-      "title": "Meet the co-anchor of Euronews’ new morning show Europe Today, Maria Tadeo",
-      "description": "Euronews launches Europe Today with Maria Tadeo, bringing key EU news and analysis each morning.",
-      "url": "http://www.euronews.com/my-europe/2025/11/22/meet-the-co-anchor-of-euronews-new-morning-show-europe-today-maria-tadeo",
-      "publishedAt": "2025-11-22T06:00:28",
+      "title": "Israel has violated Gaza truce nearly 500 times in 44 days, killed hundreds",
+      "description": "Gaza Government Media Office says Israel fully responsible for humanitarian, security repercussio...",
+      "url": "https://www.aljazeera.com/news/2025/11/23/israel-has-violated-gaza-truce-nearly-500-times-in-44-days-killed-hundreds?traffic_source=rss",
+      "publishedAt": "2025-11-23T06:23:41",
       "source": {
-        "name": "Euronews"
+        "name": "Al Jazeera"
       },
-      "content": "Euronews launches Europe Today with Maria Tadeo, bringing key EU news and analysis each morning."
+      "content": "Gaza Government Media Office says Israel fully responsible for humanitarian, security repercussio..."
     },
     {
-      "title": "‘Investing superheroes’: Here’s what to know about profit for purpose",
-      "description": "Impact investors — representing the profit-for-purpose market, worth roughly $1.",
-      "url": "http://www.euronews.com/business/2025/11/22/investing-superheroes-heres-what-to-know-about-profit-for-purpose",
-      "publishedAt": "2025-11-22T06:00:20",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "Impact investors — representing the profit-for-purpose market, worth roughly $1."
-    },
-    {
-      "title": "I moved to a depopulated village in Sardinia. Here’s how the island is luring new residents",
-      "description": "In the last few years, its remote communities have launched various schemes in the hope of bolste...",
-      "url": "http://www.euronews.com/travel/2025/11/22/i-moved-to-a-depopulated-village-in-sardinia-heres-how-the-island-is-luring-new-residents",
-      "publishedAt": "2025-11-22T06:00:17",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "In the last few years, its remote communities have launched various schemes in the hope of bolste..."
-    },
-    {
-      "title": "Bypass road construction in full swing for NH 169A in Karnataka’s Agumbe",
-      "description": "The bypass will circumvent the blind curve at Agumbe Circle on Udupi-Shivamogga highway...",
-      "url": "https://www.thehindu.com/news/cities/Mangalore/bypass-road-construction-in-full-swing-for-nh-169a-in-karnatakas-agumbe/article70310507.ece",
-      "publishedAt": "2025-11-22T05:58:05",
+      "title": "Man accused of drug peddling shot on knee by police near Chidambaram",
+      "description": "The accused had nine cases including five ganja cases pending against him in various police stati...",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/man-accused-of-drug-peddling-shot-on-knee-by-police-near-chidambaram/article70313608.ece",
+      "publishedAt": "2025-11-23T06:13:17",
       "source": {
         "name": "The Hindu"
       },
-      "content": "The bypass will circumvent the blind curve at Agumbe Circle on Udupi-Shivamogga highway..."
+      "content": "The accused had nine cases including five ganja cases pending against him in various police stati..."
     },
     {
-      "title": "Nearly 18 acres of illegal poppy cultivation destroyed in Manipur",
-      "description": "The State government had previously issued warnings against people engaged in widespread poppy pl...",
-      "url": "https://www.thehindu.com/news/national/manipur/nearly-18-acres-of-illegal-poppy-cultivation-destroyed-in-manipur/article70310477.ece",
-      "publishedAt": "2025-11-22T05:56:47",
+      "title": "Latest news bulletin | November 23rd, 2025 – Morning",
+      "description": "Catch up with the most important stories from around Europe and beyond this November 23rd, 2025 -...",
+      "url": "http://www.euronews.com/video/2025/11/23/latest-news-bulletin-november-23rd-2025-morning",
+      "publishedAt": "2025-11-23T06:00:33",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Catch up with the most important stories from around Europe and beyond this November 23rd, 2025 -..."
+    },
+    {
+      "title": "The world’s tallest hotel has just opened in Dubai at 377 metres tall with 82 floors",
+      "description": "All the rooms have floor-to-ceiling windows to take advantage of the panoramic vistas.",
+      "url": "http://www.euronews.com/travel/2025/11/23/377-metres-tall-with-82-floors-the-worlds-tallest-hotel-has-just-opened-in-dubai",
+      "publishedAt": "2025-11-23T06:00:19",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "All the rooms have floor-to-ceiling windows to take advantage of the panoramic vistas."
+    },
+    {
+      "title": "Get to know Méabh Mc Mahon, co-anchor of Euronews’ new morning show Europe Today",
+      "description": "Catch all the essential EU news each morning on Euronews' new show Europe Today with Méabh Mc Mah...",
+      "url": "http://www.euronews.com/my-europe/2025/11/23/get-to-know-meabh-mcmahon-co-anchor-of-euronews-new-morning-show-europe-today",
+      "publishedAt": "2025-11-23T06:00:10",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Catch all the essential EU news each morning on Euronews' new show Europe Today with Méabh Mc Mah..."
+    },
+    {
+      "title": "Income needed to avoid poverty: How do European thresholds compare?",
+      "description": "Millions of Europeans live in poverty, but the meaning of a comfortable income differs widely acr...",
+      "url": "http://www.euronews.com/business/2025/11/23/income-needed-to-avoid-poverty-how-do-european-thresholds-compare",
+      "publishedAt": "2025-11-23T06:00:02",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Millions of Europeans live in poverty, but the meaning of a comfortable income differs widely acr..."
+    },
+    {
+      "title": "Russia-Ukraine war live: US, European officials to discuss Trump’s plan",
+      "description": "Officials from the US, Ukraine, and national security advisers from France, UK and Germany to hol...",
+      "url": "https://www.aljazeera.com/news/liveblog/2025/11/23/ukraine-live?traffic_source=rss",
+      "publishedAt": "2025-11-23T05:46:16",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Officials from the US, Ukraine, and national security advisers from France, UK and Germany to hol..."
+    },
+    {
+      "title": "Delhi air quality remains 'very poor', AQI stands at 381",
+      "description": "The minimum temperature settled at 14°C, 2.",
+      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-quality-remains-very-poor-aqi-stands-at-381/article70313617.ece",
+      "publishedAt": "2025-11-23T05:36:24",
       "source": {
         "name": "The Hindu"
       },
-      "content": "The State government had previously issued warnings against people engaged in widespread poppy pl..."
+      "content": "The minimum temperature settled at 14°C, 2."
+    },
+    {
+      "title": "‘Enough repression’: Thousands of Tunisians protest against Kais Saied",
+      "description": "Protesters in Tunis denounce an escalating crackdown on dissent and demand the release of jailed ...",
+      "url": "https://www.aljazeera.com/news/2025/11/23/enough-repression-thousands-of-tunisians-protest-against-kais-saied?traffic_source=rss",
+      "publishedAt": "2025-11-23T05:21:38",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Protesters in Tunis denounce an escalating crackdown on dissent and demand the release of jailed ..."
+    },
+    {
+      "title": "Tejas crash at Dubai Air Show: Tributes paid to Wing Commander Namansh Syal at Air Force Station Sulur",
+      "description": "The Wing Commander was attached to IAF's No.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tejas-crash-homage-paid-to-wing-commander-namansh-syal-at-air-force-station-sulur-home-to-no-45-squadron/article70313583.ece",
+      "publishedAt": "2025-11-23T05:00:17",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "The Wing Commander was attached to IAF's No."
+    },
+    {
+      "title": "Four militants arrested in Manipur",
+      "description": "Security forces arrested an active cadre of the proscribed PREPAK (PRO) from Moreh Gate in Tengno...",
+      "url": "https://www.thehindu.com/news/national/manipur/four-militants-arrested-in-manipur/article70313582.ece",
+      "publishedAt": "2025-11-23T04:59:31",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "Security forces arrested an active cadre of the proscribed PREPAK (PRO) from Moreh Gate in Tengno..."
+    },
+    {
+      "title": "Two BLOs suspended for negligence during SIR in UP's Bahraich",
+      "description": "The Election Commission of India expressed strong displeasure, terming the conduct of both offici...",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/two-blos-suspended-for-negligence-during-sir-in-ups-bahraich/article70313586.ece",
+      "publishedAt": "2025-11-23T04:55:25",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "The Election Commission of India expressed strong displeasure, terming the conduct of both offici..."
+    },
+    {
+      "title": "Pakistan Defence Minister Asif condoles Indian pilot's death in Dubai Air Show crash",
+      "description": "The Minister sharing Pakistan Strategic Forum’s message noted that “Unfortunately the IAF pilot w...",
+      "url": "https://www.thehindu.com/news/international/pakistan-defence-minister-asif-condoles-indian-pilots-death-in-dubai-air-show-crash/article70313575.ece",
+      "publishedAt": "2025-11-23T04:55:00",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "The Minister sharing Pakistan Strategic Forum’s message noted that “Unfortunately the IAF pilot w..."
+    },
+    {
+      "title": "YSRCP misleading public over VSP issue, says Minister",
+      "description": "With the initiative of the Chandrababu Naidu government, the Centre had announced ₹11,400-crore p...",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-misleading-public-over-vsp-issue-says-minister/article70311350.ece",
+      "publishedAt": "2025-11-23T04:32:01",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "With the initiative of the Chandrababu Naidu government, the Centre had announced ₹11,400-crore p..."
+    },
+    {
+      "title": "US denies pushing Russian 'wish list' as Ukraine plan",
+      "description": "Washington insisted Saturday that its Ukraine proposal is indeed official US policy, denying clai...",
+      "url": "https://www.france24.com/en/live-news/20251123-us-denies-pushing-russian-wish-list-as-ukraine-plan",
+      "publishedAt": "2025-11-23T04:25:16",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "Washington insisted Saturday that its Ukraine proposal is indeed official US policy, denying clai..."
+    },
+    {
+      "title": "Airlines cancel Venezuela flights amid US warning, military buildup",
+      "description": "Flight suspensions come after US regulator warned planes of security risk in the airspace in and ...",
+      "url": "https://www.aljazeera.com/news/2025/11/23/airlines-cancel-flights-to-venezuela-amid-us-military-buildup?traffic_source=rss",
+      "publishedAt": "2025-11-23T03:20:23",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Flight suspensions come after US regulator warned planes of security risk in the airspace in and ..."
+    },
+    {
+      "title": "India offers ‘strong support’ to Brazil for COP30, says satisfied with many outcomes from summit",
+      "description": "Though New Delhi expressed satisfaction with many decisions, it did not specifically call the COP...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop30-summit-india-support-effective-climate-policies/article70313504.ece",
+      "publishedAt": "2025-11-23T03:10:36",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "Though New Delhi expressed satisfaction with many decisions, it did not specifically call the COP..."
+    },
+    {
+      "title": "Russia-Ukraine war: List of key events, day 1,368",
+      "description": "Here are the key events from day 1,368 of Russia’s war on Ukraine.",
+      "url": "https://www.aljazeera.com/news/2025/11/23/russia-ukraine-war-list-of-key-events-day-1368?traffic_source=rss",
+      "publishedAt": "2025-11-23T02:53:55",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Here are the key events from day 1,368 of Russia’s war on Ukraine."
+    },
+    {
+      "title": "Stopping the Greatest Threat to the Amazon, One Fire at a Time",
+      "description": "After four decades of research, a scientist returns to the Amazon in an effort to change the beha...",
+      "url": "https://www.nytimes.com/2025/11/22/climate/amazon-fire-paragominas-nepstad.html",
+      "publishedAt": "2025-11-23T02:35:27",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "After four decades of research, a scientist returns to the Amazon in an effort to change the beha..."
+    },
+    {
+      "title": "Ukraine updates: US senators say peace plan is from Russia",
+      "description": "A group of US lawmakers says Marco Rubio told them the Trump-backed peace plan is a Russian \"wish...",
+      "url": "https://www.dw.com/en/ukraine-updates-us-senators-say-peace-plan-is-from-russia/live-74850575?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-23T02:24:00",
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "content": "A group of US lawmakers says Marco Rubio told them the Trump-backed peace plan is a Russian \"wish..."
+    },
+    {
+      "title": "Residents of a neighbourhood in Chennai drawing up a tree map for their local park",
+      "description": "Hands have gone up to take up responsibilities that go with creating the tree map; the Greater Ch...",
+      "url": "https://www.thehindu.com/news/cities/chennai/residents-of-a-neighbourhood-in-chennai-drawing-up-a-tree-map-for-their-local-park/article70312187.ece",
+      "publishedAt": "2025-11-23T02:23:05",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "Hands have gone up to take up responsibilities that go with creating the tree map; the Greater Ch..."
+    },
+    {
+      "title": "Conservancy worker rescues Chestnut winged cuckoo in a busy part of Chennai; that resurfaces an old question about the species",
+      "description": "This recent rescue from Oliver Road in Mylapore highlights the fact that Chestnut winged cuckoo, ...",
+      "url": "https://www.thehindu.com/news/cities/chennai/conservancy-worker-rescues-chestnut-winged-cuckoo-in-a-busy-part-of-chennai-that-resurfaces-an-old-question-about-the-species/article70313482.ece",
+      "publishedAt": "2025-11-23T01:49:22",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "This recent rescue from Oliver Road in Mylapore highlights the fact that Chestnut winged cuckoo, ..."
+    },
+    {
+      "title": "Donald Trump says US plan to end Ukraine war not 'final offer' for Kyiv",
+      "description": "Speaking to reporters at the White House on Saturday, Trump said the US proposal on Russia’s war ...",
+      "url": "http://www.euronews.com/video/2025/11/23/donald-trump-says-us-plan-to-end-ukraine-war-not-final-offer-for-kyiv",
+      "publishedAt": "2025-11-23T00:11:53",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Speaking to reporters at the White House on Saturday, Trump said the US proposal on Russia’s war ..."
+    },
+    {
+      "title": "Bielle-Biarrey leads France past Australia, Wallabies finish winless European tour",
+      "description": "France winger Louis Bielle-Biarrey scored twice and set up two more as Les Bleus overcame Austral...",
+      "url": "https://www.france24.com/en/live-news/20251122-bielle-biarrey-masterclass-helps-france-hold-off-australia",
+      "publishedAt": "2025-11-22T22:17:14",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "France winger Louis Bielle-Biarrey scored twice and set up two more as Les Bleus overcame Austral..."
+    },
+    {
+      "title": "G20 adopts declaration despite US absence",
+      "description": "It is unusual for world leaders to adopt a declaration at the start of the G20.",
+      "url": "https://www.dw.com/en/g20-adopts-declaration-despite-us-absence/a-74850499?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-22T22:13:00",
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "content": "It is unusual for world leaders to adopt a declaration at the start of the G20."
+    },
+    {
+      "title": "Air traffic suspended at Netherlands airport after drone sightings",
+      "description": "Drone sightings caused suspension of air traffic at Eindhoven airport, impacting both civilian an...",
+      "url": "https://www.aljazeera.com/news/2025/11/22/air-traffic-suspended-at-netherlands-airport-after-drone-sightings?traffic_source=rss",
+      "publishedAt": "2025-11-22T22:03:37",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Drone sightings caused suspension of air traffic at Eindhoven airport, impacting both civilian an..."
+    },
+    {
+      "title": "Kyiv and its foreign allies 'are being very diplomatic'",
+      "description": "A Ukrainian delegation, bolstered by representatives from France, Germany and the UK, is preparin...",
+      "url": "https://www.france24.com/en/video/20251122-kyiv-and-its-foreign-allies-are-being-very-diplomatic",
+      "publishedAt": "2025-11-22T21:34:14",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "A Ukrainian delegation, bolstered by representatives from France, Germany and the UK, is preparin..."
+    },
+    {
+      "title": "Gaza was ‘near and dear’ to Zohran Mamdani’s NYC mayoral bid, father says",
+      "description": "Scholar Mahmood Mamdani says Palestinian rights helped motivate his son Zohran’s run for New York...",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/22/gaza-was-near-and-dear-to-zohran-mamdanis-nyc-mayoral-bid-father-says?traffic_source=rss",
+      "publishedAt": "2025-11-22T21:08:36",
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "content": "Scholar Mahmood Mamdani says Palestinian rights helped motivate his son Zohran’s run for New York..."
+    },
+    {
+      "title": "Lemurs in Madagascar Face an Unexpected Killer",
+      "description": "Thousands of the endangered primates end up on the dinner plates of people in the upper rung of t...",
+      "url": "https://www.nytimes.com/2025/11/22/science/lemurs-madagascar-eating.html",
+      "publishedAt": "2025-11-22T20:55:57",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "Thousands of the endangered primates end up on the dinner plates of people in the upper rung of t..."
     },
     {
       "title": "First year of Israel-Hezbollah ceasefire marred by violations",
       "description": "One year after the ceasefire between Israel and Hezbollah, the death toll is again climbing as bo...",
       "url": "https://www.dw.com/en/first-year-of-israel-hezbollah-ceasefire-marred-by-violations/a-74839862?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-22T05:49:00",
+      "publishedAt": "2025-11-22T20:19:00",
       "source": {
         "name": "Deutsche Welle"
       },
       "content": "One year after the ceasefire between Israel and Hezbollah, the death toll is again climbing as bo..."
     },
     {
-      "title": "Australia’s Northern Territory braces for Tropical Cyclone Fina",
-      "description": "Authorities in Australia&#039;s Northern Territory described the situation as &#039;serious&#039;...",
-      "url": "https://www.aljazeera.com/news/2025/11/22/australias-northern-territory-braces-for-tropical-cyclone-fina?traffic_source=rss",
-      "publishedAt": "2025-11-22T05:23:37",
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "content": "Authorities in Australia&#039;s Northern Territory described the situation as &#039;serious&#039;..."
-    },
-    {
-      "title": "US warns civilian flights as military activity around Venezuela increases",
-      "description": "US aviation administration issues warning amid &#039;worsening security&#039; and growing &#039;m...",
-      "url": "https://www.aljazeera.com/news/2025/11/22/us-warns-civilian-flights-as-military-activity-around-venezuela-increases?traffic_source=rss",
-      "publishedAt": "2025-11-22T05:22:02",
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "content": "US aviation administration issues warning amid &#039;worsening security&#039; and growing &#039;m..."
-    },
-    {
-      "title": "UN human rights expert urges US to lift sanctions on Cuba",
-      "description": "The decades-long US embargo on Cuba is impacting the humanitarian situation in the island nation,...",
-      "url": "https://www.dw.com/en/un-human-rights-expert-urges-us-to-lift-sanctions-on-cuba/a-74845654?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-22T05:22:00",
+      "title": "Russia's hybrid war: Germany steps up its defenses",
+      "description": "Russia is increasing its hybrid attacks on Germany, including the use of drones, sabotage of infr...",
+      "url": "https://www.dw.com/en/russia-s-hybrid-war-germany-steps-up-its-defenses/a-74835432?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-22T20:16:00",
       "source": {
         "name": "Deutsche Welle"
       },
-      "content": "The decades-long US embargo on Cuba is impacting the humanitarian situation in the island nation,..."
+      "content": "Russia is increasing its hybrid attacks on Germany, including the use of drones, sabotage of infr..."
     },
     {
-      "title": "Sycamore Gap tree saplings to be planted across UK",
-      "description": "National Trust begins planting the 49 ‘trees of hope’ so the illegally felled tree can live on in...",
-      "url": "https://www.theguardian.com/environment/2025/nov/22/sycamore-gap-tree-saplings-planted-trees-of-hope",
-      "publishedAt": "2025-11-22T05:00:31",
+      "title": "Kazakhstan shows support towards Armenia’s peace and transport corridor initiatives",
+      "description": "Kazakhstan backed Trump Route for International Peace and Prosperity initiative during Armenia's ...",
+      "url": "http://www.euronews.com/2025/11/22/kazakhstan-shows-support-towards-armenias-peace-and-transport-corridor-initiatives",
+      "publishedAt": "2025-11-22T20:06:05",
       "source": {
-        "name": "The Guardian"
+        "name": "Euronews"
       },
-      "content": "National Trust begins planting the 49 ‘trees of hope’ so the illegally felled tree can live on in..."
+      "content": "Kazakhstan backed Trump Route for International Peace and Prosperity initiative during Armenia's ..."
     },
     {
-      "title": "Colombia hails ‘historic blow’ after largest cocaine bust in a decade",
-      "description": "Authorities said the bust prevented the circulation of 35 million doses of cocaine worth more tha...",
-      "url": "https://www.aljazeera.com/news/2025/11/22/colombia-hails-historic-blow-after-largest-cocaine-bust-in-a-decade?traffic_source=rss",
-      "publishedAt": "2025-11-22T04:58:47",
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "content": "Authorities said the bust prevented the circulation of 35 million doses of cocaine worth more tha..."
-    },
-    {
-      "title": "G20 summit in South Africa: Who’s attending and what’s on the agenda?",
-      "description": "US President Donald Trump is boycotting the summit but South African leaders say the meeting will...",
-      "url": "https://www.aljazeera.com/economy/2025/11/22/g20-summit-in-south-africa-whos-attending-and-whats-on-the-agenda?traffic_source=rss",
-      "publishedAt": "2025-11-22T03:46:14",
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "content": "US President Donald Trump is boycotting the summit but South African leaders say the meeting will..."
-    },
-    {
-      "title": "US Supreme Court blocks order on likely racial bias in new Texas voter map",
-      "description": "Texas redrew its voting map as part of President Donald Trump&#039;s plan to win extra Republican...",
-      "url": "https://www.aljazeera.com/news/2025/11/22/us-supreme-court-blocks-order-on-likely-racial-bias-in-new-texas-voter-map?traffic_source=rss",
-      "publishedAt": "2025-11-22T02:26:45",
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "content": "Texas redrew its voting map as part of President Donald Trump&#039;s plan to win extra Republican..."
-    },
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,367",
-      "description": "Here are the key events from day 1,367 of Russia’s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2025/11/22/russia-ukraine-war-list-of-key-events-day-1367?traffic_source=rss",
-      "publishedAt": "2025-11-22T01:24:51",
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "content": "Here are the key events from day 1,367 of Russia’s war on Ukraine."
-    },
-    {
-      "title": "Grizzly bear attack on school group in Canada leaves 4 seriously hurt",
-      "description": "Three children were among those injured when a grizzly emerged from the forest in a remote part o...",
-      "url": "https://www.dw.com/en/grizzly-bear-attack-on-school-group-in-canada-leaves-4-seriously-hurt/a-74845534?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-22T01:14:00",
+      "title": "Ornella Vanoni, iconic voice of Italian music, dies at 91",
+      "description": "Ornella Vanoni’s seven-decade career made her a defining voice of Italian music, bridging styles ...",
+      "url": "https://www.dw.com/en/ornella-vanoni-iconic-voice-of-italian-music-dies-at-91/a-74849986?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-22T19:46:00",
       "source": {
         "name": "Deutsche Welle"
       },
-      "content": "Three children were among those injured when a grizzly emerged from the forest in a remote part o..."
+      "content": "Ornella Vanoni’s seven-decade career made her a defining voice of Italian music, bridging styles ..."
     },
     {
-      "title": "BBC board member Shumeet Banerji resigns",
-      "description": "Banerji said in his resignation letter that he was unhappy about governance issues at the organis...",
-      "url": "https://www.aljazeera.com/news/2025/11/21/bbc-board-member-shumeet-banerji-resigns?traffic_source=rss",
-      "publishedAt": "2025-11-21T23:15:07",
+      "title": "The Developing-8 countries plan media excellence hub and a new broadcasting network",
+      "description": "Baku hosted the first-ever D-8 Media Forum, part of the ongoing D-8 Week in Azerbaijan.",
+      "url": "http://www.euronews.com/2025/11/22/the-developing-8-countries-plan-media-excellence-hub-and-a-new-broadcasting-network",
+      "publishedAt": "2025-11-22T19:28:00",
       "source": {
-        "name": "Al Jazeera"
+        "name": "Euronews"
       },
-      "content": "Banerji said in his resignation letter that he was unhappy about governance issues at the organis..."
+      "content": "Baku hosted the first-ever D-8 Media Forum, part of the ongoing D-8 Week in Azerbaijan."
     },
     {
-      "title": "Trump and Mamdani hope for positive relationship after ‘productive’ meeting",
-      "description": "Trump praises Mamdani for &#039;incredible&#039; victory in New York City mayoral election and fo...",
-      "url": "https://www.aljazeera.com/news/2025/11/21/trump-and-mamdani-hope-for-positive-relationship-after-productive-meeting?traffic_source=rss",
-      "publishedAt": "2025-11-21T23:03:58",
+      "title": "Israel launches strikes on Gaza in latest test to fragile ceasefire",
+      "description": "Israel launched on Saturday airstrikes on Gaza which killed at least 24 people and wounded dozens...",
+      "url": "https://www.france24.com/en/middle-east/20251122-israel-launches-strikes-in-latest-test-to-fragile-gaza-ceasefire",
+      "publishedAt": "2025-11-22T18:09:32",
       "source": {
-        "name": "Al Jazeera"
+        "name": "France 24"
       },
-      "content": "Trump praises Mamdani for &#039;incredible&#039; victory in New York City mayoral election and fo..."
+      "content": "Israel launched on Saturday airstrikes on Gaza which killed at least 24 people and wounded dozens..."
+    },
+    {
+      "title": "Bolsonaro moved to police custody over escape concerns",
+      "description": "Brazil's top court ordered the former president into custody after warning that a planned vigil a...",
+      "url": "https://www.dw.com/en/bolsonaro-moved-to-police-custody-over-escape-concerns/a-74848907?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-11-22T17:14:00",
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "content": "Brazil's top court ordered the former president into custody after warning that a planned vigil a..."
+    },
+    {
+      "title": "COP30 ends with roadmap to end deforestation, ‘transition away’ from fossil fuels",
+      "description": "Developing countries (including some petro states and India) were insistent on not including lang...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/cop30-closing-session-end-deforestation-move-away-from-fossil-fuels/article70312162.ece",
+      "publishedAt": "2025-11-22T17:08:41",
+      "source": {
+        "name": "The Hindu"
+      },
+      "content": "Developing countries (including some petro states and India) were insistent on not including lang..."
+    },
+    {
+      "title": "Latest news bulletin | November 22nd, 2025 – Evening",
+      "description": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2025 -...",
+      "url": "http://www.euronews.com/video/2025/11/22/latest-news-bulletin-november-22nd-2025-evening",
+      "publishedAt": "2025-11-22T17:00:29",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2025 -..."
+    },
+    {
+      "title": "Marseille mourns one of its own during a silent march for Medhi Kessaci",
+      "description": "It was a murder that shocked France and alarmed the government.",
+      "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20251122-marseille-mourns-one-of-its-own-during-a-silent-march-for-medhi-kessaci",
+      "publishedAt": "2025-11-22T16:59:37",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "It was a murder that shocked France and alarmed the government."
+    },
+    {
+      "title": "Mehdi Kessaci: France honors victim of shooting in Marseille",
+      "description": "🇫🇷The high-security tribute to Mehdi #Kessaci began in #Marseille on Saturday, drawing several hu...",
+      "url": "https://www.france24.com/en/video/20251122-mehdi-kessaci-france-honors-victim-of-shooting-in-marseille",
+      "publishedAt": "2025-11-22T16:59:27",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "🇫🇷The high-security tribute to Mehdi #Kessaci began in #Marseille on Saturday, drawing several hu..."
+    },
+    {
+      "title": "Brazilian court orders preemptive arrest of former president Jair Bolsonaro",
+      "description": "Jair Bolsonaro has been taken into custody after being deemed a “concrete flight risk” while unde...",
+      "url": "https://www.france24.com/en/video/20251122-brazilian-court-orders-preemptive-arrest-of-former-president-jair-bolsonaro",
+      "publishedAt": "2025-11-22T16:56:03",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "Jair Bolsonaro has been taken into custody after being deemed a “concrete flight risk” while unde..."
+    },
+    {
+      "title": "Former president Jair Bolsonaro arrested due to \"flight risk\"",
+      "description": "Federal police detained Brazil’s ex-president Jair Bolsonaro on Saturday after a Supreme Court ju...",
+      "url": "https://www.france24.com/en/video/20251122-former-president-jair-bolsonaro-arrested-due-to-flight-risk",
+      "publishedAt": "2025-11-22T16:54:05",
+      "source": {
+        "name": "France 24"
+      },
+      "content": "Federal police detained Brazil’s ex-president Jair Bolsonaro on Saturday after a Supreme Court ju..."
+    },
+    {
+      "title": "Africa's first G20 summit adopts declaration as EU leaders respond to US peace plan for Ukraine",
+      "description": "The summit, the first to be held in Africa, opened on Saturday with EU leaders and their counterp...",
+      "url": "http://www.euronews.com/2025/11/22/africas-first-g20-summit-adopts-declaration-as-eu-leaders-respond-to-us-peace-plan-for-ukr",
+      "publishedAt": "2025-11-22T14:39:21",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "The summit, the first to be held in Africa, opened on Saturday with EU leaders and their counterp..."
+    },
+    {
+      "title": "Fine Chocolate in Brazil, Home of the Cacao Bean",
+      "description": "A new generation of craft chocolate makers in Brazil is creating bars with “identity.",
+      "url": "https://www.nytimes.com/2025/11/21/climate/cop30-belem-chocolate.html",
+      "publishedAt": "2025-11-22T14:37:44",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "A new generation of craft chocolate makers in Brazil is creating bars with “identity."
+    },
+    {
+      "title": "Ukraine to begin peace plan talks with US in Switzerland on Sunday",
+      "description": "Ukraine's Secretary of the National Security and Defence Council announced on Saturday that Ukrai...",
+      "url": "http://www.euronews.com/2025/11/22/ukraine-to-begin-peace-plan-talks-with-us-in-switzerland-in-coming-days",
+      "publishedAt": "2025-11-22T14:26:45",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Ukraine's Secretary of the National Security and Defence Council announced on Saturday that Ukrai..."
+    },
+    {
+      "title": "Court orders Bolsonaro's arrest after suspicion that he tried to remove electronic bracelet",
+      "description": "The former president remains under house arrest with an electronic bracelet, but according to loc...",
+      "url": "http://www.euronews.com/2025/11/22/court-orders-bolsonaros-arrest-after-suspicion-that-he-tried-to-remove-electronic-bracelet",
+      "publishedAt": "2025-11-22T12:29:49",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "The former president remains under house arrest with an electronic bracelet, but according to loc..."
+    },
+    {
+      "title": "Latest news bulletin | November 22nd, 2025 – Midday",
+      "description": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2025 -...",
+      "url": "http://www.euronews.com/video/2025/11/22/latest-news-bulletin-november-22nd-2025-midday",
+      "publishedAt": "2025-11-22T11:00:16",
+      "source": {
+        "name": "Euronews"
+      },
+      "content": "Catch up with the most important stories from around Europe and beyond this November 22nd, 2025 -..."
+    },
+    {
+      "title": "A Colossal, Hidden Pile of Trash Ignites an Outcry in Britain",
+      "description": "The discovery of a mountain of garbage near a highway is the latest example of what experts say i...",
+      "url": "https://www.nytimes.com/2025/11/21/world/europe/trash-britain-illegal-dumping.html",
+      "publishedAt": "2025-11-22T07:53:08",
+      "source": {
+        "name": "New York Times"
+      },
+      "content": "The discovery of a mountain of garbage near a highway is the latest example of what experts say i..."
     },
     {
       "title": "Following French Furor, US Lawmakers Press Shein for Answers",
@@ -594,16 +914,6 @@
       "content": "A bipartisan group of 34 members from the House of Representatives expressed concern that the e-c..."
     },
     {
-      "title": "Nigeria: Over 200 students abducted from Catholic school",
-      "description": "Police and military forces have been deployed to search for the missing students.",
-      "url": "https://www.dw.com/en/nigeria-over-200-students-abducted-from-catholic-school/a-74831286?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-21T22:38:00",
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "content": "Police and military forces have been deployed to search for the missing students."
-    },
-    {
       "title": "Shuffle Board: Moose Knuckle Gets Creative, J.Jill Adds Growth Exec",
       "description": "Ludovico Bruno and Raif Adelberg join luxury label Moose Knuckles' C suite while Viv Rettke joins J.",
       "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-moose-knuckles-executive-moves-1234791467/",
@@ -614,26 +924,6 @@
       "content": "Ludovico Bruno and Raif Adelberg join luxury label Moose Knuckles' C suite while Viv Rettke joins J."
     },
     {
-      "title": "Trump meets New York City Mayor-elect Mamdani",
-      "description": "After a first face-to-face meeting, US President Donald Trump and New York City Mayor-elect Zohra...",
-      "url": "https://www.dw.com/en/trump-meets-new-york-city-mayor-elect-mamdani/a-74844475?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-21T21:20:00",
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "content": "After a first face-to-face meeting, US President Donald Trump and New York City Mayor-elect Zohra..."
-    },
-    {
-      "title": "U-17 World Cup hits final four in Qatar with title showdown at Khalifa Stadium",
-      "description": "The semi-finals now take centre stage at Aspire Zone, with Austria, Italy, Portugal and Brazil ch...",
-      "url": "http://www.euronews.com/2025/11/21/u-17-world-cup-hits-final-four-in-qatar-as-action-shifts-to-khalifa-stadium",
-      "publishedAt": "2025-11-21T20:55:05",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "The semi-finals now take centre stage at Aspire Zone, with Austria, Italy, Portugal and Brazil ch..."
-    },
-    {
       "title": "DL1961 CEO Sarah Ahmed on Balancing Style and Substance",
       "description": "The brand's multi-generational insight contributes to a business that is responsible as it is tre...",
       "url": "https://sourcingjournal.com/denim/denim-brands/dl1961-ceo-sarah-ahmed-balancing-style-substance-adm-1234787101/",
@@ -642,46 +932,6 @@
         "name": "Sourcing Journal"
       },
       "content": "The brand's multi-generational insight contributes to a business that is responsible as it is tre..."
-    },
-    {
-      "title": "G20 Summit: No Trump, Xi or Putin — but with Merz",
-      "description": "Chancellor Friedrich Merz intends to promote multilateralism at the G20 summit in South Africa.",
-      "url": "https://www.dw.com/en/g20-summit-no-trump-xi-or-putin-but-with-merz/a-74830488?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-21T20:09:00",
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "content": "Chancellor Friedrich Merz intends to promote multilateralism at the G20 summit in South Africa."
-    },
-    {
-      "title": "Zelenskyy faces tough choice as Putin welcomes US-Russia peace plan",
-      "description": "President Volodymyr Zelenskyy said Ukraine faces a pivotal choice between standing up for its sov...",
-      "url": "http://www.euronews.com/2025/11/21/putin-says-us-plan-for-ukraine-could-form-the-basis-for-a-final-peace-settlement",
-      "publishedAt": "2025-11-21T20:02:53",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "President Volodymyr Zelenskyy said Ukraine faces a pivotal choice between standing up for its sov..."
-    },
-    {
-      "title": "Thailand's foreign minister hopes EU will help bring balance of powers to ASEAN region",
-      "description": "Thailand’s Foreign Minister Sihasak Phuangketkeow told Euronews on the sideline of an indo-pacifi...",
-      "url": "http://www.euronews.com/2025/11/21/thailands-foreign-minister-hopes-eu-will-help-bring-balance-of-powers-to-asean-region",
-      "publishedAt": "2025-11-21T19:53:23",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "Thailand’s Foreign Minister Sihasak Phuangketkeow told Euronews on the sideline of an indo-pacifi..."
-    },
-    {
-      "title": "EU sanctions Sudanese paramilitary leader after atrocities by his forces in Darfur",
-      "description": "The war began in 2023, when tensions erupted between the army and the RSF that were meant to over...",
-      "url": "http://www.euronews.com/2025/11/21/eu-sanctions-sudanese-paramilitary-leader-after-atrocities-by-his-forces-in-darfur",
-      "publishedAt": "2025-11-21T19:39:56",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "The war began in 2023, when tensions erupted between the army and the RSF that were meant to over..."
     },
     {
       "title": "CBP Widens Air Cargo Data Collection on Rising Security Threats",
@@ -704,36 +954,6 @@
       "content": "Microplastics are under microscope with Victoria Fulfer and Lewis Shuler on the complexity of tex..."
     },
     {
-      "title": "António Costa wiretapped in Portugal without court approval",
-      "description": "Costa, the former PM of Portugal and current president of the European Council, was under investi...",
-      "url": "http://www.euronews.com/2025/11/21/former-pm-antonio-costa-wiretapped-as-part-of-corruption-probe-without-court-approval",
-      "publishedAt": "2025-11-21T18:59:40",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "Costa, the former PM of Portugal and current president of the European Council, was under investi..."
-    },
-    {
-      "title": "A Colossal, Hidden Pile of Trash Ignites Outcry in Britain",
-      "description": "The discovery of a mountain of garbage near a highway is the latest example of what experts say i...",
-      "url": "https://www.nytimes.com/2025/11/21/world/europe/trash-britain-illegal-dumping.html",
-      "publishedAt": "2025-11-21T18:38:01",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "The discovery of a mountain of garbage near a highway is the latest example of what experts say i..."
-    },
-    {
-      "title": "Radio Free Europe closes Hungarian service after five years following US funding cuts",
-      "description": "The shuttering of Szabad Európa came as the Trump administration has made major cuts to internati...",
-      "url": "http://www.euronews.com/2025/11/21/radio-free-europe-closes-hungarian-service-after-five-years-following-us-funding-cuts",
-      "publishedAt": "2025-11-21T18:02:50",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "The shuttering of Szabad Európa came as the Trump administration has made major cuts to internati..."
-    },
-    {
       "title": "Bangladesh Opens Up Labor Unions, Amid Rising Industry Unease",
       "description": "A labor law change published in Bangladesh earlier this week has triggered a wave of concern in t...",
       "url": "https://sourcingjournal.com/topics/labor/bangladesh-labor-unions-amid-rising-industry-unease-1234791291/",
@@ -752,66 +972,6 @@
         "name": "The Hindu"
       },
       "content": "..."
-    },
-    {
-      "title": "Merz on military support: Is Germany sending Taurus missiles to Ukraine after all?",
-      "description": "With a range of up to 500 kilometres, the Taurus missile is considered long-range but so far the ...",
-      "url": "http://www.euronews.com/2025/11/21/merz-on-military-support-is-germany-sending-taurus-missiles-to-ukraine-after-all",
-      "publishedAt": "2025-11-21T17:44:50",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "With a range of up to 500 kilometres, the Taurus missile is considered long-range but so far the ..."
-    },
-    {
-      "title": "Poland braces for heavy snow and avalanches",
-      "description": "Heavy snowfall, sleet, and negative temperatures affect southern and eastern Poland.",
-      "url": "http://www.euronews.com/video/2025/11/21/poland-braces-for-heavy-snow-and-avalanches",
-      "publishedAt": "2025-11-21T17:32:37",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "Heavy snowfall, sleet, and negative temperatures affect southern and eastern Poland."
-    },
-    {
-      "title": "G20: South Africa hosts summit in shadow of US boycott",
-      "description": "The G20 is being held in Africa for the very first time, but the US is shunning the event.",
-      "url": "https://www.dw.com/en/g20-south-africa-hosts-summit-in-shadow-of-us-boycott/a-74843303?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-21T17:23:00",
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "content": "The G20 is being held in Africa for the very first time, but the US is shunning the event."
-    },
-    {
-      "title": "Fine Chocolate in Brazil, Home of the Cacao Bean",
-      "description": "A new generation of craft chocolate makers in Brazil is creating bars with “identity.",
-      "url": "https://www.nytimes.com/2025/11/21/climate/cop30-belem-chocolate.html",
-      "publishedAt": "2025-11-21T17:21:15",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "A new generation of craft chocolate makers in Brazil is creating bars with “identity."
-    },
-    {
-      "title": "Robbers overpower guard and steal dozens of ancient gold coins from Swiss museum",
-      "description": "The monetary value of the coins stolen in the heist Tuesday was not immediately revealed, but pol...",
-      "url": "http://www.euronews.com/2025/11/21/robbers-overpower-guard-and-steal-dozens-of-ancient-gold-coins-from-swiss-museum",
-      "publishedAt": "2025-11-21T17:07:07",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "The monetary value of the coins stolen in the heist Tuesday was not immediately revealed, but pol..."
-    },
-    {
-      "title": "Latest news bulletin | November 21st, 2025 – Evening",
-      "description": "Catch up with the most important stories from around Europe and beyond this November 21st, 2025 -...",
-      "url": "http://www.euronews.com/video/2025/11/21/latest-news-bulletin-november-21st-2025-evening",
-      "publishedAt": "2025-11-21T17:00:29",
-      "source": {
-        "name": "Euronews"
-      },
-      "content": "Catch up with the most important stories from around Europe and beyond this November 21st, 2025 -..."
     },
     {
       "title": "From Tank to Table: Lab-Grown Seafood Might Be Coming to a Menu Near You",
@@ -842,166 +1002,6 @@
         "name": "New York Times"
       },
       "content": "The plan from the Interior Department is one of the president’s most significant steps yet to inc..."
-    },
-    {
-      "title": "COP30: 'Just a platform to bring nations together and negotiate what countries bring to the table'",
-      "description": "COP30 summit president Brazil released a draft text for a proposed deal for this year's U.",
-      "url": "https://www.france24.com/en/video/20251121-cop30-just-a-platform-to-bring-nations-together-and-negotiate-what-countries-bring-to-the-table",
-      "publishedAt": "2025-11-21T11:14:09",
-      "source": {
-        "name": "France 24"
-      },
-      "content": "COP30 summit president Brazil released a draft text for a proposed deal for this year's U."
-    },
-    {
-      "title": "Draft COP30 deal drops effort for fossil fuel transition agreement",
-      "description": "At COP30 in Belem, Brazil, the summit president released a revised draft deal that removes earlie...",
-      "url": "https://www.france24.com/en/video/20251121-draft-cop30-deal-drops-effort-for-fossil-fuel-transition-agreement",
-      "publishedAt": "2025-11-21T10:25:14",
-      "source": {
-        "name": "France 24"
-      },
-      "content": "At COP30 in Belem, Brazil, the summit president released a revised draft deal that removes earlie..."
-    },
-    {
-      "title": "High costs, poor training deepen India’s stinging snakebite toll",
-      "description": "New findings show that faster access to hospitals, improved anti-venoms, and health insurance are...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/snakebites-cost-the-countrys-poorest-thousands-in-treatment/article70294240.ece",
-      "publishedAt": "2025-11-21T09:30:00",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "New findings show that faster access to hospitals, improved anti-venoms, and health insurance are..."
-    },
-    {
-      "title": "Students 'anxious but hopeful' at mock COP30 talks",
-      "description": "Students played the roles of different countries, made speeches, and \"negotiated\" to strike deals.",
-      "url": "https://www.bbc.com/news/articles/czxn9xnpey2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-21T06:12:29",
-      "source": {
-        "name": "BBC"
-      },
-      "content": "Students played the roles of different countries, made speeches, and \"negotiated\" to strike deals."
-    },
-    {
-      "title": "Why are stone quarries expanding in Kerala? | Explained",
-      "description": "What is M-sand? How has banning river sand mining led to expanding quarries across Kerala?...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-are-stone-quarries-expanding-in-kerala-explained/article70304649.ece",
-      "publishedAt": "2025-11-21T03:00:00",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "What is M-sand? How has banning river sand mining led to expanding quarries across Kerala?..."
-    },
-    {
-      "title": "Scientists reveal what triggered Santorini 'earthquake swarm'",
-      "description": "Thousands of earthquakes were caused by magma \"pumping through\" Earth's crust for three months, t...",
-      "url": "https://www.bbc.com/news/articles/cz7p783g2j5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-21T01:52:15",
-      "source": {
-        "name": "BBC"
-      },
-      "content": "Thousands of earthquakes were caused by magma \"pumping through\" Earth's crust for three months, t..."
-    },
-    {
-      "title": "White House announces new oil and gas drilling off California and Florida",
-      "description": "But Sunshine state Republicans might oppose drilling off state’s famous beaches that keep tourism...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/20/white-house-new-oil-gas-drilling-california-florida",
-      "publishedAt": "2025-11-20T23:54:35",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "But Sunshine state Republicans might oppose drilling off state’s famous beaches that keep tourism..."
-    },
-    {
-      "title": "Beaujolais Nouveau 2025 goes on sale as French wine producers face mounting challenges",
-      "description": "It's the third Thursday of November, which means this year's Beaujolais Nouveau has gone on sale.",
-      "url": "https://www.france24.com/en/tv-shows/business/20251120-beaujolais-nouveau-2025-goes-on-sale-as-french-wine-producers-face-challenges",
-      "publishedAt": "2025-11-20T20:40:58",
-      "source": {
-        "name": "France 24"
-      },
-      "content": "It's the third Thursday of November, which means this year's Beaujolais Nouveau has gone on sale."
-    },
-    {
-      "title": "Fire breaks out in pavilion at COP30 venue in Brazil",
-      "description": "No injuries were reported and the cause of the blaze remained unknown as of Friday...",
-      "url": "https://www.thehindu.com/news/international/cop-30-meeting-fire-at-venue-belem-brazil-evacuations/article70304721.ece",
-      "publishedAt": "2025-11-20T17:59:24",
-      "source": {
-        "name": "The Hindu"
-      },
-      "content": "No injuries were reported and the cause of the blaze remained unknown as of Friday..."
-    },
-    {
-      "title": "Driven by Hope: Subaru of America and Make‑A‑Wish Partner to Transform Lives",
-      "description": "Subaru retailers and customers have raised more than $38 million for Make-A-Wish, helping to gran...",
-      "url": "https://triplepundit.com/2025/subaru-makeawish-partnership-transform-lives/",
-      "publishedAt": "2025-11-20T16:36:02",
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "content": "Subaru retailers and customers have raised more than $38 million for Make-A-Wish, helping to gran..."
-    },
-    {
-      "title": "UNICEF: One in five children in low and middle-income countries lack most basic services",
-      "description": "On World Children's Day, Oliver Farry is pleased to welcome Cécile Aptel, Author and Deputy Direc...",
-      "url": "https://www.france24.com/en/video/20251120-unicef-one-in-five-children-in-low-and-middle-income-countries-lack-most-basic-services",
-      "publishedAt": "2025-11-20T16:28:30",
-      "source": {
-        "name": "France 24"
-      },
-      "content": "On World Children's Day, Oliver Farry is pleased to welcome Cécile Aptel, Author and Deputy Direc..."
-    },
-    {
-      "title": "Trump officials reveal plan to roll back regulations in Endangered Species Act",
-      "description": "Experts fear plan, one of many attempts Trump’s made to dismantle wildlife protection, will speed...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/20/trump-endangered-species-act",
-      "publishedAt": "2025-11-20T11:00:06",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Experts fear plan, one of many attempts Trump’s made to dismantle wildlife protection, will speed..."
-    },
-    {
-      "title": "Indonesia:  Hundreds of Indonesians flee homes after volcano erupts",
-      "description": "Mount Semeru in eastern Java erupted on November 19, throwing ash and gas more than 13 kilometres...",
-      "url": "https://www.france24.com/en/video/20251120-indonesia-hundreds-of-indonesians-flee-homes-after-volcano-erupts",
-      "publishedAt": "2025-11-20T10:45:15",
-      "source": {
-        "name": "France 24"
-      },
-      "content": "Mount Semeru in eastern Java erupted on November 19, throwing ash and gas more than 13 kilometres..."
-    },
-    {
-      "title": "Thousands of toxic sites across US face risk of coastal flooding",
-      "description": "Study finds rising seas could flood facilities handling waste, sewage, and oil and gas – and coas...",
-      "url": "https://www.theguardian.com/environment/2025/nov/20/toxic-sites-us-coastal-flooding",
-      "publishedAt": "2025-11-20T10:00:03",
-      "source": {
-        "name": "The Guardian"
-      },
-      "content": "Study finds rising seas could flood facilities handling waste, sewage, and oil and gas – and coas..."
-    },
-    {
-      "title": "Australia cedes hosting COP31 to Turkey, frustrating Pacific islands",
-      "description": "Australia has touted its decision to cede next year’s COP summit to Turkey as a “big win”, but th...",
-      "url": "https://www.france24.com/en/americas/20251120-australia-cedes-cop-hosting-to-turkey-frustrating-pacific-islands-climate-change-cop31",
-      "publishedAt": "2025-11-20T04:07:58",
-      "source": {
-        "name": "France 24"
-      },
-      "content": "Australia has touted its decision to cede next year’s COP summit to Turkey as a “big win”, but th..."
-    },
-    {
-      "title": "Trump Moves to Weaken the Endangered Species Act",
-      "description": "Four proposed rules could make it easier to drill for oil or harvest timber in areas where endang...",
-      "url": "https://www.nytimes.com/2025/11/19/climate/trump-endangered-species-act.html",
-      "publishedAt": "2025-11-19T21:15:53",
-      "source": {
-        "name": "New York Times"
-      },
-      "content": "Four proposed rules could make it easier to drill for oil or harvest timber in areas where endang..."
     }
   ]
 }
