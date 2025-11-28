@@ -27,57 +27,81 @@ RSS_FEEDS = [
     'https://feeds.feedburner.com/SustainableBrands',
     'https://www.triplepundit.com/feed/',
     
-    # NEW INTERNATIONAL SOURCES
+    # NEW INTERNATIONAL SOURCES - Use more specific RSS feeds
     'https://www.aljazeera.com/xml/rss/all.xml',
     'https://rss.dw.com/rdf/rss-en-all',
     'https://www.france24.com/en/rss',
-    'https://www.thehindu.com/news/national/feeder/default.rss',
+    # Use specific feeds for The Hindu instead of general news
+    'https://www.thehindu.com/sci-tech/energy-and-environment/feeder/default.rss',
+    'https://www.thehindu.com/business/feeder/default.rss',
     'https://www.euronews.com/rss?format=mrss&level=theme&name=green',
     'https://feeds.reuters.com/reuters/environment',
     'https://feeds.reuters.com/reuters/scienceNews',
 ]
 
-# BROADER keywords for better coverage while maintaining relevance
+# Enhanced keywords for better relevance scoring
 KEYWORDS = [
     # Core sustainability
-    "sustainability", "sustainable", "esg", "circular", "climate", "carbon",
+    "sustainability", "sustainable", "esg", "circular economy", "climate", "carbon",
     "emissions", "renewable", "greenhouse", "biodiversity", "conservation",
     "pollution", "waste", "recycling", "upcycling", "eco-friendly", "green",
+    "environment", "ecological", "clean energy", "solar", "wind power",
     
     # Fashion specific
     "fashion", "textile", "apparel", "clothing", "garment", "cotton", "polyester",
     "supply chain", "ethical", "organic", "recycled", "sustainable fashion",
     "circular fashion", "ethical fashion", "fast fashion", "slow fashion",
+    "fashion industry", "textile industry", "apparel industry",
     
     # Business & ESG
     "esg", "environmental", "social", "governance", "corporate responsibility",
     "sustainable business", "green business", "clean production", "ethical sourcing",
+    "sustainable development", "green technology", "cleantech",
     
     # Technical terms
     "chemical management", "zdhc", "water conservation", "energy efficiency",
-    "carbon footprint", "net zero", "carbon neutral", "decarbonization"
+    "carbon footprint", "net zero", "carbon neutral", "decarbonization",
+    "waste management", "plastic pollution", "air quality"
 ]
 
-# STRONG negative keywords - only filter out clearly irrelevant content
+# STRONG negative keywords - filter out clearly irrelevant content
 STRONG_NEGATIVE_KEYWORDS = [
     # Politics
     "election", "trump", "biden", "president", "senate", "congress", "vote", "voting",
+    "political", "politician", "government", "policy", "law", "legal", "court", "judge",
+    "election results", "campaign", "democrat", "republican",
     
     # Sports
     "football", "basketball", "soccer", "nfl", "nba", "baseball", "tennis", "olympics",
+    "cricket", "sports", "player", "team", "match", "game", "championship",
     
     # Entertainment
     "celebrity", "movie", "hollywood", "oscars", "grammy", "netflix", "disney",
+    "entertainment", "actor", "actress", "film", "music", "song", "album",
+    
+    # Crime & Negative news
+    "crime", "murder", "rape", "sexual", "harassment", "assault", "violence",
+    "police", "investigation", "case", "lawsuit", "arrest", "charged",
+    
+    # Regional/State politics (common in The Hindu)
+    "andhra pradesh", "tamil nadu", "karnataka", "kerala", "delhi", "mumbai",
+    "chief minister", "state government", "assembly", "elections",
     
     # Completely unrelated
-    "crypto", "bitcoin", "stock market", "real estate", "recipe", "cooking"
+    "crypto", "bitcoin", "stock market", "real estate", "recipe", "cooking",
+    "weather", "forecast", "horoscope", "astrology"
+]
+
+# Sources that need stricter filtering
+GENERAL_NEWS_SOURCES = [
+    'thehindu.com', 'aljazeera.com', 'reuters.com', 'dw.com', 'france24.com'
 ]
 
 # Trusted sustainability sources - these get bonus points
 SUSTAINABILITY_SOURCES = [
     'greenbiz.com', 'sustainablebrands.com', 'ecotextile.com', 
     'businessoffashion.com', 'sourcingjournal.com', 'voguebusiness.com',
-    'triplepundit.com'
+    'triplepundit.com', 'sciencedaily.com'
 ]
 
 # Map domains to proper source names
@@ -133,33 +157,49 @@ class NewsAggregator:
                 print(f"Fetching from: {self.get_domain_name(feed_url)}")
                 feed = feedparser.parse(feed_url)
                 
-                for entry in feed.entries[:15]:  # Increased back to 15
+                articles_from_feed = 0
+                for entry in feed.entries[:15]:
                     published_time = self.get_published_time(entry)
                     if published_time and published_time < (datetime.now() - timedelta(days=7)):
                         continue
                     
-                    # Calculate relevance score
+                    # Calculate relevance score with source-specific filtering
                     relevance_score = self.calculate_relevance_score(entry, feed_url)
                     
-                    # Include articles with at least some relevance
-                    if relevance_score >= 1:  # Lower threshold to catch more relevant content
-                        article = {
-                            'title': entry.title,
-                            'description': self.get_clean_description(entry),
-                            'url': entry.link,
-                            'publishedAt': published_time.isoformat() if published_time else datetime.now().isoformat(),
-                            'source': self.get_proper_source_name(feed_url, entry),
-                            'content': self.get_clean_description(entry),
-                            'relevance_score': relevance_score,
-                            'api_source': 'rss',
-                        }
-                        self.articles.append(article)
+                    # Apply stricter filtering for general news sources
+                    domain = self.get_domain_name(feed_url)
+                    if any(source in domain for source in GENERAL_NEWS_SOURCES):
+                        # General news sources need higher relevance scores
+                        if relevance_score >= 3:
+                            article = self.create_article(entry, feed_url, relevance_score)
+                            self.articles.append(article)
+                            articles_from_feed += 1
+                    else:
+                        # Sustainability-focused sources can have lower thresholds
+                        if relevance_score >= 1:
+                            article = self.create_article(entry, feed_url, relevance_score)
+                            self.articles.append(article)
+                            articles_from_feed += 1
                     
-                print(f"✅ Found {len(feed.entries)} articles from {self.get_domain_name(feed_url)}")
+                print(f"✅ Found {articles_from_feed} relevant articles from {self.get_domain_name(feed_url)}")
                 
             except Exception as e:
                 print(f"❌ Error fetching from {feed_url}: {e}")
                 continue
+    
+    def create_article(self, entry, feed_url, relevance_score):
+        """Create article dictionary"""
+        published_time = self.get_published_time(entry)
+        return {
+            'title': entry.title,
+            'description': self.get_clean_description(entry),
+            'url': entry.link,
+            'publishedAt': published_time.isoformat() if published_time else datetime.now().isoformat(),
+            'source': self.get_proper_source_name(feed_url, entry),
+            'content': self.get_clean_description(entry),
+            'relevance_score': relevance_score,
+            'api_source': 'rss',
+        }
     
     def get_published_time(self, entry):
         """Extract publication time from RSS entry"""
@@ -209,42 +249,43 @@ class NewsAggregator:
         return clean_desc.strip()
     
     def calculate_relevance_score(self, entry, feed_url):
-        """Calculate balanced relevance score"""
+        """Calculate balanced relevance score with strong negative filtering"""
         content = f"{entry.title} {self.get_clean_description(entry)}".lower()
         score = 0
         
         # Base keyword matching
         for keyword in KEYWORDS:
             if keyword.lower() in content:
-                score += 1
+                score += 2  # Increased weight for positive matches
         
-        # Strong negative filtering - only for clearly irrelevant content
+        # STRONG negative filtering - auto-reject clearly irrelevant content
         for keyword in STRONG_NEGATIVE_KEYWORDS:
             if keyword.lower() in content:
-                score -= 3  # Strong penalty for completely irrelevant topics
+                score -= 10  # Very strong penalty - will almost certainly exclude
         
         # Bonus for trusted sustainability sources
         domain = self.get_domain_name(feed_url)
         if any(source in domain for source in SUSTAINABILITY_SOURCES):
-            score += 2  # Bonus for known sustainability-focused sources
+            score += 3  # Higher bonus for known sustainability-focused sources
         
         # Bonus for multiple keyword matches
         keyword_matches = sum(1 for keyword in KEYWORDS if keyword.lower() in content)
         if keyword_matches >= 3:
-            score += 2
+            score += 3
         elif keyword_matches >= 2:
-            score += 1
+            score += 2
         
-        # Recency bonus
-        published_time = self.get_published_time(entry)
-        if published_time:
-            days_old = (datetime.now() - published_time).days
-            if days_old <= 1:
-                score += 2
-            elif days_old <= 3:
-                score += 1
+        # Recency bonus (only if article is already relevant)
+        if score > 0:
+            published_time = self.get_published_time(entry)
+            if published_time:
+                days_old = (datetime.now() - published_time).days
+                if days_old <= 1:
+                    score += 2
+                elif days_old <= 3:
+                    score += 1
         
-        return max(0, score)  # Ensure score doesn't go negative
+        return max(0, score)
     
     def deduplicate_articles(self):
         """Remove duplicate articles based on URL and title"""
@@ -289,7 +330,7 @@ class NewsAggregator:
             print(f"   - Score {score}: {count} articles")
         
         # Show top articles by relevance
-        top_articles = [a for a in self.articles if a['relevance_score'] >= 3][:5]
+        top_articles = [a for a in self.articles if a['relevance_score'] >= 5][:5]
         if top_articles:
             print("🏆 Top relevant articles:")
             for article in top_articles:
@@ -299,8 +340,18 @@ class NewsAggregator:
         """Save articles to JSON files - compatible with current frontend"""
         print("💾 Saving articles...")
         
-        # Use lower threshold to include more relevant content
-        relevant_articles = [article for article in self.articles if article['relevance_score'] >= 1]
+        # Use source-specific thresholds
+        relevant_articles = []
+        for article in self.articles:
+            source_domain = article['source'].lower()
+            if any(source in source_domain for source in GENERAL_NEWS_SOURCES):
+                # General news needs higher scores
+                if article['relevance_score'] >= 3:
+                    relevant_articles.append(article)
+            else:
+                # Sustainability sources can have lower scores
+                if article['relevance_score'] >= 1:
+                    relevant_articles.append(article)
         
         # Format compatible with your current frontend
         frontend_data = {
@@ -309,29 +360,22 @@ class NewsAggregator:
             'articles': [
                 {
                     'source': {'name': article['source']},
-                    'author': article['source'],  # Using source as author for compatibility
+                    'author': article['source'],
                     'title': article['title'],
                     'description': article['description'],
                     'url': article['url'],
                     'publishedAt': article['publishedAt'],
                     'content': article['content'][:200] if article['content'] else article['description'][:200]
                 }
-                for article in relevant_articles[:100]  # Limit for frontend performance
+                for article in relevant_articles[:100]
             ]
         }
         
-        # Save to news.json (your frontend expects this file)
+        # Save to news.json
         with open('news.json', 'w', encoding='utf-8') as f:
             json.dump(frontend_data, f, indent=2, ensure_ascii=False)
         
-        # Also save a backup with timestamp for debugging
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        backup_filename = f'news_backup_{timestamp}.json'
-        with open(backup_filename, 'w', encoding='utf-8') as f:
-            json.dump(frontend_data, f, indent=2, ensure_ascii=False)
-        
         print(f"✅ Saved {len(relevant_articles)} relevant articles to news.json")
-        print(f"📦 Backup saved as {backup_filename}")
 
 def main():
     print("🚀 Starting SustainNews Aggregation...")
