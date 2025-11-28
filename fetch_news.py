@@ -37,50 +37,47 @@ RSS_FEEDS = [
     'https://feeds.reuters.com/reuters/scienceNews',
 ]
 
-# Enhanced keywords for better relevance scoring - STRICTER MATCHING
-SUSTAINABILITY_KEYWORDS = [
-    # Core sustainability terms
-    "sustainability", "sustainable", "sustainably",
-    "esg", "environmental social governance",
-    "circular economy", "circular fashion",
-    "climate action", "climate change", "global warming",
-    "carbon neutral", "net zero", "decarbonization",
-    "renewable energy", "clean energy",
-    "biodiversity", "conservation",
-    "green technology", "green tech", "cleantech",
-    "ethical fashion", "sustainable fashion", "slow fashion",
-    "organic cotton", "recycled polyester", "upcycled",
-    "supply chain transparency", "ethical sourcing",
-    "waste reduction", "zero waste", "plastic pollution",
-    "water conservation", "chemical management", "zdhc",
-    "fair trade", "living wage", "worker rights"
+# BROADER keywords for better coverage while maintaining relevance
+KEYWORDS = [
+    # Core sustainability
+    "sustainability", "sustainable", "esg", "circular", "climate", "carbon",
+    "emissions", "renewable", "greenhouse", "biodiversity", "conservation",
+    "pollution", "waste", "recycling", "upcycling", "eco-friendly", "green",
+    
+    # Fashion specific
+    "fashion", "textile", "apparel", "clothing", "garment", "cotton", "polyester",
+    "supply chain", "ethical", "organic", "recycled", "sustainable fashion",
+    "circular fashion", "ethical fashion", "fast fashion", "slow fashion",
+    
+    # Business & ESG
+    "esg", "environmental", "social", "governance", "corporate responsibility",
+    "sustainable business", "green business", "clean production", "ethical sourcing",
+    
+    # Technical terms
+    "chemical management", "zdhc", "water conservation", "energy efficiency",
+    "carbon footprint", "net zero", "carbon neutral", "decarbonization"
 ]
 
-# Industry-specific terms
-FASHION_KEYWORDS = [
-    "sustainable fashion", "ethical fashion", "circular fashion",
-    "fashion sustainability", "eco fashion", "green fashion",
-    "textile recycling", "fashion waste", "apparel sustainability",
-    "sustainable apparel", "ethical clothing", "green textiles"
+# STRONG negative keywords - only filter out clearly irrelevant content
+STRONG_NEGATIVE_KEYWORDS = [
+    # Politics
+    "election", "trump", "biden", "president", "senate", "congress", "vote", "voting",
+    
+    # Sports
+    "football", "basketball", "soccer", "nfl", "nba", "baseball", "tennis", "olympics",
+    
+    # Entertainment
+    "celebrity", "movie", "hollywood", "oscars", "grammy", "netflix", "disney",
+    
+    # Completely unrelated
+    "crypto", "bitcoin", "stock market", "real estate", "recipe", "cooking"
 ]
 
-# Environmental terms
-ENVIRONMENT_KEYWORDS = [
-    "climate change", "global warming", "carbon emissions",
-    "renewable energy", "clean energy", "solar power", "wind power",
-    "biodiversity", "conservation", "deforestation",
-    "pollution", "air quality", "water conservation",
-    "recycling", "waste management", "circular economy"
-]
-
-# Negative keywords - articles containing these get penalized
-NEGATIVE_KEYWORDS = [
-    "politics", "election", "trump", "biden", "government", "policy",
-    "sports", "football", "basketball", "soccer", "nfl", "nba",
-    "entertainment", "movie", "celebrity", "hollywood", "oscars",
-    "technology", "apple", "google", "microsoft", "ai", "artificial intelligence",
-    "finance", "stock", "market", "investment", "crypto", "bitcoin",
-    "health", "medical", "covid", "vaccine", "medicine", "disease"
+# Trusted sustainability sources - these get bonus points
+SUSTAINABILITY_SOURCES = [
+    'greenbiz.com', 'sustainablebrands.com', 'ecotextile.com', 
+    'businessoffashion.com', 'sourcingjournal.com', 'voguebusiness.com',
+    'triplepundit.com'
 ]
 
 # Map domains to proper source names
@@ -136,16 +133,16 @@ class NewsAggregator:
                 print(f"Fetching from: {self.get_domain_name(feed_url)}")
                 feed = feedparser.parse(feed_url)
                 
-                for entry in feed.entries[:10]:
+                for entry in feed.entries[:15]:  # Increased back to 15
                     published_time = self.get_published_time(entry)
                     if published_time and published_time < (datetime.now() - timedelta(days=7)):
                         continue
                     
-                    # Calculate relevance score first
-                    relevance_score = self.calculate_relevance_score(entry)
+                    # Calculate relevance score
+                    relevance_score = self.calculate_relevance_score(entry, feed_url)
                     
-                    # Only include articles that meet minimum relevance threshold
-                    if relevance_score >= 3:  # Minimum threshold to filter out irrelevant content
+                    # Include articles with at least some relevance
+                    if relevance_score >= 1:  # Lower threshold to catch more relevant content
                         article = {
                             'title': entry.title,
                             'description': self.get_clean_description(entry),
@@ -211,41 +208,36 @@ class NewsAggregator:
         
         return clean_desc.strip()
     
-    def calculate_relevance_score(self, entry):
-        """Calculate STRICT relevance score based on multiple keyword categories"""
+    def calculate_relevance_score(self, entry, feed_url):
+        """Calculate balanced relevance score"""
         content = f"{entry.title} {self.get_clean_description(entry)}".lower()
         score = 0
         
-        # Check for sustainability keywords (higher weight)
-        for keyword in SUSTAINABILITY_KEYWORDS:
+        # Base keyword matching
+        for keyword in KEYWORDS:
             if keyword.lower() in content:
-                score += 3  # Higher weight for core sustainability terms
+                score += 1
         
-        # Check for fashion sustainability keywords
-        for keyword in FASHION_KEYWORDS:
+        # Strong negative filtering - only for clearly irrelevant content
+        for keyword in STRONG_NEGATIVE_KEYWORDS:
             if keyword.lower() in content:
-                score += 4  # Even higher weight for fashion-specific sustainability
+                score -= 3  # Strong penalty for completely irrelevant topics
         
-        # Check for environmental keywords
-        for keyword in ENVIRONMENT_KEYWORDS:
-            if keyword.lower() in content:
-                score += 2
+        # Bonus for trusted sustainability sources
+        domain = self.get_domain_name(feed_url)
+        if any(source in domain for source in SUSTAINABILITY_SOURCES):
+            score += 2  # Bonus for known sustainability-focused sources
         
-        # Penalize for irrelevant content
-        for keyword in NEGATIVE_KEYWORDS:
-            if keyword.lower() in content:
-                score -= 2  # Penalize for off-topic content
-        
-        # Bonus for multiple keyword matches (indicates stronger relevance)
-        keyword_matches = sum(1 for keyword in SUSTAINABILITY_KEYWORDS + FASHION_KEYWORDS + ENVIRONMENT_KEYWORDS if keyword.lower() in content)
-        if keyword_matches >= 2:
-            score += 2
+        # Bonus for multiple keyword matches
+        keyword_matches = sum(1 for keyword in KEYWORDS if keyword.lower() in content)
         if keyword_matches >= 3:
-            score += 3
+            score += 2
+        elif keyword_matches >= 2:
+            score += 1
         
-        # Bonus for recent articles (but only if already relevant)
+        # Recency bonus
         published_time = self.get_published_time(entry)
-        if published_time and score > 0:  # Only add recency bonus if article is already relevant
+        if published_time:
             days_old = (datetime.now() - published_time).days
             if days_old <= 1:
                 score += 2
@@ -286,29 +278,29 @@ class NewsAggregator:
         
         print(f"📊 Total unique articles: {len(self.articles)}")
         
+        # Show score distribution
+        score_counts = {}
+        for article in self.articles:
+            score = article['relevance_score']
+            score_counts[score] = score_counts.get(score, 0) + 1
+        
+        print("📈 Score distribution:")
+        for score, count in sorted(score_counts.items(), reverse=True):
+            print(f"   - Score {score}: {count} articles")
+        
         # Show top articles by relevance
-        top_articles = [a for a in self.articles if a['relevance_score'] >= 5][:5]
+        top_articles = [a for a in self.articles if a['relevance_score'] >= 3][:5]
         if top_articles:
             print("🏆 Top relevant articles:")
             for article in top_articles:
                 print(f"   - {article['title']} (Score: {article['relevance_score']}) - {article['source']}")
-        
-        # Show source distribution
-        source_counts = {}
-        for article in self.articles:
-            source = article['source']
-            source_counts[source] = source_counts.get(source, 0) + 1
-        
-        print("📈 Source distribution:")
-        for source, count in sorted(source_counts.items(), key=lambda x: x[1], reverse=True)[:10]:
-            print(f"   - {source}: {count} articles")
     
     def save_articles(self):
         """Save articles to JSON files - compatible with current frontend"""
         print("💾 Saving articles...")
         
-        # Filter to only highly relevant articles (score >= 3) for the main feed
-        relevant_articles = [article for article in self.articles if article['relevance_score'] >= 3]
+        # Use lower threshold to include more relevant content
+        relevant_articles = [article for article in self.articles if article['relevance_score'] >= 1]
         
         # Format compatible with your current frontend
         frontend_data = {
