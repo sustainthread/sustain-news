@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 86,
+  "totalResults": 26,
   "articles": [
     {
       "source": {
@@ -62,17 +62,6 @@
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "India Rehauls Decades Old Labor Laws, Unions Express a ‘Fire of Rage’",
-      "description": "Rolling out a simplified new labor code to replace the decades-old colonial one, the Indian gover...",
-      "url": "https://sourcingjournal.com/topics/labor/india-labor-laws-unions-garment-workers-compliance-tariffs-1234791817/",
-      "publishedAt": "2025-11-27T14:00:00",
-      "content": "Rolling out a simplified new labor code to replace the decades-old colonial one, the Indian gover..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
       "title": "Highway Trucker Blockades Sweep Mexico, Could Disrupt Cross-Border Trade",
       "description": "C.",
       "url": "https://sourcingjournal.com/topics/logistics/trucker-highway-blockades-mexico-protests-disrupt-cross-border-trade-farmers-antac-ch-robinson-delays-1234791895/",
@@ -114,58 +103,25 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Euronews"
       },
-      "author": "Sourcing Journal",
-      "title": "Panama Canal Courts Global Bidders, Including China, for New Port Terminals",
-      "description": "The canal's operator stresses its neutrality and a need to drive competition in a move that could...",
-      "url": "https://sourcingjournal.com/topics/logistics/panama-canal-authority-china-new-port-terminals-corozal-telfers-bidding-neutrality-construction-modernization-1234791838/",
-      "publishedAt": "2025-11-26T16:26:57",
-      "content": "The canal's operator stresses its neutrality and a need to drive competition in a move that could..."
+      "author": "Euronews",
+      "title": "EU seeks to exploit nature-based products for competitiveness push, green groups say",
+      "description": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow...",
+      "url": "http://www.euronews.com/my-europe/2025/11/28/eu-seeks-to-exploit-nature-based-products-for-competitiveness-push-green-groups-say",
+      "publishedAt": "2025-11-28T15:02:31",
+      "content": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Euronews"
       },
-      "author": "Sourcing Journal",
-      "title": "FAA Probes Amazon After MK30 Drone Snags Internet Wire in Texas",
-      "description": "The Federal Aviation Administration said the incident triggering the investigation occurred on No...",
-      "url": "https://sourcingjournal.com/topics/technology/amazon-mk30-drone-waco-texas-federal-aviation-administration-probe-1234791824/",
-      "publishedAt": "2025-11-26T16:10:52",
-      "content": "The Federal Aviation Administration said the incident triggering the investigation occurred on No..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Telangana aspires to emerge as India’s design capital",
-      "description": "A Centre of Design Excellence to embed design in governance, business and education is proposed t...",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/telangana-aspires-to-emerge-as-indias-design-capital/article70335874.ece",
-      "publishedAt": "2025-11-28T15:59:12",
-      "content": "A Centre of Design Excellence to embed design in governance, business and education is proposed t..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Two-day seminar on climate-weed interactions held at College of Agriculture, Vellayani",
-      "description": "...",
-      "url": "https://www.thehindu.com/news/national/kerala/two-day-seminar-on-climate-weed-interactions-held-at-college-of-agriculture-vellayani/article70335776.ece",
-      "publishedAt": "2025-11-28T15:49:58",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Children breathing toxic air and falling ill, but Modi govt. is sitting idle, says Rahul",
-      "description": "Opposition leader seeks immediate debate in Parliament on air pollution, and a strict plan to tac...",
-      "url": "https://www.thehindu.com/news/cities/Delhi/children-breathing-toxic-air-and-falling-ill-but-modi-govt-is-sitting-idle-says-rahul/article70334970.ece",
-      "publishedAt": "2025-11-28T15:31:29",
-      "content": "Opposition leader seeks immediate debate in Parliament on air pollution, and a strict plan to tac..."
+      "author": "Euronews",
+      "title": "Armani appoints new board to steer fashion empire after founder’s death",
+      "description": "Armani has appointed an eight-member board to guide the company through a major transition follow...",
+      "url": "http://www.euronews.com/business/2025/11/28/armani-appoints-new-board-to-steer-fashion-empire-after-founders-death",
+      "publishedAt": "2025-11-28T13:51:23",
+      "content": "Armani has appointed an eight-member board to guide the company through a major transition follow..."
     },
     {
       "source": {
@@ -180,14 +136,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Hindu"
       },
-      "author": "New York Times",
-      "title": "Carney Lifts Climate Laws for New Alberta Pipeline",
-      "description": "Prime Minister Mark Carney reached a tentative deal with the province as part of his program to c...",
-      "url": "https://www.nytimes.com/2025/11/27/world/canada/alberta-oil-pipeline-climate-change.html",
-      "publishedAt": "2025-11-28T02:20:34",
-      "content": "Prime Minister Mark Carney reached a tentative deal with the province as part of his program to c..."
+      "author": "The Hindu",
+      "title": "Why India struggles to clear its air",
+      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
+      "publishedAt": "2025-11-27T17:08:53",
+      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
+      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
+      "publishedAt": "2025-11-27T14:00:38",
+      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
     },
     {
       "source": {
@@ -199,6 +166,17 @@
       "url": "https://www.nytimes.com/2025/11/27/realestate/nyc-neighborhoods-climate-change.html",
       "publishedAt": "2025-11-27T10:00:54",
       "content": "The city’s new climate budgeting program is investing billions in keeping the city cool as the cl..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Brij Sone Bagh: A sustainable luxury forest retreat in Bandhavgarh",
+      "description": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol...",
+      "url": "https://www.thehindu.com/life-and-style/travel/brij-sone-bagh-a-sustainable-luxury-forest-retreat-in-bandhavgarh/article70269996.ece",
+      "publishedAt": "2025-11-27T05:40:59",
+      "content": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol..."
     },
     {
       "source": {
@@ -235,633 +213,6 @@
     },
     {
       "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Minister’s aide resigns amid sexual harressment case",
-      "description": "...",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ministers-aide-resigns-amid-sexual-harressment-case/article70335712.ece",
-      "publishedAt": "2025-11-28T16:03:37",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Expect colder nights from Dec. 15",
-      "description": "...",
-      "url": "https://www.thehindu.com/news/national/telangana/expect-colder-nights-from-dec-15/article70335650.ece",
-      "publishedAt": "2025-11-28T15:58:00",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "ED probes cross-border drug smuggling, money-laundering network linked to Myanmar",
-      "description": "Chemical precursors allegedly sent from India to Myanmar and trafficked back as meth through Mizo...",
-      "url": "https://www.thehindu.com/news/national/ed-probes-cross-border-drug-smuggling-money-laundering-network-linked-to-myanmar/article70335499.ece",
-      "publishedAt": "2025-11-28T15:56:47",
-      "content": "Chemical precursors allegedly sent from India to Myanmar and trafficked back as meth through Mizo..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Rahul Mamkootathil moves for anticipatory bail after police book him on charges of rape and coerced termination of pregnancy",
-      "description": "...",
-      "url": "https://www.thehindu.com/news/national/kerala/rahul-mamkootathil-moves-for-anticipatory-bail-after-police-book-him-on-charges-of-rape-and-coerced-termination-of-pregnancy/article70335921.ece",
-      "publishedAt": "2025-11-28T15:52:53",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Farmers in seven Amaravati villages willing to give land under LPS 2.0, Chief Minister tells Cabinet",
-      "description": "The APCRDA is working to resolve the woes of ryots under the earlier land pooling scheme, he says...",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/farmers-in-seven-amaravati-villages-willing-to-give-land-under-lps-20-chief-minister-tells-cabinet/article70335729.ece",
-      "publishedAt": "2025-11-28T15:50:10",
-      "content": "The APCRDA is working to resolve the woes of ryots under the earlier land pooling scheme, he says..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Rehab centre death sparks serious charges against inspector",
-      "description": "...",
-      "url": "https://www.thehindu.com/news/national/karnataka/rehab-centre-death-sparks-serious-charges-against-inspector/article70335348.ece",
-      "publishedAt": "2025-11-28T15:49:18",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Fake Black Friday: Consumers urged to watch out for scams",
-      "description": "Today is Black Friday, that US import that's the delight of bargain hunters the world over, but i...",
-      "url": "https://www.france24.com/en/video/20251128-fake-black-friday-consumers-urged-to-watch-out-for-scams",
-      "publishedAt": "2025-11-28T15:46:09",
-      "content": "Today is Black Friday, that US import that's the delight of bargain hunters the world over, but i..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "SCTIMST launches space medicine centre and bioastronautics fellowship",
-      "description": "It has also launched the Centre for Skills and Simulation Lab (CSSL) at its Biomedical Technology...",
-      "url": "https://www.thehindu.com/news/national/kerala/sctimst-launches-space-medicine-centre-and-bioastronautics-fellowship/article70335849.ece",
-      "publishedAt": "2025-11-28T15:44:43",
-      "content": "It has also launched the Centre for Skills and Simulation Lab (CSSL) at its Biomedical Technology..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Delhi High Court quashes Lokpal proceedings against Defence Secretary Rajesh Kumar Singh",
-      "description": "The complainant alleged irregularities in promotions conducted by the NPC on March 28, 2023 on wh...",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-quashes-lokpal-proceedings-against-defence-secretary-rajesh-kumar-singh/article70334805.ece",
-      "publishedAt": "2025-11-28T15:39:01",
-      "content": "The complainant alleged irregularities in promotions conducted by the NPC on March 28, 2023 on wh..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "A fair share or a fiscal fiasco? EU aims to tackle wealth inequality",
-      "description": "Wealth inequality is on the rise around the world and right here in Europe.",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20251128-a-fair-share-or-a-fiscal-fiasco-eu-aims-to-tackle-wealth-inequality",
-      "publishedAt": "2025-11-28T15:36:56",
-      "content": "Wealth inequality is on the rise around the world and right here in Europe."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Ukraine's Zelensky says his chief of staff Andriy Yermak has resigned after anti-graft raids",
-      "description": "...",
-      "url": "https://www.france24.com/en/live-news/20251128-ukraine-s-zelensky-says-his-chief-of-staff-andriy-yermak-has-resigned-after-anti-graft-raids",
-      "publishedAt": "2025-11-28T15:36:43",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Homoeopathy is the future of medical treatment, says expert",
-      "description": "...",
-      "url": "https://www.thehindu.com/news/national/karnataka/homoeopathy-is-the-future-of-medical-treatment-says-expert/article70335540.ece",
-      "publishedAt": "2025-11-28T15:34:45",
-      "content": "..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "14 hurt as APSRTC bus overturns in Prakasam district",
-      "description": "The injured were initially admitted to a PHC at Dornala, but were later shifted to Kurnool Govern...",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/14-hurt-as-apsrtc-bus-overturns-in-prakasam-district/article70335117.ece",
-      "publishedAt": "2025-11-28T15:29:51",
-      "content": "The injured were initially admitted to a PHC at Dornala, but were later shifted to Kurnool Govern..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "RSF military push for Kordofan leaves Sudan at risk of partition",
-      "description": "RSF already has control of western Sudan in war with Sudan&#039;s army, leaving country facing po...",
-      "url": "https://www.aljazeera.com/features/2025/11/28/rsf-military-push-for-kordofan-leaves-sudan-at-risk-of-partition?traffic_source=rss",
-      "publishedAt": "2025-11-28T15:21:38",
-      "content": "RSF already has control of western Sudan in war with Sudan&#039;s army, leaving country facing po..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Deadly Hong Kong fire raises serious questions over construction safety",
-      "description": "People in Hong Kong are searching for answers after the worst fire there in decades.",
-      "url": "https://www.france24.com/en/tv-shows/access-asia/20251128-deadly-hong-kong-fire-raises-serious-questions-over-construction-safety",
-      "publishedAt": "2025-11-28T15:15:55",
-      "content": "People in Hong Kong are searching for answers after the worst fire there in decades."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "Germany's industrial titans embrace the AI age",
-      "description": "Siemens, BASF and VW have poured billions into AI to expand virtual factories, robot fleets and s...",
-      "url": "https://www.dw.com/en/germany-s-industrial-titans-embrace-the-ai-age/a-74876661?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T14:51:00",
-      "content": "Siemens, BASF and VW have poured billions into AI to expand virtual factories, robot fleets and s..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Mamdani and the media: From slugfest to lovefest",
-      "description": "In this episode of FRANCE 24's media show Scoop we focus on coverage of Zohran Mamdani.",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20251128-mamdani-and-the-media-from-slugfest-to-lovefest",
-      "publishedAt": "2025-11-28T14:50:38",
-      "content": "In this episode of FRANCE 24's media show Scoop we focus on coverage of Zohran Mamdani."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Louvre: Most non-EU tourists will have to pay $37 to access museum",
-      "description": "The Louvre museum said Thursday it is increasing ticket prices for  visitors from outside the EU,...",
-      "url": "https://www.france24.com/en/video/20251128-louvre-most-non-eu-tourists-will-have-to-pay-37-to-access-museum",
-      "publishedAt": "2025-11-28T14:50:03",
-      "content": "The Louvre museum said Thursday it is increasing ticket prices for  visitors from outside the EU,..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "European Space Agency’s €22 billion plan to catch up in space race",
-      "description": "The European Space Agency (ESA) has outlined its priorities for the next three years, supported b...",
-      "url": "https://www.france24.com/en/video/20251128-european-space-agency-s-%E2%82%AC22-billion-plan-to-catch-up-in-space-race",
-      "publishedAt": "2025-11-28T14:43:43",
-      "content": "The European Space Agency (ESA) has outlined its priorities for the next three years, supported b..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Pope, Orthodox leader to celebrate early Christian milestone",
-      "description": "Pope Leo XIV will join the leader of the world's Orthodox Christians Friday to celebrate 1,700 ye...",
-      "url": "https://www.france24.com/en/video/20251128-pope-orthodox-leader-to-celebrate-early-christian-milestone",
-      "publishedAt": "2025-11-28T14:39:56",
-      "content": "Pope Leo XIV will join the leader of the world's Orthodox Christians Friday to celebrate 1,700 ye..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "Germany news: Lawmakers pass 2026 budget",
-      "description": "German lawmakers passed the record 2026 budget amid a drawn-out fight over pension reforms pushed...",
-      "url": "https://www.dw.com/en/germany-news-lawmakers-pass-2026-budget/live-74936743?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T14:12:00",
-      "content": "German lawmakers passed the record 2026 budget amid a drawn-out fight over pension reforms pushed..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Living among landmines: Residents' risky return to villages on Syrian-Iraqi border",
-      "description": "Since the fall of the Syrian regime in December 2024, the NGO Handicap International has recorded...",
-      "url": "https://www.france24.com/en/tv-shows/focus/20251128-living-among-landmines-residents-risky-return-to-villages-on-syrian-iraqi-border",
-      "publishedAt": "2025-11-28T14:00:09",
-      "content": "Since the fall of the Syrian regime in December 2024, the NGO Handicap International has recorded..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Massive corruption scandal embroils Kyiv: Andriy Yermak denies wrongdoing, vows full cooperation",
-      "description": "Ukraine’s anti-corruption agencies, NABU and SAP, said Friday they were conducting sanctioned sea...",
-      "url": "https://www.france24.com/en/video/20251128-massive-corruption-scandal-embroils-kyiv-andriy-yermak-denies-wrongdoing-vows-full-cooperation",
-      "publishedAt": "2025-11-28T13:54:57",
-      "content": "Ukraine’s anti-corruption agencies, NABU and SAP, said Friday they were conducting sanctioned sea..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "AfD Youth: A training ground for Germany's far right",
-      "description": "The far-right AfD party is launching a new youth organization.",
-      "url": "https://www.dw.com/en/afd-youth-a-training-ground-for-germany-s-far-right/a-74934896?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T13:30:00",
-      "content": "The far-right AfD party is launching a new youth organization."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Pope Leo to mark unity at historic site in Turkey, where Nicaean Creed originated",
-      "description": "On the second day of his visit to Turkey, Pope Leo XIV will join Othrodox patriarchs on Friday in...",
-      "url": "https://www.france24.com/en/middle-east/20251128-pope-leo-to-mark-unity-at-historic-site-in-turkey-where-nicaean-creed-originated",
-      "publishedAt": "2025-11-28T13:08:42",
-      "content": "On the second day of his visit to Turkey, Pope Leo XIV will join Othrodox patriarchs on Friday in..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "North Korea claims victory in 'war on religion'",
-      "description": "Pyongyang boasts of crushing underground churches, but defectors and rights groups say secret wor...",
-      "url": "https://www.dw.com/en/north-korea-claims-victory-in-war-on-religion/a-74937436?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T13:07:00",
-      "content": "Pyongyang boasts of crushing underground churches, but defectors and rights groups say secret wor..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "Israeli operation in southern Syria leaves at least 10 dead",
-      "description": "Israel has said the raid on the village of Beit Jin targeted the Jamaa Islamiya group.",
-      "url": "https://www.dw.com/en/israeli-operation-in-southern-syria-leaves-at-least-10-dead/a-74936771?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T13:06:00",
-      "content": "Israel has said the raid on the village of Beit Jin targeted the Jamaa Islamiya group."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Flood deaths rise to 174 in Indonesia, surge across Southeast Asia",
-      "description": "Authorities say 79 people remain missing and thousands of families have been displaced from their...",
-      "url": "https://www.aljazeera.com/news/2025/11/28/flood-deaths-rise-to-174-in-indonesia-surge-across-southeast-asia?traffic_source=rss",
-      "publishedAt": "2025-11-28T12:49:56",
-      "content": "Authorities say 79 people remain missing and thousands of families have been displaced from their..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "Iranian FA to boycott 2026 World Cup draw in Washington, DC",
-      "description": "Iran is to boycott next week's draw for the 2026 World Cup after several members of its planned d...",
-      "url": "https://www.dw.com/en/iranian-fa-to-boycott-2026-world-cup-draw-in-washington-dc/a-74937847?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T12:23:00",
-      "content": "Iran is to boycott next week's draw for the 2026 World Cup after several members of its planned d..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Death toll from flooding in southern Thailand reaches at least 145",
-      "description": "Human toll rises as flooding leaves trail of damage and causes severe disruption, leaving thousan...",
-      "url": "https://www.aljazeera.com/news/2025/11/28/death-toll-from-flooding-in-southern-thailand-reaches-at-least-145?traffic_source=rss",
-      "publishedAt": "2025-11-28T12:06:50",
-      "content": "Human toll rises as flooding leaves trail of damage and causes severe disruption, leaving thousan..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Palestinian American teen freed after 9 months of Israeli detention",
-      "description": "16-year-old Mohammed Ibrahim is recovering after spending 9 months in an Israeli prison, for alle...",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/11/28/palestinian-american-teen-freed-after-9-months-of-israeli-detention?traffic_source=rss",
-      "publishedAt": "2025-11-28T12:06:26",
-      "content": "16-year-old Mohammed Ibrahim is recovering after spending 9 months in an Israeli prison, for alle..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Why has Venezuela banned six international airlines amid US tensions?",
-      "description": "Venezuela&#039;s decision to revoke permits for carriers is the latest response to escalating ten...",
-      "url": "https://www.aljazeera.com/news/2025/11/28/why-has-venezuela-banned-six-international-airlines-amid-us-tensions?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:46:10",
-      "content": "Venezuela&#039;s decision to revoke permits for carriers is the latest response to escalating ten..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "More than 50 killed in deadly Sri Lanka floods: What we know so far",
-      "description": "Cyclone Ditwah caused landslides in the central mountainous tea-growing regions of Badulla and Nu...",
-      "url": "https://www.aljazeera.com/economy/2025/11/28/more-than-50-killed-in-deadly-sri-lanka-floods-what-we-know-so-far?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:42:00",
-      "content": "Cyclone Ditwah caused landslides in the central mountainous tea-growing regions of Badulla and Nu..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Pope, Orthodox leader mark Christian milestone in historic Turkiye meeting",
-      "description": "First American pope urges Catholic Church in Turkiye to serve the most vulnerable, including migr...",
-      "url": "https://www.aljazeera.com/news/2025/11/28/pope-orthodox-leader-mark-christian-milestone-in-historic-turkiye-meeting?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:34:43",
-      "content": "First American pope urges Catholic Church in Turkiye to serve the most vulnerable, including migr..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "UK energy bill payers will hand £2bn a year to EDF for new power stations",
-      "description": "French government-owned company to receive funding for Hinkley Point C and Sizewell C Business li...",
-      "url": "https://www.theguardian.com/uk-news/2025/nov/28/uk-energy-bill-payers-edf-hinkley-point-c-sizewell-c",
-      "publishedAt": "2025-11-28T11:30:20",
-      "content": "French government-owned company to receive funding for Hinkley Point C and Sizewell C Business li..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Will Bangladesh’s Hasina face the hangman?",
-      "description": "Bangladesh wants former Prime Minister Hasina to hang, waits on India to formally respond to extr...",
-      "url": "https://www.aljazeera.com/gallery/2025/11/28/history-illustrated-will-bangladeshs-hasina-face-the-hangman?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:12:42",
-      "content": "Bangladesh wants former Prime Minister Hasina to hang, waits on India to formally respond to extr..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Pope Leo XIV begins Turkiye visit with prayers and unity message",
-      "description": "The pontiff leads prayers in Istanbul, emphasising the Nicene Creed as the core of Christian unit...",
-      "url": "https://www.aljazeera.com/gallery/2025/11/28/pope-leo-xiv-begins-turkiye-visit-with-prayers-and-unity-message?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:09:06",
-      "content": "The pontiff leads prayers in Istanbul, emphasising the Nicene Creed as the core of Christian unit..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Venezuela explained in 10 maps and charts",
-      "description": "Al Jazeera visualises Venezuela’s political and economic landscape, oil riches, migration crisis ...",
-      "url": "https://www.aljazeera.com/news/2025/11/28/venezuela-explained-in-10-maps-and-charts?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:04:56",
-      "content": "Al Jazeera visualises Venezuela’s political and economic landscape, oil riches, migration crisis ..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "India’s Olympic ambition in spotlight as Commonwealth Games build-up begins",
-      "description": "India are expected to bid for the 2036 Olympic Games but the 2030 Commonwealth Games must first c...",
-      "url": "https://www.aljazeera.com/sports/2025/11/28/indias-olympic-ambition-in-spotlight-as-commonwealth-games-build-up-begins?traffic_source=rss",
-      "publishedAt": "2025-11-28T11:02:46",
-      "content": "India are expected to bid for the 2036 Olympic Games but the 2030 Commonwealth Games must first c..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Weather tracker: Snowfall cuts power in Poland and flooding devastates Sri Lanka",
-      "description": "Temperatures dip to -8.",
-      "url": "https://www.theguardian.com/environment/2025/nov/28/weather-tracker-snowfall-cuts-power-poland-flooding-devastates-sri-lanka",
-      "publishedAt": "2025-11-28T10:37:59",
-      "content": "Temperatures dip to -8."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "Southeast Asia floods: More than 250 deaths reported",
-      "description": "Thailand, Malaysia and Indonesia have been hit by flooding and landslides after days of torrentia...",
-      "url": "https://www.dw.com/en/southeast-asia-floods-more-than-250-deaths-reported/a-74935799?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T10:26:00",
-      "content": "Thailand, Malaysia and Indonesia have been hit by flooding and landslides after days of torrentia..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "What's the deal with the luxury advent calendar craze?",
-      "description": "Luxury advent calendars mash up tradition and modern consumer culture.",
-      "url": "https://www.dw.com/en/what-s-the-deal-with-the-luxury-advent-calendar-craze/a-74823371?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T10:25:00",
-      "content": "Luxury advent calendars mash up tradition and modern consumer culture."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "German researchers find highly effective HIV antibody",
-      "description": "German researchers have discovered an antibody that is extremely effective against HIV, at least ...",
-      "url": "https://www.dw.com/en/german-researchers-find-highly-effective-hiv-antibody/a-74363818?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T09:54:00",
-      "content": "German researchers have discovered an antibody that is extremely effective against HIV, at least ..."
-    },
-    {
-      "source": {
-        "name": "Deutsche Welle"
-      },
-      "author": "Deutsche Welle",
-      "title": "Hong Kong fire death toll rises to 128, scores missing",
-      "description": "Authorities are still searching for survivors after firefighters brought a blaze that has killed ...",
-      "url": "https://www.dw.com/en/hong-kong-fire-death-toll-rises-to-128-scores-missing/live-74913913?maca=en-rss-en-all-1573-rdf",
-      "publishedAt": "2025-11-28T07:24:00",
-      "content": "Authorities are still searching for survivors after firefighters brought a blaze that has killed ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Cats became our companions way later than you think",
-      "description": "In true feline style, cats took their time in deciding when and where to join us on the sofa.",
-      "url": "https://www.bbc.com/news/articles/cq8dvdp9gn7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-27T20:02:21",
-      "content": "In true feline style, cats took their time in deciding when and where to join us on the sofa."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
-      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
-      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
-      "publishedAt": "2025-11-27T14:00:38",
-      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Nature feeds us more than it floods us’: Asheville after-school program teaches kids to forage",
-      "description": "In the wake of Hurricane Helene, No Taste Like Home aims to rebuild trust between students and th...",
-      "url": "https://www.theguardian.com/environment/2025/nov/27/asheville-foraging-schools",
-      "publishedAt": "2025-11-27T13:00:36",
-      "content": "In the wake of Hurricane Helene, No Taste Like Home aims to rebuild trust between students and th..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Wild turkeys off the menu in Maine after ‘forever chemicals’ found in birds",
-      "description": "Contamination of wildlife with Pfas, which can increase risk of cancer, a growing problem in USHu...",
-      "url": "https://www.theguardian.com/us-news/2025/nov/27/cancer-chemical-in-maine-wild-turkeys",
-      "publishedAt": "2025-11-27T11:00:26",
-      "content": "Contamination of wildlife with Pfas, which can increase risk of cancer, a growing problem in USHu..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Massive prehistoric structure found near Stonehenge",
-      "description": "A study has confirmed 16 pits were dug close to the Stonehenge more than 4,000 years ago.",
-      "url": "https://www.bbc.com/news/articles/cly3vgd5732o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-27T06:40:47",
-      "content": "A study has confirmed 16 pits were dug close to the Stonehenge more than 4,000 years ago."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Images From Vietnam’s Year of Deadly Wet Weather",
-      "description": "Scientists suggested that climate change could make central Vietnam a global hot spot for destruc...",
-      "url": "https://www.nytimes.com/2025/11/24/world/asia/vietnam-flooding-typhoon-emergency.html",
-      "publishedAt": "2025-11-25T02:27:09",
-      "content": "Scientists suggested that climate change could make central Vietnam a global hot spot for destruc..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "From Tank to Table: Lab-Grown Seafood Might Be Coming to a Menu Near You",
-      "description": "Seafood company Wildtype just launched a sushi-grade salmon that's grown from salmon cells in a r...",
-      "url": "https://triplepundit.com/2025/wildtype-lab-grown-salmon-cultivated-seafood/",
-      "publishedAt": "2025-11-21T16:29:11",
-      "content": "Seafood company Wildtype just launched a sushi-grade salmon that's grown from salmon cells in a r..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Tourism Slump Squeezes Navajo Nation Parks Like Monument Valley",
-      "description": "Things were looking up last year at pandemic-battered Navajo Nation parks.",
-      "url": "https://www.nytimes.com/2025/11/26/travel/navajo-tourism-monument-valley.html",
-      "publishedAt": "2025-11-26T14:07:44",
-      "content": "Things were looking up last year at pandemic-battered Navajo Nation parks."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New York City’s Next Super Storm",
-      "description": "What’s a worst-case scenario for hurricane flooding in New York City? Our reporter Hilary Howard,...",
-      "url": "https://www.nytimes.com/video/nyregion/100000010524474/new-york-citys-next-super-storm.html",
-      "publishedAt": "2025-11-26T10:00:52",
-      "content": "What’s a worst-case scenario for hurricane flooding in New York City? Our reporter Hilary Howard,..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Broken Circle",
-      "description": "Farmers in Northwest China confront their drying landscape by planting trees as coal burns relent...",
-      "url": "https://www.nytimes.com/video/opinion/100000010494942/the-broken-circle.html",
-      "publishedAt": "2025-11-26T10:00:12",
-      "content": "Farmers in Northwest China confront their drying landscape by planting trees as coal burns relent..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Stand Against Coal Could Push Oakland Toward Bankruptcy",
-      "description": "After Oakland, Calif.",
-      "url": "https://www.nytimes.com/2025/11/24/us/oakland-coal-port-budget-bankruptcy.html",
-      "publishedAt": "2025-11-26T01:24:18",
-      "content": "After Oakland, Calif."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Tentative Signs of Hope as the Amazon Burns",
-      "description": "This year’s U.",
-      "url": "https://www.nytimes.com/2025/11/25/climate/amazon-fires-cop30.html",
-      "publishedAt": "2025-11-25T20:02:57",
-      "content": "This year’s U."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "In Michigan’s Upper Peninsula, Locals Fight for ‘The Right to Night’",
-      "description": "Industrialization in Michigan’s Upper Peninsula has some residents pushing for protection of the ...",
-      "url": "https://www.nytimes.com/2025/11/24/science/astronomy-michigan-dark-sky.html",
-      "publishedAt": "2025-11-25T16:01:22",
-      "content": "Industrialization in Michigan’s Upper Peninsula has some residents pushing for protection of the ..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -873,25 +224,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "Some Park Rangers Are Still Owed Pay After the Shutdown",
-      "description": "Federal workers were guaranteed back pay once the government reopened.",
-      "url": "https://www.nytimes.com/2025/11/24/climate/park-service-back-pay-shutdown.html",
-      "publishedAt": "2025-11-25T00:29:53",
-      "content": "Federal workers were guaranteed back pay once the government reopened."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New Studies of Dog DNA Shed Light on Pets and People",
-      "description": "New studies of canine genetics shed light on the diversity of dogs and our longstanding, still-ev...",
-      "url": "https://www.nytimes.com/2025/11/24/science/genetics-dogs-pets.html",
-      "publishedAt": "2025-11-24T20:00:08",
-      "content": "New studies of canine genetics shed light on the diversity of dogs and our longstanding, still-ev..."
+      "author": "Triple Pundit",
+      "title": "From Tank to Table: Lab-Grown Seafood Might Be Coming to a Menu Near You",
+      "description": "Seafood company Wildtype just launched a sushi-grade salmon that's grown from salmon cells in a r...",
+      "url": "https://triplepundit.com/2025/wildtype-lab-grown-salmon-cultivated-seafood/",
+      "publishedAt": "2025-11-21T16:29:11",
+      "content": "Seafood company Wildtype just launched a sushi-grade salmon that's grown from salmon cells in a r..."
     },
     {
       "source": {
