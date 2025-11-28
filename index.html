@@ -839,54 +839,60 @@
         }
 
         function renderPage(){
-            const grid = $('#newsGrid');
-            grid.empty();
+    const grid = $('#newsGrid');
+    grid.empty();
 
-            if (!filtered || filtered.length === 0) {
-                grid.append(`<div class="col-12"><div class="alert alert-info">No articles found matching your filters.</div></div>`);
-                return;
+    if (!filtered || filtered.length === 0) {
+        grid.append(`<div class="col-12"><div class="alert alert-info">No articles found matching your filters.</div></div>`);
+        return;
+    }
+
+    const start = (currentPage - 1) * PAGE_SIZE;
+    const pageItems = filtered.slice(start, start + PAGE_SIZE);
+
+    pageItems.forEach(article => {
+        const sourceDomain = (article.url && article.url !== '#') ? (new URL(article.url).hostname) : '';
+        const sourceLogo = sourceDomain ? `https://www.google.com/s2/favicons?domain=${sourceDomain}&sz=64` : '';
+
+        // FIX: Don't add UTM parameters to France24 URLs
+        let trackedUrl = article.url || '#';
+        if (article.url && !article.url.includes('utm_source=')) {
+            // Exclude France24 and other sites that block UTM parameters
+            const blockedDomains = ['france24.com', 'bbc.com', 'bbc.co.uk', 'aljazeera.com'];
+            const shouldAddUTM = !blockedDomains.some(domain => sourceDomain.includes(domain));
+            
+            if (shouldAddUTM) {
+                trackedUrl = `${article.url}${article.url.includes('?') ? '&' : '?'}utm_source=sustainthread.github.io&utm_medium=referral&utm_campaign=sustainability-news`;
             }
-
-            const start = (currentPage - 1) * PAGE_SIZE;
-            const pageItems = filtered.slice(start, start + PAGE_SIZE);
-
-            pageItems.forEach(article => {
-                const sourceDomain = (article.url && article.url !== '#') ? (new URL(article.url).hostname) : '';
-                const sourceLogo = sourceDomain ? `https://www.google.com/s2/favicons?domain=${sourceDomain}&sz=64` : '';
-
-                // CORRECT UTM - use sustainthread.github.io
-                let trackedUrl = article.url || '#';
-                if (article.url && !article.url.includes('utm_source=')) {
-                    trackedUrl = `${article.url}${article.url.includes('?') ? '&' : '?'}utm_source=sustainthread.github.io&utm_medium=referral&utm_campaign=sustainability-news`;
-                }
-
-                const cardHtml = `
-                    <div class="news-card card">
-                        <div class="card-top">
-                            <div class="source-left">
-                                <img src="${sourceLogo}" alt="${escapeHtmlAttr(article.source)}" class="source-logo" onerror="this.style.display='none'">
-                                <div class="source-name">${escapeHtml(article.source)}</div>
-                            </div>
-                            <div class="article-date">${escapeHtml(article.date || '')}</div>
-                        </div>
-
-                        <div class="card-body">
-                            <div>
-                                <h3 class="card-title">${escapeHtml(article.title || 'No title')}</h3>
-                                <p class="card-desc">${escapeHtml(article.description || 'No description available.')}</p>
-                            </div>
-
-                            <div class="card-footer">
-                                <a class="btn-read" href="${escapeHtmlAttr(trackedUrl)}" target="_blank" rel="noopener noreferrer">
-                                    Read Article <i class="fas fa-arrow-right" style="margin-left:6px;font-size:0.85rem;"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                `;
-                grid.append(cardHtml);
-            });
         }
+
+        const cardHtml = `
+            <div class="news-card card">
+                <div class="card-top">
+                    <div class="source-left">
+                        <img src="${sourceLogo}" alt="${escapeHtmlAttr(article.source)}" class="source-logo" onerror="this.style.display='none'">
+                        <div class="source-name">${escapeHtml(article.source)}</div>
+                    </div>
+                    <div class="article-date">${escapeHtml(article.date || '')}</div>
+                </div>
+
+                <div class="card-body">
+                    <div>
+                        <h3 class="card-title">${escapeHtml(article.title || 'No title')}</h3>
+                        <p class="card-desc">${escapeHtml(article.description || 'No description available.')}</p>
+                    </div>
+
+                    <div class="card-footer">
+                        <a class="btn-read" href="${escapeHtmlAttr(trackedUrl)}" target="_blank" rel="noopener noreferrer">
+                            Read Article <i class="fas fa-arrow-right" style="margin-left:6px;font-size:0.85rem;"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        `;
+        grid.append(cardHtml);
+    });
+}
 
         function updatePaginationNumbers(){
             const container = $('#paginationNumbers');
