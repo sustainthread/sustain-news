@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 26,
+  "totalResults": 27,
   "articles": [
+    {
+      "source": {
+        "name": "France 24"
+      },
+      "author": "France 24",
+      "title": "The cow of the future? France introduces smaller, low-emission livestock",
+      "description": "How can we reduce greenhouse gas emissions? In the wake of the COP30 climate conference in Brazil...",
+      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20251128-the-cow-of-the-future-france-introduces-smaller-low-emission-livestock",
+      "publishedAt": "2025-11-28T16:45:39",
+      "content": "How can we reduce greenhouse gas emissions? In the wake of the COP30 climate conference in Brazil..."
+    },
     {
       "source": {
         "name": "New York Times"
@@ -51,11 +62,88 @@
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
+      "title": "Shuffle Board: BioFluff Taps Circ Co-Founder as Interim CEO",
+      "description": "Biomaterials startup BioFluff has named Circ co-founder Luke Henning as interim CEO to accelerate...",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-biofluff-circ-executive-moves-lanvin-cart-1234785642/",
+      "publishedAt": "2025-11-28T18:28:24",
+      "content": "Biomaterials startup BioFluff has named Circ co-founder Luke Henning as interim CEO to accelerate..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
       "title": "Material World: Huha Scores $20M for ‘Breath of Fresh Wear’ Panties",
       "description": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ...",
       "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-huha-scores-20m-for-breath-of-fresh-underwear-1234791870/",
       "publishedAt": "2025-11-27T18:12:46",
       "content": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Airbus issues major A320 recall, threatening global flight disruption",
+      "description": "Airbus orders immediate repairs to 6,000 A320 jets; incident linked to solar flares affecting fli...",
+      "url": "https://www.thehindu.com/news/international/airbus-issues-major-a320-recall-threatening-global-flight-disruption/article70337742.ece",
+      "publishedAt": "2025-11-29T05:49:05",
+      "content": "Airbus orders immediate repairs to 6,000 A320 jets; incident linked to solar flares affecting fli..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The New York Neighborhoods That Best Protect Against Extreme Heat",
+      "description": "The city’s new climate budgeting program is investing billions in keeping the city cool as the cl...",
+      "url": "https://www.nytimes.com/2025/11/27/realestate/nyc-neighborhoods-climate-change.html",
+      "publishedAt": "2025-11-28T20:28:34",
+      "content": "The city’s new climate budgeting program is investing billions in keeping the city cool as the cl..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Rahul calls for a debate on air pollution in Parliament, says Modi govt sitting idle",
+      "description": "Opposition leader seeks immediate debate in Parliament on air pollution, and a strict plan to tac...",
+      "url": "https://www.thehindu.com/news/cities/Delhi/children-breathing-toxic-air-and-falling-ill-but-modi-govt-is-sitting-idle-says-rahul/article70334970.ece",
+      "publishedAt": "2025-11-28T15:31:29",
+      "content": "Opposition leader seeks immediate debate in Parliament on air pollution, and a strict plan to tac..."
+    },
+    {
+      "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "EU seeks to exploit nature-based products for competitiveness push, green groups say",
+      "description": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow...",
+      "url": "http://www.euronews.com/my-europe/2025/11/28/eu-seeks-to-exploit-nature-based-products-for-competitiveness-push-green-groups-say",
+      "publishedAt": "2025-11-28T15:02:31",
+      "content": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Why India struggles to clear its air",
+      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
+      "publishedAt": "2025-11-27T17:08:53",
+      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
+      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
+      "publishedAt": "2025-11-27T14:00:38",
+      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
     },
     {
       "source": {
@@ -103,83 +191,6 @@
     },
     {
       "source": {
-        "name": "Euronews"
-      },
-      "author": "Euronews",
-      "title": "EU seeks to exploit nature-based products for competitiveness push, green groups say",
-      "description": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow...",
-      "url": "http://www.euronews.com/my-europe/2025/11/28/eu-seeks-to-exploit-nature-based-products-for-competitiveness-push-green-groups-say",
-      "publishedAt": "2025-11-28T15:02:31",
-      "content": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow..."
-    },
-    {
-      "source": {
-        "name": "Euronews"
-      },
-      "author": "Euronews",
-      "title": "Armani appoints new board to steer fashion empire after founder’s death",
-      "description": "Armani has appointed an eight-member board to guide the company through a major transition follow...",
-      "url": "http://www.euronews.com/business/2025/11/28/armani-appoints-new-board-to-steer-fashion-empire-after-founders-death",
-      "publishedAt": "2025-11-28T13:51:23",
-      "content": "Armani has appointed an eight-member board to guide the company through a major transition follow..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Many ships found breaching pollution limits despite tighter controls",
-      "description": "Researchers using aircraft to sample exhaust plumes say infringements persist – even in stricter ...",
-      "url": "https://www.theguardian.com/environment/2025/nov/28/many-ships-found-breaching-pollution-limits-despite-tighter-controls",
-      "publishedAt": "2025-11-28T06:00:58",
-      "content": "Researchers using aircraft to sample exhaust plumes say infringements persist – even in stricter ..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Why India struggles to clear its air",
-      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
-      "publishedAt": "2025-11-27T17:08:53",
-      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
-      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
-      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
-      "publishedAt": "2025-11-27T14:00:38",
-      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The New York Neighborhoods That Best Protect Against Extreme Heat",
-      "description": "The city’s new climate budgeting program is investing billions in keeping the city cool as the cl...",
-      "url": "https://www.nytimes.com/2025/11/27/realestate/nyc-neighborhoods-climate-change.html",
-      "publishedAt": "2025-11-27T10:00:54",
-      "content": "The city’s new climate budgeting program is investing billions in keeping the city cool as the cl..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Brij Sone Bagh: A sustainable luxury forest retreat in Bandhavgarh",
-      "description": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol...",
-      "url": "https://www.thehindu.com/life-and-style/travel/brij-sone-bagh-a-sustainable-luxury-forest-retreat-in-bandhavgarh/article70269996.ece",
-      "publishedAt": "2025-11-27T05:40:59",
-      "content": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -202,14 +213,14 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Hindu"
       },
-      "author": "Triple Pundit",
-      "title": "AI Is Tackling One of Healthcare’s Biggest Problems: Missed Appointments",
-      "description": "Millions of medical appointments are missed every year in the U.",
-      "url": "https://triplepundit.com/2025/ai-healthcare-missed-appointments-deep-medical/",
-      "publishedAt": "2025-11-24T19:14:00",
-      "content": "Millions of medical appointments are missed every year in the U."
+      "author": "The Hindu",
+      "title": "Brij Sone Bagh: A sustainable luxury forest retreat in Bandhavgarh",
+      "description": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol...",
+      "url": "https://www.thehindu.com/life-and-style/travel/brij-sone-bagh-a-sustainable-luxury-forest-retreat-in-bandhavgarh/article70269996.ece",
+      "publishedAt": "2025-11-27T05:40:59",
+      "content": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol..."
     },
     {
       "source": {
@@ -227,11 +238,11 @@
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
-      "title": "From Tank to Table: Lab-Grown Seafood Might Be Coming to a Menu Near You",
-      "description": "Seafood company Wildtype just launched a sushi-grade salmon that's grown from salmon cells in a r...",
-      "url": "https://triplepundit.com/2025/wildtype-lab-grown-salmon-cultivated-seafood/",
-      "publishedAt": "2025-11-21T16:29:11",
-      "content": "Seafood company Wildtype just launched a sushi-grade salmon that's grown from salmon cells in a r..."
+      "title": "AI Is Tackling One of Healthcare’s Biggest Problems: Missed Appointments",
+      "description": "Millions of medical appointments are missed every year in the U.",
+      "url": "https://triplepundit.com/2025/ai-healthcare-missed-appointments-deep-medical/",
+      "publishedAt": "2025-11-24T19:14:00",
+      "content": "Millions of medical appointments are missed every year in the U."
     },
     {
       "source": {
