@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 21,
   "articles": [
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "The cow of the future? France introduces smaller, low-emission livestock",
-      "description": "How can we reduce greenhouse gas emissions? In the wake of the COP30 climate conference in Brazil...",
-      "url": "https://www.france24.com/en/tv-shows/down-to-earth/20251128-the-cow-of-the-future-france-introduces-smaller-low-emission-livestock",
-      "publishedAt": "2025-11-28T16:45:39",
-      "content": "How can we reduce greenhouse gas emissions? In the wake of the COP30 climate conference in Brazil..."
-    },
     {
       "source": {
         "name": "New York Times"
@@ -40,11 +29,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Africa’s forests transformed from carbon sink to carbon source, study finds",
-      "description": "Alarming shift since 2010 means planet’s three main rainforest regions now contribute to climate ...",
-      "url": "https://www.theguardian.com/environment/2025/nov/28/africa-forests-transformed-carbon-sink-carbon-source-study",
-      "publishedAt": "2025-11-28T10:00:03",
-      "content": "Alarming shift since 2010 means planet’s three main rainforest regions now contribute to climate ..."
+      "title": "Water shortages could derail UK’s net zero plans, study finds",
+      "description": "Tensions grow after research in England finds there may not be enough water for planned carbon ca...",
+      "url": "https://www.theguardian.com/environment/2025/nov/30/water-shortages-could-derail-uk-net-zero-plans-study-finds",
+      "publishedAt": "2025-11-30T06:00:02",
+      "content": "Tensions grow after research in England finds there may not be enough water for planned carbon ca..."
     },
     {
       "source": {
@@ -70,21 +59,10 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Material World: Huha Scores $20M for ‘Breath of Fresh Wear’ Panties",
-      "description": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ...",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-huha-scores-20m-for-breath-of-fresh-underwear-1234791870/",
-      "publishedAt": "2025-11-27T18:12:46",
-      "content": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ..."
-    },
-    {
-      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
-      "title": "Airbus issues major A320 recall, threatening global flight disruption",
+      "title": "Airbus issues major A320 software fix, threatening global flight disruption",
       "description": "Airbus orders immediate repairs to 6,000 A320 jets; incident linked to solar flares affecting fli...",
       "url": "https://www.thehindu.com/news/international/airbus-issues-major-a320-recall-threatening-global-flight-disruption/article70337742.ece",
       "publishedAt": "2025-11-29T05:49:05",
@@ -114,36 +92,14 @@
     },
     {
       "source": {
-        "name": "Euronews"
+        "name": "Sourcing Journal"
       },
-      "author": "Euronews",
-      "title": "EU seeks to exploit nature-based products for competitiveness push, green groups say",
-      "description": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow...",
-      "url": "http://www.euronews.com/my-europe/2025/11/28/eu-seeks-to-exploit-nature-based-products-for-competitiveness-push-green-groups-say",
-      "publishedAt": "2025-11-28T15:02:31",
-      "content": "Nature-based products such as biofuels and bioplastics will be looked to as drivers of green grow..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Why India struggles to clear its air",
-      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
-      "publishedAt": "2025-11-27T17:08:53",
-      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
-      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
-      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
-      "publishedAt": "2025-11-27T14:00:38",
-      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
+      "author": "Sourcing Journal",
+      "title": "Material World: Huha Scores $20M for ‘Breath of Fresh Wear’ Panties",
+      "description": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ...",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-huha-scores-20m-for-breath-of-fresh-underwear-1234791870/",
+      "publishedAt": "2025-11-27T18:12:46",
+      "content": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ..."
     },
     {
       "source": {
@@ -202,14 +158,25 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Hindu"
       },
-      "author": "Triple Pundit",
-      "title": "The Century-Old Sailing Ship That Became a Research Vessel",
-      "description": "Outfitted with modern scientific equipment, the historic Statsraad Lehmkuhl proves ocean science ...",
-      "url": "https://triplepundit.com/2025/statsraad-lehmkuhl-ocean-reserach-science-funding/",
-      "publishedAt": "2025-11-25T08:00:00",
-      "content": "Outfitted with modern scientific equipment, the historic Statsraad Lehmkuhl proves ocean science ..."
+      "author": "The Hindu",
+      "title": "Why India struggles to clear its air",
+      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
+      "publishedAt": "2025-11-27T17:08:53",
+      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
+      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
+      "publishedAt": "2025-11-27T14:00:38",
+      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
     },
     {
       "source": {
@@ -224,14 +191,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Triple Pundit"
       },
-      "author": "BBC",
-      "title": "Good news for wild swimmers as bathing water quality improves",
-      "description": "The annual figures from the Environment Agency show 93% of sites met minimum standards, up from 9...",
-      "url": "https://www.bbc.com/news/articles/c78vd147el5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-25T13:24:50",
-      "content": "The annual figures from the Environment Agency show 93% of sites met minimum standards, up from 9..."
+      "author": "Triple Pundit",
+      "title": "The Century-Old Sailing Ship That Became a Research Vessel",
+      "description": "Outfitted with modern scientific equipment, the historic Statsraad Lehmkuhl proves ocean science ...",
+      "url": "https://triplepundit.com/2025/statsraad-lehmkuhl-ocean-reserach-science-funding/",
+      "publishedAt": "2025-11-25T08:00:00",
+      "content": "Outfitted with modern scientific equipment, the historic Statsraad Lehmkuhl proves ocean science ..."
     },
     {
       "source": {
@@ -249,55 +216,22 @@
         "name": "BBC"
       },
       "author": "BBC",
+      "title": "Good news for wild swimmers as bathing water quality improves",
+      "description": "The annual figures from the Environment Agency show 93% of sites met minimum standards, up from 9...",
+      "url": "https://www.bbc.com/news/articles/c78vd147el5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-11-25T13:24:50",
+      "content": "The annual figures from the Environment Agency show 93% of sites met minimum standards, up from 9..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
       "title": "The Climate Question",
       "description": "We're still behind on our global warming targets after the big summit in Brazil.",
       "url": "https://www.bbc.co.uk/sounds/play/w3ct702v?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2025-11-24T08:56:00",
       "content": "We're still behind on our global warming targets after the big summit in Brazil."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "COP30: Five key takeaways from a deeply divisive climate summit",
-      "description": "What did we learn from a climate summit that ended in a deal with no new mention of fossil fuels?...",
-      "url": "https://www.bbc.com/news/articles/cp84m16mdm1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-23T00:10:18",
-      "content": "What did we learn from a climate summit that ended in a deal with no new mention of fossil fuels?..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UN climate talks fail to secure new fossil fuel promises",
-      "description": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on clima...",
-      "url": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-22T22:38:19",
-      "content": "Nearly 200 countries attended COP30, which aimed to commit the world to take more action on clima..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'How ambitious was it?': BBC on the ground as COP30 ends",
-      "description": "The COP30 climate summit fails to secure new pledges to cut fossil fuels after running over time ...",
-      "url": "https://www.bbc.com/news/videos/c4gple9llrwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-22T22:25:13",
-      "content": "The COP30 climate summit fails to secure new pledges to cut fossil fuels after running over time ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What was agreed on climate change at COP30 in Brazil?",
-      "description": "Countries have reached a new deal to tackle climate change - but not everyone is happy.",
-      "url": "https://www.bbc.com/news/articles/c04gqez4lkyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-11-22T21:34:13",
-      "content": "Countries have reached a new deal to tackle climate change - but not everyone is happy."
     }
   ]
 }
