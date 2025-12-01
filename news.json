@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 21,
+  "totalResults": 26,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "England’s water industry issued £10.5bn in ‘green bonds’ despite pollution record",
+      "description": "River Action says use of issuance tied to environmental benefits is ‘corporate greenwash on stero...",
+      "url": "https://www.theguardian.com/business/2025/nov/30/england-water-companies-issued-105bn-in-green-bonds-despite-pollution-record",
+      "publishedAt": "2025-11-30T17:00:10",
+      "content": "River Action says use of issuance tied to environmental benefits is ‘corporate greenwash on stero..."
+    },
     {
       "source": {
         "name": "New York Times"
@@ -26,14 +37,36 @@
     },
     {
       "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "How can we decarbonise shipping without damaging the global economy?",
+      "description": "The decision on a levy on carbon emissions from shipping, proposed by the UN’s International Mari...",
+      "url": "http://www.euronews.com/business/2025/12/01/how-can-we-decarbonise-shipping-without-damaging-the-global-economy",
+      "publishedAt": "2025-12-01T05:47:01",
+      "content": "The decision on a levy on carbon emissions from shipping, proposed by the UN’s International Mari..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Water shortages could derail UK’s net zero plans, study finds",
-      "description": "Tensions grow after research in England finds there may not be enough water for planned carbon ca...",
-      "url": "https://www.theguardian.com/environment/2025/nov/30/water-shortages-could-derail-uk-net-zero-plans-study-finds",
-      "publishedAt": "2025-11-30T06:00:02",
-      "content": "Tensions grow after research in England finds there may not be enough water for planned carbon ca..."
+      "title": "Wood-burning stoves to face partial ban in Labour’s updated environment plan",
+      "description": "Exclusive: Pollution targets set out alongside nature recovery projects to allay concerns over ho...",
+      "url": "https://www.theguardian.com/environment/2025/dec/01/wood-burning-stoves-to-face-partial-ban-in-labours-updated-environment-plan",
+      "publishedAt": "2025-12-01T05:00:27",
+      "content": "Exclusive: Pollution targets set out alongside nature recovery projects to allay concerns over ho..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "India played leadership role at U.N. COP30 climate summit, achieved all major goals: Bhupender Yadav",
+      "description": "Union Environment Minister Bhupender Yadav said India successfully positioned itself as a leader ...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-played-leadership-role-at-un-cop30-climate-summit-achieved-all-major-goals-bhupender-yadav/article70341281.ece",
+      "publishedAt": "2025-11-30T07:42:06",
+      "content": "Union Environment Minister Bhupender Yadav said India successfully positioned itself as a leader ..."
     },
     {
       "source": {
@@ -48,6 +81,50 @@
     },
     {
       "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "‘Our minds gaslight us into thinking climate change isn’t a big deal’",
+      "description": "Even though science tells us we are on track for catastrophic 2.",
+      "url": "https://www.thehindu.com/sci-tech/science/our-minds-gaslight-us-into-thinking-climate-change-isnt-a-big-deal/article70329587.ece",
+      "publishedAt": "2025-12-01T02:30:00",
+      "content": "Even though science tells us we are on track for catastrophic 2."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Zillow Removes Climate Risk Scores From Home Listings",
+      "description": "The scores aimed to predict a property’s risk from fires, floods and storms, but some in the real...",
+      "url": "https://www.nytimes.com/2025/11/30/climate/zillow-climate-risk-scores-homes.html",
+      "publishedAt": "2025-12-01T02:29:02",
+      "content": "The scores aimed to predict a property’s risk from fires, floods and storms, but some in the real..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "New finds highlight Great Nicobar project site’s biodiversity",
+      "description": "Regular discoveries of new species, including the latest finds, highlights the rich biodiversity ...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/great-nicobar-project-site-hotbed-of-new-species-discovery/article70342225.ece",
+      "publishedAt": "2025-11-30T15:56:39",
+      "content": "Regular discoveries of new species, including the latest finds, highlights the rich biodiversity ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Many Fighting Climate Change Worry They Are Losing the Information War",
+      "description": "Shifting politics, intensive lobbying and surging disinformation online have undermined internati...",
+      "url": "https://www.nytimes.com/2025/11/30/climate/climate-change-disinformation.html",
+      "publishedAt": "2025-11-30T08:00:14",
+      "content": "Shifting politics, intensive lobbying and surging disinformation online have undermined internati..."
+    },
+    {
+      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -59,14 +136,14 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "Sourcing Journal"
       },
-      "author": "The Hindu",
-      "title": "Airbus issues major A320 software fix, threatening global flight disruption",
-      "description": "Airbus orders immediate repairs to 6,000 A320 jets; incident linked to solar flares affecting fli...",
-      "url": "https://www.thehindu.com/news/international/airbus-issues-major-a320-recall-threatening-global-flight-disruption/article70337742.ece",
-      "publishedAt": "2025-11-29T05:49:05",
-      "content": "Airbus orders immediate repairs to 6,000 A320 jets; incident linked to solar flares affecting fli..."
+      "author": "Sourcing Journal",
+      "title": "Material World: Huha Scores $20M for ‘Breath of Fresh Wear’ Panties",
+      "description": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ...",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-huha-scores-20m-for-breath-of-fresh-underwear-1234791870/",
+      "publishedAt": "2025-11-27T18:12:46",
+      "content": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ..."
     },
     {
       "source": {
@@ -92,14 +169,25 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Hindu"
       },
-      "author": "Sourcing Journal",
-      "title": "Material World: Huha Scores $20M for ‘Breath of Fresh Wear’ Panties",
-      "description": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ...",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-huha-scores-20m-for-breath-of-fresh-underwear-1234791870/",
-      "publishedAt": "2025-11-27T18:12:46",
-      "content": "Huha secured a $20 million investment led by District Ventures—the largest in the fund's history ..."
+      "author": "The Hindu",
+      "title": "Why India struggles to clear its air",
+      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
+      "publishedAt": "2025-11-27T17:08:53",
+      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
+      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
+      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
+      "publishedAt": "2025-11-27T14:00:38",
+      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
     },
     {
       "source": {
@@ -155,39 +243,6 @@
       "url": "https://triplepundit.com/2025/bio-based-chemicals-fossil-fuel-alternative/",
       "publishedAt": "2025-11-26T11:00:00",
       "content": "Fossil fuels are probably in some of the products you use every day."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Why India struggles to clear its air",
-      "description": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-india-struggles-to-clear-its-air/article70321348.ece",
-      "publishedAt": "2025-11-27T17:08:53",
-      "content": "India confronts a recurring pollution crisis shaped by quick fixes such as cloud seeding, smog to..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Food is medicine, and that’s a fact. Why we all need Native American foodways",
-      "description": "Ecologically sound farming and land stewardship can change individual, collective and planetary h...",
-      "url": "https://www.theguardian.com/environment/commentisfree/2025/nov/27/food-medicine-native-american-foodways",
-      "publishedAt": "2025-11-27T14:00:38",
-      "content": "Ecologically sound farming and land stewardship can change individual, collective and planetary h..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Brij Sone Bagh: A sustainable luxury forest retreat in Bandhavgarh",
-      "description": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol...",
-      "url": "https://www.thehindu.com/life-and-style/travel/brij-sone-bagh-a-sustainable-luxury-forest-retreat-in-bandhavgarh/article70269996.ece",
-      "publishedAt": "2025-11-27T05:40:59",
-      "content": "Brij Sone Bagh, a sustainable forest retreat in Bandhavgarh blends luxury, local culture and ecol..."
     },
     {
       "source": {
