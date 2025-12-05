@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 23,
+  "totalResults": 24,
   "articles": [
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Environmental concerns in Nicobar | Green Humour by Rohan Chakravarty",
+      "description": "...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/green-humour-cartoon-rohan-chakravarty-nicobar-environmental-issues-development-cost/article70348591.ece",
+      "publishedAt": "2025-12-05T00:55:00",
+      "content": "..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Organic Cotton Accelerator Launches Training Program in Turkey",
+      "description": "Just a year after formally setting up shop in Turkey, the group is rolling out its Organic Cotton...",
+      "url": "https://sourcingjournal.com/topics/raw-materials/organic-cotton-accelerator-launches-training-program-turkey-1234792338/",
+      "publishedAt": "2025-12-04T13:00:00",
+      "content": "Just a year after formally setting up shop in Turkey, the group is rolling out its Organic Cotton..."
+    },
     {
       "source": {
         "name": "New York Times"
@@ -15,28 +37,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Sustainable? Not Quite, Says ASA To Nike, Lacoste and Superdry",
-      "description": "The ASA’s rulings served a \"clear message\" that brands must back up broad green claims with solid...",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/greenwashing-claims-asa-nike-lacoste-superdry-1234792293/",
-      "publishedAt": "2025-12-03T20:52:52",
-      "content": "The ASA’s rulings served a \"clear message\" that brands must back up broad green claims with solid..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Artistic Milliners Generates Carbon Insetting Units",
-      "description": "The Pakistani denim manufacturer achieves this milestone through Milliner Cotton.",
-      "url": "https://sourcingjournal.com/denim/denim-mills/artistic-milliners-generates-carbon-insetting-units-cotton-1234792169/",
-      "publishedAt": "2025-12-03T18:00:00",
-      "content": "The Pakistani denim manufacturer achieves this milestone through Milliner Cotton."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -45,6 +45,28 @@
       "url": "https://www.nytimes.com/2025/12/03/climate/climate-change-coffee.html",
       "publishedAt": "2025-12-03T10:00:05",
       "content": "Here’s what to know about your daily brew and the environment."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "AI: Redefining the Fashion Industry",
+      "description": "In this Q&#38;A, Colin Marks, CEO of DeSL, discusses how DeSL's PLM solutions are helping brands ...",
+      "url": "https://sourcingjournal.com/topics/business-news/how-desl-uses-ai-to-strengthen-fashions-digital-supply-chain-1234786817/",
+      "publishedAt": "2025-12-04T15:15:00",
+      "content": "In this Q&#38;A, Colin Marks, CEO of DeSL, discusses how DeSL's PLM solutions are helping brands ..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Can Renting Baby Gear Fix a $4.5 Billion Waste Problem?",
+      "description": "Children grow quickly, often leaving parents with a pile of barely-used items they no longer need.",
+      "url": "https://triplepundit.com/2025/baby-gear-group-rental-service/",
+      "publishedAt": "2025-12-04T14:00:00",
+      "content": "Children grow quickly, often leaving parents with a pile of barely-used items they no longer need."
     },
     {
       "source": {
@@ -70,80 +92,135 @@
     },
     {
       "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "CMA CGM to Restore Multiple Europe-to-Asia Transits Via Suez Canal",
+      "description": "The ocean carrier is reviving three eastbound backhaul service lines for its Ocean Alliance vesse...",
+      "url": "https://sourcingjournal.com/topics/logistics/cma-cgm-red-sea-suez-canal-transits-europe-asia-eastbound-backhaul-maersk-hapag-lloyd-ocean-carriers-1234792435/",
+      "publishedAt": "2025-12-04T23:50:22",
+      "content": "The ocean carrier is reviving three eastbound backhaul service lines for its Ocean Alliance vesse..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Carbios Confirms China PET Plant With Wankai",
+      "description": "Shares in the French biotech firm rose 25.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/carbios-confirms-china-pet-plant-with-wankai-recycling-1234792280/",
+      "publishedAt": "2025-12-04T20:25:31",
+      "content": "Shares in the French biotech firm rose 25."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Amazon-USPS Breakup Rumors Intensify Ahead of 2026 Contract Expiration",
+      "description": "A proposed 2026 auction for postal facility slots would force Amazon to bid against national reta...",
+      "url": "https://sourcingjournal.com/topics/logistics/amazon-usps-breakup-rumors-2026-contract-negotiations-expiration-auction-service-last-mile-delivery-partnership-1234792387/",
+      "publishedAt": "2025-12-04T19:36:17",
+      "content": "A proposed 2026 auction for postal facility slots would force Amazon to bid against national reta..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "French Retailer Kiabi Joins Denim Deal",
+      "description": "Denim Deal is making inroads in France.",
+      "url": "https://sourcingjournal.com/denim/denim-sustainability/french-retailer-kiabi-joins-denim-deal-circular-fashion-1234792288/",
+      "publishedAt": "2025-12-04T18:45:00",
+      "content": "Denim Deal is making inroads in France."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "CleanKore, HMS Initiate Pilot to Promote Low-Impact Dyeing and Finishing",
+      "description": "A new pilot aims to demonstrate the power of collaboration.",
+      "url": "https://sourcingjournal.com/denim/denim-sustainability/cleankore-hms-pilot-sustainable-denim-dyeing-finishing-1234792076/",
+      "publishedAt": "2025-12-04T15:29:18",
+      "content": "A new pilot aims to demonstrate the power of collaboration."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Pantone Names Cloud Dancer, A Soft White, Its 2026 Color of the Year",
+      "description": "Pantone executives said the company is looking to the elevated basic color for a return to simpli...",
+      "url": "https://sourcingjournal.com/topics/fashion-trends/pantone-color-of-the-year-cloud-dancer-soft-white-elevated-basics-1234791429/",
+      "publishedAt": "2025-12-04T13:30:00",
+      "content": "Pantone executives said the company is looking to the elevated basic color for a return to simpli..."
+    },
+    {
+      "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "Could this new jamming-proof base in Greenland help Europe defend against Russia?",
+      "description": "The European Space Agency’s new Greenland base will provide an additional and more secure route f...",
+      "url": "http://www.euronews.com/next/2025/12/05/could-this-new-jamming-proof-base-in-greenland-help-europe-defend-against-russia",
+      "publishedAt": "2025-12-05T06:01:29",
+      "content": "The European Space Agency’s new Greenland base will provide an additional and more secure route f..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "60,000 African penguins starve to death after sardine numbers collapse – study",
+      "description": "Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in...",
+      "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
+      "publishedAt": "2025-12-05T06:00:39",
+      "content": "Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in..."
+    },
+    {
+      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
-      "title": "India played leadership role at U.N. COP30 climate summit, achieved all major goals: Bhupender Yadav",
-      "description": "Union Environment Minister Bhupender Yadav said India successfully positioned itself as a leader ...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-played-leadership-role-at-un-cop30-climate-summit-achieved-all-major-goals-bhupender-yadav/article70341281.ece",
-      "publishedAt": "2025-11-30T07:42:06",
-      "content": "Union Environment Minister Bhupender Yadav said India successfully positioned itself as a leader ..."
+      "title": "World Soil Day: Grassland soils, not trees, anchor India’s climate resilience",
+      "description": "Grasslands play a crucial role in creating healthy soils, primarily through their deep and fibrou...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/world-soil-day-grassland-soils-not-trees-anchor-indias-climate-resilience/article70356791.ece",
+      "publishedAt": "2025-12-05T00:30:00",
+      "content": "Grasslands play a crucial role in creating healthy soils, primarily through their deep and fibrou..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Hindu"
       },
-      "author": "Sourcing Journal",
-      "title": "Denim Mills Discuss Their Experiences with TENCEL™ Lyocell – HV100",
-      "description": "Denim mills share what made them adopt the fiber and what their experience working with the new T...",
-      "url": "https://sourcingjournal.com/denim/denim-mills/denim-mills-discuss-experiences-with-tencel-lyocell-hv100-1234792296/",
-      "publishedAt": "2025-12-03T18:45:00",
-      "content": "Denim mills share what made them adopt the fiber and what their experience working with the new T..."
+      "author": "The Hindu",
+      "title": "Farmers, seed savers and organic brands gather at Visakha Organic Mela in Visakhapatnam",
+      "description": "The four-day Visakha Organic Mela kickstarted at AU Engineering Grounds on December 4 featuring o...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/farmers-seed-savers-and-organic-brands-gather-at-visakha-organic-mela-in-visakhapatnam/article70356938.ece",
+      "publishedAt": "2025-12-04T12:16:20",
+      "content": "The four-day Visakha Organic Mela kickstarted at AU Engineering Grounds on December 4 featuring o..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "New York Times"
       },
-      "author": "Sourcing Journal",
-      "title": "Union Pacific Postpones Merger Filing, CPKC Warns of Two-Railroad Future",
-      "description": "The filing setback comes as UP racks up tens of millions in merger costs and faces opposition fro...",
-      "url": "https://sourcingjournal.com/topics/logistics/union-pacific-postpones-norfolk-southern-merger-costs-filing-application-delay-stb-cpkc-class-i-railroads-takeover-1234792300/",
-      "publishedAt": "2025-12-03T18:28:57",
-      "content": "The filing setback comes as UP racks up tens of millions in merger costs and faces opposition fro..."
+      "author": "New York Times",
+      "title": "Climate Shift Upends Atlantic Seaweed: One Massive Patch Grows as Another Vanishes",
+      "description": "Blooms of yellowish-brown seaweed along the Equator are breaking records and defiling beaches, wh...",
+      "url": "https://www.nytimes.com/2025/12/04/climate/atlantic-seaweed-sargassum-climate.html",
+      "publishedAt": "2025-12-04T10:05:12",
+      "content": "Blooms of yellowish-brown seaweed along the Equator are breaking records and defiling beaches, wh..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "BBC"
       },
-      "author": "Sourcing Journal",
-      "title": "FedEx Eliminates 856 Jobs as Logistics Layoffs Spread Across Sector",
-      "description": "As the courier already was in the midst of trimming its distribution footprint, it will close ano...",
-      "url": "https://sourcingjournal.com/topics/logistics/logistics-layoffs-856-job-cuts-fedex-ceva-coppell-texas-facility-warehouse-fulfillment-jobs-macys-wayfair-fanatics-1234792232/",
-      "publishedAt": "2025-12-03T16:00:00",
-      "content": "As the courier already was in the midst of trimming its distribution footprint, it will close ano..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Oritain Expands Origin Verification to Leather",
-      "description": "Oritain expands leather origin verification, offering brands and tanneries reliable tools to ensu...",
-      "url": "https://sourcingjournal.com/topics/raw-materials/oritain-leather-origin-verification-traceability-1234791914/",
-      "publishedAt": "2025-12-03T15:30:02",
-      "content": "Oritain expands leather origin verification, offering brands and tanneries reliable tools to ensu..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Pending CA Class Action Aims to Take on Target’s Shipt Over Delivery Driver Rights",
-      "description": "Gig workers who deliver packages for companies like Target Shipt, Roadie and DoorDash may be bein...",
-      "url": "https://sourcingjournal.com/topics/business-news/california-class-action-target-shipt-delivery-driver-benefits-1234792252/",
-      "publishedAt": "2025-12-03T15:14:22",
-      "content": "Gig workers who deliver packages for companies like Target Shipt, Roadie and DoorDash may be bein..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Amid French Brouhaha, Shein Draws More US Attention",
-      "description": "Texas Attorney General Ken Paxton said he is investigating the Chinese-founded e-commerce giant, ...",
-      "url": "https://sourcingjournal.com/topics/compliance/shein-france-us-tom-cotton-ken-paxton-attorney-general-1234792209/",
-      "publishedAt": "2025-12-02T22:45:02",
-      "content": "Texas Attorney General Ken Paxton said he is investigating the Chinese-founded e-commerce giant, ..."
+      "author": "BBC",
+      "title": "Waste from UK's largest opencast mine 'poses significant risk'",
+      "description": "There are safety worries as three large spoil tips are set to be left above Merthyr Tydfil.",
+      "url": "https://www.bbc.com/news/articles/c62vzw30y0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-04T06:00:01",
+      "content": "There are safety worries as three large spoil tips are set to be left above Merthyr Tydfil."
     },
     {
       "source": {
@@ -155,50 +232,6 @@
       "url": "https://triplepundit.com/2025/giving-tuesday-2025-nonprofit-donation-guide/",
       "publishedAt": "2025-12-02T21:33:53",
       "content": "It’s Giving Tuesday."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "US will expand social media, work history vetting for H-1B visas",
-      "description": "Past work in content moderation or in tackling misinformation and disinformation could be grounds...",
-      "url": "https://www.aljazeera.com/news/2025/12/4/us-will-expand-social-media-work-history-vetting-for-h-1b-visas?traffic_source=rss",
-      "publishedAt": "2025-12-04T05:22:25",
-      "content": "Past work in content moderation or in tackling misinformation and disinformation could be grounds..."
-    },
-    {
-      "source": {
-        "name": "France 24"
-      },
-      "author": "France 24",
-      "title": "Meta begins removing under-16s in Australia ahead of youth social media ban",
-      "description": "Meta has started removing Australian users under 16 from Instagram, Threads and Facebook as the c...",
-      "url": "https://www.france24.com/en/asia-pacific/20251204-meta-begins-removing-under-16-australia-social-media-ban",
-      "publishedAt": "2025-12-04T02:40:44",
-      "content": "Meta has started removing Australian users under 16 from Instagram, Threads and Facebook as the c..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "UK farmers lose £800m after heat and drought cause one of worst harvests on record",
-      "description": "Many now concerned about ability to make living in fast-changing climate after one of worst grain...",
-      "url": "https://www.theguardian.com/environment/2025/dec/04/record-heat-drought-2025-cost-uk-arable-farmers-estimated-800m-climate-crisis-grain-harvest",
-      "publishedAt": "2025-12-04T00:01:58",
-      "content": "Many now concerned about ability to make living in fast-changing climate after one of worst grain..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "More than 520 chemicals found in English soil, including long-banned medical substances",
-      "description": "Fertilising arable land with human waste leaves array of toxins that could re-enter food chain, s...",
-      "url": "https://www.theguardian.com/environment/2025/dec/03/chemicals-found-english-soil-toxins-medical-substances-farming",
-      "publishedAt": "2025-12-03T09:00:29",
-      "content": "Fertilising arable land with human waste leaves array of toxins that could re-enter food chain, s..."
     },
     {
       "source": {
@@ -224,17 +257,6 @@
     },
     {
       "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "‘Our minds gaslight us into thinking climate change isn’t a big deal’",
-      "description": "Even though science tells us we are on track for catastrophic 2.",
-      "url": "https://www.thehindu.com/sci-tech/science/our-minds-gaslight-us-into-thinking-climate-change-isnt-a-big-deal/article70329587.ece",
-      "publishedAt": "2025-12-01T02:30:00",
-      "content": "Even though science tells us we are on track for catastrophic 2."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -243,17 +265,6 @@
       "url": "https://www.nytimes.com/2025/11/30/climate/zillow-climate-risk-scores-homes.html",
       "publishedAt": "2025-12-01T02:29:02",
       "content": "The scores aimed to predict a property’s risk from fires, floods and storms, but some in the real..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "New finds highlight Great Nicobar project site’s biodiversity",
-      "description": "Regular discoveries of new species, including the latest finds, highlights the rich biodiversity ...",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/great-nicobar-project-site-hotbed-of-new-species-discovery/article70342225.ece",
-      "publishedAt": "2025-11-30T15:56:39",
-      "content": "Regular discoveries of new species, including the latest finds, highlights the rich biodiversity ..."
     }
   ]
 }
