@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 24,
+  "totalResults": 30,
   "articles": [
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "2030 is Nearly Here. Can Fashion Still Make Good on Its Climate Promises?",
+      "description": "For all its talk about \"collective action\" and \"industry alignment,\" the fashion industry's carbo...",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/fashion-industry-garment-workers-climate-change-2030-1234792499/",
+      "publishedAt": "2025-12-05T23:57:46",
+      "content": "For all its talk about \"collective action\" and \"industry alignment,\" the fashion industry's carbo..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Circularity’s Silver Bullet Is Made of Cotton, SMART Says",
+      "description": "Industry experts urge renewed use of cotton in fashion for its durability, recyclability and role...",
+      "url": "https://sourcingjournal.com/topics/raw-materials/circularity-trojan-horse-is-made-from-cotton-smart-1234792386/",
+      "publishedAt": "2025-12-05T17:00:00",
+      "content": "Industry experts urge renewed use of cotton in fashion for its durability, recyclability and role..."
+    },
     {
       "source": {
         "name": "The Hindu"
@@ -12,17 +34,6 @@
       "url": "https://www.thehindu.com/sci-tech/energy-and-environment/green-humour-cartoon-rohan-chakravarty-nicobar-environmental-issues-development-cost/article70348591.ece",
       "publishedAt": "2025-12-05T00:55:00",
       "content": "..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Organic Cotton Accelerator Launches Training Program in Turkey",
-      "description": "Just a year after formally setting up shop in Turkey, the group is rolling out its Organic Cotton...",
-      "url": "https://sourcingjournal.com/topics/raw-materials/organic-cotton-accelerator-launches-training-program-turkey-1234792338/",
-      "publishedAt": "2025-12-04T13:00:00",
-      "content": "Just a year after formally setting up shop in Turkey, the group is rolling out its Organic Cotton..."
     },
     {
       "source": {
@@ -37,25 +48,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Euronews"
       },
-      "author": "New York Times",
-      "title": "Environmentally Friendly Coffee",
-      "description": "Here’s what to know about your daily brew and the environment.",
-      "url": "https://www.nytimes.com/2025/12/03/climate/climate-change-coffee.html",
-      "publishedAt": "2025-12-03T10:00:05",
-      "content": "Here’s what to know about your daily brew and the environment."
+      "author": "Euronews",
+      "title": "Uzbekistan launches €9.46 billion green energy push, covering nation’s power needs",
+      "description": "At the \"Powering the Future\" forum in Tashkent, Uzbekistan unveiled 42 renewable, storage, and gr...",
+      "url": "http://www.euronews.com/business/2025/12/05/uzbekistan-launches-946-billion-green-energy-push-covering-nations-power-needs",
+      "publishedAt": "2025-12-05T18:04:24",
+      "content": "At the \"Powering the Future\" forum in Tashkent, Uzbekistan unveiled 42 renewable, storage, and gr..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "BBC"
       },
-      "author": "Sourcing Journal",
-      "title": "AI: Redefining the Fashion Industry",
-      "description": "In this Q&#38;A, Colin Marks, CEO of DeSL, discusses how DeSL's PLM solutions are helping brands ...",
-      "url": "https://sourcingjournal.com/topics/business-news/how-desl-uses-ai-to-strengthen-fashions-digital-supply-chain-1234786817/",
-      "publishedAt": "2025-12-04T15:15:00",
-      "content": "In this Q&#38;A, Colin Marks, CEO of DeSL, discusses how DeSL's PLM solutions are helping brands ..."
+      "author": "BBC",
+      "title": "Deep-sea mining tests impact over a third of seabed animals - scientists",
+      "description": "The findings contribute to a controversial debate that pits green technology against the environm...",
+      "url": "https://www.bbc.com/news/articles/cedx2p8gnx9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-05T08:00:11",
+      "content": "The findings contribute to a controversial debate that pits green technology against the environm..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "From Paris to Belém: What a Decade of Climate Negotiations Teaches Us About Adaptation",
+      "description": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the...",
+      "url": "https://triplepundit.com/2025/from-paris-to-belem-what-a-decade-of-climate-negotiations-teaches-us-about-adaptation/",
+      "publishedAt": "2025-12-05T18:11:45",
+      "content": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the..."
     },
     {
       "source": {
@@ -67,6 +89,17 @@
       "url": "https://triplepundit.com/2025/baby-gear-group-rental-service/",
       "publishedAt": "2025-12-04T14:00:00",
       "content": "Children grow quickly, often leaving parents with a pile of barely-used items they no longer need."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Environmentally Friendly Coffee",
+      "description": "Here’s what to know about your daily brew and the environment.",
+      "url": "https://www.nytimes.com/2025/12/03/climate/climate-change-coffee.html",
+      "publishedAt": "2025-12-03T10:00:05",
+      "content": "Here’s what to know about your daily brew and the environment."
     },
     {
       "source": {
@@ -95,88 +128,143 @@
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "CMA CGM to Restore Multiple Europe-to-Asia Transits Via Suez Canal",
-      "description": "The ocean carrier is reviving three eastbound backhaul service lines for its Ocean Alliance vesse...",
-      "url": "https://sourcingjournal.com/topics/logistics/cma-cgm-red-sea-suez-canal-transits-europe-asia-eastbound-backhaul-maersk-hapag-lloyd-ocean-carriers-1234792435/",
-      "publishedAt": "2025-12-04T23:50:22",
-      "content": "The ocean carrier is reviving three eastbound backhaul service lines for its Ocean Alliance vesse..."
+      "title": "Shuffle Board: Vitale Leaves Versace, Nike’s Third Shake-Up",
+      "description": "Dario Vitale exits Versace after under a year as creative director, while Nike makes its third C‑...",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-vitale-exits-versace-nike-third-shake-up-1234792464/",
+      "publishedAt": "2025-12-05T20:30:00",
+      "content": "Dario Vitale exits Versace after under a year as creative director, while Nike makes its third C‑..."
     },
     {
       "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "Carbios Confirms China PET Plant With Wankai",
-      "description": "Shares in the French biotech firm rose 25.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/carbios-confirms-china-pet-plant-with-wankai-recycling-1234792280/",
-      "publishedAt": "2025-12-04T20:25:31",
-      "content": "Shares in the French biotech firm rose 25."
+      "title": "Shanghai, Ningbo Set Container Records as China Ports Defy Trade Headwinds",
+      "description": "The two gateways surpassed throughput levels of 90 million TEUs for 2025 with a month to spare de...",
+      "url": "https://sourcingjournal.com/topics/logistics/china-ports-shanghai-ningbo-zhoushan-containers-90-million-teus-2025-trade-automation-exports-freight-rates-1234792474/",
+      "publishedAt": "2025-12-05T19:40:36",
+      "content": "The two gateways surpassed throughput levels of 90 million TEUs for 2025 with a month to spare de..."
     },
     {
       "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "Amazon-USPS Breakup Rumors Intensify Ahead of 2026 Contract Expiration",
-      "description": "A proposed 2026 auction for postal facility slots would force Amazon to bid against national reta...",
-      "url": "https://sourcingjournal.com/topics/logistics/amazon-usps-breakup-rumors-2026-contract-negotiations-expiration-auction-service-last-mile-delivery-partnership-1234792387/",
-      "publishedAt": "2025-12-04T19:36:17",
-      "content": "A proposed 2026 auction for postal facility slots would force Amazon to bid against national reta..."
+      "title": "Frame Launches Collections with Amelia Gray and Ritz Paris",
+      "description": "Relaxed denim anchors the collaboration with Gray.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/frame-launches-collections-amelia-gray-ritz-paris-1234792303/",
+      "publishedAt": "2025-12-05T19:00:00",
+      "content": "Relaxed denim anchors the collaboration with Gray."
     },
     {
       "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "French Retailer Kiabi Joins Denim Deal",
-      "description": "Denim Deal is making inroads in France.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/french-retailer-kiabi-joins-denim-deal-circular-fashion-1234792288/",
-      "publishedAt": "2025-12-04T18:45:00",
-      "content": "Denim Deal is making inroads in France."
+      "title": "Tech Tactics: Aritzia Taps Nedap’s RFID Platform to Strengthen Store Operations",
+      "description": "Aritzia utilizes Nedap's RFID platform to streamline store operations, enhance inventory accuracy...",
+      "url": "https://sourcingjournal.com/topics/technology/aritzia-nedap-rfid-enhances-store-operations-efficiency-1234791778/",
+      "publishedAt": "2025-12-05T17:49:06",
+      "content": "Aritzia utilizes Nedap's RFID platform to streamline store operations, enhance inventory accuracy..."
     },
     {
       "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "CleanKore, HMS Initiate Pilot to Promote Low-Impact Dyeing and Finishing",
-      "description": "A new pilot aims to demonstrate the power of collaboration.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/cleankore-hms-pilot-sustainable-denim-dyeing-finishing-1234792076/",
-      "publishedAt": "2025-12-04T15:29:18",
-      "content": "A new pilot aims to demonstrate the power of collaboration."
+      "title": "Wool’s Worth: Mills Explore the Performance Benefits of Wool Denim",
+      "description": "Wool isn’t just for winter, knits, or outdoor gear anymore.",
+      "url": "https://sourcingjournal.com/denim/denim-mills/denim-mills-explore-the-performance-benefits-of-wool-blends-1234792148/",
+      "publishedAt": "2025-12-05T17:00:00",
+      "content": "Wool isn’t just for winter, knits, or outdoor gear anymore."
     },
     {
       "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "Pantone Names Cloud Dancer, A Soft White, Its 2026 Color of the Year",
-      "description": "Pantone executives said the company is looking to the elevated basic color for a return to simpli...",
-      "url": "https://sourcingjournal.com/topics/fashion-trends/pantone-color-of-the-year-cloud-dancer-soft-white-elevated-basics-1234791429/",
-      "publishedAt": "2025-12-04T13:30:00",
-      "content": "Pantone executives said the company is looking to the elevated basic color for a return to simpli..."
+      "title": "Delivery Service Providers Mobilize to Drive Amazon to Raise Wages",
+      "description": "The e-commerce titan is now being challenged by a coalition of over 2,000 small businesses that f...",
+      "url": "https://sourcingjournal.com/topics/labor/delivery-service-providers-dsp-deft-amazon-wages-unions-labor-1234792433/",
+      "publishedAt": "2025-12-05T16:21:26",
+      "content": "The e-commerce titan is now being challenged by a coalition of over 2,000 small businesses that f..."
     },
     {
       "source": {
-        "name": "Euronews"
+        "name": "Sourcing Journal"
       },
-      "author": "Euronews",
-      "title": "Could this new jamming-proof base in Greenland help Europe defend against Russia?",
-      "description": "The European Space Agency’s new Greenland base will provide an additional and more secure route f...",
-      "url": "http://www.euronews.com/next/2025/12/05/could-this-new-jamming-proof-base-in-greenland-help-europe-defend-against-russia",
-      "publishedAt": "2025-12-05T06:01:29",
-      "content": "The European Space Agency’s new Greenland base will provide an additional and more secure route f..."
+      "author": "Sourcing Journal",
+      "title": "Moose Knuckles ‘Stands Apart’ with Evisu for Debut Streetwear Collab",
+      "description": "Launching Dec.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/moose-knuckles-stands-apart-evisu-debut-streetwear-collab-1234792396/",
+      "publishedAt": "2025-12-05T14:19:14",
+      "content": "Launching Dec."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "An Alaskan Village Confronts Its Changing Climate: Rebuild or Relocate?",
+      "description": "After a devastating storm, the people who fled a remote coastal village face an existential quest...",
+      "url": "https://www.nytimes.com/2025/12/05/climate/an-alaskan-village-confronts-its-changing-climate-rebuild-or-relocate.html",
+      "publishedAt": "2025-12-06T03:17:55",
+      "content": "After a devastating storm, the people who fled a remote coastal village face an existential quest..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Gujarat farmer distress: Where cotton clouds hang heavy",
+      "description": "Following heavy rainfall in October and the subsequent drop in the price of cotton, six farmers h...",
+      "url": "https://www.thehindu.com/news/national/gujarat/groundzero-on-gujarat-farmer-distress-where-cotton-clouds-hang-heavy/article70362924.ece",
+      "publishedAt": "2025-12-05T23:38:00",
+      "content": "Following heavy rainfall in October and the subsequent drop in the price of cotton, six farmers h..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "60,000 African penguins starve to death after sardine numbers collapse – study",
-      "description": "Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in...",
-      "url": "https://www.theguardian.com/environment/2025/dec/05/african-penguins-starve-to-death-south-africa-sardine-population-aoe",
-      "publishedAt": "2025-12-05T06:00:39",
-      "content": "Climate crisis and overfishing contributed to loss of 95% of penguins in two breeding colonies in..."
+      "title": "Science journal retracts study on safety of Monsanto’s Roundup: ‘Serious ethical concerns’",
+      "description": "Paper published in 2000 found glyphosate was not harmful, while internal emails later revealed co...",
+      "url": "https://www.theguardian.com/us-news/2025/dec/05/monsanto-roundup-safety-study-retracted",
+      "publishedAt": "2025-12-05T16:42:17",
+      "content": "Paper published in 2000 found glyphosate was not harmful, while internal emails later revealed co..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Odisha fast becoming India’s green industrial hub, Deputy CM Kanak Singh Deo",
+      "description": "In an interaction with The Hindu, he said that the state was “firmly on course” to achieve their ...",
+      "url": "https://www.thehindu.com/business/Industry/odisha-fast-becoming-indias-green-industrial-hub-deputy-cm-kanak-singh-deo/article70362436.ece",
+      "publishedAt": "2025-12-05T15:20:51",
+      "content": "In an interaction with The Hindu, he said that the state was “firmly on course” to achieve their ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "South Australian bus ads misled public by claiming gas is ‘clean and green’, regulator finds",
+      "description": "Ads to be removed from Adelaide Metro buses after advertising regulator rules they breach its env...",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/06/south-australia-bus-advertising-natural-gas-clean-green",
+      "publishedAt": "2025-12-05T14:00:27",
+      "content": "Ads to be removed from Adelaide Metro buses after advertising regulator rules they breach its env..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Local Sustainability Fest in Kochi to bring together creators, artists and ecopreneurs",
+      "description": "The second edition of the fest will feature over 50 curated stalls from different parts of the co...",
+      "url": "https://www.thehindu.com/life-and-style/local-sustainability-fest-to-be-held-in-kochi-on-december-6-and-7/article70349003.ece",
+      "publishedAt": "2025-12-05T07:11:11",
+      "content": "The second edition of the fest will feature over 50 curated stalls from different parts of the co..."
     },
     {
       "source": {
@@ -213,6 +301,17 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "TriplePundit’s Guide to Giving Tuesday",
+      "description": "It’s Giving Tuesday.",
+      "url": "https://triplepundit.com/2025/giving-tuesday-2025-nonprofit-donation-guide/",
+      "publishedAt": "2025-12-02T21:33:53",
+      "content": "It’s Giving Tuesday."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -227,44 +326,11 @@
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
-      "title": "TriplePundit’s Guide to Giving Tuesday",
-      "description": "It’s Giving Tuesday.",
-      "url": "https://triplepundit.com/2025/giving-tuesday-2025-nonprofit-donation-guide/",
-      "publishedAt": "2025-12-02T21:33:53",
-      "content": "It’s Giving Tuesday."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
       "title": "The Startups Producing Drinkable Water from Air",
       "description": "Atmospheric water generation is inching from sci-fi to reality in communities that lack access to...",
       "url": "https://triplepundit.com/2025/safe-drinking-water-access-atmospheric-water-generator/",
       "publishedAt": "2025-12-01T20:44:09",
       "content": "Atmospheric water generation is inching from sci-fi to reality in communities that lack access to..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Many Fighting Climate Change Worry They Are Losing the Information War",
-      "description": "Shifting politics, intensive lobbying and surging disinformation online have undermined internati...",
-      "url": "https://www.nytimes.com/2025/11/30/climate/climate-change-disinformation.html",
-      "publishedAt": "2025-12-01T13:27:03",
-      "content": "Shifting politics, intensive lobbying and surging disinformation online have undermined internati..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Zillow Removes Climate Risk Scores From Home Listings",
-      "description": "The scores aimed to predict a property’s risk from fires, floods and storms, but some in the real...",
-      "url": "https://www.nytimes.com/2025/11/30/climate/zillow-climate-risk-scores-homes.html",
-      "publishedAt": "2025-12-01T02:29:02",
-      "content": "The scores aimed to predict a property’s risk from fires, floods and storms, but some in the real..."
     }
   ]
 }
