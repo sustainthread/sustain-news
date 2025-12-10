@@ -1,29 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 25,
+  "totalResults": 30,
   "articles": [
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "New Carbonfact Tool Connects Brands with Next-Gen Material Suppliers",
-      "description": "Carbonfact for Suppliers is “the environmental data exchange for fashion,” the carbon management ...",
-      "url": "https://sourcingjournal.com/topics/sourcing/carbonfact-for-suppliers-connects-brands-next-gen-material-1234792498/",
-      "publishedAt": "2025-12-08T18:05:39",
-      "content": "Carbonfact for Suppliers is “the environmental data exchange for fashion,” the carbon management ..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Archroma Supports Textile Hub; Enters Partnership with Fiber52",
-      "description": "Archroma’s new initiatives support its mission to advance sustainable chemistry.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/archroma-supports-textile-hub-enters-partnership-fiber52-1234792443/",
-      "publishedAt": "2025-12-08T14:17:35",
-      "content": "Archroma’s new initiatives support its mission to advance sustainable chemistry."
-    },
     {
       "source": {
         "name": "The Guardian"
@@ -48,14 +26,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Nature Retracts Study Predicting Catastrophic Climate Toll",
-      "description": "While growing evidence shows that carbon emissions are harming the economy, the journal Nature fo...",
-      "url": "https://www.nytimes.com/2025/12/03/business/economy/study-climate-damage-retracted.html",
-      "publishedAt": "2025-12-03T21:31:56",
-      "content": "While growing evidence shows that carbon emissions are harming the economy, the journal Nature fo..."
+      "author": "The Guardian",
+      "title": "‘Food and fossil fuel production causing $5bn of environmental damage an hour’",
+      "description": "UN GEO report says ending this harm key to global transformation required ‘before collapse become...",
+      "url": "https://www.theguardian.com/environment/2025/dec/09/food-fossil-fuel-production-5bn-environmental-damage-an-hour-un-geo-report-",
+      "publishedAt": "2025-12-09T09:00:04",
+      "content": "UN GEO report says ending this harm key to global transformation required ‘before collapse become..."
     },
     {
       "source": {
@@ -63,32 +41,10 @@
       },
       "author": "Triple Pundit",
       "title": "In Mexico, Scientists, Neighbors and Nuns Come Together to Save the Last Achoque Salamanders",
-      "description": "Mexican conservationists, Dominican nuns, and scientists from the England are coming together to ...",
+      "description": "Mexican conservationists, Dominican nuns, and scientists from the U.",
       "url": "https://triplepundit.com/2025/achoque-salamander-conservation-lake-patzcuaro-chester-zoo/",
       "publishedAt": "2025-12-08T17:41:02",
-      "content": "Mexican conservationists, Dominican nuns, and scientists from the England are coming together to ..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Woven to Wow: Mills Weave Magic with Jacquard Denim",
-      "description": "All of fashion’s cool kids are exploring the possibilities of jacquard denim.",
-      "url": "https://sourcingjournal.com/denim/denim-mills/mills-weave-magic-jacquard-denim-wgsn-premiere-vision-1234792578/",
-      "publishedAt": "2025-12-08T17:30:00",
-      "content": "All of fashion’s cool kids are exploring the possibilities of jacquard denim."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Imogene + Willie Grows US Cotton Collection",
-      "description": "Imogene + Willie launched The Cotton Project in May.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/imogene-willie-us-cotton-collection-1234791189/",
-      "publishedAt": "2025-12-08T16:00:00",
-      "content": "Imogene + Willie launched The Cotton Project in May."
+      "content": "Mexican conservationists, Dominican nuns, and scientists from the U."
     },
     {
       "source": {
@@ -103,25 +59,80 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "Sourcing Journal"
       },
-      "author": "Triple Pundit",
-      "title": "From Paris to Belém: What a Decade of Climate Negotiations Teaches Us About Adaptation",
-      "description": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the...",
-      "url": "https://triplepundit.com/2025/from-paris-to-belem-what-a-decade-of-climate-negotiations-teaches-us-about-adaptation/",
-      "publishedAt": "2025-12-05T18:11:45",
-      "content": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the..."
+      "author": "Sourcing Journal",
+      "title": "ZIM Faces New Proxy Battle Amid Strategic Review and Buyout Chatter",
+      "description": "An investor group holding 5 percent of company shares nominated three new board directors without...",
+      "url": "https://sourcingjournal.com/topics/logistics/zim-proxy-fight-buyout-board-battle-takeover-strategic-review-iss-eli-glickman-hapag-lloyd-shareholder-meeting-1234792905/",
+      "publishedAt": "2025-12-09T22:29:33",
+      "content": "An investor group holding 5 percent of company shares nominated three new board directors without..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Sourcing Journal"
       },
-      "author": "New York Times",
-      "title": "Environmentally Friendly Coffee",
-      "description": "Here’s what to know about your daily brew and the environment.",
-      "url": "https://www.nytimes.com/2025/12/03/climate/climate-change-coffee.html",
-      "publishedAt": "2025-12-03T10:00:05",
-      "content": "Here’s what to know about your daily brew and the environment."
+      "author": "Sourcing Journal",
+      "title": "‘Stores Are Stocked Up,’ But US Import Demand to Keep Sliding in Early 2026",
+      "description": "NRF and Hackett expect double-digit declines in inbound cargo volumes across January to April ami...",
+      "url": "https://sourcingjournal.com/topics/logistics/global-port-tracker-early-2026-imports-inbound-cargo-volumes-demand-china-tariffs-nrf-hackett-ports-containers-1234792832/",
+      "publishedAt": "2025-12-09T19:00:00",
+      "content": "NRF and Hackett expect double-digit declines in inbound cargo volumes across January to April ami..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Pinterest Predicts ’80s Maximalism, Lace, ‘Poetcore’ and More for 2026",
+      "description": "The content sharing platform’s annual “not-yet-trending” report provides a window into the fashio...",
+      "url": "https://sourcingjournal.com/denim/denim-trends/pinterest-predicts-80s-maximalism-lace-poetcore-circus-2026-1234792760/",
+      "publishedAt": "2025-12-09T18:32:29",
+      "content": "The content sharing platform’s annual “not-yet-trending” report provides a window into the fashio..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Fade Away: Will the Denim Industry Ever Ban Potassium Permanganate?",
+      "description": "The chemical oxidize remains one of the denim industry’s dirty little secrets.",
+      "url": "https://sourcingjournal.com/denim/denim-sustainability/will-the-denim-industry-ever-ban-potassium-permanganate-1234792789/",
+      "publishedAt": "2025-12-09T17:00:00",
+      "content": "The chemical oxidize remains one of the denim industry’s dirty little secrets."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Rohit Aggarwal Exits Lenzing; Interim Board to Lead",
+      "description": "Following the chief executive’s departure, Lenzing announced new leadership and established an ex...",
+      "url": "https://sourcingjournal.com/topics/raw-materials/ceo-rohit-aggarwal-exits-lenzing-1234792786/",
+      "publishedAt": "2025-12-09T16:04:59",
+      "content": "Following the chief executive’s departure, Lenzing announced new leadership and established an ex..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Top Denim Producing Nations in Tariff Crosshairs—And Consumers Are Feeling the Burn",
+      "description": "2025 has been defined by tariff turmoil, threatening global industry and export sectors across th...",
+      "url": "https://sourcingjournal.com/denim/denim-business/top-denim-producing-nations-tariff-consumers-crosshairs-1234792592/",
+      "publishedAt": "2025-12-09T15:30:00",
+      "content": "2025 has been defined by tariff turmoil, threatening global industry and export sectors across th..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "As Shein and Temu Entice Vendors, Amazon Cuts European Seller Fees",
+      "description": "It’s a race to the bottom in the battle for marketplace sellers’ loyalty.",
+      "url": "https://sourcingjournal.com/topics/business-news/shein-temu-vendors-amazon-european-seller-fees-ecommerce-1234792745/",
+      "publishedAt": "2025-12-09T15:00:00",
+      "content": "It’s a race to the bottom in the battle for marketplace sellers’ loyalty."
     },
     {
       "source": {
@@ -136,36 +147,14 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Triple Pundit"
       },
-      "author": "Sourcing Journal",
-      "title": "The Future is Created by Us, Not Dictated by AI, Future Snoops Muses",
-      "description": "Muse is \"the future of creativity reimagined,” Future Snoops said of its creator-first AI tool fo...",
-      "url": "https://sourcingjournal.com/topics/technology/ai-future-snoops-muse-trends-2026-joor-1234792666/",
-      "publishedAt": "2025-12-08T21:29:17",
-      "content": "Muse is \"the future of creativity reimagined,” Future Snoops said of its creator-first AI tool fo..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "China Tops $1 Trillion Trade Surplus for First Time as November Exports Rebound",
-      "description": "Shipments jumped 5.",
-      "url": "https://sourcingjournal.com/topics/trade/china-exports-1-trillion-trade-surplus-first-time-november-2025-ports-asean-eu-imports-manufacturing-1234792661/",
-      "publishedAt": "2025-12-08T18:45:35",
-      "content": "Shipments jumped 5."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Will Mexico’s Customs Reforms Give It a Leg Up in Pending USMCA Negotiations?",
-      "description": "Mexico has taken a different tack from Canada when it comes to preserving and protecting its trad...",
-      "url": "https://sourcingjournal.com/topics/trade/mexico-customs-reform-usmca-trade-agreement-negotiations-1234792570/",
-      "publishedAt": "2025-12-08T15:16:11",
-      "content": "Mexico has taken a different tack from Canada when it comes to preserving and protecting its trad..."
+      "author": "Triple Pundit",
+      "title": "From Paris to Belém: What a Decade of Climate Negotiations Teaches Us About Adaptation",
+      "description": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the...",
+      "url": "https://triplepundit.com/2025/from-paris-to-belem-what-a-decade-of-climate-negotiations-teaches-us-about-adaptation/",
+      "publishedAt": "2025-12-05T18:11:45",
+      "content": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the..."
     },
     {
       "source": {
@@ -191,14 +180,124 @@
     },
     {
       "source": {
-        "name": "Euronews"
+        "name": "Deutsche Welle"
       },
-      "author": "Euronews",
-      "title": "Temperature average for 2023-2025 on track to exceed 1.5C for first time, Copernicus data reveals",
-      "description": "The rising temperatures reflect the ‘accelerating pace of climate change’, says Copernicus.",
-      "url": "http://www.euronews.com/green/2025/12/09/temperature-average-for-2023-2025-on-track-to-exceed-15c-for-first-time-copernicus-data-re",
-      "publishedAt": "2025-12-09T03:02:18",
-      "content": "The rising temperatures reflect the ‘accelerating pace of climate change’, says Copernicus."
+      "author": "Deutsche Welle",
+      "title": "Australia's social media ban for users under 16 takes effect",
+      "description": "In the hours before the cutoff, some children posted goodbye messages to their online audiences, ...",
+      "url": "https://www.dw.com/en/australia-s-social-media-ban-for-users-under-16-takes-effect/a-75083540?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-12-10T04:39:00",
+      "content": "In the hours before the cutoff, some children posted goodbye messages to their online audiences, ..."
+    },
+    {
+      "source": {
+        "name": "Al Jazeera"
+      },
+      "author": "Al Jazeera",
+      "title": "‘Like wastelands’: Sri Lanka tea plantations suffer Cyclone Ditwah’s wrath",
+      "description": "The worst cyclone to hit the island in a century uprooted fully-grown crops of tea, a key source ...",
+      "url": "https://www.aljazeera.com/news/2025/12/10/like-wastelands-sri-lanka-tea-plantations-suffer-cyclone-ditwahs-wrath?traffic_source=rss",
+      "publishedAt": "2025-12-10T04:15:21",
+      "content": "The worst cyclone to hit the island in a century uprooted fully-grown crops of tea, a key source ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and p...",
+      "url": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-10T03:37:06",
+      "content": "His groundbreaking field research was instrumental in banning the international ivory trade and p..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "This Arkansas City Shows How to Slash Emissions and Save Money, Too",
+      "description": "In the Ozarks, the growing college town of Fayetteville, Ark.",
+      "url": "https://www.nytimes.com/2025/12/09/climate/fayetteville-arkansas-climate-plan.html",
+      "publishedAt": "2025-12-10T02:35:33",
+      "content": "In the Ozarks, the growing college town of Fayetteville, Ark."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Ranchers in South Dakota Turn to Prescribed Burns to Treat Their Land",
+      "description": "A “green glacier” of trees is steadily taking over native grasslands.",
+      "url": "https://www.nytimes.com/2025/12/09/climate/prescribed-burns-wildfire-south-dakota.html",
+      "publishedAt": "2025-12-10T02:34:54",
+      "content": "A “green glacier” of trees is steadily taking over native grasslands."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "BlackRock unit agrees to invest ₹3,000 crore in Aditya Birla Renewables for minority stake",
+      "description": "The GIP investment translates into an enterprise value of ₹ 14,600 crore for ABREN.",
+      "url": "https://www.thehindu.com/business/Industry/blackrock-unit-agrees-to-invest-3000-crore-in-aditya-birla-renewables-for-minority-stake/article70377702.ece",
+      "publishedAt": "2025-12-09T22:30:00",
+      "content": "The GIP investment translates into an enterprise value of ₹ 14,600 crore for ABREN."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Some Mentions of Human Causes of Climate Change Removed From E.P.A. Site",
+      "description": "An E.",
+      "url": "https://www.nytimes.com/2025/12/09/climate/epa-website-climate-change-causes.html",
+      "publishedAt": "2025-12-09T20:50:54",
+      "content": "An E."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Ofgem approves early investment in three UK electricity ‘superhighways’",
+      "description": "Green light intended to limit amount consumers pay for windfarms to turn off during periods of hi...",
+      "url": "https://www.theguardian.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways",
+      "publishedAt": "2025-12-09T18:03:52",
+      "content": "Green light intended to limit amount consumers pay for windfarms to turn off during periods of hi..."
+    },
+    {
+      "source": {
+        "name": "Deutsche Welle"
+      },
+      "author": "Deutsche Welle",
+      "title": "Australia social media ban: Children feel isolated, ignored",
+      "description": "The world is watching as Australia becomes the first country to ban under-16s from social media.",
+      "url": "https://www.dw.com/en/australia-social-media-ban-children-feel-isolated-ignored/a-75075938?maca=en-rss-en-all-1573-rdf",
+      "publishedAt": "2025-12-09T16:10:00",
+      "content": "The world is watching as Australia becomes the first country to ban under-16s from social media."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Australia’s energy grid must triple capacity by 2050 with major increase to wind and solar, Aemo says",
+      "description": "Market operator says capital cost of infrastructure under optimal path would be $128bn in today’s...",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/10/australia-must-increase-energy-grid-capacity-wind-solar-aemo",
+      "publishedAt": "2025-12-09T13:01:03",
+      "content": "Market operator says capital cost of infrastructure under optimal path would be $128bn in today’s..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "2025 on track to tie second hottest year on record: EU monitor",
+      "description": "Record heat intensifies climate crisis as 2025 temperatures near alarming thresholds, prompting u...",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/2025-on-track-to-tie-second-hottest-year-on-record-eu-monitor/article70375253.ece",
+      "publishedAt": "2025-12-09T07:11:50",
+      "content": "Record heat intensifies climate crisis as 2025 temperatures near alarming thresholds, prompting u..."
     },
     {
       "source": {
@@ -221,50 +320,6 @@
       "url": "https://www.nytimes.com/2025/12/05/climate/an-alaskan-village-confronts-its-changing-climate-rebuild-or-relocate.html",
       "publishedAt": "2025-12-06T03:17:55",
       "content": "After a devastating storm, the people who fled a remote coastal village face an existential quest..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Science journal retracts study on safety of Monsanto’s Roundup: ‘Serious ethical concerns’",
-      "description": "Paper published in 2000 found glyphosate was not harmful, while internal emails later revealed co...",
-      "url": "https://www.theguardian.com/us-news/2025/dec/05/monsanto-roundup-safety-study-retracted",
-      "publishedAt": "2025-12-05T16:42:17",
-      "content": "Paper published in 2000 found glyphosate was not harmful, while internal emails later revealed co..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Local Sustainability Fest in Kochi to bring together creators, artists and ecopreneurs",
-      "description": "The second edition of the fest will feature over 50 curated stalls from different parts of the co...",
-      "url": "https://www.thehindu.com/life-and-style/local-sustainability-fest-to-be-held-in-kochi-on-december-6-and-7/article70349003.ece",
-      "publishedAt": "2025-12-05T07:11:11",
-      "content": "The second edition of the fest will feature over 50 curated stalls from different parts of the co..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "TriplePundit’s Guide to Giving Tuesday",
-      "description": "It’s Giving Tuesday.",
-      "url": "https://triplepundit.com/2025/giving-tuesday-2025-nonprofit-donation-guide/",
-      "publishedAt": "2025-12-02T21:33:53",
-      "content": "It’s Giving Tuesday."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Climate Shift Upends Atlantic Seaweed: One Massive Patch Grows as Another Vanishes",
-      "description": "Blooms of yellowish-brown seaweed along the Equator are breaking records and defiling beaches, wh...",
-      "url": "https://www.nytimes.com/2025/12/04/climate/atlantic-seaweed-sargassum-climate.html",
-      "publishedAt": "2025-12-04T10:05:12",
-      "content": "Blooms of yellowish-brown seaweed along the Equator are breaking records and defiling beaches, wh..."
     },
     {
       "source": {
