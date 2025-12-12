@@ -124,6 +124,15 @@ REJECTION_RULES = [
     
     # Contextual rejection: "policy" in political context
     ("context", ["policy", "regulation"], ["government", "administration", "white house", "senate"]),
+    
+    # New rule: Reject articles focused on armed conflicts or specific humanitarian crises
+    ("any", ["gaza", "ukraine", "war", "humanitarian crisis", "genocide"]),
+    
+    # New rule: Reject articles that are purely animal photo galleries or non-substantive wildlife features
+    ("context", ["wildlife", "photograph"], ["week in", "gallery", "photo", "picture of"]),
+    
+    # New rule: Reject obscure scientific studies unrelated to environment/sustainability
+    ("context", ["study", "scientists"], ["monogam", "human behavior", "league table"]),
 ]
 
 # NEGATIVE KEYWORDS (strong penalty)
@@ -133,6 +142,8 @@ NEGATIVE_KEYWORDS = [
     "political party", "election results", "campaign trail",
     "sports team", "championship game", "player contract",
     "movie review", "box office", "celebrity gossip",
+     # New general negative keywords
+    "obituary", "died", "death of", "in memoriam", "photo gallery", "this week in",
 ]
 
 # Map domains to proper source names
