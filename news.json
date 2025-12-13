@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 42,
   "articles": [
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "EU Agrees to Gut Sustainability Rules, Undermining Climate Ambitions",
+      "description": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/eu-agrees-to-gut-sustainability-rules-undermining-climate-ambition-1234793435/",
+      "publishedAt": "2025-12-12T21:55:47",
+      "content": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -26,17 +37,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Will net zero really cost UK households £500 a year?",
-      "description": "An official report lays out different scenarios for the cost of transitioning away from fossil fuels to net zero by 2050Britain’s official energy system operator has attempted to work out what achi...",
-      "url": "https://www.theguardian.com/environment/2025/dec/11/reaching-net-zero-cost-explainer-uk-price-worth-paying",
-      "publishedAt": "2025-12-11T17:25:13",
-      "content": "An official report lays out different scenarios for the cost of transitioning away from fossil fuels to net zero by 2050Britain’s official energy system operator has attempted to work out what achi..."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -45,6 +45,50 @@
       "url": "https://www.nytimes.com/2025/12/11/nyregion/kathy-hochul-new-york-climate-issues.html",
       "publishedAt": "2025-12-11T14:54:25",
       "content": "Faced with an affordability crisis and rising energy demands, Gov. Kathy Hochul has slowed progress on New York’s efforts to fight climate change."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Loaf and Lager: The Climate Potential of Brewing With Bread",
+      "description": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit",
+      "url": "https://triplepundit.com/2025/toast-brewing-food-waste-surplus-bread-beer/",
+      "publishedAt": "2025-12-12T13:00:00",
+      "content": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The path of least emissions: how to take a sustainable holiday this summer",
+      "description": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S...",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/13/how-to-take-a-sustainable-holiday-vacation-tourism-emissions-travel",
+      "publishedAt": "2025-12-12T23:00:16",
+      "content": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Green California’s Big Oil Problem",
+      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec.",
+      "url": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
+      "publishedAt": "2025-12-12T21:44:58",
+      "content": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The Paris climate treaty changed the world. Here’s how | Rebecca Solnit",
+      "description": "There’s much more to do, but we should be encouraged by the progress we have madeToday marks the 10th anniversary of the Paris climate treaty, one of the landmark days in climate-action history. At...",
+      "url": "https://www.theguardian.com/commentisfree/2025/dec/12/paris-climate-treaty-anniversary",
+      "publishedAt": "2025-12-12T11:00:34",
+      "content": "There’s much more to do, but we should be encouraged by the progress we have madeToday marks the 10th anniversary of the Paris climate treaty, one of the landmark days in climate-action history. At..."
     },
     {
       "source": {
@@ -70,6 +114,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock’s GIP Invests up to $335 Million in India Green Energy Platform Aditya Birla Renewables",
+      "description": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]",
+      "url": "https://www.esgtoday.com/blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables",
+      "publishedAt": "2025-12-10T15:09:39",
+      "content": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]"
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -81,14 +136,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "BlackRock’s GIP Invests up to $335 Million in India Green Energy Platform Aditya Birla Renewables",
-      "description": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]",
-      "url": "https://www.esgtoday.com/blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables",
-      "publishedAt": "2025-12-10T15:09:39",
-      "content": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]"
+      "author": "Good On You",
+      "title": "The Top 10 More Sustainable Beauty Brands We’ve Rated (And 10 ‘We Avoid’)",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/best-and-worst-beauty-brands/",
+      "publishedAt": "2025-12-11T23:04:16",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -103,14 +158,69 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "New York Times"
       },
-      "author": "Inside Climate News",
-      "title": "A New Report Describes Deep Environmental Cuts, State by State",
-      "description": "Fewer inspections, weaker enforcement and less oversight: Deep cuts to state budgets and at the Environmental Protection Agency are preventing regulators from fully protecting the public from pollu...",
-      "url": "https://insideclimatenews.org/news/10122025/epa-environmental-program-cuts/",
-      "publishedAt": "2025-12-10T22:32:03",
-      "content": "Fewer inspections, weaker enforcement and less oversight: Deep cuts to state budgets and at the Environmental Protection Agency are preventing regulators from fully protecting the public from pollu..."
+      "author": "New York Times",
+      "title": "Our Children’s Trust Suit Asks Montana Court to Block Some New Laws",
+      "description": "The young plaintiffs, who won a major case over climate change policy in 2023, argue that legislators are illegally ignoring the effects of fossil fuels.",
+      "url": "https://www.nytimes.com/2025/12/10/climate/montana-youth-lawsuit-climate.html",
+      "publishedAt": "2025-12-12T20:38:38",
+      "content": "The young plaintiffs, who won a major case over climate change policy in 2023, argue that legislators are illegally ignoring the effects of fossil fuels."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Holcim, 44.01 Launch Project to Capture and Mineralize CO2 From Cement Production",
+      "description": "Building materials company Holcim and carbon sequestration technology company 44.01 announced the launch of a [&#8230;]",
+      "url": "https://www.esgtoday.com/holcim-44-01-launch-project-to-capture-and-mineralize-co2-from-cement-production/?utm_source=rss&utm_medium=rss&utm_campaign=holcim-44-01-launch-project-to-capture-and-mineralize-co2-from-cement-production",
+      "publishedAt": "2025-12-12T14:04:42",
+      "content": "Building materials company Holcim and carbon sequestration technology company 44.01 announced the launch of a [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Indonesia floods were ‘extinction level’ disturbance for world’s rarest ape",
+      "description": "Conservationists fear up to 11% of Tapanuli orangutan population perished in disaster that also killed 1,000 peopleThe skull of a Tapanuli orangutan, caked in debris, stares out from a tomb of mud ...",
+      "url": "https://www.theguardian.com/world/2025/dec/12/indonesia-floods-extinction-level-rare-orangutan-tapanuli",
+      "publishedAt": "2025-12-12T13:42:26",
+      "content": "Conservationists fear up to 11% of Tapanuli orangutan population perished in disaster that also killed 1,000 peopleThe skull of a Tapanuli orangutan, caked in debris, stares out from a tomb of mud ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Soil is more important than oil’: inside the perennial grain revolution",
+      "description": "Scientists in Kansas believe Kernza could cut emissions, restore degraded soils and reshape the future of agricultureOn the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 ...",
+      "url": "https://www.theguardian.com/environment/2025/dec/12/soil-is-more-important-than-oil-inside-the-perennial-grain-revolution",
+      "publishedAt": "2025-12-12T12:00:05",
+      "content": "Scientists in Kansas believe Kernza could cut emissions, restore degraded soils and reshape the future of agricultureOn the concrete floor of a greenhouse in rural Kansas stands a neat grid of 100 ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "EA to spend millions clearing Oxfordshire illegal waste mountain in break with policy",
+      "description": "Announcement draws anger from Labour MP over refusal to remove tonnes of rubbish dumped near school in WiganThe Environment Agency is to spend millions of pounds to clear an enormous illegal rubbis...",
+      "url": "https://www.theguardian.com/environment/2025/dec/12/environment-agency-clear-oxfordshire-illegal-dumping-waste-mountain",
+      "publishedAt": "2025-12-12T10:47:03",
+      "content": "Announcement draws anger from Labour MP over refusal to remove tonnes of rubbish dumped near school in WiganThe Environment Agency is to spend millions of pounds to clear an enormous illegal rubbis..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Hightailing along city streets and raiding ponds: otters’ revival in Britain",
+      "description": "Still rare only 20 years ago, the charismatic animals are in almost every UK river and a conservation success storyOn a quiet Friday evening, an otter and a fox trot through Lincoln city centre. Th...",
+      "url": "https://www.theguardian.com/environment/2025/dec/12/otter-cities-fish-revival-rivers-britain-pollution",
+      "publishedAt": "2025-12-12T10:00:33",
+      "content": "Still rare only 20 years ago, the charismatic animals are in almost every UK river and a conservation success storyOn a quiet Friday evening, an otter and a fox trot through Lincoln city centre. Th..."
     },
     {
       "source": {
@@ -133,61 +243,6 @@
       "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
       "publishedAt": "2025-12-09T23:00:58",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "From Paris to Belém: What a Decade of Climate Negotiations Teaches Us About Adaptation",
-      "description": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the United Nations climate talks in Brazil (COP30) last month, with local governments at the center. Tr...",
-      "url": "https://triplepundit.com/2025/from-paris-to-belem-what-a-decade-of-climate-negotiations-teaches-us-about-adaptation/",
-      "publishedAt": "2025-12-05T18:11:45",
-      "content": "Ten years after the Paris Agreement, adaptation threaded through nearly every major debate at the United Nations climate talks in Brazil (COP30) last month, with local governments at the center. Tr..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "EA to spend millions clearing Oxfordshire illegal waste mountain in break with policy",
-      "description": "Announcement draws anger from Labour MP over refusal to remove tonnes of rubbish dumped near school in WiganThe Environment Agency is to spend millions of pounds to clear an enormous illegal rubbis...",
-      "url": "https://www.theguardian.com/environment/2025/dec/12/environment-agency-clear-oxfordshire-illegal-dumping-waste-mountain",
-      "publishedAt": "2025-12-12T10:47:03",
-      "content": "Announcement draws anger from Labour MP over refusal to remove tonnes of rubbish dumped near school in WiganThe Environment Agency is to spend millions of pounds to clear an enormous illegal rubbis..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Hightailing along high streets and raiding ponds: otters’ revival in Britain",
-      "description": "Still rare only 20 years ago, the charismatic animals are in almost every UK river and a conservation success storyOn a quiet Friday evening, an otter and a fox trot through Lincoln city centre. Th...",
-      "url": "https://www.theguardian.com/environment/2025/dec/12/otter-cities-fish-revival-rivers-britain-pollution",
-      "publishedAt": "2025-12-12T10:00:33",
-      "content": "Still rare only 20 years ago, the charismatic animals are in almost every UK river and a conservation success storyOn a quiet Friday evening, an otter and a fox trot through Lincoln city centre. Th..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Colorado River Water Is Too Cheap, Particularly for Agricultural Users",
-      "description": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil...",
-      "url": "https://insideclimatenews.org/news/11122025/colorado-river-water-too-cheap/",
-      "publishedAt": "2025-12-11T19:31:00",
-      "content": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
-      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
-      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
-      "publishedAt": "2025-12-11T17:19:42",
-      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
     },
     {
       "source": {
@@ -224,6 +279,61 @@
     },
     {
       "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Lululemon Leader to Depart, CreateMe Bolsters AI Efforts",
+      "description": "Chief exec Calvin McDonald to exit Lululemon while AI robotics firm CreateMe names Natasha Chand, a former Amazon Softlines CEO, as executive advisor.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-lululemon-createme-keen-crowley-1234793372/",
+      "publishedAt": "2025-12-12T21:00:00",
+      "content": "Chief exec Calvin McDonald to exit Lululemon while AI robotics firm CreateMe names Natasha Chand, a former Amazon Softlines CEO, as executive advisor."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "US Navy Taps Palantir to Speed Up Shipbuilding With AI ‘Ship OS’",
+      "description": "The multi-year contract aims to cut delays, ease bottlenecks and modernize an industry struggling with labor shortages and aging infrastructure.",
+      "url": "https://sourcingjournal.com/topics/logistics/shipbuilding-us-navy-ai-palantir-448-million-ship-os-maritime-china-container-shipping-ocean-carriers-newbuildings-1234793426/",
+      "publishedAt": "2025-12-12T19:05:53",
+      "content": "The multi-year contract aims to cut delays, ease bottlenecks and modernize an industry struggling with labor shortages and aging infrastructure."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "More to Love: Denim Brands Are Diversifying Their Offerings",
+      "description": "The denim players seeing the strongest momentum are the ones expanding their offerings and services beyond jeans.",
+      "url": "https://sourcingjournal.com/denim/denim-business/denim-brands-diversifying-their-offerings-coh-wrangler-1234793086/",
+      "publishedAt": "2025-12-12T17:00:00",
+      "content": "The denim players seeing the strongest momentum are the ones expanding their offerings and services beyond jeans."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Here’s What to Know About Gen Alpha – Today’s Youngest Shoppers",
+      "description": "Generation Alpha aren’t just shoppers; they’re decision-makers within their households.",
+      "url": "https://sourcingjournal.com/topics/lifestyle-monitor/what-to-know-about-gen-alpha-shoppers-1234792332/",
+      "publishedAt": "2025-12-12T16:00:00",
+      "content": "Generation Alpha aren’t just shoppers; they’re decision-makers within their households."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Textile Exchange Finalizes Materials Matter Standard Criteria",
+      "description": "To create a more streamlined system, the Textile Exchange worked with stakeholders across the supply chain to design and test a framework that is robust and workable in production systems.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/textile-exchange-finalizes-materials-matter-standard-1234793250/",
+      "publishedAt": "2025-12-12T15:45:00",
+      "content": "To create a more streamlined system, the Textile Exchange worked with stakeholders across the supply chain to design and test a framework that is robust and workable in production systems."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -246,91 +356,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Twenty years ago this thriving woodland didn’t even exist | Phil Gates",
-      "description": "Low Burnhall wood, Durham: The smell of decay, the screech of jays – nearly 100,000 trees planted in 2008 have really come of age“I remember when these were all open fields,” said with a sigh, is a...",
-      "url": "https://www.theguardian.com/environment/2025/dec/12/country-diary-twenty-years-ago-this-thriving-woodland-didnt-even-exist",
-      "publishedAt": "2025-12-12T05:30:34",
-      "content": "Low Burnhall wood, Durham: The smell of decay, the screech of jays – nearly 100,000 trees planted in 2008 have really come of age“I remember when these were all open fields,” said with a sigh, is a..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "White House Abruptly Cancels Meeting on FEMA’s Future After Leaked Report Revealed Plan to Gut the Agency",
-      "description": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin.",
-      "url": "https://insideclimatenews.org/news/11122025/white-house-cancels-fema-meeting-on-proposed-cuts/",
-      "publishedAt": "2025-12-12T01:17:46",
-      "content": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin."
+      "title": "Colorado River Water Is Too Cheap, Particularly for Agricultural Users",
+      "description": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil...",
+      "url": "https://insideclimatenews.org/news/11122025/colorado-river-water-too-cheap/",
+      "publishedAt": "2025-12-11T19:31:00",
+      "content": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Triple Pundit"
       },
-      "author": "Sourcing Journal",
-      "title": "Temu Owner’s Facilities in Ireland and China Raided by Government Investigators",
-      "description": "Temu owner Pinduoduo has seen two of its global facilities raided in recent days by market regulators under suspicion of fraudulent dealings and illegal subsidies.",
-      "url": "https://sourcingjournal.com/topics/business-news/temu-pinduoduo-pdd-ireland-shanghai-china-raids-subsidies-fraud-1234793212/",
-      "publishedAt": "2025-12-12T00:16:03",
-      "content": "Temu owner Pinduoduo has seen two of its global facilities raided in recent days by market regulators under suspicion of fraudulent dealings and illegal subsidies."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Freitag Yourself at Zurich Repairs Station",
-      "description": "Just next door from Freitag’s flagship, the Zurich bag maker’s latest workshop has a drive-through inspired window for express repairs.",
-      "url": "https://sourcingjournal.com/topics/retail/freitag-yourself-at-zurich-repairs-station-circularity-1234793099/",
-      "publishedAt": "2025-12-11T20:07:11",
-      "content": "Just next door from Freitag’s flagship, the Zurich bag maker’s latest workshop has a drive-through inspired window for express repairs."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Freitag’s Compact Space for Circular Design in Zurich",
-      "description": "Freitag is firmly focused on the future. The Swiss company opened a repair station in Zurich with its widest range of repair options yet.",
-      "url": "https://sourcingjournal.com/gallery/topics/retail/freitag-zurich-repairs-station-1234793110/",
-      "publishedAt": "2025-12-11T19:26:09",
-      "content": "Freitag is firmly focused on the future. The Swiss company opened a repair station in Zurich with its widest range of repair options yet."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Same-Day Delivery Arms Race Escalates as DoorDash, Uber Court Retailers",
-      "description": "Pacsun joins a growing roster of brands turning to DoorDash, while Uber Direct opens fast-delivery capabilities to Shopify Plus retailers across North America and Europe.",
-      "url": "https://sourcingjournal.com/topics/logistics/same-day-delivery-uber-doordash-pacsun-shopify-old-navy-walmart-amazon-now-holiday-apparel-1234793104/",
-      "publishedAt": "2025-12-11T18:52:45",
-      "content": "Pacsun joins a growing roster of brands turning to DoorDash, while Uber Direct opens fast-delivery capabilities to Shopify Plus retailers across North America and Europe."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
-      "description": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together.",
-      "url": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-11T18:03:29",
-      "content": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Orcas team up with dolphins to hunt salmon, study finds",
-      "description": "Northern resident killer whales appear to use dolphins as ‘scouts’, in a  surprising cooperative hunting strategyOrcas and dolphins have been spotted for the first time working as a team to hunt sa...",
-      "url": "https://www.theguardian.com/environment/2025/dec/11/orca-killer-whale-dolphin-hunt-salmon-study-british-columbia-canada",
-      "publishedAt": "2025-12-11T16:00:18",
-      "content": "Northern resident killer whales appear to use dolphins as ‘scouts’, in a  surprising cooperative hunting strategyOrcas and dolphins have been spotted for the first time working as a team to hunt sa..."
+      "author": "Triple Pundit",
+      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
+      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
+      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
+      "publishedAt": "2025-12-11T17:19:42",
+      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
     },
     {
       "source": {
@@ -356,17 +400,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Our Children’s Trust Suit Asks Montana Court to Block Some New Laws",
-      "description": "The young plaintiffs, who won a major case over climate change policy in 2023, argue that legislators are illegally ignoring the effects of fossil fuels.",
-      "url": "https://www.nytimes.com/2025/12/10/climate/montana-youth-lawsuit-climate.html",
-      "publishedAt": "2025-12-10T23:45:13",
-      "content": "The young plaintiffs, who won a major case over climate change policy in 2023, argue that legislators are illegally ignoring the effects of fossil fuels."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -386,6 +419,28 @@
       "url": "https://triplepundit.com/2025/achoque-salamander-conservation-lake-patzcuaro-chester-zoo/",
       "publishedAt": "2025-12-08T17:41:02",
       "content": "Mexican conservationists, Dominican nuns, and scientists from the U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "White House Abruptly Cancels Meeting on FEMA’s Future After Leaked Report Revealed Plan to Gut the Agency",
+      "description": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin.",
+      "url": "https://insideclimatenews.org/news/11122025/white-house-cancels-fema-meeting-on-proposed-cuts/",
+      "publishedAt": "2025-12-12T01:17:46",
+      "content": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
+      "description": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together.",
+      "url": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-11T18:03:29",
+      "content": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together."
     },
     {
       "source": {
