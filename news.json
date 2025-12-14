@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 47,
   "articles": [
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "EU Agrees to Gut Sustainability Rules, Undermining Climate Ambitions",
-      "description": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/eu-agrees-to-gut-sustainability-rules-undermining-climate-ambition-1234793435/",
-      "publishedAt": "2025-12-12T21:55:47",
-      "content": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -23,6 +12,17 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2025-12-08T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "EU Agrees to Gut Sustainability Rules, Undermining Climate Ambitions",
+      "description": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/eu-agrees-to-gut-sustainability-rules-undermining-climate-ambition-1234793435/",
+      "publishedAt": "2025-12-12T21:55:47",
+      "content": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement."
     },
     {
       "source": {
@@ -59,39 +59,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The path of least emissions: how to take a sustainable holiday this summer",
-      "description": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S...",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/13/how-to-take-a-sustainable-holiday-vacation-tourism-emissions-travel",
-      "publishedAt": "2025-12-12T23:00:16",
-      "content": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Green California’s Big Oil Problem",
-      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec.",
-      "url": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
-      "publishedAt": "2025-12-12T21:44:58",
-      "content": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The Paris climate treaty changed the world. Here’s how | Rebecca Solnit",
-      "description": "There’s much more to do, but we should be encouraged by the progress we have madeToday marks the 10th anniversary of the Paris climate treaty, one of the landmark days in climate-action history. At...",
-      "url": "https://www.theguardian.com/commentisfree/2025/dec/12/paris-climate-treaty-anniversary",
-      "publishedAt": "2025-12-12T11:00:34",
-      "content": "There’s much more to do, but we should be encouraged by the progress we have madeToday marks the 10th anniversary of the Paris climate treaty, one of the landmark days in climate-action history. At..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -114,14 +81,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "BlackRock’s GIP Invests up to $335 Million in India Green Energy Platform Aditya Birla Renewables",
-      "description": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]",
-      "url": "https://www.esgtoday.com/blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables",
-      "publishedAt": "2025-12-10T15:09:39",
-      "content": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]"
+      "author": "The Guardian",
+      "title": "‘A shift no country can ignore’: where global emissions stand, 10 years after the Paris climate agreement",
+      "description": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a...",
+      "url": "https://www.theguardian.com/environment/2025/dec/13/a-shift-no-country-can-ignore-where-global-emissions-stand-10-years-after-the-paris-climate-agreement",
+      "publishedAt": "2025-12-13T06:00:32",
+      "content": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The path of least emissions: how to take a sustainable holiday this summer",
+      "description": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S...",
+      "url": "https://www.theguardian.com/australia-news/2025/dec/13/how-to-take-a-sustainable-holiday-vacation-tourism-emissions-travel",
+      "publishedAt": "2025-12-12T23:00:16",
+      "content": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Green California’s Big Oil Problem",
+      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec.",
+      "url": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
+      "publishedAt": "2025-12-12T21:44:58",
+      "content": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec."
     },
     {
       "source": {
@@ -147,6 +136,28 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock’s GIP Invests up to $335 Million in India Green Energy Platform Aditya Birla Renewables",
+      "description": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]",
+      "url": "https://www.esgtoday.com/blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables",
+      "publishedAt": "2025-12-10T15:09:39",
+      "content": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "‘Hot droughts’ could push the Amazon into a hypertropical climate by 2100 - and trees won’t survive",
+      "description": "A hypertropical climate has not occurred on Earth in at least 10 million years.",
+      "url": "http://www.euronews.com/green/2025/12/14/hot-droughts-could-push-the-amazon-into-a-hypertropical-climate-by-2100-and-trees-wont-sur",
+      "publishedAt": "2025-12-14T04:03:15",
+      "content": "A hypertropical climate has not occurred on Earth in at least 10 million years."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -155,6 +166,116 @@
       "url": "https://www.bbc.com/news/articles/c0r9p1ypyjyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2025-12-11T00:20:34",
       "content": "Survivors of a deadly typhoon in the Philippines have filed a claim against the UK's largest oil company."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
+      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers.",
+      "url": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-10T03:37:06",
+      "content": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Better Brand Edit: More Sustainable New Year’s Eve 2025 Outfits",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
+      "publishedAt": "2025-12-09T23:00:58",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
+      "description": "The US and other governments derailed an agreement on a global environment study, its co-chair says.",
+      "url": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-09T09:00:09",
+      "content": "The US and other governments derailed an agreement on a global environment study, its co-chair says."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Better Brand Edit: Our 14 Favourite Sustainable Bedding Brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-bedding-brands/",
+      "publishedAt": "2025-12-08T23:00:54",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "50+ Ideas For More Sustainable Christmas Gifts and Holiday Presents",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
+      "publishedAt": "2025-12-07T23:00:07",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "EU Targets Shein, Temu With 3-Euro Fee on Small Parcels as Trade Bloc Moves to End De Minimis",
+      "description": "The European Union will impose a 3-euro per-parcel fee on small shipments entering the 27-nation trade bloc.",
+      "url": "https://sourcingjournal.com/topics/trade/eu-shein-temu-3-euro-fee-small-parcels-trade-de-minimis-1234793460/",
+      "publishedAt": "2025-12-13T18:26:29",
+      "content": "The European Union will impose a 3-euro per-parcel fee on small shipments entering the 27-nation trade bloc."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Reporting on Arctic Sovereignty in the Polar Bear Capital of the World",
+      "description": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there.",
+      "url": "https://www.nytimes.com/2025/12/13/world/canada/canada-arctic-sovereignty-polar-bear.html",
+      "publishedAt": "2025-12-13T11:00:06",
+      "content": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Clean, Limitless Energy Exists. China Is Going Big in the Race to Harness It.",
+      "description": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization.",
+      "url": "https://www.nytimes.com/2025/12/13/climate/china-us-fusion-energy.html",
+      "publishedAt": "2025-12-13T10:00:12",
+      "content": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Hundreds of Sea Turtles Are Freezing in Cape Cod",
+      "description": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m...",
+      "url": "https://insideclimatenews.org/news/13122025/sea-turtles-freezing-in-cape-cod/",
+      "publishedAt": "2025-12-13T10:00:00",
+      "content": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New York City’s Forests Are Ailing. New Funding May Get at the Root of the Problem",
+      "description": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat...",
+      "url": "https://insideclimatenews.org/news/13122025/new-york-city-forest-restoration-grants/",
+      "publishedAt": "2025-12-13T09:55:00",
+      "content": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat..."
     },
     {
       "source": {
@@ -224,58 +345,69 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Inside Climate News"
       },
-      "author": "BBC",
-      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
-      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers.",
-      "url": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-10T03:37:06",
-      "content": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers."
+      "author": "Inside Climate News",
+      "title": "Colorado River Water Is Too Cheap, Particularly for Agricultural Users",
+      "description": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil...",
+      "url": "https://insideclimatenews.org/news/11122025/colorado-river-water-too-cheap/",
+      "publishedAt": "2025-12-11T19:31:00",
+      "content": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil..."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Triple Pundit"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: More Sustainable New Year’s Eve 2025 Outfits",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
-      "publishedAt": "2025-12-09T23:00:58",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Triple Pundit",
+      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
+      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
+      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
+      "publishedAt": "2025-12-11T17:19:42",
+      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
-      "description": "The US and other governments derailed an agreement on a global environment study, its co-chair says.",
-      "url": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-09T09:00:09",
-      "content": "The US and other governments derailed an agreement on a global environment study, its co-chair says."
+      "author": "ESG Today",
+      "title": "Eiffel Raises $1.4 Billion for Energy Transition Infrastructure Fund",
+      "description": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]",
+      "url": "https://www.esgtoday.com/eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund",
+      "publishedAt": "2025-12-11T10:04:08",
+      "content": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: Our 14 Favourite Sustainable Bedding Brands",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-bedding-brands/",
-      "publishedAt": "2025-12-08T23:00:54",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Google Signs Ocean-Based Carbon Removal Deal with Ebb Carbon",
+      "description": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]",
+      "url": "https://www.esgtoday.com/google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon",
+      "publishedAt": "2025-12-11T09:23:49",
+      "content": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Triple Pundit"
       },
-      "author": "Good On You",
-      "title": "50+ Ideas For More Sustainable Christmas Gifts and Holiday Presents",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
-      "publishedAt": "2025-12-07T23:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Triple Pundit",
+      "title": "In Mexico, Scientists, Neighbors and Nuns Come Together to Save the Last Achoque Salamanders",
+      "description": "Mexican conservationists, Dominican nuns, and scientists from the U.",
+      "url": "https://triplepundit.com/2025/achoque-salamander-conservation-lake-patzcuaro-chester-zoo/",
+      "publishedAt": "2025-12-08T17:41:02",
+      "content": "Mexican conservationists, Dominican nuns, and scientists from the U."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Clinging to a crag in a place of constant change | Eben Muse",
+      "description": "Neath, south Wales: This quarry built the abbey and the nearby terraced towns – and it’s different every time I visitThe way to Neath Abbey Quarry is a perfect stranger to me this morning. It’s bee...",
+      "url": "https://www.theguardian.com/environment/2025/dec/13/country-diary-clinging-to-a-crag-in-a-place-of-constant-change",
+      "publishedAt": "2025-12-13T05:30:23",
+      "content": "Neath, south Wales: This quarry built the abbey and the nearby terraced towns – and it’s different every time I visitThe way to Neath Abbey Quarry is a perfect stranger to me this morning. It’s bee..."
     },
     {
       "source": {
@@ -323,14 +455,14 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Guardian"
       },
-      "author": "Sourcing Journal",
-      "title": "Textile Exchange Finalizes Materials Matter Standard Criteria",
-      "description": "To create a more streamlined system, the Textile Exchange worked with stakeholders across the supply chain to design and test a framework that is robust and workable in production systems.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/textile-exchange-finalizes-materials-matter-standard-1234793250/",
-      "publishedAt": "2025-12-12T15:45:00",
-      "content": "To create a more streamlined system, the Textile Exchange worked with stakeholders across the supply chain to design and test a framework that is robust and workable in production systems."
+      "author": "The Guardian",
+      "title": "‘The worst is when the rubbish explodes’: the children living in Patagonia’s vast dumps",
+      "description": "In sprawling landfills, thousands of Argentinian families scavenge for survival amid toxic waste and government neglect, dreaming of steady jobs and escape The sun rises over the plateau of Neuquén...",
+      "url": "https://www.theguardian.com/global-development/2025/dec/12/rubbish-children-living-patagonia-argentina-vast-dumps",
+      "publishedAt": "2025-12-12T14:00:06",
+      "content": "In sprawling landfills, thousands of Argentinian families scavenge for survival amid toxic waste and government neglect, dreaming of steady jobs and escape The sun rises over the plateau of Neuquén..."
     },
     {
       "source": {
@@ -359,72 +491,6 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Colorado River Water Is Too Cheap, Particularly for Agricultural Users",
-      "description": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil...",
-      "url": "https://insideclimatenews.org/news/11122025/colorado-river-water-too-cheap/",
-      "publishedAt": "2025-12-11T19:31:00",
-      "content": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
-      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
-      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
-      "publishedAt": "2025-12-11T17:19:42",
-      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Eiffel Raises $1.4 Billion for Energy Transition Infrastructure Fund",
-      "description": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]",
-      "url": "https://www.esgtoday.com/eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund",
-      "publishedAt": "2025-12-11T10:04:08",
-      "content": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs Ocean-Based Carbon Removal Deal with Ebb Carbon",
-      "description": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]",
-      "url": "https://www.esgtoday.com/google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon",
-      "publishedAt": "2025-12-11T09:23:49",
-      "content": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google, Bill Gates’ Breakthrough Energy Back $462 Million Fundraise for Geothermal Developer Fervo Energy",
-      "description": "Geothermal energy project developer Fervo Energy announced that it has raised $462 million aimed at [&#8230;]",
-      "url": "https://www.esgtoday.com/google-bill-gates-breakthrough-energy-back-462-million-fundraise-for-geothermal-developer-fervo-energy/?utm_source=rss&utm_medium=rss&utm_campaign=google-bill-gates-breakthrough-energy-back-462-million-fundraise-for-geothermal-developer-fervo-energy",
-      "publishedAt": "2025-12-10T15:32:49",
-      "content": "Geothermal energy project developer Fervo Energy announced that it has raised $462 million aimed at [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "In Mexico, Scientists, Neighbors and Nuns Come Together to Save the Last Achoque Salamanders",
-      "description": "Mexican conservationists, Dominican nuns, and scientists from the U.",
-      "url": "https://triplepundit.com/2025/achoque-salamander-conservation-lake-patzcuaro-chester-zoo/",
-      "publishedAt": "2025-12-08T17:41:02",
-      "content": "Mexican conservationists, Dominican nuns, and scientists from the U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
       "title": "White House Abruptly Cancels Meeting on FEMA’s Future After Leaked Report Revealed Plan to Gut the Agency",
       "description": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin.",
       "url": "https://insideclimatenews.org/news/11122025/white-house-cancels-fema-meeting-on-proposed-cuts/",
@@ -444,25 +510,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "How Batteries Could Play a Role in Data Center Rollouts",
-      "description": "With data center developers in Texas and most other states now commonly deploying fossil fuel generators as backup power sources, a nascent industry from the renewable side of power generation—batt...",
-      "url": "https://insideclimatenews.org/news/11122025/data-center-battery-storage/",
-      "publishedAt": "2025-12-11T10:00:00",
-      "content": "With data center developers in Texas and most other states now commonly deploying fossil fuel generators as backup power sources, a nascent industry from the renewable side of power generation—batt..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Better Brand Edit: Top-Rated Men’s Winter Fashion",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/mens-winter-fashion/",
-      "publishedAt": "2025-12-10T23:00:30",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Google, Bill Gates’ Breakthrough Energy Back $462 Million Fundraise for Geothermal Developer Fervo Energy",
+      "description": "Geothermal energy project developer Fervo Energy announced that it has raised $462 million aimed at [&#8230;]",
+      "url": "https://www.esgtoday.com/google-bill-gates-breakthrough-energy-back-462-million-fundraise-for-geothermal-developer-fervo-energy/?utm_source=rss&utm_medium=rss&utm_campaign=google-bill-gates-breakthrough-energy-back-462-million-fundraise-for-geothermal-developer-fervo-energy",
+      "publishedAt": "2025-12-10T15:32:49",
+      "content": "Geothermal energy project developer Fervo Energy announced that it has raised $462 million aimed at [&#8230;]"
     }
   ]
 }
