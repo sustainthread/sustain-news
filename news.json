@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 47,
+  "totalResults": 43,
   "articles": [
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This December 2025",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2025-12-08T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
     {
       "source": {
         "name": "Sourcing Journal"
@@ -23,6 +12,17 @@
       "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/eu-agrees-to-gut-sustainability-rules-undermining-climate-ambition-1234793435/",
       "publishedAt": "2025-12-12T21:55:47",
       "content": "In-scope businesses, for one, will no longer need to prepare a transition plan that aligns their business models with the Paris Agreement."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Carbon capture was spruiked as a way of limiting our emissions – but has Australia been greenwashed?",
+      "description": "Despite billions in investment and backing from the federal government, carbon capture and storage technology ‘should be in no way treated as a climate solution’, critics sayFollow our Australia ne...",
+      "url": "https://www.theguardian.com/environment/2025/dec/14/carbon-capture-and-storage-ccs-spruiked-emissions-reduction-has-australia-been-greenwashed",
+      "publishedAt": "2025-12-13T19:00:44",
+      "content": "Despite billions in investment and backing from the federal government, carbon capture and storage technology ‘should be in no way treated as a climate solution’, critics sayFollow our Australia ne..."
     },
     {
       "source": {
@@ -48,6 +48,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How a Nation Famous for Marine Conservation Is Bankrolling Its Own Destruction",
+      "description": "In April 2022, a blue and white fishing boat sliced through the protected waters surrounding Costa Rica’s Isla San José at high speed.",
+      "url": "https://insideclimatenews.org/news/14122025/costa-rica-fuel-subsidies-funds-poaching-overfishing/",
+      "publishedAt": "2025-12-14T09:55:00",
+      "content": "In April 2022, a blue and white fishing boat sliced through the protected waters surrounding Costa Rica’s Isla San José at high speed."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: EU reaches final deal to scale back sustainability reporting and [&#8230;]",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-241/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-241",
+      "publishedAt": "2025-12-14T08:56:04",
+      "content": "This week in ESG news: EU reaches final deal to scale back sustainability reporting and [&#8230;]"
+    },
+    {
+      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -56,6 +78,28 @@
       "url": "https://triplepundit.com/2025/toast-brewing-food-waste-surplus-bread-beer/",
       "publishedAt": "2025-12-12T13:00:00",
       "content": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘A shift no country can ignore’: where global emissions stand, 10 years after the Paris climate agreement",
+      "description": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a...",
+      "url": "https://www.theguardian.com/environment/2025/dec/13/a-shift-no-country-can-ignore-where-global-emissions-stand-10-years-after-the-paris-climate-agreement",
+      "publishedAt": "2025-12-13T06:00:32",
+      "content": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Green California’s Big Oil Problem",
+      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec.",
+      "url": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
+      "publishedAt": "2025-12-12T21:44:58",
+      "content": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec."
     },
     {
       "source": {
@@ -81,50 +125,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A shift no country can ignore’: where global emissions stand, 10 years after the Paris climate agreement",
-      "description": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a...",
-      "url": "https://www.theguardian.com/environment/2025/dec/13/a-shift-no-country-can-ignore-where-global-emissions-stand-10-years-after-the-paris-climate-agreement",
-      "publishedAt": "2025-12-13T06:00:32",
-      "content": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The path of least emissions: how to take a sustainable holiday this summer",
-      "description": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S...",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/13/how-to-take-a-sustainable-holiday-vacation-tourism-emissions-travel",
-      "publishedAt": "2025-12-12T23:00:16",
-      "content": "While it’s impossible to escape the emissions associated with flying, some travel methods are more carbon-intensive than othersChange by degrees offers life hacks and sustainable living tips each S..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Green California’s Big Oil Problem",
-      "description": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec.",
-      "url": "https://insideclimatenews.org/news/12122025/california-oil-field-spills/",
-      "publishedAt": "2025-12-12T21:44:58",
-      "content": "Thousands of gallons of oil and toxic wastewater poured out of a pipe running through a Monterey County oil field on Friday, Dec."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Big Oil’s Climate Ads Have Propped Up Fake Promises and False Solutions for Past 25 Years, Report Finds",
-      "description": "Four of the world’s biggest oil and gas companies have spent the last 25 years deceptively portraying themselves as leaders in addressing climate change while simultaneously expanding fossil fuel p...",
-      "url": "https://insideclimatenews.org/news/11122025/big-oil-deceptive-climate-ads-false-solutions/",
-      "publishedAt": "2025-12-11T23:19:18",
-      "content": "Four of the world’s biggest oil and gas companies have spent the last 25 years deceptively portraying themselves as leaders in addressing climate change while simultaneously expanding fossil fuel p..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -133,28 +133,6 @@
       "url": "https://goodonyou.eco/best-and-worst-beauty-brands/",
       "publishedAt": "2025-12-11T23:04:16",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BlackRock’s GIP Invests up to $335 Million in India Green Energy Platform Aditya Birla Renewables",
-      "description": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]",
-      "url": "https://www.esgtoday.com/blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-invests-up-to-335-million-in-india-green-energy-platform-aditya-birla-renewables",
-      "publishedAt": "2025-12-10T15:09:39",
-      "content": "India-based industrial conglomerate Aditya Birla Group’s announced today the acquisition by BlackRock’s infrastructure investment unit [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "Euronews"
-      },
-      "author": "Euronews",
-      "title": "‘Hot droughts’ could push the Amazon into a hypertropical climate by 2100 - and trees won’t survive",
-      "description": "A hypertropical climate has not occurred on Earth in at least 10 million years.",
-      "url": "http://www.euronews.com/green/2025/12/14/hot-droughts-could-push-the-amazon-into-a-hypertropical-climate-by-2100-and-trees-wont-sur",
-      "publishedAt": "2025-12-14T04:03:15",
-      "content": "A hypertropical climate has not occurred on Earth in at least 10 million years."
     },
     {
       "source": {
@@ -213,69 +191,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Inside Climate News"
       },
-      "author": "Good On You",
-      "title": "50+ Ideas For More Sustainable Christmas Gifts and Holiday Presents",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
-      "publishedAt": "2025-12-07T23:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "EU Targets Shein, Temu With 3-Euro Fee on Small Parcels as Trade Bloc Moves to End De Minimis",
-      "description": "The European Union will impose a 3-euro per-parcel fee on small shipments entering the 27-nation trade bloc.",
-      "url": "https://sourcingjournal.com/topics/trade/eu-shein-temu-3-euro-fee-small-parcels-trade-de-minimis-1234793460/",
-      "publishedAt": "2025-12-13T18:26:29",
-      "content": "The European Union will impose a 3-euro per-parcel fee on small shipments entering the 27-nation trade bloc."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Reporting on Arctic Sovereignty in the Polar Bear Capital of the World",
-      "description": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there.",
-      "url": "https://www.nytimes.com/2025/12/13/world/canada/canada-arctic-sovereignty-polar-bear.html",
-      "publishedAt": "2025-12-13T11:00:06",
-      "content": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Clean, Limitless Energy Exists. China Is Going Big in the Race to Harness It.",
-      "description": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization.",
-      "url": "https://www.nytimes.com/2025/12/13/climate/china-us-fusion-energy.html",
-      "publishedAt": "2025-12-13T10:00:12",
-      "content": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization."
+      "author": "Inside Climate News",
+      "title": "Wyoming Ranchers Hoping Solar Can Lower Costs Say Utilities and the State Stand in Their Way",
+      "description": "COKEVILLE, Wyo.",
+      "url": "https://insideclimatenews.org/news/14122025/cokeville-wyoming-ranch-scale-solar/",
+      "publishedAt": "2025-12-14T10:00:00",
+      "content": "COKEVILLE, Wyo."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Hundreds of Sea Turtles Are Freezing in Cape Cod",
-      "description": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m...",
-      "url": "https://insideclimatenews.org/news/13122025/sea-turtles-freezing-in-cape-cod/",
-      "publishedAt": "2025-12-13T10:00:00",
-      "content": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New York City’s Forests Are Ailing. New Funding May Get at the Root of the Problem",
-      "description": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat...",
-      "url": "https://insideclimatenews.org/news/13122025/new-york-city-forest-restoration-grants/",
-      "publishedAt": "2025-12-13T09:55:00",
-      "content": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat..."
+      "title": "Where Does 110 Billion Pounds of Manure Go?",
+      "description": "Iowa raises about 23 million hogs each year.",
+      "url": "https://insideclimatenews.org/news/14122025/icn-sunday-morning-iowa-manure/",
+      "publishedAt": "2025-12-14T09:50:00",
+      "content": "Iowa raises about 23 million hogs each year."
     },
     {
       "source": {
@@ -345,50 +279,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Colorado River Water Is Too Cheap, Particularly for Agricultural Users",
-      "description": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil...",
-      "url": "https://insideclimatenews.org/news/11122025/colorado-river-water-too-cheap/",
-      "publishedAt": "2025-12-11T19:31:00",
-      "content": "Colorado River water is not priced at rates that accurately reflect its scarcity, incentivizing inefficiency and overconsumption as climate change and overuse threaten the vital waterway for 40 mil..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
-      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
-      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
-      "publishedAt": "2025-12-11T17:19:42",
-      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Eiffel Raises $1.4 Billion for Energy Transition Infrastructure Fund",
-      "description": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]",
-      "url": "https://www.esgtoday.com/eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund",
-      "publishedAt": "2025-12-11T10:04:08",
-      "content": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs Ocean-Based Carbon Removal Deal with Ebb Carbon",
-      "description": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]",
-      "url": "https://www.esgtoday.com/google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon",
-      "publishedAt": "2025-12-11T09:23:49",
-      "content": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]"
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -397,6 +287,61 @@
       "url": "https://triplepundit.com/2025/achoque-salamander-conservation-lake-patzcuaro-chester-zoo/",
       "publishedAt": "2025-12-08T17:41:02",
       "content": "Mexican conservationists, Dominican nuns, and scientists from the U."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "EU Targets Shein, Temu With 3-Euro Fee on Small Parcels as Trade Bloc Moves to End De Minimis",
+      "description": "The European Union will impose a 3-euro per-parcel fee on small shipments entering the 27-nation trade bloc.",
+      "url": "https://sourcingjournal.com/topics/trade/eu-shein-temu-3-euro-fee-small-parcels-trade-de-minimis-1234793460/",
+      "publishedAt": "2025-12-13T18:26:29",
+      "content": "The European Union will impose a 3-euro per-parcel fee on small shipments entering the 27-nation trade bloc."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Reporting on Arctic Sovereignty in the Polar Bear Capital of the World",
+      "description": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there.",
+      "url": "https://www.nytimes.com/2025/12/13/world/canada/canada-arctic-sovereignty-polar-bear.html",
+      "publishedAt": "2025-12-13T11:00:06",
+      "content": "Global competition in the Arctic is raising hopes of a revival in the town of Churchill. We went to meet the people, and the bears, there."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Clean, Limitless Energy Exists. China Is Going Big in the Race to Harness It.",
+      "description": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization.",
+      "url": "https://www.nytimes.com/2025/12/13/climate/china-us-fusion-energy.html",
+      "publishedAt": "2025-12-13T10:00:12",
+      "content": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Hundreds of Sea Turtles Are Freezing in Cape Cod",
+      "description": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m...",
+      "url": "https://insideclimatenews.org/news/13122025/sea-turtles-freezing-in-cape-cod/",
+      "publishedAt": "2025-12-13T10:00:00",
+      "content": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New York City’s Forests Are Ailing. New Funding May Get at the Root of the Problem",
+      "description": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat...",
+      "url": "https://insideclimatenews.org/news/13122025/new-york-city-forest-restoration-grants/",
+      "publishedAt": "2025-12-13T09:55:00",
+      "content": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat..."
     },
     {
       "source": {
@@ -488,25 +433,36 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Triple Pundit"
       },
-      "author": "Inside Climate News",
-      "title": "White House Abruptly Cancels Meeting on FEMA’s Future After Leaked Report Revealed Plan to Gut the Agency",
-      "description": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin.",
-      "url": "https://insideclimatenews.org/news/11122025/white-house-cancels-fema-meeting-on-proposed-cuts/",
-      "publishedAt": "2025-12-12T01:17:46",
-      "content": "A meeting that was supposed to chart the future of America’s disaster-response agency ended on Thursday before it could even begin."
+      "author": "Triple Pundit",
+      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
+      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
+      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
+      "publishedAt": "2025-12-11T17:19:42",
+      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Cameras on killer whales record first evidence of joint hunt with dolphins",
-      "description": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together.",
-      "url": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-11T18:03:29",
-      "content": "Researchers say the footage, captured near the North-West Pacific coast, is the first recorded evidence of the two working together."
+      "author": "ESG Today",
+      "title": "Eiffel Raises $1.4 Billion for Energy Transition Infrastructure Fund",
+      "description": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]",
+      "url": "https://www.esgtoday.com/eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eiffel-raises-1-4-billion-for-energy-transition-infrastructure-fund",
+      "publishedAt": "2025-12-11T10:04:08",
+      "content": "Paris-based asset manager Eiffel Investment Group announced that it has raised €1.2 billion (USD$1.4 billion) [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Google Signs Ocean-Based Carbon Removal Deal with Ebb Carbon",
+      "description": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]",
+      "url": "https://www.esgtoday.com/google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-ocean-based-carbon-removal-deal-with-ebb-carbon",
+      "publishedAt": "2025-12-11T09:23:49",
+      "content": "Marine carbon dioxide removal provider Ebb Carbon announced a new offtake agreement with Google, targeting [&#8230;]"
     },
     {
       "source": {
