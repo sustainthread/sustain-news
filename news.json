@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 41,
   "articles": [
     {
       "source": {
@@ -15,47 +15,69 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "Why New York Has Backed Off on Addressing Climate Change",
-      "description": "With affordability and energy costs looming large as political issues, Gov. Kathy Hochul is less focused on going green.",
-      "url": "https://www.nytimes.com/2025/12/15/nyregion/why-new-york-has-backed-off-on-addressing-climate-change.html",
-      "publishedAt": "2025-12-15T10:02:47",
-      "content": "With affordability and energy costs looming large as political issues, Gov. Kathy Hochul is less focused on going green."
+      "author": "ESG Today",
+      "title": "EU Parliament Approves Omnibus Agreement to Cut Sustainability Reporting and Due Diligence Requirements",
+      "description": "Lawmakers in the European Parliament approved today a provisional agreement reached last week with EU [&#8230;]",
+      "url": "https://www.esgtoday.com/eu-parliament-approves-omnibus-agreement-to-cut-sustainability-reporting-and-due-diligence-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-approves-omnibus-agreement-to-cut-sustainability-reporting-and-due-diligence-requirements",
+      "publishedAt": "2025-12-16T15:55:32",
+      "content": "Lawmakers in the European Parliament approved today a provisional agreement reached last week with EU [&#8230;]"
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Good On You"
       },
-      "author": "Inside Climate News",
-      "title": "One Big, Shining Beacon for Climate Hope",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with author and climate activist Bill McKibben.&#160; In September 1...",
-      "url": "https://insideclimatenews.org/news/15122025/bill-mckibben-here-comes-the-sun-climate-hope/",
-      "publishedAt": "2025-12-15T09:55:00",
-      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with author and climate activist Bill McKibben.&#160; In September 1..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "India Ups Its Textile-to-Textile Recycling Game as Re-Start launches a 13 Million Euro Flagship Project",
-      "description": "The initiative will focus on select geographies, or clusters, with the first program being rolled out in Ludhiana and Indore.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/india-textile-to-textile-recycling-re-start-launch-13-million-euro-circularity-1234794017/",
-      "publishedAt": "2025-12-15T20:20:05",
-      "content": "The initiative will focus on select geographies, or clusters, with the first program being rolled out in Ludhiana and Indore."
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This December 2025",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2025-12-14T06:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "New York Releases Regulation Requiring Mandatory GHG Reporting for Large Emitters from 2027",
-      "description": "New York State Department of Environmental Conservation (DEC) Commissioner Amanda Lefton announced the finalization of [&#8230;]",
-      "url": "https://www.esgtoday.com/new-york-releases-regulation-requiring-mandatory-ghg-reporting-for-large-emitters-from-2027/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-releases-regulation-requiring-mandatory-ghg-reporting-for-large-emitters-from-2027",
-      "publishedAt": "2025-12-15T11:44:30",
-      "content": "New York State Department of Environmental Conservation (DEC) Commissioner Amanda Lefton announced the finalization of [&#8230;]"
+      "title": "Google Signs 21-Year Clean Energy Deal with TotalEnergies to Power Malaysia Data Centers",
+      "description": "Google and TotalEnergies announced today a new long term Power Purchase Agreement (PPA), providing the [&#8230;]",
+      "url": "https://www.esgtoday.com/google-signs-21-year-clean-energy-deal-with-totalenergies-to-power-malaysia-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-21-year-clean-energy-deal-with-totalenergies-to-power-malaysia-data-centers",
+      "publishedAt": "2025-12-16T13:47:55",
+      "content": "Google and TotalEnergies announced today a new long term Power Purchase Agreement (PPA), providing the [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "HASI, KKR Double Down on U.S. Sustainable Infrastructure Platform with New $1 Billion Commitment",
+      "description": "Alternative asset and private equity investor KKR and climate solutions and sustainable infrastructure investment firm [&#8230;]",
+      "url": "https://www.esgtoday.com/hasi-kkr-double-down-on-u-s-sustainable-infrastructure-platform-with-new-1-billion-commitment/?utm_source=rss&utm_medium=rss&utm_campaign=hasi-kkr-double-down-on-u-s-sustainable-infrastructure-platform-with-new-1-billion-commitment",
+      "publishedAt": "2025-12-16T12:32:12",
+      "content": "Alternative asset and private equity investor KKR and climate solutions and sustainable infrastructure investment firm [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Is Seeking Exemption From a European Climate Law, Officials Say",
+      "description": "Diplomats told E.U. officials that the bloc’s law on methane, a potent greenhouse gas, would hurt American oil and gas companies.",
+      "url": "https://www.nytimes.com/2025/12/16/climate/trump-europe-methane-rules.html",
+      "publishedAt": "2025-12-17T01:09:13",
+      "content": "Diplomats told E.U. officials that the bloc’s law on methane, a potent greenhouse gas, would hurt American oil and gas companies."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Chances of EU trucking industry hitting zero emissions targets are dire, says industry body",
+      "description": "Only 10,000 out of economic bloc’s 6m trucks are electric and are more likely to be operating on short routesBusiness live – latest updatesThe chances of the European trucking industry hitting zero...",
+      "url": "https://www.theguardian.com/environment/2025/dec/15/eu-trucking-industry-zero-emissions-targets-electric-trucks",
+      "publishedAt": "2025-12-15T14:02:25",
+      "content": "Only 10,000 out of economic bloc’s 6m trucks are electric and are more likely to be operating on short routesBusiness live – latest updatesThe chances of the European trucking industry hitting zero..."
     },
     {
       "source": {
@@ -73,22 +95,33 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Real Estate Sustainability Data Provider Measurabl Appoints Maureen Waters as New CEO",
+      "description": "Real estate-focused sustainability data technology provider Measurabl announced today the appointment of Maureen Waters as [&#8230;]",
+      "url": "https://www.esgtoday.com/real-estate-sustainability-data-provider-measurabl-appoints-maureen-waters-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=real-estate-sustainability-data-provider-measurabl-appoints-maureen-waters-as-new-ceo",
+      "publishedAt": "2025-12-16T14:48:33",
+      "content": "Real estate-focused sustainability data technology provider Measurabl announced today the appointment of Maureen Waters as [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Climate Change Is Threatening Christmas Classics",
+      "description": "As snowflakes fall lazily from the sky, you cozy up by the fireplace and take a sip from a steaming cup of hot chocolate, humming the jaunty songs you can’t seem to get out of your head the entire ...",
+      "url": "https://insideclimatenews.org/news/16122025/todays-climate-holidays-christmas-classics-global-warming/",
+      "publishedAt": "2025-12-16T20:12:18",
+      "content": "As snowflakes fall lazily from the sky, you cozy up by the fireplace and take a sip from a steaming cup of hot chocolate, humming the jaunty songs you can’t seem to get out of your head the entire ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Neste Pushes Back Climate Targets Due to Required Investments that are “Currently Not Realistic”",
       "description": "Finland-based refining and renewable fuels producer Neste announced today that it is revising some of [&#8230;]",
       "url": "https://www.esgtoday.com/neste-pushes-back-climate-targets-due-to-required-investments-that-are-currently-not-realistic/?utm_source=rss&utm_medium=rss&utm_campaign=neste-pushes-back-climate-targets-due-to-required-investments-that-are-currently-not-realistic",
       "publishedAt": "2025-12-15T16:30:06",
       "content": "Finland-based refining and renewable fuels producer Neste announced today that it is revising some of [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Tabletop tomatoes and drought-resistant roses tipped as 2026’s top garden trends",
-      "description": "RHS predicts big shift in gardening habits as green-fingered Britons adapt to climate breakdownBouquets of cut flowers will be swapped for tabletop vegetable plants next year, the Royal Horticultur...",
-      "url": "https://www.theguardian.com/environment/2025/dec/15/tabletop-tomatoes-drought-resistant-garden-trends-2026-rhs-climate",
-      "publishedAt": "2025-12-15T06:00:22",
-      "content": "RHS predicts big shift in gardening habits as green-fingered Britons adapt to climate breakdownBouquets of cut flowers will be swapped for tabletop vegetable plants next year, the Royal Horticultur..."
     },
     {
       "source": {
@@ -103,80 +136,36 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "New York Times"
       },
-      "author": "Inside Climate News",
-      "title": "How a Nation Famous for Marine Conservation Is Bankrolling Its Own Destruction",
-      "description": "In April 2022, a blue and white fishing boat sliced through the protected waters surrounding Costa Rica’s Isla San José at high speed.",
-      "url": "https://insideclimatenews.org/news/14122025/costa-rica-fuel-subsidies-funds-poaching-overfishing/",
-      "publishedAt": "2025-12-14T09:55:00",
-      "content": "In April 2022, a blue and white fishing boat sliced through the protected waters surrounding Costa Rica’s Isla San José at high speed."
+      "author": "New York Times",
+      "title": "Europe May Roll Back Combustion Engine Ban",
+      "description": "A proposal to revise an E.U. law requiring carmakers to stop producing combustion engines by 2035 would offer some relief to automakers, but it sets back the region’s climate goals.",
+      "url": "https://www.nytimes.com/2025/12/16/business/economy/europe-auto-emissions-ban.html",
+      "publishedAt": "2025-12-16T19:00:16",
+      "content": "A proposal to revise an E.U. law requiring carmakers to stop producing combustion engines by 2035 would offer some relief to automakers, but it sets back the region’s climate goals."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "ESG Today: Week in Review",
-      "description": "This week in ESG news: EU reaches final deal to scale back sustainability reporting and [&#8230;]",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-241/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-241",
-      "publishedAt": "2025-12-14T08:56:04",
-      "content": "This week in ESG news: EU reaches final deal to scale back sustainability reporting and [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Loaf and Lager: The Climate Potential of Brewing With Bread",
-      "description": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit",
-      "url": "https://triplepundit.com/2025/toast-brewing-food-waste-surplus-bread-beer/",
-      "publishedAt": "2025-12-12T13:00:00",
-      "content": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit"
+      "title": "BlackRock Loses $5.9 Billion Mandate with Dutch Pension Fund Over ESG Stance",
+      "description": "Netherlands-based pension fund pension fund manager PME Pensioenfonds announced a decision to end its relationship [&#8230;]",
+      "url": "https://www.esgtoday.com/blackrock-loses-5-9-billion-mandate-from-dutch-pension-fund-over-esg-stance/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-loses-5-9-billion-mandate-from-dutch-pension-fund-over-esg-stance",
+      "publishedAt": "2025-12-16T12:06:44",
+      "content": "Netherlands-based pension fund pension fund manager PME Pensioenfonds announced a decision to end its relationship [&#8230;]"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Munich Re Sets New 2030 Climate Targets for Insurance, Investment Portfolios",
-      "description": "Munich Re, one of Europe’s largest insurance companies, and the world’s biggest reinsurer, announced the [&#8230;]",
-      "url": "https://www.esgtoday.com/munich-re-sets-new-2030-climate-targets-for-insurance-investment-portfolios/?utm_source=rss&utm_medium=rss&utm_campaign=munich-re-sets-new-2030-climate-targets-for-insurance-investment-portfolios",
-      "publishedAt": "2025-12-11T16:40:51",
-      "content": "Munich Re, one of Europe’s largest insurance companies, and the world’s biggest reinsurer, announced the [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Guest Post – The Smartest Path to CDP Success: Reframe Your Score as A Catalyst for Action and Advantage",
-      "description": "By: Stephanie Gibbon and Tiana Nguyen &#8211; Schneider Electric Advisory Services It is rare to [&#8230;]",
-      "url": "https://www.esgtoday.com/guest-post-the-smartest-path-to-cdp-success-reframe-your-score-as-a-catalyst-for-action-and-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-the-smartest-path-to-cdp-success-reframe-your-score-as-a-catalyst-for-action-and-advantage",
-      "publishedAt": "2025-12-15T19:35:09",
-      "content": "By: Stephanie Gibbon and Tiana Nguyen &#8211; Schneider Electric Advisory Services It is rare to [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft Signs 3.6 Million Ton CO2 Removal Deal with U.S. Clean Fuel and Carbon Capture Project",
-      "description": "Renewable fuels producer C2X announced that it has signed a long-term agreement with Microsoft, with [&#8230;]",
-      "url": "https://www.esgtoday.com/microsoft-signs-3-6-million-ton-co2-removal-deal-with-u-s-clean-fuel-and-carbon-capture-project/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-3-6-million-ton-co2-removal-deal-with-u-s-clean-fuel-and-carbon-capture-project",
-      "publishedAt": "2025-12-15T10:08:37",
-      "content": "Renewable fuels producer C2X announced that it has signed a long-term agreement with Microsoft, with [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A shift no country can ignore’: where global emissions stand, 10 years after the Paris climate agreement",
-      "description": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a...",
-      "url": "https://www.theguardian.com/environment/2025/dec/13/a-shift-no-country-can-ignore-where-global-emissions-stand-10-years-after-the-paris-climate-agreement",
-      "publishedAt": "2025-12-13T06:00:32",
-      "content": "The watershed summit in 2015 was far from perfect, but its impact so far has been significant and measurableTen years on from the historic Paris climate summit, which ended with the world’s first a..."
+      "title": "SuperCircle Raises $24 Million to Help Retail Brands Make Money Recycling End-of-Life Textiles",
+      "description": "Circular technology and logistics startup SuperCircle announced that it has raised $24 million in a [&#8230;]",
+      "url": "https://www.esgtoday.com/supercircle-raises-24-million-to-help-retail-brands-make-money-recycling-end-of-life-textiles/?utm_source=rss&utm_medium=rss&utm_campaign=supercircle-raises-24-million-to-help-retail-brands-make-money-recycling-end-of-life-textiles",
+      "publishedAt": "2025-12-16T10:17:00",
+      "content": "Circular technology and logistics startup SuperCircle announced that it has raised $24 million in a [&#8230;]"
     },
     {
       "source": {
@@ -202,36 +191,190 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "Iain Douglas-Hamilton, pioneering elephant conservationist, dies aged 83",
-      "description": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers.",
-      "url": "https://www.bbc.com/news/articles/cwyx8yj410po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-10T03:37:06",
-      "content": "His groundbreaking field research was instrumental in banning the international ivory trade and protecting elephants from poachers."
+      "author": "The Guardian",
+      "title": "Plantwatch: Pitcher plant’s sweet nectar is laced with toxic nerve agent",
+      "description": "Nepenthes khasiana oozes an enticing liquid on the rim of its pitchers that tempts its prey into a deadly trapA carnivorous pitcher plant has recently been found to use a chemical nerve agent to dr...",
+      "url": "https://www.theguardian.com/science/2025/dec/17/plantwatch-pitcher-plant-sweet-nectar-laced-toxic-nerve-agent",
+      "publishedAt": "2025-12-17T06:00:26",
+      "content": "Nepenthes khasiana oozes an enticing liquid on the rim of its pitchers that tempts its prey into a deadly trapA carnivorous pitcher plant has recently been found to use a chemical nerve agent to dr..."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "New York Times"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: More Sustainable New Year’s Eve 2025 Outfits",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
-      "publishedAt": "2025-12-09T23:00:58",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "New York Times",
+      "title": "Penguins Become Prey for the Pumas of Patagonia",
+      "description": "In Argentina, the return of pumas brought top predators back to the landscape — much to penguins’ dismay.",
+      "url": "https://www.nytimes.com/2025/12/16/science/penguins-pumas-patagonia.html",
+      "publishedAt": "2025-12-17T00:01:07",
+      "content": "In Argentina, the return of pumas brought top predators back to the landscape — much to penguins’ dismay."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Research Flights Over the Atlantic Could Help Improve Atmospheric River Forecasting",
+      "description": "A global effort to better understand moisture-laden rivers in the sky, like those currently battering the West Coast, will take flight in January.",
+      "url": "https://www.nytimes.com/2025/12/16/climate/atmospheric-rivers-forecasts.html",
+      "publishedAt": "2025-12-16T22:37:53",
+      "content": "A global effort to better understand moisture-laden rivers in the sky, like those currently battering the West Coast, will take flight in January."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Sumatra’s Deadly Floods May Have Pushed a Rare Ape Closer to the Brink of Extinction",
+      "description": "Nearly three weeks after a cyclone ripped through northern Sumatra, killing hundreds of people, the Indonesian region remains devastated.",
+      "url": "https://insideclimatenews.org/news/16122025/sumatra-floods-push-tapanuli-orangutan-closer-to-extinction/",
+      "publishedAt": "2025-12-16T20:27:43",
+      "content": "Nearly three weeks after a cyclone ripped through northern Sumatra, killing hundreds of people, the Indonesian region remains devastated."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Still Here Reimagines the Wall Calendar in Denim",
+      "description": "The calendar celebrates iconic symbols of American culture: denim and classic cars.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/still-here-reimagines-wall-calendar-in-denim-classic-cars-1234793256/",
+      "publishedAt": "2025-12-16T19:30:00",
+      "content": "The calendar celebrates iconic symbols of American culture: denim and classic cars."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Senators Investigate Role of A.I. Data Centers in Rising Electricity Costs",
+      "description": "Three Democrats are seeking information from tech firms about the growing energy use of data centers and the utility bills of individuals and other businesses.",
+      "url": "https://www.nytimes.com/2025/12/16/business/energy-environment/senate-democrats-electricity-prices-data-centers.html",
+      "publishedAt": "2025-12-16T18:57:29",
+      "content": "Three Democrats are seeking information from tech firms about the growing energy use of data centers and the utility bills of individuals and other businesses."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Circulose Expands Fashion Brand Partnerships",
+      "description": "Circulose continues its push to scale, inking new partnerships with a spate of global fashion brands.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/circulose-expands-fashion-brand-partnerships-reformation-faherty-1234794116/",
+      "publishedAt": "2025-12-16T18:19:35",
+      "content": "Circulose continues its push to scale, inking new partnerships with a spate of global fashion brands."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Life of a Denim Collector",
+      "description": "Denim historians and collectors are helping fill the gaps in denim’s timeline.",
+      "url": "https://sourcingjournal.com/denim/denim-business/life-of-a-denim-collector-historian-mohsin-sajid-1234791066/",
+      "publishedAt": "2025-12-16T17:00:00",
+      "content": "Denim historians and collectors are helping fill the gaps in denim’s timeline."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Global Fashion Agenda Policy Matrix: Europa Edit Update",
+      "description": "Updated earlier this week, the GFA Policy Matrix: EU resource serves as a practical reference for stakeholders navigating complex European policies.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/global-fashion-agenda-policy-matrix-europa-edit-1234794048/",
+      "publishedAt": "2025-12-16T16:00:00",
+      "content": "Updated earlier this week, the GFA Policy Matrix: EU resource serves as a practical reference for stakeholders navigating complex European policies."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "UN environment report 'hijacked' by US and others over fossil fuels, top scientist says",
-      "description": "The US and other governments derailed an agreement on a global environment study, its co-chair says.",
-      "url": "https://www.bbc.com/news/articles/c1w9ge93w9po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-09T09:00:09",
-      "content": "The US and other governments derailed an agreement on a global environment study, its co-chair says."
+      "title": "Thousands of dinosaur footprints found on Italian mountain",
+      "description": "The footprints date back some 210 million years and show traces of toes and claws.",
+      "url": "https://www.bbc.com/news/articles/c30j94p56d6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-16T15:09:21",
+      "content": "The footprints date back some 210 million years and show traces of toes and claws."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Michigan Lawmakers Introduce Bill to Repeal Data Center Tax Incentives",
+      "description": "A bipartisan bill introduced Tuesday in the Michigan Legislature would repeal the state’s data center tax incentive laws, which, since their late 2024 approval, have helped attract over a dozen dat...",
+      "url": "https://insideclimatenews.org/news/16122025/michigan-lawmakers-introduce-bill-to-repeal-data-center-tax-incentives/",
+      "publishedAt": "2025-12-16T13:53:13",
+      "content": "A bipartisan bill introduced Tuesday in the Michigan Legislature would repeal the state’s data center tax incentive laws, which, since their late 2024 approval, have helped attract over a dozen dat..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Can a Flood-Prone Coastal City Learn to Live With Water?",
+      "description": "Shelton Tucker is part of a novel plan to deal with the waters that are increasingly encroaching on his neighborhood in Hampton, Virginia.",
+      "url": "https://insideclimatenews.org/news/16122025/flood-prone-hampton-virginia-coastal-water-plan/",
+      "publishedAt": "2025-12-16T09:55:00",
+      "content": "Shelton Tucker is part of a novel plan to deal with the waters that are increasingly encroaching on his neighborhood in Hampton, Virginia."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "After Hurricane Katrina, a New Orleans Architect Turned to the Dutch to Learn to Live With Water",
+      "description": "For years, David Waggonner designed courthouses and other public buildings at his architectural practice, Waggonner &#38; Ball, in New Orleans.",
+      "url": "https://insideclimatenews.org/news/16122025/new-orleans-architect-finds-dutch-answer-to-living-with-water/",
+      "publishedAt": "2025-12-16T09:50:00",
+      "content": "For years, David Waggonner designed courthouses and other public buildings at his architectural practice, Waggonner &#38; Ball, in New Orleans."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "This is another ‘ozone layer’ moment. Now, we must urgently target methane | Mia Mottley",
+      "description": "The oil and gas industry must be legally bound to cut methane emissions.",
+      "url": "https://www.theguardian.com/commentisfree/2025/dec/16/ozone-layer-moment-methane-emissions-oil-gas-industry-climate-tipping-points",
+      "publishedAt": "2025-12-16T08:00:15",
+      "content": "The oil and gas industry must be legally bound to cut methane emissions."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Workers were exposed to toxic chemicals in firefighting foam",
+      "description": "For decades it was 3M's biggest outside the US, and the factory made nappy fastenings and video tape.",
+      "url": "https://www.bbc.com/news/articles/cx2gdzl3lewo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-16T06:27:23",
+      "content": "For decades it was 3M's biggest outside the US, and the factory made nappy fastenings and video tape."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Guest Post – The Smartest Path to CDP Success: Reframe Your Score as A Catalyst for Action and Advantage",
+      "description": "By: Stephanie Gibbon and Tiana Nguyen &#8211; Schneider Electric Advisory Services It is rare to [&#8230;]",
+      "url": "https://www.esgtoday.com/guest-post-the-smartest-path-to-cdp-success-reframe-your-score-as-a-catalyst-for-action-and-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-the-smartest-path-to-cdp-success-reframe-your-score-as-a-catalyst-for-action-and-advantage",
+      "publishedAt": "2025-12-15T19:35:09",
+      "content": "By: Stephanie Gibbon and Tiana Nguyen &#8211; Schneider Electric Advisory Services It is rare to [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Glaciers to reach peak rate of extinction in the Alps in eight years",
+      "description": "Climate crisis forecast to wipe out thousands of glaciers a year globally, threatening water supplies and cultural heritageEurope live – latest updatesGlaciers in the European Alps are likely to re...",
+      "url": "https://www.theguardian.com/environment/2025/dec/15/alpine-glaciers-rate-extinction-climate-crisis",
+      "publishedAt": "2025-12-15T16:00:56",
+      "content": "Climate crisis forecast to wipe out thousands of glaciers a year globally, threatening water supplies and cultural heritageEurope live – latest updatesGlaciers in the European Alps are likely to re..."
     },
     {
       "source": {
@@ -246,25 +389,36 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Guardian"
       },
-      "author": "Sourcing Journal",
-      "title": "Is Garment Factory Safety in Bangladesh Backsliding?",
-      "description": "More than a decade after the collapse of Rana Plaza, a spate of recent tragedies and near-tragedies raises the question of whether Bangladesh can protect its workers.",
-      "url": "https://sourcingjournal.com/topics/labor/bangladesh-garment-worker-safety-fire-earthquake-1234794055/",
-      "publishedAt": "2025-12-15T23:57:18",
-      "content": "More than a decade after the collapse of Rana Plaza, a spate of recent tragedies and near-tragedies raises the question of whether Bangladesh can protect its workers."
+      "author": "The Guardian",
+      "title": "Country diary: Here’s the charm of the goldfinch – we want them to be near us | Mark Cocker",
+      "description": "Hogshaw, Derbyshire: They’re in our paintings, in our folklore.",
+      "url": "https://www.theguardian.com/environment/2025/dec/16/country-diary-heres-the-charm-of-the-goldfinch-we-want-them-to-be-near-us",
+      "publishedAt": "2025-12-16T05:30:12",
+      "content": "Hogshaw, Derbyshire: They’re in our paintings, in our folklore."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Ford Will Take $19.5 Billion Hit as It Rolls Back E.V. Plans",
-      "description": "Ford Motor said the costs came from its decision to make fewer electric vehicles than it had planned and more hybrids that use both gasoline engines and batteries.",
-      "url": "https://www.nytimes.com/2025/12/15/business/ford-electric-vehicles-hybrids.html",
-      "publishedAt": "2025-12-15T23:10:15",
-      "content": "Ford Motor said the costs came from its decision to make fewer electric vehicles than it had planned and more hybrids that use both gasoline engines and batteries."
+      "author": "The Guardian",
+      "title": "‘We hate it. It’s desecration’: the real cost of HS2",
+      "description": "Ten years after I first followed the proposed route, I retraced my steps to see what life was like along the world’s most expensive, heavily delayed railway lineTen years ago, I walked the route of...",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/dec/16/we-hate-it-its-desecration-the-real-cost-of-hs2",
+      "publishedAt": "2025-12-16T05:00:14",
+      "content": "Ten years after I first followed the proposed route, I retraced my steps to see what life was like along the world’s most expensive, heavily delayed railway lineTen years ago, I walked the route of..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Better Brand Edit: Top Rated Brands Making Chunky Knit Sweaters for Cosy Season",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/chunky-knit-sweaters/",
+      "publishedAt": "2025-12-15T23:00:09",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -279,83 +433,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Hotels on Grand Canyon’s South Rim to Reopen After Water Line Repairs",
-      "description": "The National Park Service said hotels on the South Rim could again welcome guests starting on Wednesday after repairs to a broken water pipeline.",
-      "url": "https://www.nytimes.com/2025/12/15/travel/grand-canyon-hotels-south-rim-open.html",
-      "publishedAt": "2025-12-15T20:25:41",
-      "content": "The National Park Service said hotels on the South Rim could again welcome guests starting on Wednesday after repairs to a broken water pipeline."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How the Pandemic Lockdowns Changed a Songbird’s Beak",
-      "description": "For ecologists, the Covid-19 pandemic has presented a remarkable natural experiment in what can happen to wild animals when humans stay home.",
-      "url": "https://www.nytimes.com/2025/12/15/science/covid-ecology-anthropause-birds.html",
-      "publishedAt": "2025-12-15T20:00:06",
-      "content": "For ecologists, the Covid-19 pandemic has presented a remarkable natural experiment in what can happen to wild animals when humans stay home."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Isko Luxury by PG Delivers Ecru and Military-Inspired Fabrics for S/S 2027",
-      "description": "The collection is structured into six capsules.",
-      "url": "https://sourcingjournal.com/denim/denim-mills/isko-luxury-by-pg-ecru-military-inspired-denim-2027-1234792945/",
-      "publishedAt": "2025-12-15T20:00:00",
-      "content": "The collection is structured into six capsules."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "MSC Emerges as ‘Leading Contender’ to Acquire ZIM, Report Says",
-      "description": "The world’s largest ocean carrier's reported bid would surpass that of Hapag-Lloyd—a bidder that ZIM's workers have spoken out against.",
-      "url": "https://sourcingjournal.com/topics/logistics/msc-zim-leading-contender-bid-hapag-lloyd-acquisition-takeover-israel-mediterranean-shipping-company-1234794026/",
-      "publishedAt": "2025-12-15T19:22:43",
-      "content": "The world’s largest ocean carrier's reported bid would surpass that of Hapag-Lloyd—a bidder that ZIM's workers have spoken out against."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "This Women’ Denim Brand Offers a Lifetime Guarantee on Jeans",
-      "description": "Jeans have proven to be timeless, but can they last a lifetime?",
-      "url": "https://sourcingjournal.com/denim/denim-brands/oliver-logan-denim-offers-lifetime-guarantee-jeans-1234792919/",
-      "publishedAt": "2025-12-15T17:08:00",
-      "content": "Jeans have proven to be timeless, but can they last a lifetime?"
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "The Denim Hot List",
-      "description": "From Mahmood to Beyoncé, meet this year’s top denim trendsetters.",
-      "url": "https://sourcingjournal.com/denim/denim-influencers/denim-hot-list-2025-celebrity-influencers-redefine-fashion-1234792554/",
-      "publishedAt": "2025-12-15T16:00:00",
-      "content": "From Mahmood to Beyoncé, meet this year’s top denim trendsetters."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I consider him my first son’: how living with a baby monkey taught me I’m ready to be a dad",
-      "description": "I went from selling flats in Paris to being alone in a cabin in Guinea looking after primates.",
-      "url": "https://www.theguardian.com/environment/2025/dec/15/baby-monkey-jungle-guinea-monkeys-aoe",
-      "publishedAt": "2025-12-15T10:00:30",
-      "content": "I went from selling flats in Paris to being alone in a cabin in Guinea looking after primates."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -367,17 +444,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Weather tracker: Bushfires ravage Western Australia as temperatures soar",
-      "description": "Extreme heat follows blazes in New South Wales, while winds plunge Brazil’s largest city into darknessExtreme heat and bushfires have ravaged the parched landscape of Western Australia. With temper...",
-      "url": "https://www.theguardian.com/environment/2025/dec/15/weather-tracker-bushfires-western-australia-temperatures",
-      "publishedAt": "2025-12-15T08:54:25",
-      "content": "Extreme heat follows blazes in New South Wales, while winds plunge Brazil’s largest city into darknessExtreme heat and bushfires have ravaged the parched landscape of Western Australia. With temper..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -386,94 +452,6 @@
       "url": "https://goodonyou.eco/convertible-reversible-clothing/",
       "publishedAt": "2025-12-14T23:00:29",
       "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Conservatives would end 2030 ban on new petrol and diesel cars",
-      "description": "Party would also abolish zero-emission vehicle mandate, cutting legal requirement on carmakers to sell EVsThe Conservatives have announced proposals to end the 2030 ban on new petrol and diesel car...",
-      "url": "https://www.theguardian.com/environment/2025/dec/14/conservatives-would-end-2030-ban-on-new-petrol-and-diesel-cars",
-      "publishedAt": "2025-12-14T22:00:13",
-      "content": "Party would also abolish zero-emission vehicle mandate, cutting legal requirement on carmakers to sell EVsThe Conservatives have announced proposals to end the 2030 ban on new petrol and diesel car..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Wyoming Ranchers Hoping Solar Can Lower Costs Say Utilities and the State Stand in Their Way",
-      "description": "COKEVILLE, Wyo.",
-      "url": "https://insideclimatenews.org/news/14122025/cokeville-wyoming-ranch-scale-solar/",
-      "publishedAt": "2025-12-14T10:00:00",
-      "content": "COKEVILLE, Wyo."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Where Does 110 Billion Pounds of Manure Go?",
-      "description": "Iowa raises about 23 million hogs each year.",
-      "url": "https://insideclimatenews.org/news/14122025/icn-sunday-morning-iowa-manure/",
-      "publishedAt": "2025-12-14T09:50:00",
-      "content": "Iowa raises about 23 million hogs each year."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Clean, Limitless Energy Exists. China Is Going Big in the Race to Harness It.",
-      "description": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization.",
-      "url": "https://www.nytimes.com/2025/12/13/climate/china-us-fusion-energy.html",
-      "publishedAt": "2025-12-13T10:00:12",
-      "content": "Beijing is pouring vast resources into fusion research, while the U.S. wants private industry to lead the way. The winner could reshape civilization."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Hundreds of Sea Turtles Are Freezing in Cape Cod",
-      "description": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m...",
-      "url": "https://insideclimatenews.org/news/13122025/sea-turtles-freezing-in-cape-cod/",
-      "publishedAt": "2025-12-13T10:00:00",
-      "content": "Over the last few weeks, volunteers have braved bitter winds and freezing temperatures to patrol Cape Cod’s bayside beaches at night, sweeping their flashlight beams along the last high-tide line m..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New York City’s Forests Are Ailing. New Funding May Get at the Root of the Problem",
-      "description": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat...",
-      "url": "https://insideclimatenews.org/news/13122025/new-york-city-forest-restoration-grants/",
-      "publishedAt": "2025-12-13T09:55:00",
-      "content": "The sound of cars zipping along a nearby highway faded to a low hum as Christian Murphy made his way through a narrow trail in a long-neglected section of Bronx Park. Murphy, the ecology and educat..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Holcim, 44.01 Launch Project to Capture and Mineralize CO2 From Cement Production",
-      "description": "Building materials company Holcim and carbon sequestration technology company 44.01 announced the launch of a [&#8230;]",
-      "url": "https://www.esgtoday.com/holcim-44-01-launch-project-to-capture-and-mineralize-co2-from-cement-production/?utm_source=rss&utm_medium=rss&utm_campaign=holcim-44-01-launch-project-to-capture-and-mineralize-co2-from-cement-production",
-      "publishedAt": "2025-12-12T14:04:42",
-      "content": "Building materials company Holcim and carbon sequestration technology company 44.01 announced the launch of a [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Telemedicine Turns The Tide For Women with Diabetes in Rural Zimbabwe",
-      "description": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit",
-      "url": "https://triplepundit.com/2025/telemedicine-zimbabwe-diabetes-treatment-zimsmart-villages/",
-      "publishedAt": "2025-12-11T17:19:42",
-      "content": "Rural telehealth facilities provide life-changing treatment for women battling diseases like diabetes in small towns across Zimbabwe where healthcare is otherwise inaccessible. TriplePundit"
     }
   ]
 }
