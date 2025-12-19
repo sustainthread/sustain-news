@@ -1013,31 +1013,18 @@
     <!-- Service Worker Registration -->
     <script>
         // Register service worker
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function() {
-                navigator.serviceWorker.register('/sw.js')
-                    .then(function(registration) {
-                        console.log('✅ ServiceWorker registered: ', registration.scope);
-                        
-                        // Check for updates
-                        registration.addEventListener('updatefound', () => {
-                            const newWorker = registration.installing;
-                            console.log('🔄 ServiceWorker update found!');
-                            
-                            newWorker.addEventListener('statechange', () => {
-                                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
-                                    console.log('📱 New content available; please refresh.');
-                                    // Optional: Show update notification
-                                    showUpdateNotification();
-                                }
-                            });
-                        });
-                    })
-                    .catch(function(err) {
-                        console.log('❌ ServiceWorker registration failed: ', err);
-                    });
-            });
-        }
+      if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    // Register from the current directory
+    navigator.serviceWorker.register('sw.js') // Changed from '/sw.js'
+      .then(function(registration) {
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      })
+      .catch(function(err) {
+        console.log('ServiceWorker registration failed: ', err);
+      });
+  });
+}
 
         // Install prompt for PWA
         let deferredPrompt;
