@@ -1084,6 +1084,142 @@
             // You could add a refresh banner here
             console.log('Update available - show refresh prompt');
         }
+           // ============ PWA INSTALLATION CODE ============
+        
+        // Install Button Element
+        const installButton = document.createElement('button');
+        installButton.id = 'installButton';
+        installButton.innerHTML = '📲 Install App';
+        installButton.style.cssText = `
+            display: none;
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #4CAF50;
+            color: white;
+            border: none;
+            padding: 12px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            z-index: 1000;
+            box-shadow: 0 4px 12px rgba(76, 175, 80, 0.3);
+            font-weight: bold;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        `;
+        document.body.appendChild(installButton);
+
+        // Install Prompt Handling
+        let deferredPrompt;
+        window.addEventListener('beforeinstallprompt', (e) => {
+            e.preventDefault();
+            deferredPrompt = e;
+            
+            // Show install button after 3 seconds
+            setTimeout(() => {
+                if (!window.matchMedia('(display-mode: standalone)').matches) {
+                    installButton.style.display = 'block';
+                    
+                    // Auto-hide after 15 seconds
+                    setTimeout(() => {
+                        installButton.style.display = 'none';
+                    }, 15000);
+                }
+            }, 3000);
+        });
+
+        // Install Button Click Handler
+        installButton.addEventListener('click', async () => {
+            if (!deferredPrompt) return;
+            
+            installButton.style.display = 'none';
+            deferredPrompt.prompt();
+            
+            const { outcome } = await deferredPrompt.userChoice;
+            console.log(`User ${outcome === 'accepted' ? 'accepted' : 'dismissed'} the install prompt`);
+            deferredPrompt = null;
+        });
+
+        // Service Worker Registration
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(registration => {
+                        console.log('✅ Service Worker registered:', registration.scope);
+                        
+                        // Check for updates
+                        registration.addEventListener('updatefound', () => {
+                            const newWorker = registration.installing;
+                            console.log('🔄 New service worker found!');
+                            
+                            newWorker.addEventListener('statechange', () => {
+                                if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+                                    showUpdateNotification();
+                                }
+                            });
+                        });
+                    })
+                    .catch(err => console.log('❌ Service Worker registration failed:', err));
+            });
+        }
+
+        // Update Notification
+        function showUpdateNotification() {
+            // Create update banner
+            const updateBanner = document.createElement('div');
+            updateBanner.innerHTML = `
+                <div style="
+                    position: fixed;
+                    top: 20px;
+                    left: 50%;
+                    transform: translateX(-50%);
+                    background: #2196F3;
+                    color: white;
+                    padding: 15px 20px;
+                    border-radius: 10px;
+                    box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+                    z-index: 1001;
+                    display: flex;
+                    align-items: center;
+                    gap: 15px;
+                    min-width: 300px;
+                    max-width: 90%;
+                ">
+                    <span>🔄 New version available!</span>
+                    <button onclick="window.location.reload()" style="
+                        background: white;
+                        color: #2196F3;
+                        border: none;
+                        padding: 8px 16px;
+                        border-radius: 5px;
+                        cursor: pointer;
+                        font-weight: bold;
+                    ">Refresh</button>
+                    <button onclick="this.parentElement.style.display='none'" style="
+                        background: transparent;
+                        color: white;
+                        border: none;
+                        font-size: 20px;
+                        cursor: pointer;
+                        margin-left: auto;
+                    ">×</button>
+                </div>
+            `;
+            document.body.appendChild(updateBanner.firstElementChild);
+            
+            // Auto-remove after 30 seconds
+            setTimeout(() => {
+                if (updateBanner.firstElementChild.parentElement) {
+                    updateBanner.firstElementChild.style.display = 'none';
+                }
+            }, 30000);
+        }
+
+        // Check if app is running in standalone mode
+        if (window.matchMedia('(display-mode: standalone)').matches) {
+            console.log('📱 Running in standalone PWA mode');
+        }
+        // ============ END PWA CODE ============
     </script>
 </body>
 </html>
