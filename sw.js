@@ -1,122 +1,93 @@
-const CACHE_NAME = 'sustain-news-v1';
-const STATIC_CACHE = 'static-v1';
-const DYNAMIC_CACHE = 'dynamic-v1';
+const CACHE_NAME = 'sustain-news-v2';
+const BASE_PATH = self.location.pathname.replace(/\/sw\.js$/, ''); // Dynamically gets /sustain-news/
 
-// Core files to cache immediately
-const STATIC_FILES = [
-  '/',
-  '/index.html',
-  '/favicon.ico',
-  '/favicon.svg',
-  '/favicon-96x96.png',
-  '/apple-touch-icon.png',
-  '/android-chrome-192x192.png',
-  '/android-chrome-512x512.png',
-  '/site.webmanifest',
-  '/news.json' // Your news data
+// Core app shell files to cache on install
+const APP_SHELL_FILES = [
+  BASE_PATH + '/',
+  BASE_PATH + '/index.html',
+  BASE_PATH + '/manifest.json',
+  BASE_PATH + '/site.webmanifest',
+  BASE_PATH + '/sw.js'
 ];
 
-// Install event - cache static files
-self.addEventListener('install', event => {
-  console.log('[Service Worker] Installing...');
-  
+// Install: Cache the app shell
+self.addEventListener('install', (event) => {
+  console.log('[Service Worker] Installing with base path:', BASE_PATH);
   event.waitUntil(
-    caches.open(STATIC_CACHE)
-      .then(cache => {
-        console.log('[Service Worker] Caching static files');
-        return cache.addAll(STATIC_FILES);
-      })
-      .then(() => self.skipWaiting())
+    caches.open(CACHE_NAME)
+      .then((cache) => cache.addAll(APP_SHELL_FILES))
+      .then(() => self.skipWaiting()) // Activate immediately
   );
 });
 
-// Activate event - clean up old caches
-self.addEventListener('activate', event => {
-  console.log('[Service Worker] Activating...');
-  
+// Activate: Clean up old caches
+self.addEventListener('activate', (event) => {
+  console.log('[Service Worker] Activating');
   event.waitUntil(
-    caches.keys().then(cacheNames => {
+    caches.keys().then((cacheNames) => {
       return Promise.all(
-        cacheNames.map(cacheName => {
-          if (cacheName !== STATIC_CACHE && cacheName !== DYNAMIC_CACHE) {
-            console.log('[Service Worker] Deleting old cache:', cacheName);
-            return caches.delete(cacheName);
+        cacheNames.map((cache) => {
+          if (cache !== CACHE_NAME) {
+            console.log('[Service Worker] Deleting old cache:', cache);
+            return caches.delete(cache);
           }
         })
       );
-    }).then(() => self.clients.claim())
+    }).then(() => self.clients.claim()) // Take control of all open pages
   );
 });
 
-// Fetch event - serve from cache, fallback to network
-self.addEventListener('fetch', event => {
-  // Skip non-GET requests and chrome-extension
-  if (event.request.method !== 'GET' || event.request.url.startsWith('chrome-extension://')) {
-    return;
-  }
+// Fetch: Serve from cache, fallback to network
+self.addEventListener('fetch', (event) => {
+  const requestUrl = new URL(event.request.url);
+
+  // Only handle requests from our origin (same site)
+  if (requestUrl.origin !== location.origin) return;
 
   event.respondWith(
-    caches.match(event.request)
-      .then(cachedResponse => {
-        // Return cached version if found
-        if (cachedResponse) {
-          return cachedResponse;
+    caches.match(event.request).then((cachedResponse) => {
+      // Return cached version if found
+      if (cachedResponse) {
+        // IMPORTANT: Always fetch and update news.json in the background
+        if (event.request.url.includes('news.json')) {
+          fetchAndCacheNews(event.request);
+        }
+        return cachedResponse;
+      }
+
+      // Not in cache? Fetch from network.
+      return fetch(event.request).then((networkResponse) => {
+        // Check if we received a valid response
+        if (!networkResponse || networkResponse.status !== 200) {
+          return networkResponse;
         }
 
-        // Clone the request for network fallback
-        const fetchRequest = event.request.clone();
+        // Clone the response and cache it for future visits
+        const responseToCache = networkResponse.clone();
+        caches.open(CACHE_NAME).then((cache) => {
+          cache.put(event.request, responseToCache);
+        });
 
-        return fetch(fetchRequest)
-          .then(response => {
-            // Check if valid response
-            if (!response || response.status !== 200 || response.type !== 'basic') {
-              return response;
-            }
-
-            // Clone response for cache
-            const responseToCache = response.clone();
-
-            // Cache dynamic responses (like news.json updates)
-            if (event.request.url.includes('news.json') || 
-                event.request.url.includes('news_raw.json')) {
-              caches.open(DYNAMIC_CACHE)
-                .then(cache => {
-                  cache.put(event.request, responseToCache);
-                });
-            }
-
-            return response;
-          })
-          .catch(error => {
-            console.log('[Service Worker] Fetch failed:', error);
-            // For HTML requests, return offline page
-            if (event.request.headers.get('accept').includes('text/html')) {
-              return caches.match('/index.html');
-            }
-          });
-      })
+        return networkResponse;
+      }).catch(() => {
+        // If both cache and network fail, provide a fallback for HTML
+        if (event.request.headers.get('accept').includes('text/html')) {
+          return caches.match(BASE_PATH + '/index.html');
+        }
+        // Could return an offline page here in the future
+      });
+    })
   );
 });
 
-// Background sync for news updates
-self.addEventListener('sync', event => {
-  if (event.tag === 'sync-news') {
-    console.log('[Service Worker] Background sync for news');
-    event.waitUntil(syncNews());
-  }
-});
-
-async function syncNews() {
-  try {
-    const response = await fetch('/news.json');
-    const data = await response.json();
-    
-    // Update cache with new news
-    const cache = await caches.open(DYNAMIC_CACHE);
-    await cache.put('/news.json', new Response(JSON.stringify(data)));
-    
-    console.log('[Service Worker] News updated via background sync');
-  } catch (error) {
-    console.error('[Service Worker] Sync failed:', error);
-  }
+// Helper function to update news cache in the background
+function fetchAndCacheNews(newsRequest) {
+  fetch(newsRequest).then((response) => {
+    if (response.ok) {
+      caches.open(CACHE_NAME).then((cache) => {
+        cache.put(newsRequest, response);
+        console.log('[Service Worker] News data updated in cache.');
+      });
+    }
+  });
 }
