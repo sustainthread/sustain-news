@@ -1,93 +1,58 @@
-const CACHE_NAME = 'sustain-news-v2';
-const BASE_PATH = self.location.pathname.replace(/\/sw\.js$/, ''); // Dynamically gets /sustain-news/
-
-// Core app shell files to cache on install
-const APP_SHELL_FILES = [
-  BASE_PATH + '/',
-  BASE_PATH + '/index.html',
-  BASE_PATH + '/manifest.json',
-  BASE_PATH + '/site.webmanifest',
-  BASE_PATH + '/sw.js'
+// sw.js - Service Worker for Sustain News
+const CACHE_NAME = 'sustain-news-v1';
+const urlsToCache = [
+  './',
+  './index.html',
+  './news.json',
+  './favicon.ico',
+  './favicon-96x96.png',
+  './favicon.svg',
+  './apple-touch-icon.png',
+  './android-chrome-192x192.png',
+  './android-chrome-512x512.png',
+  'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css',
+  'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css',
+  'https://code.jquery.com/jquery-3.6.0.min.js',
+  'https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js'
 ];
 
-// Install: Cache the app shell
-self.addEventListener('install', (event) => {
-  console.log('[Service Worker] Installing with base path:', BASE_PATH);
+// Install event - cache assets
+self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
-      .then((cache) => cache.addAll(APP_SHELL_FILES))
-      .then(() => self.skipWaiting()) // Activate immediately
+      .then(cache => {
+        console.log('Opened cache');
+        return cache.addAll(urlsToCache);
+      })
   );
 });
 
-// Activate: Clean up old caches
-self.addEventListener('activate', (event) => {
-  console.log('[Service Worker] Activating');
+// Fetch event - serve from cache if available
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request)
+      .then(response => {
+        // Cache hit - return response
+        if (response) {
+          return response;
+        }
+        return fetch(event.request);
+      })
+  );
+});
+
+// Activate event - clean up old caches
+self.addEventListener('activate', event => {
+  const cacheWhitelist = [CACHE_NAME];
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
+    caches.keys().then(cacheNames => {
       return Promise.all(
-        cacheNames.map((cache) => {
-          if (cache !== CACHE_NAME) {
-            console.log('[Service Worker] Deleting old cache:', cache);
-            return caches.delete(cache);
+        cacheNames.map(cacheName => {
+          if (cacheWhitelist.indexOf(cacheName) === -1) {
+            return caches.delete(cacheName);
           }
         })
       );
-    }).then(() => self.clients.claim()) // Take control of all open pages
-  );
-});
-
-// Fetch: Serve from cache, fallback to network
-self.addEventListener('fetch', (event) => {
-  const requestUrl = new URL(event.request.url);
-
-  // Only handle requests from our origin (same site)
-  if (requestUrl.origin !== location.origin) return;
-
-  event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      // Return cached version if found
-      if (cachedResponse) {
-        // IMPORTANT: Always fetch and update news.json in the background
-        if (event.request.url.includes('news.json')) {
-          fetchAndCacheNews(event.request);
-        }
-        return cachedResponse;
-      }
-
-      // Not in cache? Fetch from network.
-      return fetch(event.request).then((networkResponse) => {
-        // Check if we received a valid response
-        if (!networkResponse || networkResponse.status !== 200) {
-          return networkResponse;
-        }
-
-        // Clone the response and cache it for future visits
-        const responseToCache = networkResponse.clone();
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, responseToCache);
-        });
-
-        return networkResponse;
-      }).catch(() => {
-        // If both cache and network fail, provide a fallback for HTML
-        if (event.request.headers.get('accept').includes('text/html')) {
-          return caches.match(BASE_PATH + '/index.html');
-        }
-        // Could return an offline page here in the future
-      });
     })
   );
 });
-
-// Helper function to update news cache in the background
-function fetchAndCacheNews(newsRequest) {
-  fetch(newsRequest).then((response) => {
-    if (response.ok) {
-      caches.open(CACHE_NAME).then((cache) => {
-        cache.put(newsRequest, response);
-        console.log('[Service Worker] News data updated in cache.');
-      });
-    }
-  });
-}
