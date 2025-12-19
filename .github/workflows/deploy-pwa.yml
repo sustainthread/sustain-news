@@ -1,0 +1,32 @@
+name: Update PWA Cache Version
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 0'  # Run weekly on Sunday at midnight
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Update Cache Version
+      run: |
+        # Generate new cache version with timestamp
+        NEW_VERSION="v$(date +%s)"
+        
+        # Update sw.js with new version
+        sed -i "s/const CACHE_VERSION = 'v[0-9.]*'/const CACHE_VERSION = '$NEW_VERSION'/" sw.js
+        sed -i "s/const STATIC_CACHE = \`static-[^}]*\`/const STATIC_CACHE = \`static-\${CACHE_VERSION}\`/" sw.js
+        sed -i "s/const DYNAMIC_CACHE = \`dynamic-[^}]*\`/const DYNAMIC_CACHE = \`dynamic-\${CACHE_VERSION}\`/" sw.js
+        
+        # Commit changes
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add sw.js
+        git commit -m "🔄 Update PWA cache version to $NEW_VERSION" || echo "No changes to commit"
+        git push
