@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 54,
   "articles": [
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "China’s Clean Energy Investments Abroad Are a Boon for Climate, but Human Rights and the Environment Are a Different Story",
-      "description": "Planet China: Twelfth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world.",
-      "url": "https://insideclimatenews.org/news/17122025/china-oversea-clean-energy-investments/",
-      "publishedAt": "2025-12-17T10:00:00",
-      "content": "Planet China: Twelfth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world."
+      "author": "CSRWire",
+      "title": "PBF Energy Releases 2025 TCFD Report",
+      "description": "PBF Energy Inc. (NYSE:PBF) announces the release of its 2025 Task Force on Climate-related Financial Disclosures (TCFD) Report.",
+      "url": "https://csrwire.com/press-release/pbf-energy-releases-2025-tcfd-report/",
+      "publishedAt": "2025-12-19T08:30:00",
+      "content": "PBF Energy Inc. (NYSE:PBF) announces the release of its 2025 Task Force on Climate-related Financial Disclosures (TCFD) Report."
     },
     {
       "source": {
@@ -26,14 +26,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "SPEED Act Passes in House Despite Changes That Threaten Clean Power Projects",
-      "description": "The House of Representatives cleared the way for a massive overhaul of the federal environmental review process on Thursday, despite last-minute changes that led clean energy groups and moderate De...",
-      "url": "https://insideclimatenews.org/news/18122025/speed-act-passes-in-house-threatens-clean-power-projects/",
-      "publishedAt": "2025-12-19T00:25:14",
-      "content": "The House of Representatives cleared the way for a massive overhaul of the federal environmental review process on Thursday, despite last-minute changes that led clean energy groups and moderate De..."
+      "author": "ESG Today",
+      "title": "Canada to Launch Sustainable Investment Taxonomy in 2026",
+      "description": "The Government of Canada announced the appointment of the Canadian Climate Institute to lead the [&#8230;]",
+      "url": "https://www.esgtoday.com/canada-to-launch-sustainable-investment-taxonomy-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=canada-to-launch-sustainable-investment-taxonomy-in-2026",
+      "publishedAt": "2025-12-19T10:11:08",
+      "content": "The Government of Canada announced the appointment of the Canadian Climate Institute to lead the [&#8230;]"
     },
     {
       "source": {
@@ -48,6 +48,39 @@
     },
     {
       "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Can Textile Recycling Work at Scale? Loom Carbon Wants to Find Out",
+      "description": "A new partnership with RTI International will stress-test Loom’s thermal recycling system on blended and contaminated textile waste.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/textile-recycling-work-at-scale-loom-carbon-rti-1234794281/",
+      "publishedAt": "2025-12-19T19:50:00",
+      "content": "A new partnership with RTI International will stress-test Loom’s thermal recycling system on blended and contaminated textile waste."
+    },
+    {
+      "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "AI data centres could have a carbon footprint that matches small European country, new study finds",
+      "description": "AI systems could produce 80 million tons of CO₂ in 2025 and as much water as the world’s bottled water industry. But it’s hard to measure as tech companies do not release all of the details.",
+      "url": "http://www.euronews.com/next/2025/12/20/ai-data-centres-could-have-a-carbon-footprint-that-matches-small-european-country-new-stud",
+      "publishedAt": "2025-12-20T06:01:18",
+      "content": "AI systems could produce 80 million tons of CO₂ in 2025 and as much water as the world’s bottled water industry. But it’s hard to measure as tech companies do not release all of the details."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Opinion: What Climate Professionals Must Learn from California’s Disclosure Rule Setback",
+      "description": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit",
+      "url": "https://triplepundit.com/2025/sb-261-california-climate-disclosure-litigation/",
+      "publishedAt": "2025-12-19T16:27:49",
+      "content": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit"
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -59,14 +92,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "BBC"
       },
-      "author": "New York Times",
-      "title": "U.S. Is Seeking Exemption From a European Climate Law, Officials Say",
-      "description": "Diplomats told E.U. officials that the bloc’s law on methane, a potent greenhouse gas, would hurt American oil and gas companies.",
-      "url": "https://www.nytimes.com/2025/12/16/climate/trump-europe-methane-rules.html",
-      "publishedAt": "2025-12-17T01:09:13",
-      "content": "Diplomats told E.U. officials that the bloc’s law on methane, a potent greenhouse gas, would hurt American oil and gas companies."
+      "author": "BBC",
+      "title": "Spain's commitment to renewable energy may be in doubt",
+      "description": "The current government is politically weakened and the opposition wants more use of fossil fuels.",
+      "url": "https://www.bbc.com/news/articles/cn410nll79po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-15T00:02:06",
+      "content": "The current government is politically weakened and the opposition wants more use of fossil fuels."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "As the US invests in fossil fuels, young climate activists push back in the courts",
+      "description": "In this week’s newsletter: A generation is using the legal system to demand accountability for climate harm• Don’t get Down to Earth delivered to your inbox? Sign up hereRikki Held grew up on her f...",
+      "url": "https://www.theguardian.com/environment/2025/dec/18/as-the-us-invests-in-fossil-fuels-young-climate-activists-push-back-in-the-courts",
+      "publishedAt": "2025-12-19T07:00:57",
+      "content": "In this week’s newsletter: A generation is using the legal system to demand accountability for climate harm• Don’t get Down to Earth delivered to your inbox? Sign up hereRikki Held grew up on her f..."
     },
     {
       "source": {
@@ -92,17 +136,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "FedEx Employees Lead Cleanups Across Japan, Giving Back to Local Communities for a Cleaner, Greener Future",
-      "description": "Federal Express Corporation (FedEx), one of the world&#x2019;s largest express transportation companies, has completed a series of employee-led community cleanups, collectively removing approximate...",
-      "url": "https://csrwire.com/press-release/fedex-employees-lead-cleanups-across-japan-giving-back-local-communities-cleaner-greener/",
-      "publishedAt": "2025-12-18T11:00:00",
-      "content": "Federal Express Corporation (FedEx), one of the world&#x2019;s largest express transportation companies, has completed a series of employee-led community cleanups, collectively removing approximate..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -114,14 +147,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Spain's commitment to renewable energy may be in doubt",
-      "description": "The current government is politically weakened and the opposition wants more use of fossil fuels.",
-      "url": "https://www.bbc.com/news/articles/cn410nll79po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-15T00:02:06",
-      "content": "The current government is politically weakened and the opposition wants more use of fossil fuels."
+      "author": "CSRWire",
+      "title": "Reduce. Reuse. Recycle. Reinvest in PSEG's Communities",
+      "description": "We believe that doing what&#x2019;s right means caring for both the environment and the communities we serve.",
+      "url": "https://csrwire.com/press-release/reduce-reuse-recycle-reinvest-psegs-communities/",
+      "publishedAt": "2025-12-19T08:35:00",
+      "content": "We believe that doing what&#x2019;s right means caring for both the environment and the communities we serve."
     },
     {
       "source": {
@@ -136,25 +169,14 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "New York Times"
       },
-      "author": "Sourcing Journal",
-      "title": "Year in Review: Fibers Advance Sustainable Innovation in Denim",
-      "description": "In 2025, fibers were central to sustainable progress.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/year-in-review-fibers-advance-sustainable-innovation-denim-1234792715/",
-      "publishedAt": "2025-12-18T18:00:00",
-      "content": "In 2025, fibers were central to sustainable progress."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Nordea AM Appoints 2 New Portfolio Managers for Sustainable Investing Team",
-      "description": "Northern Europe-based asset manager Nordea Asset Management (NAM) announced the appointment of Kasper From Larsen [&#8230;]",
-      "url": "https://www.esgtoday.com/nordea-am-appoints-2-new-portfolio-managers-for-sustainable-investing-team/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-am-appoints-2-new-portfolio-managers-for-sustainable-investing-team",
-      "publishedAt": "2025-12-17T15:04:04",
-      "content": "Northern Europe-based asset manager Nordea Asset Management (NAM) announced the appointment of Kasper From Larsen [&#8230;]"
+      "author": "New York Times",
+      "title": "Greenpeace’s Fight With Pipeline Giant Exposes a Legal Loophole",
+      "description": "A court filing by a group with deep ties to the pipeline company Energy Transfer raises questions about the growing use of amicus briefs in litigation.",
+      "url": "https://www.nytimes.com/2025/12/17/climate/greenpeaces-fight-with-pipeline-giant-exposes-a-legal-loophole.html",
+      "publishedAt": "2025-12-17T17:25:28",
+      "content": "A court filing by a group with deep ties to the pipeline company Energy Transfer raises questions about the growing use of amicus briefs in litigation."
     },
     {
       "source": {
@@ -169,6 +191,83 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Controversial Dakota Pipeline Gets a Big, Belated Government Boost",
+      "description": "A delayed environmental review cleared the Dakota Access Pipeline to continue operating. Separately, a North Dakota judge expressed unusual exasperation over the tangled legal battles.",
+      "url": "https://www.nytimes.com/2025/12/19/climate/dakota-access-pipeline-greenpeace-energy-transfer-army-corps.html",
+      "publishedAt": "2025-12-19T23:39:56",
+      "content": "A delayed environmental review cleared the Dakota Access Pipeline to continue operating. Separately, a North Dakota judge expressed unusual exasperation over the tangled legal battles."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The World’s Last Flock of Wild Whooping Cranes Gets More Living Space",
+      "description": "On an isolated stretch of Texas coastline, conservation groups have acquired more than 3,000 acres of nearly pristine prairie to preserve as habitat for endangered whooping cranes, one of the rares...",
+      "url": "https://insideclimatenews.org/news/19122025/the-worlds-last-flock-of-wild-whooping-cranes-gets-more-living-space/",
+      "publishedAt": "2025-12-19T23:37:57",
+      "content": "On an isolated stretch of Texas coastline, conservation groups have acquired more than 3,000 acres of nearly pristine prairie to preserve as habitat for endangered whooping cranes, one of the rares..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Diane Wilson Takes on Another Plastics Plant in Texas",
+      "description": "Diane Wilson, the prominent Gulf Coast environmentalist, filed a legal notice of intent on Wednesday to sue Dow for alleged large-scale discharges of plastic pellets from its 4,700-acre petrochemic...",
+      "url": "https://insideclimatenews.org/news/19122025/diane-wilson-takes-on-another-plastics-plant-in-texas/",
+      "publishedAt": "2025-12-19T20:38:59",
+      "content": "Diane Wilson, the prominent Gulf Coast environmentalist, filed a legal notice of intent on Wednesday to sue Dow for alleged large-scale discharges of plastic pellets from its 4,700-acre petrochemic..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Council Adopts Revised EUDR, Marking Final Step in Delay of Supply Chain Deforestation Law",
+      "description": "Member states in the European Council announced on Thursday that they have formally adopted amendments [&#8230;]",
+      "url": "https://www.esgtoday.com/eu-council-adopts-revised-eudr-marking-final-step-in-delay-of-supply-chain-deforestation-law/?utm_source=rss&utm_medium=rss&utm_campaign=eu-council-adopts-revised-eudr-marking-final-step-in-delay-of-supply-chain-deforestation-law",
+      "publishedAt": "2025-12-19T12:44:01",
+      "content": "Member states in the European Council announced on Thursday that they have formally adopted amendments [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Parents Can Boost Their Child’s Skills for the AI Age With Everyday Play",
+      "description": "As society evolves in step with rapid advancements in artificial intelligence (AI), computational thinking skills are gaining more attention as an important driver of future career success.",
+      "url": "https://csrwire.com/press-release/how-parents-can-boost-their-childs-skills-ai-age-everyday-play/",
+      "publishedAt": "2025-12-19T11:45:00",
+      "content": "As society evolves in step with rapid advancements in artificial intelligence (AI), computational thinking skills are gaining more attention as an important driver of future career success."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Medtronic Brought Darüşşafaka Students Together With Health Technologies",
+      "description": "At the Medtronic Innovation Center in Istanbul, students and company volunteers came together in an event by Medtronic Spark.",
+      "url": "https://csrwire.com/press-release/medtronic-brought-darussafaka-students-together-health-technologies/",
+      "publishedAt": "2025-12-19T11:35:00",
+      "content": "At the Medtronic Innovation Center in Istanbul, students and company volunteers came together in an event by Medtronic Spark."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy New Orleans Spreads Holiday Joy to Customers at Secret Santa Event by Covering Their Bills",
+      "description": "For the past decade, Entergy New Orleans has hosted its annual Operation Secret Santa event for our customers visiting the Canal Street Customer Care Center for billing assistance.",
+      "url": "https://csrwire.com/press-release/entergy-new-orleans-spreads-holiday-joy-customers-secret-santa-event-covering-their-bills/",
+      "publishedAt": "2025-12-19T10:00:00",
+      "content": "For the past decade, Entergy New Orleans has hosted its annual Operation Secret Santa event for our customers visiting the Canal Street Customer Care Center for billing assistance."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -180,14 +279,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "Greenpeace’s Fight With Pipeline Giant Exposes a Legal Loophole",
-      "description": "A court filing by a group with deep ties to the pipeline company Energy Transfer raises questions about the growing use of amicus briefs in litigation.",
-      "url": "https://www.nytimes.com/2025/12/17/climate/greenpeaces-fight-with-pipeline-giant-exposes-a-legal-loophole.html",
-      "publishedAt": "2025-12-17T17:25:28",
-      "content": "A court filing by a group with deep ties to the pipeline company Energy Transfer raises questions about the growing use of amicus briefs in litigation."
+      "author": "Triple Pundit",
+      "title": "What Is “Crocodile Economics,” and What Does It Mean for Fossil Fuels?",
+      "description": "The past 12 months have been harsh on climate advocates.",
+      "url": "https://triplepundit.com/2025/crocodile-economics-decoupling-emissions-growth/",
+      "publishedAt": "2025-12-17T18:26:19",
+      "content": "The past 12 months have been harsh on climate advocates."
     },
     {
       "source": {
@@ -213,25 +312,146 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "New York Times"
       },
-      "author": "Triple Pundit",
-      "title": "Loaf and Lager: The Climate Potential of Brewing With Bread",
-      "description": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit",
-      "url": "https://triplepundit.com/2025/toast-brewing-food-waste-surplus-bread-beer/",
-      "publishedAt": "2025-12-12T13:00:00",
-      "content": "U.K.-based Toast Brewing brings a whole new meaning to liquid bread, incorporating surplus bread from bakeries and sandwich makers into every one of its beers. TriplePundit"
+      "author": "New York Times",
+      "title": "Hochul Repeals Rule Allowing New Customers Free Gas Hookups",
+      "description": "Gov. Kathy Hochul struck down a decades-old provision that raised gas bills for millions of New Yorkers. The move could help curb the use of fossil fuels.",
+      "url": "https://www.nytimes.com/2025/12/19/nyregion/hochul-gas-hookups-rule-repeal.html",
+      "publishedAt": "2025-12-20T00:26:10",
+      "content": "Gov. Kathy Hochul struck down a decades-old provision that raised gas bills for millions of New Yorkers. The move could help curb the use of fossil fuels."
     },
     {
       "source": {
-        "name": "Al Jazeera"
+        "name": "Sourcing Journal"
       },
-      "author": "Al Jazeera",
-      "title": "Norway’s green transition is putting Sami culture at risk",
-      "description": "Wind farm expansion is threatening Sami land rights, livelihoods and an Indigenous way of life.",
-      "url": "https://www.aljazeera.com/opinions/2025/12/19/norways-green-transition-is-putting-sami-culture-at-risk?traffic_source=rss",
-      "publishedAt": "2025-12-19T05:15:40",
-      "content": "Wind farm expansion is threatening Sami land rights, livelihoods and an Indigenous way of life."
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Ganni Grows Exec Committee, Freightos Founder Exits",
+      "description": "Ganni has named three execs amid the Danish label’s global growth while Freightos founder and CEO Zvi Schreiber begins succession process.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-ganni-freightos-poshmark-1234794291/",
+      "publishedAt": "2025-12-19T21:30:00",
+      "content": "Ganni has named three execs amid the Danish label’s global growth while Freightos founder and CEO Zvi Schreiber begins succession process."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Union Pacific, Norfolk Southern File Merger Application as Teamsters Object",
+      "description": "In their filing with the STB, the railroads said a merger would convert more than 2 million truckloads of traffic to rail annually.",
+      "url": "https://sourcingjournal.com/topics/logistics/union-pacific-norfolk-southern-merger-application-filing-teamsters-unions-enhance-competition-railroads-rail-1234794306/",
+      "publishedAt": "2025-12-19T21:25:48",
+      "content": "In their filing with the STB, the railroads said a merger would convert more than 2 million truckloads of traffic to rail annually."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Texas Power Grid Will Get a Boost from Batteries This Winter",
+      "description": "Even with less available electric power capacity during cold weather in Texas, battery storage systems are reducing the risk of power outages this winter, the Electric Reliability Council of Texas ...",
+      "url": "https://insideclimatenews.org/news/19122025/the-texas-power-grid-will-get-a-boost-from-batteries-this-winter/",
+      "publishedAt": "2025-12-19T17:48:28",
+      "content": "Even with less available electric power capacity during cold weather in Texas, battery storage systems are reducing the risk of power outages this winter, the Electric Reliability Council of Texas ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A River That Millions Rely on for Water Is on the Brink. A Deal to Save It Isn’t.",
+      "description": "LAS VEGAS—The Colorado River Basin is, quite literally, 50 feet away from collapse, and an agreement to save it is nowhere in sight.",
+      "url": "https://insideclimatenews.org/news/19122025/negotiators-remain-stuck-at-colorado-river-users-summit/",
+      "publishedAt": "2025-12-19T17:38:36",
+      "content": "LAS VEGAS—The Colorado River Basin is, quite literally, 50 feet away from collapse, and an agreement to save it is nowhere in sight."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "U.S. Company Releasing Unauthorized Emissions From Peru LNG Terminal",
+      "description": "This story was originally published by Convoca, an investigative newsroom in Peru, in partnership with the research group Point Source.",
+      "url": "https://insideclimatenews.org/news/19122025/u-s-company-releasing-unauthorized-emissions-from-peru-lng-terminal/",
+      "publishedAt": "2025-12-19T17:24:51",
+      "content": "This story was originally published by Convoca, an investigative newsroom in Peru, in partnership with the research group Point Source."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "FedEx Lifts Outlook Despite $175M Headwinds From MD-11 Grounding",
+      "description": "Stronger domestic volumes and pricing offset air fleet disruptions and elevated spinoff costs at FedEx Freight as the carrier reshapes its global air network.",
+      "url": "https://sourcingjournal.com/topics/logistics/fedex-lifts-fy26-outlook-175-million-headwinds-md-11-grounding-air-freight-domestic-volumes-trucking-ltl-aircraft-1234794276/",
+      "publishedAt": "2025-12-19T16:41:06",
+      "content": "Stronger domestic volumes and pricing offset air fleet disruptions and elevated spinoff costs at FedEx Freight as the carrier reshapes its global air network."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Year in Review: Heritage Denim Back in the Zeitgeist",
+      "description": "Several forces propelled denim and its American roots into the spotlight in 2025.",
+      "url": "https://sourcingjournal.com/denim/denim-business/heritage-denim-back-in-the-zeitgeist-selvedge-looms-1234792231/",
+      "publishedAt": "2025-12-19T16:01:52",
+      "content": "Several forces propelled denim and its American roots into the spotlight in 2025."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Seaweed Startup Snags $16M Series A to Rethink Plastic",
+      "description": "Australian materials science firm Uluu eyes commercial-scale facility for seaweed bio-plastics with $16 million Series A raise.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/seaweed-startup-uluu-16m-series-rethink-plastic-and-scale-1234794234/",
+      "publishedAt": "2025-12-19T15:08:00",
+      "content": "Australian materials science firm Uluu eyes commercial-scale facility for seaweed bio-plastics with $16 million Series A raise."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Radiator rattling’ earthquake hits Lancashire village for second time in two weeks",
+      "description": "People of Silverdale report rattling and shaking as 2.",
+      "url": "https://www.theguardian.com/world/2025/dec/19/earthquake-hits-lancashire-village-silverdale-second-time-two-weeks",
+      "publishedAt": "2025-12-19T14:47:05",
+      "content": "People of Silverdale report rattling and shaking as 2."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Tracking Oil and Gas Waste in Pennsylvania Is Still a ‘Logistical Mess’",
+      "description": "Fracking’s Forever Problem: Sixth in a series about the gas industry’s radioactive waste.",
+      "url": "https://insideclimatenews.org/news/19122025/pennsylvania-oil-and-gas-waste-tracking-logistical-mess/",
+      "publishedAt": "2025-12-19T10:00:00",
+      "content": "Fracking’s Forever Problem: Sixth in a series about the gas industry’s radioactive waste."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maine’s Once Abundant Kelp Forests Face an Array of Growing Threats",
+      "description": "Shane Farrell has spent the better part of the last three years underwater, diving off the coast of Maine.",
+      "url": "https://insideclimatenews.org/news/19122025/maine-kelp-forests-face-growing-threats/",
+      "publishedAt": "2025-12-19T09:55:00",
+      "content": "Shane Farrell has spent the better part of the last three years underwater, diving off the coast of Maine."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘I can’t think of a place more pristine’: 133,000 hectares of Chilean Patagonia preserved after local fundraising",
+      "description": "Exclusive: Ancient forests and turquoise rivers of the Cochamó Valley protected from logging, damming and developmentA wild valley in Chilean Patagonia has been preserved for future generations and...",
+      "url": "https://www.theguardian.com/world/2025/dec/19/i-cant-think-of-a-place-more-pristine-133000-hectares-of-chilean-patagonia-preserved-after-local-fundraising",
+      "publishedAt": "2025-12-19T09:00:01",
+      "content": "Exclusive: Ancient forests and turquoise rivers of the Cochamó Valley protected from logging, damming and developmentA wild valley in Chilean Patagonia has been preserved for future generations and..."
     },
     {
       "source": {
@@ -243,17 +463,6 @@
       "url": "https://csrwire.com/press-release/new-holland-marks-130-year-milestone-inaugural-new-holland-day-thailand/",
       "publishedAt": "2025-12-18T16:00:00",
       "content": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How Do Rooftop Solar and EVs Affect Electricity Costs for Everyone Else? Here’s a New Estimate",
-      "description": "One of the most divisive topics among environmental advocates and researchers is the claim that the growth of rooftop solar leads to a concerning transfer of costs from households that have solar t...",
-      "url": "https://insideclimatenews.org/news/18122025/inside-clean-energy-rooftop-solar-electricity-rates/",
-      "publishedAt": "2025-12-18T14:00:00",
-      "content": "One of the most divisive topics among environmental advocates and researchers is the claim that the growth of rooftop solar leads to a concerning transfer of costs from households that have solar t..."
     },
     {
       "source": {
@@ -279,149 +488,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ray of Hope Gallery 2025: Ten Nature-Inspired Innovations Now Live on AskNature",
-      "description": "The 2025 Ray of Hope Gallery is now live on AskNature.",
-      "url": "https://csrwire.com/press-release/ray-hope-gallery-2025-ten-nature-inspired-innovations-now-live-asknature/",
-      "publishedAt": "2025-12-18T09:40:00",
-      "content": "The 2025 Ray of Hope Gallery is now live on AskNature."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "What Is “Crocodile Economics,” and What Does It Mean for Fossil Fuels?",
-      "description": "The past 12 months have been harsh on climate advocates.",
-      "url": "https://triplepundit.com/2025/crocodile-economics-decoupling-emissions-growth/",
-      "publishedAt": "2025-12-17T18:26:19",
-      "content": "The past 12 months have been harsh on climate advocates."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How we hold back the tide: levees, drains and a bronze age circle of skulls",
-      "description": "Were children’s bones found at the edge of European lake settlements an attempt to appease water gods?Flood protection takes many forms, from the levees of Louisiana to the drains of East Anglia. S...",
-      "url": "https://www.theguardian.com/news/2025/dec/19/how-we-hold-back-the-tide-levees-drains-bronze-age-circle-skulls",
-      "publishedAt": "2025-12-19T06:00:56",
-      "content": "Were children’s bones found at the edge of European lake settlements an attempt to appease water gods?Flood protection takes many forms, from the levees of Louisiana to the drains of East Anglia. S..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Massachusetts Battery Start-Up to List on Stock Exchange",
-      "description": "Factorial, the start-up, said the listing would provide money that would help it bring new solid-state batteries to market as soon as 2027.",
-      "url": "https://www.nytimes.com/2025/12/18/business/energy-environment/factorial-electric-vehicle-battery-spac.html",
-      "publishedAt": "2025-12-18T23:14:07",
-      "content": "Factorial, the start-up, said the listing would provide money that would help it bring new solid-state batteries to market as soon as 2027."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Birla Cellulose Backs Circulose to Advance Circular Textiles",
-      "description": "Days after Circulose added a slew of brand partners to its stable, Birla Cellulose joins the fold as the Swedish company continues its push to scale.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/birla-cellulose-circulose-advance-circular-textiles-1234794250/",
-      "publishedAt": "2025-12-18T22:12:09",
-      "content": "Days after Circulose added a slew of brand partners to its stable, Birla Cellulose joins the fold as the Swedish company continues its push to scale."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Lever Style to Acquire Active Apparel Group",
-      "description": "Lever Style manufactures apparel across a number of categories, including activewear and performance apparel.",
-      "url": "https://sourcingjournal.com/topics/sourcing/lever-style-acquire-active-apparel-group-1234794235/",
-      "publishedAt": "2025-12-18T21:07:47",
-      "content": "Lever Style manufactures apparel across a number of categories, including activewear and performance apparel."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Material World: Spinnova Cultivates Consortium, GFA’s Next Next-Gen Assembly",
-      "description": "Fashion for Good backs Spinnova to build an ecosystem scaling the Finnish firm’s fiber tech while GFA opened applications for Next Gen Assembly 2026.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-spinnova-consortium-gfa-next-gen-assembly-1234794220/",
-      "publishedAt": "2025-12-18T20:39:00",
-      "content": "Fashion for Good backs Spinnova to build an ecosystem scaling the Finnish firm’s fiber tech while GFA opened applications for Next Gen Assembly 2026."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "BP Names New Boss After Its C.E.O. Steps Down",
-      "description": "Meg O’Neill of Australia’s Woodside Energy will lead the British energy giant, replacing Murray Auchincloss, who will exit after less than two years in the role.",
-      "url": "https://www.nytimes.com/2025/12/18/business/bp-new-ceo-oil.html",
-      "publishedAt": "2025-12-18T19:08:51",
-      "content": "Meg O’Neill of Australia’s Woodside Energy will lead the British energy giant, replacing Murray Auchincloss, who will exit after less than two years in the role."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "USPS Invites Retailers and Carriers to Bid for Same-Day, Next-Day Delivery Access",
-      "description": "Under Postmaster General David Steiner, the agency plans to open its last-mile delivery network to outside shippers through a competitive bidding process.",
-      "url": "https://sourcingjournal.com/topics/logistics/usps-opens-last-mile-delivery-network-retailers-carriers-same-day-next-day-ups-amazon-bidding-bids-solicitation-1234794214/",
-      "publishedAt": "2025-12-18T18:21:15",
-      "content": "Under Postmaster General David Steiner, the agency plans to open its last-mile delivery network to outside shippers through a competitive bidding process."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Farmers 'bewildered and frightened' over inheritance tax, report finds",
-      "description": "A government-commissioned report into farm profitability says farmers fear what the future might hold.",
-      "url": "https://www.bbc.com/news/articles/c9975z55dr5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-18T13:38:39",
-      "content": "A government-commissioned report into farm profitability says farmers fear what the future might hold."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "She Tracked Fish That Coastal Communities Depend On. Then She Was Fired From NOAA.",
-      "description": "Ana Vaz monitored crucial fish stocks in the Southeast and the Gulf of Mexico until she lost her job at NOAA.",
-      "url": "https://www.nytimes.com/2025/12/18/climate/noaa-fish-scientist-miami-florida.html",
-      "publishedAt": "2025-12-18T10:00:04",
-      "content": "Ana Vaz monitored crucial fish stocks in the Southeast and the Gulf of Mexico until she lost her job at NOAA."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Long Wait for Flooding Help in Chicago May Be Nearing an End",
-      "description": "CHICAGO—Two-and-a-half years after Dorothy Rosenthal’s home on the West Side flooded, she is still dealing with financial pain.",
-      "url": "https://insideclimatenews.org/news/18122025/a-long-wait-for-flooding-help-in-chicago-may-be-nearing-an-end/",
-      "publishedAt": "2025-12-18T10:00:00",
-      "content": "CHICAGO—Two-and-a-half years after Dorothy Rosenthal’s home on the West Side flooded, she is still dealing with financial pain."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Archaeologists uncover 3,000-year-old mysterious mass burial site",
-      "description": "Archaeologists find evidence of some kind of \"horrible event\" in the hills of southern Scotland.",
-      "url": "https://www.bbc.com/news/articles/cedxev6e027o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-18T06:18:42",
-      "content": "Archaeologists find evidence of some kind of \"horrible event\" in the hills of southern Scotland."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -444,69 +510,69 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "New Holland Auctions Commemorative Tractor and Raises Nearly BRL R$ 400,000 for Pequeno Príncipe Pediatric Hospital",
-      "description": "To celebrate 50 years of presence in Brazil, New Holland, a CNH brand, held an auction featuring a customized tractor.",
-      "url": "https://csrwire.com/press-release/new-holland-auctions-commemorative-tractor-and-raises-nearly-brl-r-400000-pequeno-principe/",
-      "publishedAt": "2025-12-17T16:00:00",
-      "content": "To celebrate 50 years of presence in Brazil, New Holland, a CNH brand, held an auction featuring a customized tractor."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Our Vision for What’s Next",
-      "description": "We&#039;ve been hearing it all year: 2025 was hard.",
-      "url": "https://csrwire.com/press-release/our-vision-whats-next/",
-      "publishedAt": "2025-12-17T14:30:00",
-      "content": "We&#039;ve been hearing it all year: 2025 was hard."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU to Scrap Requirements for 100% Emissions Reduction from New Cars by 2035",
-      "description": "The European Commission announced plans to remove its requirement for a 100% reduction in CO2 [&#8230;]",
-      "url": "https://www.esgtoday.com/eu-to-scrap-requirements-for-100-emissions-reduction-from-new-cars-by-2035/?utm_source=rss&utm_medium=rss&utm_campaign=eu-to-scrap-requirements-for-100-emissions-reduction-from-new-cars-by-2035",
-      "publishedAt": "2025-12-17T13:46:29",
-      "content": "The European Commission announced plans to remove its requirement for a 100% reduction in CO2 [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "#GivingTuesday Gift Guide",
-      "description": "#GivingTuesday ushers in the &#x2018;giving season&#x2019; for many communities around the world.",
-      "url": "https://csrwire.com/press-release/givingtuesday-gift-guide/",
-      "publishedAt": "2025-12-17T10:15:00",
-      "content": "#GivingTuesday ushers in the &#x2018;giving season&#x2019; for many communities around the world."
+      "author": "The Guardian",
+      "title": "Country diary: Postcard from a pier, where brent geese are the main attraction | Lev Parikian",
+      "description": "Ryde, Isle of Wight: Lots of commotion here among the hovercraft and herring gulls, but it’s the wonderful, tubby geese that make my winterThere’s a hovercraft on the sand, skirts deflated, dumped ...",
+      "url": "https://www.theguardian.com/environment/2025/dec/19/country-diary-postcard-from-a-pier-where-brent-geese-are-the-main-attraction",
+      "publishedAt": "2025-12-19T05:30:51",
+      "content": "Ryde, Isle of Wight: Lots of commotion here among the hovercraft and herring gulls, but it’s the wonderful, tubby geese that make my winterThere’s a hovercraft on the sand, skirts deflated, dumped ..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: The clock is ticking for these colourful castaways | Claire Stares",
-      "description": "Hayling Island, Hampshire: Piles of goose barnacles are stranded on the beach after a long journey hitched on a barrel.",
-      "url": "https://www.theguardian.com/environment/2025/dec/18/country-diary-the-clock-is-ticking-for-these-colourful-castaways",
-      "publishedAt": "2025-12-18T05:30:26",
-      "content": "Hayling Island, Hampshire: Piles of goose barnacles are stranded on the beach after a long journey hitched on a barrel."
+      "title": "They survived wildfires. But something else is killing Greece’s iconic fir forests",
+      "description": "In the Peloponnese mountains, the usually hardy trees are turning brown even where fires haven’t reached.",
+      "url": "https://www.theguardian.com/environment/2025/dec/19/survived-wildfires-drought-killing-greece-fir-forests-aoe",
+      "publishedAt": "2025-12-19T05:00:52",
+      "content": "In the Peloponnese mountains, the usually hardy trees are turning brown even where fires haven’t reached."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Met Office: 2026 will bring heat more than 1.4C above preindustrial levels",
-      "description": "Forecast is slightly cooler than the record 1.",
-      "url": "https://www.theguardian.com/environment/2025/dec/18/met-office-2026-will-bring-heat-more-than-14c-above-preindustrial-levels",
-      "publishedAt": "2025-12-18T00:01:20",
-      "content": "Forecast is slightly cooler than the record 1."
+      "author": "BBC",
+      "title": "Drones detect deadly virus in Arctic whales' breath",
+      "description": "Whale breath collected by drones is giving clues to the health of wild humpbacks and other whales.",
+      "url": "https://www.bbc.com/news/articles/cjdrpkj8111o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-19T01:44:04",
+      "content": "Whale breath collected by drones is giving clues to the health of wild humpbacks and other whales."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Massachusetts Battery Start-Up to List on Stock Exchange",
+      "description": "Factorial, the start-up, said the listing would provide money that would help it bring new solid-state batteries to market as soon as 2027.",
+      "url": "https://www.nytimes.com/2025/12/18/business/energy-environment/factorial-electric-vehicle-battery-spac.html",
+      "publishedAt": "2025-12-18T23:14:07",
+      "content": "Factorial, the start-up, said the listing would provide money that would help it bring new solid-state batteries to market as soon as 2027."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Farmers 'bewildered and frightened' over inheritance tax, report finds",
+      "description": "A government-commissioned report into farm profitability says farmers fear what the future might hold.",
+      "url": "https://www.bbc.com/news/articles/c9975z55dr5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-18T13:38:39",
+      "content": "A government-commissioned report into farm profitability says farmers fear what the future might hold."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "She Tracked Fish That Coastal Communities Depend On. Then She Was Fired From NOAA.",
+      "description": "Ana Vaz monitored crucial fish stocks in the Southeast and the Gulf of Mexico until she lost her job at NOAA.",
+      "url": "https://www.nytimes.com/2025/12/18/climate/noaa-fish-scientist-miami-florida.html",
+      "publishedAt": "2025-12-18T10:00:05",
+      "content": "Ana Vaz monitored crucial fish stocks in the Southeast and the Gulf of Mexico until she lost her job at NOAA."
     },
     {
       "source": {
@@ -521,17 +587,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Scientists log rare case of female polar bear adopting cub: ‘They’re really good moms’",
-      "description": "Canadian researchers tracking bear known as X33991 noticed she had gained a second cub who likely needed helpScientists in Canada have documented a rare case of female polar bear adopting a new cub...",
-      "url": "https://www.theguardian.com/world/2025/dec/17/canada-polar-bear-adopts-new-cub",
-      "publishedAt": "2025-12-17T17:20:05",
-      "content": "Canadian researchers tracking bear known as X33991 noticed she had gained a second cub who likely needed helpScientists in Canada have documented a rare case of female polar bear adopting a new cub..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -540,39 +595,6 @@
       "url": "https://goodonyou.eco/best-and-worst-fashion-brands-of-2025/",
       "publishedAt": "2025-12-17T10:55:07",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Ohio Farmers Say Regenerative Agriculture Methods Helped Them Survive a Drought. State and Federal Leaders Are Slashing Programs That Fund Them.",
-      "description": "This summer, mere months after Ohio’s eighth wettest spring came its driest August on record and with it, a critical moment for both soybeans and corn. The drought hit hardest in the state’s northw...",
-      "url": "https://insideclimatenews.org/news/17122025/ohio-regenerative-agriculture-drought-protection/",
-      "publishedAt": "2025-12-17T09:55:00",
-      "content": "This summer, mere months after Ohio’s eighth wettest spring came its driest August on record and with it, a critical moment for both soybeans and corn. The drought hit hardest in the state’s northw..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Research Flights Over the Atlantic Could Help Improve Atmospheric River Forecasting",
-      "description": "A global effort to better understand moisture-laden rivers in the sky, like those currently battering the West Coast, will take flight in January.",
-      "url": "https://www.nytimes.com/2025/12/16/climate/atmospheric-rivers-forecasts.html",
-      "publishedAt": "2025-12-16T22:37:54",
-      "content": "A global effort to better understand moisture-laden rivers in the sky, like those currently battering the West Coast, will take flight in January."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Workers were exposed to toxic chemicals in firefighting foam",
-      "description": "For decades it was 3M's biggest outside the US, and the factory made nappy fastenings and video tape.",
-      "url": "https://www.bbc.com/news/articles/cx2gdzl3lewo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-16T06:27:23",
-      "content": "For decades it was 3M's biggest outside the US, and the factory made nappy fastenings and video tape."
     }
   ]
 }
