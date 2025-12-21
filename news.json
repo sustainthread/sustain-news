@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 54,
+  "totalResults": 52,
   "articles": [
     {
       "source": {
@@ -48,6 +48,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Snails on a plane: Australia flies rescue mission to Norfolk Island for a tiny, critically endangered species",
+      "description": "The Campbell’s keeled glass-snail is officially extinct, but researchers have  ‘high hopes’ that translocation will allow the population to thrive Sign up for climate and environment editor Adam Mo...",
+      "url": "https://www.theguardian.com/environment/2025/dec/21/campbell-keeled-glass-snail-translocation-norfolk-island",
+      "publishedAt": "2025-12-20T19:00:39",
+      "content": "The Campbell’s keeled glass-snail is officially extinct, but researchers have  ‘high hopes’ that translocation will allow the population to thrive Sign up for climate and environment editor Adam Mo..."
+    },
+    {
+      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -56,28 +67,6 @@
       "url": "https://sourcingjournal.com/sustainability/sustainability-news/textile-recycling-work-at-scale-loom-carbon-rti-1234794281/",
       "publishedAt": "2025-12-19T19:50:00",
       "content": "A new partnership with RTI International will stress-test Loom’s thermal recycling system on blended and contaminated textile waste."
-    },
-    {
-      "source": {
-        "name": "Euronews"
-      },
-      "author": "Euronews",
-      "title": "AI data centres could have a carbon footprint that matches small European country, new study finds",
-      "description": "AI systems could produce 80 million tons of CO₂ in 2025 and as much water as the world’s bottled water industry. But it’s hard to measure as tech companies do not release all of the details.",
-      "url": "http://www.euronews.com/next/2025/12/20/ai-data-centres-could-have-a-carbon-footprint-that-matches-small-european-country-new-stud",
-      "publishedAt": "2025-12-20T06:01:18",
-      "content": "AI systems could produce 80 million tons of CO₂ in 2025 and as much water as the world’s bottled water industry. But it’s hard to measure as tech companies do not release all of the details."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Opinion: What Climate Professionals Must Learn from California’s Disclosure Rule Setback",
-      "description": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit",
-      "url": "https://triplepundit.com/2025/sb-261-california-climate-disclosure-litigation/",
-      "publishedAt": "2025-12-19T16:27:49",
-      "content": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit"
     },
     {
       "source": {
@@ -103,14 +92,36 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Murphy’s Final Weeks, NJ Climate Advocates Race to Lock in 100 Percent Clean Power",
+      "description": "In the final weeks of Gov.",
+      "url": "https://insideclimatenews.org/news/20122025/new-jersey-gov-phil-murphy-race-to-clean-power/",
+      "publishedAt": "2025-12-20T09:55:00",
+      "content": "In the final weeks of Gov."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "As the US invests in fossil fuels, young climate activists push back in the courts",
-      "description": "In this week’s newsletter: A generation is using the legal system to demand accountability for climate harm• Don’t get Down to Earth delivered to your inbox? Sign up hereRikki Held grew up on her f...",
-      "url": "https://www.theguardian.com/environment/2025/dec/18/as-the-us-invests-in-fossil-fuels-young-climate-activists-push-back-in-the-courts",
-      "publishedAt": "2025-12-19T07:00:57",
-      "content": "In this week’s newsletter: A generation is using the legal system to demand accountability for climate harm• Don’t get Down to Earth delivered to your inbox? Sign up hereRikki Held grew up on her f..."
+      "title": "This year’s Christmas could be Britain’s greenest yet, energy operator says",
+      "description": "System operator Neso predicts lowest carbon intensity ever on Christmas Day after new wind and solar power come onlineBritain’s energy system operator has predicted that this year’s Christmas Day c...",
+      "url": "https://www.theguardian.com/environment/2025/dec/20/greenest-christmas-day-ever-carbon-renewables-energy-wind-solar",
+      "publishedAt": "2025-12-20T08:00:25",
+      "content": "System operator Neso predicts lowest carbon intensity ever on Christmas Day after new wind and solar power come onlineBritain’s energy system operator has predicted that this year’s Christmas Day c..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Opinion: What Climate Professionals Must Learn from California’s Disclosure Rule Setback",
+      "description": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit",
+      "url": "https://triplepundit.com/2025/sb-261-california-climate-disclosure-litigation/",
+      "publishedAt": "2025-12-19T16:27:49",
+      "content": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit"
     },
     {
       "source": {
@@ -147,6 +158,28 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Europe Begins to Tiptoe Away From Key Climate Policies",
+      "description": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation.",
+      "url": "https://www.nytimes.com/2025/12/18/climate/europe-climate-policies.html",
+      "publishedAt": "2025-12-18T19:59:19",
+      "content": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "TriplePundit’s Sustainable Holiday Gift Guide for 2025",
+      "description": "3p editors round up 2025 gifting favorites from some of our most loved sustainable and socially responsible brands.TriplePundit",
+      "url": "https://triplepundit.com/2025/triplepundit-sustainable-holiday-gift-guide-2025/",
+      "publishedAt": "2025-12-16T19:23:16",
+      "content": "3p editors round up 2025 gifting favorites from some of our most loved sustainable and socially responsible brands.TriplePundit"
+    },
+    {
+      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -158,14 +191,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "Europe Begins to Tiptoe Away From Key Climate Policies",
-      "description": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation.",
-      "url": "https://www.nytimes.com/2025/12/18/climate/europe-climate-policies.html",
-      "publishedAt": "2025-12-18T19:59:19",
-      "content": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation."
+      "author": "ESG Today",
+      "title": "Microsoft Signs Enhanced Rock Weathering Carbon Removal Deal with InPlanet",
+      "description": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]",
+      "url": "https://www.esgtoday.com/microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet",
+      "publishedAt": "2025-12-18T16:23:01",
+      "content": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]"
     },
     {
       "source": {
@@ -180,14 +213,47 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "Good On You"
       },
-      "author": "Triple Pundit",
-      "title": "TriplePundit’s Sustainable Holiday Gift Guide for 2025",
-      "description": "3p editors round up 2025 gifting favorites from some of our most loved sustainable and socially responsible brands.TriplePundit",
-      "url": "https://triplepundit.com/2025/triplepundit-sustainable-holiday-gift-guide-2025/",
-      "publishedAt": "2025-12-16T19:23:16",
-      "content": "3p editors round up 2025 gifting favorites from some of our most loved sustainable and socially responsible brands.TriplePundit"
+      "author": "Good On You",
+      "title": "Better Brand Edit: More Sustainable New Year’s Eve 2025 Outfits",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
+      "publishedAt": "2025-12-17T00:00:58",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "50+ Ideas For More Sustainable Christmas Gifts and Holiday Presents",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
+      "publishedAt": "2025-12-16T23:00:07",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Twenty Years Into Fracking, Pennsylvania Has Yet to Reckon With Its Radioactive Waste",
+      "description": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste.",
+      "url": "https://insideclimatenews.org/news/20122025/pennsylvania-fracking-radioactive-waste/",
+      "publishedAt": "2025-12-20T10:00:00",
+      "content": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How Proposed Changes to the Endangered Species Act Could Further Threaten the Country’s Imperiled Species",
+      "description": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D.",
+      "url": "https://insideclimatenews.org/news/20122025/how-proposed-changes-to-the-endangered-species-act-could-further-threaten-the-countrys-imperiled-species/",
+      "publishedAt": "2025-12-20T09:50:00",
+      "content": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D."
     },
     {
       "source": {
@@ -268,14 +334,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Microsoft Signs Enhanced Rock Weathering Carbon Removal Deal with InPlanet",
-      "description": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]",
-      "url": "https://www.esgtoday.com/microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet",
-      "publishedAt": "2025-12-18T16:23:01",
-      "content": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]"
+      "author": "CSRWire",
+      "title": "New Holland Marks 130-Year Milestone With Inaugural New Holland Day in Thailand",
+      "description": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy.",
+      "url": "https://csrwire.com/press-release/new-holland-marks-130-year-milestone-inaugural-new-holland-day-thailand/",
+      "publishedAt": "2025-12-18T16:00:00",
+      "content": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Americans Expect Stronger Corporate Leadership on Social Issues, Especially Mental Health",
+      "description": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit",
+      "url": "https://triplepundit.com/2025/corporate-responsibility-social-action-mental-health/",
+      "publishedAt": "2025-12-18T13:00:00",
+      "content": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Creating Accessibility for All: Lenovo Employees Champion Disability Inclusion",
+      "description": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive.",
+      "url": "https://csrwire.com/press-release/creating-accessibility-all-lenovo-employees-champion-disability-inclusion/",
+      "publishedAt": "2025-12-18T12:00:00",
+      "content": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive."
     },
     {
       "source": {
@@ -290,25 +378,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: More Sustainable New Year’s Eve 2025 Outfits",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
-      "publishedAt": "2025-12-17T00:00:58",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "50+ Ideas For More Sustainable Christmas Gifts and Holiday Presents",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
-      "publishedAt": "2025-12-16T23:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "The Guardian",
+      "title": "Country diary: There’s more to mistletoe than Christmas kisses | Kate Blincoe",
+      "description": "Caistor St Edmund, Norfolk: Wildlife seems to like it as much as we do, and if you’re patient, you can make like a mistle thrush and spread it aroundStripped of their leaves, the trees are sculptur...",
+      "url": "https://www.theguardian.com/environment/2025/dec/20/country-diary-theres-more-to-mistletoe-than-christmas-kisses",
+      "publishedAt": "2025-12-20T05:30:20",
+      "content": "Caistor St Edmund, Norfolk: Wildlife seems to like it as much as we do, and if you’re patient, you can make like a mistle thrush and spread it aroundStripped of their leaves, the trees are sculptur..."
     },
     {
       "source": {
@@ -367,17 +444,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "U.S. Company Releasing Unauthorized Emissions From Peru LNG Terminal",
-      "description": "This story was originally published by Convoca, an investigative newsroom in Peru, in partnership with the research group Point Source.",
-      "url": "https://insideclimatenews.org/news/19122025/u-s-company-releasing-unauthorized-emissions-from-peru-lng-terminal/",
-      "publishedAt": "2025-12-19T17:24:51",
-      "content": "This story was originally published by Convoca, an investigative newsroom in Peru, in partnership with the research group Point Source."
-    },
-    {
-      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -419,94 +485,6 @@
       "url": "https://www.theguardian.com/world/2025/dec/19/earthquake-hits-lancashire-village-silverdale-second-time-two-weeks",
       "publishedAt": "2025-12-19T14:47:05",
       "content": "People of Silverdale report rattling and shaking as 2."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Tracking Oil and Gas Waste in Pennsylvania Is Still a ‘Logistical Mess’",
-      "description": "Fracking’s Forever Problem: Sixth in a series about the gas industry’s radioactive waste.",
-      "url": "https://insideclimatenews.org/news/19122025/pennsylvania-oil-and-gas-waste-tracking-logistical-mess/",
-      "publishedAt": "2025-12-19T10:00:00",
-      "content": "Fracking’s Forever Problem: Sixth in a series about the gas industry’s radioactive waste."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Maine’s Once Abundant Kelp Forests Face an Array of Growing Threats",
-      "description": "Shane Farrell has spent the better part of the last three years underwater, diving off the coast of Maine.",
-      "url": "https://insideclimatenews.org/news/19122025/maine-kelp-forests-face-growing-threats/",
-      "publishedAt": "2025-12-19T09:55:00",
-      "content": "Shane Farrell has spent the better part of the last three years underwater, diving off the coast of Maine."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I can’t think of a place more pristine’: 133,000 hectares of Chilean Patagonia preserved after local fundraising",
-      "description": "Exclusive: Ancient forests and turquoise rivers of the Cochamó Valley protected from logging, damming and developmentA wild valley in Chilean Patagonia has been preserved for future generations and...",
-      "url": "https://www.theguardian.com/world/2025/dec/19/i-cant-think-of-a-place-more-pristine-133000-hectares-of-chilean-patagonia-preserved-after-local-fundraising",
-      "publishedAt": "2025-12-19T09:00:01",
-      "content": "Exclusive: Ancient forests and turquoise rivers of the Cochamó Valley protected from logging, damming and developmentA wild valley in Chilean Patagonia has been preserved for future generations and..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Holland Marks 130-Year Milestone With Inaugural New Holland Day in Thailand",
-      "description": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy.",
-      "url": "https://csrwire.com/press-release/new-holland-marks-130-year-milestone-inaugural-new-holland-day-thailand/",
-      "publishedAt": "2025-12-18T16:00:00",
-      "content": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Americans Expect Stronger Corporate Leadership on Social Issues, Especially Mental Health",
-      "description": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit",
-      "url": "https://triplepundit.com/2025/corporate-responsibility-social-action-mental-health/",
-      "publishedAt": "2025-12-18T13:00:00",
-      "content": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Creating Accessibility for All: Lenovo Employees Champion Disability Inclusion",
-      "description": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive.",
-      "url": "https://csrwire.com/press-release/creating-accessibility-all-lenovo-employees-champion-disability-inclusion/",
-      "publishedAt": "2025-12-18T12:00:00",
-      "content": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Sir David Attenborough's London - why he wouldn't live anywhere else",
-      "description": "In a new one-off documentary, the broadcaster and conservationist comes home - to London.",
-      "url": "https://www.bbc.com/news/articles/c93wj8134q0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-18T06:06:57",
-      "content": "In a new one-off documentary, the broadcaster and conservationist comes home - to London."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Radiant Raises $300 Million to Mass Produce Small Nuclear Reactors",
-      "description": "Nuclear tech startup Radiant announced that it has raised more than $300 million in a [&#8230;]",
-      "url": "https://www.esgtoday.com/radiant-raises-300-million-to-mass-produce-small-nuclear-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=radiant-raises-300-million-to-mass-produce-small-nuclear-reactors",
-      "publishedAt": "2025-12-17T16:44:55",
-      "content": "Nuclear tech startup Radiant announced that it has raised more than $300 million in a [&#8230;]"
     },
     {
       "source": {
@@ -576,25 +554,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "Alternatives to SHEIN: 30 Better Brands You’ll Love",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-to-shein/",
-      "publishedAt": "2025-12-17T23:00:49",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "BBC",
+      "title": "Sir David Attenborough's London - why he wouldn't live anywhere else",
+      "description": "In a new one-off documentary, the broadcaster and conservationist comes home - to London.",
+      "url": "https://www.bbc.com/news/articles/c93wj8134q0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-18T06:06:57",
+      "content": "In a new one-off documentary, the broadcaster and conservationist comes home - to London."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "The Best and Worst Rated Fashion Brands of 2025",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/best-and-worst-fashion-brands-of-2025/",
-      "publishedAt": "2025-12-17T10:55:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Radiant Raises $300 Million to Mass Produce Small Nuclear Reactors",
+      "description": "Nuclear tech startup Radiant announced that it has raised more than $300 million in a [&#8230;]",
+      "url": "https://www.esgtoday.com/radiant-raises-300-million-to-mass-produce-small-nuclear-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=radiant-raises-300-million-to-mass-produce-small-nuclear-reactors",
+      "publishedAt": "2025-12-17T16:44:55",
+      "content": "Nuclear tech startup Radiant announced that it has raised more than $300 million in a [&#8230;]"
     }
   ]
 }
