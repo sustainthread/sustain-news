@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 46,
   "articles": [
     {
       "source": {
@@ -37,28 +37,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Barclays, ExpectAI Partner to Help SMEs Use Sustainability Data to Grow Profits",
-      "description": "UK-based bank Barclays and climate tech company ExpectAI announced the launch of a new collaboration, [&#8230;]",
-      "url": "https://www.esgtoday.com/barclays-expectai-partner-to-help-smes-use-sustainability-data-to-grow-profits/?utm_source=rss&utm_medium=rss&utm_campaign=barclays-expectai-partner-to-help-smes-use-sustainability-data-to-grow-profits",
-      "publishedAt": "2025-12-17T15:57:47",
-      "content": "UK-based bank Barclays and climate tech company ExpectAI announced the launch of a new collaboration, [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Snails on a plane: Australia flies rescue mission to Norfolk Island for a tiny, critically endangered species",
-      "description": "The Campbell’s keeled glass-snail is officially extinct, but researchers have  ‘high hopes’ that translocation will allow the population to thrive Sign up for climate and environment editor Adam Mo...",
-      "url": "https://www.theguardian.com/environment/2025/dec/21/campbell-keeled-glass-snail-translocation-norfolk-island",
-      "publishedAt": "2025-12-20T19:00:39",
-      "content": "The Campbell’s keeled glass-snail is officially extinct, but researchers have  ‘high hopes’ that translocation will allow the population to thrive Sign up for climate and environment editor Adam Mo..."
-    },
-    {
-      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -70,6 +48,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Countries Want Debt Relief for Conservation. Is China Ready to Play a Role?",
+      "description": "Planet China: Thirteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world.",
+      "url": "https://insideclimatenews.org/news/21122025/ecuador-debt-for-nature-swap-china-conservation/",
+      "publishedAt": "2025-12-21T09:55:00",
+      "content": "Planet China: Thirteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Opinion: What Climate Professionals Must Learn from California’s Disclosure Rule Setback",
+      "description": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit",
+      "url": "https://triplepundit.com/2025/sb-261-california-climate-disclosure-litigation/",
+      "publishedAt": "2025-12-19T16:27:49",
+      "content": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit"
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -78,17 +78,6 @@
       "url": "https://www.esgtoday.com/google-renew-energy-to-build-150-mw-solar-project-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=google-renew-energy-to-build-150-mw-solar-project-in-india",
       "publishedAt": "2025-12-18T10:13:19",
       "content": "Indian renewable energy company ReNew Energy Global announced that it has signed a long-term agreement [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Spain's commitment to renewable energy may be in doubt",
-      "description": "The current government is politically weakened and the opposition wants more use of fossil fuels.",
-      "url": "https://www.bbc.com/news/articles/cn410nll79po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-15T00:02:06",
-      "content": "The current government is politically weakened and the opposition wants more use of fossil fuels."
     },
     {
       "source": {
@@ -111,17 +100,6 @@
       "url": "https://www.theguardian.com/environment/2025/dec/20/greenest-christmas-day-ever-carbon-renewables-energy-wind-solar",
       "publishedAt": "2025-12-20T08:00:25",
       "content": "System operator Neso predicts lowest carbon intensity ever on Christmas Day after new wind and solar power come onlineBritain’s energy system operator has predicted that this year’s Christmas Day c..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Opinion: What Climate Professionals Must Learn from California’s Disclosure Rule Setback",
-      "description": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit",
-      "url": "https://triplepundit.com/2025/sb-261-california-climate-disclosure-litigation/",
-      "publishedAt": "2025-12-19T16:27:49",
-      "content": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit"
     },
     {
       "source": {
@@ -158,17 +136,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Europe Begins to Tiptoe Away From Key Climate Policies",
-      "description": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation.",
-      "url": "https://www.nytimes.com/2025/12/18/climate/europe-climate-policies.html",
-      "publishedAt": "2025-12-18T19:59:19",
-      "content": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -191,14 +158,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "Microsoft Signs Enhanced Rock Weathering Carbon Removal Deal with InPlanet",
-      "description": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]",
-      "url": "https://www.esgtoday.com/microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet",
-      "publishedAt": "2025-12-18T16:23:01",
-      "content": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]"
+      "author": "New York Times",
+      "title": "Europe Begins to Tiptoe Away From Key Climate Policies",
+      "description": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation.",
+      "url": "https://www.nytimes.com/2025/12/18/climate/europe-climate-policies.html",
+      "publishedAt": "2025-12-18T19:59:19",
+      "content": "Europe has some of the world’s most ambitious climate goals, but in recent months it has backtracked on rules governing automobile emissions and deforestation."
     },
     {
       "source": {
@@ -235,25 +202,58 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "BBC"
       },
-      "author": "Inside Climate News",
-      "title": "Twenty Years Into Fracking, Pennsylvania Has Yet to Reckon With Its Radioactive Waste",
-      "description": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste.",
-      "url": "https://insideclimatenews.org/news/20122025/pennsylvania-fracking-radioactive-waste/",
-      "publishedAt": "2025-12-20T10:00:00",
-      "content": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste."
+      "author": "BBC",
+      "title": "Puppy farm ban promised in plans to improve animal welfare",
+      "description": "The government says its animal welfare strategy will bring \"the biggest reforms in a generation\".",
+      "url": "https://www.bbc.com/news/articles/c93wxd27dvko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-21T22:30:19",
+      "content": "The government says its animal welfare strategy will bring \"the biggest reforms in a generation\"."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Trail hunting to be banned as part of new animal welfare strategy",
+      "description": "The government says the practice is being used as a \"smokescreen\" for the hunting of wild animals.",
+      "url": "https://www.bbc.com/news/articles/c4g9y20j259o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-21T15:56:05",
+      "content": "The government says the practice is being used as a \"smokescreen\" for the hunting of wild animals."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The plants that thrive in salt: could halophytes help save coastal farming?",
+      "description": "As rising seas salinise the soils of the Venice lagoon, scientists and chefs are turning to long-forgotten wild herbsOn the scrubby banks of the rural swathes of the Venice lagoon, an evening choru...",
+      "url": "https://www.theguardian.com/environment/2025/dec/21/plants-salt-halophytes-coastal-farming",
+      "publishedAt": "2025-12-21T10:00:03",
+      "content": "As rising seas salinise the soils of the Venice lagoon, scientists and chefs are turning to long-forgotten wild herbsOn the scrubby banks of the rural swathes of the Venice lagoon, an evening choru..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "How Proposed Changes to the Endangered Species Act Could Further Threaten the Country’s Imperiled Species",
-      "description": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D.",
-      "url": "https://insideclimatenews.org/news/20122025/how-proposed-changes-to-the-endangered-species-act-could-further-threaten-the-countrys-imperiled-species/",
-      "publishedAt": "2025-12-20T09:50:00",
-      "content": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D."
+      "title": "The ‘Toxic Cocktail’ Brewing in Pennsylvania’s Waterways",
+      "description": "Fracking’s Forever Problem: Eighth in a series about the gas industry’s radioactive waste.",
+      "url": "https://insideclimatenews.org/news/21122025/pennsylvania-fracking-waste-water-pollution/",
+      "publishedAt": "2025-12-21T10:00:00",
+      "content": "Fracking’s Forever Problem: Eighth in a series about the gas industry’s radioactive waste."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Messy Trail of Toxic Oil and Gas Waste",
+      "description": "Pennsylvania is ground zero for the fracking boom.",
+      "url": "https://insideclimatenews.org/news/21122025/icn-sunday-morning-pennsylvania-fracking-waste/",
+      "publishedAt": "2025-12-21T09:50:00",
+      "content": "Pennsylvania is ground zero for the fracking boom."
     },
     {
       "source": {
@@ -276,17 +276,6 @@
       "url": "https://insideclimatenews.org/news/19122025/the-worlds-last-flock-of-wild-whooping-cranes-gets-more-living-space/",
       "publishedAt": "2025-12-19T23:37:57",
       "content": "On an isolated stretch of Texas coastline, conservation groups have acquired more than 3,000 acres of nearly pristine prairie to preserve as habitat for endangered whooping cranes, one of the rares..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Diane Wilson Takes on Another Plastics Plant in Texas",
-      "description": "Diane Wilson, the prominent Gulf Coast environmentalist, filed a legal notice of intent on Wednesday to sue Dow for alleged large-scale discharges of plastic pellets from its 4,700-acre petrochemic...",
-      "url": "https://insideclimatenews.org/news/19122025/diane-wilson-takes-on-another-plastics-plant-in-texas/",
-      "publishedAt": "2025-12-19T20:38:59",
-      "content": "Diane Wilson, the prominent Gulf Coast environmentalist, filed a legal notice of intent on Wednesday to sue Dow for alleged large-scale discharges of plastic pellets from its 4,700-acre petrochemic..."
     },
     {
       "source": {
@@ -334,36 +323,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "New Holland Marks 130-Year Milestone With Inaugural New Holland Day in Thailand",
-      "description": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy.",
-      "url": "https://csrwire.com/press-release/new-holland-marks-130-year-milestone-inaugural-new-holland-day-thailand/",
-      "publishedAt": "2025-12-18T16:00:00",
-      "content": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Americans Expect Stronger Corporate Leadership on Social Issues, Especially Mental Health",
-      "description": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit",
-      "url": "https://triplepundit.com/2025/corporate-responsibility-social-action-mental-health/",
-      "publishedAt": "2025-12-18T13:00:00",
-      "content": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Creating Accessibility for All: Lenovo Employees Champion Disability Inclusion",
-      "description": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive.",
-      "url": "https://csrwire.com/press-release/creating-accessibility-all-lenovo-employees-champion-disability-inclusion/",
-      "publishedAt": "2025-12-18T12:00:00",
-      "content": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive."
+      "author": "ESG Today",
+      "title": "Microsoft Signs Enhanced Rock Weathering Carbon Removal Deal with InPlanet",
+      "description": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]",
+      "url": "https://www.esgtoday.com/microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-enhanced-rock-weathering-carbon-removal-deal-with-inplanet",
+      "publishedAt": "2025-12-18T16:23:01",
+      "content": "Climate tech startup InPlanet announced today a new carbon credit purchase agreement with Microsoft, for [&#8230;]"
     },
     {
       "source": {
@@ -375,6 +342,28 @@
       "url": "https://triplepundit.com/2025/crocodile-economics-decoupling-emissions-growth/",
       "publishedAt": "2025-12-17T18:26:19",
       "content": "The past 12 months have been harsh on climate advocates."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Twenty Years Into Fracking, Pennsylvania Has Yet to Reckon With Its Radioactive Waste",
+      "description": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste.",
+      "url": "https://insideclimatenews.org/news/20122025/pennsylvania-fracking-radioactive-waste/",
+      "publishedAt": "2025-12-20T10:00:00",
+      "content": "Fracking’s Forever Problem: Seventh in a series about the gas industry’s radioactive waste."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How Proposed Changes to the Endangered Species Act Could Further Threaten the Country’s Imperiled Species",
+      "description": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D.",
+      "url": "https://insideclimatenews.org/news/20122025/how-proposed-changes-to-the-endangered-species-act-could-further-threaten-the-countrys-imperiled-species/",
+      "publishedAt": "2025-12-20T09:50:00",
+      "content": "A polar bear stood outside the Department of the Interior’s headquarters in Washington, D."
     },
     {
       "source": {
@@ -422,28 +411,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Texas Power Grid Will Get a Boost from Batteries This Winter",
-      "description": "Even with less available electric power capacity during cold weather in Texas, battery storage systems are reducing the risk of power outages this winter, the Electric Reliability Council of Texas ...",
-      "url": "https://insideclimatenews.org/news/19122025/the-texas-power-grid-will-get-a-boost-from-batteries-this-winter/",
-      "publishedAt": "2025-12-19T17:48:28",
-      "content": "Even with less available electric power capacity during cold weather in Texas, battery storage systems are reducing the risk of power outages this winter, the Electric Reliability Council of Texas ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A River That Millions Rely on for Water Is on the Brink. A Deal to Save It Isn’t.",
-      "description": "LAS VEGAS—The Colorado River Basin is, quite literally, 50 feet away from collapse, and an agreement to save it is nowhere in sight.",
-      "url": "https://insideclimatenews.org/news/19122025/negotiators-remain-stuck-at-colorado-river-users-summit/",
-      "publishedAt": "2025-12-19T17:38:36",
-      "content": "LAS VEGAS—The Colorado River Basin is, quite literally, 50 feet away from collapse, and an agreement to save it is nowhere in sight."
-    },
-    {
-      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -488,69 +455,36 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Country diary: Postcard from a pier, where brent geese are the main attraction | Lev Parikian",
-      "description": "Ryde, Isle of Wight: Lots of commotion here among the hovercraft and herring gulls, but it’s the wonderful, tubby geese that make my winterThere’s a hovercraft on the sand, skirts deflated, dumped ...",
-      "url": "https://www.theguardian.com/environment/2025/dec/19/country-diary-postcard-from-a-pier-where-brent-geese-are-the-main-attraction",
-      "publishedAt": "2025-12-19T05:30:51",
-      "content": "Ryde, Isle of Wight: Lots of commotion here among the hovercraft and herring gulls, but it’s the wonderful, tubby geese that make my winterThere’s a hovercraft on the sand, skirts deflated, dumped ..."
+      "author": "CSRWire",
+      "title": "New Holland Marks 130-Year Milestone With Inaugural New Holland Day in Thailand",
+      "description": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy.",
+      "url": "https://csrwire.com/press-release/new-holland-marks-130-year-milestone-inaugural-new-holland-day-thailand/",
+      "publishedAt": "2025-12-18T16:00:00",
+      "content": "New Holland, a brand of CNH, capped off its 130th Anniversary celebrations with the inaugural New Holland Day in Thailand, the highlight of a series of events honoring the brand&#x2019;s legacy."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "They survived wildfires. But something else is killing Greece’s iconic fir forests",
-      "description": "In the Peloponnese mountains, the usually hardy trees are turning brown even where fires haven’t reached.",
-      "url": "https://www.theguardian.com/environment/2025/dec/19/survived-wildfires-drought-killing-greece-fir-forests-aoe",
-      "publishedAt": "2025-12-19T05:00:52",
-      "content": "In the Peloponnese mountains, the usually hardy trees are turning brown even where fires haven’t reached."
+      "author": "Triple Pundit",
+      "title": "Americans Expect Stronger Corporate Leadership on Social Issues, Especially Mental Health",
+      "description": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit",
+      "url": "https://triplepundit.com/2025/corporate-responsibility-social-action-mental-health/",
+      "publishedAt": "2025-12-18T13:00:00",
+      "content": "As Americans' concerns over mental health support, hunger, and other social issues rise, more than half say companies should step up to drive solutions.TriplePundit"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Drones detect deadly virus in Arctic whales' breath",
-      "description": "Whale breath collected by drones is giving clues to the health of wild humpbacks and other whales.",
-      "url": "https://www.bbc.com/news/articles/cjdrpkj8111o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-19T01:44:04",
-      "content": "Whale breath collected by drones is giving clues to the health of wild humpbacks and other whales."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Massachusetts Battery Start-Up to List on Stock Exchange",
-      "description": "Factorial, the start-up, said the listing would provide money that would help it bring new solid-state batteries to market as soon as 2027.",
-      "url": "https://www.nytimes.com/2025/12/18/business/energy-environment/factorial-electric-vehicle-battery-spac.html",
-      "publishedAt": "2025-12-18T23:14:07",
-      "content": "Factorial, the start-up, said the listing would provide money that would help it bring new solid-state batteries to market as soon as 2027."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Farmers 'bewildered and frightened' over inheritance tax, report finds",
-      "description": "A government-commissioned report into farm profitability says farmers fear what the future might hold.",
-      "url": "https://www.bbc.com/news/articles/c9975z55dr5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-18T13:38:39",
-      "content": "A government-commissioned report into farm profitability says farmers fear what the future might hold."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "She Tracked Fish That Coastal Communities Depend On. Then She Was Fired From NOAA.",
-      "description": "Ana Vaz monitored crucial fish stocks in the Southeast and the Gulf of Mexico until she lost her job at NOAA.",
-      "url": "https://www.nytimes.com/2025/12/18/climate/noaa-fish-scientist-miami-florida.html",
-      "publishedAt": "2025-12-18T10:00:05",
-      "content": "Ana Vaz monitored crucial fish stocks in the Southeast and the Gulf of Mexico until she lost her job at NOAA."
+      "author": "CSRWire",
+      "title": "Creating Accessibility for All: Lenovo Employees Champion Disability Inclusion",
+      "description": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive.",
+      "url": "https://csrwire.com/press-release/creating-accessibility-all-lenovo-employees-champion-disability-inclusion/",
+      "publishedAt": "2025-12-18T12:00:00",
+      "content": "At Lenovo, we believe inclusion drives innovation. Through our Lenovo Disability Advantage strategy, we aim to build workplaces and communities where people of all abilities can thrive."
     },
     {
       "source": {
