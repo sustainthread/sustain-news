@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 33,
   "articles": [
     {
       "source": {
@@ -26,14 +26,47 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Renewco Power Raises £29 Million to Build Wind and Solar Projects across UK, Europe",
+      "description": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]",
+      "url": "https://www.esgtoday.com/renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe/?utm_source=rss&utm_medium=rss&utm_campaign=renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe",
+      "publishedAt": "2025-12-26T10:46:53",
+      "content": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]"
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "As the Whitmer Administration Enters Its Final Year, Environmental Advocates Lament Wasted Opportunities",
-      "description": "In late 2023, an unlikely state in the country’s industrial heartland passed nation-leading climate laws—Michigan.",
-      "url": "https://insideclimatenews.org/news/22122025/michigan-gov-gretchen-whitmer-environmental-record/",
-      "publishedAt": "2025-12-22T09:55:00",
-      "content": "In late 2023, an unlikely state in the country’s industrial heartland passed nation-leading climate laws—Michigan."
+      "title": "Scenes From an Unfolding Climate Drama",
+      "description": "The last 10 global climate summits have played out on vastly different stages: from the hopeful consensus of the Paris Agreement through a subsequent pandemic shock, petrostate spectacles and a hop...",
+      "url": "https://insideclimatenews.org/news/26122025/a-decade-of-the-united-nations-climate-change-conference/",
+      "publishedAt": "2025-12-26T09:55:00",
+      "content": "The last 10 global climate summits have played out on vastly different stages: from the hopeful consensus of the Paris Agreement through a subsequent pandemic shock, petrostate spectacles and a hop..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Staying at home could leave you exposed to indoor air pollution, study reveals",
+      "description": "Secondhand tobacco smoke and routine tasks such as operating the stove shown to be biggest emitters of indoor pollution in UK homesChristmas and New Year is a time when many people will be at home....",
+      "url": "https://www.theguardian.com/environment/2025/dec/26/staying-at-home-could-leave-you-exposed-to-indoor-air-pollution-study-reveals",
+      "publishedAt": "2025-12-26T06:00:02",
+      "content": "Secondhand tobacco smoke and routine tasks such as operating the stove shown to be biggest emitters of indoor pollution in UK homesChristmas and New Year is a time when many people will be at home...."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sustainable aviation fuel take-up in UK unlikely to hit 2025 target, data suggests",
+      "description": "Provisional figures in government mandate’s first year show 20% shortfall in levels of SAF supplied for UK flightsThe take-up of sustainable aviation fuels is on course to fall short of the UK gove...",
+      "url": "https://www.theguardian.com/business/2025/dec/26/sustainable-aviation-fuel-mandate-uk-government-data-2025",
+      "publishedAt": "2025-12-26T06:00:01",
+      "content": "Provisional figures in government mandate’s first year show 20% shortfall in levels of SAF supplied for UK flightsThe take-up of sustainable aviation fuels is on course to fall short of the UK gove..."
     },
     {
       "source": {
@@ -48,25 +81,124 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "CSRWire"
       },
-      "author": "Triple Pundit",
-      "title": "Opinion: What Climate Professionals Must Learn from California’s Disclosure Rule Setback",
-      "description": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit",
-      "url": "https://triplepundit.com/2025/sb-261-california-climate-disclosure-litigation/",
-      "publishedAt": "2025-12-19T16:27:49",
-      "content": "Enforcement of a California law requiring large companies to disclose their climate-related risks was put on pause this month. Why? Free speech.TriplePundit"
+      "author": "CSRWire",
+      "title": "The State of Purpose at Work: Leveraging 2025 Data To Define CSR Strategy in 2026",
+      "description": "The landscape of corporate citizenship is undergoing its most profound transition in a decade.",
+      "url": "https://csrwire.com/press-release/state-purpose-work-leveraging-2025-data-define-csr-strategy-2026/",
+      "publishedAt": "2025-12-26T10:00:00",
+      "content": "The landscape of corporate citizenship is undergoing its most profound transition in a decade."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Journey to Antarctica Part 3",
-      "description": "What do you pack for a two-month expedition to Antarctica? Our climate reporter Raymond Zhong shows us what he is bringing along for his journey.",
-      "url": "https://www.nytimes.com/video/climate/100000010562897/journey-to-antarctica-part-3.html",
-      "publishedAt": "2025-12-25T23:00:01",
-      "content": "What do you pack for a two-month expedition to Antarctica? Our climate reporter Raymond Zhong shows us what he is bringing along for his journey."
+      "title": "The Race to Save the Sacramento Mountains Checkerspot Butterfly",
+      "description": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico.",
+      "url": "https://www.nytimes.com/2025/12/26/climate/sacramento-mountains-checkerspot-butterfly.html",
+      "publishedAt": "2025-12-27T01:01:57",
+      "content": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Downpours Ease in Southern California, but Flood Risks Remain",
+      "description": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas.",
+      "url": "https://www.nytimes.com/2025/12/26/weather/rain-flooding-southern-california-storm.html",
+      "publishedAt": "2025-12-26T23:08:29",
+      "content": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Puma Loses Comms Exec, Esprit Leadership Moves",
+      "description": "Puma’s Kerstin Neuber exits after 18 years while Esprit loses chairwoman Christin Su Yi Chiu and former CEO/COO William Pak.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-puma-esprit-pds-1234795003/",
+      "publishedAt": "2025-12-26T21:00:00",
+      "content": "Puma’s Kerstin Neuber exits after 18 years while Esprit loses chairwoman Christin Su Yi Chiu and former CEO/COO William Pak."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "A Look Back at ‘Liberation Day’ and the Tariff Turmoil It Unleashed in 2025",
+      "description": "April 2, 2025 may well become a day that lives in infamy in the minds of many American importers and exporters across the globe.",
+      "url": "https://sourcingjournal.com/topics/trade/liberation-day-april-2-tariffs-trade-imports-china-manufacturing-1234794261/",
+      "publishedAt": "2025-12-26T19:30:00",
+      "content": "April 2, 2025 may well become a day that lives in infamy in the minds of many American importers and exporters across the globe."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Material World: San Fran Fire Phases Out PFAS; Lego Logic, Handbag Edition",
+      "description": "Milliken supplied Assure firefighter turnout gear to SFFD; Lvcy Pearl’s Building Bags modular concept is mechanically engineered, not just aesthetic.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-san-fran-fire-phases-out-pfas-milliken-1234794696/",
+      "publishedAt": "2025-12-26T19:00:00",
+      "content": "Milliken supplied Assure firefighter turnout gear to SFFD; Lvcy Pearl’s Building Bags modular concept is mechanically engineered, not just aesthetic."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Why ShinWon is Rolling Out Automated RFID Scanning Systems Across its Factories",
+      "description": "Developed in house, ShinWon's tunnel system will allow it to check the accuracy of 100 percent of the orders leaving its factories.",
+      "url": "https://sourcingjournal.com/topics/technology/shinwon-digital-transformation-rfid-technology-1234794972/",
+      "publishedAt": "2025-12-26T15:31:27",
+      "content": "Developed in house, ShinWon's tunnel system will allow it to check the accuracy of 100 percent of the orders leaving its factories."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What to pack for a trip to the bottom of the world.",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/packing-video",
+      "publishedAt": "2025-12-26T12:00:02",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Feral Dogs on the Roof of the World",
+      "description": "As many as 25,000 free-ranging dogs roam the cold, high-altitude desert of Ladakh, India. That’s a problem for wildlife and people alike.",
+      "url": "https://www.nytimes.com/2025/12/26/science/feral-dogs-wildlife-ladakh.html",
+      "publishedAt": "2025-12-26T10:00:18",
+      "content": "As many as 25,000 free-ranging dogs roam the cold, high-altitude desert of Ladakh, India. That’s a problem for wildlife and people alike."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Living on the edge: what young people in England told us about life on the coast",
+      "description": "As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challenges and why they often choose to leaveMegan, a 24-year-o...",
+      "url": "https://www.theguardian.com/environment/2025/dec/26/young-people-england-life-on-the-coast-18-to-30-year-olds-coastline",
+      "publishedAt": "2025-12-26T10:00:06",
+      "content": "As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challenges and why they often choose to leaveMegan, a 24-year-o..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "First of nine new river walks in England announced for north-west",
+      "description": "Mersey Valley Way takes in Manchester and Stockport on its 13-mile route with other walks to be identified in 2026A new river walk has been announced by the government as ministers try to improve a...",
+      "url": "https://www.theguardian.com/environment/2025/dec/26/first-of-nine-new-river-walks-for-england-announced-north-west-mersey-valley-way",
+      "publishedAt": "2025-12-26T07:00:02",
+      "content": "Mersey Valley Way takes in Manchester and Stockport on its 13-mile route with other walks to be identified in 2026A new river walk has been announced by the government as ministers try to improve a..."
     },
     {
       "source": {
@@ -81,6 +213,28 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner.",
+      "description": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]",
+      "url": "https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner",
+      "publishedAt": "2025-12-22T14:42:13",
+      "content": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Little rituals to help sparrows and wrens | Paul Evans",
+      "description": "The Marches, Shropshire: Boxing Day has its own more violent customs between humans and animals.",
+      "url": "https://www.theguardian.com/environment/2025/dec/26/country-diary-little-rituals-to-help-sparrows-and-wrens",
+      "publishedAt": "2025-12-26T05:30:00",
+      "content": "The Marches, Shropshire: Boxing Day has its own more violent customs between humans and animals."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -89,17 +243,6 @@
       "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
       "publishedAt": "2025-12-25T15:00:43",
       "content": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwideThere are no roads through the ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Tesla Robotaxis Are Big on Wall St. but Lagging on Roads",
-      "description": "Shares of Tesla have hit new highs on optimism about the company’s self-driving taxis. But experts say Tesla is far behind Waymo, which has a big head start.",
-      "url": "https://www.nytimes.com/2025/12/25/business/tesla-robotaxis-austin-waymo.html",
-      "publishedAt": "2025-12-25T10:01:42",
-      "content": "Shares of Tesla have hit new highs on optimism about the company’s self-driving taxis. But experts say Tesla is far behind Waymo, which has a big head start."
     },
     {
       "source": {
@@ -114,25 +257,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "Barracuda, grouper, tuna – and seaweed: Madagascar’s fishers forced to find new ways to survive",
-      "description": "Seaweed has become a key cash crop as climate change and industrial trawling test the resilient culture of the semi-nomadic Vezo peopleAlong Madagascar’s south-west coast, the Vezo people, who have...",
-      "url": "https://www.theguardian.com/environment/2025/dec/24/madagascar-coastline-vezo-people-fishing-climate-change-adaptation",
-      "publishedAt": "2025-12-24T05:00:05",
-      "content": "Seaweed has become a key cash crop as climate change and industrial trawling test the resilient culture of the semi-nomadic Vezo peopleAlong Madagascar’s south-west coast, the Vezo people, who have..."
+      "author": "Inside Climate News",
+      "title": "Nonprofit Center Works with Rural Maine Towns to Prepare for and Protect Against Extreme Weather",
+      "description": "The December 2023 flood.",
+      "url": "https://insideclimatenews.org/news/24122025/rural-maine-center-for-an-ecology-based-economy/",
+      "publishedAt": "2025-12-24T10:00:00",
+      "content": "The December 2023 flood."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "Crayfish, weevils and fungi released in UK to tackle invasive species such as Japanese knotweed",
-      "description": "Scientists working for government breed biological control agents in lab to take on species choking native wildlifeCrayfish, weevils and fungi are being released into the environment in order to ta...",
-      "url": "https://www.theguardian.com/environment/2025/dec/24/crayfish-weevils-fungi-wild-tackle-invasive-species-japanese-knotweed",
-      "publishedAt": "2025-12-24T05:00:03",
-      "content": "Scientists working for government breed biological control agents in lab to take on species choking native wildlifeCrayfish, weevils and fungi are being released into the environment in order to ta..."
+      "author": "Inside Climate News",
+      "title": "In the Great Lakes Region, a Push to Grow Water-Focused Startups Amid Federal Funding Uncertainty",
+      "description": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch.",
+      "url": "https://insideclimatenews.org/news/24122025/great-lakes-water-focused-startups/",
+      "publishedAt": "2025-12-24T09:55:00",
+      "content": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch."
     },
     {
       "source": {
@@ -183,127 +326,6 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner.",
-      "description": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]",
-      "url": "https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner",
-      "publishedAt": "2025-12-22T14:42:13",
-      "content": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Reduce. Reuse. Recycle. Reinvest in PSEG's Communities",
-      "description": "We believe that doing what&#x2019;s right means caring for both the environment and the communities we serve.",
-      "url": "https://csrwire.com/press-release/reduce-reuse-recycle-reinvest-psegs-communities/",
-      "publishedAt": "2025-12-19T08:35:00",
-      "content": "We believe that doing what&#x2019;s right means caring for both the environment and the communities we serve."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Freedom is a city where you can breathe’: four experts on Europe’s most liveable capitals",
-      "description": "From Copenhagen’s cycle lanes and Vienna’s shared parks to Barcelona and London’s unfulfilled potential, better living is close at handThe angry rumble of a speeding SUV. The metallic smog of backl...",
-      "url": "https://www.theguardian.com/cities/2025/dec/24/four-experts-on-europe-most-livable-capitals",
-      "publishedAt": "2025-12-24T15:23:45",
-      "content": "From Copenhagen’s cycle lanes and Vienna’s shared parks to Barcelona and London’s unfulfilled potential, better living is close at handThe angry rumble of a speeding SUV. The metallic smog of backl..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Nonprofit Center Works with Rural Maine Towns to Prepare for and Protect Against Extreme Weather",
-      "description": "The December 2023 flood.",
-      "url": "https://insideclimatenews.org/news/24122025/rural-maine-center-for-an-ecology-based-economy/",
-      "publishedAt": "2025-12-24T10:00:00",
-      "content": "The December 2023 flood."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In the Great Lakes Region, a Push to Grow Water-Focused Startups Amid Federal Funding Uncertainty",
-      "description": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch.",
-      "url": "https://insideclimatenews.org/news/24122025/great-lakes-water-focused-startups/",
-      "publishedAt": "2025-12-24T09:55:00",
-      "content": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A winter walk means only one thing – mud | Man in the Woods",
-      "description": "Dursley, Gloucestershire: We have to embrace these darker months and get outside, but there’s also only so much wind and sludge I can takeWinter is tiring. The footpath is a gully of slop, and each...",
-      "url": "https://www.theguardian.com/environment/2025/dec/24/country-diary-a-winter-walk-means-only-one-thing-mud",
-      "publishedAt": "2025-12-24T05:30:02",
-      "content": "Dursley, Gloucestershire: We have to embrace these darker months and get outside, but there’s also only so much wind and sludge I can takeWinter is tiring. The footpath is a gully of slop, and each..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Year In Review:  Five Next-Gen Funding Rounds Worth Taking Note Of",
-      "description": "SuperCircle, Uluu, Eeden, Circ and AMSilk earned investors as next-gen backers chased infrastructure, recycling and scale narratives throughout 2025.",
-      "url": "https://sourcingjournal.com/topics/financial/year-in-review-five-next-gen-funding-rounds-from-2025-1234794955/",
-      "publishedAt": "2025-12-23T20:53:09",
-      "content": "SuperCircle, Uluu, Eeden, Circ and AMSilk earned investors as next-gen backers chased infrastructure, recycling and scale narratives throughout 2025."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Ministers raise inheritance tax threshold for farms after backlash",
-      "description": "U-turn lifts limit from £1m to £2.",
-      "url": "https://www.theguardian.com/environment/2025/dec/23/ministers-raise-inheritance-tax-threshold-for-farms-after-backlash",
-      "publishedAt": "2025-12-23T17:38:21",
-      "content": "U-turn lifts limit from £1m to £2."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Government waters down inheritance tax plan for farms",
-      "description": "The government has now said it will lift the intended threshold from £1m to £2.5m.",
-      "url": "https://www.bbc.com/news/articles/c8e9n3y28g1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-23T17:29:09",
-      "content": "The government has now said it will lift the intended threshold from £1m to £2.5m."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Year in Review: Here’s How the Agentic AI Agenda Started Rewiring Retail",
-      "description": "In 2025, retail saw agentic AI implementations impacted internal functions like supply chain and consumer-facing functions.",
-      "url": "https://sourcingjournal.com/topics/technology/agentic-artificial-intelligence-retail-chatgpt-amazon-sap-blue-yonder-google-1234791753/",
-      "publishedAt": "2025-12-23T16:15:00",
-      "content": "In 2025, retail saw agentic AI implementations impacted internal functions like supply chain and consumer-facing functions."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Illinois Is Going All In on Battery Storage. What Will That Mean?",
-      "description": "Illinois is lagging on battery storage—projects that collect solar and wind energy to use when the sun isn’t shining and the wind isn’t blowing.",
-      "url": "https://insideclimatenews.org/news/23122025/illinois-battery-storage-plan-for-data-centers/",
-      "publishedAt": "2025-12-23T09:55:00",
-      "content": "Illinois is lagging on battery storage—projects that collect solar and wind energy to use when the sun isn’t shining and the wind isn’t blowing."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
       "title": "Equitix Buys Stake in Energy-from-Waste Platform Viridor from KKR",
       "description": "Infrastructure investor Equitix announced the acquisition of a substantial minority stake in UK-based energy-from-waste operator [&#8230;]",
       "url": "https://www.esgtoday.com/equitix-buys-stake-in-energy-from-waste-platform-viridor-from-kkr/?utm_source=rss&utm_medium=rss&utm_campaign=equitix-buys-stake-in-energy-from-waste-platform-viridor-from-kkr",
@@ -342,50 +364,6 @@
       "url": "https://csrwire.com/press-release/holiday-lights-and-community-programs-pseg-supports-essex-county-turtle-back-zoo/",
       "publishedAt": "2025-12-22T08:45:00",
       "content": "For more than 30 years, we&#x2019;ve been a proud supporter of Essex County Turtle Back Zoo."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Council Adopts Revised EUDR, Marking Final Step in Delay of Supply Chain Deforestation Law",
-      "description": "Member states in the European Council announced on Thursday that they have formally adopted amendments [&#8230;]",
-      "url": "https://www.esgtoday.com/eu-council-adopts-revised-eudr-marking-final-step-in-delay-of-supply-chain-deforestation-law/?utm_source=rss&utm_medium=rss&utm_campaign=eu-council-adopts-revised-eudr-marking-final-step-in-delay-of-supply-chain-deforestation-law",
-      "publishedAt": "2025-12-19T12:44:01",
-      "content": "Member states in the European Council announced on Thursday that they have formally adopted amendments [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Parents Can Boost Their Child’s Skills for the AI Age With Everyday Play",
-      "description": "As society evolves in step with rapid advancements in artificial intelligence (AI), computational thinking skills are gaining more attention as an important driver of future career success.",
-      "url": "https://csrwire.com/press-release/how-parents-can-boost-their-childs-skills-ai-age-everyday-play/",
-      "publishedAt": "2025-12-19T11:45:00",
-      "content": "As society evolves in step with rapid advancements in artificial intelligence (AI), computational thinking skills are gaining more attention as an important driver of future career success."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Medtronic Brought Darüşşafaka Students Together With Health Technologies",
-      "description": "At the Medtronic Innovation Center in Istanbul, students and company volunteers came together in an event by Medtronic Spark.",
-      "url": "https://csrwire.com/press-release/medtronic-brought-darussafaka-students-together-health-technologies/",
-      "publishedAt": "2025-12-19T11:35:00",
-      "content": "At the Medtronic Innovation Center in Istanbul, students and company volunteers came together in an event by Medtronic Spark."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy New Orleans Spreads Holiday Joy to Customers at Secret Santa Event by Covering Their Bills",
-      "description": "For the past decade, Entergy New Orleans has hosted its annual Operation Secret Santa event for our customers visiting the Canal Street Customer Care Center for billing assistance.",
-      "url": "https://csrwire.com/press-release/entergy-new-orleans-spreads-holiday-joy-customers-secret-santa-event-covering-their-bills/",
-      "publishedAt": "2025-12-19T10:00:00",
-      "content": "For the past decade, Entergy New Orleans has hosted its annual Operation Secret Santa event for our customers visiting the Canal Street Customer Care Center for billing assistance."
     }
   ]
 }
