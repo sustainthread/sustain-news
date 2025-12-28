@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
@@ -40,6 +40,28 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
+      "title": "After a Hard Year for Environmental Justice, Chicago Communities Are Picking Up the Pieces",
+      "description": "In her 40 years as an environmental justice organizer, Cheryl Johnson had never seen environmental funding as revolutionary as the Community Change grant.&#160; “It gave real money to disinvested c...",
+      "url": "https://insideclimatenews.org/news/27122025/chicago-environmental-justice-grant-cuts/",
+      "publishedAt": "2025-12-27T10:00:00",
+      "content": "In her 40 years as an environmental justice organizer, Cheryl Johnson had never seen environmental funding as revolutionary as the Community Change grant.&#160; “It gave real money to disinvested c..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cyclones, floods and wildfires among 2025’s costliest climate-related disasters",
+      "description": "Christian Aid annual report’s top 10 disasters amounted to more than $120bn in insured lossesCyclones and floods in south-east Asia this autumn killed more than 1,750 people and caused more than $2...",
+      "url": "https://www.theguardian.com/world/2025/dec/27/cyclones-floods-and-wildfires-among-2025s-costliest-climate-related-disasters",
+      "publishedAt": "2025-12-27T00:01:22",
+      "content": "Christian Aid annual report’s top 10 disasters amounted to more than $120bn in insured lossesCyclones and floods in south-east Asia this autumn killed more than 1,750 people and caused more than $2..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
       "title": "Scenes From an Unfolding Climate Drama",
       "description": "The last 10 global climate summits have played out on vastly different stages: from the hopeful consensus of the Paris Agreement through a subsequent pandemic shock, petrostate spectacles and a hop...",
       "url": "https://insideclimatenews.org/news/26122025/a-decade-of-the-united-nations-climate-change-conference/",
@@ -59,17 +81,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sustainable aviation fuel take-up in UK unlikely to hit 2025 target, data suggests",
-      "description": "Provisional figures in government mandate’s first year show 20% shortfall in levels of SAF supplied for UK flightsThe take-up of sustainable aviation fuels is on course to fall short of the UK gove...",
-      "url": "https://www.theguardian.com/business/2025/dec/26/sustainable-aviation-fuel-mandate-uk-government-data-2025",
-      "publishedAt": "2025-12-26T06:00:01",
-      "content": "Provisional figures in government mandate’s first year show 20% shortfall in levels of SAF supplied for UK flightsThe take-up of sustainable aviation fuels is on course to fall short of the UK gove..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -78,6 +89,105 @@
       "url": "https://www.esgtoday.com/two-thirds-of-esg-funds-change-names-following-new-eu-sustainable-fund-naming-rules-esma-study/?utm_source=rss&utm_medium=rss&utm_campaign=two-thirds-of-esg-funds-change-names-following-new-eu-sustainable-fund-naming-rules-esma-study",
       "publishedAt": "2025-12-22T13:40:16",
       "content": "Approximately two thirds of funds with ESG terms in their names changed their names, with [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Antarctic bound on a search for clues to Earth’s future",
+      "description": "As vast, wild and beyond our comprehending as Antarctica may seem, its melting ice could decide the fates of coastal communities for centuries to come",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/antarctic-bound-on-a-search-for-clues-to-earths-future",
+      "publishedAt": "2025-12-27T18:23:37",
+      "content": "As vast, wild and beyond our comprehending as Antarctica may seem, its melting ice could decide the fates of coastal communities for centuries to come"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Two Times Journalists Join an Expedition to Antartica",
+      "description": "Our journalists are joining scientists on a research ship sailing to the continent’s fast-melting glaciers.",
+      "url": "https://www.nytimes.com/2025/12/27/climate/thwaites-glacier-expedition-antarctica.html",
+      "publishedAt": "2025-12-27T18:19:05",
+      "content": "Our journalists are joining scientists on a research ship sailing to the continent’s fast-melting glaciers."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Bound for Antarctica: A Trip to Study the Thwaites Glacier Is Underway",
+      "description": "The continent’s ice is melting and raising sea levels worldwide. Our journalists will be sending regular dispatches as they head there with scientists trying to gauge the dangers.",
+      "url": "https://www.nytimes.com/2025/12/27/climate/antarctica-thwaites-glacier.html",
+      "publishedAt": "2025-12-27T14:01:10",
+      "content": "The continent’s ice is melting and raising sea levels worldwide. Our journalists will be sending regular dispatches as they head there with scientists trying to gauge the dangers."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘It brings you closer to the natural world’: the rise of the Merlin birdsong identifying app",
+      "description": "Merlin has been trained to identify the songs of more than 1,300 bird species around the worldWhen Natasha Walter first became curious about the birds around her, she recorded their songs on her ph...",
+      "url": "https://www.theguardian.com/environment/2025/dec/27/merlin-ai-assisted-birdsong-identifying-app-bird-species",
+      "publishedAt": "2025-12-27T12:00:38",
+      "content": "Merlin has been trained to identify the songs of more than 1,300 bird species around the worldWhen Natasha Walter first became curious about the birds around her, she recorded their songs on her ph..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: Other kids love birds and insects – I love moss | Arjun",
+      "description": "Forest of Dean, Gloucestershire: I couldn’t believe how much moss there was covering the rocks, the trees, the ground – everythingLiving in a city, I don’t have much contact with nature, but when I...",
+      "url": "https://www.theguardian.com/environment/2025/dec/27/young-country-diary-kids-love-birds-and-insects-moss-forest-of-dean",
+      "publishedAt": "2025-12-27T11:00:37",
+      "content": "Forest of Dean, Gloucestershire: I couldn’t believe how much moss there was covering the rocks, the trees, the ground – everythingLiving in a city, I don’t have much contact with nature, but when I..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Before Electric Vehicles Became Political, There Was the Toyota Prius",
+      "description": "The political polarization of battery-powered cars may have started when Toyota released its first hybrid model 25 years ago.",
+      "url": "https://www.nytimes.com/2025/12/27/business/electric-vehicles-poilitics-republicans-conservatives.html",
+      "publishedAt": "2025-12-27T10:00:57",
+      "content": "The political polarization of battery-powered cars may have started when Toyota released its first hybrid model 25 years ago."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What’s this trip about? Here’s an overview.",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/trip-overview-video",
+      "publishedAt": "2025-12-27T07:41:05",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Ghost resorts’: as hundreds of ski slopes lie abandoned, will nature reclaim the Alps?",
+      "description": "With the snow line edging higher, 186 French ski resorts have shut, while global heating threatens dozens moreWhen Céüze 2000 ski resort closed at the end of the season in 2018, the workers assumed...",
+      "url": "https://www.theguardian.com/environment/2025/dec/27/alps-france-skiing-snow-warming-resorts-closing-ceuze-landscape",
+      "publishedAt": "2025-12-27T06:48:56",
+      "content": "With the snow line edging higher, 186 French ski resorts have shut, while global heating threatens dozens moreWhen Céüze 2000 ski resort closed at the end of the season in 2018, the workers assumed..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Defunding fungi: US’s living library of ‘vital ecosystem engineers’ is in danger of closing",
+      "description": "These fungi boost plant growth and restore depleted ecosystems, but federal funding for a library housing them has been cut – and it may be forced to closeInside a large greenhouse at the Universit...",
+      "url": "https://www.theguardian.com/environment/2025/dec/26/arbuscular-mycorrhizal-fungi-living-library-vital-ecosystem-engineers",
+      "publishedAt": "2025-12-26T17:00:14",
+      "content": "These fungi boost plant growth and restore depleted ecosystems, but federal funding for a library housing them has been cut – and it may be forced to closeInside a large greenhouse at the Universit..."
     },
     {
       "source": {
@@ -92,25 +202,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Inside Climate News"
       },
-      "author": "New York Times",
-      "title": "The Race to Save the Sacramento Mountains Checkerspot Butterfly",
-      "description": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico.",
-      "url": "https://www.nytimes.com/2025/12/26/climate/sacramento-mountains-checkerspot-butterfly.html",
-      "publishedAt": "2025-12-27T01:01:57",
-      "content": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico."
+      "author": "Inside Climate News",
+      "title": "Lessons on Scaling Gift Economies—and How It Can Help the Planet",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with “The Serviceberry” author Robin Wall Kimmerer.&#160; Robin Wall Kimmer...",
+      "url": "https://insideclimatenews.org/news/25122025/gift-economies-can-help-the-planet/",
+      "publishedAt": "2025-12-25T09:55:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with “The Serviceberry” author Robin Wall Kimmerer.&#160; Robin Wall Kimmer..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner.",
+      "description": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]",
+      "url": "https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner",
+      "publishedAt": "2025-12-22T14:42:13",
+      "content": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]"
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Downpours Ease in Southern California, but Flood Risks Remain",
-      "description": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas.",
-      "url": "https://www.nytimes.com/2025/12/26/weather/rain-flooding-southern-california-storm.html",
-      "publishedAt": "2025-12-26T23:08:29",
-      "content": "Another wave of rain was hitting the Los Angeles area on Friday, adding to the record-setting precipitation over Christmas."
+      "title": "The Race to Save the Sacramento Mountains Checkerspot Butterfly",
+      "description": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico.",
+      "url": "https://www.nytimes.com/2025/12/26/climate/sacramento-mountains-checkerspot-butterfly.html",
+      "publishedAt": "2025-12-27T01:01:58",
+      "content": "The Sacramento Mountains checkerspot butterfly is critically endangered, with the last known larva living in a lab in New Mexico."
     },
     {
       "source": {
@@ -158,39 +279,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What to pack for a trip to the bottom of the world.",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/packing-video",
-      "publishedAt": "2025-12-26T12:00:02",
-      "content": ""
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Feral Dogs on the Roof of the World",
-      "description": "As many as 25,000 free-ranging dogs roam the cold, high-altitude desert of Ladakh, India. That’s a problem for wildlife and people alike.",
-      "url": "https://www.nytimes.com/2025/12/26/science/feral-dogs-wildlife-ladakh.html",
-      "publishedAt": "2025-12-26T10:00:18",
-      "content": "As many as 25,000 free-ranging dogs roam the cold, high-altitude desert of Ladakh, India. That’s a problem for wildlife and people alike."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Living on the edge: what young people in England told us about life on the coast",
-      "description": "As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challenges and why they often choose to leaveMegan, a 24-year-o...",
-      "url": "https://www.theguardian.com/environment/2025/dec/26/young-people-england-life-on-the-coast-18-to-30-year-olds-coastline",
-      "publishedAt": "2025-12-26T10:00:06",
-      "content": "As part of the Guardian’s Against the tide series, readers aged 18 to 30 share what they love about living in their coastal town, the challenges and why they often choose to leaveMegan, a 24-year-o..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -205,77 +293,11 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Lessons on Scaling Gift Economies—and How It Can Help the Planet",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with “The Serviceberry” author Robin Wall Kimmerer.&#160; Robin Wall Kimmer...",
-      "url": "https://insideclimatenews.org/news/25122025/gift-economies-can-help-the-planet/",
-      "publishedAt": "2025-12-25T09:55:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with “The Serviceberry” author Robin Wall Kimmerer.&#160; Robin Wall Kimmer..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Guest Post: COP30 Moved Adaptation Goals to 2035. The Financial Risks Arrive Sooner.",
-      "description": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]",
-      "url": "https://www.esgtoday.com/guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-cop30-moved-adaptation-goals-to-2035-the-financial-risks-arrive-sooner",
-      "publishedAt": "2025-12-22T14:42:13",
-      "content": "By: Kamil Kluza, Co-founder and COO, Climate X COP30&#8217;s decision to shift the global adaptation [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Little rituals to help sparrows and wrens | Paul Evans",
-      "description": "The Marches, Shropshire: Boxing Day has its own more violent customs between humans and animals.",
-      "url": "https://www.theguardian.com/environment/2025/dec/26/country-diary-little-rituals-to-help-sparrows-and-wrens",
-      "publishedAt": "2025-12-26T05:30:00",
-      "content": "The Marches, Shropshire: Boxing Day has its own more violent customs between humans and animals."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘They’re scared of us now’: how co-investment in a tropical forest saw off loggers",
-      "description": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwideThere are no roads through the ...",
-      "url": "https://www.theguardian.com/environment/2025/dec/25/they-are-scared-of-us-now-how-one-tropical-forest-turned-the-tide-on-loggers",
-      "publishedAt": "2025-12-25T15:00:43",
-      "content": "Low-cost tech and joined-up funding have reduced illegal logging, mining and poaching in the Darién Gap – it’s a success story that could stop deforestation worldwideThere are no roads through the ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
       "title": "A New Jersey Buyout Program for Flood-Prone Homes Is a National Model",
       "description": "MANVILLE, N.",
       "url": "https://insideclimatenews.org/news/25122025/new-jersey-flood-prone-homes-buyout-program/",
       "publishedAt": "2025-12-25T10:00:00",
       "content": "MANVILLE, N."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Nonprofit Center Works with Rural Maine Towns to Prepare for and Protect Against Extreme Weather",
-      "description": "The December 2023 flood.",
-      "url": "https://insideclimatenews.org/news/24122025/rural-maine-center-for-an-ecology-based-economy/",
-      "publishedAt": "2025-12-24T10:00:00",
-      "content": "The December 2023 flood."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In the Great Lakes Region, a Push to Grow Water-Focused Startups Amid Federal Funding Uncertainty",
-      "description": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch.",
-      "url": "https://insideclimatenews.org/news/24122025/great-lakes-water-focused-startups/",
-      "publishedAt": "2025-12-24T09:55:00",
-      "content": "When it comes to cleaning up dirty water, tiny bubbles can pack a big punch."
     },
     {
       "source": {
