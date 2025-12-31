@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 32,
   "articles": [
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "How Sateri is Scaling Lyocell for the Next Era of Sustainable Textile Innovation",
-      "description": "Lyocell is shifting from a ‘green choice’ to what many mills and brands now see as an inevitable choice.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/sateri-scaling-lyocell-for-next-era-of-sustainable-textile-innovation-1234793829/",
-      "publishedAt": "2025-12-29T15:49:57",
-      "content": "Lyocell is shifting from a ‘green choice’ to what many mills and brands now see as an inevitable choice."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -37,14 +26,14 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Inside Climate News"
       },
-      "author": "Sourcing Journal",
-      "title": "DHL, CMA CGM Partner to Cut Ocean Freight Emissions With Biofuels",
-      "description": "The collaboration leverages sustainable fuel programs GoGreen Plus and ACT+ to cut emissions across shipping lifecycle.",
-      "url": "https://sourcingjournal.com/topics/logistics/dhl-cma-cgm-ocean-freight-ghg-carbon-emissions-biofuels-decarbonization-gogreen-plus-act-sustainability-1234795017/",
-      "publishedAt": "2025-12-29T15:50:48",
-      "content": "The collaboration leverages sustainable fuel programs GoGreen Plus and ACT+ to cut emissions across shipping lifecycle."
+      "author": "Inside Climate News",
+      "title": "Maine’s Shellfish Harvesters Are Caught up in Climate-Related Closures",
+      "description": "This story was co-published and supported by the journalism nonprofit the Economic Hardship Reporting Project.",
+      "url": "https://insideclimatenews.org/news/30122025/maine-oyster-clam-harvesting/",
+      "publishedAt": "2025-12-30T10:00:00",
+      "content": "This story was co-published and supported by the journalism nonprofit the Economic Hardship Reporting Project."
     },
     {
       "source": {
@@ -56,6 +45,28 @@
       "url": "https://www.esgtoday.com/renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe/?utm_source=rss&utm_medium=rss&utm_campaign=renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe",
       "publishedAt": "2025-12-26T10:46:53",
       "content": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Raymond’s Biggest Question About the Trip",
+      "description": "Our climate reporter Raymond Zhong sets out on his journey to Antarctica and shares his biggest question for the trip ahead.",
+      "url": "https://www.nytimes.com/video/climate/100000010614033/raymonds-biggest-question-about-the-trip.html",
+      "publishedAt": "2025-12-31T00:22:19",
+      "content": "Our climate reporter Raymond Zhong sets out on his journey to Antarctica and shares his biggest question for the trip ahead."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Keysight and HEAD Acoustics Achieve Successful Interoperability Test for Next Generation eCall Systems",
+      "description": "Keysight Technologies, Inc.",
+      "url": "https://csrwire.com/press-release/keysight-and-head-acoustics-achieve-successful-interoperability-test-next-generation-ecall/",
+      "publishedAt": "2025-12-30T09:15:00",
+      "content": "Keysight Technologies, Inc."
     },
     {
       "source": {
@@ -84,22 +95,132 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Why This Glacier Worries Scientists the Most",
-      "description": "Our climate reporter Raymond Zhong describes how the fast-melting Thwaites Glacier of Antarctica, is like a cork in a bottle: If it starts to really disintegrate, many more glaciers around it could...",
-      "url": "https://www.nytimes.com/video/climate/100000010542258/why-this-glacier-worries-scientists-the-most.html",
-      "publishedAt": "2025-12-30T04:04:14",
-      "content": "Our climate reporter Raymond Zhong describes how the fast-melting Thwaites Glacier of Antarctica, is like a cork in a bottle: If it starts to really disintegrate, many more glaciers around it could..."
+      "title": "Overlooked Stories",
+      "description": "We look at some of our best stories of 2025 that you might have missed in the year’s avalanche of news.",
+      "url": "https://www.nytimes.com/2025/12/30/world/overlooked-stories-iran-protests-venezuela.html",
+      "publishedAt": "2025-12-31T04:21:41",
+      "content": "We look at some of our best stories of 2025 that you might have missed in the year’s avalanche of news."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People are wrestling with the burden’: Japan pivots to focus on nuclear power ‘maximisation’ alongside renewables",
+      "description": "Post-Fukushima nuclear closures of dozens of reactors forced the country to rely heavily on imported fossil fuels Continue reading...",
+      "url": "https://www.theguardian.com/environment/2025/dec/31/japan-pivots-nuclear-power-maximisation-renewables",
+      "publishedAt": "2025-12-31T04:00:00",
+      "content": "Post-Fukushima nuclear closures of dozens of reactors forced the country to rely heavily on imported fossil fuels Continue reading..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Leaving London: Step one in a long commute to the bottom of the Earth",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/leaving-london",
+      "publishedAt": "2025-12-31T03:00:13",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why scientists are studying the Thwaites glacier",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/studying-thwaites-glacier",
+      "publishedAt": "2025-12-30T23:49:04",
+      "content": ""
     },
     {
       "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "Yang Ming ‘Not Looking at Isolated Sailings’ as Premier Alliance Weighs Red Sea Return Options",
-      "description": "Despite isolated sailings by rivals, Yang Ming says coordinated, sustainable service, instead of one-off transits, will dictate a broader return.",
-      "url": "https://sourcingjournal.com/topics/logistics/yang-ming-premier-alliance-red-sea-suez-canal-return-resume-ocean-carriers-freight-rates-container-shipping-1234795100/",
-      "publishedAt": "2025-12-29T17:54:26",
-      "content": "Despite isolated sailings by rivals, Yang Ming says coordinated, sustainable service, instead of one-off transits, will dictate a broader return."
+      "title": "Cosco Slapped With FMC Complaint Over Detention Fees, Booking Cancellations",
+      "description": "California-based MAC Container Line alleges unreasonable billing, contract interference and retaliatory conduct by the Chinese state-owned carrier.",
+      "url": "https://sourcingjournal.com/topics/logistics/cosco-shipping-fmc-complaint-mac-container-line-detention-fees-booking-cancellations-cargo-space-unreasonable-1234795150/",
+      "publishedAt": "2025-12-30T19:21:23",
+      "content": "California-based MAC Container Line alleges unreasonable billing, contract interference and retaliatory conduct by the Chinese state-owned carrier."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
+      "description": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities.",
+      "url": "https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html",
+      "publishedAt": "2025-12-30T19:18:16",
+      "content": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Year In Review: Proof or Bust for Fashion’s Favorite Materials",
+      "description": "The year saw recycled polyester stalled, while cotton held value—though forensic DNA tracking redrew the line between claims and evidence.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/year-in-review-proof-or-bust-for-fashion-next-gen-materials-1234795131/",
+      "publishedAt": "2025-12-30T15:57:35",
+      "content": "The year saw recycled polyester stalled, while cotton held value—though forensic DNA tracking redrew the line between claims and evidence."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Year in Review: Five Logistics Tech Funding Rounds of Note",
+      "description": "Contoro Robotics, Dexory, Dyna Robotics, Shippeo and Voxel all convinced investors their technology was worth investing in this year.",
+      "url": "https://sourcingjournal.com/topics/technology/warehouse-robotics-artificial-intelligence-fundraising-roundup-1234791891/",
+      "publishedAt": "2025-12-30T15:00:00",
+      "content": "Contoro Robotics, Dexory, Dyna Robotics, Shippeo and Voxel all convinced investors their technology was worth investing in this year."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Scientists Are Coming to New Conclusions About Antarctica’s Thwaites Glacier",
+      "description": "Recent research has led scientists to new conclusions about the fastest melting glacier in Antarctica. Some are reassuring, others the opposite.",
+      "url": "https://www.nytimes.com/2025/12/30/climate/thwaites-glacier-doomsday.html",
+      "publishedAt": "2025-12-30T14:51:56",
+      "content": "Recent research has led scientists to new conclusions about the fastest melting glacier in Antarctica. Some are reassuring, others the opposite."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Blue Origin astronaut reveals depression after 'tsunami of harassment'",
+      "description": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April.",
+      "url": "https://www.bbc.com/news/articles/cd0k0939dd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-30T12:26:50",
+      "content": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Michigan’s Other Water Crisis: PFAS’s Prevalence in Private Wells",
+      "description": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992.",
+      "url": "https://insideclimatenews.org/news/30122025/michigan-pfas-private-wells/",
+      "publishedAt": "2025-12-30T09:55:00",
+      "content": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young Atlantic salmon seen in three English rivers for first time in a decade",
+      "description": "Species that is critically endangered in Britain is spotted in Mersey, Bollin and Goyt rivers in north-westYoung Atlantic salmon have been seen in three rivers in north-west England for the first t...",
+      "url": "https://www.theguardian.com/environment/2025/dec/30/young-atlantic-salmon-english-rivers-mersey-bollin-goyt",
+      "publishedAt": "2025-12-30T09:27:33",
+      "content": "Species that is critically endangered in Britain is spotted in Mersey, Bollin and Goyt rivers in north-westYoung Atlantic salmon have been seen in three rivers in north-west England for the first t..."
     },
     {
       "source": {
@@ -147,36 +268,36 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Guardian"
       },
-      "author": "Inside Climate News",
-      "title": "Scenes From an Unfolding Climate Drama",
-      "description": "The last 10 global climate summits have played out on vastly different stages: from the hopeful consensus of the Paris Agreement through a subsequent pandemic shock, petrostate spectacles and a hop...",
-      "url": "https://insideclimatenews.org/news/26122025/a-decade-of-the-united-nations-climate-change-conference/",
-      "publishedAt": "2025-12-26T09:55:00",
-      "content": "The last 10 global climate summits have played out on vastly different stages: from the hopeful consensus of the Paris Agreement through a subsequent pandemic shock, petrostate spectacles and a hop..."
+      "author": "The Guardian",
+      "title": "Heat, drought and fire: how extreme weather pushed nature to its limits in 2025",
+      "description": "National Trust says these are ‘alarm signals we cannot ignore’ as climate breakdown puts pressure on wildlifeExtremes of weather have pushed nature to its limits in 2025, putting wildlife, plants a...",
+      "url": "https://www.theguardian.com/environment/2025/dec/29/extreme-weather-climate-change-2025-national-trust",
+      "publishedAt": "2025-12-29T05:00:26",
+      "content": "National Trust says these are ‘alarm signals we cannot ignore’ as climate breakdown puts pressure on wildlifeExtremes of weather have pushed nature to its limits in 2025, putting wildlife, plants a..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "How a Research Trip to Antarctica Deals With Time Zones",
-      "description": "The clocks aboard our icebreaker will be changed several times en route to Antarctica. It’s one of many things that make the expedition feel otherworldly.",
-      "url": "https://www.nytimes.com/2025/12/29/climate/antarctica-time-zone.html",
-      "publishedAt": "2025-12-30T03:20:16",
-      "content": "The clocks aboard our icebreaker will be changed several times en route to Antarctica. It’s one of many things that make the expedition feel otherworldly."
+      "author": "The Guardian",
+      "title": "Country diary: Meet Houdini, the three-legged hedgehog who’s moved in for winter | Kate Bradbury",
+      "description": "Hove, East Sussex: I’ve had to create a halfway house for him, between the rescue centre and the wild.",
+      "url": "https://www.theguardian.com/environment/2025/dec/30/country-diary-meet-houdini-the-three-legged-hedgehog-whos-moved-in-for-winter",
+      "publishedAt": "2025-12-30T05:30:56",
+      "content": "Hove, East Sussex: I’ve had to create a halfway house for him, between the rescue centre and the wild."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "BBC"
       },
-      "author": "New York Times",
-      "title": "What Times Reporters Are Taking to Antarctica",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/packing-conversation",
-      "publishedAt": "2025-12-30T02:00:02",
-      "content": ""
+      "author": "BBC",
+      "title": "Great white sharks face extinction in Mediterranean, say researchers",
+      "description": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites.",
+      "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-30T01:15:19",
+      "content": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
     },
     {
       "source": {
@@ -188,28 +309,6 @@
       "url": "https://sourcingjournal.com/topics/logistics/south-korea-global-ports-terminals-expansion-logistics-operators-investment-trade-warehouses-container-yards-1234795122/",
       "publishedAt": "2025-12-29T21:40:53",
       "content": "The country's ocean ministry says Korean stakes in global container terminals are “directly linked to the competitiveness” of the country’s shipping industry."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Nike Just Does It, Pays Thai Workers After Years of Pressure",
-      "description": "Nike has agreed to pay owed wages to Thai garment workers, marking a major labor rights victory.",
-      "url": "https://sourcingjournal.com/topics/labor/nike-pays-thai-workers-after-years-of-pressure-fla-1234795103/",
-      "publishedAt": "2025-12-29T20:00:00",
-      "content": "Nike has agreed to pay owed wages to Thai garment workers, marking a major labor rights victory."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Year in Review: The Headlines That Shaped the Denim Industry in 2025",
-      "description": "Few apparel categories are as deeply shaped by protest culture—or as dependent on the whims of the cotton harvest—as denim.",
-      "url": "https://sourcingjournal.com/denim/denim-business/year-in-review-headlines-shaped-denim-industry-in-2025-1234792735/",
-      "publishedAt": "2025-12-29T16:15:00",
-      "content": "Few apparel categories are as deeply shaped by protest culture—or as dependent on the whims of the cotton harvest—as denim."
     },
     {
       "source": {
@@ -227,66 +326,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘It’s like you’re sitting in front of an oven’: surviving the summer in one of Australia’s hottest towns",
-      "description": "When the hot winds hit Roebourne, as many as 16 people pile into Yindjibarndi elder Lyn Cheedy’s home – one of the few with air conditioningFew places are more exposed to extreme weather than Roebo...",
-      "url": "https://www.theguardian.com/australia-news/2025/dec/30/roebourne-western-australia-town-summer-heat",
-      "publishedAt": "2025-12-29T14:00:38",
-      "content": "When the hot winds hit Roebourne, as many as 16 people pile into Yindjibarndi elder Lyn Cheedy’s home – one of the few with air conditioningFew places are more exposed to extreme weather than Roebo..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "‘Cities need nature to be happy’: David Attenborough seeks out London’s hidden wildlife",
       "description": "Attenborough, 99, enthuses about tube-riding pigeons, foxes, parakeets and others in Wild London for the BBCFilming the wildlife of London requires an intrepid, agile presenter, willing to lie on d...",
       "url": "https://www.theguardian.com/tv-and-radio/2025/dec/29/cities-need-nature-to-be-happy-david-attenborough-seeks-out-londons-hidden-wildlife",
       "publishedAt": "2025-12-29T12:00:35",
       "content": "Attenborough, 99, enthuses about tube-riding pigeons, foxes, parakeets and others in Wild London for the BBCFilming the wildlife of London requires an intrepid, agile presenter, willing to lie on d..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The World Wants More Ube. Philippine Farmers Are Struggling to Keep Up.",
-      "description": "Soaring demand and extreme weather worsened by climate change have wiped out harvests of the popular purple yam.",
-      "url": "https://www.nytimes.com/2025/12/29/world/asia/philippines-ube-purple-yam.html",
-      "publishedAt": "2025-12-29T05:54:14",
-      "content": "Soaring demand and extreme weather worsened by climate change have wiped out harvests of the popular purple yam."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Heat, drought and fire: how extreme weather pushed nature to its limits in 2025",
-      "description": "National Trust says these are ‘alarm signals we cannot ignore’ as climate breakdown puts pressure on wildlifeExtremes of weather have pushed nature to its limits in 2025, putting wildlife, plants a...",
-      "url": "https://www.theguardian.com/environment/2025/dec/29/extreme-weather-climate-change-2025-national-trust",
-      "publishedAt": "2025-12-29T05:00:26",
-      "content": "National Trust says these are ‘alarm signals we cannot ignore’ as climate breakdown puts pressure on wildlifeExtremes of weather have pushed nature to its limits in 2025, putting wildlife, plants a..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A rare giant in the quiet of the wood | Sarah Lambert",
-      "description": "Old Sulehay Forest, Northamptonshire: Distant church bells are about all I can hear as I stand below a 500-year-old small-leaved lime – a tree that may be making an unlikely comebackOn a bright win...",
-      "url": "https://www.theguardian.com/environment/2025/dec/29/country-diary-a-rare-giant-in-the-quiet-of-the-wood",
-      "publishedAt": "2025-12-29T05:30:26",
-      "content": "Old Sulehay Forest, Northamptonshire: Distant church bells are about all I can hear as I stand below a 500-year-old small-leaved lime – a tree that may be making an unlikely comebackOn a bright win..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The mystery of flight MH370: will a new search find the missing airliner after more than a decade?",
-      "description": "In 2014 the Malaysian Airlines jet vanished over the Indian Ocean.",
-      "url": "https://www.theguardian.com/environment/2025/dec/29/malaysian-airlines-flight-mh370-mystery-search-indian-ocean-infinity-robots",
-      "publishedAt": "2025-12-29T05:00:30",
-      "content": "In 2014 the Malaysian Airlines jet vanished over the Indian Ocean."
     },
     {
       "source": {
@@ -301,28 +345,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Bound for Antarctica: A Trip to Study the Thwaites Glacier Is Underway",
-      "description": "The continent’s ice is melting and raising sea levels worldwide. Our journalists will be sending regular dispatches as they head there with scientists trying to gauge the dangers.",
-      "url": "https://www.nytimes.com/2025/12/27/climate/antarctica-thwaites-glacier.html",
-      "publishedAt": "2025-12-28T20:57:06",
-      "content": "The continent’s ice is melting and raising sea levels worldwide. Our journalists will be sending regular dispatches as they head there with scientists trying to gauge the dangers."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Ghost resorts’: as hundreds of ski slopes lie abandoned, will nature reclaim the Alps?",
-      "description": "With the snow line edging higher, 186 French ski resorts have shut, while global heating threatens dozens moreWhen Céüze 2000 ski resort closed at the end of the season in 2018, the workers assumed...",
-      "url": "https://www.theguardian.com/environment/2025/dec/27/alps-france-skiing-snow-warming-resorts-closing-ceuze-landscape",
-      "publishedAt": "2025-12-27T06:48:56",
-      "content": "With the snow line edging higher, 186 French ski resorts have shut, while global heating threatens dozens moreWhen Céüze 2000 ski resort closed at the end of the season in 2018, the workers assumed..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -331,50 +353,6 @@
       "url": "https://csrwire.com/press-release/state-purpose-work-leveraging-2025-data-define-csr-strategy-2026/",
       "publishedAt": "2025-12-26T10:00:00",
       "content": "The landscape of corporate citizenship is undergoing its most profound transition in a decade."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Deck the Halls With Webex Calls: How Cisco Technology Brings Holiday Cheer to Hospitals",
-      "description": "Some Christmas stories start with a sleigh.",
-      "url": "https://csrwire.com/press-release/deck-halls-webex-calls-how-cisco-technology-brings-holiday-cheer-hospitals/",
-      "publishedAt": "2025-12-23T15:15:00",
-      "content": "Some Christmas stories start with a sleigh."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Port of Rotterdam Issues First-Ever Carbon Capture and Storage Bond",
-      "description": "The Port of Rotterdam has raised €50 million through the issuance of a new Carbon [&#8230;]",
-      "url": "https://www.esgtoday.com/port-of-rotterdam-issues-first-ever-carbon-capture-and-storage-bond/?utm_source=rss&utm_medium=rss&utm_campaign=port-of-rotterdam-issues-first-ever-carbon-capture-and-storage-bond",
-      "publishedAt": "2025-12-23T14:20:42",
-      "content": "The Port of Rotterdam has raised €50 million through the issuance of a new Carbon [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Disability Inclusion is the Untapped Market Hiding in Plain Sight",
-      "description": "The $23 trillion disability economy is reshaping global markets, but it's flying under companies' radars.",
-      "url": "https://triplepundit.com/2025/disability-economy-accessibility-corporate-responsibility/",
-      "publishedAt": "2025-12-23T13:00:00",
-      "content": "The $23 trillion disability economy is reshaping global markets, but it's flying under companies' radars."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Chemours Employees Unite To Make a Difference This Holiday Season",
-      "description": "Every year, Chemours employees across the U.",
-      "url": "https://csrwire.com/press-release/chemours-employees-unite-make-difference-holiday-season/",
-      "publishedAt": "2025-12-23T12:15:00",
-      "content": "Every year, Chemours employees across the U."
     }
   ]
 }
