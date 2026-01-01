@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 31,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How the climate crisis showed up in Americans’ lives this year: ‘The shift has been swift and stark’",
+      "description": "Guardian US readers share how global heating and biodiversity loss affected their lives in ways that don’t always make the headlines The past year was another one of record-setting heat and catastr...",
+      "url": "https://www.theguardian.com/us-news/2025/dec/31/climate-crisis-guardian-readers",
+      "publishedAt": "2025-12-31T15:00:13",
+      "content": "Guardian US readers share how global heating and biodiversity loss affected their lives in ways that don’t always make the headlines The past year was another one of record-setting heat and catastr..."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -15,14 +26,47 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "It’s easy to feel powerless about climate chaos. Here’s what gives me hope | Nina Lakhani",
+      "description": "I’ve spent six years writing about environmental justice.",
+      "url": "https://www.theguardian.com/environment/2025/dec/31/environmental-justice-ordinary-people-power",
+      "publishedAt": "2025-12-31T14:00:16",
+      "content": "I’ve spent six years writing about environmental justice."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EU Commission Harmonizes Circular Economy Rules to Reignite Plastic Recycling Market",
-      "description": "The European Commission announced on Tuesday a set of new pilot actions aimed at creating [&#8230;]",
-      "url": "https://www.esgtoday.com/eu-commission-harmonizes-circular-economy-rules-to-reignite-plastic-recycling-market/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-harmonizes-circular-economy-rules-to-reignite-plastic-recycling-market",
-      "publishedAt": "2025-12-24T10:33:19",
-      "content": "The European Commission announced on Tuesday a set of new pilot actions aimed at creating [&#8230;]"
+      "title": "Octopus Energy Raises $1 Billion for Utility Tech Spinout Kraken",
+      "description": "UK-based clean energy tech company Octopus Energy Group announced that it will spin out its [&#8230;]",
+      "url": "https://www.esgtoday.com/octopus-energy-raises-1-billion-for-utility-tech-spinout-kraken/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-energy-raises-1-billion-for-utility-tech-spinout-kraken",
+      "publishedAt": "2025-12-31T11:40:01",
+      "content": "UK-based clean energy tech company Octopus Energy Group announced that it will spin out its [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Mamdani Names Top Deputies for Child Care, Operations and Climate",
+      "description": "Zohran Mamdani, the mayor-elect, announced several key appointments who could help implement central promises of his agenda, including universal child care.",
+      "url": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-top-deputies-child-care-infrastructure-climate.html",
+      "publishedAt": "2025-12-31T23:08:32",
+      "content": "Zohran Mamdani, the mayor-elect, announced several key appointments who could help implement central promises of his agenda, including universal child care."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Renewco Power Raises £29 Million to Build Wind and Solar Projects across UK, Europe",
+      "description": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]",
+      "url": "https://www.esgtoday.com/renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe/?utm_source=rss&utm_medium=rss&utm_campaign=renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe",
+      "publishedAt": "2025-12-26T10:46:53",
+      "content": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]"
     },
     {
       "source": {
@@ -37,14 +81,113 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Triple Pundit"
       },
-      "author": "ESG Today",
-      "title": "Renewco Power Raises £29 Million to Build Wind and Solar Projects across UK, Europe",
-      "description": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]",
-      "url": "https://www.esgtoday.com/renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe/?utm_source=rss&utm_medium=rss&utm_campaign=renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe",
-      "publishedAt": "2025-12-26T10:46:53",
-      "content": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]"
+      "author": "Triple Pundit",
+      "title": "The Fragile System Taking Shape to Manage Nigeria’s E-Waste Crisis",
+      "description": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit",
+      "url": "https://triplepundit.com/2025/e-waste-pollution-nigeria-legislation/",
+      "publishedAt": "2025-12-29T13:00:00",
+      "content": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Leaving London: Step one in a long commute to the bottom of the Earth.",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/leaving-london",
+      "publishedAt": "2026-01-01T04:39:45",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "See the First Iceberg of the Times’s Trip to Antarctica",
+      "description": "For Antarctic veterans and novices alike, the first sighting of an iceberg on an expedition stays “closest to your heart.”",
+      "url": "https://www.nytimes.com/2025/12/31/climate/antarctica-journey-first-iceberg.html",
+      "publishedAt": "2026-01-01T04:30:58",
+      "content": "For Antarctic veterans and novices alike, the first sighting of an iceberg on an expedition stays “closest to your heart.”"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Rival Railroads Slam UP-NS Merger Application, Citing Incomplete Data",
+      "description": "Class I railroads BNSF, CPKC, CN and CSX argue the filing violates STB merger rules and leaves key competition and market impacts unanswered.",
+      "url": "https://sourcingjournal.com/topics/logistics/stb-union-pacific-norfolk-southern-merger-application-missing-data-trucking-bnsf-cn-cpkc-csx-train-derailment-1234795179/",
+      "publishedAt": "2025-12-31T19:55:09",
+      "content": "Class I railroads BNSF, CPKC, CN and CSX argue the filing violates STB merger rules and leaves key competition and market impacts unanswered."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "French Customs Finds 25% of Shein Parcels Non-Compliant",
+      "description": "A quarter of Shein packages entering France fail safety or labeling checks, raising compliance concerns with EU standards, the French government said.",
+      "url": "https://sourcingjournal.com/topics/compliance/french-customs-find-25-percent-shein-parcels-non-compliant-1234795165/",
+      "publishedAt": "2025-12-31T16:46:48",
+      "content": "A quarter of Shein packages entering France fail safety or labeling checks, raising compliance concerns with EU standards, the French government said."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "DHL’s Tesla Semi Pilot ‘Exceeded Expectations,’ Paving Way for Expansion",
+      "description": "DHL Supply Chain has rolled out its first Tesla Semi following a successful pilot, with plans to expand electric Class 8 truck operations beyond California in 2026.",
+      "url": "https://sourcingjournal.com/topics/logistics/dhl-supply-chain-tesla-semi-pilot-ev-electric-vehicles-truck-trucking-california-class-8-heavy-duty-decarbonization-1234795161/",
+      "publishedAt": "2025-12-31T14:06:48",
+      "content": "DHL Supply Chain has rolled out its first Tesla Semi following a successful pilot, with plans to expand electric Class 8 truck operations beyond California in 2026."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Carved in Blue Team Looks Back on 2025 Highlights",
+      "description": "The Carved in Blue team gives their reflections on a challenging yet momentous year and their hopes and outlook for 2026.",
+      "url": "https://sourcingjournal.com/denim/denim-influencers/carved-in-blue-team-looks-back-2025-highlights-1234795036/",
+      "publishedAt": "2025-12-31T14:00:00",
+      "content": "The Carved in Blue team gives their reflections on a challenging yet momentous year and their hopes and outlook for 2026."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘They didn’t de-extinct anything’: can Colossal’s genetically engineered animals ever be the real thing?",
+      "description": "The bioscience startup has attracted billions in investment – and a flurry of criticism, but founder tells the Guardian plans to bring back the woolly mammoth will not be derailedDeath and taxes ar...",
+      "url": "https://www.theguardian.com/environment/2025/dec/31/colossal-ben-lamm-deextinction-dire-wolf-dodo-tasmanian-tiger-aoe",
+      "publishedAt": "2025-12-31T11:00:08",
+      "content": "The bioscience startup has attracted billions in investment – and a flurry of criticism, but founder tells the Guardian plans to bring back the woolly mammoth will not be derailedDeath and taxes ar..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Idaho Bird Research Station Rises From the Ashes of a Wildfire",
+      "description": "BOISE, Idaho—Ping.",
+      "url": "https://insideclimatenews.org/news/31122025/idaho-valley-fire-torched-lucky-peak-bird-research-station/",
+      "publishedAt": "2025-12-31T10:00:00",
+      "content": "BOISE, Idaho—Ping."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Northumberland nature recovery project takes shape with biggest land sale in 30 years",
+      "description": "Wildlife trust is raising funds to buy largest piece of land in single ownership to come up for sale in England for a generation“We’ve lost so much,” says Mike Pratt, reflecting on Britain’s nature...",
+      "url": "https://www.theguardian.com/uk-news/2025/dec/31/northumberland-nature-recovery-project-takes-shape-with-biggest-land-sale-in-30-years",
+      "publishedAt": "2025-12-31T07:00:05",
+      "content": "Wildlife trust is raising funds to buy largest piece of land in single ownership to come up for sale in England for a generation“We’ve lost so much,” says Mike Pratt, reflecting on Britain’s nature..."
     },
     {
       "source": {
@@ -67,160 +210,6 @@
       "url": "https://csrwire.com/press-release/keysight-and-head-acoustics-achieve-successful-interoperability-test-next-generation-ecall/",
       "publishedAt": "2025-12-30T09:15:00",
       "content": "Keysight Technologies, Inc."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The Fragile System Taking Shape to Manage Nigeria’s E-Waste Crisis",
-      "description": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit",
-      "url": "https://triplepundit.com/2025/e-waste-pollution-nigeria-legislation/",
-      "publishedAt": "2025-12-29T13:00:00",
-      "content": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "After a Hard Year for Environmental Justice, Chicago Communities Are Picking Up the Pieces",
-      "description": "In her 40 years as an environmental justice organizer, Cheryl Johnson had never seen environmental funding as revolutionary as the Community Change grant.&#160; “It gave real money to disinvested c...",
-      "url": "https://insideclimatenews.org/news/27122025/chicago-environmental-justice-grant-cuts/",
-      "publishedAt": "2025-12-27T10:00:00",
-      "content": "In her 40 years as an environmental justice organizer, Cheryl Johnson had never seen environmental funding as revolutionary as the Community Change grant.&#160; “It gave real money to disinvested c..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Overlooked Stories",
-      "description": "We look at some of our best stories of 2025 that you might have missed in the year’s avalanche of news.",
-      "url": "https://www.nytimes.com/2025/12/30/world/overlooked-stories-iran-protests-venezuela.html",
-      "publishedAt": "2025-12-31T04:21:41",
-      "content": "We look at some of our best stories of 2025 that you might have missed in the year’s avalanche of news."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘People are wrestling with the burden’: Japan pivots to focus on nuclear power ‘maximisation’ alongside renewables",
-      "description": "Post-Fukushima nuclear closures of dozens of reactors forced the country to rely heavily on imported fossil fuels Continue reading...",
-      "url": "https://www.theguardian.com/environment/2025/dec/31/japan-pivots-nuclear-power-maximisation-renewables",
-      "publishedAt": "2025-12-31T04:00:00",
-      "content": "Post-Fukushima nuclear closures of dozens of reactors forced the country to rely heavily on imported fossil fuels Continue reading..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Leaving London: Step one in a long commute to the bottom of the Earth",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/leaving-london",
-      "publishedAt": "2025-12-31T03:00:13",
-      "content": ""
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Why scientists are studying the Thwaites glacier",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/studying-thwaites-glacier",
-      "publishedAt": "2025-12-30T23:49:04",
-      "content": ""
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Cosco Slapped With FMC Complaint Over Detention Fees, Booking Cancellations",
-      "description": "California-based MAC Container Line alleges unreasonable billing, contract interference and retaliatory conduct by the Chinese state-owned carrier.",
-      "url": "https://sourcingjournal.com/topics/logistics/cosco-shipping-fmc-complaint-mac-container-line-detention-fees-booking-cancellations-cargo-space-unreasonable-1234795150/",
-      "publishedAt": "2025-12-30T19:21:23",
-      "content": "California-based MAC Container Line alleges unreasonable billing, contract interference and retaliatory conduct by the Chinese state-owned carrier."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
-      "description": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities.",
-      "url": "https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html",
-      "publishedAt": "2025-12-30T19:18:16",
-      "content": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Year In Review: Proof or Bust for Fashion’s Favorite Materials",
-      "description": "The year saw recycled polyester stalled, while cotton held value—though forensic DNA tracking redrew the line between claims and evidence.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/year-in-review-proof-or-bust-for-fashion-next-gen-materials-1234795131/",
-      "publishedAt": "2025-12-30T15:57:35",
-      "content": "The year saw recycled polyester stalled, while cotton held value—though forensic DNA tracking redrew the line between claims and evidence."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Year in Review: Five Logistics Tech Funding Rounds of Note",
-      "description": "Contoro Robotics, Dexory, Dyna Robotics, Shippeo and Voxel all convinced investors their technology was worth investing in this year.",
-      "url": "https://sourcingjournal.com/topics/technology/warehouse-robotics-artificial-intelligence-fundraising-roundup-1234791891/",
-      "publishedAt": "2025-12-30T15:00:00",
-      "content": "Contoro Robotics, Dexory, Dyna Robotics, Shippeo and Voxel all convinced investors their technology was worth investing in this year."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Scientists Are Coming to New Conclusions About Antarctica’s Thwaites Glacier",
-      "description": "Recent research has led scientists to new conclusions about the fastest melting glacier in Antarctica. Some are reassuring, others the opposite.",
-      "url": "https://www.nytimes.com/2025/12/30/climate/thwaites-glacier-doomsday.html",
-      "publishedAt": "2025-12-30T14:51:56",
-      "content": "Recent research has led scientists to new conclusions about the fastest melting glacier in Antarctica. Some are reassuring, others the opposite."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Blue Origin astronaut reveals depression after 'tsunami of harassment'",
-      "description": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April.",
-      "url": "https://www.bbc.com/news/articles/cd0k0939dd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-30T12:26:50",
-      "content": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Michigan’s Other Water Crisis: PFAS’s Prevalence in Private Wells",
-      "description": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992.",
-      "url": "https://insideclimatenews.org/news/30122025/michigan-pfas-private-wells/",
-      "publishedAt": "2025-12-30T09:55:00",
-      "content": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Young Atlantic salmon seen in three English rivers for first time in a decade",
-      "description": "Species that is critically endangered in Britain is spotted in Mersey, Bollin and Goyt rivers in north-westYoung Atlantic salmon have been seen in three rivers in north-west England for the first t...",
-      "url": "https://www.theguardian.com/environment/2025/dec/30/young-atlantic-salmon-english-rivers-mersey-bollin-goyt",
-      "publishedAt": "2025-12-30T09:27:33",
-      "content": "Species that is critically endangered in Britain is spotted in Mersey, Bollin and Goyt rivers in north-westYoung Atlantic salmon have been seen in three rivers in north-west England for the first t..."
     },
     {
       "source": {
@@ -271,22 +260,66 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Heat, drought and fire: how extreme weather pushed nature to its limits in 2025",
-      "description": "National Trust says these are ‘alarm signals we cannot ignore’ as climate breakdown puts pressure on wildlifeExtremes of weather have pushed nature to its limits in 2025, putting wildlife, plants a...",
-      "url": "https://www.theguardian.com/environment/2025/dec/29/extreme-weather-climate-change-2025-national-trust",
-      "publishedAt": "2025-12-29T05:00:26",
-      "content": "National Trust says these are ‘alarm signals we cannot ignore’ as climate breakdown puts pressure on wildlifeExtremes of weather have pushed nature to its limits in 2025, putting wildlife, plants a..."
+      "title": "Ten English fire services tackled record number of grass, forest and crop fires in 2025",
+      "description": "Fire chief says summer, the UK’s hottest on record, was ‘one of the most challenging for wildfires that we’ve ever faced’Ten English fire services tackled a record number of grassland, woodland and...",
+      "url": "https://www.theguardian.com/world/2025/dec/31/record-number-wildfires-2025-tackled-by-10-english-fire-services",
+      "publishedAt": "2025-12-31T05:00:02",
+      "content": "Fire chief says summer, the UK’s hottest on record, was ‘one of the most challenging for wildfires that we’ve ever faced’Ten English fire services tackled a record number of grassland, woodland and..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: Meet Houdini, the three-legged hedgehog who’s moved in for winter | Kate Bradbury",
-      "description": "Hove, East Sussex: I’ve had to create a halfway house for him, between the rescue centre and the wild.",
-      "url": "https://www.theguardian.com/environment/2025/dec/30/country-diary-meet-houdini-the-three-legged-hedgehog-whos-moved-in-for-winter",
-      "publishedAt": "2025-12-30T05:30:56",
-      "content": "Hove, East Sussex: I’ve had to create a halfway house for him, between the rescue centre and the wild."
+      "title": "‘You could see bones’: Families’ anguish over coastal erosion threat to Norfolk graves",
+      "description": "Bereaved relatives say delays over risks at village churchyards are causing distress and call for council actionFamilies of people buried in graves vulnerable to coastal erosion say indecision over...",
+      "url": "https://www.theguardian.com/uk-news/2025/dec/31/families-coastal-erosion-graves-norfolk-villages-churchyards-council",
+      "publishedAt": "2025-12-31T05:00:01",
+      "content": "Bereaved relatives say delays over risks at village churchyards are causing distress and call for council actionFamilies of people buried in graves vulnerable to coastal erosion say indecision over..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People are wrestling with the burden’: Japan pivots to focus on nuclear power ‘maximisation’ alongside renewables",
+      "description": "Post-Fukushima nuclear closures of dozens of reactors forced the country to rely heavily on imported fossil fuels Continue reading...",
+      "url": "https://www.theguardian.com/environment/2025/dec/31/japan-pivots-nuclear-power-maximisation-renewables",
+      "publishedAt": "2025-12-31T04:00:00",
+      "content": "Post-Fukushima nuclear closures of dozens of reactors forced the country to rely heavily on imported fossil fuels Continue reading..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
+      "description": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities.",
+      "url": "https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html",
+      "publishedAt": "2025-12-30T19:18:16",
+      "content": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Blue Origin astronaut reveals depression after 'tsunami of harassment'",
+      "description": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April.",
+      "url": "https://www.bbc.com/news/articles/cd0k0939dd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2025-12-30T12:26:50",
+      "content": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Michigan’s Other Water Crisis: PFAS’s Prevalence in Private Wells",
+      "description": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992.",
+      "url": "https://insideclimatenews.org/news/30122025/michigan-pfas-private-wells/",
+      "publishedAt": "2025-12-30T09:55:00",
+      "content": "Seeking peace and quiet amid hectic careers, Sandy Wynn-Stelt and her husband Joel moved to Kent County, Michigan, in 1992."
     },
     {
       "source": {
@@ -298,50 +331,6 @@
       "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2025-12-30T01:15:19",
       "content": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "South Korea Maps Decade-Long $3.1B Global Ports Expansion",
-      "description": "The country's ocean ministry says Korean stakes in global container terminals are “directly linked to the competitiveness” of the country’s shipping industry.",
-      "url": "https://sourcingjournal.com/topics/logistics/south-korea-global-ports-terminals-expansion-logistics-operators-investment-trade-warehouses-container-yards-1234795122/",
-      "publishedAt": "2025-12-29T21:40:53",
-      "content": "The country's ocean ministry says Korean stakes in global container terminals are “directly linked to the competitiveness” of the country’s shipping industry."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Stingless bees from the Amazon granted legal rights in world first",
-      "description": "Planet’s oldest bee species and primary pollinators were under threat from deforestation and competition from ‘killer bees’Stingless bees from the Amazon have become the first insects to be granted...",
-      "url": "https://www.theguardian.com/environment/2025/dec/29/stingless-bees-from-the-amazon-granted-legal-rights-in-world-first",
-      "publishedAt": "2025-12-29T14:00:44",
-      "content": "Planet’s oldest bee species and primary pollinators were under threat from deforestation and competition from ‘killer bees’Stingless bees from the Amazon have become the first insects to be granted..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Cities need nature to be happy’: David Attenborough seeks out London’s hidden wildlife",
-      "description": "Attenborough, 99, enthuses about tube-riding pigeons, foxes, parakeets and others in Wild London for the BBCFilming the wildlife of London requires an intrepid, agile presenter, willing to lie on d...",
-      "url": "https://www.theguardian.com/tv-and-radio/2025/dec/29/cities-need-nature-to-be-happy-david-attenborough-seeks-out-londons-hidden-wildlife",
-      "publishedAt": "2025-12-29T12:00:35",
-      "content": "Attenborough, 99, enthuses about tube-riding pigeons, foxes, parakeets and others in Wild London for the BBCFilming the wildlife of London requires an intrepid, agile presenter, willing to lie on d..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why 2026 looks bright for Northern Light sightings",
-      "description": "With the Sun still in an active phase there could be more spectacular Northern light displays in the year ahead.",
-      "url": "https://www.bbc.com/weather/articles/ce8nz3m3k10o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-29T00:58:10",
-      "content": "With the Sun still in an active phase there could be more spectacular Northern light displays in the year ahead."
     },
     {
       "source": {
