@@ -1,3 +1,4 @@
+import html
 import feedparser
 import json
 import os
@@ -220,8 +221,12 @@ class NewsAggregator:
         elif hasattr(entry, 'summary'):
             description = entry.summary
         
-        # Remove HTML tags
-        clean_desc = re.sub('<[^<]+?>', '', description)
+        # Decode HTML entities (e.g. &#8230;) and remove HTML tags
+clean_desc = html.unescape(description)
+clean_desc = re.sub('<[^<]+?>', '', clean_desc)
+
+# Remove publisher-added truncation markers
+clean_desc = re.sub(r'\[\s*…\s*\]|\[\s*\.\.\.\s*\]', '', clean_desc).strip()
         
         # Limit length for safety
         if len(clean_desc) > 200:
