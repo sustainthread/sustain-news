@@ -227,20 +227,20 @@ clean_desc = re.sub('<[^<]+?>', '', clean_desc)
 
 # Remove publisher-added truncation markers
 clean_desc = re.sub(r'\[\s*…\s*\]|\[\s*\.\.\.\s*\]', '', clean_desc).strip()
-        
-        # Limit length for safety
-        if len(clean_desc) > 200:
-            if '.' in clean_desc[:150]:
-                # Try to cut at sentence end
-                sentences = clean_desc.split('.')
-                if len(sentences[0]) < 150:
-                    clean_desc = sentences[0] + '.'
-                else:
-                    clean_desc = clean_desc[:147] + '...'
-            else:
-                clean_desc = clean_desc[:197] + '...'
-        
-        return clean_desc.strip()
+
+# Limit length for safety
+if len(clean_desc) > 200:
+    if '.' in clean_desc[:150]:
+        # Try to cut at sentence end
+        sentences = clean_desc.split('.')
+        if len(sentences[0]) < 150:
+            clean_desc = sentences[0] + '.'
+        else:
+            clean_desc = clean_desc[:147] + '...'
+    else:
+        clean_desc = clean_desc[:197] + '...'
+
+return clean_desc.strip()
     
     def should_reject_article(self, title, description):
         """Check if article should be immediately rejected"""
