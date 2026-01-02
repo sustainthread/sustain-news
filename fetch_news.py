@@ -212,7 +212,7 @@ class NewsAggregator:
             return datetime(*entry.updated_parsed[:6])
         return None
     
-def get_clean_description(self, entry):
+    def get_clean_description(self, entry):
     """Extract and clean description"""
     description = ""
     
