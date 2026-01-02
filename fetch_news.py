@@ -212,35 +212,35 @@ class NewsAggregator:
             return datetime(*entry.updated_parsed[:6])
         return None
     
-    def get_clean_description(self, entry):
-    """Extract and clean description"""
-    description = ""
-    
-    if hasattr(entry, 'description'):
-        description = entry.description
-    elif hasattr(entry, 'summary'):
-        description = entry.summary
+   def get_clean_description(self, entry):
+        """Extract and clean description"""
+        description = ""
+        
+        if hasattr(entry, 'description'):
+            description = entry.description
+        elif hasattr(entry, 'summary'):
+            description = entry.summary
 
-    # Decode HTML entities (e.g. &#8230;) and remove HTML tags
-    clean_desc = html.unescape(description)
-    clean_desc = re.sub('<[^<]+?>', '', clean_desc)
+        # Decode HTML entities (e.g. &#8230;) and remove HTML tags
+        clean_desc = html.unescape(description)
+        clean_desc = re.sub('<[^<]+?>', '', clean_desc)
 
-    # Remove publisher-added truncation markers
-    clean_desc = re.sub(r'\[\s*…\s*\]|\[\s*\.\.\.\s*\]', '', clean_desc).strip()
+        # Remove publisher-added truncation markers
+        clean_desc = re.sub(r'\[\s*…\s*\]|\[\s*\.\.\.\s*\]', '', clean_desc).strip()
 
-    # Limit length for safety
-    if len(clean_desc) > 200:
-        if '.' in clean_desc[:150]:
-            sentences = clean_desc.split('.')
-            if len(sentences[0]) < 150:
-                clean_desc = sentences[0] + '.'
+        # Limit length for safety
+        if len(clean_desc) > 200:
+            if '.' in clean_desc[:150]:
+                sentences = clean_desc.split('.')
+                if len(sentences[0]) < 150:
+                    clean_desc = sentences[0] + '.'
+                else:
+                    clean_desc = clean_desc[:147] + '...'
             else:
-                clean_desc = clean_desc[:147] + '...'
-        else:
-            clean_desc = clean_desc[:197] + '...'
+                clean_desc = clean_desc[:197] + '...'
 
-    return clean_desc.strip()
-    
+        return clean_desc.strip()
+      
     def should_reject_article(self, title, description):
         """Check if article should be immediately rejected"""
         content = f"{title} {description}".lower()
