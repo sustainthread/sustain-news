@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 31,
+  "totalResults": 26,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How the climate crisis showed up in Americans’ lives this year: ‘The shift has been swift and stark’",
-      "description": "Guardian US readers share how global heating and biodiversity loss affected their lives in ways that don’t always make the headlines The past year was another one of record-setting heat and catastr...",
-      "url": "https://www.theguardian.com/us-news/2025/dec/31/climate-crisis-guardian-readers",
-      "publishedAt": "2025-12-31T15:00:13",
-      "content": "Guardian US readers share how global heating and biodiversity loss affected their lives in ways that don’t always make the headlines The past year was another one of record-setting heat and catastr..."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -48,17 +37,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Mamdani Names Top Deputies for Child Care, Operations and Climate",
-      "description": "Zohran Mamdani, the mayor-elect, announced several key appointments who could help implement central promises of his agenda, including universal child care.",
-      "url": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-top-deputies-child-care-infrastructure-climate.html",
-      "publishedAt": "2025-12-31T23:08:32",
-      "content": "Zohran Mamdani, the mayor-elect, announced several key appointments who could help implement central promises of his agenda, including universal child care."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -67,6 +45,28 @@
       "url": "https://www.esgtoday.com/renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe/?utm_source=rss&utm_medium=rss&utm_campaign=renewco-power-raises-29-million-to-build-wind-and-solar-projects-across-uk-europe",
       "publishedAt": "2025-12-26T10:46:53",
       "content": "Renewable energy developer Renewco Power announced that it has raised £29 million through new investments, [&#8230;]"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "EU’s new ‘green tariff’ rules on high-carbon goods come into force",
+      "description": "The ‘border adjustment mechanism’ aims to create a level playing field while also encouraging decarbonisationThe biggest shake-up of green trade rules for decades comes into force today, as compani...",
+      "url": "https://www.theguardian.com/environment/2026/jan/01/eus-new-green-tariff-rules-on-high-carbon-goods-come-into-force",
+      "publishedAt": "2026-01-01T05:00:32",
+      "content": "The ‘border adjustment mechanism’ aims to create a level playing field while also encouraging decarbonisationThe biggest shake-up of green trade rules for decades comes into force today, as compani..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Mamdani Names Top Deputies for Child Care, Operations and Climate",
+      "description": "Zohran Mamdani, the mayor-elect, announced several key appointments who could help implement central promises of his agenda, including universal child care.",
+      "url": "https://www.nytimes.com/2025/12/31/nyregion/mamdani-top-deputies-child-care-infrastructure-climate.html",
+      "publishedAt": "2025-12-31T23:08:32",
+      "content": "Zohran Mamdani, the mayor-elect, announced several key appointments who could help implement central promises of his agenda, including universal child care."
     },
     {
       "source": {
@@ -81,25 +81,36 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Guardian"
       },
-      "author": "Triple Pundit",
-      "title": "The Fragile System Taking Shape to Manage Nigeria’s E-Waste Crisis",
-      "description": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit",
-      "url": "https://triplepundit.com/2025/e-waste-pollution-nigeria-legislation/",
-      "publishedAt": "2025-12-29T13:00:00",
-      "content": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit"
+      "author": "The Guardian",
+      "title": "When north and south winds collide, torrential rain falls in south-east Asia",
+      "description": "The monsoon season is crucial for agriculture, making up 80% of annual rainfall, but also extremely destructive January brings torrential rain to south-east Asia – more than 250mm fell in just two ...",
+      "url": "https://www.theguardian.com/news/2026/jan/02/torrential-rainfall-south-east-asia-monsoon-season",
+      "publishedAt": "2026-01-02T06:00:01",
+      "content": "The monsoon season is crucial for agriculture, making up 80% of annual rainfall, but also extremely destructive January brings torrential rain to south-east Asia – more than 250mm fell in just two ..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "BBC"
       },
-      "author": "New York Times",
-      "title": "Leaving London: Step one in a long commute to the bottom of the Earth.",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/leaving-london",
-      "publishedAt": "2026-01-01T04:39:45",
-      "content": ""
+      "author": "BBC",
+      "title": "The great debate about whether the NHS should use magic mushrooms to treat mental health",
+      "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results",
+      "url": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-02T00:03:20",
+      "content": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘These trees may not survive’: Jordan’s ancient olive harvest wilts under record-breaking heat",
+      "description": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ...",
+      "url": "https://www.theguardian.com/environment/2026/jan/01/these-trees-may-not-survive-jordans-ancient-olive-harvest-wilts-under-record-breaking-heat",
+      "publishedAt": "2026-01-01T15:00:42",
+      "content": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ..."
     },
     {
       "source": {
@@ -109,8 +120,52 @@
       "title": "See the First Iceberg of the Times’s Trip to Antarctica",
       "description": "For Antarctic veterans and novices alike, the first sighting of an iceberg on an expedition stays “closest to your heart.”",
       "url": "https://www.nytimes.com/2025/12/31/climate/antarctica-journey-first-iceberg.html",
-      "publishedAt": "2026-01-01T04:30:58",
+      "publishedAt": "2026-01-01T14:00:05",
       "content": "For Antarctic veterans and novices alike, the first sighting of an iceberg on an expedition stays “closest to your heart.”"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Take a tour of the Antarctica-bound icebreaker. It has a gym.",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/tour-antarctica-icebreaker",
+      "publishedAt": "2026-01-01T10:02:24",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A Year of Fires and Floods in Southern California",
+      "description": "The floods that struck last week just before the first anniversary of the January wildfires show how extreme weather is defining life in the L.A. region.",
+      "url": "https://www.nytimes.com/2026/01/01/us/los-angeles-fires-floods.html",
+      "publishedAt": "2026-01-01T10:02:12",
+      "content": "The floods that struck last week just before the first anniversary of the January wildfires show how extreme weather is defining life in the L.A. region."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A novel way to farm this ‘black desert’ | Sara Hudston",
+      "description": "Greinton, Somerset Levels: Instead of drying the peat to make it fit for agriculture, a small group of farmers have decided to work with the wetIt looks like nothing more than a few soggy acres of ...",
+      "url": "https://www.theguardian.com/environment/2026/jan/01/country-diary-a-novel-way-to-farm-this-black-desert",
+      "publishedAt": "2026-01-01T05:30:30",
+      "content": "Greinton, Somerset Levels: Instead of drying the peat to make it fit for agriculture, a small group of farmers have decided to work with the wetIt looks like nothing more than a few soggy acres of ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Intriguing finds could solve mystery of women in medieval cemetery",
+      "description": "There is growing evidence that the women were part of an early female religious community.",
+      "url": "https://www.bbc.com/news/articles/cpd65wp8z9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-01T00:34:29",
+      "content": "There is growing evidence that the women were part of an early female religious community."
     },
     {
       "source": {
@@ -158,17 +213,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘They didn’t de-extinct anything’: can Colossal’s genetically engineered animals ever be the real thing?",
-      "description": "The bioscience startup has attracted billions in investment – and a flurry of criticism, but founder tells the Guardian plans to bring back the woolly mammoth will not be derailedDeath and taxes ar...",
-      "url": "https://www.theguardian.com/environment/2025/dec/31/colossal-ben-lamm-deextinction-dire-wolf-dodo-tasmanian-tiger-aoe",
-      "publishedAt": "2025-12-31T11:00:08",
-      "content": "The bioscience startup has attracted billions in investment – and a flurry of criticism, but founder tells the Guardian plans to bring back the woolly mammoth will not be derailedDeath and taxes ar..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -183,99 +227,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Northumberland nature recovery project takes shape with biggest land sale in 30 years",
-      "description": "Wildlife trust is raising funds to buy largest piece of land in single ownership to come up for sale in England for a generation“We’ve lost so much,” says Mike Pratt, reflecting on Britain’s nature...",
-      "url": "https://www.theguardian.com/uk-news/2025/dec/31/northumberland-nature-recovery-project-takes-shape-with-biggest-land-sale-in-30-years",
-      "publishedAt": "2025-12-31T07:00:05",
-      "content": "Wildlife trust is raising funds to buy largest piece of land in single ownership to come up for sale in England for a generation“We’ve lost so much,” says Mike Pratt, reflecting on Britain’s nature..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Raymond’s Biggest Question About the Trip",
-      "description": "Our climate reporter Raymond Zhong sets out on his journey to Antarctica and shares his biggest question for the trip ahead.",
-      "url": "https://www.nytimes.com/video/climate/100000010614033/raymonds-biggest-question-about-the-trip.html",
-      "publishedAt": "2025-12-31T00:22:19",
-      "content": "Our climate reporter Raymond Zhong sets out on his journey to Antarctica and shares his biggest question for the trip ahead."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Keysight and HEAD Acoustics Achieve Successful Interoperability Test for Next Generation eCall Systems",
-      "description": "Keysight Technologies, Inc.",
-      "url": "https://csrwire.com/press-release/keysight-and-head-acoustics-achieve-successful-interoperability-test-next-generation-ecall/",
-      "publishedAt": "2025-12-30T09:15:00",
-      "content": "Keysight Technologies, Inc."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Glencore Buys Majority Stake in Low Carbon Fuels Supplier FincoEnergies",
-      "description": "Dutch energy solutions provider FincoEnergies announced that mining and commodities giant Glencore has agreed to [&#8230;]",
-      "url": "https://www.esgtoday.com/glencore-buys-majority-stake-in-low-carbon-fuels-supplier-fincoenergies/?utm_source=rss&utm_medium=rss&utm_campaign=glencore-buys-majority-stake-in-low-carbon-fuels-supplier-fincoenergies",
-      "publishedAt": "2025-12-29T11:29:43",
-      "content": "Dutch energy solutions provider FincoEnergies announced that mining and commodities giant Glencore has agreed to [&#8230;]"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "FedEx Empowers Global Workforce With AI Education and Literacy Program",
-      "description": "FedEx Corp. (NYSE: FDX) today announced the launch of an enterprise-wide AI Education and Literacy program, which includes personalized, roles-based trainings for team members around the world.",
-      "url": "https://csrwire.com/press-release/fedex-empowers-global-workforce-ai-education-and-literacy-program/",
-      "publishedAt": "2025-12-29T11:00:00",
-      "content": "FedEx Corp. (NYSE: FDX) today announced the launch of an enterprise-wide AI Education and Literacy program, which includes personalized, roles-based trainings for team members around the world."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Arkansas Employees Empowered To Help Neighbors in Need",
-      "description": "During this season of giving, Entergy Arkansas is doing more than powering communities across its 63-county service area, the company is empowering its employees to make a direct difference in thos...",
-      "url": "https://csrwire.com/press-release/entergy-arkansas-employees-empowered-help-neighbors-need/",
-      "publishedAt": "2025-12-29T10:45:00",
-      "content": "During this season of giving, Entergy Arkansas is doing more than powering communities across its 63-county service area, the company is empowering its employees to make a direct difference in thos..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Power of Partnership: How PSEG's Art-Inspired Infrastructure Projects Help Brighten Local Neighborhoods",
-      "description": "We value the strong partnerships we have forged with communities across our service territory, working collaboratively to build energy infrastructure that delivers reliable power to our customers w...",
-      "url": "https://csrwire.com/press-release/power-partnership-how-psegs-art-inspired-infrastructure-projects-help-brighten-local/",
-      "publishedAt": "2025-12-29T09:20:00",
-      "content": "We value the strong partnerships we have forged with communities across our service territory, working collaboratively to build energy infrastructure that delivers reliable power to our customers w..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "Ten English fire services tackled record number of grass, forest and crop fires in 2025",
       "description": "Fire chief says summer, the UK’s hottest on record, was ‘one of the most challenging for wildfires that we’ve ever faced’Ten English fire services tackled a record number of grassland, woodland and...",
       "url": "https://www.theguardian.com/world/2025/dec/31/record-number-wildfires-2025-tackled-by-10-english-fire-services",
       "publishedAt": "2025-12-31T05:00:02",
       "content": "Fire chief says summer, the UK’s hottest on record, was ‘one of the most challenging for wildfires that we’ve ever faced’Ten English fire services tackled a record number of grassland, woodland and..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘You could see bones’: Families’ anguish over coastal erosion threat to Norfolk graves",
-      "description": "Bereaved relatives say delays over risks at village churchyards are causing distress and call for council actionFamilies of people buried in graves vulnerable to coastal erosion say indecision over...",
-      "url": "https://www.theguardian.com/uk-news/2025/dec/31/families-coastal-erosion-graves-norfolk-villages-churchyards-council",
-      "publishedAt": "2025-12-31T05:00:01",
-      "content": "Bereaved relatives say delays over risks at village churchyards are causing distress and call for council actionFamilies of people buried in graves vulnerable to coastal erosion say indecision over..."
     },
     {
       "source": {
@@ -323,25 +279,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Great white sharks face extinction in Mediterranean, say researchers",
-      "description": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites.",
-      "url": "https://www.bbc.com/news/articles/c9qe9wvq534o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-30T01:15:19",
-      "content": "Overfishing and illegal fishing are contributing to the loss of sharks, including great whites."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The State of Purpose at Work: Leveraging 2025 Data To Define CSR Strategy in 2026",
-      "description": "The landscape of corporate citizenship is undergoing its most profound transition in a decade.",
-      "url": "https://csrwire.com/press-release/state-purpose-work-leveraging-2025-data-define-csr-strategy-2026/",
-      "publishedAt": "2025-12-26T10:00:00",
-      "content": "The landscape of corporate citizenship is undergoing its most profound transition in a decade."
+      "author": "ESG Today",
+      "title": "Glencore Buys Majority Stake in Low Carbon Fuels Supplier FincoEnergies",
+      "description": "Dutch energy solutions provider FincoEnergies announced that mining and commodities giant Glencore has agreed to [&#8230;]",
+      "url": "https://www.esgtoday.com/glencore-buys-majority-stake-in-low-carbon-fuels-supplier-fincoenergies/?utm_source=rss&utm_medium=rss&utm_campaign=glencore-buys-majority-stake-in-low-carbon-fuels-supplier-fincoenergies",
+      "publishedAt": "2025-12-29T11:29:43",
+      "content": "Dutch energy solutions provider FincoEnergies announced that mining and commodities giant Glencore has agreed to [&#8230;]"
     }
   ]
 }
