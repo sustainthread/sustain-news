@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 30,
   "articles": [
     {
       "source": {
@@ -26,6 +26,17 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The ‘Stork Sisters’ Saving a Species on the Brink",
+      "description": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit",
+      "url": "https://triplepundit.com/2026/greater-adjutant-stork-conservation-hargila-army/",
+      "publishedAt": "2026-01-02T13:00:00",
+      "content": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit"
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -48,17 +59,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "EU’s new ‘green tariff’ rules on high-carbon goods come into force",
-      "description": "The ‘border adjustment mechanism’ aims to create a level playing field while also encouraging decarbonisationThe biggest shake-up of green trade rules for decades comes into force today, as compani...",
-      "url": "https://www.theguardian.com/environment/2026/jan/01/eus-new-green-tariff-rules-on-high-carbon-goods-come-into-force",
-      "publishedAt": "2026-01-01T05:00:32",
-      "content": "The ‘border adjustment mechanism’ aims to create a level playing field while also encouraging decarbonisationThe biggest shake-up of green trade rules for decades comes into force today, as compani..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -67,17 +67,6 @@
       "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
       "publishedAt": "2025-12-31T00:00:58",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "50 States, 50 Fixes",
-      "description": "A New York Times series looked at initiatives to tackle climate change in each U.S. state.",
-      "url": "https://www.nytimes.com/2026/01/02/podcasts/the-daily/climate-change-solutions.html",
-      "publishedAt": "2026-01-02T11:00:10",
-      "content": "A New York Times series looked at initiatives to tackle climate change in each U.S. state."
     },
     {
       "source": {
@@ -92,6 +81,127 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How Kazakhstan Aims to Tap More Oil Riches Below Its Grassy Plains",
+      "description": "After spending nearly $50 billion to expand the country’s Tengiz oil field, Chevron and its partners encounter more uncertainty.",
+      "url": "https://www.nytimes.com/2026/01/03/business/chevron-kazakhstan-oil.html",
+      "publishedAt": "2026-01-03T05:00:20",
+      "content": "After spending nearly $50 billion to expand the country’s Tengiz oil field, Chevron and its partners encounter more uncertainty."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "An",
+      "description": "Our reporter sends a dispatch from the icebreaker Araon, currently on its way to Antarctica, about the scientists, their work and how he’s battling seasickness.",
+      "url": "https://www.nytimes.com/2026/01/02/climate/reader-questions-part-1.html",
+      "publishedAt": "2026-01-03T01:35:11",
+      "content": "Our reporter sends a dispatch from the icebreaker Araon, currently on its way to Antarctica, about the scientists, their work and how he’s battling seasickness."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Your Antarctica Questions, Answered",
+      "description": "Our reporter Raymond Zhong takes a first round of questions about the trip to Antarctica. First up: How can data gathered on the trip tell us how much time is left for the glaciers?",
+      "url": "https://www.nytimes.com/video/climate/100000010617323/your-antarctica-questions-answered.html",
+      "publishedAt": "2026-01-02T22:26:38",
+      "content": "Our reporter Raymond Zhong takes a first round of questions about the trip to Antarctica. First up: How can data gathered on the trip tell us how much time is left for the glaciers?"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Metrick Exits Saks, Lululemon Founder Wants New Board",
+      "description": "Marc Metrick has stepped down as CEO of Saks Global while ousted founder Chip Wilson nominated three new players to Lululemon’s board of directors.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-marc-metrick-exits-saks-lululemon-board-1234795316/",
+      "publishedAt": "2026-01-02T21:00:00",
+      "content": "Marc Metrick has stepped down as CEO of Saks Global while ousted founder Chip Wilson nominated three new players to Lululemon’s board of directors."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
+      "description": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active ingredient, glyphosate, have led to calls for the E.P.A. to reassess the widely used chemical.",
+      "url": "https://www.nytimes.com/2026/01/02/climate/glyphosate-roundup-retracted-study.html",
+      "publishedAt": "2026-01-02T20:25:57",
+      "content": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active ingredient, glyphosate, have led to calls for the E.P.A. to reassess the widely used chemical."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Ringing in 2026 on an Icebreaker Bound for Antarctica",
+      "description": "Scientists aboard the icebreaker Araon welcomed 2026 with games, another time change and a soup that marks the years ticking past.",
+      "url": "https://www.nytimes.com/2026/01/02/climate/antarctic-expedition-new-years-2026.html",
+      "publishedAt": "2026-01-02T19:11:35",
+      "content": "Scientists aboard the icebreaker Araon welcomed 2026 with games, another time change and a soup that marks the years ticking past."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Wrangler Joins Forces With Cherry for Nostalgic Drop",
+      "description": "Most of the collection was made in the United States.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/wrangler-cherry-nostalgic-motorsport-collection-made-in-usa-1234795255/",
+      "publishedAt": "2026-01-02T17:00:00",
+      "content": "Most of the collection was made in the United States."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The debate about whether the NHS should use magic mushrooms to treat depression",
+      "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results",
+      "url": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-02T15:47:15",
+      "content": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Weak Consumer Demand, Tariff Turmoil Set the Stage for 2026",
+      "description": "Weakening consumer demand and uncertain trade policy are two of the biggest macro-level challenges the apparel industry faced in 2025, and the sector won’t shake the specter of these issues in the ...",
+      "url": "https://sourcingjournal.com/topics/business-news/consumer-demand-tariffs-economy-trade-sourcing-2026-sheng-lu-1234794360/",
+      "publishedAt": "2026-01-02T15:00:00",
+      "content": "Weakening consumer demand and uncertain trade policy are two of the biggest macro-level challenges the apparel industry faced in 2025, and the sector won’t shake the specter of these issues in the ..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "WGSN Says 2026 Will Be an ‘Unserious’ Year",
+      "description": "The global consumer trend forecasting firm released its forecast for 2026 and beyond.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/wgsn-says-2026-will-be-an-unserious-year-cute-tech-gold-1234792643/",
+      "publishedAt": "2026-01-02T13:30:00",
+      "content": "The global consumer trend forecasting firm released its forecast for 2026 and beyond."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rapid expansion of ring-necked parakeets in UK sparks concern",
+      "description": "Bird organisations say more research on the species needed to control impact on other wildlifeIn the past 20 years, the soundscape in the ancient wild, rolling landscape of Richmond Park has been t...",
+      "url": "https://www.theguardian.com/environment/2026/jan/02/rapid-expansion-of-ring-necked-parakeets-in-uk-sparks-concern",
+      "publishedAt": "2026-01-02T12:00:09",
+      "content": "Bird organisations say more research on the species needed to control impact on other wildlifeIn the past 20 years, the soundscape in the ancient wild, rolling landscape of Richmond Park has been t..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -103,80 +213,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "In the Arctic, Drones Help Identify Deadly Virus in Whales",
-      "description": "Scientists took samples from whale blow, identifying possible disease risks for marine mammals in northern seas.",
-      "url": "https://www.nytimes.com/2026/01/02/science/arctic-drones-whales-virus.html",
-      "publishedAt": "2026-01-02T10:01:42",
-      "content": "Scientists took samples from whale blow, identifying possible disease risks for marine mammals in northern seas."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Brenna Henn Wanted to Improve Genetic Medicine. Then Her N.I.H. Grant Was Cut.",
-      "description": "Brenna Henn had a long-term grant to study the genetic diversity of Africans and people of African descent. Then her N.I.H. funding was cut.",
-      "url": "https://www.nytimes.com/2026/01/02/science/trump-lostscience-genetics-henn.html",
-      "publishedAt": "2026-01-02T10:00:20",
-      "content": "Brenna Henn had a long-term grant to study the genetic diversity of Africans and people of African descent. Then her N.I.H. funding was cut."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Why NYC Is Spending Millions on ‘Bluebelts’",
+      "title": "Why New York City Is Spending Millions on ‘Bluebelts’",
       "description": "New York City is expected to experience increasing rainfall over the next few decades, especially during cloudbursts—short, intense rainfall events.",
       "url": "https://insideclimatenews.org/news/02012026/why-nyc-is-spending-millions-on-bluebelts/",
       "publishedAt": "2026-01-02T10:00:00",
       "content": "New York City is expected to experience increasing rainfall over the next few decades, especially during cloudbursts—short, intense rainfall events."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Here for all to see – nature’s remarkable ability to rebound | Mark Cocker",
-      "description": "Mousley Bottom, Derbyshire: This area was a literal dump 40 years ago, devoid of life.",
-      "url": "https://www.theguardian.com/environment/2026/jan/02/country-diary-here-for-all-to-see-natures-remarkable-ability-to-rebound",
-      "publishedAt": "2026-01-02T05:30:01",
-      "content": "Mousley Bottom, Derbyshire: This area was a literal dump 40 years ago, devoid of life."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The debate about whether the NHS should use magic mushrooms to treat depression",
-      "description": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results",
-      "url": "https://www.bbc.com/news/articles/ckg936l88e7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-02T00:03:20",
-      "content": "Many clinical trials to test the use of psychedelic medicines for conditions such as depression have been underway since 2022 - with surprising results"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘These trees may not survive’: Jordan’s ancient olive harvest wilts under record-breaking heat",
-      "description": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/01/these-trees-may-not-survive-jordans-ancient-olive-harvest-wilts-under-record-breaking-heat",
-      "publishedAt": "2026-01-01T15:00:42",
-      "content": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "See the First Iceberg of the Times’s Trip to Antarctica",
-      "description": "For Antarctic veterans and novices alike, the first sighting of an iceberg on an expedition stays “closest to your heart.”",
-      "url": "https://www.nytimes.com/2025/12/31/climate/antarctica-journey-first-iceberg.html",
-      "publishedAt": "2026-01-01T14:00:05",
-      "content": "For Antarctic veterans and novices alike, the first sighting of an iceberg on an expedition stays “closest to your heart.”"
     },
     {
       "source": {
@@ -191,14 +235,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Take a tour of the Antarctica-bound icebreaker. It has a gym.",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/tour-antarctica-icebreaker",
-      "publishedAt": "2026-01-01T10:02:24",
-      "content": ""
+      "author": "The Guardian",
+      "title": "Country diary: Here for all to see – nature’s remarkable ability to rebound | Mark Cocker",
+      "description": "Mousley Bottom, Derbyshire: This area was a literal dump 40 years ago, devoid of life.",
+      "url": "https://www.theguardian.com/environment/2026/jan/02/country-diary-here-for-all-to-see-natures-remarkable-ability-to-rebound",
+      "publishedAt": "2026-01-02T05:30:01",
+      "content": "Mousley Bottom, Derbyshire: This area was a literal dump 40 years ago, devoid of life."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘These trees may not survive’: Jordan’s ancient olive harvest wilts under record-breaking heat",
+      "description": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ...",
+      "url": "https://www.theguardian.com/environment/2026/jan/01/these-trees-may-not-survive-jordans-ancient-olive-harvest-wilts-under-record-breaking-heat",
+      "publishedAt": "2026-01-01T15:00:42",
+      "content": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ..."
     },
     {
       "source": {
@@ -213,50 +268,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Rival Railroads Slam UP-NS Merger Application, Citing Incomplete Data",
-      "description": "Class I railroads BNSF, CPKC, CN and CSX argue the filing violates STB merger rules and leaves key competition and market impacts unanswered.",
-      "url": "https://sourcingjournal.com/topics/logistics/stb-union-pacific-norfolk-southern-merger-application-missing-data-trucking-bnsf-cn-cpkc-csx-train-derailment-1234795179/",
-      "publishedAt": "2025-12-31T19:55:09",
-      "content": "Class I railroads BNSF, CPKC, CN and CSX argue the filing violates STB merger rules and leaves key competition and market impacts unanswered."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "French Customs Finds 25% of Shein Parcels Non-Compliant",
-      "description": "A quarter of Shein packages entering France fail safety or labeling checks, raising compliance concerns with EU standards, the French government said.",
-      "url": "https://sourcingjournal.com/topics/compliance/french-customs-find-25-percent-shein-parcels-non-compliant-1234795165/",
-      "publishedAt": "2025-12-31T16:46:48",
-      "content": "A quarter of Shein packages entering France fail safety or labeling checks, raising compliance concerns with EU standards, the French government said."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "DHL’s Tesla Semi Pilot ‘Exceeded Expectations,’ Paving Way for Expansion",
-      "description": "DHL Supply Chain has rolled out its first Tesla Semi following a successful pilot, with plans to expand electric Class 8 truck operations beyond California in 2026.",
-      "url": "https://sourcingjournal.com/topics/logistics/dhl-supply-chain-tesla-semi-pilot-ev-electric-vehicles-truck-trucking-california-class-8-heavy-duty-decarbonization-1234795161/",
-      "publishedAt": "2025-12-31T14:06:48",
-      "content": "DHL Supply Chain has rolled out its first Tesla Semi following a successful pilot, with plans to expand electric Class 8 truck operations beyond California in 2026."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Carved in Blue Team Looks Back on 2025 Highlights",
-      "description": "The Carved in Blue team gives their reflections on a challenging yet momentous year and their hopes and outlook for 2026.",
-      "url": "https://sourcingjournal.com/denim/denim-influencers/carved-in-blue-team-looks-back-2025-highlights-1234795036/",
-      "publishedAt": "2025-12-31T14:00:00",
-      "content": "The Carved in Blue team gives their reflections on a challenging yet momentous year and their hopes and outlook for 2026."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -265,39 +276,6 @@
       "url": "https://insideclimatenews.org/news/31122025/idaho-valley-fire-torched-lucky-peak-bird-research-station/",
       "publishedAt": "2025-12-31T10:00:00",
       "content": "BOISE, Idaho—Ping."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Ten English fire services tackled record number of grass, forest and crop fires in 2025",
-      "description": "Fire chief says summer, the UK’s hottest on record, was ‘one of the most challenging for wildfires that we’ve ever faced’Ten English fire services tackled a record number of grassland, woodland and...",
-      "url": "https://www.theguardian.com/world/2025/dec/31/record-number-wildfires-2025-tackled-by-10-english-fire-services",
-      "publishedAt": "2025-12-31T05:00:02",
-      "content": "Fire chief says summer, the UK’s hottest on record, was ‘one of the most challenging for wildfires that we’ve ever faced’Ten English fire services tackled a record number of grassland, woodland and..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Cheap Solar Is Transforming Lives and Economies Across Africa",
-      "description": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities.",
-      "url": "https://www.nytimes.com/2025/12/30/climate/solar-south-africa-china.html",
-      "publishedAt": "2025-12-30T19:18:16",
-      "content": "Chinese panels are now so affordable that businesses and families are snapping them up, slashing their bills and challenging utilities."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Blue Origin astronaut reveals depression after 'tsunami of harassment'",
-      "description": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April.",
-      "url": "https://www.bbc.com/news/articles/cd0k0939dd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2025-12-30T12:26:50",
-      "content": "Blue Origin's all-female crew, which included scientist Amanda Nguyen, was launched into space in April."
     },
     {
       "source": {
