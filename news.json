@@ -4,6 +4,17 @@
   "articles": [
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?",
+      "description": "Defenders say AI can do good to fight the climate crisis.",
+      "url": "https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
+      "publishedAt": "2026-01-03T08:00:32",
+      "content": "Defenders say AI can do good to fight the climate crisis."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -15,6 +26,17 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Lahore’s Smog Season, This Gen Z Doctor Is Centering Climate Change",
+      "description": "Dr.",
+      "url": "https://insideclimatenews.org/news/03012026/lahore-pakistan-smog-season-climate-change/",
+      "publishedAt": "2026-01-03T10:00:00",
+      "content": "Dr."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -23,17 +45,6 @@
       "url": "https://www.esgtoday.com/octopus-energy-raises-1-billion-for-utility-tech-spinout-kraken/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-energy-raises-1-billion-for-utility-tech-spinout-kraken",
       "publishedAt": "2025-12-31T11:40:01",
       "content": "UK-based clean energy tech company Octopus Energy Group announced that it will spin out its"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The ‘Stork Sisters’ Saving a Species on the Brink",
-      "description": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit",
-      "url": "https://triplepundit.com/2026/greater-adjutant-stork-conservation-hargila-army/",
-      "publishedAt": "2026-01-02T13:00:00",
-      "content": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit"
     },
     {
       "source": {
@@ -59,6 +70,28 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Whales Are in Danger in N.Y. Waterways: ‘Like Deer Crossing the Road’",
+      "description": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings.",
+      "url": "https://www.nytimes.com/2026/01/03/nyregion/new-york-whales-threat-waterways.html",
+      "publishedAt": "2026-01-03T08:00:11",
+      "content": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The ‘Stork Sisters’ Saving a Species on the Brink",
+      "description": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit",
+      "url": "https://triplepundit.com/2026/greater-adjutant-stork-conservation-hargila-army/",
+      "publishedAt": "2026-01-02T13:00:00",
+      "content": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit"
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -78,6 +111,39 @@
       "url": "https://insideclimatenews.org/news/30122025/maine-oyster-clam-harvesting/",
       "publishedAt": "2025-12-30T10:00:00",
       "content": "This story was co-published and supported by the journalism nonprofit the Economic Hardship Reporting Project."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Network Blooms to Connect Fiber Farmers With Fabric Artisans",
+      "description": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist...",
+      "url": "https://insideclimatenews.org/news/03012026/a-network-blooms-to-connect-fiber-farmers-with-fabric-artisans/",
+      "publishedAt": "2026-01-03T09:45:00",
+      "content": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Fragile System Taking Shape to Manage Nigeria’s E-Waste Crisis",
+      "description": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit",
+      "url": "https://triplepundit.com/2025/e-waste-pollution-nigeria-legislation/",
+      "publishedAt": "2025-12-29T13:00:00",
+      "content": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A wave of relief on the farm with the inheritance tax change | Andrea Meanwell",
+      "description": "Tebay, Cumbria: Small farms like ours contribute to society, but we need help to survive.",
+      "url": "https://www.theguardian.com/environment/2026/jan/03/country-diary-a-wave-of-relief-on-the-farm-with-the-inheritance-tax-change",
+      "publishedAt": "2026-01-03T05:30:28",
+      "content": "Tebay, Cumbria: Small farms like ours contribute to society, but we need help to survive."
     },
     {
       "source": {
@@ -103,17 +169,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Your Antarctica Questions, Answered",
-      "description": "Our reporter Raymond Zhong takes a first round of questions about the trip to Antarctica. First up: How can data gathered on the trip tell us how much time is left for the glaciers?",
-      "url": "https://www.nytimes.com/video/climate/100000010617323/your-antarctica-questions-answered.html",
-      "publishedAt": "2026-01-02T22:26:38",
-      "content": "Our reporter Raymond Zhong takes a first round of questions about the trip to Antarctica. First up: How can data gathered on the trip tell us how much time is left for the glaciers?"
-    },
-    {
-      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -131,19 +186,8 @@
       "title": "A Study Is Retracted, Renewing Concerns About the Weedkiller Roundup",
       "description": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active ingredient, glyphosate, have led to calls for the E.P.A. to reassess the widely used chemical.",
       "url": "https://www.nytimes.com/2026/01/02/climate/glyphosate-roundup-retracted-study.html",
-      "publishedAt": "2026-01-02T20:25:57",
+      "publishedAt": "2026-01-02T20:25:58",
       "content": "Problems with a 25-year-old landmark paper on the safety of Roundup’s active ingredient, glyphosate, have led to calls for the E.P.A. to reassess the widely used chemical."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Ringing in 2026 on an Icebreaker Bound for Antarctica",
-      "description": "Scientists aboard the icebreaker Araon welcomed 2026 with games, another time change and a soup that marks the years ticking past.",
-      "url": "https://www.nytimes.com/2026/01/02/climate/antarctic-expedition-new-years-2026.html",
-      "publishedAt": "2026-01-02T19:11:35",
-      "content": "Scientists aboard the icebreaker Araon welcomed 2026 with games, another time change and a soup that marks the years ticking past."
     },
     {
       "source": {
@@ -180,6 +224,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "2025 was UK’s hottest and sunniest year on record, says Met Office",
+      "description": "Mean temperature for year was 10.",
+      "url": "https://www.theguardian.com/uk-news/2026/jan/02/2025-uk-warmest-and-sunniest-year-on-record-met-office",
+      "publishedAt": "2026-01-02T13:36:54",
+      "content": "Mean temperature for year was 10."
+    },
+    {
+      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
@@ -202,17 +257,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "What makes an elephant abandon her calf – and is it a growing problem?",
-      "description": "A helpless baby elephant has won the Thai public’s sympathy but her case has shed light on the pressures facing herds across AsiaKhao Tom, a two-month-old elephant, plays with a wildlife officer, n...",
-      "url": "https://www.theguardian.com/environment/2026/jan/02/baby-elephant-abandoned-herds-calves-human-conflict-thailand-assam-aoe",
-      "publishedAt": "2026-01-02T11:00:06",
-      "content": "A helpless baby elephant has won the Thai public’s sympathy but her case has shed light on the pressures facing herds across AsiaKhao Tom, a two-month-old elephant, plays with a wildlife officer, n..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -224,58 +268,14 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The Fragile System Taking Shape to Manage Nigeria’s E-Waste Crisis",
-      "description": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit",
-      "url": "https://triplepundit.com/2025/e-waste-pollution-nigeria-legislation/",
-      "publishedAt": "2025-12-29T13:00:00",
-      "content": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit"
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: Here for all to see – nature’s remarkable ability to rebound | Mark Cocker",
-      "description": "Mousley Bottom, Derbyshire: This area was a literal dump 40 years ago, devoid of life.",
-      "url": "https://www.theguardian.com/environment/2026/jan/02/country-diary-here-for-all-to-see-natures-remarkable-ability-to-rebound",
-      "publishedAt": "2026-01-02T05:30:01",
-      "content": "Mousley Bottom, Derbyshire: This area was a literal dump 40 years ago, devoid of life."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘These trees may not survive’: Jordan’s ancient olive harvest wilts under record-breaking heat",
-      "description": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/01/these-trees-may-not-survive-jordans-ancient-olive-harvest-wilts-under-record-breaking-heat",
-      "publishedAt": "2026-01-01T15:00:42",
-      "content": "Extreme heat and drought has destroyed 70% of Jordan’s olive crop, endangering livelihoods of 80,000 families and a centuries-old traditionAbu Khaled al-Zoubi, 67, walks slowly through his orchard ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Intriguing finds could solve mystery of women in medieval cemetery",
-      "description": "There is growing evidence that the women were part of an early female religious community.",
-      "url": "https://www.bbc.com/news/articles/cpd65wp8z9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-01T00:34:29",
-      "content": "There is growing evidence that the women were part of an early female religious community."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "An Idaho Bird Research Station Rises From the Ashes of a Wildfire",
-      "description": "BOISE, Idaho—Ping.",
-      "url": "https://insideclimatenews.org/news/31122025/idaho-valley-fire-torched-lucky-peak-bird-research-station/",
-      "publishedAt": "2025-12-31T10:00:00",
-      "content": "BOISE, Idaho—Ping."
+      "title": "When north and south winds collide, torrential rain falls in south-east Asia",
+      "description": "The monsoon season is crucial for agriculture, making up 80% of annual rainfall, but also extremely destructive January brings torrential rain to south-east Asia – more than 250mm fell in just two ...",
+      "url": "https://www.theguardian.com/news/2026/jan/02/torrential-rainfall-south-east-asia-monsoon-season",
+      "publishedAt": "2026-01-02T06:00:01",
+      "content": "The monsoon season is crucial for agriculture, making up 80% of annual rainfall, but also extremely destructive January brings torrential rain to south-east Asia – more than 250mm fell in just two ..."
     },
     {
       "source": {
