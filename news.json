@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 30,
+  "totalResults": 31,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?",
-      "description": "Defenders say AI can do good to fight the climate crisis.",
-      "url": "https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
-      "publishedAt": "2026-01-03T08:00:32",
-      "content": "Defenders say AI can do good to fight the climate crisis."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,14 +15,25 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?",
+      "description": "Defenders say AI can do good to fight the climate crisis.",
+      "url": "https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
+      "publishedAt": "2026-01-03T08:00:32",
+      "content": "Defenders say AI can do good to fight the climate crisis."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "In Lahore’s Smog Season, This Gen Z Doctor Is Centering Climate Change",
-      "description": "Dr.",
-      "url": "https://insideclimatenews.org/news/03012026/lahore-pakistan-smog-season-climate-change/",
-      "publishedAt": "2026-01-03T10:00:00",
-      "content": "Dr."
+      "title": "The Real Pain of Climate Change Is Easy to Feel, but Increasingly Difficult to Study",
+      "description": "Dawn Gibson can literally feel storms coming in her bones.",
+      "url": "https://insideclimatenews.org/news/04012026/chronic-pain-and-climate-change/",
+      "publishedAt": "2026-01-04T09:55:00",
+      "content": "Dawn Gibson can literally feel storms coming in her bones."
     },
     {
       "source": {
@@ -48,36 +48,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "Ministers may cut green tech mandate from new homes regulations in England",
-      "description": "Exclusive: Critics say removing battery installation requirement will reduce amount homebuyers save on energy billsMinisters are poised to allow homes in England to be built without carbon-cutting ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/02/ministers-may-cut-green-tech-mandate-from-new-homes-regulations-in-england",
-      "publishedAt": "2026-01-02T06:00:02",
-      "content": "Exclusive: Critics say removing battery installation requirement will reduce amount homebuyers save on energy billsMinisters are poised to allow homes in England to be built without carbon-cutting ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Winter blooming of hundreds of plants in UK ‘visible signal’ of climate breakdown",
-      "description": "New year plant hunt shows rising temperatures are shifting natural cycles of wildflowers such as daisies Daisies and dandelions are among hundreds of native plant species blooming in the UK, in wha...",
-      "url": "https://www.theguardian.com/environment/2026/jan/02/winter-blooming-of-hundreds-of-plants-in-uk-visible-signal-of-climate-breakdown",
-      "publishedAt": "2026-01-02T05:00:03",
-      "content": "New year plant hunt shows rising temperatures are shifting natural cycles of wildflowers such as daisies Daisies and dandelions are among hundreds of native plant species blooming in the UK, in wha..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Whales Are in Danger in N.Y. Waterways: ‘Like Deer Crossing the Road’",
-      "description": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings.",
-      "url": "https://www.nytimes.com/2026/01/03/nyregion/new-york-whales-threat-waterways.html",
-      "publishedAt": "2026-01-03T08:00:11",
-      "content": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings."
+      "author": "Inside Climate News",
+      "title": "In Lahore’s Smog Season, This Gen Z Doctor Is Centering Climate Change",
+      "description": "Dr.",
+      "url": "https://insideclimatenews.org/news/03012026/lahore-pakistan-smog-season-climate-change/",
+      "publishedAt": "2026-01-03T10:00:00",
+      "content": "Dr."
     },
     {
       "source": {
@@ -92,6 +70,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Ministers may cut green tech mandate from new homes regulations in England",
+      "description": "Exclusive: Critics say removing battery installation requirement will reduce amount homebuyers save on energy billsMinisters are poised to allow homes in England to be built without carbon-cutting ...",
+      "url": "https://www.theguardian.com/environment/2026/jan/02/ministers-may-cut-green-tech-mandate-from-new-homes-regulations-in-england",
+      "publishedAt": "2026-01-02T06:00:02",
+      "content": "Exclusive: Critics say removing battery installation requirement will reduce amount homebuyers save on energy billsMinisters are poised to allow homes in England to be built without carbon-cutting ..."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -103,25 +92,47 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Guardian"
       },
-      "author": "Inside Climate News",
-      "title": "Maine’s Shellfish Harvesters Are Caught up in Climate-Related Closures",
-      "description": "This story was co-published and supported by the journalism nonprofit the Economic Hardship Reporting Project.",
-      "url": "https://insideclimatenews.org/news/30122025/maine-oyster-clam-harvesting/",
-      "publishedAt": "2025-12-30T10:00:00",
-      "content": "This story was co-published and supported by the journalism nonprofit the Economic Hardship Reporting Project."
+      "author": "The Guardian",
+      "title": "Battery electric cars will overtake diesels in Great Britain by 2030, analysis suggests",
+      "description": "London predicted to be the first UK city to go diesel-free, largely because of the ultra-low emission zoneBattery electric cars are poised to overtake diesels on Great Britain’s roads by 2030, acco...",
+      "url": "https://www.theguardian.com/business/2026/jan/04/battery-electric-cars-diesels-great-britain-london-ulez",
+      "publishedAt": "2026-01-04T15:00:09",
+      "content": "London predicted to be the first UK city to go diesel-free, largely because of the ultra-low emission zoneBattery electric cars are poised to overtake diesels on Great Britain’s roads by 2030, acco..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The electric vehicle revolution is still on course – don’t let your loathing of Elon Musk stop you joining up | Zoe Williams",
+      "description": "Other firms are taking advantage of Tesla’s sales slump, while technological advances mean that glitches are being left in the rear-view mirrorIn another era, before Elon Musk bought Twitter, chang...",
+      "url": "https://www.theguardian.com/commentisfree/2026/jan/04/electric-vehicle-elon-musk-tesla-sales",
+      "publishedAt": "2026-01-04T10:00:04",
+      "content": "Other firms are taking advantage of Tesla’s sales slump, while technological advances mean that glitches are being left in the rear-view mirrorIn another era, before Elon Musk bought Twitter, chang..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "A Network Blooms to Connect Fiber Farmers With Fabric Artisans",
-      "description": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist...",
-      "url": "https://insideclimatenews.org/news/03012026/a-network-blooms-to-connect-fiber-farmers-with-fabric-artisans/",
-      "publishedAt": "2026-01-03T09:45:00",
-      "content": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist..."
+      "title": "Ten Million Corals Are in the Path of a Federal Dredging Project in Florida",
+      "description": "Beneath the surface of one of South Florida’s busiest maritime hubs, Port Everglades, scientists found 10 million corals thriving in and around the main channel traversed daily by cargo and cruise ...",
+      "url": "https://insideclimatenews.org/news/04012026/florida-port-everglades-dredging-project-could-damaga-corals/",
+      "publishedAt": "2026-01-04T10:00:00",
+      "content": "Beneath the surface of one of South Florida’s busiest maritime hubs, Port Everglades, scientists found 10 million corals thriving in and around the main channel traversed daily by cargo and cruise ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Whales Are in Danger in N.Y. Waterways: ‘Like Deer Crossing the Road’",
+      "description": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings.",
+      "url": "https://www.nytimes.com/2026/01/03/nyregion/new-york-whales-threat-waterways.html",
+      "publishedAt": "2026-01-03T08:00:12",
+      "content": "As conservation efforts make the waters in the New York region more inviting for whales, increasing traffic from ships and boats has contributed to a climbing number of strandings."
     },
     {
       "source": {
@@ -133,6 +144,17 @@
       "url": "https://triplepundit.com/2025/e-waste-pollution-nigeria-legislation/",
       "publishedAt": "2025-12-29T13:00:00",
       "content": "As local recyclers share safer ways to manage e-waste, Nigeria is testing whether producer responsibility regulations can reduce pollution from discarded electronics.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Network Blooms to Connect Fiber Farmers With Fabric Artisans",
+      "description": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist...",
+      "url": "https://insideclimatenews.org/news/03012026/a-network-blooms-to-connect-fiber-farmers-with-fabric-artisans/",
+      "publishedAt": "2026-01-03T09:45:00",
+      "content": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist..."
     },
     {
       "source": {
@@ -265,17 +287,6 @@
       "url": "https://insideclimatenews.org/news/02012026/why-nyc-is-spending-millions-on-bluebelts/",
       "publishedAt": "2026-01-02T10:00:00",
       "content": "New York City is expected to experience increasing rainfall over the next few decades, especially during cloudbursts—short, intense rainfall events."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "When north and south winds collide, torrential rain falls in south-east Asia",
-      "description": "The monsoon season is crucial for agriculture, making up 80% of annual rainfall, but also extremely destructive January brings torrential rain to south-east Asia – more than 250mm fell in just two ...",
-      "url": "https://www.theguardian.com/news/2026/jan/02/torrential-rainfall-south-east-asia-monsoon-season",
-      "publishedAt": "2026-01-02T06:00:01",
-      "content": "The monsoon season is crucial for agriculture, making up 80% of annual rainfall, but also extremely destructive January brings torrential rain to south-east Asia – more than 250mm fell in just two ..."
     },
     {
       "source": {
