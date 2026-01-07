@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 30,
+  "totalResults": 38,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Philippines Launches Mandatory IFRS-Based Sustainability Reporting Standards",
+      "description": "The Philippine Securities and Exchange Commission announced the adoption of the Philippine Financial Reporting Standards",
+      "url": "https://www.esgtoday.com/philippines-launches-mandatory-ifrs-based-sustainability-reporting-standards/?utm_source=rss&utm_medium=rss&utm_campaign=philippines-launches-mandatory-ifrs-based-sustainability-reporting-standards",
+      "publishedAt": "2026-01-06T13:40:56",
+      "content": "The Philippine Securities and Exchange Commission announced the adoption of the Philippine Financial Reporting Standards"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -26,14 +37,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "‘Just an unbelievable amount of pollution’: how big a threat is AI to the climate?",
-      "description": "Defenders say AI can do good to fight the climate crisis.",
-      "url": "https://www.theguardian.com/technology/2026/jan/03/just-an-unbelievable-amount-of-pollution-how-big-a-threat-is-ai-to-the-climate",
-      "publishedAt": "2026-01-03T08:00:32",
-      "content": "Defenders say AI can do good to fight the climate crisis."
+      "author": "ESG Today",
+      "title": "Sustainability Investor Impax Hires Former HSBC AM UK CEO Stuart White",
+      "description": "Sustainable transition-focused investor Impax Asset Management announced today the appointment of former HSBC Asset Management",
+      "url": "https://www.esgtoday.com/sustainability-investor-impax-hires-former-hsbc-am-uk-ceo-stuart-white/?utm_source=rss&utm_medium=rss&utm_campaign=sustainability-investor-impax-hires-former-hsbc-am-uk-ceo-stuart-white",
+      "publishedAt": "2026-01-06T17:11:30",
+      "content": "Sustainable transition-focused investor Impax Asset Management announced today the appointment of former HSBC Asset Management"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "HASI, Sunrun Launch $500 Million JV to Finance and Build New Solar and Storage Residential Power Plants",
+      "description": "Climate solutions and sustainable infrastructure investment firm HA Sustainable Infrastructure Capital (HASI) announced that it will",
+      "url": "https://www.esgtoday.com/hasi-sunrun-launch-500-million-jv-to-finance-and-build-new-solar-and-storage-residential-power-plants/?utm_source=rss&utm_medium=rss&utm_campaign=hasi-sunrun-launch-500-million-jv-to-finance-and-build-new-solar-and-storage-residential-power-plants",
+      "publishedAt": "2026-01-06T14:49:54",
+      "content": "Climate solutions and sustainable infrastructure investment firm HA Sustainable Infrastructure Capital (HASI) announced that it will"
     },
     {
       "source": {
@@ -70,6 +92,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Impact Investing Advisory Human Planet Hires Sabrin Rahman to Lead MENA Expansion",
+      "description": "Global impact finance firm Human Planet announced the appointment of former HSBC sustainability leader Sabrin",
+      "url": "https://www.esgtoday.com/impact-investing-advisory-human-planet-hires-sabrin-rahman-to-lead-mena-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investing-advisory-human-planet-hires-sabrin-rahman-to-lead-mena-expansion",
+      "publishedAt": "2026-01-06T15:50:49",
+      "content": "Global impact finance firm Human Planet announced the appointment of former HSBC sustainability leader Sabrin"
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -92,14 +125,69 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "Octopus Energy Raises $1 Billion for Utility Tech Spinout Kraken",
-      "description": "UK-based clean energy tech company Octopus Energy Group announced that it will spin out its",
-      "url": "https://www.esgtoday.com/octopus-energy-raises-1-billion-for-utility-tech-spinout-kraken/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-energy-raises-1-billion-for-utility-tech-spinout-kraken",
-      "publishedAt": "2025-12-31T11:40:01",
-      "content": "UK-based clean energy tech company Octopus Energy Group announced that it will spin out its"
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Ethical and Sustainable Activewear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-ethical-activewear/",
+      "publishedAt": "2026-01-04T23:00:12",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Solutions Stories Our Readers Loved in 2025",
+      "description": "In 2025, we shared stories about solutions across the globe: repurposing mines in Australia, brewing beer with bread in the United Kingdom, the rise of employee housing in the Outer Banks and many ...",
+      "url": "https://triplepundit.com/2026/most-read-solutions-journalism-stories-2025/",
+      "publishedAt": "2026-01-07T00:43:52",
+      "content": "In 2025, we shared stories about solutions across the globe: repurposing mines in Australia, brewing beer with bread in the United Kingdom, the rise of employee housing in the Outer Banks and many ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Keysight Launches New High-Power ATE Test Solutions to Tackle Growing Power Validation Challenges",
+      "description": "Keysight Technologies, Inc. (NYSE: KEYS) announced a new series of high-power ATE system power supplies, expanding its power test portfolio with three automated test equipment (ATE) product families",
+      "url": "https://csrwire.com/press-release/keysight-launches-new-high-power-ate-test-solutions-tackle-growing-power-validation-challenges/",
+      "publishedAt": "2026-01-06T09:30:00",
+      "content": "Keysight Technologies, Inc. (NYSE: KEYS) announced a new series of high-power ATE system power supplies, expanding its power test portfolio with three automated test equipment (ATE) product families"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Corporation Contributes to Improving Life at Home With Appliance Donations to Two Leading U.S. Non Profit Organizations",
+      "description": "Whirlpool Corporation made significant product donations in 2025 to Ronald McDonald House and the American Cancer Society Hope Lodge, facilities that serve as temporary residences during challengin...",
+      "url": "https://csrwire.com/press-release/whirlpool-corporation-contributes-improving-life-home-appliance-donations-two-leading-us-non/",
+      "publishedAt": "2026-01-06T08:50:00",
+      "content": "Whirlpool Corporation made significant product donations in 2025 to Ronald McDonald House and the American Cancer Society Hope Lodge, facilities that serve as temporary residences during challengin..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PBF Energy Proudly Supports Women Engineers at the 2025 Society of Women Engineers (SWE) Conference",
+      "description": "PBF Energy is proud to sponsor several of our women engineers attending the Society of Women Engineers (SWE) Conference in New Orleans, Louisiana.",
+      "url": "https://csrwire.com/press-release/pbf-energy-proudly-supports-women-engineers-2025-society-women-engineers-swe-conference/",
+      "publishedAt": "2026-01-06T08:45:00",
+      "content": "PBF Energy is proud to sponsor several of our women engineers attending the Society of Women Engineers (SWE) Conference in New Orleans, Louisiana."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Violence, death and stolen land: people need to know the true cost of an avocado | Claudia Ignacio Álvarez",
+      "description": "Behind the west’s huge appetite for the fruit lies the dark reality of environmental destruction and Indigenous exploitation in MexicoI grew up in San Andrés Tziróndaro, a Purépecha community on th...",
+      "url": "https://www.theguardian.com/global-development/2026/jan/06/avocado-farming-exploitation-human-rights-mexico-indigenous-communities",
+      "publishedAt": "2026-01-06T07:00:30",
+      "content": "Behind the west’s huge appetite for the fruit lies the dark reality of environmental destruction and Indigenous exploitation in MexicoI grew up in San Andrés Tziróndaro, a Purépecha community on th..."
     },
     {
       "source": {
@@ -114,36 +202,124 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Ethical and Sustainable Activewear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-ethical-activewear/",
-      "publishedAt": "2026-01-04T23:00:12",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "The Guardian",
+      "title": "‘The soul of the city’: can Kinshasa’s last remaining baobab tree be saved?",
+      "description": "Across Africa, baobabs have rich symbolic meaning, but the breakneck expansion of the DRC’s capital has reduced their number in the city centre to oneThe older inhabitants of Kinshasa can remember ...",
+      "url": "https://www.theguardian.com/global-development/2026/jan/07/kinshasa-drc-last-baobab-tree-saved-megacity",
+      "publishedAt": "2026-01-07T06:00:35",
+      "content": "Across Africa, baobabs have rich symbolic meaning, but the breakneck expansion of the DRC’s capital has reduced their number in the city centre to oneThe older inhabitants of Kinshasa can remember ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "FEMA Staff Bracing for Dismissal of 1,000 Disaster Workers",
+      "description": "The job cuts expected this month are part of a plan by the Homeland Security secretary, Kristi Noem, to remake the agency.",
+      "url": "https://www.nytimes.com/2026/01/06/climate/fema-staff-cuts-1000-workers.html",
+      "publishedAt": "2026-01-07T03:20:37",
+      "content": "The job cuts expected this month are part of a plan by the Homeland Security secretary, Kristi Noem, to remake the agency."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Entering the Frozen Continent",
+      "description": "As the icebreaker heads into the sea ice zone around Antarctica, penguins and seals start to appear.",
+      "url": "https://www.nytimes.com/video/climate/100000010625443/entering-the-frozen-continent.html",
+      "publishedAt": "2026-01-07T03:15:16",
+      "content": "As the icebreaker heads into the sea ice zone around Antarctica, penguins and seals start to appear."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "The Real Pain of Climate Change Is Easy to Feel, but Increasingly Difficult to Study",
-      "description": "Dawn Gibson can literally feel storms coming in her bones.",
-      "url": "https://insideclimatenews.org/news/04012026/chronic-pain-and-climate-change/",
-      "publishedAt": "2026-01-04T09:55:00",
-      "content": "Dawn Gibson can literally feel storms coming in her bones."
+      "title": "A Year After the LA Fires, Recovery Is Lagging, But Bright Spots Emerge",
+      "description": "While people look to start fresh in the new year, many residents in California’s Los Angeles County are still living in the burn scars of the past.",
+      "url": "https://insideclimatenews.org/news/06012026/todays-climate-la-wildfires-anniversary-recovery-rebuilding/",
+      "publishedAt": "2026-01-06T22:59:52",
+      "content": "While people look to start fresh in the new year, many residents in California’s Los Angeles County are still living in the burn scars of the past."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "In Lahore’s Smog Season, This Gen Z Doctor Is Centering Climate Change",
-      "description": "Dr.",
-      "url": "https://insideclimatenews.org/news/03012026/lahore-pakistan-smog-season-climate-change/",
-      "publishedAt": "2026-01-03T10:00:00",
-      "content": "Dr."
+      "title": "Venezuelan Oil Brought to the U.S. Would Be Refined in Black Gulf Communities",
+      "description": "This article was originally published by Capital B.",
+      "url": "https://insideclimatenews.org/news/06012026/venezuelan-oil-brought-to-the-u-s-would-be-refined-in-black-gulf-communities/",
+      "publishedAt": "2026-01-06T21:30:51",
+      "content": "This article was originally published by Capital B."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Approaching Antarctica, the Icebreaker Araon Encounters Thick Sea Ice",
+      "description": "The sea ice changed completely over the course of a few hours, from disconnected floes to a vast, snow-covered plain.",
+      "url": "https://www.nytimes.com/2026/01/06/climate/antarctica-navigating-sea-ice.html",
+      "publishedAt": "2026-01-06T18:59:40",
+      "content": "The sea ice changed completely over the course of a few hours, from disconnected floes to a vast, snow-covered plain."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Israel Injects New Uncertainty Into ZIM’s Strategic Review",
+      "description": "The Israeli government reminded the ocean carrier it can block any deal where over 24 percent of shares are sold, complicating interest from rival ocean carriers.",
+      "url": "https://sourcingjournal.com/topics/logistics/zim-israel-strategic-review-buyout-sale-golden-share-government-ocean-carriers-union-opposition-hapag-lloyd-1234797341/",
+      "publishedAt": "2026-01-06T18:59:00",
+      "content": "The Israeli government reminded the ocean carrier it can block any deal where over 24 percent of shares are sold, complicating interest from rival ocean carriers."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "How Fashion Can Overcome Overproduction While Preserving Profitability",
+      "description": "Overproduction has long been the industry’s playbook: Manufacture large volumes at a low piece rate, made possible by chasing the cheapest needle.",
+      "url": "https://sourcingjournal.com/video/how-fashion-can-reduce-overproduction-and-stay-profitable-source-fashion/",
+      "publishedAt": "2026-01-06T16:30:00",
+      "content": "Overproduction has long been the industry’s playbook: Manufacture large volumes at a low piece rate, made possible by chasing the cheapest needle."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "New Study Highlights the Challenges of Selling Jeans Online",
+      "description": "Fit, style and comfort are a golden trio for selling jeans, but there are other factors that motivate men to make a purchase.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/new-study-highlights-challenges-selling-jeans-online-1234797296/",
+      "publishedAt": "2026-01-06T16:15:00",
+      "content": "Fit, style and comfort are a golden trio for selling jeans, but there are other factors that motivate men to make a purchase."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Kent water failure was foreseen and could have been stopped, regulator says",
+      "description": "Problem at water treatment centre left 24,000 Tunbridge Wells homes without drinking water for two weeksA failure at a water treatment centre that left tens of thousands of Kent households without ...",
+      "url": "https://www.theguardian.com/business/2026/jan/06/kent-tunbridge-wells-water-treatment-failure-regulator",
+      "publishedAt": "2026-01-06T14:48:19",
+      "content": "Problem at water treatment centre left 24,000 Tunbridge Wells homes without drinking water for two weeksA failure at a water treatment centre that left tens of thousands of Kent households without ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Loosely Regulated Petrochemical Barge Industry Is Commandeering a Texas River",
+      "description": "This article was originally published by Public Health Watch, a nonprofit investigative news organization.",
+      "url": "https://insideclimatenews.org/news/06012026/texas-san-jacinto-river-petrochemical-barge-industry/",
+      "publishedAt": "2026-01-06T09:55:00",
+      "content": "This article was originally published by Public Health Watch, a nonprofit investigative news organization."
     },
     {
       "source": {
@@ -180,91 +356,47 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Triple Pundit"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: More Sustainable New Year’s Eve 2025 Outfits",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-new-years-eve-outfits/",
-      "publishedAt": "2025-12-31T00:00:58",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Triple Pundit",
+      "title": "The ‘Stork Sisters’ Saving a Species on the Brink",
+      "description": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit",
+      "url": "https://triplepundit.com/2026/greater-adjutant-stork-conservation-hargila-army/",
+      "publishedAt": "2026-01-02T13:00:00",
+      "content": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "BBC"
       },
-      "author": "New York Times",
-      "title": "An Homage to Our Last Sunsets",
-      "description": "A trip to Antarctica at this time of year means a month of no darkness.",
-      "url": "https://www.nytimes.com/video/climate/100000010625788/an-homage-to-our-last-sunsets.html",
-      "publishedAt": "2026-01-06T02:28:20",
-      "content": "A trip to Antarctica at this time of year means a month of no darkness."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Entering the Antarctic Sea Ice, and a New World",
-      "description": "After 10 days with only the open ocean and the occasional iceberg at our sides, sailing into the sea ice felt like crossing into a whole new realm.",
-      "url": "https://www.nytimes.com/2026/01/05/climate/antarctica-expedition-sea-ice.html",
-      "publishedAt": "2026-01-05T22:08:42",
-      "content": "After 10 days with only the open ocean and the occasional iceberg at our sides, sailing into the sea ice felt like crossing into a whole new realm."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Chevron’s Risky Bet to Stay in Venezuela May Now Give It an Advantage",
-      "description": "The second-largest U.S. oil company, which kept pumping oil in the country after others left, could find it relatively easy to expand its operations if the political conditions there improve.",
-      "url": "https://www.nytimes.com/2026/01/05/business/energy-environment/venezuela-chevron-trump-oil.html",
-      "publishedAt": "2026-01-05T22:05:44",
-      "content": "The second-largest U.S. oil company, which kept pumping oil in the country after others left, could find it relatively easy to expand its operations if the political conditions there improve."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "UP, Norfolk Southern Push Back on Class I Challenges to Merger Filing",
-      "description": "The railroads say competitors’ objections are “baseless” and improperly argue the merits rather than the completeness of the filing.",
-      "url": "https://sourcingjournal.com/topics/logistics/union-pacific-norfolk-southern-stb-complete-merger-application-class-i-rival-railroads-bnsf-csx-cn-cpkc-competition-1234797255/",
-      "publishedAt": "2026-01-05T19:19:32",
-      "content": "The railroads say competitors’ objections are “baseless” and improperly argue the merits rather than the completeness of the filing."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Lycra, Radici Behind Recycling Breakthrough for Mixed-Fiber Textiles",
-      "description": "Radici InNova’s patented process uses selective dissolution technology to treat mixed textile waste and recover both its nylon and Lycra fibers.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/lycra-radici-triumph-recycling-mixed-fiber-textiles-1234795330/",
-      "publishedAt": "2026-01-05T18:00:00",
-      "content": "Radici InNova’s patented process uses selective dissolution technology to treat mixed textile waste and recover both its nylon and Lycra fibers."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "What’s Next in Denim Fashion for 2026?",
-      "description": "Denim brands are looking beyond the ’90s for inspiration.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/whats-next-in-denim-fashion-2026-boho-80s-indie-sleaze-1234795339/",
-      "publishedAt": "2026-01-05T16:00:00",
-      "content": "Denim brands are looking beyond the ’90s for inspiration."
+      "author": "BBC",
+      "title": "How Christmas trees are getting a new lease of life",
+      "description": "Some businesses are helping to recycle and reuse trees in a bid to reduce landfill and emissions.",
+      "url": "https://www.bbc.com/news/articles/c5yx7pkwe4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-06T06:04:24",
+      "content": "Some businesses are helping to recycle and reuse trees in a bid to reduce landfill and emissions."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Weather tracker: Arctic air grips Europe as severe winds batter Corsica",
-      "description": "Subzero temperatures, heavy snowfall and powerful gusts mark a harsh start to 2026 for manyIt has been a cold start to the year across much of Europe, particularly in central regions, where tempera...",
-      "url": "https://www.theguardian.com/environment/2026/jan/05/weather-tracker-arctic-air-grips-europe-winds-corsica",
-      "publishedAt": "2026-01-05T09:15:51",
-      "content": "Subzero temperatures, heavy snowfall and powerful gusts mark a harsh start to 2026 for manyIt has been a cold start to the year across much of Europe, particularly in central regions, where tempera..."
+      "title": "Country diary: Twelfth night tugs at the heart, but these decorations must come down | Nicola Chester",
+      "description": "Inkpen, Berkshire: The felted mouse choir, the sleeping fawn … a lot of it has meaning to us.",
+      "url": "https://www.theguardian.com/environment/2026/jan/06/country-diary-twelfth-night-tugs-at-the-heart-but-these-decorations-must-come-down",
+      "publishedAt": "2026-01-06T05:30:28",
+      "content": "Inkpen, Berkshire: The felted mouse choir, the sleeping fawn … a lot of it has meaning to us."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Mad fishing’: the super-size fleet of squid catchers plundering the high seas",
+      "description": "Every year a Chinese-dominated flotilla big enough to be seen from space pillages the rich marine life on Mile 201, a largely ungoverned part of the South Atlantic off ArgentinaIn a monitoring room...",
+      "url": "https://www.theguardian.com/environment/2026/jan/06/squid-argentina-coast-guard-overfishing-ecosystems-animal-cruelty-human-rights-china",
+      "publishedAt": "2026-01-06T05:00:29",
+      "content": "Every year a Chinese-dominated flotilla big enough to be seen from space pillages the rich marine life on Mile 201, a largely ungoverned part of the South Atlantic off ArgentinaIn a monitoring room..."
     },
     {
       "source": {
@@ -279,28 +411,6 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The ‘Stork Sisters’ Saving a Species on the Brink",
-      "description": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit",
-      "url": "https://triplepundit.com/2026/greater-adjutant-stork-conservation-hargila-army/",
-      "publishedAt": "2026-01-02T13:00:00",
-      "content": "A young student set out to protect an endangered local bird. Two decades later, Dr. Purnima Devi Barman has built a 20,000-strong army of women conservationists.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Battery electric cars will overtake diesels in Great Britain by 2030, analysis suggests",
-      "description": "London predicted to be the first UK city to go diesel-free, largely because of the ultra-low emission zoneBattery electric cars are poised to overtake diesels on Great Britain’s roads by 2030, acco...",
-      "url": "https://www.theguardian.com/business/2026/jan/04/battery-electric-cars-diesels-great-britain-london-ulez",
-      "publishedAt": "2026-01-04T15:00:09",
-      "content": "London predicted to be the first UK city to go diesel-free, largely because of the ultra-low emission zoneBattery electric cars are poised to overtake diesels on Great Britain’s roads by 2030, acco..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -309,28 +419,6 @@
       "url": "https://insideclimatenews.org/news/04012026/florida-port-everglades-dredging-project-could-damaga-corals/",
       "publishedAt": "2026-01-04T10:00:00",
       "content": "Beneath the surface of one of South Florida’s busiest maritime hubs, Port Everglades, scientists found 10 million corals thriving in and around the main channel traversed daily by cargo and cruise ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Network Blooms to Connect Fiber Farmers With Fabric Artisans",
-      "description": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist...",
-      "url": "https://insideclimatenews.org/news/03012026/a-network-blooms-to-connect-fiber-farmers-with-fabric-artisans/",
-      "publishedAt": "2026-01-03T09:45:00",
-      "content": "When yarn-maker Anne Choi moved to New Jersey in 2014, she noticed the lack of connection between natural fiber farmers, who raise sheep, alpacas and goats or grow cotton and flax, and fiber artist..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Keysight and HEAD Acoustics Achieve Successful Interoperability Test for Next Generation eCall Systems",
-      "description": "Keysight Technologies, Inc.",
-      "url": "https://csrwire.com/press-release/keysight-and-head-acoustics-achieve-successful-interoperability-test-next-generation-ecall/",
-      "publishedAt": "2025-12-30T09:15:00",
-      "content": "Keysight Technologies, Inc."
     }
   ]
 }
