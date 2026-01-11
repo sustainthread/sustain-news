@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 43,
   "articles": [
     {
       "source": {
@@ -48,6 +48,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Climate Cooperation Will Suffer as the U.S. Disengages From International Commitments",
+      "description": "The U.",
+      "url": "https://insideclimatenews.org/news/10012026/united-states-international-climate-commitments/",
+      "publishedAt": "2026-01-10T10:00:00",
+      "content": "The U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Environmental and Cultural Benefits of Restoring the American Prairie",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Josephine Marcotty, co-author of “Sea of Grass: The Conquest, Ruin, a...",
+      "url": "https://insideclimatenews.org/news/10012026/restoring-the-american-prairie/",
+      "publishedAt": "2026-01-10T09:50:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Josephine Marcotty, co-author of “Sea of Grass: The Conquest, Ruin, a..."
+    },
+    {
+      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -67,17 +89,6 @@
       "url": "https://csrwire.com/press-release/sysco-supports-local-farmers-and-sustainable-agriculture-practices/",
       "publishedAt": "2026-01-09T09:15:00",
       "content": "Originally published on January 6th, 2025 on LinkedIn Local fields."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Profound impacts’: record ocean heat is intensifying climate disasters, data shows",
-      "description": "Oceans absorb 90% of global heating, making them a stark indicator of the relentless march of the climate crisisThe world’s oceans absorbed colossal amounts of heat in 2025, setting yet another new...",
-      "url": "https://www.theguardian.com/environment/2026/jan/09/profound-impacts-record-ocean-heat-intensifying-climate-disasters",
-      "publishedAt": "2026-01-09T08:00:32",
-      "content": "Oceans absorb 90% of global heating, making them a stark indicator of the relentless march of the climate crisisThe world’s oceans absorbed colossal amounts of heat in 2025, setting yet another new..."
     },
     {
       "source": {
@@ -103,6 +114,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Profound impacts’: record ocean heat is intensifying climate disasters, data shows",
+      "description": "Oceans absorb 90% of global heating, making them a stark indicator of the relentless march of the climate crisisThe world’s oceans absorbed colossal amounts of heat in 2025, setting yet another new...",
+      "url": "https://www.theguardian.com/environment/2026/jan/09/profound-impacts-record-ocean-heat-intensifying-climate-disasters",
+      "publishedAt": "2026-01-09T08:00:32",
+      "content": "Oceans absorb 90% of global heating, making them a stark indicator of the relentless march of the climate crisisThe world’s oceans absorbed colossal amounts of heat in 2025, setting yet another new..."
+    },
+    {
+      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -114,14 +136,58 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Diginex Acquires Supply Chain Human Rights Advisory Firm The Remedy Project",
+      "description": "Sustainability RegTech company Diginex announced that it has completed the acquisition of The Remedy Project",
+      "url": "https://www.esgtoday.com/diginex-acquires-supply-chain-human-rights-advisory-firm-the-remedy-project/?utm_source=rss&utm_medium=rss&utm_campaign=diginex-acquires-supply-chain-human-rights-advisory-firm-the-remedy-project",
+      "publishedAt": "2026-01-08T14:43:33",
+      "content": "Sustainability RegTech company Diginex announced that it has completed the acquisition of The Remedy Project"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Lululemon Leggings: 14 More Sustainable Alternatives We Love",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-lululemon-leggings/",
+      "publishedAt": "2026-01-07T01:00:34",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Ethical and Sustainable Activewear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-ethical-activewear/",
+      "publishedAt": "2026-01-04T23:00:12",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Exhaust pipe position affects how much air pollution we breathe, research finds",
-      "description": "Cars that emit fumes closer to pavement result in pedestrians experiencing  40% more pollutionSome vehicles are much more polluting than others and the design of exhaust pipes could affect how much...",
-      "url": "https://www.theguardian.com/environment/2026/jan/09/exhaust-pipe-position-affects-how-much-air-pollution-we-breathe-research-finds",
-      "publishedAt": "2026-01-09T06:00:28",
-      "content": "Cars that emit fumes closer to pavement result in pedestrians experiencing  40% more pollutionSome vehicles are much more polluting than others and the design of exhaust pipes could affect how much..."
+      "title": "Freedom from China? The mine at the centre of Europe’s push for rare earth metals",
+      "description": "Swedish producer is trying to to accelerate the process of extracting the elements vital for hi-tech productsIt is deep winter with temperatures dropping to -20C. The sun never rises above the hori...",
+      "url": "https://www.theguardian.com/environment/2026/jan/10/china-mine-europe-rare-earth-metals-swedish-producer",
+      "publishedAt": "2026-01-10T12:00:56",
+      "content": "Swedish producer is trying to to accelerate the process of extracting the elements vital for hi-tech productsIt is deep winter with temperatures dropping to -20C. The sun never rises above the hori..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Arizona Comes to Agreement With Major Dairy Farm to Cut Groundwater Pumping That Is Draining Wells",
+      "description": "PEARCE, Ariz.",
+      "url": "https://insideclimatenews.org/news/10012026/arizona-agreement-with-dairy-farm-to-cut-groundwater-pumping/",
+      "publishedAt": "2026-01-10T09:55:00",
+      "content": "PEARCE, Ariz."
     },
     {
       "source": {
@@ -169,36 +235,36 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How falcon thieves are targeting the UK’s protected birds",
+      "description": "In this week’s newsletter: Conservationists have seen nests raided around the country to match demand from the Middle East• Don’t get Down to Earth delivered to your inbox? Sign up hereEarlier this...",
+      "url": "https://www.theguardian.com/environment/2026/jan/08/wildlife-matters-and-it-may-be-causing-untold-harm-upon-nature-in-the-uk",
+      "publishedAt": "2026-01-09T07:00:32",
+      "content": "In this week’s newsletter: Conservationists have seen nests raided around the country to match demand from the Middle East• Don’t get Down to Earth delivered to your inbox? Sign up hereEarlier this..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "This Startup Retrofits Buildings Using As Few New Materials As Possible",
+      "description": "GeoStruxer takes a different approach to retrofitting than the average engineering firm, giving structures a second life while avoiding excess materials and carbon emissions.TriplePundit",
+      "url": "https://triplepundit.com/2026/geostruxer-bentley-systems-artificial-intelligence-building-retrofitting/",
+      "publishedAt": "2026-01-08T19:23:19",
+      "content": "GeoStruxer takes a different approach to retrofitting than the average engineering firm, giving structures a second life while avoiding excess materials and carbon emissions.TriplePundit"
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Diginex Acquires Supply Chain Human Rights Advisory Firm The Remedy Project",
-      "description": "Sustainability RegTech company Diginex announced that it has completed the acquisition of The Remedy Project",
-      "url": "https://www.esgtoday.com/diginex-acquires-supply-chain-human-rights-advisory-firm-the-remedy-project/?utm_source=rss&utm_medium=rss&utm_campaign=diginex-acquires-supply-chain-human-rights-advisory-firm-the-remedy-project",
-      "publishedAt": "2026-01-08T14:43:33",
-      "content": "Sustainability RegTech company Diginex announced that it has completed the acquisition of The Remedy Project"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Lululemon Leggings: 14 More Sustainable Alternatives We Love",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-lululemon-leggings/",
-      "publishedAt": "2026-01-07T01:00:34",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Ethical and Sustainable Activewear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-ethical-activewear/",
-      "publishedAt": "2026-01-04T23:00:12",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "title": "Equitable Earth Raises $14.7 Million to Advance Certification Standard for Nature-Based Carbon Projects",
+      "description": "Carbon markets-focused standard platform Equitable Earth announced today that it has raised €12.6 million (USD$14.7",
+      "url": "https://www.esgtoday.com/equitable-earth-raises-14-7-million-to-advance-certification-standard-for-nature-based-carbon-projects/?utm_source=rss&utm_medium=rss&utm_campaign=equitable-earth-raises-14-7-million-to-advance-certification-standard-for-nature-based-carbon-projects",
+      "publishedAt": "2026-01-08T16:20:26",
+      "content": "Carbon markets-focused standard platform Equitable Earth announced today that it has raised €12.6 million (USD$14.7"
     },
     {
       "source": {
@@ -210,6 +276,28 @@
       "url": "https://www.theguardian.com/world/2026/jan/10/quebecs-lake-rouge-vanished-but-was-it-a-freak-natural-event-or-caused-by-human-actions",
       "publishedAt": "2026-01-10T06:00:53",
       "content": "Experts and community trying to untangle mystery of outburst that saw water travel almost 10km overland into a bigger lakeManoel Dixon had just finished dinner one night last May when a phone dinge..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Look up! Tonight’s the night to see Jupiter at its brightest | Nigel Brown",
+      "description": "Ynys Môn (Anglesey): The wolf moon is spectacular enough, but look east and you’ll see a celestial titan the size of a pinprickAs unmissable as new year’s fireworks, the wolf moon held the heavens ...",
+      "url": "https://www.theguardian.com/science/2026/jan/10/country-diary-look-up-tonights-the-night-to-see-jupiter-at-its-brightest",
+      "publishedAt": "2026-01-10T05:30:48",
+      "content": "Ynys Môn (Anglesey): The wolf moon is spectacular enough, but look east and you’ll see a celestial titan the size of a pinprickAs unmissable as new year’s fireworks, the wolf moon held the heavens ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "World’s richest 1% have already used fair share of emissions for 2026, says Oxfam",
+      "description": "Richest 1% took 10 days while wealthiest 0.",
+      "url": "https://www.theguardian.com/environment/2026/jan/10/world-richest-used-fair-share-emissions-2026-oxfam",
+      "publishedAt": "2026-01-10T05:00:48",
+      "content": "Richest 1% took 10 days while wealthiest 0."
     },
     {
       "source": {
@@ -290,25 +378,25 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "BBC"
       },
-      "author": "Triple Pundit",
-      "title": "This Startup Retrofits Buildings Using As Few New Materials As Possible",
-      "description": "GeoStruxer takes a different approach to retrofitting than the average engineering firm, giving structures a second life while avoiding excess materials and carbon emissions.TriplePundit",
-      "url": "https://triplepundit.com/2026/geostruxer-bentley-systems-artificial-intelligence-building-retrofitting/",
-      "publishedAt": "2026-01-08T19:23:19",
-      "content": "GeoStruxer takes a different approach to retrofitting than the average engineering firm, giving structures a second life while avoiding excess materials and carbon emissions.TriplePundit"
+      "author": "BBC",
+      "title": "Astronaut's 'serious medical condition' forces Nasa to end space station mission early",
+      "description": "It is the first time in Nasa's over-65 year history that a mission will return early due to a health issue.",
+      "url": "https://www.bbc.com/news/articles/cd9e2y7nkv8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-08T23:47:50",
+      "content": "It is the first time in Nasa's over-65 year history that a mission will return early due to a health issue."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "BBC"
       },
-      "author": "ESG Today",
-      "title": "Equitable Earth Raises $14.7 Million to Advance Certification Standard for Nature-Based Carbon Projects",
-      "description": "Carbon markets-focused standard platform Equitable Earth announced today that it has raised €12.6 million (USD$14.7",
-      "url": "https://www.esgtoday.com/equitable-earth-raises-14-7-million-to-advance-certification-standard-for-nature-based-carbon-projects/?utm_source=rss&utm_medium=rss&utm_campaign=equitable-earth-raises-14-7-million-to-advance-certification-standard-for-nature-based-carbon-projects",
-      "publishedAt": "2026-01-08T16:20:26",
-      "content": "Carbon markets-focused standard platform Equitable Earth announced today that it has raised €12.6 million (USD$14.7"
+      "author": "BBC",
+      "title": "More changes to farm inheritance tax plans ruled out",
+      "description": "The government says it has listened to farmers and increased the proposed inheritance tax threshold.",
+      "url": "https://www.bbc.com/news/articles/cvgd1x256lzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-08T13:22:41",
+      "content": "The government says it has listened to farmers and increased the proposed inheritance tax threshold."
     },
     {
       "source": {
@@ -353,83 +441,6 @@
       "url": "https://csrwire.com/press-release/90-billion-annual-funding-gap-exposes-urgent-need-modernize-americas-aging-school-buildings/",
       "publishedAt": "2026-01-07T09:00:00",
       "content": "The 2025 State of Our Schools report shows that the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Mermaid’s purses bring riches to the beach | Tom Allan",
-      "description": "North Sands, Salcombe, Devon: They’re my daughter’s favourite find, and I’ve never seen such a concentration.",
-      "url": "https://www.theguardian.com/environment/2026/jan/09/country-diary-mermaids-purses-bring-riches-to-the-beach",
-      "publishedAt": "2026-01-09T05:30:27",
-      "content": "North Sands, Salcombe, Devon: They’re my daughter’s favourite find, and I’ve never seen such a concentration."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Astronaut's 'serious medical condition' forces Nasa to end space station mission early",
-      "description": "It is the first time in Nasa's over-65 year history that a mission will return early due to a health issue.",
-      "url": "https://www.bbc.com/news/articles/cd9e2y7nkv8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-08T23:47:50",
-      "content": "It is the first time in Nasa's over-65 year history that a mission will return early due to a health issue."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "G.M. Books a $7.1 Billion Loss as It Scales Back E.V. Ambitions",
-      "description": "General Motors said it was writing down the value of battery and electric vehicle factories after changes in federal policy undercut demand.",
-      "url": "https://www.nytimes.com/2026/01/08/business/general-motors-electric-vehicles-writedown.html",
-      "publishedAt": "2026-01-08T21:05:47",
-      "content": "General Motors said it was writing down the value of battery and electric vehicle factories after changes in federal policy undercut demand."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "More changes to farm inheritance tax plans ruled out",
-      "description": "The government says it has listened to farmers and increased the proposed inheritance tax threshold.",
-      "url": "https://www.bbc.com/news/articles/cvgd1x256lzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-08T13:22:41",
-      "content": "The government says it has listened to farmers and increased the proposed inheritance tax threshold."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Germany’s dying forests are losing their ability to absorb CO2. Can a new way of planting save them?",
-      "description": "Vast swathes of the country’s trees have been killed off by droughts and infestations, in a trend sweeping across Europe.",
-      "url": "https://www.theguardian.com/environment/2026/jan/08/germany-forests-bark-beetle-spruce-co2-carbon-sink-monoculture-aoe",
-      "publishedAt": "2026-01-08T09:00:03",
-      "content": "Vast swathes of the country’s trees have been killed off by droughts and infestations, in a trend sweeping across Europe."
-    },
-    {
-      "source": {
-        "name": "Vogue Business"
-      },
-      "author": "Vogue Business",
-      "title": "The Vogue Business Funding Tracker",
-      "description": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions.",
-      "url": "https://www.voguebusiness.com/article/the-vogue-business-funding-tracker",
-      "publishedAt": "2026-01-08T05:30:00",
-      "content": "Bringing you the latest fashion and beauty financing news, including investments and acquisitions."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "12 Online Stores for Shopping More Sustainably in 2026",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-fashion-online-stores/",
-      "publishedAt": "2026-01-08T00:38:20",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
     },
     {
       "source": {
