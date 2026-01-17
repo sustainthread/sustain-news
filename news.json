@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 55,
+  "totalResults": 49,
   "articles": [
     {
       "source": {
@@ -40,11 +40,22 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Ocean Damage Nearly Doubles the Cost of Climate Change",
-      "description": "The global cost of greenhouse gas emissions are nearly double what scientists previously thought, according to a study published Thursday by researchers at the University of California San Diego’s ...",
-      "url": "https://insideclimatenews.org/news/15012026/ocean-damage-nearly-doubles-the-cost-of-climate-change/",
-      "publishedAt": "2026-01-15T23:37:47",
-      "content": "The global cost of greenhouse gas emissions are nearly double what scientists previously thought, according to a study published Thursday by researchers at the University of California San Diego’s ..."
+      "title": "Clean Energy Advocates Criticize ‘Glaring’ Omission in White House Plan to Fuel Data Centers in PJM Region",
+      "description": "Rising electricity costs and the rapid build-out of energy-hungry data centers across the mid-Atlantic region brought a bipartisan group of governors to the White House Friday for an agreement on a...",
+      "url": "https://insideclimatenews.org/news/16012026/mid-atlantic-governors-proposal-fuel-data-centers-in-pjm-region/",
+      "publishedAt": "2026-01-17T00:28:29",
+      "content": "Rising electricity costs and the rapid build-out of energy-hungry data centers across the mid-Atlantic region brought a bipartisan group of governors to the White House Friday for an agreement on a..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Google Buys 1.2 GW of Carbon-free Energy to Power Data Centers Across U.S.",
+      "description": "Clean energy developer and operator Clearway announced a series of new long-term power purchase agreements",
+      "url": "https://www.esgtoday.com/google-buys-1-2-gw-of-carbon-free-energy-to-power-data-centers-across-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=google-buys-1-2-gw-of-carbon-free-energy-to-power-data-centers-across-u-s",
+      "publishedAt": "2026-01-16T12:41:26",
+      "content": "Clean energy developer and operator Clearway announced a series of new long-term power purchase agreements"
     },
     {
       "source": {
@@ -81,17 +92,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Greenland: new shipping routes, hidden minerals – and a frontline between the US and Russia?",
-      "description": "Key maps show the growing strategic importance of Greenland as Arctic ice melts under global heatingLying between the US and Russia, Greenland has become a critical frontline as the Arctic opens up...",
-      "url": "https://www.theguardian.com/world/2026/jan/15/greenland-new-shipping-routes-hidden-minerals-and-a-frontline-between-the-us-and-russia",
-      "publishedAt": "2026-01-15T12:10:17",
-      "content": "Key maps show the growing strategic importance of Greenland as Arctic ice melts under global heatingLying between the US and Russia, Greenland has become a critical frontline as the Arctic opens up..."
-    },
-    {
-      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
@@ -103,14 +103,58 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Garden of Eden’: the Spanish farm growing citrus you’ve never heard of",
+      "description": "Todolí foundation produces varieties from Buddha’s hands to sudachi and hopes to help citrus survive climate changeIt was on a trip with a friend to the east coast of Spain that the chef Matthew Sl...",
+      "url": "https://www.theguardian.com/environment/2026/jan/16/garden-of-eden-the-spanish-farm-growing-citrus-youve-never-heard-of",
+      "publishedAt": "2026-01-16T14:14:19",
+      "content": "Todolí foundation produces varieties from Buddha’s hands to sudachi and hopes to help citrus survive climate changeIt was on a trip with a friend to the east coast of Spain that the chef Matthew Sl..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Where Wine Meets Wildlife: Why Brassfield Estate Lets Animals Roam the Vineyard",
+      "description": "The winery only uses a tenth of its 5,000 acres to grow grapes. The rest is left for the bears, deer and other California critters to enjoy.TriplePundit",
+      "url": "https://triplepundit.com/2026/brassfield-estate-winery-biodiversity-sustainable-wine/",
+      "publishedAt": "2026-01-16T14:00:00",
+      "content": "The winery only uses a tenth of its 5,000 acres to grow grapes. The rest is left for the bears, deer and other California critters to enjoy.TriplePundit"
+    },
+    {
+      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Dr. Katharine K. Wilkinson Announced As Living Future 2026 Keynote: A Blueprint for Climate Wayfinding",
-      "description": "We are at a pivot point where design must become a tool for healing.",
-      "url": "https://csrwire.com/press-release/dr-katharine-k-wilkinson-announced-living-future-2026-keynote-blueprint-climate-wayfinding/",
-      "publishedAt": "2026-01-13T07:00:00",
-      "content": "We are at a pivot point where design must become a tool for healing."
+      "title": "Mastercard – 'Doing Good by Default': How This Vision of Consumer Protection Can Build Resilience",
+      "description": "Since the launch of the World Bank's Findex database in 2011, bank account ownership among adults has grown from 51% to 79%.",
+      "url": "https://csrwire.com/press-release/mastercard-doing-good-default-how-vision-consumer-protection-can-build-resilience/",
+      "publishedAt": "2026-01-16T09:45:00",
+      "content": "Since the launch of the World Bank's Findex database in 2011, bank account ownership among adults has grown from 51% to 79%."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Impact Investor Blue Earth Capital Raises $100 Million to Launch New Secondaries Strategy",
+      "description": "Specialist impact investor Blue Earth Capital announced the launch of its first dedicated impact strategy,",
+      "url": "https://www.esgtoday.com/impact-investor-blue-earth-capital-raises-100-million-for-new-secondaries-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investor-blue-earth-capital-raises-100-million-for-new-secondaries-strategy",
+      "publishedAt": "2026-01-16T09:21:38",
+      "content": "Specialist impact investor Blue Earth Capital announced the launch of its first dedicated impact strategy,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Foundation Supports Boys & Girls Clubs of Greater Southwest Michigan Best Buy Teen Tech Center in Benton Harbor",
+      "description": "Whirlpool Foundation, Best Buy Foundation and Boys & Girls Clubs of Greater Southwest Michigan are proud to announce the grand opening of a new Best Buy Teen Tech Center powered by Whirlpool Founda...",
+      "url": "https://csrwire.com/press-release/whirlpool-foundation-supports-boys-girls-clubs-greater-southwest-michigan-best-buy-teen-tech/",
+      "publishedAt": "2026-01-16T08:30:00",
+      "content": "Whirlpool Foundation, Best Buy Foundation and Boys & Girls Clubs of Greater Southwest Michigan are proud to announce the grand opening of a new Best Buy Teen Tech Center powered by Whirlpool Founda..."
     },
     {
       "source": {
@@ -147,10 +191,153 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The $2 Rental Batteries Helping to Power South Africa",
+      "description": "The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels.",
+      "url": "https://www.nytimes.com/2026/01/17/world/africa/batteries-south-africa-electricity.html",
+      "publishedAt": "2026-01-17T05:01:14",
+      "content": "The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Thousands Evicted From Makoko, the ‘Venice of Nigeria’",
+      "description": "Community leaders in Lagos say evictions in the name of development have left many residents of this fishing village homeless.",
+      "url": "https://www.nytimes.com/2026/01/16/world/africa/nigeria-makoko-fishing-village-destroyed.html",
+      "publishedAt": "2026-01-17T02:49:44",
+      "content": "Community leaders in Lagos say evictions in the name of development have left many residents of this fishing village homeless."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Federal Court Allows Dominion Energy in Virginia to Continue Offshore Wind Project",
+      "description": "NORFOLK, Va.",
+      "url": "https://insideclimatenews.org/news/16012026/federal-court-allows-dominion-energy-in-virginia-to-continue-offshore-wind-project/",
+      "publishedAt": "2026-01-17T02:03:22",
+      "content": "NORFOLK, Va."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "An Antarctic Icebreaker Takes a Pioneering Sail",
+      "description": "Part of Pine Island Glacier collapsed several years ago, forming an unstable inlet where no ship had sailed. Until now.",
+      "url": "https://www.nytimes.com/2026/01/16/climate/antarctica-expedition-pine-island-glacier.html",
+      "publishedAt": "2026-01-17T01:16:32",
+      "content": "Part of Pine Island Glacier collapsed several years ago, forming an unstable inlet where no ship had sailed. Until now."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Edison Files Claims Against Los Angeles County and Others on Eaton Fire",
+      "description": "Southern California Edison said its equipment most likely started the Eaton fire but asserted that government agencies and other businesses shared liability for the devastation.",
+      "url": "https://www.nytimes.com/2026/01/16/business/energy-environment/southern-california-edison-eaton-fire.html",
+      "publishedAt": "2026-01-17T00:26:22",
+      "content": "Southern California Edison said its equipment most likely started the Eaton fire but asserted that government agencies and other businesses shared liability for the devastation."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Year Out From One of the World’s Largest Battery Facility Fires",
+      "description": "MOSS LANDING, Calif.",
+      "url": "https://insideclimatenews.org/news/16012026/a-year-out-from-one-of-the-worlds-largest-battery-facility-fires/",
+      "publishedAt": "2026-01-16T22:38:51",
+      "content": "MOSS LANDING, Calif."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "The Future of Fabric Looks a Little Broken at Heimtextil, on Purpose",
+      "description": "Heimtextil 2026 saw six key themes emerge under “Craft is a verb” as designers test what happens when AI-driven visuals meet old-school making.",
+      "url": "https://sourcingjournal.com/topics/fashion-trends/the-future-of-fabric-looks-a-little-broken-at-heimtextil-1234804151/",
+      "publishedAt": "2026-01-16T21:00:00",
+      "content": "Heimtextil 2026 saw six key themes emerge under “Craft is a verb” as designers test what happens when AI-driven visuals meet old-school making."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Virginia Coastal Offshore Wind Project Can Continue, Judge Rules",
+      "description": "Construction can continue on an $11.2 billion project off the coast of Virginia, said to be 70 percent complete.",
+      "url": "https://www.nytimes.com/2026/01/16/climate/coastal-virginia-offshore-wind-ruling.html",
+      "publishedAt": "2026-01-16T20:58:49",
+      "content": "Construction can continue on an $11.2 billion project off the coast of Virginia, said to be 70 percent complete."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "New Standard Institute Illustrates Impact of Textile Waste",
+      "description": "The organization installed 4,500 pounds of discarded clothing outside the California state capitol building in Sacramento on Thursday.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/new-standard-institute-illustrates-impact-textile-waste-1234804159/",
+      "publishedAt": "2026-01-16T20:30:00",
+      "content": "The organization installed 4,500 pounds of discarded clothing outside the California state capitol building in Sacramento on Thursday."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Red Sea Terminal Debuts as Ocean Carriers Test Post-Crisis Suez Routing",
+      "description": "Backed by $1.8 billion from Hutchison, CMA CGM and Cosco, the Ain Sokhna terminal comes online amid renewed confidence in regional stability.",
+      "url": "https://sourcingjournal.com/topics/logistics/red-sea-suez-canal-container-terminal-hutchison-ports-cma-cgm-cosco-shipping-ocean-carriers-egypt-ain-sokhna-1234804119/",
+      "publishedAt": "2026-01-16T18:00:26",
+      "content": "Backed by $1.8 billion from Hutchison, CMA CGM and Cosco, the Ain Sokhna terminal comes online amid renewed confidence in regional stability."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Preparing to drill into a glacier",
+      "description": "",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/preparing-to-drill-into-a-glacier",
+      "publishedAt": "2026-01-16T15:29:06",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Are our bodies full of microplastics or not? There’s a way to resolve this debate, and scientists must hurry | Debora MacKenzie",
+      "description": "This week’s furore is microplastics researchers’ ozone moment.",
+      "url": "https://www.theguardian.com/commentisfree/2026/jan/16/microplastics-bodies-debate",
+      "publishedAt": "2026-01-16T11:00:56",
+      "content": "This week’s furore is microplastics researchers’ ozone moment."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Water restored to most Kent and Sussex homes after six days’ disruption",
+      "description": "Up to 30,000 customers of South East Water had no supply or low pressure at height of incidentWater has been restored to most homes across Kent and Sussex after almost a week of disruption.South Ea...",
+      "url": "https://www.theguardian.com/environment/2026/jan/16/water-restored-to-most-kent-and-sussex-homes-after-six-days-disruption",
+      "publishedAt": "2026-01-16T10:10:11",
+      "content": "Up to 30,000 customers of South East Water had no supply or low pressure at height of incidentWater has been restored to most homes across Kent and Sussex after almost a week of disruption.South Ea..."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "The landscape beneath Antarctica's icy surface revealed in unprecedented detail",
+      "title": "Landscape beneath Antarctica's icy surface revealed in unprecedented detail",
       "description": "Scientists believe the map could shed light on how Antarctica's vast ice sheet will respond to climate change.",
       "url": "https://www.bbc.com/news/articles/c9qpx2qqeq7o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-01-16T00:00:21",
@@ -202,14 +389,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Triple Pundit"
       },
-      "author": "ESG Today",
-      "title": "Salesforce Signs Deals to Purchase Carbon Removal from 19 Early-Stage Suppliers",
-      "description": "Sweden-based climate and nature solutions provider Milkywire announced that it has completed $5 million of",
-      "url": "https://www.esgtoday.com/salesforce-signs-deals-to-purchase-carbon-removal-from-19-early-stage-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-deals-to-purchase-carbon-removal-from-19-early-stage-suppliers",
-      "publishedAt": "2026-01-14T15:56:55",
-      "content": "Sweden-based climate and nature solutions provider Milkywire announced that it has completed $5 million of"
+      "author": "Triple Pundit",
+      "title": "Can Worms Help Fight Antimicrobial Resistance?",
+      "description": "Beyond improving soil health, new research indicates vermicomposting can be helpful for stopping the spread of antimicrobial resistance from farms to people. TriplePundit",
+      "url": "https://triplepundit.com/2026/vermicomposting-antimicrobial-resistance-farms/",
+      "publishedAt": "2026-01-14T18:07:56",
+      "content": "Beyond improving soil health, new research indicates vermicomposting can be helpful for stopping the spread of antimicrobial resistance from farms to people. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco’s FY25 Purpose Report: A Letter from Fran Katsoudas",
+      "description": "If strategy sets direction, learning is what makes it last. Learning is one of the clearest places where Cisco’s Purpose and business intersect.",
+      "url": "https://csrwire.com/press-release/ciscos-fy25-purpose-report-letter-fran-katsoudas/",
+      "publishedAt": "2026-01-14T12:05:00",
+      "content": "If strategy sets direction, learning is what makes it last. Learning is one of the clearest places where Cisco’s Purpose and business intersect."
     },
     {
       "source": {
@@ -227,22 +425,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘Walk like penguin’ to avoid adding to winter trip toll",
-      "description": "Changing the way you get about offers some protection from the hazards of ice, snow and compacted leavesWinter is peak season for slipping and falling outdoors, which is ironic given that we are ad...",
-      "url": "https://www.theguardian.com/news/2026/jan/16/walk-like-penguin-avoid-tripping-winter-ice-snow-leaves",
-      "publishedAt": "2026-01-16T06:00:02",
-      "content": "Changing the way you get about offers some protection from the hazards of ice, snow and compacted leavesWinter is peak season for slipping and falling outdoors, which is ironic given that we are ad..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "State and Federal Lawmakers Want Data Centers to Pay More for Energy",
-      "description": "Despite many proposals, there is little consensus among governors, lawmakers and tech executives about exactly how much the companies behind data centers should pay for electricity.",
-      "url": "https://www.nytimes.com/2026/01/15/business/energy-environment/data-center-energy-electricity-costs.html",
-      "publishedAt": "2026-01-16T01:15:51",
-      "content": "Despite many proposals, there is little consensus among governors, lawmakers and tech executives about exactly how much the companies behind data centers should pay for electricity."
+      "title": "‘If you’re flushing the toilet with grey water, people should know’: how China turned rain into an asset",
+      "description": "Architects and designers have recycled ancient practice of collecting rainwater to make buildings ecologically friendlyWhen the legendary Taiwanese rock band Mayday were due to perform in Beijing o...",
+      "url": "https://www.theguardian.com/environment/2026/jan/16/grey-water-how-china-turned-rain-into-asset",
+      "publishedAt": "2026-01-16T05:00:02",
+      "content": "Architects and designers have recycled ancient practice of collecting rainwater to make buildings ecologically friendlyWhen the legendary Taiwanese rock band Mayday were due to perform in Beijing o..."
     },
     {
       "source": {
@@ -268,105 +455,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What Does Antarctica Sound Like?",
-      "description": "Our reporter answers another batch of reader questions from an expedition to Antarctica. Is it hard to fly a helicopter in the Antarctic cold? And what do penguins sound like?",
-      "url": "https://www.nytimes.com/video/climate/100000010639672/the-sounds-of-antarctica-flying-in-the-cold-your-questions-answered.html",
-      "publishedAt": "2026-01-15T22:22:39",
-      "content": "Our reporter answers another batch of reader questions from an expedition to Antarctica. Is it hard to fly a helicopter in the Antarctic cold? And what do penguins sound like?"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Cities That Broke Heat Records Last Year",
-      "description": "Thousands of cities around the world saw their hottest year on record in 2025 as the planet has inched closer to a key temperature threshold.",
-      "url": "https://www.nytimes.com/2026/01/15/climate/the-cities-that-broke-heat-records-last-year.html",
-      "publishedAt": "2026-01-15T20:35:23",
-      "content": "Thousands of cities around the world saw their hottest year on record in 2025 as the planet has inched closer to a key temperature threshold."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Innovation Becomes Essential for Textile Industry Facing Global Challenges",
-      "description": "Panelists at Heimtextil stress innovation's role in textiles ahead of Techtextil and Texprocess 2026.",
-      "url": "https://sourcingjournal.com/topics/trade-shows/innovation-becomes-essential-heimtextil-1234798350/",
-      "publishedAt": "2026-01-15T20:00:00",
-      "content": "Panelists at Heimtextil stress innovation's role in textiles ahead of Techtextil and Texprocess 2026."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Maersk Begins Structural Return to Red Sea After 2-Year Hiatus",
-      "description": "The ocean carrier’s India-to-U.S. MECL service will again use the Suez Canal as stability in the region improves following the cessation of Houthi attacks.",
-      "url": "https://sourcingjournal.com/topics/logistics/maersk-red-sea-suez-canal-structural-return-two-year-hiatus-stability-mecl-service-india-us-houthi-attacks-1234798364/",
-      "publishedAt": "2026-01-15T19:00:00",
-      "content": "The ocean carrier’s India-to-U.S. MECL service will again use the Suez Canal as stability in the region improves following the cessation of Houthi attacks."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Levi’s Is Stepping Into the Classroom to Teach Students How to Mend Jeans",
-      "description": "Levi’s Wear Longer Project is a new national initiative aimed at teaching students practical clothing repair and customization skills.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/levis-wear-longer-project-teaching-students-sewing-skills-1234798137/",
-      "publishedAt": "2026-01-15T18:30:00",
-      "content": "Levi’s Wear Longer Project is a new national initiative aimed at teaching students practical clothing repair and customization skills."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Material World: Uncaged Elevates Five Luxury Labels",
-      "description": "Five brands launched luxury items with Uncaged’s plant-protein leather.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-uncaged-elevate-spinnova-tintte-1234798329/",
-      "publishedAt": "2026-01-15T18:00:00",
-      "content": "Five brands launched luxury items with Uncaged’s plant-protein leather."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Weather Detours a Scientific Expedition to Antarctica’s Thwaites Glacier",
-      "description": "Bad weather has postponed attempts to set up camp on the Thwaites Glacier. So researchers got onto the sea ice and met a local.",
-      "url": "https://www.nytimes.com/2026/01/14/climate/antarctica-glacier-sea-ice.html",
-      "publishedAt": "2026-01-15T17:12:39",
-      "content": "Bad weather has postponed attempts to set up camp on the Thwaites Glacier. So researchers got onto the sea ice and met a local."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Brooklyn Denim Co. Closes Williamsburg Store Amid Ongoing Retail Challenges",
-      "description": "Owner Frank Pizzurro reflects on the challenges of maintaining a premium denim retail store in an increasingly homogenized market.",
-      "url": "https://sourcingjournal.com/denim/denim-business/brooklyn-denim-co-closes-williamsburg-store-frank-pizzurro-1234798165/",
-      "publishedAt": "2026-01-15T17:00:00",
-      "content": "Owner Frank Pizzurro reflects on the challenges of maintaining a premium denim retail store in an increasingly homogenized market."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Talking About Energy Dominance? Solar Would Like to Have a Word.",
-      "description": "There’s a lot happening right now in U.",
-      "url": "https://insideclimatenews.org/news/15012026/inside-clean-energy-solar-dominance/",
-      "publishedAt": "2026-01-15T14:00:00",
-      "content": "There’s a lot happening right now in U."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -389,149 +477,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How One Company, Neptune Flood, Is Pushing a Private Takeover of Flood Insurance",
-      "description": "For half a century, a federal program has covered most at-risk properties. Now, a private company is pitching a plan to shrink the government’s role.",
-      "url": "https://www.nytimes.com/2026/01/15/climate/neptune-flood-nfip-insurance.html",
-      "publishedAt": "2026-01-15T10:00:15",
-      "content": "For half a century, a federal program has covered most at-risk properties. Now, a private company is pitching a plan to shrink the government’s role."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In Hurricane-Prone Florida, Legislators Reconsider New Growth and Development Law",
-      "description": "After three hurricanes battered Florida in 2024, state lawmakers approved legislation that supporters said would help communities recover.",
-      "url": "https://insideclimatenews.org/news/15012026/florida-legislators-reconsider-resiliency-efforts-law/",
-      "publishedAt": "2026-01-15T10:00:00",
-      "content": "After three hurricanes battered Florida in 2024, state lawmakers approved legislation that supporters said would help communities recover."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Toby Kiers, World Champion of Mycorrhizal Fungus",
-      "description": "This year’s recipient of the Tyler Prize for Environmental Achievement talks about “punk science,” microbial economics and thinking like a mycorrhizal fungus.",
-      "url": "https://www.nytimes.com/2026/01/14/science/toby-kiers-fungus-tyler-prize.html",
-      "publishedAt": "2026-01-14T20:15:42",
-      "content": "This year’s recipient of the Tyler Prize for Environmental Achievement talks about “punk science,” microbial economics and thinking like a mycorrhizal fungus."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Can Worms Help Fight Antimicrobial Resistance?",
-      "description": "Beyond improving soil health, new research indicates vermicomposting can be helpful for stopping the spread of microbial resistance from farms to people. TriplePundit",
-      "url": "https://triplepundit.com/2026/vermicomposting-antimicrobial-resistance-farms/",
-      "publishedAt": "2026-01-14T18:07:56",
-      "content": "Beyond improving soil health, new research indicates vermicomposting can be helpful for stopping the spread of microbial resistance from farms to people. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Financial Regulators Release Guidelines for Integrating ESG Risks Into Stress Tests",
-      "description": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) announced the publication of",
-      "url": "https://www.esgtoday.com/eu-financial-regulators-release-guidelines-for-integrating-esg-risks-into-stress-tests/?utm_source=rss&utm_medium=rss&utm_campaign=eu-financial-regulators-release-guidelines-for-integrating-esg-risks-into-stress-tests",
-      "publishedAt": "2026-01-14T15:19:45",
-      "content": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) announced the publication of"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft Signs Deal for 2 Million Tons of Carbon Removal from Uganda-Based Forestry Project",
-      "description": "Microsoft and carbon markets platform Rubicon Carbon announced today a new agreement for the  delivery",
-      "url": "https://www.esgtoday.com/microsoft-signs-deal-for-2-million-tons-of-carbon-removal-from-uganda-based-forestry-project/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-deal-for-2-million-tons-of-carbon-removal-from-uganda-based-forestry-project",
-      "publishedAt": "2026-01-14T14:05:43",
-      "content": "Microsoft and carbon markets platform Rubicon Carbon announced today a new agreement for the  delivery"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco’s FY25 Purpose Report: A Letter from Fran Katsoudas",
-      "description": "If strategy sets direction, learning is what makes it last. Learning is one of the clearest places where Cisco’s Purpose and business intersect.",
-      "url": "https://csrwire.com/press-release/ciscos-fy25-purpose-report-letter-fran-katsoudas/",
-      "publishedAt": "2026-01-14T12:05:00",
-      "content": "If strategy sets direction, learning is what makes it last. Learning is one of the clearest places where Cisco’s Purpose and business intersect."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Case IH Connected Farm Presents Record Harvest and Cost Reduction of More Than R$ 1 Million With TIM’s 4G",
-      "description": "The Case IH Connected Farm presents new results after the closing of the 2024/25 harvest.",
-      "url": "https://csrwire.com/press-release/case-ih-connected-farm-presents-record-harvest-and-cost-reduction-more-r-1-million-tims-4g/",
-      "publishedAt": "2026-01-13T16:00:00",
-      "content": "The Case IH Connected Farm presents new results after the closing of the 2024/25 harvest."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Behind the Pitch: Meet the Students Proposing Bold Ways To Use Cisco Technology for Good",
-      "description": "Cisco’s first Empower & Connect Summit at our campus in Raleigh, NC, brought together partners, innovators, and communities to explore how technology can drive meaningful social impact.",
-      "url": "https://csrwire.com/press-release/behind-pitch-meet-students-proposing-bold-ways-use-cisco-technology-good/",
-      "publishedAt": "2026-01-13T08:50:00",
-      "content": "Cisco’s first Empower & Connect Summit at our campus in Raleigh, NC, brought together partners, innovators, and communities to explore how technology can drive meaningful social impact."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mastercard: Six Payment Trends for 2026",
-      "description": "Cash, check or charge: There hasn’t been a shortage of choice at checkout for decades.",
-      "url": "https://csrwire.com/press-release/mastercard-six-payment-trends-2026/",
-      "publishedAt": "2026-01-13T08:45:00",
-      "content": "Cash, check or charge: There hasn’t been a shortage of choice at checkout for decades."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A New Year Perspective: Trusted Chemistry",
-      "description": "When I look back on the year we just completed, what stands out most isn’t a single milestone—it’s how our people showed up for each other, for our customers, and for our communities. That commitme...",
-      "url": "https://csrwire.com/press-release/new-year-perspective-trusted-chemistry/",
-      "publishedAt": "2026-01-13T08:00:00",
-      "content": "When I look back on the year we just completed, what stands out most isn’t a single milestone—it’s how our people showed up for each other, for our customers, and for our communities. That commitme..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A chilly tour of our historic churches (while the tourists are away) | Virginia Spierss",
-      "description": "St Kew, Cornwall: Midwinter is the best time for us to visit heritage sites and speculate on legends, starting at the secluded St Winnow’s churchThe stained glass window of St Kew’s church, with a ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/15/country-diary-a-chilly-tour-of-our-historic-churches-while-the-tourists-are-away",
-      "publishedAt": "2026-01-15T05:30:51",
-      "content": "St Kew, Cornwall: Midwinter is the best time for us to visit heritage sites and speculate on legends, starting at the secluded St Winnow’s churchThe stained glass window of St Kew’s church, with a ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Africa’s great elephant divide: countries struggle with too many elephants – or too few",
-      "description": "In countries such as South Sudan, the great herds have all but disappeared.",
-      "url": "https://www.theguardian.com/environment/2026/jan/15/africas-elephant-conundrum-dying-out-south-sudan-too-many-zimbabwe-aoe",
-      "publishedAt": "2026-01-15T05:00:54",
-      "content": "In countries such as South Sudan, the great herds have all but disappeared."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -543,17 +488,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Traces of cancer-linked pesticide found in tests at UK playgrounds",
-      "description": "Pressure mounting for use of glyphosate, listed by WHO since 2015 as probable carcinogen, to be heavily restrictedChildren are potentially being exposed to the controversial weedkiller glyphosate a...",
-      "url": "https://www.theguardian.com/environment/2026/jan/15/glyphosate-cancer-linked-pesticide-uk-playgrounds",
-      "publishedAt": "2026-01-15T00:01:46",
-      "content": "Pressure mounting for use of glyphosate, listed by WHO since 2015 as probable carcinogen, to be heavily restrictedChildren are potentially being exposed to the controversial weedkiller glyphosate a..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -562,28 +496,6 @@
       "url": "https://goodonyou.eco/sustainable-vegan-beauty-brands/",
       "publishedAt": "2026-01-14T23:13:38",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Bessemer Data Center Developer to Request Rezoning for Additional 900 Acres",
-      "description": "BESSEMER, Ala.",
-      "url": "https://insideclimatenews.org/news/14012026/bessemer-alabama-data-center-to-ask-for-additional-900-acres/",
-      "publishedAt": "2026-01-14T22:38:42",
-      "content": "BESSEMER, Ala."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Human activity helped make 2025 third-hottest year on record, experts say",
-      "description": "Data leads scientists to declare 2015 Paris agreement to keep global heating below 1.",
-      "url": "https://www.theguardian.com/environment/2026/jan/14/human-activity-helped-make-2025-third-hottest-year-on-record-experts-say",
-      "publishedAt": "2026-01-14T15:59:20",
-      "content": "Data leads scientists to declare 2015 Paris agreement to keep global heating below 1."
     },
     {
       "source": {
@@ -606,6 +518,28 @@
       "url": "https://goodonyou.eco/team-picks-january-2026/",
       "publishedAt": "2026-01-14T08:55:29",
       "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Case IH Connected Farm Presents Record Harvest and Cost Reduction of More Than R$ 1 Million With TIM’s 4G",
+      "description": "The Case IH Connected Farm presents new results after the closing of the 2024/25 harvest.",
+      "url": "https://csrwire.com/press-release/case-ih-connected-farm-presents-record-harvest-and-cost-reduction-more-r-1-million-tims-4g/",
+      "publishedAt": "2026-01-13T16:00:00",
+      "content": "The Case IH Connected Farm presents new results after the closing of the 2024/25 harvest."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Behind the Pitch: Meet the Students Proposing Bold Ways To Use Cisco Technology for Good",
+      "description": "Cisco’s first Empower & Connect Summit at our campus in Raleigh, NC, brought together partners, innovators, and communities to explore how technology can drive meaningful social impact.",
+      "url": "https://csrwire.com/press-release/behind-pitch-meet-students-proposing-bold-ways-use-cisco-technology-good/",
+      "publishedAt": "2026-01-13T08:50:00",
+      "content": "Cisco’s first Empower & Connect Summit at our campus in Raleigh, NC, brought together partners, innovators, and communities to explore how technology can drive meaningful social impact."
     }
   ]
 }
