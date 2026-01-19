@@ -48,6 +48,17 @@
     },
     {
       "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "Carbon-sucking fungi and 'forever chemical' crackdowns: Positive environmental stories from 2026",
+      "description": "Eco anxiety is very real, so we share this year's most uplifting stories to prove there’s hope for our climate.",
+      "url": "http://www.euronews.com/green/2026/01/19/carbon-sucking-fungi-and-forever-chemical-crackdowns-positive-environmental-stories-from-2",
+      "publishedAt": "2026-01-19T06:03:18",
+      "content": "Eco anxiety is very real, so we share this year's most uplifting stories to prove there’s hope for our climate."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -65,7 +76,7 @@
       "title": "How Wall Street Turned Its Back on Climate Change",
       "description": "Six years after the financial industry pledged to use trillions to fight climate change and reshape finance, its efforts have largely collapsed.",
       "url": "https://www.nytimes.com/2026/01/17/climate/how-wall-street-turned-its-back-on-climate-change.html",
-      "publishedAt": "2026-01-17T13:14:18",
+      "publishedAt": "2026-01-18T21:16:30",
       "content": "Six years after the financial industry pledged to use trillions to fight climate change and reshape finance, its efforts have largely collapsed."
     },
     {
@@ -117,33 +128,11 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "World’s First Treaty to Protect the High Seas Becomes Law",
-      "description": "Over two decades after negotiations began, the High Seas Treaty is designed to protect biodiversity in international waters by enabling conservation zones.",
-      "url": "https://www.nytimes.com/2026/01/17/climate/high-seas-treaty-law.html",
-      "publishedAt": "2026-01-17T12:12:49",
-      "content": "Over two decades after negotiations began, the High Seas Treaty is designed to protect biodiversity in international waters by enabling conservation zones."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "CNH’s Basildon, UK Plant Launches Tree-Planting Initiative",
-      "description": "As part of CNH’s ongoing commitment to sustainability and community, its Basildon plant in the UK is excited to announce a new tree-planting Initiative across the site.",
-      "url": "https://csrwire.com/press-release/cnhs-basildon-uk-plant-launches-tree-planting-initiative/",
-      "publishedAt": "2026-01-15T16:00:00",
-      "content": "As part of CNH’s ongoing commitment to sustainability and community, its Basildon plant in the UK is excited to announce a new tree-planting Initiative across the site."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Guest Post: CBAM Goes Live, and the Impacts Won’t Stop at Europe’s Borders",
-      "description": "By: Shachar Hatan, Climate Impact Partners With the EU’s Carbon Border Adjustment Mechanism (CBAM) entering",
-      "url": "https://www.esgtoday.com/guest-post-cbam-goes-live-and-the-impacts-wont-stop-at-europes-borders/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-cbam-goes-live-and-the-impacts-wont-stop-at-europes-borders",
-      "publishedAt": "2026-01-15T12:00:53",
-      "content": "By: Shachar Hatan, Climate Impact Partners With the EU’s Carbon Border Adjustment Mechanism (CBAM) entering"
+      "title": "A Century of The New York Times in Antarctica",
+      "description": "Our climate reporter Raymond Zhong takes a trip into the New York Times archives to see how our understanding of Antarctica has changed over the past century.",
+      "url": "https://www.nytimes.com/video/climate/100000010542262/a-century-of-the-new-york-times-in-antarctica.html",
+      "publishedAt": "2026-01-18T23:00:01",
+      "content": "Our climate reporter Raymond Zhong takes a trip into the New York Times archives to see how our understanding of Antarctica has changed over the past century."
     },
     {
       "source": {
@@ -158,25 +147,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Kristina Gjerde, Advocate for Ocean Biodiversity, Dies at 68",
-      "description": "She played a key role in negotiating a landmark United Nations treaty to protect the high seas, an agreement that went into effect this weekend.",
-      "url": "https://www.nytimes.com/2026/01/17/climate/kristina-gjerde-dead.html",
-      "publishedAt": "2026-01-18T04:45:46",
-      "content": "She played a key role in negotiating a landmark United Nations treaty to protect the high seas, an agreement that went into effect this weekend."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "The fate of the planet’s coastlines depends on how fast Antarctica’s ice sheets melt. We don’t know what’s coming",
-      "description": "Some regions of the continent have enough ice to push up sea levels by 15 metres if they all melt, but researchers don’t yet fully understand the consequencesOn one side of Dr Ben Galton-Fenzi’s vi...",
-      "url": "https://www.theguardian.com/world/2026/jan/17/climate-antarctica-ice-sheets-glaciers-melting-research-affect-sea-levels",
-      "publishedAt": "2026-01-17T19:00:35",
-      "content": "Some regions of the continent have enough ice to push up sea levels by 15 metres if they all melt, but researchers don’t yet fully understand the consequencesOn one side of Dr Ben Galton-Fenzi’s vi..."
+      "title": "15 years after Fukushima, Japan prepares to restart the world’s biggest nuclear plant",
+      "description": "A return to nuclear power is at the heart of Japan’s energy policy but, in the wake of the 2011 disaster, residents’ fears about tsunamis, earthquakes and evacuation plans remain The activity aroun...",
+      "url": "https://www.theguardian.com/world/2026/jan/19/japan-nuclear-plant-restart-kashiwazaki-kariwa-fukushima",
+      "publishedAt": "2026-01-19T01:46:10",
+      "content": "A return to nuclear power is at the heart of Japan’s energy policy but, in the wake of the 2011 disaster, residents’ fears about tsunamis, earthquakes and evacuation plans remain The activity aroun..."
     },
     {
       "source": {
@@ -186,41 +164,30 @@
       "title": "An Antarctic Icebreaker Takes a Pioneering Sail",
       "description": "Part of Pine Island Glacier collapsed several years ago, forming an unstable inlet where no ship had sailed. Until now.",
       "url": "https://www.nytimes.com/2026/01/16/climate/antarctica-expedition-pine-island-glacier.html",
-      "publishedAt": "2026-01-17T15:09:29",
+      "publishedAt": "2026-01-19T00:12:28",
       "content": "Part of Pine Island Glacier collapsed several years ago, forming an unstable inlet where no ship had sailed. Until now."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I’m losing £1,800 a day’: the stark reality for Britain’s dairy farmers",
-      "description": "The cost of producing milk is higher than that being paid by milk processors, leaving farmers operating at a loss“Every morning that I roll out of bed at 4.40am, I know I’m losing £1,800 that day, ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/17/the-stark-reality-for-britains-dairy-farmers-milk-price",
-      "publishedAt": "2026-01-17T14:00:28",
-      "content": "The cost of producing milk is higher than that being paid by milk processors, leaving farmers operating at a loss“Every morning that I roll out of bed at 4.40am, I know I’m losing £1,800 that day, ..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "The $2 Rental Batteries Helping to Power South Africa",
-      "description": "The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels.",
-      "url": "https://www.nytimes.com/2026/01/17/world/africa/batteries-south-africa-electricity.html",
-      "publishedAt": "2026-01-17T12:04:31",
-      "content": "The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels."
+      "title": "Kristina Gjerde, Advocate for Ocean Biodiversity, Dies at 68",
+      "description": "She played a key role in negotiating a landmark United Nations treaty to protect the high seas, an agreement that went into effect this weekend.",
+      "url": "https://www.nytimes.com/2026/01/17/climate/kristina-gjerde-dead.html",
+      "publishedAt": "2026-01-18T22:32:43",
+      "content": "She played a key role in negotiating a landmark United Nations treaty to protect the high seas, an agreement that went into effect this weekend."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "An Alabama Mayor Signed an NDA With a Data Center Developer. Read It Here.",
-      "description": "COLUMBIANA, Ala.",
-      "url": "https://insideclimatenews.org/news/17012026/an-alabama-mayor-signed-an-nda-with-a-data-center-developer-read-it-here/",
-      "publishedAt": "2026-01-17T09:57:00",
-      "content": "COLUMBIANA, Ala."
+      "title": "A Small Oil Company Polluted Midland’s Water Reserve. The Cleanup Has Dragged on for Years.",
+      "description": "Reporting for this story was supported by a grant from the Fund for Investigative Journalism.",
+      "url": "https://insideclimatenews.org/news/18012026/west-texas-oil-cleanup-drags-on/",
+      "publishedAt": "2026-01-18T10:00:00",
+      "content": "Reporting for this story was supported by a grant from the Fund for Investigative Journalism."
     },
     {
       "source": {
@@ -230,8 +197,30 @@
       "title": "When does the Nasa Moon mission launch and who are the Artemis II crew?",
       "description": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing.",
       "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-17T07:50:56",
+      "publishedAt": "2026-01-18T08:10:55",
       "content": "The first crewed Moon mission in 50 years could launch in February, ahead of a future lunar landing."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Inventor says robo-vaccination machine could be used to combat bovine TB",
+      "description": "Tony Cholerton created Robovacc to inoculate a timid tiger at London zoo – but says it could administer jabs to badgersIt began with the tiger who wouldn’t come to tea. Cinta was so shy that she re...",
+      "url": "https://www.theguardian.com/environment/2026/jan/18/inventor-says-robo-vaccination-machine-combat-bovine-tb",
+      "publishedAt": "2026-01-18T07:00:48",
+      "content": "Tony Cholerton created Robovacc to inoculate a timid tiger at London zoo – but says it could administer jabs to badgersIt began with the tiger who wouldn’t come to tea. Cinta was so shy that she re..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "World’s First Treaty to Protect the High Seas Becomes Law",
+      "description": "Over two decades after negotiations began, the High Seas Treaty is designed to protect biodiversity in international waters by enabling conservation zones.",
+      "url": "https://www.nytimes.com/2026/01/17/climate/high-seas-treaty-law.html",
+      "publishedAt": "2026-01-17T12:12:49",
+      "content": "Over two decades after negotiations began, the High Seas Treaty is designed to protect biodiversity in international waters by enabling conservation zones."
     },
     {
       "source": {
@@ -290,6 +279,149 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH’s Basildon, UK Plant Launches Tree-Planting Initiative",
+      "description": "As part of CNH’s ongoing commitment to sustainability and community, its Basildon plant in the UK is excited to announce a new tree-planting Initiative across the site.",
+      "url": "https://csrwire.com/press-release/cnhs-basildon-uk-plant-launches-tree-planting-initiative/",
+      "publishedAt": "2026-01-15T16:00:00",
+      "content": "As part of CNH’s ongoing commitment to sustainability and community, its Basildon plant in the UK is excited to announce a new tree-planting Initiative across the site."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Guest Post: CBAM Goes Live, and the Impacts Won’t Stop at Europe’s Borders",
+      "description": "By: Shachar Hatan, Climate Impact Partners With the EU’s Carbon Border Adjustment Mechanism (CBAM) entering",
+      "url": "https://www.esgtoday.com/guest-post-cbam-goes-live-and-the-impacts-wont-stop-at-europes-borders/?utm_source=rss&utm_medium=rss&utm_campaign=guest-post-cbam-goes-live-and-the-impacts-wont-stop-at-europes-borders",
+      "publishedAt": "2026-01-15T12:00:53",
+      "content": "By: Shachar Hatan, Climate Impact Partners With the EU’s Carbon Border Adjustment Mechanism (CBAM) entering"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "We’re Halfway Through the Ocean Decade: What’s Next for the Blue Economy?",
+      "description": "United Nations delegates first envisioned a sustainable \"blue economy\" over a decade ago. Will industries like bioprospecting and marine energy finally bring that future to life? TriplePundit",
+      "url": "https://triplepundit.com/2026/blue-economy-united-nations-ocean-decade/",
+      "publishedAt": "2026-01-13T16:01:19",
+      "content": "United Nations delegates first envisioned a sustainable \"blue economy\" over a decade ago. Will industries like bioprospecting and marine energy finally bring that future to life? TriplePundit"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘I’m losing £1,800 a day’: the stark reality for Britain’s dairy farmers",
+      "description": "The cost of producing milk is higher than that being paid by milk processors, leaving farmers operating at a loss“Every morning that I roll out of bed at 4.40am, I know I’m losing £1,800 that day, ...",
+      "url": "https://www.theguardian.com/environment/2026/jan/17/the-stark-reality-for-britains-dairy-farmers-milk-price",
+      "publishedAt": "2026-01-17T14:00:28",
+      "content": "The cost of producing milk is higher than that being paid by milk processors, leaving farmers operating at a loss“Every morning that I roll out of bed at 4.40am, I know I’m losing £1,800 that day, ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The $2 Rental Batteries Helping to Power South Africa",
+      "description": "The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels.",
+      "url": "https://www.nytimes.com/2026/01/17/world/africa/batteries-south-africa-electricity.html",
+      "publishedAt": "2026-01-17T12:04:31",
+      "content": "The batteries offer an affordable system for those who lack reliable power and the money to buy their own solar panels."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Alabama Mayor Signed an NDA With a Data Center Developer. Read It Here.",
+      "description": "COLUMBIANA, Ala.",
+      "url": "https://insideclimatenews.org/news/17012026/an-alabama-mayor-signed-an-nda-with-a-data-center-developer-read-it-here/",
+      "publishedAt": "2026-01-17T09:57:00",
+      "content": "COLUMBIANA, Ala."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "UK urged to ratify high seas treaty to avoid being shut out of Ocean Cop summit",
+      "description": "As international treaty comes into force, bill to make it law in Britain is moving at ‘glacial pace’ through parliamentThe UK risks being shut out of a historic oceans summit because parliament has...",
+      "url": "https://www.theguardian.com/environment/2026/jan/17/shut-out-ocean-cop-failing-ratify-high-seas-treaty",
+      "publishedAt": "2026-01-17T06:00:23",
+      "content": "As international treaty comes into force, bill to make it law in Britain is moving at ‘glacial pace’ through parliamentThe UK risks being shut out of a historic oceans summit because parliament has..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
+      "description": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks criticalIt was noon by the time Jacques Katutu first saw the newborn mountain gorilla...",
+      "url": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe",
+      "publishedAt": "2026-01-17T06:00:19",
+      "content": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks criticalIt was noon by the time Jacques Katutu first saw the newborn mountain gorilla..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: There’s a hard, ancient pleasure to laying a hedge | Michael White",
+      "description": "Cranbrook, Kent: I have a stretch of leggy hawthorn that needs attention, so I head out into the cold with my axe and billhookWire netting is everywhere in the Kent Weald – barbed boundaries to anc...",
+      "url": "https://www.theguardian.com/environment/2026/jan/17/country-diary-theres-a-hard-ancient-pleasure-to-laying-a-hedge",
+      "publishedAt": "2026-01-17T05:30:17",
+      "content": "Cranbrook, Kent: I have a stretch of leggy hawthorn that needs attention, so I head out into the cold with my axe and billhookWire netting is everywhere in the Kent Weald – barbed boundaries to anc..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Federal Court Allows Dominion Energy in Virginia to Continue Offshore Wind Project",
+      "description": "NORFOLK, Va.",
+      "url": "https://insideclimatenews.org/news/16012026/federal-court-allows-dominion-energy-in-virginia-to-continue-offshore-wind-project/",
+      "publishedAt": "2026-01-17T02:03:22",
+      "content": "NORFOLK, Va."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Year Out From One of the World’s Largest Battery Facility Fires",
+      "description": "MOSS LANDING, Calif.",
+      "url": "https://insideclimatenews.org/news/16012026/a-year-out-from-one-of-the-worlds-largest-battery-facility-fires/",
+      "publishedAt": "2026-01-16T22:38:51",
+      "content": "MOSS LANDING, Calif."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "The Future of Fabric Looks a Little Broken at Heimtextil, on Purpose",
+      "description": "Heimtextil 2026 saw six key themes emerge under “Craft is a verb” as designers test what happens when AI-driven visuals meet old-school making.",
+      "url": "https://sourcingjournal.com/topics/fashion-trends/the-future-of-fabric-looks-a-little-broken-at-heimtextil-1234804151/",
+      "publishedAt": "2026-01-16T21:00:00",
+      "content": "Heimtextil 2026 saw six key themes emerge under “Craft is a verb” as designers test what happens when AI-driven visuals meet old-school making."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "New Standard Institute Illustrates Impact of Textile Waste",
+      "description": "The organization installed 4,500 pounds of discarded clothing outside the California state capitol building in Sacramento on Thursday.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/new-standard-institute-illustrates-impact-textile-waste-1234804159/",
+      "publishedAt": "2026-01-16T20:30:00",
+      "content": "The organization installed 4,500 pounds of discarded clothing outside the California state capitol building in Sacramento on Thursday."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -342,138 +474,6 @@
       "url": "https://csrwire.com/press-release/otis-expands-little-engineers-stem-program-globally/",
       "publishedAt": "2026-01-15T10:30:00",
       "content": "Otis (NYSE: OTIS), the world’s leading company for elevator and escalator manufacturing, installation and service, is making its successful Little Engineers program available everywhere the company..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "We’re Halfway Through the Ocean Decade: What’s Next for the Blue Economy?",
-      "description": "United Nations delegates first envisioned a sustainable \"blue economy\" over a decade ago. Will industries like bioprospecting and marine energy finally bring that future to life? TriplePundit",
-      "url": "https://triplepundit.com/2026/blue-economy-united-nations-ocean-decade/",
-      "publishedAt": "2026-01-13T16:01:19",
-      "content": "United Nations delegates first envisioned a sustainable \"blue economy\" over a decade ago. Will industries like bioprospecting and marine energy finally bring that future to life? TriplePundit"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "UK urged to ratify high seas treaty to avoid being shut out of Ocean Cop summit",
-      "description": "As international treaty comes into force, bill to make it law in Britain is moving at ‘glacial pace’ through parliamentThe UK risks being shut out of a historic oceans summit because parliament has...",
-      "url": "https://www.theguardian.com/environment/2026/jan/17/shut-out-ocean-cop-failing-ratify-high-seas-treaty",
-      "publishedAt": "2026-01-17T06:00:23",
-      "content": "As international treaty comes into force, bill to make it law in Britain is moving at ‘glacial pace’ through parliamentThe UK risks being shut out of a historic oceans summit because parliament has..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Rare twins born in DRC raise cautious hope for endangered mountain gorillas",
-      "description": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks criticalIt was noon by the time Jacques Katutu first saw the newborn mountain gorilla...",
-      "url": "https://www.theguardian.com/environment/2026/jan/17/twin-baby-mountain-gorilla-virunga-drc-survival-conservation-aoe",
-      "publishedAt": "2026-01-17T06:00:19",
-      "content": "Virunga park ranger says babies are well cared for by mother Mafuko but high infant mortality makes first weeks criticalIt was noon by the time Jacques Katutu first saw the newborn mountain gorilla..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: There’s a hard, ancient pleasure to laying a hedge | Michael White",
-      "description": "Cranbrook, Kent: I have a stretch of leggy hawthorn that needs attention, so I head out into the cold with my axe and billhookWire netting is everywhere in the Kent Weald – barbed boundaries to anc...",
-      "url": "https://www.theguardian.com/environment/2026/jan/17/country-diary-theres-a-hard-ancient-pleasure-to-laying-a-hedge",
-      "publishedAt": "2026-01-17T05:30:17",
-      "content": "Cranbrook, Kent: I have a stretch of leggy hawthorn that needs attention, so I head out into the cold with my axe and billhookWire netting is everywhere in the Kent Weald – barbed boundaries to anc..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Thousands Evicted From Makoko, the ‘Venice of Nigeria’",
-      "description": "Community leaders in Lagos say evictions in the name of development have left many residents of this fishing village homeless.",
-      "url": "https://www.nytimes.com/2026/01/16/world/africa/nigeria-makoko-fishing-village-destroyed.html",
-      "publishedAt": "2026-01-17T02:49:44",
-      "content": "Community leaders in Lagos say evictions in the name of development have left many residents of this fishing village homeless."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Federal Court Allows Dominion Energy in Virginia to Continue Offshore Wind Project",
-      "description": "NORFOLK, Va.",
-      "url": "https://insideclimatenews.org/news/16012026/federal-court-allows-dominion-energy-in-virginia-to-continue-offshore-wind-project/",
-      "publishedAt": "2026-01-17T02:03:22",
-      "content": "NORFOLK, Va."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Edison Files Claims Against Los Angeles County and Others on Eaton Fire",
-      "description": "Southern California Edison said its equipment most likely started the Eaton fire but asserted that government agencies and other businesses shared liability for the devastation.",
-      "url": "https://www.nytimes.com/2026/01/16/business/energy-environment/southern-california-edison-eaton-fire.html",
-      "publishedAt": "2026-01-17T00:26:22",
-      "content": "Southern California Edison said its equipment most likely started the Eaton fire but asserted that government agencies and other businesses shared liability for the devastation."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Year Out From One of the World’s Largest Battery Facility Fires",
-      "description": "MOSS LANDING, Calif.",
-      "url": "https://insideclimatenews.org/news/16012026/a-year-out-from-one-of-the-worlds-largest-battery-facility-fires/",
-      "publishedAt": "2026-01-16T22:38:51",
-      "content": "MOSS LANDING, Calif."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "The Future of Fabric Looks a Little Broken at Heimtextil, on Purpose",
-      "description": "Heimtextil 2026 saw six key themes emerge under “Craft is a verb” as designers test what happens when AI-driven visuals meet old-school making.",
-      "url": "https://sourcingjournal.com/topics/fashion-trends/the-future-of-fabric-looks-a-little-broken-at-heimtextil-1234804151/",
-      "publishedAt": "2026-01-16T21:00:00",
-      "content": "Heimtextil 2026 saw six key themes emerge under “Craft is a verb” as designers test what happens when AI-driven visuals meet old-school making."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "New Standard Institute Illustrates Impact of Textile Waste",
-      "description": "The organization installed 4,500 pounds of discarded clothing outside the California state capitol building in Sacramento on Thursday.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/new-standard-institute-illustrates-impact-textile-waste-1234804159/",
-      "publishedAt": "2026-01-16T20:30:00",
-      "content": "The organization installed 4,500 pounds of discarded clothing outside the California state capitol building in Sacramento on Thursday."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘If you’re flushing the toilet with grey water, people should know’: how China turned rain into an asset",
-      "description": "Architects and designers have recycled ancient practice of collecting rainwater to make buildings ecologically friendlyWhen the legendary Taiwanese rock band Mayday were due to perform in Beijing o...",
-      "url": "https://www.theguardian.com/environment/2026/jan/16/grey-water-how-china-turned-rain-into-asset",
-      "publishedAt": "2026-01-16T05:00:02",
-      "content": "Architects and designers have recycled ancient practice of collecting rainwater to make buildings ecologically friendlyWhen the legendary Taiwanese rock band Mayday were due to perform in Beijing o..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Astronauts splash down to Earth after medical evacuation from space station",
-      "description": "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing.",
-      "url": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-15T12:06:47",
-      "content": "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing."
     },
     {
       "source": {
