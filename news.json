@@ -1,17 +1,50 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 48,
   "articles": [
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "GRI Appoints Susanne Stormer as Chair of Global Sustainability Standards Board",
-      "description": "The Global Reporting Initiative (GRI) announced today the appointment of sustainability reporting veteran Susanne Stormer",
-      "url": "https://www.esgtoday.com/gri-appoints-susanne-stormer-as-chair-of-global-sustainability-standards-board/?utm_source=rss&utm_medium=rss&utm_campaign=gri-appoints-susanne-stormer-as-chair-of-global-sustainability-standards-board",
-      "publishedAt": "2026-01-20T15:33:08",
-      "content": "The Global Reporting Initiative (GRI) announced today the appointment of sustainability reporting veteran Susanne Stormer"
+      "title": "SBTi Passes 10,000 Companies with Validated Science-Based Climate Targets",
+      "description": "The Science Based Targets initiative (SBTi) announced today that it has passed a new milestone, with",
+      "url": "https://www.esgtoday.com/sbti-passes-10000-companies-with-validated-science-based-climate-targets/?utm_source=rss&utm_medium=rss&utm_campaign=sbti-passes-10000-companies-with-validated-science-based-climate-targets",
+      "publishedAt": "2026-01-22T14:30:19",
+      "content": "The Science Based Targets initiative (SBTi) announced today that it has passed a new milestone, with"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Cloover Raises $1.2 Billion to Scale Residential Clean Energy Fintech Platform",
+      "description": "German green fintech Cloover announced that it has secured $1.22 billion in financing, including $1.2",
+      "url": "https://www.esgtoday.com/cloover-raises-1-2-billion-to-scale-residential-clean-energy-fintech-platform/?utm_source=rss&utm_medium=rss&utm_campaign=cloover-raises-1-2-billion-to-scale-residential-clean-energy-fintech-platform",
+      "publishedAt": "2026-01-22T09:22:55",
+      "content": "German green fintech Cloover announced that it has secured $1.22 billion in financing, including $1.2"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This January 2026",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-01-18T06:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Lenovo Recognized as Leader in Sustainability by CDP, Named to the Double A List",
+      "description": "With the recent announcement from CDP of their 2025 ratings, Lenovo has once again been recognized as a global leader in transparent reporting for sustainability. Lenovo has received an A climate s...",
+      "url": "https://csrwire.com/press-release/lenovo-recognized-leader-sustainability-cdp-named-double-list/",
+      "publishedAt": "2026-01-22T17:20:00",
+      "content": "With the recent announcement from CDP of their 2025 ratings, Lenovo has once again been recognized as a global leader in transparent reporting for sustainability. Lenovo has received an A climate s..."
     },
     {
       "source": {
@@ -26,25 +59,91 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Case IH’s Application Drone Cuts Costs and Environmental Impacts",
+      "description": "Case IH, a CNH brand, challenges its Application Drone by evaluating the performance of the equipment in real operating conditions, including autonomy, resistance to environmental factors, flight s...",
+      "url": "https://csrwire.com/press-release/case-ihs-application-drone-cuts-costs-and-environmental-impacts/",
+      "publishedAt": "2026-01-22T16:00:00",
+      "content": "Case IH, a CNH brand, challenges its Application Drone by evaluating the performance of the equipment in real operating conditions, including autonomy, resistance to environmental factors, flight s..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "National Park Service Removes Sign on Climate Change From Fort Sumter",
+      "description": "The historic site, on an island in South Carolina, could be inundated by rising seas in decades to come. A display on the threat has been removed.",
+      "url": "https://www.nytimes.com/2026/01/22/climate/park-service-erases-climate-facts-at-fort-sumter-where-the-civil-war-began.html",
+      "publishedAt": "2026-01-23T02:38:39",
+      "content": "The historic site, on an island in South Carolina, could be inundated by rising seas in decades to come. A display on the threat has been removed."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Moore Boasts of Record Climate Spending in Maryland Budget as Advocates Denounce Raids on Energy Investment Fund",
+      "description": "Maryland Gov.",
+      "url": "https://insideclimatenews.org/news/22012026/moore-climate-spending-fy27/",
+      "publishedAt": "2026-01-23T00:04:30",
+      "content": "Maryland Gov."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why Climate Isn’t a Top Business Priority at Davos",
+      "description": "The World Economic Forum in Davos, Switzerland, was once ground zero for an unofficial climate movement in the business community.",
+      "url": "https://www.nytimes.com/video/climate/100000010642995/why-climate-isnt-a-top-business-priority-at-davos.html",
+      "publishedAt": "2026-01-22T20:29:00",
+      "content": "The World Economic Forum in Davos, Switzerland, was once ground zero for an unofficial climate movement in the business community."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "At Davos, Talk of Climate Change Retreats to the Sidelines",
+      "description": "The annual gathering of top business leaders and policymakers used to be a center of the global climate movement. Things are much more complicated now.",
+      "url": "https://www.nytimes.com/2026/01/22/climate/davos-climate-change-trump.html",
+      "publishedAt": "2026-01-22T20:22:38",
+      "content": "The annual gathering of top business leaders and policymakers used to be a center of the global climate movement. Things are much more complicated now."
+    },
+    {
+      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "Canopy Outlines $2 Billion Blueprint for Decarbonization in India",
-      "description": "The new finance model is designed to accelerate the growth of low-carbon materials for the textile, paper and packaging industries.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/canopy-outlines-2-billion-blueprint-for-decarbonization-india-davos-1234804311/",
-      "publishedAt": "2026-01-21T16:41:17",
-      "content": "The new finance model is designed to accelerate the growth of low-carbon materials for the textile, paper and packaging industries."
+      "title": "Material World: Thirdlove Activates TempSync, Oeko-Tex Taps TextileGenesis for Digital Chains",
+      "description": "Thirdlove bolsters its 37.5 fabric technology with TempSync Active while Oeko-Tex teams with TextileGenesis for digital organic cotton certification.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-thirdlove-tempsync-active-oeko-tex-1234804248/",
+      "publishedAt": "2026-01-22T18:25:19",
+      "content": "Thirdlove bolsters its 37.5 fabric technology with TempSync Active while Oeko-Tex teams with TextileGenesis for digital organic cotton certification."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Half of world’s CO2 emissions come from just 32 fossil fuel firms, study shows",
-      "description": "Critics accuse leading firms of sabotaging climate action but say data increasingly being used to hold them to accountJust 32 fossil fuel companies were responsible for half the global carbon dioxi...",
-      "url": "https://www.theguardian.com/environment/2026/jan/21/carbon-dioxide-co2-emissions-fossil-fuel-firms-study",
-      "publishedAt": "2026-01-21T06:00:53",
-      "content": "Critics accuse leading firms of sabotaging climate action but say data increasingly being used to hold them to accountJust 32 fossil fuel companies were responsible for half the global carbon dioxi..."
+      "title": "Blind, slow and 500 years old – or are they? How scientists are unravelling the secrets of Greenland sharks",
+      "description": "Described by one researcher as looking ‘already dead’, the enigmatic creatures are one of the least understood species on the planetIt looks more like a worn sock than a fearsome predator. It moves...",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/greenland-sharks-not-blind-discovery-arctic-research",
+      "publishedAt": "2026-01-22T10:00:43",
+      "content": "Described by one researcher as looking ‘already dead’, the enigmatic creatures are one of the least understood species on the planetIt looks more like a worn sock than a fearsome predator. It moves..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Wind and solar overtook fossil fuels for EU power generation in 2025, report finds",
+      "description": "Researchers say event described as ‘major tipping point’ for clean energy in era of destabilised politicsWind and solar overtook fossil fuels in the European Union’s power generation last year, a r...",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/wind-and-solar-overtook-fossil-fuels-in-power-generation-for-eu-in-2025-report",
+      "publishedAt": "2026-01-21T23:01:50",
+      "content": "Researchers say event described as ‘major tipping point’ for clean energy in era of destabilised politicsWind and solar overtook fossil fuels in the European Union’s power generation last year, a r..."
     },
     {
       "source": {
@@ -70,39 +169,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Partners Group Appoints Oliver O’Bryan as New Head of Sustainability",
-      "description": "Switzerland-based global private markets investor Partners Group has appointed Oliver O’Bryan as its new Head",
-      "url": "https://www.esgtoday.com/partners-group-appoints-oliver-obryan-as-new-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=partners-group-appoints-oliver-obryan-as-new-head-of-sustainability",
-      "publishedAt": "2026-01-21T12:03:58",
-      "content": "Switzerland-based global private markets investor Partners Group has appointed Oliver O’Bryan as its new Head"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Schneider Electric Launches New AI-Powered Energy and Sustainability Solutions Platform",
-      "description": "Schneider Electric announced the launch by its SE Advisory Services consulting practice of Resource Advisor+,",
-      "url": "https://www.esgtoday.com/schneider-electric-launches-new-ai-powered-platform-to-unify-energy-and-sustainability-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-launches-new-ai-powered-platform-to-unify-energy-and-sustainability-solutions",
-      "publishedAt": "2026-01-21T10:40:37",
-      "content": "Schneider Electric announced the launch by its SE Advisory Services consulting practice of Resource Advisor+,"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What’s a Human Life Worth? The E.P.A. Says Zero Dollars.",
-      "description": "The Environmental Protection Agency has stopped estimating the dollar value of lives saved in the cost-benefit analyses for new pollution rules.",
-      "url": "https://www.nytimes.com/2026/01/21/climate/epa-human-life-value.html",
-      "publishedAt": "2026-01-21T10:03:16",
-      "content": "The Environmental Protection Agency has stopped estimating the dollar value of lives saved in the cost-benefit analyses for new pollution rules."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -114,47 +180,113 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "AllianzGI Launches $1 Billion Emerging Markets Climate Finance Fund",
-      "description": "Allianz Global Investors (AllianzGI) announced today the first close of the Allianz Credit Emerging Markets",
-      "url": "https://www.esgtoday.com/allianzgi-launches-1-billion-emerging-markets-climate-finance-fund/?utm_source=rss&utm_medium=rss&utm_campaign=allianzgi-launches-1-billion-emerging-markets-climate-finance-fund",
-      "publishedAt": "2026-01-20T16:24:03",
-      "content": "Allianz Global Investors (AllianzGI) announced today the first close of the Allianz Credit Emerging Markets"
+      "author": "The Guardian",
+      "title": "Green spaces should be the norm for all new housing developments in England, guidelines say",
+      "description": "Experts say big flaw is the lack of mandatory requirements, meaning developers could ignore the guidanceHousing where shops, schools, public transport and possibly pubs are close by, with green spa...",
+      "url": "https://www.theguardian.com/environment/2026/jan/21/green-spaces-access-to-nature-housing-developments-england-guideline",
+      "publishedAt": "2026-01-21T18:23:29",
+      "content": "Experts say big flaw is the lack of mandatory requirements, meaning developers could ignore the guidanceHousing where shops, schools, public transport and possibly pubs are close by, with green spa..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "This New AI Tool Helps Recruiters See Skilled Immigrant Talent and Fill Jobs Faster",
+      "description": "Across the United States, skilled immigrants are driving Ubers and working service jobs while employers struggle to fill vacant positions.",
+      "url": "https://triplepundit.com/2026/ai-that-helps-recruiters-see-skilled-immigrant-talent-and-fill-jobs-faster/",
+      "publishedAt": "2026-01-22T19:29:05",
+      "content": "Across the United States, skilled immigrants are driving Ubers and working service jobs while employers struggle to fill vacant positions."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "BRICS India summit needs a green and resilient agenda",
+      "description": "It is a critical imperative for the Global South and under an expanded BRICS",
+      "url": "https://www.thehindu.com/opinion/op-ed/brics-india-summit-needs-a-green-and-resilient-agenda/article70539161.ece",
+      "publishedAt": "2026-01-22T18:38:00",
+      "content": "It is a critical imperative for the Global South and under an expanded BRICS"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "AI and the Evolving Role of the Chief Sustainability Officer: Guest Post",
-      "description": "By: Sorouch Kheradmand, Global Head of Partner Sustainability, Schneider Electric What is the business case",
-      "url": "https://www.esgtoday.com/ai-and-the-evolving-role-of-the-chief-sustainability-officer-guest-post/?utm_source=rss&utm_medium=rss&utm_campaign=ai-and-the-evolving-role-of-the-chief-sustainability-officer-guest-post",
-      "publishedAt": "2026-01-20T14:59:23",
-      "content": "By: Sorouch Kheradmand, Global Head of Partner Sustainability, Schneider Electric What is the business case"
+      "title": "Geothermal Startup Zanskar Raises $115 Million to Find and Develop Carbon-Free Energy Using AI",
+      "description": "Geothermal energy exploration and development company announced that it has raised $115 million in a",
+      "url": "https://www.esgtoday.com/geothermal-startup-zanskar-raises-115-million-to-find-and-develop-carbon-free-energy-using-ai/?utm_source=rss&utm_medium=rss&utm_campaign=geothermal-startup-zanskar-raises-115-million-to-find-and-develop-carbon-free-energy-using-ai",
+      "publishedAt": "2026-01-22T16:27:25",
+      "content": "Geothermal energy exploration and development company announced that it has raised $115 million in a"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Wolters Kluwer Appoints Maria Montenegro as New CEO of Corporate Performance & ESG Unit",
+      "description": "Professional services and information solutions provider Wolters Kluwer announced the appointment of Maria Montenegro as",
+      "url": "https://www.esgtoday.com/wolters-kluwer-appoints-maria-montenegro-as-new-ceo-of-corporate-performance-esg-unit/?utm_source=rss&utm_medium=rss&utm_campaign=wolters-kluwer-appoints-maria-montenegro-as-new-ceo-of-corporate-performance-esg-unit",
+      "publishedAt": "2026-01-22T15:12:28",
+      "content": "Professional services and information solutions provider Wolters Kluwer announced the appointment of Maria Montenegro as"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TotalEnergies CEO Says Company will Reduce Investment in Clean Fuels on Expectation that EU Will Water Down SAF Mandate",
+      "description": "TotalEnergies CEO Patrick Pouyanné said that the company will reduce its planned investments in clean",
+      "url": "https://www.esgtoday.com/totalenergies-ceo-says-will-reduce-investment-in-clean-fuels-on-expectation-that-eu-will-water-down-saf-mandate/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-ceo-says-will-reduce-investment-in-clean-fuels-on-expectation-that-eu-will-water-down-saf-mandate",
+      "publishedAt": "2026-01-22T13:08:24",
+      "content": "TotalEnergies CEO Patrick Pouyanné said that the company will reduce its planned investments in clean"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Doubles Carbon Removal Agreements to 45 Million Tonnes in 2025",
+      "description": "Microsoft revealed the results of its carbon credit purchase activity in 2025, revealing that the",
+      "url": "https://www.esgtoday.com/microsoft-doubles-carbon-removal-agreements-to-45-million-tonnes-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-doubles-carbon-removal-agreements-to-45-million-tonnes-in-2025",
+      "publishedAt": "2026-01-22T10:59:51",
+      "content": "Microsoft revealed the results of its carbon credit purchase activity in 2025, revealing that the"
     },
     {
       "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "FedEx Collaborates with RE-THINK to Champion Ocean Conservation",
-      "description": "Federal Express Corporation (FedEx), one of the world’s largest express transportation companies, continues to deepen its corporate social responsibility (CSR) by hosting two “FedEx x RE-THINK Beac...",
-      "url": "https://csrwire.com/press-release/fedex-collaborates-re-think-champion-ocean-conservation/",
-      "publishedAt": "2026-01-20T11:00:00",
-      "content": "Federal Express Corporation (FedEx), one of the world’s largest express transportation companies, continues to deepen its corporate social responsibility (CSR) by hosting two “FedEx x RE-THINK Beac..."
+      "title": "Wesco Named One of America’s Best-Managed Companies for Fourth Consecutive Year",
+      "description": "Wesco  announced it has been recognized as one of America’s Best-Managed Companies of 2025 by the Drucker Institute, published by The Wall Street Journal. The Drucker Institute ranked Wesco #179 (u...",
+      "url": "https://csrwire.com/press-release/wesco-named-one-americas-best-managed-companies-fourth-consecutive-year/",
+      "publishedAt": "2026-01-22T09:00:00",
+      "content": "Wesco  announced it has been recognized as one of America’s Best-Managed Companies of 2025 by the Drucker Institute, published by The Wall Street Journal. The Drucker Institute ranked Wesco #179 (u..."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "A California Climate Expert Is Working to Restore Climate Risk Scores Deleted by Zillow",
-      "description": "Even as exposure to floods, fire and extreme heat increase in the face of climate change, a popular tool for evaluating risk has disappeared from the nation’s leading real estate website.  Zillow r...",
-      "url": "https://insideclimatenews.org/news/20012026/climate-expert-works-to-restore-zillow-climate-risk-scores/",
-      "publishedAt": "2026-01-20T10:00:00",
-      "content": "Even as exposure to floods, fire and extreme heat increase in the face of climate change, a popular tool for evaluating risk has disappeared from the nation’s leading real estate website.  Zillow r..."
+      "author": "CSRWire",
+      "title": "Huggies Donates 15 Million Diapers in 15 Days in Celebration of National Diaper Bank Network's 15th Anniversary",
+      "description": "Huggies®, a Kimberly-Clark brand, is teaming up with the National Diaper Bank Network (NDBN) to deliver 15 million donated Huggies diapers in 15 days to celebrate the 15-year anniversary of the nat...",
+      "url": "https://csrwire.com/press-release/huggies-donates-15-million-diapers-15-days-celebration-national-diaper-bank-networks-15th/",
+      "publishedAt": "2026-01-22T08:35:00",
+      "content": "Huggies®, a Kimberly-Clark brand, is teaming up with the National Diaper Bank Network (NDBN) to deliver 15 million donated Huggies diapers in 15 days to celebrate the 15-year anniversary of the nat..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "AWFIS Achieves Three WELL Ratings Across India – Raising the Bar for Coworking Workplace Health and Equity",
+      "description": "Awfis, India’s largest flexible workspace provider, and the International WELL Building Institute (IWBI), the global authority for advancing health in buildings, organizations and communities, toda...",
+      "url": "https://csrwire.com/press-release/awfis-achieves-three-well-ratings-across-india-raising-bar-coworking-workplace-health-and/",
+      "publishedAt": "2026-01-22T08:00:00",
+      "content": "Awfis, India’s largest flexible workspace provider, and the International WELL Building Institute (IWBI), the global authority for advancing health in buildings, organizations and communities, toda..."
     },
     {
       "source": {
@@ -169,6 +301,105 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Looking for Hardworking, More Sustainable Activewear? This Brand is Leading the Charge",
+      "description": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-activewear-from-bam/",
+      "publishedAt": "2026-01-18T16:12:04",
+      "content": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "New U.S. Rule Aims to Speed Up Mining of the Seafloor",
+      "description": "The Metals Company, a prominent seabed-mining company, applauded the change and filed a new application more than doubling the area it hopes to mine.",
+      "url": "https://www.nytimes.com/2026/01/22/climate/noaa-seabed-mining-rules.html",
+      "publishedAt": "2026-01-22T23:26:12",
+      "content": "The Metals Company, a prominent seabed-mining company, applauded the change and filed a new application more than doubling the area it hopes to mine."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Macy’s to Close Connecticut Fulfillment Centers, Cut 1,000 Jobs",
+      "description": "Closures in Cheshire and South Windsor mark the latest step in the department store's effort to streamline its distribution network.",
+      "url": "https://sourcingjournal.com/topics/logistics/macys-close-connecticut-fulfillment-distribution-centers-cut-1000-jobs-layoffs-cheshire-south-windsor-1234804863/",
+      "publishedAt": "2026-01-22T22:35:42",
+      "content": "Closures in Cheshire and South Windsor mark the latest step in the department store's effort to streamline its distribution network."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Global Trade in 2026 at ‘Critical Juncture,’ Says UN Group",
+      "description": "As geopolitical turmoil and shifting policies redraw trade maps, developing countries will have a challenging year ahead.",
+      "url": "https://sourcingjournal.com/topics/sourcing/unctad-global-trade-update-2026-developing-countries-1234804845/",
+      "publishedAt": "2026-01-22T21:22:07",
+      "content": "As geopolitical turmoil and shifting policies redraw trade maps, developing countries will have a challenging year ahead."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "LiquiDonate Shares Uncomfortable Reality Check on Returns Fraud Future",
+      "description": "One-out-of-three consumers confessed to committing at least one form of return-related racket, per the retail-tech firm’s special report findings.",
+      "url": "https://sourcingjournal.com/topics/logistics/liquidonate-reality-check-returns-fraud-future-1234804834/",
+      "publishedAt": "2026-01-22T20:32:35",
+      "content": "One-out-of-three consumers confessed to committing at least one form of return-related racket, per the retail-tech firm’s special report findings."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Levi’s and Jordan Celebrate Subcultures, Year of the Horse and Los Angeles In New Collection",
+      "description": "The collection reworks classic styles with a sport-inspired edge.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/levis-jordan-celebrate-subcultures-year-of-the-horse-1234804745/",
+      "publishedAt": "2026-01-22T16:21:05",
+      "content": "The collection reworks classic styles with a sport-inspired edge."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Half the world’s 100 largest cities are in high water stress areas, analysis finds",
+      "description": "Exclusive: Beijing, Delhi, Los Angeles and Rio de Janeiro among worst affected, with demand close to exceeding supplyHalf the world’s 100 largest cities are experiencing high levels of water stress...",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/half-world-100-largest-cities-in-high-water-stress-areas-analysis-finds",
+      "publishedAt": "2026-01-22T15:40:29",
+      "content": "Exclusive: Beijing, Delhi, Los Angeles and Rio de Janeiro among worst affected, with demand close to exceeding supplyHalf the world’s 100 largest cities are experiencing high levels of water stress..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As the U.S. and Canada Clash, China Stands Ready to Step in and Sell the Cars of the Future",
+      "description": "Canadian Prime Minister Mark Carney gave a searing speech on Tuesday in Davos, Switzerland, about “the rupture in the world order” and Canada’s role in whatever comes next. A few days earlier, he s...",
+      "url": "https://insideclimatenews.org/news/22012026/inside-clean-energy-chinese-ev-sales/",
+      "publishedAt": "2026-01-22T14:00:00",
+      "content": "Canadian Prime Minister Mark Carney gave a searing speech on Tuesday in Davos, Switzerland, about “the rupture in the world order” and Canada’s role in whatever comes next. A few days earlier, he s..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A bid to clean up shipping industry intensified a coral bleaching event on Great Barrier Reef, study says",
+      "description": "The removal of sulphur from shipping fuels caused ‘a lot of extra sunlight’ to get through atmosphere and hit reef in 2022Follow our Australia news live blog for latest updatesGet our breaking news...",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/great-barrier-reef-coral-bleaching-shipping-industry-sulphur",
+      "publishedAt": "2026-01-22T11:00:53",
+      "content": "The removal of sulphur from shipping fuels caused ‘a lot of extra sunlight’ to get through atmosphere and hit reef in 2022Follow our Australia news live blog for latest updatesGet our breaking news..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -177,17 +408,6 @@
       "url": "https://www.nytimes.com/2026/01/21/travel/uncertainty-is-the-only-certainty.html",
       "publishedAt": "2026-01-21T15:43:37",
       "content": "Politics, military action and climate change have increased risk for destinations that once seemed like sure bets, forcing travelers to change how they plan."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Lune Merges with gryn to Create Supply Chain Carbon Data Platform for Shipping and Logistics",
-      "description": "Scope 3 visibility platform gryn and supply chain CO2 intelligence and carbon solutions provider Lune",
-      "url": "https://www.esgtoday.com/lune-merges-with-gryn-to-create-supply-chain-carbon-data-platform-for-shipping-and-logistics/?utm_source=rss&utm_medium=rss&utm_campaign=lune-merges-with-gryn-to-create-supply-chain-carbon-data-platform-for-shipping-and-logistics",
-      "publishedAt": "2026-01-21T12:38:38",
-      "content": "Scope 3 visibility platform gryn and supply chain CO2 intelligence and carbon solutions provider Lune"
     },
     {
       "source": {
@@ -213,25 +433,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "Looking for Hardworking, More Sustainable Activewear? This Brand is Leading the Charge",
-      "description": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-activewear-from-bam/",
-      "publishedAt": "2026-01-18T16:12:04",
-      "content": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system."
+      "author": "The Guardian",
+      "title": "Schools, airports, high-rise towers: architects urged to get ‘bamboo-ready’",
+      "description": "Manual for building design aims to encourage low-carbon construction as alternative to steel and concreteAn airport made of bamboo? A tower reaching 20 metres high? For many years, bamboo has been ...",
+      "url": "https://www.theguardian.com/environment/2026/jan/22/bamboo-architecture-construction-engineering-schools-airports-towers",
+      "publishedAt": "2026-01-22T06:00:03",
+      "content": "Manual for building design aims to encourage low-carbon construction as alternative to steel and concreteAn airport made of bamboo? A tower reaching 20 metres high? For many years, bamboo has been ..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Guardian"
       },
-      "author": "Sourcing Journal",
-      "title": "Why CMA CGM is Easing its Red Sea Exposure—Again",
-      "description": "After testing Suez transits on three services, the ocean carrier is reverting to routings around Africa, raising concerns over predictability and planning.",
-      "url": "https://sourcingjournal.com/topics/logistics/cma-cgm-red-sea-suez-canal-cape-of-good-hope-rerouting-three-service-loops-lunar-new-year-xeneta-houthis-1234804609/",
-      "publishedAt": "2026-01-21T18:40:09",
-      "content": "After testing Suez transits on three services, the ocean carrier is reverting to routings around Africa, raising concerns over predictability and planning."
+      "author": "The Guardian",
+      "title": "What happens when the taps run dry? England is about to find out | Aditya Chakrabortty",
+      "description": "It’s not just Tunbridge Wells – a country famous around the world for its rain is in danger of self-imposed droughtYou get up and go to the loo, only to find the flush doesn’t work. You try the sho...",
+      "url": "https://www.theguardian.com/commentisfree/2026/jan/22/what-happens-england-water-run-out-drought-tunbridge-wells",
+      "publishedAt": "2026-01-22T06:00:02",
+      "content": "It’s not just Tunbridge Wells – a country famous around the world for its rain is in danger of self-imposed droughtYou get up and go to the loo, only to find the flush doesn’t work. You try the sho..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Better Brand Edit: Vegan Handbags for the Cruelty-Free Fashionista",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/vegan-handbags/",
+      "publishedAt": "2026-01-21T23:00:40",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -246,17 +477,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Balenciaga 3D-Weaves Spider Silk, Sparks Retail Revolution for Spring 2026",
-      "description": "Balenciaga's partnerships with AMSilk and Weffan drive material and production innovation while Intelo.ai will optimize global retail operations.",
-      "url": "https://sourcingjournal.com/topics/business-news/balenciaga-3d-weaves-spider-silk-agentic-retail-spring-2026-1234804416/",
-      "publishedAt": "2026-01-21T18:00:00",
-      "content": "Balenciaga's partnerships with AMSilk and Weffan drive material and production innovation while Intelo.ai will optimize global retail operations."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -265,17 +485,6 @@
       "url": "https://insideclimatenews.org/news/21012026/meta-data-center-in-sunny-el-paso-will-rely-on-natural-gas/",
       "publishedAt": "2026-01-21T17:29:57",
       "content": "EL PASO—In October 2025, local officials celebrated the groundbreaking of a 1-gigawatt, $1."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "The 80s Are Back. What Does It Mean for Denim?",
-      "description": "Cue the ’80s, a decade defined by exaggerated silhouettes, statement washes, and hybrid designs.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/80s-are-back-what-does-it-mean-for-denim-versace-2026-trend-1234797831/",
-      "publishedAt": "2026-01-21T17:00:00",
-      "content": "Cue the ’80s, a decade defined by exaggerated silhouettes, statement washes, and hybrid designs."
     },
     {
       "source": {
@@ -290,116 +499,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Pitti Uomo Street Style: Denim",
-      "description": "Denim was the common backdrop to broad range of prints, knits and tailoring fabrics.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/pitti-uomo-street-style-denim-layers-western-prints-1234804179/",
-      "publishedAt": "2026-01-21T16:00:00",
-      "content": "Denim was the common backdrop to broad range of prints, knits and tailoring fabrics."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Every time I look at one, I smile!’: how axolotls took over the world",
-      "description": "Our passion for these cute-looking salamanders means they are everywhere – except in the wild, where the species is under increasing threatAxolotls are the new llamas. Which were, of course, the ne...",
-      "url": "https://www.theguardian.com/environment/2026/jan/21/how-axolotls-took-over-the-world",
-      "publishedAt": "2026-01-21T10:00:34",
-      "content": "Our passion for these cute-looking salamanders means they are everywhere – except in the wild, where the species is under increasing threatAxolotls are the new llamas. Which were, of course, the ne..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Peaceful Protest Against Whaling in Iceland Lands Two Activists in Court",
-      "description": "At 4 a.",
-      "url": "https://insideclimatenews.org/news/21012026/iceland-whale-activists-head-to-trial/",
-      "publishedAt": "2026-01-21T10:00:00",
-      "content": "At 4 a."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Decades-Old Rule that Allowed Logging on Vast Swaths of US Land Ruled Unlawful by Oregon Court",
-      "description": "A niche rule established by the U.",
-      "url": "https://insideclimatenews.org/news/21012026/forest-service-logging-rule-unlawful/",
-      "publishedAt": "2026-01-21T09:55:00",
-      "content": "A niche rule established by the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Era of ‘global water bankruptcy’ is here, UN report says",
-      "description": "Overuse and pollution must end urgently as no one knows when whole system might collapse, says expertThe world has entered an era of “global water bankruptcy” that is harming billions of people, a ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/20/era-of-global-water-bankruptcy-is-here-un-report-says",
-      "publishedAt": "2026-01-20T18:00:37",
-      "content": "Overuse and pollution must end urgently as no one knows when whole system might collapse, says expertThe world has entered an era of “global water bankruptcy” that is harming billions of people, a ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG Foundation Donates To Program Helping the Blind With Training",
-      "description": "For over 40 years, Bestwork Industries for the Blind, Inc has empowered people who are blind or visually impaired, helping them build skills and pursue meaningful careers.",
-      "url": "https://csrwire.com/press-release/pseg-foundation-donates-program-helping-blind-training/",
-      "publishedAt": "2026-01-20T15:00:00",
-      "content": "For over 40 years, Bestwork Industries for the Blind, Inc has empowered people who are blind or visually impaired, helping them build skills and pursue meaningful careers."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "This 18-Mile Stretch of Road Could Be the Future for Highways",
-      "description": "The Ray was featured on CNN for several of its projects, including rubber modified asphalt from recycled tires, pollinators in the right-of-way, tire pressure measurements for driver safety and more.",
-      "url": "https://csrwire.com/press-release/18-mile-stretch-road-could-be-future-highways/",
-      "publishedAt": "2026-01-20T09:40:00",
-      "content": "The Ray was featured on CNN for several of its projects, including rubber modified asphalt from recycled tires, pollinators in the right-of-way, tire pressure measurements for driver safety and more."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mastercard Spotlights Indigenous Small Businesses at Toronto Maple Leafs Indigenous Celebration Game",
-      "description": "Mastercard is shining a spotlight on Indigenous small businesses as part of the Toronto Maple Leafs Indigenous Celebration Game.",
-      "url": "https://csrwire.com/press-release/mastercard-spotlights-indigenous-small-businesses-toronto-maple-leafs-indigenous-celebration/",
-      "publishedAt": "2026-01-20T09:20:00",
-      "content": "Mastercard is shining a spotlight on Indigenous small businesses as part of the Toronto Maple Leafs Indigenous Celebration Game."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AllianceBernstein: Where the Rubber Meets Return – The ESG Factors That Matter",
-      "description": "The materiality of ESG factors differs across sectors and markets. Investors need to understand how.",
-      "url": "https://csrwire.com/press-release/alliancebernstein-where-rubber-meets-return-esg-factors-matter/",
-      "publishedAt": "2026-01-20T08:50:00",
-      "content": "The materiality of ESG factors differs across sectors and markets. Investors need to understand how."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "At last, the team pitches tents on the Thwaites Glacier.",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/at-last-the-team-pitches-tents-on-the-thwaites-glacier",
-      "publishedAt": "2026-01-21T04:39:42",
-      "content": ""
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -408,28 +507,6 @@
       "url": "https://goodonyou.eco/how-cruelty-free-is-the-beauty-industry/",
       "publishedAt": "2026-01-21T02:21:11",
       "content": "A whopping 78% of brands have no certification to demonstrate their products are not tested on animals, according to a recent Good On You report."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Patagonia Is Burning",
-      "description": "More than thirty wildfires ripped through Chile this weekend, killing 19 and burning more than 135 square miles and hundreds of homes in the regions of Biobío and Ñuble. Meanwhile, fires have raged...",
-      "url": "https://insideclimatenews.org/news/20012026/patagonia-wildfires-fueled-by-heat-drought-wind/",
-      "publishedAt": "2026-01-20T22:37:36",
-      "content": "More than thirty wildfires ripped through Chile this weekend, killing 19 and burning more than 135 square miles and hundreds of homes in the regions of Biobío and Ñuble. Meanwhile, fires have raged..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Scientists Set Up Camp on Thwaites Glacier in Antarctica",
-      "description": "Low clouds have lifted long enough for helicopters to ferry scientists and their gear to a fast-melting glacier on the edge of Antarctica.",
-      "url": "https://www.nytimes.com/2026/01/20/climate/antarctica-camping-thwaites-glacier.html",
-      "publishedAt": "2026-01-20T20:45:34",
-      "content": "Low clouds have lifted long enough for helicopters to ferry scientists and their gear to a fast-melting glacier on the edge of Antarctica."
     },
     {
       "source": {
@@ -452,17 +529,6 @@
       "url": "https://triplepundit.com/2026/brassfield-estate-winery-biodiversity-sustainable-wine/",
       "publishedAt": "2026-01-16T14:00:00",
       "content": "The winery only uses a tenth of its 5,000 acres to grow grapes. The rest is left for the bears, deer and other California critters to enjoy.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mastercard – 'Doing Good by Default': How This Vision of Consumer Protection Can Build Resilience",
-      "description": "Since the launch of the World Bank's Findex database in 2011, bank account ownership among adults has grown from 51% to 79%.",
-      "url": "https://csrwire.com/press-release/mastercard-doing-good-default-how-vision-consumer-protection-can-build-resilience/",
-      "publishedAt": "2026-01-16T09:45:00",
-      "content": "Since the launch of the World Bank's Findex database in 2011, bank account ownership among adults has grown from 51% to 79%."
     }
   ]
 }
