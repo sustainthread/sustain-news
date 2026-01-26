@@ -26,14 +26,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Euronews"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This January 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-01-19T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+      "author": "Euronews",
+      "title": "Can a ‘sustainable’ fungicide save France’s vineyards from climate-driven disease?",
+      "description": "France’s wine crisis is being rocked by a surge of powdery and downy mildew, but a plant-based fungicide could save the day.",
+      "url": "http://www.euronews.com/green/2026/01/26/can-a-sustainable-fungicide-save-frances-vineyards-from-climate-driven-disease",
+      "publishedAt": "2026-01-26T06:00:59",
+      "content": "France’s wine crisis is being rocked by a surge of powdery and downy mildew, but a plant-based fungicide could save the day."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Enormous Climate Blind Spot",
+      "description": "Oceans cover 70% of the earth’s surface, absorb 90% of excess heat trapped by greenhouse gases, and help prevent dramatic temperature spikes on land.",
+      "url": "https://insideclimatenews.org/news/25012026/icn-sunday-morning-ocean-warming/",
+      "publishedAt": "2026-01-25T09:50:00",
+      "content": "Oceans cover 70% of the earth’s surface, absorb 90% of excess heat trapped by greenhouse gases, and help prevent dramatic temperature spikes on land."
     },
     {
       "source": {
@@ -59,47 +70,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "Stretched Thin, Iowa Agency Issues Few Fines for Manure Pollution",
-      "description": "This story is a collaboration between Inside Climate News and Sentient Media.",
-      "url": "https://insideclimatenews.org/news/23012026/stretched-thin-iowa-agency-issues-few-fines-for-manure-pollution/",
-      "publishedAt": "2026-01-23T10:00:00",
-      "content": "This story is a collaboration between Inside Climate News and Sentient Media."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Is Climate Change Weakening the Polar Vortex?",
-      "description": "Rising Arctic temperatures and melting sea ice could be causing cold air to flow into the Northern Hemisphere. But not all scientists agree.",
-      "url": "https://www.nytimes.com/2026/01/24/climate/climate-change-polar-vortex.html",
-      "publishedAt": "2026-01-24T20:30:44",
-      "content": "Rising Arctic temperatures and melting sea ice could be causing cold air to flow into the Northern Hemisphere. But not all scientists agree."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why it has not been so easy being green for the white van in the UK",
-      "description": "Electric van sales are behind government targets, but those fleets that have switched are seeing a real differenceSwinging a fully laden electric van around a training centre in Bishop’s Stortford ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/24/electric-van-fleets-uk",
-      "publishedAt": "2026-01-24T14:00:40",
-      "content": "Electric van sales are behind government targets, but those fleets that have switched are seeing a real differenceSwinging a fully laden electric van around a training centre in Bishop’s Stortford ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Post-COP 30 Modeling Shows World Is Far Off Track for Climate Goals",
-      "description": "After yet another international climate summit ended last fall without binding commitments to phase out fossil fuels, a leading global climate model is offering a stark forecast for the decades ahe...",
-      "url": "https://insideclimatenews.org/news/24012026/post-cop-30-modeling-shows-world-is-far-off-track-for-climate-goals/",
-      "publishedAt": "2026-01-24T09:45:00",
-      "content": "After yet another international climate summit ended last fall without binding commitments to phase out fossil fuels, a leading global climate model is offering a stark forecast for the decades ahe..."
+      "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: SBTi passes milestone 10,000 companies with science-based climate goals; ECB",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-245/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-245",
+      "publishedAt": "2026-01-25T08:58:42",
+      "content": "This week in ESG news: SBTi passes milestone 10,000 companies with science-based climate goals; ECB"
     },
     {
       "source": {
@@ -114,14 +92,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Case IH’s Application Drone Cuts Costs and Environmental Impacts",
-      "description": "Case IH, a CNH brand, challenges its Application Drone by evaluating the performance of the equipment in real operating conditions, including autonomy, resistance to environmental factors, flight s...",
-      "url": "https://csrwire.com/press-release/case-ihs-application-drone-cuts-costs-and-environmental-impacts/",
-      "publishedAt": "2026-01-22T16:00:00",
-      "content": "Case IH, a CNH brand, challenges its Application Drone by evaluating the performance of the equipment in real operating conditions, including autonomy, resistance to environmental factors, flight s..."
+      "author": "New York Times",
+      "title": "Is Climate Change Weakening the Polar Vortex?",
+      "description": "Rising Arctic temperatures and melting sea ice could be causing cold air to flow into the Northern Hemisphere. But not all scientists agree.",
+      "url": "https://www.nytimes.com/2026/01/24/climate/climate-change-polar-vortex.html",
+      "publishedAt": "2026-01-24T20:30:44",
+      "content": "Rising Arctic temperatures and melting sea ice could be causing cold air to flow into the Northern Hemisphere. But not all scientists agree."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Post-COP 30 Modeling Shows World Is Far Off Track for Climate Goals",
+      "description": "After yet another international climate summit ended last fall without binding commitments to phase out fossil fuels, a leading global climate model is offering a stark forecast for the decades ahe...",
+      "url": "https://insideclimatenews.org/news/24012026/post-cop-30-modeling-shows-world-is-far-off-track-for-climate-goals/",
+      "publishedAt": "2026-01-24T09:45:00",
+      "content": "After yet another international climate summit ended last fall without binding commitments to phase out fossil fuels, a leading global climate model is offering a stark forecast for the decades ahe..."
     },
     {
       "source": {
@@ -147,14 +136,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Virginia Attorney General Takes Steps to Rejoin the Regional Greenhouse Gas Initiative",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/23012026/virginia-attorney-general-takes-steps-to-rejoin-the-regional-greenhouse-gas-initiative/",
-      "publishedAt": "2026-01-23T20:03:56",
-      "content": "RICHMOND, Va."
+      "author": "CSRWire",
+      "title": "Case IH’s Application Drone Cuts Costs and Environmental Impacts",
+      "description": "Case IH, a CNH brand, challenges its Application Drone by evaluating the performance of the equipment in real operating conditions, including autonomy, resistance to environmental factors, flight s...",
+      "url": "https://csrwire.com/press-release/case-ihs-application-drone-cuts-costs-and-environmental-impacts/",
+      "publishedAt": "2026-01-22T16:00:00",
+      "content": "Case IH, a CNH brand, challenges its Application Drone by evaluating the performance of the equipment in real operating conditions, including autonomy, resistance to environmental factors, flight s..."
     },
     {
       "source": {
@@ -166,17 +155,6 @@
       "url": "https://triplepundit.com/2026/ces-2026-sustainability/",
       "publishedAt": "2026-01-20T17:51:49",
       "content": "Sustainability is no longer being treated as a standalone category. It’s woven into how products, systems and infrastructure are designed from the start.  TriplePundit"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "RHS unveils plans to protect UK gardens from future water shortages",
-      "description": "Environmental charity to prioritise water capture and storage as it urges gardeners to prepare for ‘new normal’The Royal Horticultural Society has unveiled emergency plans to protect its gardens fr...",
-      "url": "https://www.theguardian.com/environment/2026/jan/24/rhs-unveils-plans-to-protect-uk-gardens-from-future-water-shortages",
-      "publishedAt": "2026-01-24T08:00:33",
-      "content": "Environmental charity to prioritise water capture and storage as it urges gardeners to prepare for ‘new normal’The Royal Horticultural Society has unveiled emergency plans to protect its gardens fr..."
     },
     {
       "source": {
@@ -202,36 +180,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Looking for Hardworking, More Sustainable Activewear? This Brand is Leading the Charge",
-      "description": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-activewear-from-bam/",
-      "publishedAt": "2026-01-18T16:12:04",
-      "content": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Setting Foot on the Melting Thwaites Glacier",
-      "description": "Bad weather ​delayed expedition scientists’​ ​efforts to set up camp on Thwaites Glacier ​in Antarctica ​and take measurements ​to determine how quickly it is melting. After the skies cleared, our ...",
-      "url": "https://www.nytimes.com/video/climate/100000010658848/setting-foot-on-the-melting-thwaites-glacier.html",
-      "publishedAt": "2026-01-24T16:34:25",
-      "content": "Bad weather ​delayed expedition scientists’​ ​efforts to set up camp on Thwaites Glacier ​in Antarctica ​and take measurements ​to determine how quickly it is melting. After the skies cleared, our ..."
+      "title": "What Is Thundersnow, One of Weather’s Rarest Spectacles",
+      "description": "A clap of thunder can come as a surprise in the steady calm of falling snow. Here’s what causes it.",
+      "url": "https://www.nytimes.com/article/what-is-thundersnow.html",
+      "publishedAt": "2026-01-25T20:34:41",
+      "content": "A clap of thunder can come as a surprise in the steady calm of falling snow. Here’s what causes it."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Young country diary: A winter surprise – wood ants busy on their nest | Meg",
-      "description": "Devon: We saw massive mounds of soil and pine needles where ants were hibernating – but not all of themWe pulled into the frosty car park just as the sun was rising. It was early in the morning and...",
-      "url": "https://www.theguardian.com/environment/2026/jan/24/young-country-diary-a-winter-surprise-wood-ants-busy-on-their-nest",
-      "publishedAt": "2026-01-24T11:00:37",
-      "content": "Devon: We saw massive mounds of soil and pine needles where ants were hibernating – but not all of themWe pulled into the frosty car park just as the sun was rising. It was early in the morning and..."
+      "title": "The 10 best US products to battle seasonal affective disorder, according to experts",
+      "description": "Therapy lights, sunrise alarm clocks and infrared saunas can all help shake the winter blues as the weather dropsHeated socks and puffy booties: what people in the coldest cities on Earth are weari...",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jan/25/seasonal-affective-disorder-winter-products",
+      "publishedAt": "2026-01-25T20:15:16",
+      "content": "Therapy lights, sunrise alarm clocks and infrared saunas can all help shake the winter blues as the weather dropsHeated socks and puffy booties: what people in the coldest cities on Earth are weari..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "What’s Killing Onshore Wind Power?",
+      "description": "SHENANDOAH, Iowa—First viewed from a pickup truck driving south on U.",
+      "url": "https://insideclimatenews.org/news/25012026/onshore-wind-power-opposition-road-blocks/",
+      "publishedAt": "2026-01-25T10:00:00",
+      "content": "SHENANDOAH, Iowa—First viewed from a pickup truck driving south on U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Chinese Coal Offer Pakistan Couldn’t Afford But Didn’t Refuse",
+      "description": "Planet China: Fourteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world.",
+      "url": "https://insideclimatenews.org/news/25012026/pakistan-energy-crisis-chinese-coal-plants/",
+      "publishedAt": "2026-01-25T09:55:00",
+      "content": "Planet China: Fourteenth in a series about how Beijing’s trillion-dollar development plan is reshaping the globe—and the natural world."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "RHS unveils plans to protect UK gardens from future water shortages",
+      "description": "Environmental charity to prioritise water capture and storage as it urges gardeners to prepare for ‘new normal’The Royal Horticultural Society has unveiled emergency plans to protect its gardens fr...",
+      "url": "https://www.theguardian.com/environment/2026/jan/24/rhs-unveils-plans-to-protect-uk-gardens-from-future-water-shortages",
+      "publishedAt": "2026-01-24T08:00:33",
+      "content": "Environmental charity to prioritise water capture and storage as it urges gardeners to prepare for ‘new normal’The Royal Horticultural Society has unveiled emergency plans to protect its gardens fr..."
     },
     {
       "source": {
@@ -276,6 +276,116 @@
       "url": "https://csrwire.com/press-release/pseg-staffers-help-nearly-50-teens-oasis-haven-women-and-children-paterson-nj/",
       "publishedAt": "2026-01-23T08:05:00",
       "content": "This Holiday Season, our team had the joy of wrapping gifts for 44 incredible teens in the after-school program at Oasis - A Haven for Women and Children in Paterson, NJ."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Setting Foot on the Melting Thwaites Glacier",
+      "description": "Bad weather ​delayed expedition scientists’​ ​efforts to set up camp on Thwaites Glacier ​in Antarctica ​and take measurements ​to determine how quickly it is melting. After the skies cleared, our ...",
+      "url": "https://www.nytimes.com/video/climate/100000010658848/setting-foot-on-the-melting-thwaites-glacier.html",
+      "publishedAt": "2026-01-24T16:34:25",
+      "content": "Bad weather ​delayed expedition scientists’​ ​efforts to set up camp on Thwaites Glacier ​in Antarctica ​and take measurements ​to determine how quickly it is melting. After the skies cleared, our ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: A winter surprise – wood ants busy on their nest | Meg",
+      "description": "Devon: We saw massive mounds of soil and pine needles where ants were hibernating – but not all of themWe pulled into the frosty car park just as the sun was rising. It was early in the morning and...",
+      "url": "https://www.theguardian.com/environment/2026/jan/24/young-country-diary-a-winter-surprise-wood-ants-busy-on-their-nest",
+      "publishedAt": "2026-01-24T11:00:37",
+      "content": "Devon: We saw massive mounds of soil and pine needles where ants were hibernating – but not all of themWe pulled into the frosty car park just as the sun was rising. It was early in the morning and..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "‘One Day Tariffs Go Up, Another Day They Go Down’: Suppliers Sound Off",
+      "description": "The exhibitors at Source Fashion may have come from different parts of the globe but many shared the same purpose: to wean themselves off their reliance on the United States.",
+      "url": "https://sourcingjournal.com/topics/trade-shows/source-fashion-suppliers-tariffs-us-uk-1234805074/",
+      "publishedAt": "2026-01-23T23:59:12",
+      "content": "The exhibitors at Source Fashion may have come from different parts of the globe but many shared the same purpose: to wean themselves off their reliance on the United States."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Port of LA Gears Up for Greater Container Volumes After ‘Roller Coaster’ 2025",
+      "description": "The Port of Los Angeles moved 10.",
+      "url": "https://sourcingjournal.com/topics/logistics/port-of-la-container-volumes-trade-tariffs-trump-roller-coaster-2025-1234805069/",
+      "publishedAt": "2026-01-23T23:02:16",
+      "content": "The Port of Los Angeles moved 10."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Storm Poses Big Threats to Power Grids Across U.S.",
+      "description": "Managers of electric grids say freezing temperatures and ice and snow could lead to power outages in many places, potentially leaving millions in the dark.",
+      "url": "https://www.nytimes.com/2026/01/23/business/energy-environment/storm-power-outage.html",
+      "publishedAt": "2026-01-23T22:04:36",
+      "content": "Managers of electric grids say freezing temperatures and ice and snow could lead to power outages in many places, potentially leaving millions in the dark."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: CEO Changes for Nike China, Mud, Bottega and Bleckmann",
+      "description": "EMEA exec Carl Grebert and Greater China CEO Angela Dong are out at Nike; ex-Drexel dean Jason Schupbach succeeds Dr. Joyce Brown as president of FIT.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-ceo-changes-nike-china-mud-bottega-bleckmann-1234804802/",
+      "publishedAt": "2026-01-23T21:38:51",
+      "content": "EMEA exec Carl Grebert and Greater China CEO Angela Dong are out at Nike; ex-Drexel dean Jason Schupbach succeeds Dr. Joyce Brown as president of FIT."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "France Taps Refashion for Framework to Penalize Ultra-Fast Fashion",
+      "description": "At the French government’s request, textile recycler Refashion may endorse eco-modulations to punish ultra-fast fashion activity.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/france-taps-refashion-to-penalize-ultra-fast-fashion-shein-1234804921/",
+      "publishedAt": "2026-01-23T17:51:54",
+      "content": "At the French government’s request, textile recycler Refashion may endorse eco-modulations to punish ultra-fast fashion activity."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Soorty Modernizes Heritage Workwear Through AI",
+      "description": "The Soorty x Miles Johnson \"Heroes of the Past & Future\" exhibit uses AI to see denim's rugged past for modern workwear.",
+      "url": "https://sourcingjournal.com/denim/denim-mills/women-to-the-front-western-denim-miles-johnson-soorty-ai-1234804868/",
+      "publishedAt": "2026-01-23T16:06:41",
+      "content": "The Soorty x Miles Johnson \"Heroes of the Past & Future\" exhibit uses AI to see denim's rugged past for modern workwear."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "New filtration technology could be gamechanger in removal of Pfas ‘forever chemicals’",
+      "description": "Researchers found a new way to filter and destroy Pfas chemicals at 100 times the rate of current systemsNew filtration technology developed by Rice University may absorb some Pfas “forever chemica...",
+      "url": "https://www.theguardian.com/environment/2026/jan/23/pfas-forever-chemicals-filtration",
+      "publishedAt": "2026-01-23T13:00:12",
+      "content": "Researchers found a new way to filter and destroy Pfas chemicals at 100 times the rate of current systemsNew filtration technology developed by Rice University may absorb some Pfas “forever chemica..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "An Antarctic Mission to Recover a Robot’s Data",
+      "description": "In the unforgiving polar wilderness, scientists go to great lengths to safeguard the devices that gather precious data.",
+      "url": "https://www.nytimes.com/2026/01/23/climate/antarctica-robot-glider.html",
+      "publishedAt": "2026-01-23T12:59:06",
+      "content": "In the unforgiving polar wilderness, scientists go to great lengths to safeguard the devices that gather precious data."
     },
     {
       "source": {
@@ -353,116 +463,6 @@
       "url": "https://csrwire.com/press-release/huggies-donates-15-million-diapers-15-days-celebration-national-diaper-bank-networks-15th/",
       "publishedAt": "2026-01-22T08:35:00",
       "content": "Huggies®, a Kimberly-Clark brand, is teaming up with the National Diaper Bank Network (NDBN) to deliver 15 million donated Huggies diapers in 15 days to celebrate the 15-year anniversary of the nat..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "‘One Day Tariffs Go Up, Another Day They Go Down’: Suppliers Sound Off",
-      "description": "The exhibitors at Source Fashion may have come from different parts of the globe but many shared the same purpose: to wean themselves off their reliance on the United States.",
-      "url": "https://sourcingjournal.com/topics/trade-shows/source-fashion-suppliers-tariffs-us-uk-1234805074/",
-      "publishedAt": "2026-01-23T23:59:12",
-      "content": "The exhibitors at Source Fashion may have come from different parts of the globe but many shared the same purpose: to wean themselves off their reliance on the United States."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Port of LA Gears Up for Greater Container Volumes After ‘Roller Coaster’ 2025",
-      "description": "The Port of Los Angeles moved 10.",
-      "url": "https://sourcingjournal.com/topics/logistics/port-of-la-container-volumes-trade-tariffs-trump-roller-coaster-2025-1234805069/",
-      "publishedAt": "2026-01-23T23:02:16",
-      "content": "The Port of Los Angeles moved 10."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "This Small Alabama Town Was Part of the Manhattan Project. Now It May Host a Hyperscale Data Center.",
-      "description": "CHILDERSBURG, Ala.",
-      "url": "https://insideclimatenews.org/news/23012026/this-small-alabama-town-was-part-of-the-manhattan-project-now-it-may-host-a-hyperscale-data-center/",
-      "publishedAt": "2026-01-23T22:29:14",
-      "content": "CHILDERSBURG, Ala."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: CEO Changes for Nike China, Mud, Bottega and Bleckmann",
-      "description": "EMEA exec Carl Grebert and Greater China CEO Angela Dong are out at Nike; ex-Drexel dean Jason Schupbach succeeds Dr. Joyce Brown as president of FIT.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-ceo-changes-nike-china-mud-bottega-bleckmann-1234804802/",
-      "publishedAt": "2026-01-23T21:38:51",
-      "content": "EMEA exec Carl Grebert and Greater China CEO Angela Dong are out at Nike; ex-Drexel dean Jason Schupbach succeeds Dr. Joyce Brown as president of FIT."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "France Taps Refashion for Framework to Penalize Ultra-Fast Fashion",
-      "description": "At the French government’s request, textile recycler Refashion may endorse eco-modulations to punish ultra-fast fashion activity.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/france-taps-refashion-to-penalize-ultra-fast-fashion-shein-1234804921/",
-      "publishedAt": "2026-01-23T17:51:54",
-      "content": "At the French government’s request, textile recycler Refashion may endorse eco-modulations to punish ultra-fast fashion activity."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Soorty Modernizes Heritage Workwear Through AI",
-      "description": "The Soorty x Miles Johnson \"Heroes of the Past & Future\" exhibit uses AI to see denim's rugged past for modern workwear.",
-      "url": "https://sourcingjournal.com/denim/denim-mills/women-to-the-front-western-denim-miles-johnson-soorty-ai-1234804868/",
-      "publishedAt": "2026-01-23T16:06:41",
-      "content": "The Soorty x Miles Johnson \"Heroes of the Past & Future\" exhibit uses AI to see denim's rugged past for modern workwear."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "New filtration technology could be gamechanger in removal of Pfas ‘forever chemicals’",
-      "description": "Researchers found a new way to filter and destroy Pfas chemicals at 100 times the rate of current systemsNew filtration technology developed by Rice University may absorb some Pfas “forever chemica...",
-      "url": "https://www.theguardian.com/environment/2026/jan/23/pfas-forever-chemicals-filtration",
-      "publishedAt": "2026-01-23T13:00:12",
-      "content": "Researchers found a new way to filter and destroy Pfas chemicals at 100 times the rate of current systemsNew filtration technology developed by Rice University may absorb some Pfas “forever chemica..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "An Antarctic Mission to Recover a Robot’s Data",
-      "description": "In the unforgiving polar wilderness, scientists go to great lengths to safeguard the devices that gather precious data.",
-      "url": "https://www.nytimes.com/2026/01/23/climate/antarctica-robot-glider.html",
-      "publishedAt": "2026-01-23T12:59:06",
-      "content": "In the unforgiving polar wilderness, scientists go to great lengths to safeguard the devices that gather precious data."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "European cold snap may increase bird migration to UK",
-      "description": "This year’s RSPB Big Garden Birdwatch, which begins on Friday, could reveal ‘some surprise migratory visitors’The chances of spotting a fieldfare or redwing in 2026 have risen, thanks to cold and u...",
-      "url": "https://www.theguardian.com/environment/2026/jan/23/cold-snap-europe-increased-bird-migration-to-uk",
-      "publishedAt": "2026-01-23T05:00:07",
-      "content": "This year’s RSPB Big Garden Birdwatch, which begins on Friday, could reveal ‘some surprise migratory visitors’The chances of spotting a fieldfare or redwing in 2026 have risen, thanks to cold and u..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New U.S. Rule Aims to Speed Up Mining of the Seafloor",
-      "description": "The Metals Company, a prominent seabed-mining company, applauded the change and filed a new application more than doubling the area it hopes to mine.",
-      "url": "https://www.nytimes.com/2026/01/22/climate/noaa-seabed-mining-rules.html",
-      "publishedAt": "2026-01-22T23:26:12",
-      "content": "The Metals Company, a prominent seabed-mining company, applauded the change and filed a new application more than doubling the area it hopes to mine."
     }
   ]
 }
