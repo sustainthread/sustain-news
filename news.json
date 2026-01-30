@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 51,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "IPSASB Launches Climate-Related Reporting Standard for Governments, Public Sector",
+      "description": "The International Public Sector Accounting Standards Board (IPSASB) announced the release of its finalized “IPSASB SRS",
+      "url": "https://www.esgtoday.com/ipsasb-launches-climate-related-reporting-standard-for-governments-public-sector/?utm_source=rss&utm_medium=rss&utm_campaign=ipsasb-launches-climate-related-reporting-standard-for-governments-public-sector",
+      "publishedAt": "2026-01-29T16:39:48",
+      "content": "The International Public Sector Accounting Standards Board (IPSASB) announced the release of its finalized “IPSASB SRS"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -10,63 +21,74 @@
       "title": "More Sustainable Fashion Brand Offers This January 2026",
       "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-01-25T06:00:45",
+      "publishedAt": "2026-01-29T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Net Zero Financial Service Providers Alliance Disbands",
-      "description": "The Net Zero Financial Service Providers Alliance (NZFSPA), a coalition of stock exchanges, research &",
-      "url": "https://www.esgtoday.com/net-zero-financial-service-providers-alliance-disbands/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-financial-service-providers-alliance-disbands",
-      "publishedAt": "2026-01-28T13:48:01",
-      "content": "The Net Zero Financial Service Providers Alliance (NZFSPA), a coalition of stock exchanges, research &"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "The Missing Middle of the Energy Transition: Financing Industrial Decarbonization",
-      "description": "Guest post by: Rukmini Glanard, Chief Business Officer at GETEC Europe has made strong progress in financing renewables.",
-      "url": "https://www.esgtoday.com/the-missing-middle-of-the-energy-transition-financing-industrial-decarbonization/?utm_source=rss&utm_medium=rss&utm_campaign=the-missing-middle-of-the-energy-transition-financing-industrial-decarbonization",
-      "publishedAt": "2026-01-28T10:07:26",
-      "content": "Guest post by: Rukmini Glanard, Chief Business Officer at GETEC Europe has made strong progress in financing renewables."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Bureau Veritas Acquires Fashion and Luxury-Focused Sustainability Consultancy SPIN360",
-      "description": "France-based testing, inspection and certification services provider Bureau Veritas announced the acquisition of fashion and",
-      "url": "https://www.esgtoday.com/bureau-veritas-acquires-fashion-and-luxury-focused-sustainability-consultancy-spin360/?utm_source=rss&utm_medium=rss&utm_campaign=bureau-veritas-acquires-fashion-and-luxury-focused-sustainability-consultancy-spin360",
-      "publishedAt": "2026-01-28T14:21:07",
-      "content": "France-based testing, inspection and certification services provider Bureau Veritas announced the acquisition of fashion and"
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Amid National Call to ‘Make Polluters Pay,’ Illinois Lawmakers Are Prepping a Climate Change Superfund Bill",
-      "description": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states seeking to make fossil fuel companies pay up for...",
-      "url": "https://insideclimatenews.org/news/28012026/amid-national-call-to-make-polluters-pay-illinois-lawmakers-are-prepping-a-climate-change-superfund-bill/",
-      "publishedAt": "2026-01-29T00:03:56",
-      "content": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states seeking to make fossil fuel companies pay up for..."
+      "title": "Developer Calls GW Ranch in Pecos County, Texas, the ‘Largest Power Project’ in U.S.",
+      "description": "Texas’ environmental regulator this week issued the largest air pollution permit in the country to an enormous planned complex of gas power plants and data centers near the oilfields of the Permian...",
+      "url": "https://insideclimatenews.org/news/29012026/developer-calls-gw-ranch-in-pecos-county-texas-the-largest-power-project-in-u-s/",
+      "publishedAt": "2026-01-29T11:22:51",
+      "content": "Texas’ environmental regulator this week issued the largest air pollution permit in the country to an enormous planned complex of gas power plants and data centers near the oilfields of the Permian..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BMI Launches Country-Level ESG and Climate Risk Data Solution",
+      "description": "Fitch Solution’s country, political and industry insights-focused data and analytics provider BMI announced the launch",
+      "url": "https://www.esgtoday.com/bmi-expands-country-level-esg-and-climate-risk-data-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bmi-expands-country-level-esg-and-climate-risk-data-solution",
+      "publishedAt": "2026-01-29T11:21:53",
+      "content": "Fitch Solution’s country, political and industry insights-focused data and analytics provider BMI announced the launch"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "The Footprint Firm Raises €76 Million to Back Climate Tech Startups",
+      "description": "The Footprint Firm announced the final closing of its €76 million venture fund, FootPrint Fund",
+      "url": "https://www.esgtoday.com/the-footprint-firm-raises-e76-million-to-back-climate-tech-startups/?utm_source=rss&utm_medium=rss&utm_campaign=the-footprint-firm-raises-e76-million-to-back-climate-tech-startups",
+      "publishedAt": "2026-01-29T09:52:47",
+      "content": "The Footprint Firm announced the final closing of its €76 million venture fund, FootPrint Fund"
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Dutch Court Orders Netherlands to Protect Bonaire From Climate Change",
-      "description": "Bonaire, a Dutch overseas territory, deserves the same protections as Europe, the ruling said. The decision adds to a growing body of precedent worldwide.",
-      "url": "https://www.nytimes.com/2026/01/28/climate/netherlands-bonaire-climate-ruling.html",
-      "publishedAt": "2026-01-28T20:34:47",
-      "content": "Bonaire, a Dutch overseas territory, deserves the same protections as Europe, the ruling said. The decision adds to a growing body of precedent worldwide."
+      "title": "Climate Change Is Fueling Extremes, Both Hot and Cold",
+      "description": "The possibility of snow in Tampa, Fla. Record heat and fires in Australia. Scientists say climate change is exacerbating weather extremes.",
+      "url": "https://www.nytimes.com/2026/01/29/climate/climate-change-extreme-weather.html",
+      "publishedAt": "2026-01-29T19:46:38",
+      "content": "The possibility of snow in Tampa, Fla. Record heat and fires in Australia. Scientists say climate change is exacerbating weather extremes."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US leads record global surge in gas-fired power driven by AI demands, with big costs for the climate",
+      "description": "Projects in development expected to grow global capacity by nearly 50% amid growing concern over impact on planetThe US is leading a huge global surge in new gas-fired power generation that will ca...",
+      "url": "https://www.theguardian.com/environment/2026/jan/29/gas-power-ai-climate",
+      "publishedAt": "2026-01-29T13:58:58",
+      "content": "Projects in development expected to grow global capacity by nearly 50% amid growing concern over impact on planetThe US is leading a huge global surge in new gas-fired power generation that will ca..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Amid National Call to Make Polluters Pay, Illinois Lawmakers Are Prepping a Climate Change Superfund Bill",
+      "description": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states seeking to make fossil fuel companies pay up for...",
+      "url": "https://insideclimatenews.org/news/28012026/amid-national-call-to-make-polluters-pay-illinois-lawmakers-are-prepping-a-climate-change-superfund-bill/",
+      "publishedAt": "2026-01-29T00:03:56",
+      "content": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states seeking to make fossil fuel companies pay up for..."
     },
     {
       "source": {
@@ -78,6 +100,127 @@
       "url": "https://www.theguardian.com/environment/2026/jan/28/netherlands-government-discriminated-bonaire-islanders-caribbean-climate-crisis-adaptation",
       "publishedAt": "2026-01-28T16:55:19",
       "content": "Judgment in The Hague orders Netherlands to do more to protect Caribbean people in its territory from impacts of climate crisisThe Dutch government discriminated against people in one of its most v..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Looking for Hardworking, More Sustainable Activewear? This Brand is Leading the Charge",
+      "description": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-activewear-from-bam/",
+      "publishedAt": "2026-01-28T16:12:04",
+      "content": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Environmental Impact of Animal Products in Fashion",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/the-environmental-impact-of-animal-products-in-fashion/",
+      "publishedAt": "2026-01-27T23:00:31",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "We, the People: Defending the U.S. Constitution As Immigration Raids Threaten Basic Rights",
+      "description": "With administration officials saying agents are immune to accountability, many are understandably wondering: What rights do I have when interacting with federal immigration forces, and do those rig...",
+      "url": "https://triplepundit.com/2026/us-constitution-ice-immigration-raids/",
+      "publishedAt": "2026-01-29T23:12:22",
+      "content": "With administration officials saying agents are immune to accountability, many are understandably wondering: What rights do I have when interacting with federal immigration forces, and do those rig..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "New Holland Showcases R4 Autonomous Robot at GOFAR Field Day France",
+      "description": "The R4 hybrid power unit from CNH brand, New Holland, is to feature at one of Europe’s leading dedicated agricultural robotics events, GOFAR Field Day France.",
+      "url": "https://csrwire.com/press-release/new-holland-showcases-r4-autonomous-robot-gofar-field-day-france/",
+      "publishedAt": "2026-01-29T16:00:00",
+      "content": "The R4 hybrid power unit from CNH brand, New Holland, is to feature at one of Europe’s leading dedicated agricultural robotics events, GOFAR Field Day France."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Puro.earth Launches New Service to Enable More Frequent Carbon Credit Issuance by Suppliers",
+      "description": "Carbon-crediting platform Puro.earth announced the launch of Puro Issuance Plus, a new service aimed at helping",
+      "url": "https://www.esgtoday.com/puro-earth-launches-new-service-to-enable-more-frequent-carbon-credit-issuance-by-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-launches-new-service-to-enable-more-frequent-carbon-credit-issuance-by-suppliers",
+      "publishedAt": "2026-01-29T14:33:25",
+      "content": "Carbon-crediting platform Puro.earth announced the launch of Puro Issuance Plus, a new service aimed at helping"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Pesticide cocktails’ polluting apples across Europe, study finds",
+      "description": "Pan Europe found several pesticide residues in 85% of apples, with some showing traces of up to seven chemicalsEnvironmental groups have raised the alarm after finding toxic “pesticide cocktails” i...",
+      "url": "https://www.theguardian.com/environment/2026/jan/29/pesticide-cocktails-pollute-apples-europe-chemicals",
+      "publishedAt": "2026-01-29T12:38:35",
+      "content": "Pan Europe found several pesticide residues in 85% of apples, with some showing traces of up to seven chemicalsEnvironmental groups have raised the alarm after finding toxic “pesticide cocktails” i..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "IWBI Expands WELL With Two New Ratings To Help Real Estate Leaders Deliver on Investor and Tenant Demands",
+      "description": "The International WELL Building Institute (IWBI), the global authority for driving market transformation through healthy buildings, organizations and communities, today announced a significant expa...",
+      "url": "https://csrwire.com/press-release/iwbi-expands-well-two-new-ratings-help-real-estate-leaders-deliver-investor-and-tenant-demands/",
+      "publishedAt": "2026-01-29T10:35:00",
+      "content": "The International WELL Building Institute (IWBI), the global authority for driving market transformation through healthy buildings, organizations and communities, today announced a significant expa..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Wells Fargo Launches In-House Voting System to Cut Reliance on Proxy Advisors",
+      "description": "Wells Fargo Wealth & Investment Management (WIM), one of the largest wealth managers in the",
+      "url": "https://www.esgtoday.com/wells-fargo-launches-in-house-proxy-voting-system-to-cut-reliance-on-advisors/?utm_source=rss&utm_medium=rss&utm_campaign=wells-fargo-launches-in-house-proxy-voting-system-to-cut-reliance-on-advisors",
+      "publishedAt": "2026-01-29T10:33:08",
+      "content": "Wells Fargo Wealth & Investment Management (WIM), one of the largest wealth managers in the"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Lenovo Is Transforming Learning and Inspiring the Future With New Chromebooks for Education",
+      "description": "Lenovo™ announced at the Future of Education Technology Conference® (FETC) 2026 new additions to its portfolio of Chromebook devices to power teaching and learning.",
+      "url": "https://csrwire.com/press-release/lenovo-transforming-learning-and-inspiring-future-new-chromebooks-education/",
+      "publishedAt": "2026-01-29T10:00:00",
+      "content": "Lenovo™ announced at the Future of Education Technology Conference® (FETC) 2026 new additions to its portfolio of Chromebook devices to power teaching and learning."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Ten 2025 Ray of Hope Accelerator Teams to Host Online Demo Day",
+      "description": "A 90-minute interactive showcase of ten startups using nature’s strategies to solve some of the world’s most urgent challenges.",
+      "url": "https://csrwire.com/press-release/ten-2025-ray-hope-accelerator-teams-host-online-demo-day/",
+      "publishedAt": "2026-01-29T09:40:00",
+      "content": "A 90-minute interactive showcase of ten startups using nature’s strategies to solve some of the world’s most urgent challenges."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PSEG Recycled More Than 86% of Its Generated Materials",
+      "description": "While our crews are out building and maintaining the systems that power our customers’ homes and businesses, they’re also finding ways to cut waste and support local nonprofits.",
+      "url": "https://csrwire.com/press-release/pseg-recycled-more-86-its-generated-materials/",
+      "publishedAt": "2026-01-29T08:45:00",
+      "content": "While our crews are out building and maintaining the systems that power our customers’ homes and businesses, they’re also finding ways to cut waste and support local nonprofits."
     },
     {
       "source": {
@@ -95,10 +238,10 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "The Environmental Impact of Animal Products in Fashion",
+      "title": "Step Into Cruelty-Free Fashion With These 14 Sustainable Vegan Shoes",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/the-environmental-impact-of-animal-products-in-fashion/",
-      "publishedAt": "2026-01-27T23:00:31",
+      "url": "https://goodonyou.eco/sustainable-vegan-shoes/",
+      "publishedAt": "2026-01-26T23:00:12",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
@@ -106,11 +249,209 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "Step Into Cruelty-Free Fashion With These 14 Sustainable Vegan Shoes",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-vegan-shoes/",
-      "publishedAt": "2026-01-26T23:00:12",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "title": "Better Brand Edit: Size-Inclusive Activewear From More Sustainable Labels",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/size-inclusive-activewear-from-more-sustainable-brands/",
+      "publishedAt": "2026-01-25T23:00:52",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Disaster Survivors Want Kristi Noem Out of FEMA",
+      "description": "Heather Talley’s life savings are tied up in a Swannanoa, North Carolina, home she can’t live in after Hurricane Helene.",
+      "url": "https://insideclimatenews.org/news/29012026/disaster-survivors-want-kristi-noem-out-of-fema/",
+      "publishedAt": "2026-01-29T23:08:02",
+      "content": "Heather Talley’s life savings are tied up in a Swannanoa, North Carolina, home she can’t live in after Hurricane Helene."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "EU Forges Comprehensive Strategic Partnership With Vietnam",
+      "description": "Days after signing a landmark trade deal with India, the European Union has forged an expanded trade agreement with Vietnam.",
+      "url": "https://sourcingjournal.com/topics/trade/eu-comprehensive-strategic-partnership-vietnam-us-reciprocal-trade-el-salvador-1234807565/",
+      "publishedAt": "2026-01-29T21:49:30",
+      "content": "Days after signing a landmark trade deal with India, the European Union has forged an expanded trade agreement with Vietnam."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Bangladesh’s Textile Mills Threatened an Indefinite Shutdown. Here’s What Happened Next.",
+      "description": "The standoff between the South Asian nation's textile producers and ready-made garment manufacturers has exposed long-simmering tensions between the two sectors.",
+      "url": "https://sourcingjournal.com/topics/sourcing/bangladesh-textile-mills-bgmea-bkmea-btma-yarn-duties-1234807561/",
+      "publishedAt": "2026-01-29T21:26:34",
+      "content": "The standoff between the South Asian nation's textile producers and ready-made garment manufacturers has exposed long-simmering tensions between the two sectors."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Material World: Modern Meadow, Heller-Leder Endorse Innovera Europa",
+      "description": "Biodesign company Modern Meadow teamed with leather tannery Heller-Leder on a joint venture to bring its next-gen material closer to EU players.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-modern-meadow-heller-leder-innovera-europa-1234807463/",
+      "publishedAt": "2026-01-29T21:14:08",
+      "content": "Biodesign company Modern Meadow teamed with leather tannery Heller-Leder on a joint venture to bring its next-gen material closer to EU players."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Tesla Profit Slumps, but Investors May Not Care",
+      "description": "The automaker also said it would invest $2 billion in xAI, the artificial intelligence company controlled by its C.E.O., Elon Musk, and stop making the two oldest models in its lineup.",
+      "url": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
+      "publishedAt": "2026-01-29T20:21:50",
+      "content": "The automaker also said it would invest $2 billion in xAI, the artificial intelligence company controlled by its C.E.O., Elon Musk, and stop making the two oldest models in its lineup."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
+      "description": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
+      "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
+      "publishedAt": "2026-01-29T18:55:28",
+      "content": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Unions Sue FEMA Over Work Force Cuts They Say Threaten Readiness",
+      "description": "The suit argues that the recent dismissals and plans for further cuts violate laws designed to preserve the disaster response agency’s independence and capabilities.",
+      "url": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
+      "publishedAt": "2026-01-29T18:53:42",
+      "content": "The suit argues that the recent dismissals and plans for further cuts violate laws designed to preserve the disaster response agency’s independence and capabilities."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "CMA CGM’s New $10B JV Backs Port Strategy With Financial Firepower",
+      "description": "Backed by up to $6 billion in Stonepeak funding, the joint venture underscores how ocean carriers are prioritizing vertical integration of their operations.",
+      "url": "https://sourcingjournal.com/topics/logistics/cma-cgm-stonepeak-10-billion-joint-venture-jv-united-ports-terminals-operator-vertical-integration-ocean-carriers-1234807537/",
+      "publishedAt": "2026-01-29T18:48:13",
+      "content": "Backed by up to $6 billion in Stonepeak funding, the joint venture underscores how ocean carriers are prioritizing vertical integration of their operations."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why a New Mexico Developer Quit Natural Gas",
+      "description": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
+      "url": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
+      "publishedAt": "2026-01-29T16:52:39",
+      "content": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Milan Fashion Week Men’s: Fall/Winter 26-27 Denim Trends",
+      "description": "Denim trends returned to bold washes, distressing and embellishments at Milan Fashion Week Men’s.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/milan-fashion-week-mens-fall-winter-2026-2027-denim-trends-1234804606/",
+      "publishedAt": "2026-01-29T16:22:54",
+      "content": "Denim trends returned to bold washes, distressing and embellishments at Milan Fashion Week Men’s."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Feels like a losing battle’: the fight against flooding in Somerset",
+      "description": "Emergency pumps are deployed in attempt to stop water inundating homes around River Parrett‘Like a sea out there’: flooded Somerset residents wonder how water can be managedSince medieval monks sta...",
+      "url": "https://www.theguardian.com/uk-news/2026/jan/29/somerset-fight-against-flooding-emergency-pumps-river-parrett",
+      "publishedAt": "2026-01-29T16:18:10",
+      "content": "Emergency pumps are deployed in attempt to stop water inundating homes around River Parrett‘Like a sea out there’: flooded Somerset residents wonder how water can be managedSince medieval monks sta..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
+      "description": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
+      "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-29T16:00:09",
+      "content": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why Some Cold States Are Making It Cheaper to Run a Heat Pump",
+      "description": "New discounts can make heat pumps go from a bad investment to a good idea.",
+      "url": "https://www.nytimes.com/2026/01/29/upshot/heat-pumps-cheaper-winter.html",
+      "publishedAt": "2026-01-29T15:30:00",
+      "content": "New discounts can make heat pumps go from a bad investment to a good idea."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Milan Fashion Week Men’s Street Style",
+      "description": "Texture was a strong theme in the street style seen during Milan Fashion Week.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/milan-fashion-week-mens-street-style-texture-denim-slubs-1234804667/",
+      "publishedAt": "2026-01-29T15:15:00",
+      "content": "Texture was a strong theme in the street style seen during Milan Fashion Week."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Global Energy Transition Investment Grew in 2025 Despite Major Obstacles; Here Are the Numbers",
+      "description": "Global investment in the energy transition rose to $2.",
+      "url": "https://insideclimatenews.org/news/29012026/global-energy-transition-investment-grew-in-2025-inside-clean-energy/",
+      "publishedAt": "2026-01-29T14:00:00",
+      "content": "Global investment in the energy transition rose to $2."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Camping on Antarctica’s Thwaites Glacier",
+      "description": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
+      "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
+      "publishedAt": "2026-01-29T13:53:55",
+      "content": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Baltimore bridge collapse: crew members from ship still held by US two years on",
+      "description": "Despite no criminal charges being brought against them, four officers have been detained since the MV Dali struck the Francis Scott Key Bridge, killing six workersSeveral crew members of a ship tha...",
+      "url": "https://www.theguardian.com/environment/2026/jan/29/baltimore-francis-stock-key-bridge-collapse-crew-members-mv-dali-ship-still-held-by-us",
+      "publishedAt": "2026-01-29T11:00:23",
+      "content": "Despite no criminal charges being brought against them, four officers have been detained since the MV Dali struck the Francis Scott Key Bridge, killing six workersSeveral crew members of a ship tha..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Data Centers in PJM Grid Can Rely Solely on Generators During the Cold, DOE Rules",
+      "description": "RICHMOND, Va.",
+      "url": "https://insideclimatenews.org/news/29012026/data-centers-in-pjm-grid-can-rely-solely-on-generators-during-the-cold-doe-rules/",
+      "publishedAt": "2026-01-29T09:50:00",
+      "content": "RICHMOND, Va."
     },
     {
       "source": {
@@ -147,17 +488,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "U.S. Formally Exits the Paris Agreement (Again)",
-      "description": "The United States has officially exited the Paris Agreement, the landmark 194-nation (formerly 195) pact",
-      "url": "https://www.esgtoday.com/u-s-formally-exits-the-paris-agreement-again/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-formally-exits-the-paris-agreement-again",
-      "publishedAt": "2026-01-28T11:33:56",
-      "content": "The United States has officially exited the Paris Agreement, the landmark 194-nation (formerly 195) pact"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -166,17 +496,6 @@
       "url": "https://csrwire.com/press-release/one-familys-dream-now-feeds-community-local-farming/",
       "publishedAt": "2026-01-28T11:15:00",
       "content": "From one family’s dream to fields that now feed a community."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Are Incentives for Fuel Made from Livestock Manure Leaving Small Farmers Behind?",
-      "description": "Biogas made from dairy and pig manure has long been an energy source non grata for environmental groups across the country.",
-      "url": "https://insideclimatenews.org/news/28012026/incentives-fuel-manure-leaving-small-farmers-behind/",
-      "publishedAt": "2026-01-28T10:00:00",
-      "content": "Biogas made from dairy and pig manure has long been an energy source non grata for environmental groups across the country."
     },
     {
       "source": {
@@ -191,135 +510,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "ERM Appoints Bill Theofilou as New Executive Chair",
-      "description": "Sustainability advisory firm ERM announced the appointment of former Accenture Senior Managing Director Bill Theofilou",
-      "url": "https://www.esgtoday.com/erm-appoints-bill-theofilou-as-new-executive-chair/?utm_source=rss&utm_medium=rss&utm_campaign=erm-appoints-bill-theofilou-as-new-executive-chair",
-      "publishedAt": "2026-01-28T06:13:57",
-      "content": "Sustainability advisory firm ERM announced the appointment of former Accenture Senior Managing Director Bill Theofilou"
+      "author": "CSRWire",
+      "title": "3BL Launches New Content Editor to Power Richer Brand Storytelling",
+      "description": "3BL announced today the launch of an upgraded content editor that empowers communications teams to tell richer, more engaging stories.",
+      "url": "https://csrwire.com/press-release/3bl-launches-new-content-editor-power-richer-brand-storytelling/",
+      "publishedAt": "2026-01-27T17:30:00",
+      "content": "3BL announced today the launch of an upgraded content editor that empowers communications teams to tell richer, more engaging stories."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Rowdy or charming, there’s no one way to wassail | Anita Roy",
+      "description": "Wellington and Wiveliscombe, Somerset: This movable pagan feast can be celebrated very differently, but it’s all to thank the apple trees and fire up their sapOld apple tree, we wassail thee,And ho...",
+      "url": "https://www.theguardian.com/environment/2026/jan/29/country-diary-rowdy-or-charming-theres-no-one-way-to-wassail",
+      "publishedAt": "2026-01-29T05:30:37",
+      "content": "Wellington and Wiveliscombe, Somerset: This movable pagan feast can be celebrated very differently, but it’s all to thank the apple trees and fire up their sapOld apple tree, we wassail thee,And ho..."
     },
     {
       "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "Better Brand Edit: Size-Inclusive Activewear From More Sustainable Labels",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/size-inclusive-activewear-from-more-sustainable-brands/",
-      "publishedAt": "2026-01-25T23:00:52",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Tesla Profit Slumps, but Investors May Not Care",
-      "description": "The automaker also said it would invest $2 billion in xAI, the artificial intelligence company controlled by its C.E.O., Elon Musk, and stop making the two oldest models in its lineup.",
-      "url": "https://www.nytimes.com/2026/01/28/business/tesla-earnings-electric-vehicles.html",
-      "publishedAt": "2026-01-29T00:41:23",
-      "content": "The automaker also said it would invest $2 billion in xAI, the artificial intelligence company controlled by its C.E.O., Elon Musk, and stop making the two oldest models in its lineup."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "A Post-Acquired Percentil Expands to Amazon Spain as MySize Subsidiary",
-      "description": "MySize subsidiary Percentil expands secondhand stock on Amazon Spain, continuing operations in Spain, France, Germany, and Italy post-acquisition.",
-      "url": "https://sourcingjournal.com/topics/technology/percentil-amazon-spain-post-acquisition-mysize-subsidiary-1234807489/",
-      "publishedAt": "2026-01-28T22:33:09",
-      "content": "MySize subsidiary Percentil expands secondhand stock on Amazon Spain, continuing operations in Spain, France, Germany, and Italy post-acquisition."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "American Eagle Abandons Quiet Logistics Experiment After $360M Bet",
-      "description": "The decision underscores the difficulty retailers face in operating logistics platforms for third-party merchants.",
-      "url": "https://sourcingjournal.com/topics/logistics/american-eagle-outfitters-quiet-logistics-shutters-abandons-360-million-3pl-fulfillment-centers-acquisition-1234807467/",
-      "publishedAt": "2026-01-28T20:45:00",
-      "content": "The decision underscores the difficulty retailers face in operating logistics platforms for third-party merchants."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Unions Sue FEMA Over Work Force Cuts They Say Threaten Readiness",
-      "description": "The suit argues that the recent dismissals and plans for further cuts violate laws designed to preserve the disaster response agency’s independence and capabilities.",
-      "url": "https://www.nytimes.com/2026/01/28/climate/unions-sue-fema.html",
-      "publishedAt": "2026-01-28T20:10:06",
-      "content": "The suit argues that the recent dismissals and plans for further cuts violate laws designed to preserve the disaster response agency’s independence and capabilities."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Retailers React to Joor’s Visual Assortment",
-      "description": "Joor's latest tool is designed to reduce manual assortment tracking, prevent duplicate buys and help buyers identify gaps before placing seasonal orders.",
-      "url": "https://sourcingjournal.com/topics/technology/retailers-react-to-joor-visual-assortment-tool-1234807358/",
-      "publishedAt": "2026-01-28T20:00:00",
-      "content": "Joor's latest tool is designed to reduce manual assortment tracking, prevent duplicate buys and help buyers identify gaps before placing seasonal orders."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Shift for NOAA’s Surveys: From Science to Mining",
-      "description": "A $20 million agency project will aid companies prospecting the sea for critical minerals.",
-      "url": "https://www.nytimes.com/2026/01/27/climate/noaa-deep-sea-mining.html",
-      "publishedAt": "2026-01-28T19:02:53",
-      "content": "A $20 million agency project will aid companies prospecting the sea for critical minerals."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Levi’s Celebrates Bay Area Culture Ahead of Super Bowl LX",
-      "description": "Super Bowl LX is coming to Levi’s backyard, putting the brand on a global stage.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/levis-home-turf-activation-customization-super-bowl-lx-1234807146/",
-      "publishedAt": "2026-01-28T19:00:00",
-      "content": "Super Bowl LX is coming to Levi’s backyard, putting the brand on a global stage."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Camping on Thwaites Glacier",
-      "description": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them.",
-      "url": "https://www.nytimes.com/2026/01/28/climate/antarctica-thwaites-glacier-drilling.html",
-      "publishedAt": "2026-01-28T17:03:50",
-      "content": "After working and camping for a week on Thwaites Glacier, scientists were ready to start drilling into the ice, if only the weather would let them."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Like a sea out there’: flooded Somerset residents wonder how water can be managed",
-      "description": "People in south-west mop up after Storm Chandra and prepare for next bout of rain, with major incident declaredIn the early hours, the Wade family’s boxer puppy began barking. Thinking it needed to...",
-      "url": "https://www.theguardian.com/uk-news/2026/jan/28/somerset-flooded-residents-storm-chandra-water-managed",
-      "publishedAt": "2026-01-28T15:40:52",
-      "content": "People in south-west mop up after Storm Chandra and prepare for next bout of rain, with major incident declaredIn the early hours, the Wade family’s boxer puppy began barking. Thinking it needed to..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Swift bricks to be installed on all new buildings in Scotland as MSPs back law",
-      "description": "Rest of UK has resisted calls to make builders install bricks that provide nesting for swifts and other endangered birdsSwift bricks will be installed in all new buildings in Scotland after the Sco...",
-      "url": "https://www.theguardian.com/environment/2026/jan/28/swift-bricks-to-be-installed-in-all-new-buildings-in-scotland-after-holyrood-backs-ruling",
-      "publishedAt": "2026-01-28T11:22:14",
-      "content": "Rest of UK has resisted calls to make builders install bricks that provide nesting for swifts and other endangered birdsSwift bricks will be installed in all new buildings in Scotland after the Sco..."
+      "title": "10 Clothing Brands From India Making Waves in Responsible Fashion",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-brands-from-india/",
+      "publishedAt": "2026-01-28T23:00:08",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -334,127 +554,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Smothering, bullying, stabbing: how it feels to be in one of the hottest places on Earth",
-      "description": "Everything felt like it was swelling, and despite my diligent consumption of water and Hydralyte, I couldn’t quite escape the persistent, low-level nausea. Even thinking took longerMy mother grew u...",
-      "url": "https://www.theguardian.com/environment/2026/jan/28/australia-heatwave-ouyen-victoria-temperatures-how-it-feels",
-      "publishedAt": "2026-01-28T06:52:16",
-      "content": "Everything felt like it was swelling, and despite my diligent consumption of water and Hydralyte, I couldn’t quite escape the persistent, low-level nausea. Even thinking took longerMy mother grew u..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "3BL Launches New Content Editor to Power Richer Brand Storytelling",
-      "description": "3BL announced today the launch of an upgraded content editor that empowers communications teams to tell richer, more engaging stories.",
-      "url": "https://csrwire.com/press-release/3bl-launches-new-content-editor-power-richer-brand-storytelling/",
-      "publishedAt": "2026-01-27T17:30:00",
-      "content": "3BL announced today the launch of an upgraded content editor that empowers communications teams to tell richer, more engaging stories."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Arrow Electronics Again Named to Fortune’s “World’s Most Admired Companies” List",
-      "description": "Arrow Electronics, Inc.",
-      "url": "https://csrwire.com/press-release/arrow-electronics-again-named-fortunes-worlds-most-admired-companies-list/",
-      "publishedAt": "2026-01-27T17:05:00",
-      "content": "Arrow Electronics, Inc."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Ford Taps Lisa Drake to Launch New Battery Energy Storage Business",
-      "description": "Ford Motor Company announced today the appointment of Lisa Drake as President of its new",
-      "url": "https://www.esgtoday.com/ford-taps-lisa-drake-to-launch-new-battery-energy-storage-business/?utm_source=rss&utm_medium=rss&utm_campaign=ford-taps-lisa-drake-to-launch-new-battery-energy-storage-business",
-      "publishedAt": "2026-01-27T16:26:15",
-      "content": "Ford Motor Company announced today the appointment of Lisa Drake as President of its new"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Europe’s supermarket shelves packed with ‘misleading’ claims about recycled plastic packaging",
-      "description": "Manufacturers use method that labels plastic as ‘circular’ and climate-friendly, despite being mostly fossil-basedEurope’s supermarket shelves are packed with brands billing their plastic packaging...",
-      "url": "https://www.theguardian.com/environment/2026/jan/27/recycled-plastic-packaging-claims-misleading-say-experts",
-      "publishedAt": "2026-01-27T13:48:58",
-      "content": "Manufacturers use method that labels plastic as ‘circular’ and climate-friendly, despite being mostly fossil-basedEurope’s supermarket shelves are packed with brands billing their plastic packaging..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Lenovo Launches Talent Program To Train Saudi Graduates in Smart Manufacturing, in Partnership With the Human Resources Development Fund, the Ministry of Industry and Mineral Resources, and Alat",
-      "description": "The initiative will see 100 Saudi graduates seconded to Lenovo’s Riyadh manufacturing facility as well as other global facilities for advanced on-the-job experience, with the goal of equipping part...",
-      "url": "https://csrwire.com/press-release/lenovo-launches-talent-program-train-saudi-graduates-smart-manufacturing-partnership-human/",
-      "publishedAt": "2026-01-27T09:45:00",
-      "content": "The initiative will see 100 Saudi graduates seconded to Lenovo’s Riyadh manufacturing facility as well as other global facilities for advanced on-the-job experience, with the goal of equipping part..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Visualizing Student Success: TCS’ Tech4HOPE Program Helps NAF Improve Educational Outcomes",
-      "description": "For years, student need in the U.S. has been measured by relative poverty alone and specifically by student eligibility for free and reduced-price lunches, while ignoring other factors.",
-      "url": "https://csrwire.com/press-release/visualizing-student-success-tcs-tech4hope-program-helps-naf-improve-educational-outcomes/",
-      "publishedAt": "2026-01-27T09:30:00",
-      "content": "For years, student need in the U.S. has been measured by relative poverty alone and specifically by student eligibility for free and reduced-price lunches, while ignoring other factors."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG Named One of 2026 America’s Most Responsible Companies by Newsweek",
-      "description": "We’re honored to be named one of the 2026 America’s Most Responsible Companies by Newsweek – and are especially proud to be ranked in the top 10.",
-      "url": "https://csrwire.com/press-release/pseg-named-one-2026-americas-most-responsible-companies-newsweek/",
-      "publishedAt": "2026-01-27T08:55:00",
-      "content": "We’re honored to be named one of the 2026 America’s Most Responsible Companies by Newsweek – and are especially proud to be ranked in the top 10."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A woodpecker with a difference – it’s not pecking at wood | Charlie Elder",
-      "description": "West Dartmoor, Devon: It’s quite normal for greater spotteds to start staking out territories in January, less so on a plastic box near my bedroom windowThe electrical junction box, fixed to the to...",
-      "url": "https://www.theguardian.com/environment/2026/jan/28/country-diary-a-woodpecker-with-a-difference-its-not-pecking-at-wood",
-      "publishedAt": "2026-01-28T05:30:04",
-      "content": "West Dartmoor, Devon: It’s quite normal for greater spotteds to start staking out territories in January, less so on a plastic box near my bedroom windowThe electrical junction box, fixed to the to..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘My Tesla has become ordinary’: Turkey catches up with EU in electric car sales",
-      "description": "Popularity of EVs in country is part of global trend of emerging markets spurning fossil fuel cars at surprising speedsWhen Berke Astarcıoğlu bought a BMW i3 in 2016, he was one of just 44 people i...",
-      "url": "https://www.theguardian.com/environment/2026/jan/28/turkey-eu-electric-car-sales",
-      "publishedAt": "2026-01-28T05:00:04",
-      "content": "Popularity of EVs in country is part of global trend of emerging markets spurning fossil fuel cars at surprising speedsWhen Berke Astarcıoğlu bought a BMW i3 in 2016, he was one of just 44 people i..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Despite Limited Interest in Drilling on Federal Land, Forest Service ‘Streamlines’ Oil and Gas Leasing Rules",
-      "description": "The U.",
-      "url": "https://insideclimatenews.org/news/27012026/forest-service-streamlines-oil-and-gas-leasing-rules/",
-      "publishedAt": "2026-01-27T23:28:27",
-      "content": "The U."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -463,17 +562,6 @@
       "url": "https://triplepundit.com/2026/salon-waste-hair-recycling-mulch-fertilizer/",
       "publishedAt": "2026-01-23T18:45:16",
       "content": "Most of us don't think twice about where our trimmed hair ends up after the salon. These companies are bringing it to the farm. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "This New AI Tool Helps Recruiters See Skilled Immigrant Talent and Fill Jobs Faster",
-      "description": "Across the United States, skilled immigrants are driving Ubers and working service jobs while employers struggle to fill vacant positions.",
-      "url": "https://triplepundit.com/2026/ai-that-helps-recruiters-see-skilled-immigrant-talent-and-fill-jobs-faster/",
-      "publishedAt": "2026-01-22T19:29:05",
-      "content": "Across the United States, skilled immigrants are driving Ubers and working service jobs while employers struggle to fill vacant positions."
     }
   ]
 }
