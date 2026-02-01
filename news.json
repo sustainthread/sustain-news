@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 43,
   "articles": [
     {
       "source": {
@@ -12,6 +12,17 @@
       "url": "https://www.esgtoday.com/enfinity-starts-up-new-solar-project-to-provide-clean-energy-to-microsoft-in-italy/?utm_source=rss&utm_medium=rss&utm_campaign=enfinity-starts-up-new-solar-project-to-provide-clean-energy-to-microsoft-in-italy",
       "publishedAt": "2026-01-30T12:31:19",
       "content": "Renewable energy solutions provider Enfinity Global announced that it has begun commercial operations at a"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Promising Renewable Energy That Democrats and Republicans Actually Agree On",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, a conversation between producer Jenni Doering and Inside Climate News reporter Phil McKenna. As brutal co...",
+      "url": "https://insideclimatenews.org/news/31012026/the-promising-renewable-energy-that-democrats-and-republicans-actually-agree-on/",
+      "publishedAt": "2026-01-31T10:00:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, a conversation between producer Jenni Doering and Inside Climate News reporter Phil McKenna. As brutal co..."
     },
     {
       "source": {
@@ -59,39 +70,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Homes may have to be abandoned’: how climate crisis has reshaped Britain’s flood risk",
-      "description": "As rivers swell and homes are cut off, scientists say UK winter rainfall is already 20 years ahead of predictionsWhen flooding hit the low-lying Somerset Levels in 2014, it took two months for the ...",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/jan/31/climate-crisis-flood-risk-britain",
-      "publishedAt": "2026-01-31T06:00:51",
-      "content": "As rivers swell and homes are cut off, scientists say UK winter rainfall is already 20 years ahead of predictionsWhen flooding hit the low-lying Somerset Levels in 2014, it took two months for the ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Algae Growth on Greenland’s Ice Contributes to Melting, Studies Show",
-      "description": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
-      "url": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
-      "publishedAt": "2026-01-30T17:11:07",
-      "content": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Developer Calls GW Ranch in Pecos County, Texas, the ‘Largest Power Project’ in U.S.",
-      "description": "Texas’ environmental regulator this week issued the largest air pollution permit in the country to an enormous planned complex of gas power plants and data centers near the oilfields of the Permian...",
-      "url": "https://insideclimatenews.org/news/29012026/developer-calls-gw-ranch-in-pecos-county-texas-the-largest-power-project-in-u-s/",
-      "publishedAt": "2026-01-29T11:22:51",
-      "content": "Texas’ environmental regulator this week issued the largest air pollution permit in the country to an enormous planned complex of gas power plants and data centers near the oilfields of the Permian..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -117,22 +95,33 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "US leads record global surge in gas-fired power driven by AI demands, with big costs for the climate",
-      "description": "Projects in development expected to grow global capacity by nearly 50% amid growing concern over impact on planetThe US is leading a huge global surge in new gas-fired power generation that will ca...",
-      "url": "https://www.theguardian.com/environment/2026/jan/29/gas-power-ai-climate",
-      "publishedAt": "2026-01-29T13:58:58",
-      "content": "Projects in development expected to grow global capacity by nearly 50% amid growing concern over impact on planetThe US is leading a huge global surge in new gas-fired power generation that will ca..."
+      "title": "‘Homes may have to be abandoned’: how climate crisis has reshaped Britain’s flood risk",
+      "description": "As rivers swell and homes are cut off, scientists say UK winter rainfall is already 20 years ahead of predictionsWhen flooding hit the low-lying Somerset Levels in 2014, it took two months for the ...",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jan/31/climate-crisis-flood-risk-britain",
+      "publishedAt": "2026-01-31T06:00:51",
+      "content": "As rivers swell and homes are cut off, scientists say UK winter rainfall is already 20 years ahead of predictionsWhen flooding hit the low-lying Somerset Levels in 2014, it took two months for the ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Algae Growth on Greenland’s Ice Contributes to Melting, Studies Show",
+      "description": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region.",
+      "url": "https://www.nytimes.com/2026/01/30/climate/greenland-algae-melting-icesheet.html",
+      "publishedAt": "2026-01-30T17:11:07",
+      "content": "New studies show how algae grows on ice and snow, creating “dark zones” that exacerbate melting in the consequential region."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Amid National Call to Make Polluters Pay, Illinois Lawmakers Are Prepping a Climate Change Superfund Bill",
-      "description": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states seeking to make fossil fuel companies pay up for...",
-      "url": "https://insideclimatenews.org/news/28012026/amid-national-call-to-make-polluters-pay-illinois-lawmakers-are-prepping-a-climate-change-superfund-bill/",
-      "publishedAt": "2026-01-29T00:03:56",
-      "content": "Illinois lawmakers plan to introduce a climate change superfund bill in the state legislature this session, the latest in a growing number of states seeking to make fossil fuel companies pay up for..."
+      "title": "Protesters Target Cargill at One of the Company’s Major Amazonian Ports",
+      "description": "As new threats emerge against the Amazon, Indigenous and environmental groups are taking aim at Cargill, the Minnesota-based grain-trading giant they see as the greatest foe of the planet’s most cl...",
+      "url": "https://insideclimatenews.org/news/31012026/protesters-target-cargill-at-one-of-the-companys-major-amazonian-ports/",
+      "publishedAt": "2026-01-31T09:57:00",
+      "content": "As new threats emerge against the Amazon, Indigenous and environmental groups are taking aim at Cargill, the Minnesota-based grain-trading giant they see as the greatest foe of the planet’s most cl..."
     },
     {
       "source": {
@@ -144,6 +133,72 @@
       "url": "https://goodonyou.eco/more-sustainable-activewear-from-bam/",
       "publishedAt": "2026-01-28T16:12:04",
       "content": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Environmental Impact of Animal Products in Fashion",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/the-environmental-impact-of-animal-products-in-fashion/",
+      "publishedAt": "2026-01-27T23:00:31",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Step Into Cruelty-Free Fashion With These 14 Sustainable Vegan Shoes",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-vegan-shoes/",
+      "publishedAt": "2026-01-26T23:00:12",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Better Brand Edit: Size-Inclusive Activewear From More Sustainable Labels",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/size-inclusive-activewear-from-more-sustainable-brands/",
+      "publishedAt": "2026-01-25T23:00:52",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Oil, Gas and Petrochemical Facilities in Texas Emitted 1.6 Million Pounds of Regulated Pollutants During Last Week’s Icy Weather",
+      "description": "As freezing temperatures swept over West Texas last week, leaky pipeline systems in the Permian Basin of West Texas began to suck in air, spoiling their products, risking an explosion and leading o...",
+      "url": "https://insideclimatenews.org/news/31012026/oil-gas-and-petrochemical-facilities-emitted-1-6-million-pounds-of-regulated-pollutants-during-last-weeks-icy-weather/",
+      "publishedAt": "2026-01-31T10:01:00",
+      "content": "As freezing temperatures swept over West Texas last week, leaky pipeline systems in the Permian Basin of West Texas began to suck in air, spoiling their products, risking an explosion and leading o..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+      "description": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
+      "url": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+      "publishedAt": "2026-01-31T10:00:56",
+      "content": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Florida, Questions Surround the State’s Attempt to Expand Its Role in Everglades Restoration",
+      "description": "A few weeks after the U.",
+      "url": "https://insideclimatenews.org/news/31012026/questions-surround-floridas-attempt-to-expand-its-role-in-everglades-restoration/",
+      "publishedAt": "2026-01-31T10:00:00",
+      "content": "A few weeks after the U."
     },
     {
       "source": {
@@ -224,127 +279,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Environmental Impact of Animal Products in Fashion",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/the-environmental-impact-of-animal-products-in-fashion/",
-      "publishedAt": "2026-01-27T23:00:31",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Step Into Cruelty-Free Fashion With These 14 Sustainable Vegan Shoes",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-vegan-shoes/",
-      "publishedAt": "2026-01-26T23:00:12",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Better Brand Edit: Size-Inclusive Activewear From More Sustainable Labels",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/size-inclusive-activewear-from-more-sustainable-brands/",
-      "publishedAt": "2026-01-25T23:00:52",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Could the Hudson River Freeze Over?",
-      "description": "New York City is icy and cold right now, but you’re probably not going to be able to walk to New Jersey any time soon.",
-      "url": "https://www.nytimes.com/2026/01/30/weather/hudson-river-new-york-frozen.html",
-      "publishedAt": "2026-01-31T01:52:02",
-      "content": "New York City is icy and cold right now, but you’re probably not going to be able to walk to New Jersey any time soon."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: USCTP Bolsters Leadership, Arc’teryx Expands C-Suite",
-      "description": "Marjory Walker and Liz Hershfield join U.S. Cotton Trust Protocol as co-directors while Arc’teryx snags ex-Tommy Hilfiger lead as debut brand officer.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-usctp-bolsters-leadership-arcteryx-1234807651/",
-      "publishedAt": "2026-01-30T21:21:42",
-      "content": "Marjory Walker and Liz Hershfield join U.S. Cotton Trust Protocol as co-directors while Arc’teryx snags ex-Tommy Hilfiger lead as debut brand officer."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
-      "description": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
-      "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
-      "publishedAt": "2026-01-30T20:15:30",
-      "content": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Tesla’s Model S, Soon to Be History, Changed the Auto Industry",
-      "description": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X.",
-      "url": "https://www.nytimes.com/2026/01/30/business/tesla-model-s-history.html",
-      "publishedAt": "2026-01-30T19:59:39",
-      "content": "The company’s chief executive, Elon Musk, said this week that it would stop making the car, an electric pioneer in 2012, as well as the Model X."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Panama Court Voids Hutchison Ports Contract, Derailing $23B MSC-BlackRock Sale",
-      "description": "APM Terminals will temporarily oversee Balboa and Cristóbal after Panama's Supreme Court ruled the Hong Kong operator’s concession with the government unconstitutional.",
-      "url": "https://sourcingjournal.com/topics/logistics/panama-supreme-court-ck-hutchison-ports-contract-balboa-cristobal-unconstitutional-msc-blackrock-apm-terminals-1234807645/",
-      "publishedAt": "2026-01-30T19:04:35",
-      "content": "APM Terminals will temporarily oversee Balboa and Cristóbal after Panama's Supreme Court ruled the Hong Kong operator’s concession with the government unconstitutional."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Drilling Through the Thwaites Glacier for Clues to Its Melting",
-      "description": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice.",
-      "url": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
-      "publishedAt": "2026-01-30T17:59:02",
-      "content": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Maine Again Looks North for Onshore Wind, but Full Grid Integration Will Have to Wait",
-      "description": "New wind projects could be coming to Northern Maine–just not new power.",
-      "url": "https://insideclimatenews.org/news/30012026/maine-again-looks-north-for-onshore-wind-but-full-grid-integration-will-have-to-wait/",
-      "publishedAt": "2026-01-30T10:00:00",
-      "content": "New wind projects could be coming to Northern Maine–just not new power."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In Arizona, Utilities and State Regulators Double Down on Fossil Fuels and Higher Costs Despite Residents’ Opposition",
-      "description": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Freeman explained how she, like nearly everyone e...",
-      "url": "https://insideclimatenews.org/news/30012026/in-arizona-utilities-and-state-regulators-double-down-on-fossil-fuels-and-higher-costs-despite-opposition-from-residents/",
-      "publishedAt": "2026-01-30T09:45:00",
-      "content": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Freeman explained how she, like nearly everyone e..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -411,6 +345,94 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Could the Hudson River Freeze Over?",
+      "description": "New York City is icy and cold right now, but you’re probably not going to be able to walk to New Jersey any time soon.",
+      "url": "https://www.nytimes.com/2026/01/30/weather/hudson-river-new-york-frozen.html",
+      "publishedAt": "2026-01-31T01:52:02",
+      "content": "New York City is icy and cold right now, but you’re probably not going to be able to walk to New Jersey any time soon."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: USCTP Bolsters Leadership, Arc’teryx Expands C-Suite",
+      "description": "Marjory Walker and Liz Hershfield join U.S. Cotton Trust Protocol as co-directors while Arc’teryx snags ex-Tommy Hilfiger lead as debut brand officer.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-usctp-bolsters-leadership-arcteryx-1234807651/",
+      "publishedAt": "2026-01-30T21:21:42",
+      "content": "Marjory Walker and Liz Hershfield join U.S. Cotton Trust Protocol as co-directors while Arc’teryx snags ex-Tommy Hilfiger lead as debut brand officer."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Svalbard Polar Bears Are Getting Fatter (for Now), Study Finds",
+      "description": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary.",
+      "url": "https://www.nytimes.com/2026/01/29/climate/polar-bears-svalbard.html",
+      "publishedAt": "2026-01-30T20:15:30",
+      "content": "Seals favored by Svalbard bears are becoming easier to hunt as ice declines, a study found. But researchers say the situation may be temporary."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Panama Court Voids Hutchison Ports Contract, Derailing $23B MSC-BlackRock Sale",
+      "description": "APM Terminals will temporarily oversee Balboa and Cristóbal after Panama's Supreme Court ruled the Hong Kong operator’s concession with the government unconstitutional.",
+      "url": "https://sourcingjournal.com/topics/logistics/panama-supreme-court-ck-hutchison-ports-contract-balboa-cristobal-unconstitutional-msc-blackrock-apm-terminals-1234807645/",
+      "publishedAt": "2026-01-30T19:04:35",
+      "content": "APM Terminals will temporarily oversee Balboa and Cristóbal after Panama's Supreme Court ruled the Hong Kong operator’s concession with the government unconstitutional."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Drilling Through the Thwaites Glacier for Clues to Its Melting",
+      "description": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice.",
+      "url": "https://www.nytimes.com/2026/01/30/climate/antarctica-thwaites-glacier-drilling.html",
+      "publishedAt": "2026-01-30T17:59:02",
+      "content": "A team hopes to place instruments in the waters beneath the colossal Thwaites Glacier, with the help of a drill that uses hot water to punch through ice."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Day and night, there’s no relief: five ways this heatwave is one of Australia’s worst on record",
+      "description": "Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves Get our breaking news email, free app or daily news podc...",
+      "url": "https://www.theguardian.com/environment/2026/jan/31/day-and-night-theres-no-relief-five-ways-this-heatwave-is-one-of-australias-worst-on-record",
+      "publishedAt": "2026-01-30T14:00:23",
+      "content": "Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves Get our breaking news email, free app or daily news podc..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maine Again Looks North for Onshore Wind, but Full Grid Integration Will Have to Wait",
+      "description": "New wind projects could be coming to Northern Maine–just not new power.",
+      "url": "https://insideclimatenews.org/news/30012026/maine-again-looks-north-for-onshore-wind-but-full-grid-integration-will-have-to-wait/",
+      "publishedAt": "2026-01-30T10:00:00",
+      "content": "New wind projects could be coming to Northern Maine–just not new power."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Arizona, Utilities and State Regulators Double Down on Fossil Fuels and Higher Costs Despite Residents’ Opposition",
+      "description": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Freeman explained how she, like nearly everyone e...",
+      "url": "https://insideclimatenews.org/news/30012026/in-arizona-utilities-and-state-regulators-double-down-on-fossil-fuels-and-higher-costs-despite-opposition-from-residents/",
+      "publishedAt": "2026-01-30T09:45:00",
+      "content": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Freeman explained how she, like nearly everyone e..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -419,17 +441,6 @@
       "url": "https://www.theguardian.com/environment/2026/jan/30/wales-brown-hairstreak-butterfly-landowners-conservation",
       "publishedAt": "2026-01-30T06:00:12",
       "content": "More than 300 brown hairstreak butterfly eggs discovered near Llandeilo this winter after decade of declineRecord numbers of eggs of the rare brown hairstreak butterfly have been found in south-wes..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Bit by bit, bird by bird, our wildlife is waking up | Josie George",
-      "description": "Stoke-on-Trent, Staffordshire: No finches yet and only a single thrush, but tuning into January’s sounds has revealed that nature is beginning to stirIf my teenage son hadn’t mentioned it one grey ...",
-      "url": "https://www.theguardian.com/environment/2026/jan/30/country-diary-bit-by-bit-bird-by-bird-our-wildlife-is-waking-up",
-      "publishedAt": "2026-01-30T05:30:11",
-      "content": "Stoke-on-Trent, Staffordshire: No finches yet and only a single thrush, but tuning into January’s sounds has revealed that nature is beginning to stirIf my teenage son hadn’t mentioned it one grey ..."
     },
     {
       "source": {
@@ -455,17 +466,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Feels like a losing battle’: the fight against flooding in Somerset",
-      "description": "Emergency pumps are deployed in attempt to stop water inundating homes around River Parrett‘Like a sea out there’: flooded Somerset residents wonder how water can be managedSince medieval monks sta...",
-      "url": "https://www.theguardian.com/uk-news/2026/jan/29/somerset-fight-against-flooding-emergency-pumps-river-parrett",
-      "publishedAt": "2026-01-29T16:18:10",
-      "content": "Emergency pumps are deployed in attempt to stop water inundating homes around River Parrett‘Like a sea out there’: flooded Somerset residents wonder how water can be managedSince medieval monks sta..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -474,61 +474,6 @@
       "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-01-29T16:00:09",
       "content": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Global Energy Transition Investment Grew in 2025 Despite Major Obstacles; Here Are the Numbers",
-      "description": "Global investment in the energy transition rose to $2.",
-      "url": "https://insideclimatenews.org/news/29012026/global-energy-transition-investment-grew-in-2025-inside-clean-energy/",
-      "publishedAt": "2026-01-29T14:00:00",
-      "content": "Global investment in the energy transition rose to $2."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Baltimore bridge collapse: crew members from ship still held by US two years on",
-      "description": "Despite no criminal charges being brought against them, four officers have been detained since the MV Dali struck the Francis Scott Key Bridge, killing six workersSeveral crew members of a ship tha...",
-      "url": "https://www.theguardian.com/environment/2026/jan/29/baltimore-francis-stock-key-bridge-collapse-crew-members-mv-dali-ship-still-held-by-us",
-      "publishedAt": "2026-01-29T11:00:23",
-      "content": "Despite no criminal charges being brought against them, four officers have been detained since the MV Dali struck the Francis Scott Key Bridge, killing six workersSeveral crew members of a ship tha..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Data Centers in PJM Grid Can Rely Solely on Generators During the Cold, DOE Rules",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/29012026/data-centers-in-pjm-grid-can-rely-solely-on-generators-during-the-cold-doe-rules/",
-      "publishedAt": "2026-01-29T09:50:00",
-      "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "10 Clothing Brands From India Making Waves in Responsible Fashion",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-brands-from-india/",
-      "publishedAt": "2026-01-28T23:00:08",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Sunken Thames barges create new island for birds",
-      "description": "The National Trust describes the Northey Island project as \"a bold marine engineering feat\".",
-      "url": "https://www.bbc.com/news/articles/cvg5zw5l42xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-28T07:02:44",
-      "content": "The National Trust describes the Northey Island project as \"a bold marine engineering feat\"."
     }
   ]
 }
