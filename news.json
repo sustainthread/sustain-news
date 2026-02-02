@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 38,
   "articles": [
     {
       "source": {
@@ -59,6 +59,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fossil fuel firms may have to pay for climate damage under proposed UN tax",
+      "description": "Framework Convention on International Tax Cooperation could also force ultra-rich to pay global wealth tax Fossil fuel companies could be forced to pay some of the price of their damage to the clim...",
+      "url": "https://www.theguardian.com/environment/2026/feb/01/fossil-fuel-firms-may-have-to-pay-for-climate-damage-under-proposed-un-tax",
+      "publishedAt": "2026-02-01T12:00:28",
+      "content": "Framework Convention on International Tax Cooperation could also force ultra-rich to pay global wealth tax Fossil fuel companies could be forced to pay some of the price of their damage to the clim..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -67,28 +78,6 @@
       "url": "https://www.esgtoday.com/voyager-ventures-launches-275-million-fund-to-invest-in-energy-industrial-climate-tech-startups/?utm_source=rss&utm_medium=rss&utm_campaign=voyager-ventures-launches-275-million-fund-to-invest-in-energy-industrial-climate-tech-startups",
       "publishedAt": "2026-01-30T10:05:29",
       "content": "Early-stage venture capital firm Voyager Ventures announced that it has raised $275 million for its"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BMI Launches Country-Level ESG and Climate Risk Data Solution",
-      "description": "Fitch Solution’s country, political and industry insights-focused data and analytics provider BMI announced the launch",
-      "url": "https://www.esgtoday.com/bmi-expands-country-level-esg-and-climate-risk-data-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bmi-expands-country-level-esg-and-climate-risk-data-solution",
-      "publishedAt": "2026-01-29T11:21:53",
-      "content": "Fitch Solution’s country, political and industry insights-focused data and analytics provider BMI announced the launch"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "The Footprint Firm Raises €76 Million to Back Climate Tech Startups",
-      "description": "The Footprint Firm announced the final closing of its €76 million venture fund, FootPrint Fund",
-      "url": "https://www.esgtoday.com/the-footprint-firm-raises-e76-million-to-back-climate-tech-startups/?utm_source=rss&utm_medium=rss&utm_campaign=the-footprint-firm-raises-e76-million-to-back-climate-tech-startups",
-      "publishedAt": "2026-01-29T09:52:47",
-      "content": "The Footprint Firm announced the final closing of its €76 million venture fund, FootPrint Fund"
     },
     {
       "source": {
@@ -114,14 +103,25 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "Protesters Target Cargill at One of the Company’s Major Amazonian Ports",
-      "description": "As new threats emerge against the Amazon, Indigenous and environmental groups are taking aim at Cargill, the Minnesota-based grain-trading giant they see as the greatest foe of the planet’s most cl...",
-      "url": "https://insideclimatenews.org/news/31012026/protesters-target-cargill-at-one-of-the-companys-major-amazonian-ports/",
-      "publishedAt": "2026-01-31T09:57:00",
-      "content": "As new threats emerge against the Amazon, Indigenous and environmental groups are taking aim at Cargill, the Minnesota-based grain-trading giant they see as the greatest foe of the planet’s most cl..."
+      "author": "ESG Today",
+      "title": "BMI Launches Country-Level ESG and Climate Risk Data Solution",
+      "description": "Fitch Solution’s country, political and industry insights-focused data and analytics provider BMI announced the launch",
+      "url": "https://www.esgtoday.com/bmi-expands-country-level-esg-and-climate-risk-data-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bmi-expands-country-level-esg-and-climate-risk-data-solution",
+      "publishedAt": "2026-01-29T11:21:53",
+      "content": "Fitch Solution’s country, political and industry insights-focused data and analytics provider BMI announced the launch"
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Subhash Palekar: A crusader for sustainable, spiritual Zero Budget Natural Farming",
+      "description": "His model, now called as the Subhash Palekar Krushi, consists of seven steps — no cultivation, seed treatment with Beejamrut, nutrition with Jeevamrut, five-layer farming, no weeding, no use of fer...",
+      "url": "https://www.thehindu.com/news/national/karnataka/subhash-palekar-a-crusader-for-sustainable-spiritual-zero-budget-natural-farming/article70577414.ece",
+      "publishedAt": "2026-02-01T13:31:12",
+      "content": "His model, now called as the Subhash Palekar Krushi, consists of seven steps — no cultivation, seed treatment with Beejamrut, nutrition with Jeevamrut, five-layer farming, no weeding, no use of fer..."
     },
     {
       "source": {
@@ -158,47 +158,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Inside Climate News"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: Size-Inclusive Activewear From More Sustainable Labels",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/size-inclusive-activewear-from-more-sustainable-brands/",
-      "publishedAt": "2026-01-25T23:00:52",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+      "author": "Inside Climate News",
+      "title": "With Waters Rising, Pennsylvania’s Historical Treasures Must ‘Adapt or Collapse’",
+      "description": "PHILADELPHIA—Karen Young stood in a cavernous room perched on the edge of the Schuylkill River that was once a public swimming pool.",
+      "url": "https://insideclimatenews.org/news/01022026/with-waters-rising-pennsylvanias-historical-treasures-must-adapt-or-collapse/",
+      "publishedAt": "2026-02-01T10:00:00",
+      "content": "PHILADELPHIA—Karen Young stood in a cavernous room perched on the edge of the Schuylkill River that was once a public swimming pool."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Oil, Gas and Petrochemical Facilities in Texas Emitted 1.6 Million Pounds of Regulated Pollutants During Last Week’s Icy Weather",
-      "description": "As freezing temperatures swept over West Texas last week, leaky pipeline systems in the Permian Basin of West Texas began to suck in air, spoiling their products, risking an explosion and leading o...",
-      "url": "https://insideclimatenews.org/news/31012026/oil-gas-and-petrochemical-facilities-emitted-1-6-million-pounds-of-regulated-pollutants-during-last-weeks-icy-weather/",
-      "publishedAt": "2026-01-31T10:01:00",
-      "content": "As freezing temperatures swept over West Texas last week, leaky pipeline systems in the Permian Basin of West Texas began to suck in air, spoiling their products, risking an explosion and leading o..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
-      "description": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
-      "url": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
-      "publishedAt": "2026-01-31T10:00:56",
-      "content": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In Florida, Questions Surround the State’s Attempt to Expand Its Role in Everglades Restoration",
-      "description": "A few weeks after the U.",
-      "url": "https://insideclimatenews.org/news/31012026/questions-surround-floridas-attempt-to-expand-its-role-in-everglades-restoration/",
-      "publishedAt": "2026-01-31T10:00:00",
-      "content": "A few weeks after the U."
+      "title": "Protesters Target Cargill at One of the Company’s Major Amazonian Ports",
+      "description": "As new threats emerge against the Amazon, Indigenous and environmental groups are taking aim at Cargill, the Minnesota-based grain-trading giant they see as the greatest foe of the planet’s most cl...",
+      "url": "https://insideclimatenews.org/news/31012026/protesters-target-cargill-at-one-of-the-companys-major-amazonian-ports/",
+      "publishedAt": "2026-01-31T09:57:00",
+      "content": "As new threats emerge against the Amazon, Indigenous and environmental groups are taking aim at Cargill, the Minnesota-based grain-trading giant they see as the greatest foe of the planet’s most cl..."
     },
     {
       "source": {
@@ -279,69 +257,58 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "BBC"
       },
-      "author": "Triple Pundit",
-      "title": "We, the People: Defending the U.S. Constitution As Immigration Raids Threaten Basic Rights",
-      "description": "With administration officials saying agents are immune to accountability, many are understandably wondering: What rights do I have when interacting with federal immigration forces, and do those rig...",
-      "url": "https://triplepundit.com/2026/us-constitution-ice-immigration-raids/",
-      "publishedAt": "2026-01-29T23:12:22",
-      "content": "With administration officials saying agents are immune to accountability, many are understandably wondering: What rights do I have when interacting with federal immigration forces, and do those rig..."
+      "author": "BBC",
+      "title": "Musk's SpaceX applies to launch a million satellites into orbit",
+      "description": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence.",
+      "url": "https://www.bbc.com/news/articles/cyv5l24mrjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-01-31T16:19:17",
+      "content": "The firm wants to create a network of \"orbital data centres\" to power artificial intelligence."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "New Holland Showcases R4 Autonomous Robot at GOFAR Field Day France",
-      "description": "The R4 hybrid power unit from CNH brand, New Holland, is to feature at one of Europe’s leading dedicated agricultural robotics events, GOFAR Field Day France.",
-      "url": "https://csrwire.com/press-release/new-holland-showcases-r4-autonomous-robot-gofar-field-day-france/",
-      "publishedAt": "2026-01-29T16:00:00",
-      "content": "The R4 hybrid power unit from CNH brand, New Holland, is to feature at one of Europe’s leading dedicated agricultural robotics events, GOFAR Field Day France."
+      "author": "Inside Climate News",
+      "title": "Oil, Gas and Petrochemical Facilities in Texas Emitted 1.6 Million Pounds of Regulated Pollutants During Last Week’s Icy Weather",
+      "description": "As freezing temperatures swept over West Texas last week, leaky pipeline systems in the Permian Basin of West Texas began to suck in air, spoiling their products, risking an explosion and leading o...",
+      "url": "https://insideclimatenews.org/news/31012026/oil-gas-and-petrochemical-facilities-emitted-1-6-million-pounds-of-regulated-pollutants-during-last-weeks-icy-weather/",
+      "publishedAt": "2026-01-31T10:01:00",
+      "content": "As freezing temperatures swept over West Texas last week, leaky pipeline systems in the Permian Basin of West Texas began to suck in air, spoiling their products, risking an explosion and leading o..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "Puro.earth Launches New Service to Enable More Frequent Carbon Credit Issuance by Suppliers",
-      "description": "Carbon-crediting platform Puro.earth announced the launch of Puro Issuance Plus, a new service aimed at helping",
-      "url": "https://www.esgtoday.com/puro-earth-launches-new-service-to-enable-more-frequent-carbon-credit-issuance-by-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-launches-new-service-to-enable-more-frequent-carbon-credit-issuance-by-suppliers",
-      "publishedAt": "2026-01-29T14:33:25",
-      "content": "Carbon-crediting platform Puro.earth announced the launch of Puro Issuance Plus, a new service aimed at helping"
+      "author": "New York Times",
+      "title": "Energy Bills Have Soared Recently. How Can States Bring Costs Down?",
+      "description": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them.",
+      "url": "https://www.nytimes.com/2026/01/31/business/energy-environment/energy-bills-costs-states-trump-power-plants.html",
+      "publishedAt": "2026-01-31T10:00:56",
+      "content": "Energy experts said that governors and legislatures have tools to keep electricity prices from rising further, and might even be able to lower them."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Florida, Questions Surround the State’s Attempt to Expand Its Role in Everglades Restoration",
+      "description": "A few weeks after the U.",
+      "url": "https://insideclimatenews.org/news/31012026/questions-surround-floridas-attempt-to-expand-its-role-in-everglades-restoration/",
+      "publishedAt": "2026-01-31T10:00:00",
+      "content": "A few weeks after the U."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘Pesticide cocktails’ polluting apples across Europe, study finds",
-      "description": "Pan Europe found several pesticide residues in 85% of apples, with some showing traces of up to seven chemicalsEnvironmental groups have raised the alarm after finding toxic “pesticide cocktails” i...",
-      "url": "https://www.theguardian.com/environment/2026/jan/29/pesticide-cocktails-pollute-apples-europe-chemicals",
-      "publishedAt": "2026-01-29T12:38:35",
-      "content": "Pan Europe found several pesticide residues in 85% of apples, with some showing traces of up to seven chemicalsEnvironmental groups have raised the alarm after finding toxic “pesticide cocktails” i..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI Expands WELL With Two New Ratings To Help Real Estate Leaders Deliver on Investor and Tenant Demands",
-      "description": "The International WELL Building Institute (IWBI), the global authority for driving market transformation through healthy buildings, organizations and communities, today announced a significant expa...",
-      "url": "https://csrwire.com/press-release/iwbi-expands-well-two-new-ratings-help-real-estate-leaders-deliver-investor-and-tenant-demands/",
-      "publishedAt": "2026-01-29T10:35:00",
-      "content": "The International WELL Building Institute (IWBI), the global authority for driving market transformation through healthy buildings, organizations and communities, today announced a significant expa..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Wells Fargo Launches In-House Voting System to Cut Reliance on Proxy Advisors",
-      "description": "Wells Fargo Wealth & Investment Management (WIM), one of the largest wealth managers in the",
-      "url": "https://www.esgtoday.com/wells-fargo-launches-in-house-proxy-voting-system-to-cut-reliance-on-advisors/?utm_source=rss&utm_medium=rss&utm_campaign=wells-fargo-launches-in-house-proxy-voting-system-to-cut-reliance-on-advisors",
-      "publishedAt": "2026-01-29T10:33:08",
-      "content": "Wells Fargo Wealth & Investment Management (WIM), one of the largest wealth managers in the"
+      "title": "Electric ​cars ​go ​mainstream as ​adoption ​surges ​across ​rich and ​developing ​nations",
+      "description": "A wave of affordable Chinese-made EVs is accelerating the shift away from petrol cars, challenging long‑held assumptions about how transport decarbonisation unfolds• Don’t get Down to Earth deliver...",
+      "url": "https://www.theguardian.com/environment/2026/jan/29/electric-cars-go-mainstream-as-adoption-surges-across-rich-and-developing-nations",
+      "publishedAt": "2026-01-31T07:00:54",
+      "content": "A wave of affordable Chinese-made EVs is accelerating the shift away from petrol cars, challenging long‑held assumptions about how transport decarbonisation unfolds• Don’t get Down to Earth deliver..."
     },
     {
       "source": {
@@ -400,80 +367,58 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "Day and night, there’s no relief: five ways this heatwave is one of Australia’s worst on record",
-      "description": "Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves Get our breaking news email, free app or daily news podc...",
-      "url": "https://www.theguardian.com/environment/2026/jan/31/day-and-night-theres-no-relief-five-ways-this-heatwave-is-one-of-australias-worst-on-record",
-      "publishedAt": "2026-01-30T14:00:23",
-      "content": "Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves Get our breaking news email, free app or daily news podc..."
+      "author": "Triple Pundit",
+      "title": "We, the People: Defending the U.S. Constitution As Immigration Raids Threaten Basic Rights",
+      "description": "With administration officials saying agents are immune to accountability, many are understandably wondering: What rights do I have when interacting with federal immigration forces, and do those rig...",
+      "url": "https://triplepundit.com/2026/us-constitution-ice-immigration-raids/",
+      "publishedAt": "2026-01-29T23:12:22",
+      "content": "With administration officials saying agents are immune to accountability, many are understandably wondering: What rights do I have when interacting with federal immigration forces, and do those rig..."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Maine Again Looks North for Onshore Wind, but Full Grid Integration Will Have to Wait",
-      "description": "New wind projects could be coming to Northern Maine–just not new power.",
-      "url": "https://insideclimatenews.org/news/30012026/maine-again-looks-north-for-onshore-wind-but-full-grid-integration-will-have-to-wait/",
-      "publishedAt": "2026-01-30T10:00:00",
-      "content": "New wind projects could be coming to Northern Maine–just not new power."
+      "author": "CSRWire",
+      "title": "New Holland Showcases R4 Autonomous Robot at GOFAR Field Day France",
+      "description": "The R4 hybrid power unit from CNH brand, New Holland, is to feature at one of Europe’s leading dedicated agricultural robotics events, GOFAR Field Day France.",
+      "url": "https://csrwire.com/press-release/new-holland-showcases-r4-autonomous-robot-gofar-field-day-france/",
+      "publishedAt": "2026-01-29T16:00:00",
+      "content": "The R4 hybrid power unit from CNH brand, New Holland, is to feature at one of Europe’s leading dedicated agricultural robotics events, GOFAR Field Day France."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "In Arizona, Utilities and State Regulators Double Down on Fossil Fuels and Higher Costs Despite Residents’ Opposition",
-      "description": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Freeman explained how she, like nearly everyone e...",
-      "url": "https://insideclimatenews.org/news/30012026/in-arizona-utilities-and-state-regulators-double-down-on-fossil-fuels-and-higher-costs-despite-opposition-from-residents/",
-      "publishedAt": "2026-01-30T09:45:00",
-      "content": "PHOENIX—Standing before a podium at an Arizona Corporation Commission public hearing—with none of the ACC’s elected officials there to listen—Doris Freeman explained how she, like nearly everyone e..."
+      "author": "ESG Today",
+      "title": "Puro.earth Launches New Service to Enable More Frequent Carbon Credit Issuance by Suppliers",
+      "description": "Carbon-crediting platform Puro.earth announced the launch of Puro Issuance Plus, a new service aimed at helping",
+      "url": "https://www.esgtoday.com/puro-earth-launches-new-service-to-enable-more-frequent-carbon-credit-issuance-by-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=puro-earth-launches-new-service-to-enable-more-frequent-carbon-credit-issuance-by-suppliers",
+      "publishedAt": "2026-01-29T14:33:25",
+      "content": "Carbon-crediting platform Puro.earth announced the launch of Puro Issuance Plus, a new service aimed at helping"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Rare butterflies bounce back after landowners in Wales cut back on flailing hedges",
-      "description": "More than 300 brown hairstreak butterfly eggs discovered near Llandeilo this winter after decade of declineRecord numbers of eggs of the rare brown hairstreak butterfly have been found in south-wes...",
-      "url": "https://www.theguardian.com/environment/2026/jan/30/wales-brown-hairstreak-butterfly-landowners-conservation",
-      "publishedAt": "2026-01-30T06:00:12",
-      "content": "More than 300 brown hairstreak butterfly eggs discovered near Llandeilo this winter after decade of declineRecord numbers of eggs of the rare brown hairstreak butterfly have been found in south-wes..."
+      "author": "CSRWire",
+      "title": "IWBI Expands WELL With Two New Ratings To Help Real Estate Leaders Deliver on Investor and Tenant Demands",
+      "description": "The International WELL Building Institute (IWBI), the global authority for driving market transformation through healthy buildings, organizations and communities, today announced a significant expa...",
+      "url": "https://csrwire.com/press-release/iwbi-expands-well-two-new-ratings-help-real-estate-leaders-deliver-investor-and-tenant-demands/",
+      "publishedAt": "2026-01-29T10:35:00",
+      "content": "The International WELL Building Institute (IWBI), the global authority for driving market transformation through healthy buildings, organizations and communities, today announced a significant expa..."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "Disaster Survivors Want Kristi Noem Out of FEMA",
-      "description": "Heather Talley’s life savings are tied up in a Swannanoa, North Carolina, home she can’t live in after Hurricane Helene.",
-      "url": "https://insideclimatenews.org/news/29012026/disaster-survivors-want-kristi-noem-out-of-fema/",
-      "publishedAt": "2026-01-29T23:08:02",
-      "content": "Heather Talley’s life savings are tied up in a Swannanoa, North Carolina, home she can’t live in after Hurricane Helene."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Why a New Mexico Developer Quit Natural Gas",
-      "description": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money.",
-      "url": "https://www.nytimes.com/2026/01/29/climate/why-a-new-mexico-developer-quit-natural-gas.html",
-      "publishedAt": "2026-01-29T16:52:39",
-      "content": "For John Moscato, a land developer in Las Cruces, N.M., installing gas lines at new home sites was “an ongoing headache.” Ditching gas saved him money."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Polar bears on Norwegian islands fatter and healthier despite ice loss, scientists say",
-      "description": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey.",
-      "url": "https://www.bbc.com/news/articles/cx2l1xpz03no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-01-29T16:00:09",
-      "content": "Scientists think that Svalbard bears have adapted to recent ice loss by eating more land-based prey."
+      "author": "ESG Today",
+      "title": "Wells Fargo Launches In-House Voting System to Cut Reliance on Proxy Advisors",
+      "description": "Wells Fargo Wealth & Investment Management (WIM), one of the largest wealth managers in the",
+      "url": "https://www.esgtoday.com/wells-fargo-launches-in-house-proxy-voting-system-to-cut-reliance-on-advisors/?utm_source=rss&utm_medium=rss&utm_campaign=wells-fargo-launches-in-house-proxy-voting-system-to-cut-reliance-on-advisors",
+      "publishedAt": "2026-01-29T10:33:08",
+      "content": "Wells Fargo Wealth & Investment Management (WIM), one of the largest wealth managers in the"
     }
   ]
 }
