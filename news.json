@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 40,
   "articles": [
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "MethaneSAT Releases First Global Assessment of Oil and Gas Climate Pollution",
+      "description": "MethaneSAT, the world’s most advanced methane-detecting satellite and first spacecraft owned by an environmental nonprofit, promised to usher in a new era of climate accountability when the device ...",
+      "url": "https://insideclimatenews.org/news/06022026/methanesat-climate-pollution-global-assessment/",
+      "publishedAt": "2026-02-06T10:00:00",
+      "content": "MethaneSAT, the world’s most advanced methane-detecting satellite and first spacecraft owned by an environmental nonprofit, promised to usher in a new era of climate accountability when the device ..."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -10,8 +21,19 @@
       "title": "More Sustainable Fashion Brand Offers This February 2026",
       "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-02-01T06:00:45",
+      "publishedAt": "2026-02-04T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Why Shein Dropped Its Net-Zero Claim in Germany",
+      "description": "The Chinese-founded e-tailer Goliath previously described the Science Based Targets initiative’s 2025 validation of its target as a \"milestone\" in its \"climate journey.\"",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/shein-germany-net-zero-claim-greenwashing-1234812938/",
+      "publishedAt": "2026-02-06T21:59:38",
+      "content": "The Chinese-founded e-tailer Goliath previously described the Science Based Targets initiative’s 2025 validation of its target as a \"milestone\" in its \"climate journey.\""
     },
     {
       "source": {
@@ -26,17 +48,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "One of Africa’s Most Important Water Sources Just Got Some Very Good News",
-      "description": "A vast wetland system that feeds water supplies for much of central and southern Africa has remained largely outside the global conservation spotlight, even as climate change and environmental degr...",
-      "url": "https://insideclimatenews.org/news/05022026/africa-angola-wetlands-global-recognition/",
-      "publishedAt": "2026-02-05T10:00:00",
-      "content": "A vast wetland system that feeds water supplies for much of central and southern Africa has remained largely outside the global conservation spotlight, even as climate change and environmental degr..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -45,6 +56,39 @@
       "url": "https://triplepundit.com/2026/urban-green-space-increasing-sustainable-development/",
       "publishedAt": "2026-02-02T22:51:56",
       "content": "Green space provides abundant advantages to urbanites, from cutting air pollution and managing heat islands to increasing physical activity."
+    },
+    {
+      "source": {
+        "name": "Euronews"
+      },
+      "author": "Euronews",
+      "title": "The world has pledged to triple climate financing for poorer countries. Is the UK about to U-turn?",
+      "description": "The UK government tells Euronews Green it is “modernising” its approach to international climate financing – but declined to comment on alleged cuts.",
+      "url": "http://www.euronews.com/green/2026/02/07/the-world-has-pledged-to-triple-climate-financing-for-poorer-countries-is-the-uk-about-to-",
+      "publishedAt": "2026-02-07T06:00:44",
+      "content": "The UK government tells Euronews Green it is “modernising” its approach to international climate financing – but declined to comment on alleged cuts."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Mundi Ventures Raises €750 Million for Deep Tech & Climate Growth Fund",
+      "description": "Spain-based venture capital firm Mundi Ventures announced the first close of its deep tech growth",
+      "url": "https://www.esgtoday.com/mundi-ventures-raises-e750-million-for-deep-tech-climate-growth-fund/?utm_source=rss&utm_medium=rss&utm_campaign=mundi-ventures-raises-e750-million-for-deep-tech-climate-growth-fund",
+      "publishedAt": "2026-02-06T12:51:17",
+      "content": "Spain-based venture capital firm Mundi Ventures announced the first close of its deep tech growth"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda",
+      "description": "The chemical, dicamba, is used to control weeds on genetically engineered crops. Courts previously had restricted its use.",
+      "url": "https://www.nytimes.com/2026/02/06/climate/epa-dicamba-drifting-herbicide-approval.html",
+      "publishedAt": "2026-02-07T01:21:27",
+      "content": "The chemical, dicamba, is used to control weeds on genetically engineered crops. Courts previously had restricted its use."
     },
     {
       "source": {
@@ -59,17 +103,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Strategic Agreement Between Alma Mater and CNH for Research, Innovation, and Sustainability",
-      "description": "The University of Bologna is strengthening its commitment to industrial collaboration through a new agreement with CNH, a leading global player in the manufacture of machinery, technology, and serv...",
-      "url": "https://csrwire.com/press-release/new-strategic-agreement-between-alma-mater-and-cnh-research-innovation-and-sustainability/",
-      "publishedAt": "2026-02-05T16:00:00",
-      "content": "The University of Bologna is strengthening its commitment to industrial collaboration through a new agreement with CNH, a leading global player in the manufacture of machinery, technology, and serv..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -78,28 +111,6 @@
       "url": "https://www.theguardian.com/environment/2026/feb/06/children-living-homes-wood-burners-exposed-pollution",
       "publishedAt": "2026-02-06T06:00:02",
       "content": "Research in Wales found that home, not outdoor travel, was largest contributor to children’s daily exposureChildren living in homes with wood burners could be exposed to over three times more pollu..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fumes, rats and maggots: peer urges Environment Agency to clear illegal dump in Wigan",
-      "description": "Shas Sheehan challenges refusal to remove 25,000 tonnes of waste causing ‘grave environmental hazard’ near schoolA 25,000-tonne illegal waste dump next to a primary school in Wigan presents “a grav...",
-      "url": "https://www.theguardian.com/environment/2026/feb/05/fumes-rats-and-maggots-peer-urges-environment-agency-to-clear-dump-in-wigan",
-      "publishedAt": "2026-02-05T09:13:20",
-      "content": "Shas Sheehan challenges refusal to remove 25,000 tonnes of waste causing ‘grave environmental hazard’ near schoolA 25,000-tonne illegal waste dump next to a primary school in Wigan presents “a grav..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The Green surge shows British politics has reached a turning point - and it has surprisingly little to do with Zack Polanski | Aditya Chakrabortty",
-      "description": "At a party event in a school hall in Lewisham, people told me how disillusionment with Labour has led to this moment“How many?”On the end of the phone is a nice press officer for the Greens, head f...",
-      "url": "https://www.theguardian.com/commentisfree/2026/feb/05/green-party-lewisham-zack-polanski-labour",
-      "publishedAt": "2026-02-05T06:00:23",
-      "content": "At a party event in a school hall in Lewisham, people told me how disillusionment with Labour has led to this moment“How many?”On the end of the phone is a nice press officer for the Greens, head f..."
     },
     {
       "source": {
@@ -114,14 +125,69 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Euronews"
       },
-      "author": "New York Times",
-      "title": "Babies, Robots and Climate Change",
-      "description": "It’s often assumed that lower birthrates could help slow climate change and A.I. disruption. The reality is more complex.",
-      "url": "https://www.nytimes.com/2026/02/04/world/population-decline-climate-change-ukraine-minneapolis.html",
-      "publishedAt": "2026-02-04T21:22:42",
-      "content": "It’s often assumed that lower birthrates could help slow climate change and A.I. disruption. The reality is more complex."
+      "author": "Euronews",
+      "title": "Canadian flag raised as consulate opens in Greenland",
+      "description": "Canada and France opened a consulate in Nuuk, Greenland, where Canadian Foreign Minister Anita Anand raised the Canadian flag during an official ceremony.",
+      "url": "http://www.euronews.com/video/2026/02/06/canadian-flag-raised-as-consulate-opens-in-greenland",
+      "publishedAt": "2026-02-06T21:22:29",
+      "content": "Canada and France opened a consulate in Nuuk, Greenland, where Canadian Foreign Minister Anita Anand raised the Canadian flag during an official ceremony."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Canada Drops Zero Emission Vehicle Sales Mandate for Automakers",
+      "description": "The government of Canada announced that it will repeal the Electric Vehicle Availability Standard (EVAS),",
+      "url": "https://www.esgtoday.com/canada-drops-zero-emission-vehicle-sales-mandate-for-automakers/?utm_source=rss&utm_medium=rss&utm_campaign=canada-drops-zero-emission-vehicle-sales-mandate-for-automakers",
+      "publishedAt": "2026-02-06T14:05:10",
+      "content": "The government of Canada announced that it will repeal the Electric Vehicle Availability Standard (EVAS),"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "E-waste is Illegally Flowing to Asia, Even as Certifiers Try to Close the Loopholes",
+      "description": "E-waste recycling is meant to keep old electronics out of landfills and ensure they’re handled responsibly, but gaps in oversight mean American waste is still shipped to landfills in Southeast Asia...",
+      "url": "https://triplepundit.com/2026/illegal-e-waste-shipments-united-states-asia/",
+      "publishedAt": "2026-02-06T13:00:00",
+      "content": "E-waste recycling is meant to keep old electronics out of landfills and ensure they’re handled responsibly, but gaps in oversight mean American waste is still shipped to landfills in Southeast Asia..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Avalanche Energy Raises $29 Million to Develop Desk-sized Fusion Energy Devices",
+      "description": "Fusion energy startup Avalanche Energy announced that it has raised $29 million in a new",
+      "url": "https://www.esgtoday.com/avalanche-energy-raises-29-million-to-develop-desk-sized-fusion-energy-devices/?utm_source=rss&utm_medium=rss&utm_campaign=avalanche-energy-raises-29-million-to-develop-desk-sized-fusion-energy-devices",
+      "publishedAt": "2026-02-06T10:50:25",
+      "content": "Fusion energy startup Avalanche Energy announced that it has raised $29 million in a new"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "California Explores First-Time Regulation on Dairy Methane Emissions",
+      "description": "After years of relying on voluntary grant and incentive programs to bring down a potent climate pollutant from dairy and livestock operations, California is looking into developing a rule to requir...",
+      "url": "https://insideclimatenews.org/news/06022026/california-dairy-methane-emissions-regulation/",
+      "publishedAt": "2026-02-06T09:50:00",
+      "content": "After years of relying on voluntary grant and incentive programs to bring down a potent climate pollutant from dairy and livestock operations, California is looking into developing a rule to requir..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Stellantis Sells Stake in Multibillion Dollar EV Battery JV to LG Energy Solution for $100",
+      "description": "Chrysler, Dodge, Jeep, and Citroen parent Stellantis announced today an agreement to sell its 49%",
+      "url": "https://www.esgtoday.com/stellantis-sells-stake-in-multibillion-dollar-ev-battery-jv-to-lg-energy-solution-for-100/?utm_source=rss&utm_medium=rss&utm_campaign=stellantis-sells-stake-in-multibillion-dollar-ev-battery-jv-to-lg-energy-solution-for-100",
+      "publishedAt": "2026-02-06T09:48:53",
+      "content": "Chrysler, Dodge, Jeep, and Citroen parent Stellantis announced today an agreement to sell its 49%"
     },
     {
       "source": {
@@ -147,14 +213,135 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Layer Up With Our 30 More Ethical and Sustainable Scarves",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/our-favourite-sustainable-scarves-2/",
+      "publishedAt": "2026-02-01T23:00:01",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A First Look Below Antarctica’s Most Menacing Glacier",
+      "description": "Scientists on the Thwaites Glacier attempted to install equipment beneath the ice to better understand how it is melting.",
+      "url": "https://www.nytimes.com/video/climate/100000010684396/a-first-look-below-antarcticas-most-menacing-glacier.html",
+      "publishedAt": "2026-02-06T23:41:06",
+      "content": "Scientists on the Thwaites Glacier attempted to install equipment beneath the ice to better understand how it is melting."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pennsylvania Governor Courts Data Centers While Seeking Consumer Protections",
+      "description": "Amid a national flight over data centers, Pennsylvania Gov.",
+      "url": "https://insideclimatenews.org/news/06022026/pennsylvania-governor-josh-shapiro-data-center-growth-consumer-protections/",
+      "publishedAt": "2026-02-06T23:19:32",
+      "content": "Amid a national flight over data centers, Pennsylvania Gov."
+    },
+    {
+      "source": {
         "name": "Sourcing Journal"
       },
       "author": "Sourcing Journal",
-      "title": "Why Gen Z Is Rejecting Perfect Fashion—and What Denim Brands Can Learn",
-      "description": "In the current climate, it’s no surprise that designers and consumers continue to reflect fondly on the past.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/gen-z-rejecting-perfect-fashion-exclusivity-willy-chavarria-1234809928/",
-      "publishedAt": "2026-02-05T17:00:00",
-      "content": "In the current climate, it’s no surprise that designers and consumers continue to reflect fondly on the past."
+      "title": "NY/NJ Port’s Top Terminal Draws Suitors as Trade Shifts Away From China",
+      "description": "An official sale process has not yet begun and there is no timeline for a divestment, but multiple carriers and terminal operators have shown interest.",
+      "url": "https://sourcingjournal.com/topics/logistics/maher-terminals-sale-port-of-new-york-jersey-ny-nj-east-coast-trade-shift-china-msc-hapag-lloyd-dp-world-carriers-1234812933/",
+      "publishedAt": "2026-02-06T21:30:00",
+      "content": "An official sale process has not yet begun and there is no timeline for a divestment, but multiple carriers and terminal operators have shown interest."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: PayPal Replaces CEO",
+      "description": "Following a fraught fourth quarter, PayPal is replacing CEO Alex Chriss with its board chair and former HP executive, Enrique Lores.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-paypal-ceo-chriss-with-board-chair-lores-1234810105/",
+      "publishedAt": "2026-02-06T21:00:00",
+      "content": "Following a fraught fourth quarter, PayPal is replacing CEO Alex Chriss with its board chair and former HP executive, Enrique Lores."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Ksubi Channels Anti-Sport Attitude in Spring 2026 Collection",
+      "description": "The collection is called Future Memory.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/ksubi-channels-anti-sport-attitude-spring-2026-collection-1234812397/",
+      "publishedAt": "2026-02-06T20:00:00",
+      "content": "The collection is called Future Memory."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Weak Demand, Shrinking Capacity: Trucking Eyes  a Real Recovery",
+      "description": "A freight recession stretching back to 2022 has kept the trucking industry under prolonged pressure.",
+      "url": "https://sourcingjournal.com/topics/logistics/weak-demand-shrinking-capacity-trucking-eyes-recovery-1234812903/",
+      "publishedAt": "2026-02-06T18:45:00",
+      "content": "A freight recession stretching back to 2022 has kept the trucking industry under prolonged pressure."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Studying Antarctica’s Ice From the Side of a Helicopter",
+      "description": "The fastest way into the gaps between gigantic blocks of a broken-up glacier is by lowering instruments from above, through the door of a helicopter.",
+      "url": "https://www.nytimes.com/2026/02/06/climate/antarctica-thwaites-glacier-rifts.html",
+      "publishedAt": "2026-02-06T18:01:04",
+      "content": "The fastest way into the gaps between gigantic blocks of a broken-up glacier is by lowering instruments from above, through the door of a helicopter."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Off the Cuff With Eran Kaim, Scotch & Soda’s Chief Product Officer",
+      "description": "This spring, the brand captures the spirit of the West through sun bleached fabrics and washed denim.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/off-the-cuff-eran-kaim-scotch-and-soda-spring-summer-2026-1234798058/",
+      "publishedAt": "2026-02-06T18:00:00",
+      "content": "This spring, the brand captures the spirit of the West through sun bleached fabrics and washed denim."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People on top of people’: Sydneysiders flock to netted beaches and ocean pools after shark attacks",
+      "description": "Wylie’s Baths in Coogee turns away swimmers for the first time in memory.",
+      "url": "https://www.theguardian.com/environment/2026/feb/06/sydney-shark-attacks-crowds-netted-beaches-ocean-pools",
+      "publishedAt": "2026-02-06T14:00:11",
+      "content": "Wylie’s Baths in Coogee turns away swimmers for the first time in memory."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Rebuilding the Lighthouse of Alexandria, Block by Virtual Block",
+      "description": "An ancient skyscraper considered the seventh wonder of the world crumbled to ruin centuries ago. Now an ambitious archaeological project aims to reassemble it in 3-D.",
+      "url": "https://www.nytimes.com/2026/02/06/science/archaeology-lighthouse-alexandria.html",
+      "publishedAt": "2026-02-06T13:42:26",
+      "content": "An ancient skyscraper considered the seventh wonder of the world crumbled to ruin centuries ago. Now an ambitious archaeological project aims to reassemble it in 3-D."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Solar Siting Reforms Advance in Virginia After Years of Failed Attempts",
+      "description": "RICHMOND, Va.",
+      "url": "https://insideclimatenews.org/news/06022026/virginia-solar-siting-reform/",
+      "publishedAt": "2026-02-06T09:55:00",
+      "content": "RICHMOND, Va."
     },
     {
       "source": {
@@ -166,17 +353,6 @@
       "url": "https://www.esgtoday.com/texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies/?utm_source=rss&utm_medium=rss&utm_campaign=texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies",
       "publishedAt": "2026-02-05T16:39:41",
       "content": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Airlines should tell UK customers the carbon impact of flights, watchdog says",
-      "description": "CAA’s guidance also including booking sites to enable passengers to make ‘more informed travel decisions’Airlines and booking firms should give UK customers information about the environmental impa...",
-      "url": "https://www.theguardian.com/environment/2026/feb/05/watchdog-urges-airlines-tell-uk-customers-carbon-impact-flights",
-      "publishedAt": "2026-02-05T16:05:00",
-      "content": "CAA’s guidance also including booking sites to enable passengers to make ‘more informed travel decisions’Airlines and booking firms should give UK customers information about the environmental impa..."
     },
     {
       "source": {
@@ -213,102 +389,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Baker Tilly Case Study: Multi-Family Construction Company Transforms Business",
-      "description": "As Pahlisch Commercial expanded its operations and the limitations of its existing accounting system, the aging Sage 300 CRE, became increasingly evident. The company also faced a series of challen...",
-      "url": "https://csrwire.com/press-release/baker-tilly-case-study-multi-family-construction-company-transforms-business/",
-      "publishedAt": "2026-02-05T09:00:00",
-      "content": "As Pahlisch Commercial expanded its operations and the limitations of its existing accounting system, the aging Sage 300 CRE, became increasingly evident. The company also faced a series of challen..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Digital Lifelines: How Cisco and Piramal Swasthya Are Reimagining Healthcare in Rural India",
-      "description": "For families in remote villages across northeastern India, seeing a doctor often means long journeys over difficult terrain, lost daily wages, and sometimes, lifesaving treatment that comes too late.",
-      "url": "https://csrwire.com/press-release/digital-lifelines-how-cisco-and-piramal-swasthya-are-reimagining-healthcare-rural-india/",
-      "publishedAt": "2026-02-05T08:35:00",
-      "content": "For families in remote villages across northeastern India, seeing a doctor often means long journeys over difficult terrain, lost daily wages, and sometimes, lifesaving treatment that comes too late."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Layer Up With Our 30 More Ethical and Sustainable Scarves",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/our-favourite-sustainable-scarves-2/",
-      "publishedAt": "2026-02-01T23:00:01",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "At a Bonobo’s ‘Tea Party,’ Scientists Find Hints of Imagination",
-      "description": "In a playtime experiment, researchers found that our closest living relatives have the capacity for make-believe, too.",
-      "url": "https://www.nytimes.com/2026/02/05/science/bonobos-apes-imagination.html",
-      "publishedAt": "2026-02-05T21:56:20",
-      "content": "In a playtime experiment, researchers found that our closest living relatives have the capacity for make-believe, too."
+      "title": "A Chevron Refinery May Take in More Venezuelan Oil.  Its Neighbors Are Concerned.",
+      "description": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out.",
+      "url": "https://www.nytimes.com/2026/02/04/climate/chevron-venezuela-mississippi-refinery.html",
+      "publishedAt": "2026-02-04T18:25:34",
+      "content": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Guardian"
       },
-      "author": "Sourcing Journal",
-      "title": "Africa, Haiti Trade Preference Programs Face Uncertain Future",
-      "description": "The short extensions of the African Growth and Opportunity Act and Haiti HOPE/HELP raise questions about the meaning and importance of trade pacts and preference programs.",
-      "url": "https://sourcingjournal.com/topics/trade/africa-agoa-haiti-hope-help-extensions-trump-tariffs-trade-1234812450/",
-      "publishedAt": "2026-02-05T21:21:50",
-      "content": "The short extensions of the African Growth and Opportunity Act and Haiti HOPE/HELP raise questions about the meaning and importance of trade pacts and preference programs."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Federal Judge Blocks Texas Law Targeting Critics of Fossil Fuels",
-      "description": "The court ruled that it was unconstitutional to bar state agencies from investing with firms that the state had accused of boycotting the oil industry.",
-      "url": "https://www.nytimes.com/2026/02/05/climate/texas-esg-lawsuit.html",
-      "publishedAt": "2026-02-05T21:18:16",
-      "content": "The court ruled that it was unconstitutional to bar state agencies from investing with firms that the state had accused of boycotting the oil industry."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Material World: UK Gen AI Startup Scores $8M, Naia Lightens Up at PV Paris",
-      "description": "London spin-out Polaron raises $8 million to build materials science “intelligence layer” using gen-AI while Eastman debuts Naia Lyte at PV Paris.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-gen-ai-startup-naia-lyte-pv-paris-1234809869/",
-      "publishedAt": "2026-02-05T20:00:00",
-      "content": "London spin-out Polaron raises $8 million to build materials science “intelligence layer” using gen-AI while Eastman debuts Naia Lyte at PV Paris."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Maersk Slashes 1,000 Staff as Slumping Freight Rates Sink Earnings",
-      "description": "Cuts of $180 million will target 17 percent of corporate roles as the carrier braces for supply overcapacity, cratering rates and a volatile 2026 outlook.",
-      "url": "https://sourcingjournal.com/topics/logistics/maersk-1000-job-cuts-layoffs-corporate-red-sea-suez-canal-freight-rates-overcapacity-ocean-carriers-2026-outlook-1234812407/",
-      "publishedAt": "2026-02-05T18:51:38",
-      "content": "Cuts of $180 million will target 17 percent of corporate roles as the carrier braces for supply overcapacity, cratering rates and a volatile 2026 outlook."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "He Built a Server to Protect Indigenous Health Data",
-      "description": "Joseph Yracheta was in charge of a repository that compiled and protected tribal health data. Then its funding was cut.",
-      "url": "https://www.nytimes.com/2026/02/05/science/lost-science-yracheta-indigenous.html",
-      "publishedAt": "2026-02-05T15:00:06",
-      "content": "Joseph Yracheta was in charge of a repository that compiled and protected tribal health data. Then its funding was cut."
+      "author": "The Guardian",
+      "title": "Country diary: A trip to the sheep auction – interrupted by light and legend | Andrea Meanwell",
+      "description": "Hawes, North Yorkshire: A stunning ray of sunshine, beamed on to a farmhouse, is a reminder of my family’s history in this landscapeIt is early Saturday morning and I’m on my way to the Hawes Honey...",
+      "url": "https://www.theguardian.com/environment/2026/feb/06/country-diary-a-trip-to-the-sheep-auction-interrupted-by-light-and-legend",
+      "publishedAt": "2026-02-06T05:30:00",
+      "content": "Hawes, North Yorkshire: A stunning ray of sunshine, beamed on to a farmhouse, is a reminder of my family’s history in this landscapeIt is early Saturday morning and I’m on my way to the Hawes Honey..."
     },
     {
       "source": {
@@ -320,17 +419,6 @@
       "url": "https://insideclimatenews.org/news/05022026/inside-clean-energy-when-gas-stations-vanish/",
       "publishedAt": "2026-02-05T14:00:00",
       "content": "Sooner than you think, your city may be down to its last gas station, or, in large cities, the last few gas stations."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Anger over Scottish salmon farm inspections amid 35m unexpected fish deaths",
-      "description": "Animal Equality says two surprise inspections in three years suggests ‘embarrassingly poor’ level of scrutinyScottish salmon farmers recorded more than 35m unexpected salmon deaths in just under th...",
-      "url": "https://www.theguardian.com/business/2026/feb/05/more-than-35m-unexpected-salmon-deaths-at-scottish-farms-sparks-outcry",
-      "publishedAt": "2026-02-05T13:43:56",
-      "content": "Animal Equality says two surprise inspections in three years suggests ‘embarrassingly poor’ level of scrutinyScottish salmon farmers recorded more than 35m unexpected salmon deaths in just under th..."
     },
     {
       "source": {
@@ -353,127 +441,6 @@
       "url": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-02-05T12:00:58",
       "content": "UKRI boss Ian Chapman said it had been told by the government to \"focus and do fewer things better\"."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Hope and relief’ as seaside town’s last youth centre saved",
-      "description": "Charity praises effort to stop Ramsgate’s Pie Factory Music closing but calls for more youth services in coastal townsThe last remaining youth centre in one of England’s most deprived coastal place...",
-      "url": "https://www.theguardian.com/environment/2026/feb/05/charity-young-people-campaign-youth-centre-funding-deprived-coast-pie-factory-music-ramsgate",
-      "publishedAt": "2026-02-05T11:00:27",
-      "content": "Charity praises effort to stop Ramsgate’s Pie Factory Music closing but calls for more youth services in coastal townsThe last remaining youth centre in one of England’s most deprived coastal place..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Chevron Refinery May Take in More Venezuelan Oil.  Its Neighbors Are Concerned.",
-      "description": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out.",
-      "url": "https://www.nytimes.com/2026/02/04/climate/chevron-venezuela-mississippi-refinery.html",
-      "publishedAt": "2026-02-04T18:25:34",
-      "content": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Meta Inks Solar Energy Purchase Agreement with Zelestra in Texas",
-      "description": "Meta announced that it has signed a Power Purchase Agreement (PPA) with Madrid-based Zelestra for",
-      "url": "https://www.esgtoday.com/meta-inks-solar-energy-purchase-agreement-with-zelestra-in-texas/?utm_source=rss&utm_medium=rss&utm_campaign=meta-inks-solar-energy-purchase-agreement-with-zelestra-in-texas",
-      "publishedAt": "2026-02-04T17:05:06",
-      "content": "Meta announced that it has signed a Power Purchase Agreement (PPA) with Madrid-based Zelestra for"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "IKEA to Deploy Electric Heavy Duty Trucks to Decarbonize Shipping in Italy",
-      "description": "IKEA, truck manufacturer Daimler Truck Italia and logistics company LC3 Trasporti announced the launch of",
-      "url": "https://www.esgtoday.com/ikea-to-deploy-fully-electric-heavy-duty-trucks-to-decarbonize-shipping-in-italy/?utm_source=rss&utm_medium=rss&utm_campaign=ikea-to-deploy-fully-electric-heavy-duty-trucks-to-decarbonize-shipping-in-italy",
-      "publishedAt": "2026-02-04T14:48:23",
-      "content": "IKEA, truck manufacturer Daimler Truck Italia and logistics company LC3 Trasporti announced the launch of"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Beyond the End Zone: Jerry Rice on Winning in Life and Business",
-      "description": "During this event, Jerry will share insights on leadership, teamwork, and achieving peak performance.",
-      "url": "https://csrwire.com/press-release/beyond-end-zone-jerry-rice-winning-life-and-business/",
-      "publishedAt": "2026-02-04T11:15:00",
-      "content": "During this event, Jerry will share insights on leadership, teamwork, and achieving peak performance."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AllianceBernstein – Root and Branch: A Case Study in Assessing Portfolio Biodiversity Risk",
-      "description": "Biodiversity risk is more nuanced and complex than many investors think. For instance, there’s a widespread belief that deforestation poses the biggest nature-related risk for most portfolios.",
-      "url": "https://csrwire.com/press-release/alliancebernstein-root-and-branch-case-study-assessing-portfolio-biodiversity-risk/",
-      "publishedAt": "2026-02-04T09:15:00",
-      "content": "Biodiversity risk is more nuanced and complex than many investors think. For instance, there’s a widespread belief that deforestation poses the biggest nature-related risk for most portfolios."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mastercard: Digging Deeper Roots in a Time of Change: Looking Back on Our Work Supporting Small Businesses in 2025",
-      "description": "2025 has reshaped the U.",
-      "url": "https://csrwire.com/press-release/mastercard-digging-deeper-roots-time-change-looking-back-our-work-supporting-small-businesses/",
-      "publishedAt": "2026-02-04T08:25:00",
-      "content": "2025 has reshaped the U."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Next Revolution in Breast Cancer Research, According to World-Renowned Breast Oncologist, Dr. Joyce O’Shaughnessy",
-      "description": "At Baylor Scott & White Health, a groundbreaking initiative is underway aiming to revolutionize early detection and intervention strategies for better breast cancer survivorship and beyond.",
-      "url": "https://csrwire.com/press-release/next-revolution-breast-cancer-research-according-world-renowned-breast-oncologist-dr-joyce/",
-      "publishedAt": "2026-02-04T08:00:00",
-      "content": "At Baylor Scott & White Health, a groundbreaking initiative is underway aiming to revolutionize early detection and intervention strategies for better breast cancer survivorship and beyond."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A Special Collective Moment: Voices From the Global Commission on Healthy Indoor Air",
-      "description": "In an incredible moment of solidarity in the urgent work to advance healthy indoor air, 12 members of the the Global Commission on Healthy Indoor Air came together at International WELL Building In...",
-      "url": "https://csrwire.com/press-release/special-collective-moment-voices-global-commission-healthy-indoor-air/",
-      "publishedAt": "2026-02-03T10:55:00",
-      "content": "In an incredible moment of solidarity in the urgent work to advance healthy indoor air, 12 members of the the Global Commission on Healthy Indoor Air came together at International WELL Building In..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Colorado River Negotiators Are Nearly Out of Time and Snowpack",
-      "description": "Time and water are running low on the Colorado River.",
-      "url": "https://insideclimatenews.org/news/04022026/colorado-river-record-low-snow-litigation/",
-      "publishedAt": "2026-02-04T10:00:00",
-      "content": "Time and water are running low on the Colorado River."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Troubled Hog Farm in Wayne County, North Carolina, Is Hit With a New String of Violations",
-      "description": "FREMONT, N.",
-      "url": "https://insideclimatenews.org/news/04022026/north-carolina-hog-farm-violations/",
-      "publishedAt": "2026-02-04T09:55:00",
-      "content": "FREMONT, N."
     }
   ]
 }
