@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 38,
   "articles": [
     {
       "source": {
@@ -12,6 +12,17 @@
       "url": "https://insideclimatenews.org/news/06022026/methanesat-climate-pollution-global-assessment/",
       "publishedAt": "2026-02-06T10:00:00",
       "content": "MethaneSAT, the world’s most advanced methane-detecting satellite and first spacecraft owned by an environmental nonprofit, promised to usher in a new era of climate accountability when the device ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Georgia Power Gas Expansion Would Drive Significant Climate-Damaging Pollution",
+      "description": "Georgia regulators have approved a massive expansion of natural gas power plants that could dramatically increase the state’s climate pollution, largely to support the rapid growth of data centers....",
+      "url": "https://insideclimatenews.org/news/07022026/georgia-power-natural-gas-expansion-pollution/",
+      "publishedAt": "2026-02-07T09:55:00",
+      "content": "Georgia regulators have approved a massive expansion of natural gas power plants that could dramatically increase the state’s climate pollution, largely to support the rapid growth of data centers...."
     },
     {
       "source": {
@@ -59,17 +70,6 @@
     },
     {
       "source": {
-        "name": "Euronews"
-      },
-      "author": "Euronews",
-      "title": "The world has pledged to triple climate financing for poorer countries. Is the UK about to U-turn?",
-      "description": "The UK government tells Euronews Green it is “modernising” its approach to international climate financing – but declined to comment on alleged cuts.",
-      "url": "http://www.euronews.com/green/2026/02/07/the-world-has-pledged-to-triple-climate-financing-for-poorer-countries-is-the-uk-about-to-",
-      "publishedAt": "2026-02-07T06:00:44",
-      "content": "The UK government tells Euronews Green it is “modernising” its approach to international climate financing – but declined to comment on alleged cuts."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -78,28 +78,6 @@
       "url": "https://www.esgtoday.com/mundi-ventures-raises-e750-million-for-deep-tech-climate-growth-fund/?utm_source=rss&utm_medium=rss&utm_campaign=mundi-ventures-raises-e750-million-for-deep-tech-climate-growth-fund",
       "publishedAt": "2026-02-06T12:51:17",
       "content": "Spain-based venture capital firm Mundi Ventures announced the first close of its deep tech growth"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Contentious Herbicide Is Greenlit in a Blow to the MAHA Agenda",
-      "description": "The chemical, dicamba, is used to control weeds on genetically engineered crops. Courts previously had restricted its use.",
-      "url": "https://www.nytimes.com/2026/02/06/climate/epa-dicamba-drifting-herbicide-approval.html",
-      "publishedAt": "2026-02-07T01:21:27",
-      "content": "The chemical, dicamba, is used to control weeds on genetically engineered crops. Courts previously had restricted its use."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How a ‘Powerful Vision’ on Whales and Oceans Could Change Worldviews",
-      "description": "As governments struggle to halt biodiversity loss and protect the world’s oceans using legal systems largely built by and for nation-states, Indigenous leaders are advancing a radically different v...",
-      "url": "https://insideclimatenews.org/news/05022026/maori-scientist-daniel-hikuroa-legal-rights-of-whales/",
-      "publishedAt": "2026-02-05T20:43:53",
-      "content": "As governments struggle to halt biodiversity loss and protect the world’s oceans using legal systems largely built by and for nation-states, Indigenous leaders are advancing a radically different v..."
     },
     {
       "source": {
@@ -114,6 +92,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Deafening, draining and potentially deadly: are we facing a snoring epidemic?",
+      "description": "Experts say dangerous sleep apnoea affects an estimated 8 million in the UK alone, and everything from evolution to obesity or even the climate crisis could be to blameWhen Matt Hillier was in his ...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/07/deafening-draining-and-potentially-deadly-are-we-facing-a-snoring-epidemic",
+      "publishedAt": "2026-02-07T12:00:03",
+      "content": "Experts say dangerous sleep apnoea affects an estimated 8 million in the UK alone, and everything from evolution to obesity or even the climate crisis could be to blameWhen Matt Hillier was in his ..."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -125,14 +114,91 @@
     },
     {
       "source": {
-        "name": "Euronews"
+        "name": "Good On You"
       },
-      "author": "Euronews",
-      "title": "Canadian flag raised as consulate opens in Greenland",
-      "description": "Canada and France opened a consulate in Nuuk, Greenland, where Canadian Foreign Minister Anita Anand raised the Canadian flag during an official ceremony.",
-      "url": "http://www.euronews.com/video/2026/02/06/canadian-flag-raised-as-consulate-opens-in-greenland",
-      "publishedAt": "2026-02-06T21:22:29",
-      "content": "Canada and France opened a consulate in Nuuk, Greenland, where Canadian Foreign Minister Anita Anand raised the Canadian flag during an official ceremony."
+      "author": "Good On You",
+      "title": "Material Guide: How Sustainable Is Hemp Fabric?",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/material-guide-hemp/",
+      "publishedAt": "2026-02-03T23:00:25",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The blight of sewage pollution tackled in water shake-up",
+      "description": "A major review called for oversight of water companies in Wales and England to be overhauled.",
+      "url": "https://www.bbc.com/news/articles/c205v3dj818o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-03T14:19:47",
+      "content": "A major review called for oversight of water companies in Wales and England to be overhauled."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Layer Up With Our 30 More Ethical and Sustainable Scarves",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/our-favourite-sustainable-scarves-2/",
+      "publishedAt": "2026-02-01T23:00:01",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Japan Ocean-Mining Test Successfully Hauls Up Potentially Valuable Mud",
+      "description": "It’s the latest twist in the controversial global race to mine the deep sea for rare-earth elements and other valuable resources.",
+      "url": "https://www.nytimes.com/2026/02/07/climate/ocean-seabed-mining-japan-rare-earths.html",
+      "publishedAt": "2026-02-07T19:17:52",
+      "content": "It’s the latest twist in the controversial global race to mine the deep sea for rare-earth elements and other valuable resources."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "UK electric vehicle charging firms ‘seeking buyers amid rising costs and tough competition’",
+      "description": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be.",
+      "url": "https://www.theguardian.com/environment/2026/feb/07/uk-electric-vehicle-charging-mergers-acquisitions-b-ev",
+      "publishedAt": "2026-02-07T12:00:02",
+      "content": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What’s Behind the Weird Weather That’s Dominated 2026",
+      "description": "While iguanas were stunned by freezing cold in Florida, would-be skiers were looking at dirt on Utah’s slopes. Here’s what’s going on, and when it will finally end.",
+      "url": "https://www.nytimes.com/2026/02/07/weather/cold-snow-forecast-us.html",
+      "publishedAt": "2026-02-07T10:30:05",
+      "content": "While iguanas were stunned by freezing cold in Florida, would-be skiers were looking at dirt on Utah’s slopes. Here’s what’s going on, and when it will finally end."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Groundbreaking Geothermal Heating and Cooling Network Saves This Colorado College Money and Water",
+      "description": "GRAND JUNCTION, Colo.",
+      "url": "https://insideclimatenews.org/news/07022026/colorado-college-geothermal-network/",
+      "publishedAt": "2026-02-07T10:00:00",
+      "content": "GRAND JUNCTION, Colo."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Bermuda snail thought to be extinct now thrives after a decade’s effort",
+      "description": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snailsA button-sized snail once feared extinct in its Bermudian home is thriving again after ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/07/bermuda-snail-thought-to-be-extinct-now-thrives-after-a-decades-effort",
+      "publishedAt": "2026-02-07T06:00:56",
+      "content": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snailsA button-sized snail once feared extinct in its Bermudian home is thriving again after ..."
     },
     {
       "source": {
@@ -191,47 +257,47 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "Material Guide: How Sustainable Is Hemp Fabric?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/material-guide-hemp/",
-      "publishedAt": "2026-02-03T23:00:25",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Texas Judge Strikes Down Law Blacklisting Investment Firms that “Boycott” Fossil Fuel Companies",
+      "description": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that",
+      "url": "https://www.esgtoday.com/texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies/?utm_source=rss&utm_medium=rss&utm_campaign=texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies",
+      "publishedAt": "2026-02-05T16:39:41",
+      "content": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "The blight of sewage pollution tackled in water shake-up",
-      "description": "A major review called for oversight of water companies in Wales and England to be overhauled.",
-      "url": "https://www.bbc.com/news/articles/c205v3dj818o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-03T14:19:47",
-      "content": "A major review called for oversight of water companies in Wales and England to be overhauled."
+      "author": "ESG Today",
+      "title": "Carbon Removal Project Developer Varaha Raises $20 Million",
+      "description": "Carbon project developer Varaha announced the launch of a Series B financing round of about",
+      "url": "https://www.esgtoday.com/carbon-removal-project-developer-varaha-raises-20-million/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-removal-project-developer-varaha-raises-20-million",
+      "publishedAt": "2026-02-05T15:27:39",
+      "content": "Carbon project developer Varaha announced the launch of a Series B financing round of about"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "Layer Up With Our 30 More Ethical and Sustainable Scarves",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/our-favourite-sustainable-scarves-2/",
-      "publishedAt": "2026-02-01T23:00:01",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Google Signs 15-Year Offshore Wind Deal to Power AI Infrastructure in Germany",
+      "description": "European energy provider EnBW announced a new long-term power purchase agreement (PPA) with Google, providing",
+      "url": "https://www.esgtoday.com/google-signs-15-year-offshore-wind-deal-to-power-ai-infrastructure-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-15-year-offshore-wind-deal-to-power-ai-infrastructure-in-germany",
+      "publishedAt": "2026-02-05T12:22:33",
+      "content": "European energy provider EnBW announced a new long-term power purchase agreement (PPA) with Google, providing"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "A First Look Below Antarctica’s Most Menacing Glacier",
-      "description": "Scientists on the Thwaites Glacier attempted to install equipment beneath the ice to better understand how it is melting.",
-      "url": "https://www.nytimes.com/video/climate/100000010684396/a-first-look-below-antarcticas-most-menacing-glacier.html",
-      "publishedAt": "2026-02-06T23:41:06",
-      "content": "Scientists on the Thwaites Glacier attempted to install equipment beneath the ice to better understand how it is melting."
+      "author": "The Guardian",
+      "title": "Country diary: Which farm produces the smelliest silage? I went to find out | Rev Simon Lockett",
+      "description": "Peterchurch, Herefordshire: Some silage competitions are assessed in a lab far away, this one takes place in a noisy pub, with judges getting their hands dirtyWhat a night. I’ve just got home from ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/07/country-diary-which-farm-produces-the-smelliest-silage-i-went-to-find-out",
+      "publishedAt": "2026-02-07T05:30:53",
+      "content": "Peterchurch, Herefordshire: Some silage competitions are assessed in a lab far away, this one takes place in a noisy pub, with judges getting their hands dirtyWhat a night. I’ve just got home from ..."
     },
     {
       "source": {
@@ -312,28 +378,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘People on top of people’: Sydneysiders flock to netted beaches and ocean pools after shark attacks",
-      "description": "Wylie’s Baths in Coogee turns away swimmers for the first time in memory.",
-      "url": "https://www.theguardian.com/environment/2026/feb/06/sydney-shark-attacks-crowds-netted-beaches-ocean-pools",
-      "publishedAt": "2026-02-06T14:00:11",
-      "content": "Wylie’s Baths in Coogee turns away swimmers for the first time in memory."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Rebuilding the Lighthouse of Alexandria, Block by Virtual Block",
-      "description": "An ancient skyscraper considered the seventh wonder of the world crumbled to ruin centuries ago. Now an ambitious archaeological project aims to reassemble it in 3-D.",
-      "url": "https://www.nytimes.com/2026/02/06/science/archaeology-lighthouse-alexandria.html",
-      "publishedAt": "2026-02-06T13:42:26",
-      "content": "An ancient skyscraper considered the seventh wonder of the world crumbled to ruin centuries ago. Now an ambitious archaeological project aims to reassemble it in 3-D."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -342,83 +386,6 @@
       "url": "https://insideclimatenews.org/news/06022026/virginia-solar-siting-reform/",
       "publishedAt": "2026-02-06T09:55:00",
       "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Texas Judge Strikes Down Law Blacklisting Investment Firms that “Boycott” Fossil Fuel Companies",
-      "description": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that",
-      "url": "https://www.esgtoday.com/texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies/?utm_source=rss&utm_medium=rss&utm_campaign=texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies",
-      "publishedAt": "2026-02-05T16:39:41",
-      "content": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Carbon Removal Project Developer Varaha Raises $20 Million",
-      "description": "Carbon project developer Varaha announced the launch of a Series B financing round of about",
-      "url": "https://www.esgtoday.com/carbon-removal-project-developer-varaha-raises-20-million/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-removal-project-developer-varaha-raises-20-million",
-      "publishedAt": "2026-02-05T15:27:39",
-      "content": "Carbon project developer Varaha announced the launch of a Series B financing round of about"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘We can learn from the old’: how architects are returning to the earth to build homes for the future",
-      "description": "Rammed earth sourced from, or near, the grounds of a proposed building site is attracting attention as an eco-friendly construction materialFrom afar, the low-rise homestead perched in the Wiltshir...",
-      "url": "https://www.theguardian.com/environment/2026/feb/05/architects-rammed-earth-buildings-homes-future",
-      "publishedAt": "2026-02-05T13:00:37",
-      "content": "Rammed earth sourced from, or near, the grounds of a proposed building site is attracting attention as an eco-friendly construction materialFrom afar, the low-rise homestead perched in the Wiltshir..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs 15-Year Offshore Wind Deal to Power AI Infrastructure in Germany",
-      "description": "European energy provider EnBW announced a new long-term power purchase agreement (PPA) with Google, providing",
-      "url": "https://www.esgtoday.com/google-signs-15-year-offshore-wind-deal-to-power-ai-infrastructure-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-15-year-offshore-wind-deal-to-power-ai-infrastructure-in-germany",
-      "publishedAt": "2026-02-05T12:22:33",
-      "content": "European energy provider EnBW announced a new long-term power purchase agreement (PPA) with Google, providing"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Chevron Refinery May Take in More Venezuelan Oil.  Its Neighbors Are Concerned.",
-      "description": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out.",
-      "url": "https://www.nytimes.com/2026/02/04/climate/chevron-venezuela-mississippi-refinery.html",
-      "publishedAt": "2026-02-04T18:25:34",
-      "content": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A trip to the sheep auction – interrupted by light and legend | Andrea Meanwell",
-      "description": "Hawes, North Yorkshire: A stunning ray of sunshine, beamed on to a farmhouse, is a reminder of my family’s history in this landscapeIt is early Saturday morning and I’m on my way to the Hawes Honey...",
-      "url": "https://www.theguardian.com/environment/2026/feb/06/country-diary-a-trip-to-the-sheep-auction-interrupted-by-light-and-legend",
-      "publishedAt": "2026-02-06T05:30:00",
-      "content": "Hawes, North Yorkshire: A stunning ray of sunshine, beamed on to a farmhouse, is a reminder of my family’s history in this landscapeIt is early Saturday morning and I’m on my way to the Hawes Honey..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Looking Ahead to When Gas Stations Vanish",
-      "description": "Sooner than you think, your city may be down to its last gas station, or, in large cities, the last few gas stations.",
-      "url": "https://insideclimatenews.org/news/05022026/inside-clean-energy-when-gas-stations-vanish/",
-      "publishedAt": "2026-02-05T14:00:00",
-      "content": "Sooner than you think, your city may be down to its last gas station, or, in large cities, the last few gas stations."
     },
     {
       "source": {
@@ -441,6 +408,17 @@
       "url": "https://www.bbc.com/news/articles/c8e50x1r237o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-02-05T12:00:58",
       "content": "UKRI boss Ian Chapman said it had been told by the government to \"focus and do fewer things better\"."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A Chevron Refinery May Take in More Venezuelan Oil.  Its Neighbors Are Concerned.",
+      "description": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out.",
+      "url": "https://www.nytimes.com/2026/02/04/climate/chevron-venezuela-mississippi-refinery.html",
+      "publishedAt": "2026-02-04T18:25:34",
+      "content": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out."
     }
   ]
 }
