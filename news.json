@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 43,
   "articles": [
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "MethaneSAT Releases First Global Assessment of Oil and Gas Climate Pollution",
-      "description": "MethaneSAT, the world’s most advanced methane-detecting satellite and first spacecraft owned by an environmental nonprofit, promised to usher in a new era of climate accountability when the device ...",
-      "url": "https://insideclimatenews.org/news/06022026/methanesat-climate-pollution-global-assessment/",
-      "publishedAt": "2026-02-06T10:00:00",
-      "content": "MethaneSAT, the world’s most advanced methane-detecting satellite and first spacecraft owned by an environmental nonprofit, promised to usher in a new era of climate accountability when the device ..."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -23,6 +12,28 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-02-04T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Join Leaders From Google, Microsoft, REI & More at GreenBiz 26",
+      "description": "The premier annual event for sustainable business leaders, GreenBiz 26, is just weeks away and features keynotes and dynamic discussions led by innovators managing teams across some of the world’s ...",
+      "url": "https://csrwire.com/press-release/join-leaders-google-microsoft-rei-more-greenbiz-26/",
+      "publishedAt": "2026-02-09T12:00:00",
+      "content": "The premier annual event for sustainable business leaders, GreenBiz 26, is just weeks away and features keynotes and dynamic discussions led by innovators managing teams across some of the world’s ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TotalEnergies Signs its Biggest U.S. Renewable Energy Deal to Power Google Data Centers",
+      "description": "France-based energy giant TotalEnergies announced today that it has signed two new long-term Power Purchase",
+      "url": "https://www.esgtoday.com/totalenergies-signs-its-biggest-u-s-renewable-energy-deal-to-power-google-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-signs-its-biggest-u-s-renewable-energy-deal-to-power-google-data-centers",
+      "publishedAt": "2026-02-09T10:01:42",
+      "content": "France-based energy giant TotalEnergies announced today that it has signed two new long-term Power Purchase"
     },
     {
       "source": {
@@ -37,14 +48,47 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "CSRWire"
       },
-      "author": "Sourcing Journal",
-      "title": "Why Shein Dropped Its Net-Zero Claim in Germany",
-      "description": "The Chinese-founded e-tailer Goliath previously described the Science Based Targets initiative’s 2025 validation of its target as a \"milestone\" in its \"climate journey.\"",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/shein-germany-net-zero-claim-greenwashing-1234812938/",
-      "publishedAt": "2026-02-06T21:59:38",
-      "content": "The Chinese-founded e-tailer Goliath previously described the Science Based Targets initiative’s 2025 validation of its target as a \"milestone\" in its \"climate journey.\""
+      "author": "CSRWire",
+      "title": "PSE&G Energy Efficiency Programs Deliver More Than $900 Million in Annual Utility Bill Savings for New Jersey Customers",
+      "description": "PSE&G’s latest Clean Energy Future-Energy Efficiency (CEF-EE) report demonstrates continued savings for customers across New Jersey.",
+      "url": "https://csrwire.com/press-release/pseg-energy-efficiency-programs-deliver-more-900-million-annual-utility-bill-savings-new/",
+      "publishedAt": "2026-02-09T09:10:00",
+      "content": "PSE&G’s latest Clean Energy Future-Energy Efficiency (CEF-EE) report demonstrates continued savings for customers across New Jersey."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Celebrate World Soil Day: The Climate Solution Beneath Our Feet",
+      "description": "While we often look to the sky for climate solutions - like wind turbines and solar panels - one of the most powerful technologies is right under our feet. This World Soil Day, we celebrate more th...",
+      "url": "https://csrwire.com/press-release/celebrate-world-soil-day-climate-solution-beneath-our-feet/",
+      "publishedAt": "2026-02-09T11:00:00",
+      "content": "While we often look to the sky for climate solutions - like wind turbines and solar panels - one of the most powerful technologies is right under our feet. This World Soil Day, we celebrate more th..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Dcycle Acquires ESG-X to Scale Sustainability Data Management Business",
+      "description": "Sustainability data management company Dcycle announced today that it has signed an agreement to acquire",
+      "url": "https://www.esgtoday.com/dcycle-acquires-esg-x-to-scale-sustainability-data-management-business/?utm_source=rss&utm_medium=rss&utm_campaign=dcycle-acquires-esg-x-to-scale-sustainability-data-management-business",
+      "publishedAt": "2026-02-09T10:34:59",
+      "content": "Sustainability data management company Dcycle announced today that it has signed an agreement to acquire"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TPG’s Climate Fund Acquires Majority Stake in Grid Infrastructure Company Sabre Industries",
+      "description": "Alternative asset management firm TPG announced an agreement by its climate investing platform TPG Rise",
+      "url": "https://www.esgtoday.com/tpgs-climate-fund-acquires-majority-stake-in-grid-infrastructure-company-sabre-industries/?utm_source=rss&utm_medium=rss&utm_campaign=tpgs-climate-fund-acquires-majority-stake-in-grid-infrastructure-company-sabre-industries",
+      "publishedAt": "2026-02-09T09:36:05",
+      "content": "Alternative asset management firm TPG announced an agreement by its climate investing platform TPG Rise"
     },
     {
       "source": {
@@ -59,36 +103,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "Airbus Signs Clean Energy Deal with TotalEnergies to Decarbonize Operations in Germany, UK",
-      "description": "Airbus and French energy giant TotalEnergies announced the signing of two Power Purchase Agreements to",
-      "url": "https://www.esgtoday.com/airbus-signs-clean-energy-deal-with-totalenergies-to-decarbonize-operations-in-germany-uk/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-signs-clean-energy-deal-with-totalenergies-to-decarbonize-operations-in-germany-uk",
-      "publishedAt": "2026-02-05T14:51:22",
-      "content": "Airbus and French energy giant TotalEnergies announced the signing of two Power Purchase Agreements to"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Growing Greenery: The Rise of Urban Green Space",
-      "description": "Green space provides abundant advantages to urbanites, from cutting air pollution and managing heat islands to increasing physical activity.",
-      "url": "https://triplepundit.com/2026/urban-green-space-increasing-sustainable-development/",
-      "publishedAt": "2026-02-02T22:51:56",
-      "content": "Green space provides abundant advantages to urbanites, from cutting air pollution and managing heat islands to increasing physical activity."
+      "author": "Good On You",
+      "title": "Where to Find More Sustainable Clothes for Tall People",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-clothes-for-tall-people/",
+      "publishedAt": "2026-02-10T01:11:06",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘To live a normal life again, it’s a dream come true’: UK’s first climate evacuees can cast off their homes and trauma",
-      "description": "Forty-odd residents of Clydach Terrace in Ynysybwl, south Wales, relieved by council buyout after years in fear of fast floodingWhen Storm Dennis hit the UK in 2020, a wall of dirty, frigid water f...",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/09/to-live-a-normal-life-again-its-a-dream-come-true-uks-first-climate-evacuees-can-cast-off-their-homes-and-trauma",
-      "publishedAt": "2026-02-09T06:00:53",
-      "content": "Forty-odd residents of Clydach Terrace in Ynysybwl, south Wales, relieved by council buyout after years in fear of fast floodingWhen Storm Dennis hit the UK in 2020, a wall of dirty, frigid water f..."
+      "title": "Why is the UK so rainy this year and how is the climate crisis making matters worse?",
+      "description": "It has rained in parts of the country every day of the year so far and downpours are expected to continue this weekIn a “miserable and relentlessly wet” start to the year, rain has fallen somewhere...",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/why-is-the-uk-so-rainy-this-year-and-how-is-the-climate-crisis-making-matters-worse",
+      "publishedAt": "2026-02-09T14:56:56",
+      "content": "It has rained in parts of the country every day of the year so far and downpours are expected to continue this weekIn a “miserable and relentlessly wet” start to the year, rain has fallen somewhere..."
     },
     {
       "source": {
@@ -103,6 +136,17 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Contentious Weedkiller Gets a Green Light, in a Blow to the MAHA Agenda",
+      "description": "The chemical, dicamba, is used to control weeds on genetically engineered crops. Courts previously had restricted its use.",
+      "url": "https://www.nytimes.com/2026/02/06/climate/epa-dicamba-drifting-herbicide-approval.html",
+      "publishedAt": "2026-02-07T13:18:38",
+      "content": "The chemical, dicamba, is used to control weeds on genetically engineered crops. Courts previously had restricted its use."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -114,14 +158,58 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Sourcing Journal"
       },
-      "author": "Inside Climate News",
-      "title": "‘A Disaster Waiting to Happen’: How the Fracking Boom Put an Oil Field in the Guadalupe River Floodplain",
-      "description": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading oilfields, an Inside Climate News investigatio...",
-      "url": "https://insideclimatenews.org/news/08022026/texas-guadalupe-river-floodplain-fracking-boom/",
-      "publishedAt": "2026-02-08T10:00:00",
-      "content": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading oilfields, an Inside Climate News investigatio..."
+      "author": "Sourcing Journal",
+      "title": "GenuTrace and Kinset Team to Lead Cotton’s Stricter Proof Demands",
+      "description": "Driven by stringent UFLPA enforcement in the U.S. and anti-greenwashing laws in Germany, brands must now move from \"claimed\" to \"defensible\" origin.",
+      "url": "https://sourcingjournal.com/topics/compliance/genutrace-kinset-team-cotton-stricter-proof-demands-1234813150/",
+      "publishedAt": "2026-02-09T22:30:29",
+      "content": "Driven by stringent UFLPA enforcement in the U.S. and anti-greenwashing laws in Germany, brands must now move from \"claimed\" to \"defensible\" origin."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "California Spends $99 Million A Year Sending Textiles to Landfill",
+      "description": "A new report argues California could lock in its status as the country’s environmental-policy pace setter by getting serious about textile reuse.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/california-spends-99-million-annually-textiles-landfill-1234813012/",
+      "publishedAt": "2026-02-09T20:30:00",
+      "content": "A new report argues California could lock in its status as the country’s environmental-policy pace setter by getting serious about textile reuse."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Ray Unveils Digital Transformation To Fuel National Expansion",
+      "description": "The Ray is pleased to announce the official launch of its redesigned website—theray.",
+      "url": "https://csrwire.com/press-release/ray-unveils-digital-transformation-fuel-national-expansion/",
+      "publishedAt": "2026-02-09T09:40:00",
+      "content": "The Ray is pleased to announce the official launch of its redesigned website—theray."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mastercard: The Power of Data To Unlock More Inclusive Financial Experiences",
+      "description": "In today’s digitized world, data is everywhere – it provides insights into behavior and actions, informs decision-making, and drives innovation.",
+      "url": "https://csrwire.com/press-release/mastercard-power-data-unlock-more-inclusive-financial-experiences/",
+      "publishedAt": "2026-02-09T08:40:00",
+      "content": "In today’s digitized world, data is everywhere – it provides insights into behavior and actions, informs decision-making, and drives innovation."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BNP Paribas Significantly Beats its €200 Billion Low Carbon and Transition Finance Goal",
+      "description": "More than 80% of Paris-based global bank BNP Paribas’ energy production financing exposure was directed",
+      "url": "https://www.esgtoday.com/bnp-paribas-surpasses-80-of-energy-financing-to-low-carbon-energies/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-surpasses-80-of-energy-financing-to-low-carbon-energies",
+      "publishedAt": "2026-02-09T08:15:17",
+      "content": "More than 80% of Paris-based global bank BNP Paribas’ energy production financing exposure was directed"
     },
     {
       "source": {
@@ -158,6 +246,116 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Can Mountain Lions Survive as Humans Close In? California Is Trying to Find a Way.",
+      "description": "A giant freeway crossing for wildlife is due to open outside Los Angeles this year. Here’s the story of one young cat hemmed in near the city.",
+      "url": "https://www.nytimes.com/2026/02/09/climate/california-mountain-lions.html",
+      "publishedAt": "2026-02-10T00:18:18",
+      "content": "A giant freeway crossing for wildlife is due to open outside Los Angeles this year. Here’s the story of one young cat hemmed in near the city."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The Latest Victim of a Snowless West: Dog Sledding",
+      "description": "Organizers of the Idaho Sled Dog Challenge said they would no longer hold a major competition after snow conditions forced its cancellation for a third straight year.",
+      "url": "https://www.nytimes.com/2026/02/09/travel/sled-dog-races-canceled-western-united-states.html",
+      "publishedAt": "2026-02-09T23:45:43",
+      "content": "Organizers of the Idaho Sled Dog Challenge said they would no longer hold a major competition after snow conditions forced its cancellation for a third straight year."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Pakistan Accord Renewal Exposes Fault Lines in Brand Commitments",
+      "description": "While the binding agreement will be preserved in its current form through 2029, at least two brands have indicated they don’t intend to sign.",
+      "url": "https://sourcingjournal.com/topics/labor/pakistan-accord-renewal-hugo-boss-lpp-clean-clothes-1234813152/",
+      "publishedAt": "2026-02-09T22:23:48",
+      "content": "While the binding agreement will be preserved in its current form through 2029, at least two brands have indicated they don’t intend to sign."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "US Strikes Trade Deal With Bangladesh, Prioritizing Readymade Garment Sector",
+      "description": "After nine months of percolating anxiety about the future of its most prominent manufacturing sector—apparel and textiles—Bangladesh has reached a trade agreement with the United States.",
+      "url": "https://sourcingjournal.com/topics/trade/us-trade-deal-bangladesh-readymade-garment-sector-tariffs-1234813144/",
+      "publishedAt": "2026-02-09T20:41:49",
+      "content": "After nine months of percolating anxiety about the future of its most prominent manufacturing sector—apparel and textiles—Bangladesh has reached a trade agreement with the United States."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "How Ralph Lauren Turned Nostalgia Into Momentum",
+      "description": "At 86, Ralph Lauren isn’t coasting on legacy—he’s still shaping the cultural and commercial conversation.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/ralph-lauren-turned-nostalgia-into-momentum-denim-tartan-1234804232/",
+      "publishedAt": "2026-02-09T20:00:00",
+      "content": "At 86, Ralph Lauren isn’t coasting on legacy—he’s still shaping the cultural and commercial conversation."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘A beaver blind date’: animals given freedom to repopulate Cornish rivers",
+      "description": "Release into Helman Tor reserve marks historical first for keystone species hunted to extinction in UK 400 years agoShivering and rain-drenched at the side of a pond in Cornwall, a huddle of people...",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/a-beaver-blind-date-animals-given-freedom-to-repopulate-cornish-rivers",
+      "publishedAt": "2026-02-09T19:00:28",
+      "content": "Release into Helman Tor reserve marks historical first for keystone species hunted to extinction in UK 400 years agoShivering and rain-drenched at the side of a pond in Cornwall, a huddle of people..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Students had Antarctica questions. We answered them.",
+      "description": "Students sent in questions about our reporter’s journey to Antarctica, covering data recovery, clothing and more.",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/students-had-antarctica-questions-we-answered-them",
+      "publishedAt": "2026-02-09T14:25:32",
+      "content": "Students sent in questions about our reporter’s journey to Antarctica, covering data recovery, clothing and more."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weather tracker: Spain and Portugal hit by third deadly storm in two weeks",
+      "description": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days af...",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/weather-tracker-spain-and-portugal-hit-by-third-fatal-storm",
+      "publishedAt": "2026-02-09T11:00:20",
+      "content": "Storm Marta sweeps Iberian peninsula just days after Storms Kristin and Leonardo brought deadly flooding and major damageSpain and Portugal have endured another storm over the weekend, just days af..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "‘A Disaster Waiting to Happen’: How the Fracking Boom Put an Oil Field in the Guadalupe River Floodplain",
+      "description": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading oilfields, an Inside Climate News investigatio...",
+      "url": "https://insideclimatenews.org/news/08022026/texas-guadalupe-river-floodplain-fracking-boom/",
+      "publishedAt": "2026-02-08T10:00:00",
+      "content": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading oilfields, an Inside Climate News investigatio..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A walk on the wild side of Whin Sill | Susie White",
+      "description": "Cullernose Point, Northumberland: These cliffs are always thrilling, but today is a riot of sound and damp air as we take the coastal pathThe sea is still raging after yesterday’s storm, waves the ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/09/country-diary-the-fulmars-and-i-are-riding-the-wild-winds",
+      "publishedAt": "2026-02-09T05:30:51",
+      "content": "Cullernose Point, Northumberland: These cliffs are always thrilling, but today is a riot of sound and damp air as we take the coastal pathThe sea is still raging after yesterday’s storm, waves the ..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -191,14 +389,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "Bermuda snail thought to be extinct now thrives after a decade’s effort",
-      "description": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snailsA button-sized snail once feared extinct in its Bermudian home is thriving again after ...",
-      "url": "https://www.theguardian.com/environment/2026/feb/07/bermuda-snail-thought-to-be-extinct-now-thrives-after-a-decades-effort",
-      "publishedAt": "2026-02-07T06:00:56",
-      "content": "Special pods at Chester zoo helped conservationists breed and release more than 100,000 greater Bermuda snailsA button-sized snail once feared extinct in its Bermudian home is thriving again after ..."
+      "author": "Inside Climate News",
+      "title": "A Groundbreaking Geothermal Heating and Cooling Network Saves This Colorado College Money and Water",
+      "description": "GRAND JUNCTION, Colo.",
+      "url": "https://insideclimatenews.org/news/07022026/colorado-college-geothermal-network/",
+      "publishedAt": "2026-02-07T10:00:00",
+      "content": "GRAND JUNCTION, Colo."
     },
     {
       "source": {
@@ -246,168 +444,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Japan Ocean-Mining Test Successfully Hauls Up Potentially Valuable Mud",
-      "description": "It’s the latest twist in the controversial global race to mine the deep sea for rare-earth elements and other valuable resources.",
-      "url": "https://www.nytimes.com/2026/02/07/climate/ocean-seabed-mining-japan-rare-earths.html",
-      "publishedAt": "2026-02-07T19:17:52",
-      "content": "It’s the latest twist in the controversial global race to mine the deep sea for rare-earth elements and other valuable resources."
+      "author": "CSRWire",
+      "title": "The Martin Luther King Jr. Corridor Grants Along With Keep America Beautiful Receive Support From The Scotts Miracle-Gro Foundation",
+      "description": "Since 2020, the Martin Luther King Jr.",
+      "url": "https://csrwire.com/press-release/martin-luther-king-jr-corridor-grants-along-keep-america-beautiful-receive-support-scotts/",
+      "publishedAt": "2026-02-06T08:55:00",
+      "content": "Since 2020, the Martin Luther King Jr."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "UK electric vehicle charging firms ‘seeking buyers amid rising costs and tough competition’",
-      "description": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be.",
-      "url": "https://www.theguardian.com/environment/2026/feb/07/uk-electric-vehicle-charging-mergers-acquisitions-b-ev",
-      "publishedAt": "2026-02-07T12:00:02",
-      "content": "Mergers and acquisitions will shrink number of operators from more than 100 to five or six, says Be."
+      "author": "CSRWire",
+      "title": "Empowering Protected Area Technicians With IT Skills Through Cisco Networking Academy",
+      "description": "Many of us remember the iconic scene from Disney’s The Lion King where Mufasa teaches Simba about the “circle of life:” a powerful metaphor illustrating the interconnectedness of all living beings ...",
+      "url": "https://csrwire.com/press-release/empowering-protected-area-technicians-it-skills-through-cisco-networking-academy/",
+      "publishedAt": "2026-02-06T08:45:00",
+      "content": "Many of us remember the iconic scene from Disney’s The Lion King where Mufasa teaches Simba about the “circle of life:” a powerful metaphor illustrating the interconnectedness of all living beings ..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "What’s Behind the Weird Weather That’s Dominated 2026",
-      "description": "While iguanas were stunned by freezing cold in Florida, would-be skiers were looking at dirt on Utah’s slopes. Here’s what’s going on, and when it will finally end.",
-      "url": "https://www.nytimes.com/2026/02/07/weather/cold-snow-forecast-us.html",
-      "publishedAt": "2026-02-07T10:30:06",
-      "content": "While iguanas were stunned by freezing cold in Florida, would-be skiers were looking at dirt on Utah’s slopes. Here’s what’s going on, and when it will finally end."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Groundbreaking Geothermal Heating and Cooling Network Saves This Colorado College Money and Water",
-      "description": "GRAND JUNCTION, Colo.",
-      "url": "https://insideclimatenews.org/news/07022026/colorado-college-geothermal-network/",
-      "publishedAt": "2026-02-07T10:00:00",
-      "content": "GRAND JUNCTION, Colo."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Pennsylvania Governor Courts Data Centers While Seeking Consumer Protections",
-      "description": "Amid a national flight over data centers, Pennsylvania Gov.",
-      "url": "https://insideclimatenews.org/news/06022026/pennsylvania-governor-josh-shapiro-data-center-growth-consumer-protections/",
-      "publishedAt": "2026-02-06T23:19:32",
-      "content": "Amid a national flight over data centers, Pennsylvania Gov."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "NY/NJ Port’s Top Terminal Draws Suitors as Trade Shifts Away From China",
-      "description": "An official sale process has not yet begun and there is no timeline for a divestment, but multiple carriers and terminal operators have shown interest.",
-      "url": "https://sourcingjournal.com/topics/logistics/maher-terminals-sale-port-of-new-york-jersey-ny-nj-east-coast-trade-shift-china-msc-hapag-lloyd-dp-world-carriers-1234812933/",
-      "publishedAt": "2026-02-06T21:30:00",
-      "content": "An official sale process has not yet begun and there is no timeline for a divestment, but multiple carriers and terminal operators have shown interest."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: PayPal Replaces CEO",
-      "description": "Following a fraught fourth quarter, PayPal is replacing CEO Alex Chriss with its board chair and former HP executive, Enrique Lores.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-paypal-ceo-chriss-with-board-chair-lores-1234810105/",
-      "publishedAt": "2026-02-06T21:00:00",
-      "content": "Following a fraught fourth quarter, PayPal is replacing CEO Alex Chriss with its board chair and former HP executive, Enrique Lores."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Ksubi Channels Anti-Sport Attitude in Spring 2026 Collection",
-      "description": "The collection is called Future Memory.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/ksubi-channels-anti-sport-attitude-spring-2026-collection-1234812397/",
-      "publishedAt": "2026-02-06T20:00:00",
-      "content": "The collection is called Future Memory."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Weak Demand, Shrinking Capacity: Trucking Eyes  a Real Recovery",
-      "description": "A freight recession stretching back to 2022 has kept the trucking industry under prolonged pressure.",
-      "url": "https://sourcingjournal.com/topics/logistics/weak-demand-shrinking-capacity-trucking-eyes-recovery-1234812903/",
-      "publishedAt": "2026-02-06T18:45:00",
-      "content": "A freight recession stretching back to 2022 has kept the trucking industry under prolonged pressure."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Studying Antarctica’s Ice From the Side of a Helicopter",
-      "description": "The fastest way into the gaps between gigantic blocks of a broken-up glacier is by lowering instruments from above, through the door of a helicopter.",
-      "url": "https://www.nytimes.com/2026/02/06/climate/antarctica-thwaites-glacier-rifts.html",
-      "publishedAt": "2026-02-06T18:01:04",
-      "content": "The fastest way into the gaps between gigantic blocks of a broken-up glacier is by lowering instruments from above, through the door of a helicopter."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Off the Cuff With Eran Kaim, Scotch & Soda’s Chief Product Officer",
-      "description": "This spring, the brand captures the spirit of the West through sun bleached fabrics and washed denim.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/off-the-cuff-eran-kaim-scotch-and-soda-spring-summer-2026-1234798058/",
-      "publishedAt": "2026-02-06T18:00:00",
-      "content": "This spring, the brand captures the spirit of the West through sun bleached fabrics and washed denim."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Texas Judge Strikes Down Law Blacklisting Investment Firms that “Boycott” Fossil Fuel Companies",
-      "description": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that",
-      "url": "https://www.esgtoday.com/texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies/?utm_source=rss&utm_medium=rss&utm_campaign=texas-judge-strikes-down-law-blacklisting-investment-firms-that-boycott-fossil-fuel-companies",
-      "publishedAt": "2026-02-05T16:39:41",
-      "content": "A Texas District Court judge has struck down the state’s “business blacklist law,” ruling that"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Carbon Removal Project Developer Varaha Raises $20 Million",
-      "description": "Carbon project developer Varaha announced the launch of a Series B financing round of about",
-      "url": "https://www.esgtoday.com/carbon-removal-project-developer-varaha-raises-20-million/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-removal-project-developer-varaha-raises-20-million",
-      "publishedAt": "2026-02-05T15:27:39",
-      "content": "Carbon project developer Varaha announced the launch of a Series B financing round of about"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs 15-Year Offshore Wind Deal to Power AI Infrastructure in Germany",
-      "description": "European energy provider EnBW announced a new long-term power purchase agreement (PPA) with Google, providing",
-      "url": "https://www.esgtoday.com/google-signs-15-year-offshore-wind-deal-to-power-ai-infrastructure-in-germany/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-15-year-offshore-wind-deal-to-power-ai-infrastructure-in-germany",
-      "publishedAt": "2026-02-05T12:22:33",
-      "content": "European energy provider EnBW announced a new long-term power purchase agreement (PPA) with Google, providing"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Chevron Refinery May Take in More Venezuelan Oil.  Its Neighbors Are Concerned.",
-      "description": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out.",
-      "url": "https://www.nytimes.com/2026/02/04/climate/chevron-venezuela-mississippi-refinery.html",
-      "publishedAt": "2026-02-04T18:25:34",
-      "content": "The American claim on Venezuela’s oil means even more of it could come to a huge Chevron refinery in Mississippi. Neighbors worried about pollution want the company to move them out."
+      "author": "CSRWire",
+      "title": "Mastercard: The Network Effect: Inside the CDFI Networks and Associations Powering U.S. Small Business Growth",
+      "description": "Small businesses need capital to launch and scale their ideas. And yet, it remains one of the biggest barriers to growth for small businesses globally.",
+      "url": "https://csrwire.com/press-release/mastercard-network-effect-inside-cdfi-networks-and-associations-powering-us-small-business/",
+      "publishedAt": "2026-02-06T08:41:00",
+      "content": "Small businesses need capital to launch and scale their ideas. And yet, it remains one of the biggest barriers to growth for small businesses globally."
     }
   ]
 }
