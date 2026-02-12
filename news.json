@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 38,
   "articles": [
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "N.C. Judge Upholds the State’s Limits on 1,4-Dioxane Pollution in Utilities’ Wastewater",
+      "description": "A Wake County Superior Court judge has ruled against the cities of Asheboro, Greensboro and Reidsville, concluding that state environmental regulators can legally limit the amount of 1,4-dioxane, a...",
+      "url": "https://insideclimatenews.org/news/11022026/nc-1-4-dioxane-pollution-limits/",
+      "publishedAt": "2026-02-11T21:47:12",
+      "content": "A Wake County Superior Court judge has ruled against the cities of Asheboro, Greensboro and Reidsville, concluding that state environmental regulators can legally limit the amount of 1,4-dioxane, a..."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -18,11 +29,66 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "TotalEnergies Signs its Biggest U.S. Renewable Energy Deal to Power Google Data Centers",
-      "description": "France-based energy giant TotalEnergies announced today that it has signed two new long-term Power Purchase",
-      "url": "https://www.esgtoday.com/totalenergies-signs-its-biggest-u-s-renewable-energy-deal-to-power-google-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-signs-its-biggest-u-s-renewable-energy-deal-to-power-google-data-centers",
-      "publishedAt": "2026-02-09T10:01:42",
-      "content": "France-based energy giant TotalEnergies announced today that it has signed two new long-term Power Purchase"
+      "title": "Deutsche Bank Issues its First Green Bond Under the EuGB “Gold Standard”",
+      "description": "Deutsche Bank announced that it has raised €500 million (USD$593 million) in a new green",
+      "url": "https://www.esgtoday.com/deutsche-bank-issues-its-first-green-bond-under-the-eugb-gold-standard/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-issues-its-first-green-bond-under-the-eugb-gold-standard",
+      "publishedAt": "2026-02-11T14:44:11",
+      "content": "Deutsche Bank announced that it has raised €500 million (USD$593 million) in a new green"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Only 3% of Companies Cut Back on Sustainability Communication and Initiatives over Past Year: Workiva Survey",
+      "description": "The vast majority of companies have continued to advance their sustainability initiatives over the past",
+      "url": "https://www.esgtoday.com/only-3-of-companies-cut-back-on-sustainability-communication-and-initiatives-over-past-year-workiva-survey/?utm_source=rss&utm_medium=rss&utm_campaign=only-3-of-companies-cut-back-on-sustainability-communication-and-initiatives-over-past-year-workiva-survey",
+      "publishedAt": "2026-02-11T12:29:23",
+      "content": "The vast majority of companies have continued to advance their sustainability initiatives over the past"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Georgia-Pacific Partners with BradyPLUS to bring the KOLO® Smart Monitoring System 2.0 to Reduce Waste and Target Sustainability Goals",
+      "description": "From sold-out concerts to major sporting events, the fan experience starts before the first note or kickoff.",
+      "url": "https://csrwire.com/press-release/georgia-pacific-partners-bradyplus-bring-kolor-smart-monitoring-system-20-reduce-waste-and/",
+      "publishedAt": "2026-02-11T09:30:00",
+      "content": "From sold-out concerts to major sporting events, the fan experience starts before the first note or kickoff."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Reframing Climate Risk in the Supply Chain",
+      "description": "Guest post by: Alicia Heavisides, Head of ESG, Product Management at Dun & Bradstreet  Climate",
+      "url": "https://www.esgtoday.com/reframing-climate-risk-in-the-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=reframing-climate-risk-in-the-supply-chain",
+      "publishedAt": "2026-02-11T09:06:33",
+      "content": "Guest post by: Alicia Heavisides, Head of ESG, Product Management at Dun & Bradstreet  Climate"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Tonello Publishes First Sustainability Report",
+      "description": "The report emphasizes that machines are designed to minimize the use of water and energy.",
+      "url": "https://sourcingjournal.com/denim/denim-sustainability/tonello-publishes-its-first-sustainability-report-energy-1234813009/",
+      "publishedAt": "2026-02-11T18:00:00",
+      "content": "The report emphasizes that machines are designed to minimize the use of water and energy."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "‘Finding Harmony’ Documentary on King Charles Shows His Longtime Concern for Environment",
+      "description": "Environmentalism may have gone out of fashion on Wall Street and in the White House, but the British monarch says he remains deeply committed to the cause in a new documentary, ‘Finding Harmony’.",
+      "url": "https://www.nytimes.com/2026/02/11/world/europe/king-charles-harmony-documentary-climate.html",
+      "publishedAt": "2026-02-11T14:34:02",
+      "content": "Environmentalism may have gone out of fashion on Wall Street and in the White House, but the British monarch says he remains deeply committed to the cause in a new documentary, ‘Finding Harmony’."
     },
     {
       "source": {
@@ -34,6 +100,39 @@
       "url": "https://www.esgtoday.com/slr-acquires-sustainability-consulting-and-solutions-provider-sbco/?utm_source=rss&utm_medium=rss&utm_campaign=slr-acquires-sustainability-consulting-and-solutions-provider-sbco",
       "publishedAt": "2026-02-10T15:32:36",
       "content": "UK-based sustainability-focused consulting firm SLR announced today the acquisition of sustainability advisory firm SB&CO. Founded"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Deepki Acquires Real Estate Energy Management Solutions Provider Sobre Energie",
+      "description": "Real estate sustainability data solutions provider Deepki announced the acquisition of energy management company Sobre",
+      "url": "https://www.esgtoday.com/deepki-acquires-real-estate-energy-management-solutions-provider-sobre-energie/?utm_source=rss&utm_medium=rss&utm_campaign=deepki-acquires-real-estate-energy-management-solutions-provider-sobre-energie",
+      "publishedAt": "2026-02-11T15:22:31",
+      "content": "Real estate sustainability data solutions provider Deepki announced the acquisition of energy management company Sobre"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Bans Destruction of Unsold Clothing, Footwear",
+      "description": "The European Commission announced the adoption of new measures under its Ecodesign for Sustainable Products",
+      "url": "https://www.esgtoday.com/eu-bans-destruction-of-unsold-clothing-footwear/?utm_source=rss&utm_medium=rss&utm_campaign=eu-bans-destruction-of-unsold-clothing-footwear",
+      "publishedAt": "2026-02-11T14:00:16",
+      "content": "The European Commission announced the adoption of new measures under its Ecodesign for Sustainable Products"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Our Top-Rated More Sustainable Alternatives to Sézane",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-to-sezane/",
+      "publishedAt": "2026-02-10T23:00:42",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -59,39 +158,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Dcycle Acquires ESG-X to Scale Sustainability Data Management Business",
-      "description": "Sustainability data management company Dcycle announced today that it has signed an agreement to acquire",
-      "url": "https://www.esgtoday.com/dcycle-acquires-esg-x-to-scale-sustainability-data-management-business/?utm_source=rss&utm_medium=rss&utm_campaign=dcycle-acquires-esg-x-to-scale-sustainability-data-management-business",
-      "publishedAt": "2026-02-09T10:34:59",
-      "content": "Sustainability data management company Dcycle announced today that it has signed an agreement to acquire"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TPG’s Climate Fund Acquires Majority Stake in Grid Infrastructure Company Sabre Industries",
-      "description": "Alternative asset management firm TPG announced an agreement by its climate investing platform TPG Rise",
-      "url": "https://www.esgtoday.com/tpgs-climate-fund-acquires-majority-stake-in-grid-infrastructure-company-sabre-industries/?utm_source=rss&utm_medium=rss&utm_campaign=tpgs-climate-fund-acquires-majority-stake-in-grid-infrastructure-company-sabre-industries",
-      "publishedAt": "2026-02-09T09:36:05",
-      "content": "Alternative asset management firm TPG announced an agreement by its climate investing platform TPG Rise"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Relabelling Risk in Transition Finance: Why Evidence is Key",
-      "description": "Guest post by: Michael Horvath, Sustainability Leader, and Geoffroy Marcassoli, Sustainability Assurance Leader, at PwC",
-      "url": "https://www.esgtoday.com/relabelling-risk-in-transition-finance-why-evidence-is-key/?utm_source=rss&utm_medium=rss&utm_campaign=relabelling-risk-in-transition-finance-why-evidence-is-key",
-      "publishedAt": "2026-02-10T14:14:35",
-      "content": "Guest post by: Michael Horvath, Sustainability Leader, and Geoffroy Marcassoli, Sustainability Assurance Leader, at PwC"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -103,14 +169,69 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Why is the UK so rainy this year and how is the climate crisis making matters worse?",
-      "description": "It has rained in parts of the country every day of the year so far and downpours are expected to continue this weekIn a “miserable and relentlessly wet” start to the year, rain has fallen somewhere...",
-      "url": "https://www.theguardian.com/environment/2026/feb/09/why-is-the-uk-so-rainy-this-year-and-how-is-the-climate-crisis-making-matters-worse",
-      "publishedAt": "2026-02-09T14:56:56",
-      "content": "It has rained in parts of the country every day of the year so far and downpours are expected to continue this weekIn a “miserable and relentlessly wet” start to the year, rain has fallen somewhere..."
+      "author": "CSRWire",
+      "title": "Celebrating Women in Science: How Chemours Champions the Future of STEM",
+      "description": "Each year on the International Day of Women and Girls in Science, the world recognizes the critical role women play in driving innovation, advancing discovery, and strengthening communities.",
+      "url": "https://csrwire.com/press-release/celebrating-women-science-how-chemours-champions-future-stem/",
+      "publishedAt": "2026-02-11T13:30:00",
+      "content": "Each year on the International Day of Women and Girls in Science, the world recognizes the critical role women play in driving innovation, advancing discovery, and strengthening communities."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "FedEx and International Youth Foundation Mind the Gap in Logistics",
+      "description": "Around the world, the logistics sector is growing fast, but companies can’t find enough qualified workers to keep up.",
+      "url": "https://csrwire.com/press-release/fedex-and-international-youth-foundation-mind-gap-logistics/",
+      "publishedAt": "2026-02-11T11:00:00",
+      "content": "Around the world, the logistics sector is growing fast, but companies can’t find enough qualified workers to keep up."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Liberty Mutual, Ara Partners Launch Energy, Infrastructure Investment Partnership",
+      "description": "Global property and casualty insurer Liberty Mutual Insurance’s investment firm Liberty Mutual Investments (LMI) and",
+      "url": "https://www.esgtoday.com/liberty-mutual-ara-partners-launch-energy-infrastructure-investment-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=liberty-mutual-ara-partners-launch-energy-infrastructure-investment-partnership",
+      "publishedAt": "2026-02-11T10:48:43",
+      "content": "Global property and casualty insurer Liberty Mutual Insurance’s investment firm Liberty Mutual Investments (LMI) and"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "tem Raises $75 Million to Help Buy and Sell Clean Electricity Using AI",
+      "description": "Energy tech startup tem announced that it has raised $75 million in a Series B",
+      "url": "https://www.esgtoday.com/tem-raises-75-million-to-help-buy-and-sell-clean-electricity-using-ai/?utm_source=rss&utm_medium=rss&utm_campaign=tem-raises-75-million-to-help-buy-and-sell-clean-electricity-using-ai",
+      "publishedAt": "2026-02-11T09:55:38",
+      "content": "Energy tech startup tem announced that it has raised $75 million in a Series B"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Corporation Named One of Fortune’s Most Admired Companies for Sixteenth Consecutive Year",
+      "description": "Whirlpool Corporation has once again been recognized by Fortune as one of the “World’s Most Admired Companies,” marking the sixteenth consecutive year the company has earned this distinction.",
+      "url": "https://csrwire.com/press-release/whirlpool-corporation-named-one-fortunes-most-admired-companies-sixteenth-consecutive-year/",
+      "publishedAt": "2026-02-11T09:10:00",
+      "content": "Whirlpool Corporation has once again been recognized by Fortune as one of the “World’s Most Admired Companies,” marking the sixteenth consecutive year the company has earned this distinction."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Five Capabilities Construction Finance Teams Need for the Future",
+      "description": "Unpredictable supply chains, multiplying compliance requirements and a shrinking labor pool of experienced accounting talent.",
+      "url": "https://csrwire.com/press-release/five-capabilities-construction-finance-teams-need-future/",
+      "publishedAt": "2026-02-11T09:00:00",
+      "content": "Unpredictable supply chains, multiplying compliance requirements and a shrinking labor pool of experienced accounting talent."
     },
     {
       "source": {
@@ -125,6 +246,94 @@
     },
     {
       "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Make the Dot Takes Its Product-First Case to the Runway With Supima",
+      "description": "Partnering with Supima, Make the Dot uses its first fashion presentation to show how material-first digital development works.",
+      "url": "https://sourcingjournal.com/topics/technology/make-the-dot-takes-product-first-case-to-the-runway-supima-1234813466/",
+      "publishedAt": "2026-02-11T22:42:39",
+      "content": "Partnering with Supima, Make the Dot uses its first fashion presentation to show how material-first digital development works."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "States Weigh Bills to Allow You to Make Your Own Electricity",
+      "description": "Twenty four states are now considering legislation to allow small, plug-in solar power systems that connect directly into a wall socket.",
+      "url": "https://www.nytimes.com/2026/02/11/climate/plug-in-solar-power-bills.html",
+      "publishedAt": "2026-02-11T21:08:01",
+      "content": "Twenty four states are now considering legislation to allow small, plug-in solar power systems that connect directly into a wall socket."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Egypt Garment Exports Set to See Huge Growth",
+      "description": "The nation is aiming to increase annual textile export revenues to $11.5 billion by 2030, nearly four times Egypt’s 2024 revenue of $2.8 billion.",
+      "url": "https://sourcingjournal.com/topics/sourcing/egypt-garment-exports-huge-growth-1234813321/",
+      "publishedAt": "2026-02-11T17:03:42",
+      "content": "The nation is aiming to increase annual textile export revenues to $11.5 billion by 2030, nearly four times Egypt’s 2024 revenue of $2.8 billion."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Toxic Beauty: Black Women Most at Risk From Harmful Chemicals in Unregulated Hair Products",
+      "description": "Elissia Franklin is an analytical chemist with an infectious laugh, a penchant for braided hair extensions and a fierce commitment to reducing health disparities for Black women. Growing up on Chic...",
+      "url": "https://insideclimatenews.org/news/11022026/unregulated-hair-extensions-harmful-chemicals/",
+      "publishedAt": "2026-02-11T13:00:00",
+      "content": "Elissia Franklin is an analytical chemist with an infectious laugh, a penchant for braided hair extensions and a fierce commitment to reducing health disparities for Black women. Growing up on Chic..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The normal should be darkness’: why one Belgian national park is turning off ‘pointless’ streetlights",
+      "description": "The radical project is an attempt to preserve wildlife in one of Europe’s most light-polluted countries, but can they persuade local people they will still feel safe?Two yellowing street lamps cast...",
+      "url": "https://www.theguardian.com/environment/2026/feb/11/lights-belgian-park-lamps-light-polluted-night-time-environment-wildlife",
+      "publishedAt": "2026-02-11T12:00:05",
+      "content": "The radical project is an attempt to preserve wildlife in one of Europe’s most light-polluted countries, but can they persuade local people they will still feel safe?Two yellowing street lamps cast..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pennsylvania County Denies Rezoning Plan That Would Have Allowed a Data Center",
+      "description": "A Pennsylvania county on Tuesday rejected a plan to rezone land so a data center could be built there, becoming the latest locality to push back against an electricity-hungry industry growing rapid...",
+      "url": "https://insideclimatenews.org/news/11022026/pennsylvania-talen-energy-data-center-rezoning-denied/",
+      "publishedAt": "2026-02-11T10:00:00",
+      "content": "A Pennsylvania county on Tuesday rejected a plan to rezone land so a data center could be built there, becoming the latest locality to push back against an electricity-hungry industry growing rapid..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy and Partners Pack More Than 530,000 Meals for Vulnerable Communities in Honor of Martin Luther King Jr. Day",
+      "description": "In honor of Martin Luther King Jr.",
+      "url": "https://csrwire.com/press-release/entergy-and-partners-pack-more-530000-meals-vulnerable-communities-honor-martin-luther-king-jr/",
+      "publishedAt": "2026-02-10T17:20:00",
+      "content": "In honor of Martin Luther King Jr."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH Capital, Shepherd Compello, BNP Paribas Leasing Solutions and Swiss Re Unveil Parametric Service To Protect European Agriculture Against Extreme Weather Challenges",
+      "description": "CNH Capital together with BNP Paribas Leasing Solutions, and in collaboration with Shepherd Compello and Swiss Re, today announced the launch of an innovative Parametric Service designed to offer a...",
+      "url": "https://csrwire.com/press-release/cnh-capital-shepherd-compello-bnp-paribas-leasing-solutions-and-swiss-re-unveil-parametric/",
+      "publishedAt": "2026-02-10T16:00:00",
+      "content": "CNH Capital together with BNP Paribas Leasing Solutions, and in collaboration with Shepherd Compello and Swiss Re, today announced the launch of an innovative Parametric Service designed to offer a..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -136,124 +345,47 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "The Artist Nick Cave Couches His Critique in Dazzle",
-      "description": "For “Mammoth,” a new show at the Smithsonian American Art Museum, he takes up contentious issues of race and climate change in beads, sequins and Lite-Brite colors.",
-      "url": "https://www.nytimes.com/2026/02/10/arts/design/nick-cave-smithsonian.html",
-      "publishedAt": "2026-02-10T10:02:37",
-      "content": "For “Mammoth,” a new show at the Smithsonian American Art Museum, he takes up contentious issues of race and climate change in beads, sequins and Lite-Brite colors."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "newcleo Raises $88 Million to Build Nuclear Waste-Powered Reactors",
-      "description": "Nuclear technology startup newcleo announced that it has raised €75 million (USD$88 million) in a",
-      "url": "https://www.esgtoday.com/newcleo-raises-88-million-to-build-nuclear-waste-powered-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=newcleo-raises-88-million-to-build-nuclear-waste-powered-reactors",
-      "publishedAt": "2026-02-10T08:45:04",
-      "content": "Nuclear technology startup newcleo announced that it has raised €75 million (USD$88 million) in a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Terradot Acquires Carbon Removal Competitor Eion",
-      "description": "Enhanced rock weathering (ERW) startup Terradot announced that it has acquired the assets of ERW",
-      "url": "https://www.esgtoday.com/terradot-acquires-carbon-removal-peer-eion/?utm_source=rss&utm_medium=rss&utm_campaign=terradot-acquires-carbon-removal-peer-eion",
-      "publishedAt": "2026-02-10T08:23:09",
-      "content": "Enhanced rock weathering (ERW) startup Terradot announced that it has acquired the assets of ERW"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Better Brand Edit: Celebrate Love With These More Sustainable Valentine’s Day Gift Ideas",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-valentines-day-gift-ideas/",
-      "publishedAt": "2026-02-05T03:00:56",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Falling Freight Rates Undercut Hapag-Lloyd Earnings, Overshadow Volume Gains",
-      "description": "Despite stronger volumes than the broader container market, profit fell sharply as freight pricing deteriorated across major trade lanes.",
-      "url": "https://sourcingjournal.com/topics/logistics/hapag-lloyd-freight-rates-volume-ocean-carriers-gemini-cooperation-maersk-container-shipping-tracking-iot-wisetech-1234813364/",
-      "publishedAt": "2026-02-10T23:07:45",
-      "content": "Despite stronger volumes than the broader container market, profit fell sharply as freight pricing deteriorated across major trade lanes."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Returns Spike Along With Holiday Sales",
-      "description": "New insights into retail returns paint a clearer picture of what retailers believed was a surprisingly successful holiday season.",
-      "url": "https://sourcingjournal.com/topics/retail/holiday-sales-returns-narvar-consumer-insights-retail-ecommerce-1234813326/",
-      "publishedAt": "2026-02-10T22:04:54",
-      "content": "New insights into retail returns paint a clearer picture of what retailers believed was a surprisingly successful holiday season."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "UPS, Temu’s Irish Entities Locked in $44 Million Dispute",
-      "description": "The Dublin-based arms of UPS and Temu’s parent company, Whaleco Inc., are facing off over unpaid delivery bills related to the Chinese-founded e-tailer’s small-package shipments.",
-      "url": "https://sourcingjournal.com/topics/logistics/ups-temu-ireland-lawsuit-unpaid-delivery-bills-1234813329/",
-      "publishedAt": "2026-02-10T21:46:19",
-      "content": "The Dublin-based arms of UPS and Temu’s parent company, Whaleco Inc., are facing off over unpaid delivery bills related to the Chinese-founded e-tailer’s small-package shipments."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Paris Denim Style: Front Row to the Streets",
-      "description": "Jeans proved a versatile staple at Paris Fashion Week Men’s and Paris Haute Couture Week.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/denim-street-style-mens-fashion-week-paris-haute-couture-1234812875/",
-      "publishedAt": "2026-02-10T19:00:00",
-      "content": "Jeans proved a versatile staple at Paris Fashion Week Men’s and Paris Haute Couture Week."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Eileen Fisher Modernizes POS, Opts for Aptos One",
-      "description": "Eileen Fisher will deploy the Aptos One platform from the namesake retail technology solutions provider to empower the brand’s modern store experience.",
-      "url": "https://sourcingjournal.com/topics/retail/eileen-fisher-aptos-one-blockchain-1234813309/",
-      "publishedAt": "2026-02-10T18:17:33",
-      "content": "Eileen Fisher will deploy the Aptos One platform from the namesake retail technology solutions provider to empower the brand’s modern store experience."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Bangladesh in Need of Just Energy Transition",
-      "description": "A bipartisan group has developed a series of recommendations directed specifically at fashion brands sourcing from the nation.",
-      "url": "https://sourcingjournal.com/topics/sourcing/bangladesh-just-energy-transition-bgmea-stand-earth-1234813297/",
-      "publishedAt": "2026-02-10T18:06:51",
-      "content": "A bipartisan group has developed a series of recommendations directed specifically at fashion brands sourcing from the nation."
+      "author": "CSRWire",
+      "title": "Second to None in Business Excellence: Mary Kay Named #2 on the Forbes 2026 Best Customer Service List",
+      "description": "Mary Kay Inc.",
+      "url": "https://csrwire.com/press-release/second-none-business-excellence-mary-kay-named-2-forbes-2026-best-customer-service-list/",
+      "publishedAt": "2026-02-10T11:05:00",
+      "content": "Mary Kay Inc."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘We feel kinda bad when a solo bird shows up’: Canada sees its first European robin – but how did it get there?",
-      "description": "Birdwatchers flock to Montréal for rare sighting of ‘vagrant’ bird that has made its home during a bitterly cold winterOn a quiet Montréal street of low-rise brick apartment buildings on one side a...",
-      "url": "https://www.theguardian.com/environment/2026/feb/10/european-robin-canada-birdwatchers-montreal-rare-sighting-bird-aoe",
-      "publishedAt": "2026-02-10T12:00:35",
-      "content": "Birdwatchers flock to Montréal for rare sighting of ‘vagrant’ bird that has made its home during a bitterly cold winterOn a quiet Montréal street of low-rise brick apartment buildings on one side a..."
+      "title": "Birdwatch: Rain, water, wings – a winter’s gift at Cheddar reservoir",
+      "description": "Vast flocks of birds return to Somerset and a rare grebe turns an ordinary walk into something specialAfter weeks of heavy rain, Cheddar reservoir in Somerset is finally full again – of water, and ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/11/birdwatch-rain-water-wings-winter-cheddar-reservoir-grebe",
+      "publishedAt": "2026-02-11T06:00:10",
+      "content": "Vast flocks of birds return to Somerset and a rare grebe turns an ordinary walk into something specialAfter weeks of heavy rain, Cheddar reservoir in Somerset is finally full again – of water, and ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Echoes of Iona at this tiny, precious church | Merryn Glover",
+      "description": "Kincraig, Badenoch: The Loch Insh Old Kirk is a compelling place, and yet, like the copious wildlife here, it is on the edge of existenceThe snow has retreated to the tops of the Cairngorms and the...",
+      "url": "https://www.theguardian.com/environment/2026/feb/11/country-diary-echoes-of-iona-at-this-tiny-precious-church",
+      "publishedAt": "2026-02-11T05:30:08",
+      "content": "Kincraig, Badenoch: The Loch Insh Old Kirk is a compelling place, and yet, like the copious wildlife here, it is on the edge of existenceThe snow has retreated to the tops of the Cairngorms and the..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Are wetter winters and frequent flooding here to stay?",
+      "description": "Many places across the UK have experienced their wettest January in more than 100 years.",
+      "url": "https://www.bbc.com/news/articles/cvgjw0kpd89o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-11T02:59:08",
+      "content": "Many places across the UK have experienced their wettest January in more than 100 years."
     },
     {
       "source": {
@@ -268,17 +400,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Trailblazing Atmospheric Scientist Was ‘a Titan in the Scientific World’",
-      "description": "More than half a century ago, at Queen’s University Belfast in Northern Ireland, Michael McElroy’s classmates had just finished an exceptionally difficult math exam and were ready to vent. But firs...",
-      "url": "https://insideclimatenews.org/news/10022026/trailblazing-atmospheric-scientist-was-a-titan-in-the-scientific-world/",
-      "publishedAt": "2026-02-10T10:00:00",
-      "content": "More than half a century ago, at Queen’s University Belfast in Northern Ireland, Michael McElroy’s classmates had just finished an exceptionally difficult math exam and were ready to vent. But firs..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -287,72 +408,6 @@
       "url": "https://www.theguardian.com/environment/2026/feb/10/rethinking-economics-student-academic-organisation-changing-education",
       "publishedAt": "2026-02-10T08:00:16",
       "content": "Born of student disquiet after the 2008 crash, the group says it is reshaping economists’ educationAs the fallout from the 2008 global financial crash reverberated around the world, a group of stud..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "‘A Disaster Waiting to Happen’: How the Fracking Boom Put an Oil Field in the Guadalupe River Floodplain",
-      "description": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading oilfields, an Inside Climate News investigatio...",
-      "url": "https://insideclimatenews.org/news/08022026/texas-guadalupe-river-floodplain-fracking-boom/",
-      "publishedAt": "2026-02-08T10:00:00",
-      "content": "GONZALES, Texas—More than 500 enormous oil tanks dot the floodplains of the Guadalupe River and its tributaries where they cross one of Texas’ leading oilfields, an Inside Climate News investigatio..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Ding ding! Round 2 for the brawling badgers | Ed Douglas",
-      "description": "Abbeydale, Sheffield: I’m genuinely scared when I wake at 2am to the sound of screaming.",
-      "url": "https://www.theguardian.com/environment/2026/feb/10/country-diary-ding-ding-round-2-for-the-brawling-badgers",
-      "publishedAt": "2026-02-10T05:30:12",
-      "content": "Abbeydale, Sheffield: I’m genuinely scared when I wake at 2am to the sound of screaming."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Latest Victim of a Snowless West: Dog Sledding",
-      "description": "Organizers of the Idaho Sled Dog Challenge said they would no longer hold a major competition after snow conditions forced its cancellation for a third straight year.",
-      "url": "https://www.nytimes.com/2026/02/09/travel/sled-dog-races-canceled-western-united-states.html",
-      "publishedAt": "2026-02-09T23:45:43",
-      "content": "Organizers of the Idaho Sled Dog Challenge said they would no longer hold a major competition after snow conditions forced its cancellation for a third straight year."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A beaver blind date’: animals given freedom to repopulate Cornish rivers",
-      "description": "Release into Helman Tor reserve marks historical first for keystone species hunted to extinction in UK 400 years agoShivering and rain-drenched at the side of a pond in Cornwall, a huddle of people...",
-      "url": "https://www.theguardian.com/environment/2026/feb/09/a-beaver-blind-date-animals-given-freedom-to-repopulate-cornish-rivers",
-      "publishedAt": "2026-02-09T19:00:28",
-      "content": "Release into Helman Tor reserve marks historical first for keystone species hunted to extinction in UK 400 years agoShivering and rain-drenched at the side of a pond in Cornwall, a huddle of people..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Students had Antarctica questions. We answered them.",
-      "description": "Students sent in questions about our reporter’s journey to Antarctica, covering data recovery, clothing and more.",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/students-had-antarctica-questions-we-answered-them",
-      "publishedAt": "2026-02-09T14:25:32",
-      "content": "Students sent in questions about our reporter’s journey to Antarctica, covering data recovery, clothing and more."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Disaster Looms on the Guadalupe River Floodplain",
-      "description": "An epic flood a generation ago drenched areas around Texas’ Guadalupe River, showing how quickly and dangerously the region could be submerged.",
-      "url": "https://insideclimatenews.org/news/08022026/icn-sunday-morning-guadalupe-river-floodplain-fracking/",
-      "publishedAt": "2026-02-08T09:50:00",
-      "content": "An epic flood a generation ago drenched areas around Texas’ Guadalupe River, showing how quickly and dangerously the region could be submerged."
     },
     {
       "source": {
