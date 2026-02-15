@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 45,
   "articles": [
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "China Is Leaving America in the Dust on Clean Energy",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with journalist Isabel Hilton.  As the United States fully withdrew ...",
+      "url": "https://insideclimatenews.org/news/14022026/china-dominates-clean-energy/",
+      "publishedAt": "2026-02-14T09:50:00",
+      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with journalist Isabel Hilton.  As the United States fully withdrew ..."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -23,17 +34,6 @@
       "url": "https://www.esgtoday.com/fusion-startup-inertia-raises-450-million-to-deliver-clean-energy-with-worlds-most-powerful-laser/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-startup-inertia-raises-450-million-to-deliver-clean-energy-with-worlds-most-powerful-laser",
       "publishedAt": "2026-02-13T13:36:50",
       "content": "Fusion energy startup Inertia Enterprises announced that it has raised $450 million in a Series"
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "What You Missed at Sustainability Talks Istanbul",
-      "description": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/sustainability-talks-istanbul-2025-shared-responsibility-1234813609/",
-      "publishedAt": "2026-02-13T21:41:51",
-      "content": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition."
     },
     {
       "source": {
@@ -70,6 +70,39 @@
     },
     {
       "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "What You Missed at Sustainability Talks Istanbul",
+      "description": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/sustainability-talks-istanbul-2025-shared-responsibility-1234813609/",
+      "publishedAt": "2026-02-13T21:41:51",
+      "content": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Democratic senators launch inquiry into EPA’s repeal of key air pollution enforcement measure",
+      "description": "Senators said repeal was ‘particularly troubling’ and was counter to EPA’s mandate to protect human healthMore than three dozen Democratic senators have begun an independent inquiry into the US Env...",
+      "url": "https://www.theguardian.com/environment/2026/feb/14/democratic-senators-inquiry-epa-air-pollution-enforcement",
+      "publishedAt": "2026-02-14T16:32:38",
+      "content": "Senators said repeal was ‘particularly troubling’ and was counter to EPA’s mandate to protect human healthMore than three dozen Democratic senators have begun an independent inquiry into the US Env..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Mamdani’s New Chief Climate Officer Wants to Make New York a ‘Better Place to Live’",
+      "description": "In Louise Yeung’s decade of work in New York City government, she has helped rebuild flood infrastructure after Hurricane Sandy, worked to make streets and tunnels more resilient to climate change ...",
+      "url": "https://insideclimatenews.org/news/14022026/new-york-city-chief-climate-officer/",
+      "publishedAt": "2026-02-14T09:55:00",
+      "content": "In Louise Yeung’s decade of work in New York City government, she has helped rebuild flood infrastructure after Hurricane Sandy, worked to make streets and tunnels more resilient to climate change ..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -103,6 +136,17 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "New Research Absolves the Woman Blamed for a Dynasty’s Ruin",
+      "description": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles.",
+      "url": "https://www.nytimes.com/2026/02/14/world/asia/china-zhou-dynasty-king-climate-change.html",
+      "publishedAt": "2026-02-15T06:10:49",
+      "content": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles."
+    },
+    {
+      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -111,6 +155,17 @@
       "url": "https://triplepundit.com/2026/rio-de-janeiro-carnival-costume-recycling-upcycling/",
       "publishedAt": "2026-02-13T20:45:20",
       "content": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "SEC Chair Says Commission to Review ESG Fund Names Rule",
+      "description": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by",
+      "url": "https://www.esgtoday.com/sec-chair-commission-to-review-esg-fund-names-rule/?utm_source=rss&utm_medium=rss&utm_campaign=sec-chair-commission-to-review-esg-fund-names-rule",
+      "publishedAt": "2026-02-12T12:07:05",
+      "content": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by"
     },
     {
       "source": {
@@ -125,25 +180,80 @@
     },
     {
       "source": {
-        "name": "Al Jazeera"
+        "name": "Good On You"
       },
-      "author": "Al Jazeera",
-      "title": "US pressures Vanuatu at UN over ICJ’s landmark climate change ruling",
-      "description": "A cable seen by Al Jazeera says the US 'strongly objects' to the island nation seeking support for the ICJ's ruling.",
-      "url": "https://www.aljazeera.com/news/2026/2/14/us-pressures-vanuatu-at-un-over-icjs-landmark-climate-change-ruling?traffic_source=rss",
-      "publishedAt": "2026-02-14T05:54:48",
-      "content": "A cable seen by Al Jazeera says the US 'strongly objects' to the island nation seeking support for the ICJ's ruling."
+      "author": "Good On You",
+      "title": "Our Top-Rated More Sustainable Alternatives to Sézane",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-to-sezane/",
+      "publishedAt": "2026-02-10T23:00:42",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Where to Find More Sustainable Clothes for Tall People",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-clothes-for-tall-people/",
+      "publishedAt": "2026-02-10T01:11:06",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "How Sustainable is Intimissimi?",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/how-sustainable-is-intimissimi/",
+      "publishedAt": "2026-02-09T00:58:25",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "New Research Absolves the Woman Blamed for a Dynasty’s Ruin",
-      "description": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles.",
-      "url": "https://www.nytimes.com/2026/02/14/world/asia/china-zhou-dynasty-king-climate-change.html",
-      "publishedAt": "2026-02-14T05:01:07",
-      "content": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles."
+      "title": "States Miss a Big Deadline, Ending Chance for a Colorado River Water Deal",
+      "description": "After two years of negotiations, seven states failed to agree on reduced water use. A federal plan for the river could land in court.",
+      "url": "https://www.nytimes.com/2026/02/13/climate/colorado-river-cooperation-missed-deadline.html",
+      "publishedAt": "2026-02-15T03:15:57",
+      "content": "After two years of negotiations, seven states failed to agree on reduced water use. A federal plan for the river could land in court."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘What do we want gardens to sound like?’ It began with a frog pond – then suburban rewilding became an obsession",
+      "description": "Wild gardening is about shedding obsessions with tidiness, embracing a looser aesthetic and providing a home for ‘the most important creatures on the planet’On a wintry January day in Manchester, I...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/15/wild-gardening-rewilding-garden-sounds",
+      "publishedAt": "2026-02-14T19:00:03",
+      "content": "Wild gardening is about shedding obsessions with tidiness, embracing a looser aesthetic and providing a home for ‘the most important creatures on the planet’On a wintry January day in Manchester, I..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "For Maine’s Lakes, Shorter Ice Seasons Mean Loss of Water Quality, Winter Traditions",
+      "description": "Ice fascinates Richard Behr.",
+      "url": "https://insideclimatenews.org/news/14022026/maine-shorter-ice-season-water-quality/",
+      "publishedAt": "2026-02-14T10:00:00",
+      "content": "Ice fascinates Richard Behr."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Race to find source of carcinogenic Pfas in Cumbria and Lancashire waters",
+      "description": "Exclusive: High levels of banned ‘forever chemical’ have been detected in rivers and groundwater at 25 sitesA string of toxic pollution hotspots has been uncovered across Cumbria and Lancashire, wi...",
+      "url": "https://www.theguardian.com/environment/2026/feb/14/race-to-find-source-of-carcinogenic-chemical-pfos-polluting-cumbria-and-lancashire-waters",
+      "publishedAt": "2026-02-14T06:00:46",
+      "content": "Exclusive: High levels of banned ‘forever chemical’ have been detected in rivers and groundwater at 25 sitesA string of toxic pollution hotspots has been uncovered across Cumbria and Lancashire, wi..."
     },
     {
       "source": {
@@ -191,58 +301,58 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘We are hopeful’: small signs of recovery for Scotland’s rare capercaillie bird",
+      "description": "Number of males at RSPB Abernethy rises to 30, after ‘huge amount of work’ by conservationists in Highlands forestsAfter decades of decline, there are signs of hope for the capercaillie, one of Bri...",
+      "url": "https://www.theguardian.com/environment/2026/feb/13/small-signs-of-recovery-scotland-rare-capercaillie-bird",
+      "publishedAt": "2026-02-13T06:00:37",
+      "content": "Number of males at RSPB Abernethy rises to 30, after ‘huge amount of work’ by conservationists in Highlands forestsAfter decades of decline, there are signs of hope for the capercaillie, one of Bri..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Partners in Activating Healthy Indoor Air",
+      "description": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus.",
+      "url": "https://csrwire.com/press-release/partners-activating-healthy-indoor-air/",
+      "publishedAt": "2026-02-12T16:00:00",
+      "content": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "SEC Chair Says Commission to Review ESG Fund Names Rule",
-      "description": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by",
-      "url": "https://www.esgtoday.com/sec-chair-commission-to-review-esg-fund-names-rule/?utm_source=rss&utm_medium=rss&utm_campaign=sec-chair-commission-to-review-esg-fund-names-rule",
-      "publishedAt": "2026-02-12T12:07:05",
-      "content": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by"
+      "title": "BNP Paribas, Eclipse Partner to Build Battery Storage Across Europe",
+      "description": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the",
+      "url": "https://www.esgtoday.com/bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe",
+      "publishedAt": "2026-02-12T13:43:51",
+      "content": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "Our Top-Rated More Sustainable Alternatives to Sézane",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-to-sezane/",
-      "publishedAt": "2026-02-10T23:00:42",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "The Beauty of AI and Why AI Needs More Women",
+      "description": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow.",
+      "url": "https://csrwire.com/press-release/beauty-ai-and-why-ai-needs-more-women/",
+      "publishedAt": "2026-02-12T08:00:00",
+      "content": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "Where to Find More Sustainable Clothes for Tall People",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-clothes-for-tall-people/",
-      "publishedAt": "2026-02-10T01:11:06",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Sustainable is Intimissimi?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-sustainable-is-intimissimi/",
-      "publishedAt": "2026-02-09T00:58:25",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Another Missed Deadline Casts Doubt on Colorado River Cooperation",
-      "description": "After two years of negotiations, seven states are no closer to agreeing on reduced water use. The stalemate could soon land in court.",
-      "url": "https://www.nytimes.com/2026/02/13/climate/colorado-river-cooperation-missed-deadline.html",
-      "publishedAt": "2026-02-13T22:50:49",
-      "content": "After two years of negotiations, seven states are no closer to agreeing on reduced water use. The stalemate could soon land in court."
+      "author": "The Guardian",
+      "title": "Country diary: There’s a monster looming over our garden | Gwyneth Lewis",
+      "description": "Cardiff: It steals light, it discourages growth at its base, and it blocks what was once a panoramic view.",
+      "url": "https://www.theguardian.com/environment/2026/feb/14/country-diary-theres-a-monster-looming-over-our-garden",
+      "publishedAt": "2026-02-14T05:30:44",
+      "content": "Cardiff: It steals light, it discourages growth at its base, and it blocks what was once a panoramic view."
     },
     {
       "source": {
@@ -323,58 +433,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "‘We are hopeful’: small signs of recovery for Scotland’s rare capercaillie bird",
-      "description": "Number of males at RSPB Abernethy rises to 30, after ‘huge amount of work’ by conservationists in Highlands forestsAfter decades of decline, there are signs of hope for the capercaillie, one of Bri...",
-      "url": "https://www.theguardian.com/environment/2026/feb/13/small-signs-of-recovery-scotland-rare-capercaillie-bird",
-      "publishedAt": "2026-02-13T06:00:37",
-      "content": "Number of males at RSPB Abernethy rises to 30, after ‘huge amount of work’ by conservationists in Highlands forestsAfter decades of decline, there are signs of hope for the capercaillie, one of Bri..."
+      "author": "Inside Climate News",
+      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
+      "description": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River.",
+      "url": "https://insideclimatenews.org/news/12022026/yangtze-river-fishing-ban-conservation/",
+      "publishedAt": "2026-02-12T19:00:00",
+      "content": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Tony Blair’s thinktank accuses Ed Miliband of driving up energy prices",
-      "description": "Report by Tony Blair Institute urges government to drop some green policies amid criticism of decarbonisation goalAnalysis: Blair’s oil lobbying is a misleading rehash of fossil fuel industry spinT...",
-      "url": "https://www.theguardian.com/environment/2026/feb/13/tony-blair-institute-thinktank-ed-miliband-energy-prices",
-      "publishedAt": "2026-02-13T00:01:30",
-      "content": "Report by Tony Blair Institute urges government to drop some green policies amid criticism of decarbonisation goalAnalysis: Blair’s oil lobbying is a misleading rehash of fossil fuel industry spinT..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Partners in Activating Healthy Indoor Air",
-      "description": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus.",
-      "url": "https://csrwire.com/press-release/partners-activating-healthy-indoor-air/",
-      "publishedAt": "2026-02-12T16:00:00",
-      "content": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BNP Paribas, Eclipse Partner to Build Battery Storage Across Europe",
-      "description": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the",
-      "url": "https://www.esgtoday.com/bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe",
-      "publishedAt": "2026-02-12T13:43:51",
-      "content": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Beauty of AI and Why AI Needs More Women",
-      "description": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow.",
-      "url": "https://csrwire.com/press-release/beauty-ai-and-why-ai-needs-more-women/",
-      "publishedAt": "2026-02-12T08:00:00",
-      "content": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow."
+      "author": "BBC",
+      "title": "Supersized dump fire risk report kept from public",
+      "description": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk.",
+      "url": "https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-12T07:13:00",
+      "content": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk."
     },
     {
       "source": {
@@ -419,61 +496,6 @@
       "url": "https://csrwire.com/press-release/five-capabilities-construction-finance-teams-need-future/",
       "publishedAt": "2026-02-11T09:00:00",
       "content": "Unpredictable supply chains, multiplying compliance requirements and a shrinking labor pool of experienced accounting talent."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Weatherwatch: The surprisingly complex science of ice skating",
-      "description": "Pressure, frictional heating and a disordered layer of molecules on top of the ice make skating possibleIce skating is counterintuitive: why should a narrow blade make it easier to slide over the i...",
-      "url": "https://www.theguardian.com/news/2026/feb/13/weatherwatch-science-how-ice-skating-works",
-      "publishedAt": "2026-02-13T06:00:38",
-      "content": "Pressure, frictional heating and a disordered layer of molecules on top of the ice make skating possibleIce skating is counterintuitive: why should a narrow blade make it easier to slide over the i..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "China’s Yangtze River shows signs of remarkable recovery after fishing ban",
-      "description": "Doubling of fish biomass and rebounding of endangered species shows government measures starting to work, biologists sayThe Yangtze River in China, which has been in ecological decline for 70 years...",
-      "url": "https://www.theguardian.com/environment/2026/feb/12/china-yangtze-river-recovery-after-fishing-ban",
-      "publishedAt": "2026-02-12T19:00:22",
-      "content": "Doubling of fish biomass and rebounding of endangered species shows government measures starting to work, biologists sayThe Yangtze River in China, which has been in ecological decline for 70 years..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
-      "description": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River.",
-      "url": "https://insideclimatenews.org/news/12022026/yangtze-river-fishing-ban-conservation/",
-      "publishedAt": "2026-02-12T19:00:00",
-      "content": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "‘The Sky Isn’t Falling’: Providing Perspective on the Data Center Boom",
-      "description": "The rise of AI data centers has sparked panic about how to provide enough electricity to support new development without overheating the planet and saddling everyone with unaffordable utility costs...",
-      "url": "https://insideclimatenews.org/news/12022026/inside-clean-energy-data-center-boom-electricity-demand/",
-      "publishedAt": "2026-02-12T14:00:00",
-      "content": "The rise of AI data centers has sparked panic about how to provide enough electricity to support new development without overheating the planet and saddling everyone with unaffordable utility costs..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Supersized dump fire risk report kept from public",
-      "description": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk.",
-      "url": "https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-12T07:13:00",
-      "content": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk."
     }
   ]
 }
