@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 44,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The greening of career education: US students learn new skills as climate crisis intensifies",
+      "description": "Some districts are adding programs in clean energy and sustainability, while one state is infusing environmental lessons into culinary education and constructionOn one end of the classroom, high sc...",
+      "url": "https://www.theguardian.com/us-news/2026/feb/15/us-students-energy-climate-crisis",
+      "publishedAt": "2026-02-15T13:00:23",
+      "content": "Some districts are adding programs in clean energy and sustainability, while one state is infusing environmental lessons into culinary education and constructionOn one end of the classroom, high sc..."
+    },
     {
       "source": {
         "name": "Inside Climate News"
@@ -37,6 +48,17 @@
     },
     {
       "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "What You Missed at Sustainability Talks Istanbul",
+      "description": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/sustainability-talks-istanbul-2025-shared-responsibility-1234813609/",
+      "publishedAt": "2026-02-13T21:41:51",
+      "content": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -59,25 +81,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Carbon Markets Could Save the Political Mandate for Net Zero in the EU  — But They Have to Work",
-      "description": "Guest post by: Sebastien Cross, Co-founder and Chief Innovation Officer, BeZero Carbon The adoption of",
-      "url": "https://www.esgtoday.com/carbon-markets-could-save-the-political-mandate-for-net-zero-in-the-eu-but-they-have-to-work/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-markets-could-save-the-political-mandate-for-net-zero-in-the-eu-but-they-have-to-work",
-      "publishedAt": "2026-02-12T08:57:41",
-      "content": "Guest post by: Sebastien Cross, Co-founder and Chief Innovation Officer, BeZero Carbon The adoption of"
+      "author": "The Guardian",
+      "title": "‘It makes no sense’: the battle over plans for a windfarm by the Yorkshire Dales",
+      "description": "The fight for Hope Moor is set to be repeated across the UK as the government aims to hit its renewable energy targetsInstead of a slingshot, the Davids are brandishing a sculpture and a coffee tab...",
+      "url": "https://www.theguardian.com/environment/2026/feb/15/battle-plans-windfarm-yorkshire-dales",
+      "publishedAt": "2026-02-15T07:00:16",
+      "content": "The fight for Hope Moor is set to be repeated across the UK as the government aims to hit its renewable energy targetsInstead of a slingshot, the Davids are brandishing a sculpture and a coffee tab..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Good On You"
       },
-      "author": "Sourcing Journal",
-      "title": "What You Missed at Sustainability Talks Istanbul",
-      "description": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/sustainability-talks-istanbul-2025-shared-responsibility-1234813609/",
-      "publishedAt": "2026-02-13T21:41:51",
-      "content": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition."
+      "author": "Good On You",
+      "title": "More Sustainable Kidswear: 2 Good On You Staffers (and Parents) Share Their Picks",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/team-picks-february-2026/",
+      "publishedAt": "2026-02-15T23:46:52",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "California Pays Farms to Make Biogas from Hog Waste in North Carolina, Where Locals Say It’s Fueling Pollution",
+      "description": "TURKEY, N.",
+      "url": "https://insideclimatenews.org/news/15022026/north-carolina-hog-waste-biogas-fuels-california/",
+      "publishedAt": "2026-02-15T10:05:00",
+      "content": "TURKEY, N."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "SkyNRG Secures Funding to Build Netherlands’ First Sustainable Aviation Fuel Plant",
+      "description": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and",
+      "url": "https://www.esgtoday.com/skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant/?utm_source=rss&utm_medium=rss&utm_campaign=skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant",
+      "publishedAt": "2026-02-13T10:46:03",
+      "content": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and"
     },
     {
       "source": {
@@ -100,17 +144,6 @@
       "url": "https://insideclimatenews.org/news/14022026/new-york-city-chief-climate-officer/",
       "publishedAt": "2026-02-14T09:55:00",
       "content": "In Louise Yeung’s decade of work in New York City government, she has helped rebuild flood infrastructure after Hurricane Sandy, worked to make streets and tunnels more resilient to climate change ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "SkyNRG Secures Funding to Build Netherlands’ First Sustainable Aviation Fuel Plant",
-      "description": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and",
-      "url": "https://www.esgtoday.com/skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant/?utm_source=rss&utm_medium=rss&utm_campaign=skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant",
-      "publishedAt": "2026-02-13T10:46:03",
-      "content": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and"
     },
     {
       "source": {
@@ -142,7 +175,7 @@
       "title": "New Research Absolves the Woman Blamed for a Dynasty’s Ruin",
       "description": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles.",
       "url": "https://www.nytimes.com/2026/02/14/world/asia/china-zhou-dynasty-king-climate-change.html",
-      "publishedAt": "2026-02-15T06:10:49",
+      "publishedAt": "2026-02-16T04:01:30",
       "content": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles."
     },
     {
@@ -155,17 +188,6 @@
       "url": "https://triplepundit.com/2026/rio-de-janeiro-carnival-costume-recycling-upcycling/",
       "publishedAt": "2026-02-13T20:45:20",
       "content": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "SEC Chair Says Commission to Review ESG Fund Names Rule",
-      "description": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by",
-      "url": "https://www.esgtoday.com/sec-chair-commission-to-review-esg-fund-names-rule/?utm_source=rss&utm_medium=rss&utm_campaign=sec-chair-commission-to-review-esg-fund-names-rule",
-      "publishedAt": "2026-02-12T12:07:05",
-      "content": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by"
     },
     {
       "source": {
@@ -202,47 +224,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Sustainable is Intimissimi?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-sustainable-is-intimissimi/",
-      "publishedAt": "2026-02-09T00:58:25",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "States Miss a Big Deadline, Ending Chance for a Colorado River Water Deal",
-      "description": "After two years of negotiations, seven states failed to agree on reduced water use. A federal plan for the river could land in court.",
-      "url": "https://www.nytimes.com/2026/02/13/climate/colorado-river-cooperation-missed-deadline.html",
-      "publishedAt": "2026-02-15T03:15:57",
-      "content": "After two years of negotiations, seven states failed to agree on reduced water use. A federal plan for the river could land in court."
+      "title": "Three Olympic Athletes Were Just Disqualified for a Novel Reason: PFAS",
+      "description": "Their skis and snowboards tested positive for “forever chemicals,” slippery-but-dangerous chemicals now banned in the Games.",
+      "url": "https://www.nytimes.com/2026/02/15/climate/olympics-ski-snowboard-wax-pfas-forever-chemicals.html",
+      "publishedAt": "2026-02-15T16:07:26",
+      "content": "Their skis and snowboards tested positive for “forever chemicals,” slippery-but-dangerous chemicals now banned in the Games."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘What do we want gardens to sound like?’ It began with a frog pond – then suburban rewilding became an obsession",
-      "description": "Wild gardening is about shedding obsessions with tidiness, embracing a looser aesthetic and providing a home for ‘the most important creatures on the planet’On a wintry January day in Manchester, I...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/feb/15/wild-gardening-rewilding-garden-sounds",
-      "publishedAt": "2026-02-14T19:00:03",
-      "content": "Wild gardening is about shedding obsessions with tidiness, embracing a looser aesthetic and providing a home for ‘the most important creatures on the planet’On a wintry January day in Manchester, I..."
+      "title": "Charity buys £2.2m tract of land for Wales’ biggest rewilding project",
+      "description": "Project in Ceredigion aims to help country catch up with large-scale nature recovery projects elsewhere in UKA Welsh charity has bought more than 480 hectares (1,195 acres) in Ceredigion to establi...",
+      "url": "https://www.theguardian.com/environment/2026/feb/15/welsh-charity-buys-more-than-405-hectares-for-rewilding",
+      "publishedAt": "2026-02-15T14:55:08",
+      "content": "Project in Ceredigion aims to help country catch up with large-scale nature recovery projects elsewhere in UKA Welsh charity has bought more than 480 hectares (1,195 acres) in Ceredigion to establi..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "For Maine’s Lakes, Shorter Ice Seasons Mean Loss of Water Quality, Winter Traditions",
-      "description": "Ice fascinates Richard Behr.",
-      "url": "https://insideclimatenews.org/news/14022026/maine-shorter-ice-season-water-quality/",
-      "publishedAt": "2026-02-14T10:00:00",
-      "content": "Ice fascinates Richard Behr."
+      "title": "Texas to Study ‘Batch Zero’ of Data Centers by Late Summer",
+      "description": "A month after the state’s grid operator said it would pull together data centers and other large load projects that have been waiting to connect to the grid into a group called “batch zero,” that p...",
+      "url": "https://insideclimatenews.org/news/15022026/texas-batch-zero-study-data-centers/",
+      "publishedAt": "2026-02-15T09:55:00",
+      "content": "A month after the state’s grid operator said it would pull together data centers and other large load projects that have been waiting to connect to the grid into a group called “batch zero,” that p..."
     },
     {
       "source": {
@@ -254,17 +265,6 @@
       "url": "https://www.theguardian.com/environment/2026/feb/14/race-to-find-source-of-carcinogenic-chemical-pfos-polluting-cumbria-and-lancashire-waters",
       "publishedAt": "2026-02-14T06:00:46",
       "content": "Exclusive: High levels of banned ‘forever chemical’ have been detected in rivers and groundwater at 25 sitesA string of toxic pollution hotspots has been uncovered across Cumbria and Lancashire, wi..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What a Times Reporter on an Antarctica Expedition Eats in a Day",
-      "description": "Our climate reporter Raymond Zhong has spent more than a month on a South Korean ship in Antarctica with nearly 40 scientists from around the world. Here’s everything he eats in a day.",
-      "url": "https://www.nytimes.com/video/climate/100000010692435/antarctica-glacier-food-ship.html",
-      "publishedAt": "2026-02-13T23:17:04",
-      "content": "Our climate reporter Raymond Zhong has spent more than a month on a South Korean ship in Antarctica with nearly 40 scientists from around the world. Here’s everything he eats in a day."
     },
     {
       "source": {
@@ -301,47 +301,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘We are hopeful’: small signs of recovery for Scotland’s rare capercaillie bird",
-      "description": "Number of males at RSPB Abernethy rises to 30, after ‘huge amount of work’ by conservationists in Highlands forestsAfter decades of decline, there are signs of hope for the capercaillie, one of Bri...",
-      "url": "https://www.theguardian.com/environment/2026/feb/13/small-signs-of-recovery-scotland-rare-capercaillie-bird",
-      "publishedAt": "2026-02-13T06:00:37",
-      "content": "Number of males at RSPB Abernethy rises to 30, after ‘huge amount of work’ by conservationists in Highlands forestsAfter decades of decline, there are signs of hope for the capercaillie, one of Bri..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Partners in Activating Healthy Indoor Air",
-      "description": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus.",
-      "url": "https://csrwire.com/press-release/partners-activating-healthy-indoor-air/",
-      "publishedAt": "2026-02-12T16:00:00",
-      "content": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "BNP Paribas, Eclipse Partner to Build Battery Storage Across Europe",
-      "description": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the",
-      "url": "https://www.esgtoday.com/bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe",
-      "publishedAt": "2026-02-12T13:43:51",
-      "content": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the"
+      "title": "SEC Chair Says Commission to Review ESG Fund Names Rule",
+      "description": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by",
+      "url": "https://www.esgtoday.com/sec-chair-commission-to-review-esg-fund-names-rule/?utm_source=rss&utm_medium=rss&utm_campaign=sec-chair-commission-to-review-esg-fund-names-rule",
+      "publishedAt": "2026-02-12T12:07:05",
+      "content": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by"
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "The Beauty of AI and Why AI Needs More Women",
-      "description": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow.",
-      "url": "https://csrwire.com/press-release/beauty-ai-and-why-ai-needs-more-women/",
-      "publishedAt": "2026-02-12T08:00:00",
-      "content": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow."
+      "author": "Inside Climate News",
+      "title": "For Maine’s Lakes, Shorter Ice Seasons Mean Loss of Water Quality, Winter Traditions",
+      "description": "Ice fascinates Richard Behr.",
+      "url": "https://insideclimatenews.org/news/14022026/maine-shorter-ice-season-water-quality/",
+      "publishedAt": "2026-02-14T10:00:00",
+      "content": "Ice fascinates Richard Behr."
     },
     {
       "source": {
@@ -433,25 +411,36 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
-      "description": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River.",
-      "url": "https://insideclimatenews.org/news/12022026/yangtze-river-fishing-ban-conservation/",
-      "publishedAt": "2026-02-12T19:00:00",
-      "content": "Flowing almost 4,000 miles from the Tibetan Plateau to the East China Sea, the Yangtze is China’s “Mother River."
+      "author": "CSRWire",
+      "title": "Partners in Activating Healthy Indoor Air",
+      "description": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus.",
+      "url": "https://csrwire.com/press-release/partners-activating-healthy-indoor-air/",
+      "publishedAt": "2026-02-12T16:00:00",
+      "content": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Supersized dump fire risk report kept from public",
-      "description": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk.",
-      "url": "https://www.bbc.com/news/articles/c78x966g75xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-12T07:13:00",
-      "content": "Oxfordshire fire and rescue service says releasing its waste site report could put safety at risk."
+      "author": "ESG Today",
+      "title": "BNP Paribas, Eclipse Partner to Build Battery Storage Across Europe",
+      "description": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the",
+      "url": "https://www.esgtoday.com/bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe",
+      "publishedAt": "2026-02-12T13:43:51",
+      "content": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Beauty of AI and Why AI Needs More Women",
+      "description": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow.",
+      "url": "https://csrwire.com/press-release/beauty-ai-and-why-ai-needs-more-women/",
+      "publishedAt": "2026-02-12T08:00:00",
+      "content": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow."
     },
     {
       "source": {
