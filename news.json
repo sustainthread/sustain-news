@@ -1,29 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 31,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The greening of career education: US students learn new skills as climate crisis intensifies",
-      "description": "Some districts are adding programs in clean energy and sustainability, while one state is infusing environmental lessons into culinary education and constructionOn one end of the classroom, high sc...",
-      "url": "https://www.theguardian.com/us-news/2026/feb/15/us-students-energy-climate-crisis",
-      "publishedAt": "2026-02-15T13:00:23",
-      "content": "Some districts are adding programs in clean energy and sustainability, while one state is infusing environmental lessons into culinary education and constructionOn one end of the classroom, high sc..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "China Is Leaving America in the Dust on Clean Energy",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with journalist Isabel Hilton.  As the United States fully withdrew ...",
-      "url": "https://insideclimatenews.org/news/14022026/china-dominates-clean-energy/",
-      "publishedAt": "2026-02-14T09:50:00",
-      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with journalist Isabel Hilton.  As the United States fully withdrew ..."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -37,6 +15,17 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New Jersey’s Balancing Act: Cut Utility Bills Without Derailing Clean Energy",
+      "description": "Halfway through her inaugural speech in front of thousands of New Jerseyans in late January, newly elected governor Mikie Sherrill paused to write her signature on two documents. They were her firs...",
+      "url": "https://insideclimatenews.org/news/16022026/new-jersey-governor-utility-bills-clean-energy/",
+      "publishedAt": "2026-02-16T09:55:00",
+      "content": "Halfway through her inaugural speech in front of thousands of New Jerseyans in late January, newly elected governor Mikie Sherrill paused to write her signature on two documents. They were her firs..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -45,17 +34,6 @@
       "url": "https://www.esgtoday.com/fusion-startup-inertia-raises-450-million-to-deliver-clean-energy-with-worlds-most-powerful-laser/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-startup-inertia-raises-450-million-to-deliver-clean-energy-with-worlds-most-powerful-laser",
       "publishedAt": "2026-02-13T13:36:50",
       "content": "Fusion energy startup Inertia Enterprises announced that it has raised $450 million in a Series"
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "What You Missed at Sustainability Talks Istanbul",
-      "description": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/sustainability-talks-istanbul-2025-shared-responsibility-1234813609/",
-      "publishedAt": "2026-02-13T21:41:51",
-      "content": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition."
     },
     {
       "source": {
@@ -73,11 +51,22 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Von der Leyen: EU States Reinvesting Less than 5% of Carbon Pricing Revenues Back into Industrial Decarbonization",
-      "description": "European Commission President Ursula von der Leyen defended the EU’s carbon pricing mechanism at an",
-      "url": "https://www.esgtoday.com/von-der-leyen-urges-eu-states-step-up-reinvestment-of-carbon-pricing-revenues-into-industrial-decarbonization/?utm_source=rss&utm_medium=rss&utm_campaign=von-der-leyen-urges-eu-states-step-up-reinvestment-of-carbon-pricing-revenues-into-industrial-decarbonization",
-      "publishedAt": "2026-02-12T10:26:11",
-      "content": "European Commission President Ursula von der Leyen defended the EU’s carbon pricing mechanism at an"
+      "title": "ECB Fines Crédit Agricole €7.6 Million for Not Meeting Climate Risk Expectations",
+      "description": "The European Central Bank announced that it has fined Paris-based international banking and investment group",
+      "url": "https://www.esgtoday.com/ecb-fines-credit-agricole-e7-6-million-for-not-meeting-climate-risk-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=ecb-fines-credit-agricole-e7-6-million-for-not-meeting-climate-risk-expectations",
+      "publishedAt": "2026-02-16T09:42:23",
+      "content": "The European Central Bank announced that it has fined Paris-based international banking and investment group"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "What You Missed at Sustainability Talks Istanbul",
+      "description": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/sustainability-talks-istanbul-2025-shared-responsibility-1234813609/",
+      "publishedAt": "2026-02-13T21:41:51",
+      "content": "At the sixth edition of the event in the Turkish capital, participants talked about the opportunities and pitfalls of a green transition."
     },
     {
       "source": {
@@ -114,28 +103,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "SkyNRG Secures Funding to Build Netherlands’ First Sustainable Aviation Fuel Plant",
-      "description": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and",
-      "url": "https://www.esgtoday.com/skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant/?utm_source=rss&utm_medium=rss&utm_campaign=skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant",
-      "publishedAt": "2026-02-13T10:46:03",
-      "content": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Democratic senators launch inquiry into EPA’s repeal of key air pollution enforcement measure",
-      "description": "Senators said repeal was ‘particularly troubling’ and was counter to EPA’s mandate to protect human healthMore than three dozen Democratic senators have begun an independent inquiry into the US Env...",
-      "url": "https://www.theguardian.com/environment/2026/feb/14/democratic-senators-inquiry-epa-air-pollution-enforcement",
-      "publishedAt": "2026-02-14T16:32:38",
-      "content": "Senators said repeal was ‘particularly troubling’ and was counter to EPA’s mandate to protect human healthMore than three dozen Democratic senators have begun an independent inquiry into the US Env..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -150,6 +117,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "SkyNRG Secures Funding to Build Netherlands’ First Sustainable Aviation Fuel Plant",
+      "description": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and",
+      "url": "https://www.esgtoday.com/skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant/?utm_source=rss&utm_medium=rss&utm_campaign=skynrg-secures-funding-to-build-netherlands-first-sustainable-aviation-fuel-plant",
+      "publishedAt": "2026-02-13T10:46:03",
+      "content": "Sustainable aviation fuel (SAF) provider SkyNRG announced that it has secured financing, including debt and"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "ArcelorMittal to Invest $1.5 Billion in Low Carbon Steelmaking in France, Citing Improved Policy Environment",
       "description": "Steelmaking and mining company ArcelorMittal announced plans to construct a €1.3 billion (USD$1.5 billion) electric",
       "url": "https://www.esgtoday.com/arcelormittal-to-invest-1-5-billion-in-low-carbon-steelmaking-in-france-citing-improved-policy-environment/?utm_source=rss&utm_medium=rss&utm_campaign=arcelormittal-to-invest-1-5-billion-in-low-carbon-steelmaking-in-france-citing-improved-policy-environment",
@@ -158,36 +136,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Georgia-Pacific Partners with BradyPLUS to bring the KOLO® Smart Monitoring System 2.0 to Reduce Waste and Target Sustainability Goals",
-      "description": "From sold-out concerts to major sporting events, the fan experience starts before the first note or kickoff.",
-      "url": "https://csrwire.com/press-release/georgia-pacific-partners-bradyplus-bring-kolor-smart-monitoring-system-20-reduce-waste-and/",
-      "publishedAt": "2026-02-11T09:30:00",
-      "content": "From sold-out concerts to major sporting events, the fan experience starts before the first note or kickoff."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New Research Absolves the Woman Blamed for a Dynasty’s Ruin",
-      "description": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles.",
-      "url": "https://www.nytimes.com/2026/02/14/world/asia/china-zhou-dynasty-king-climate-change.html",
-      "publishedAt": "2026-02-16T04:01:30",
-      "content": "A Chinese king’s infatuation with a woman was seen as the reason that a golden age collapsed. Evidence suggests climate change and internal strife played bigger roles."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
-      "title": "How Rio de Janeiro Locals Recycle Tons of Discarded Costumes After Carnival",
-      "description": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o...",
-      "url": "https://triplepundit.com/2026/rio-de-janeiro-carnival-costume-recycling-upcycling/",
-      "publishedAt": "2026-02-13T20:45:20",
-      "content": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o..."
+      "title": "Power Isn’t Enough: Why Electricity Alone Won’t Deliver Africa’s Energy Promise",
+      "description": "More communities in Africa are connected to the grid than ever before, but access alone is not delivering the economic gains many hoped for.",
+      "url": "https://triplepundit.com/2026/electricity-access-affordable-appliances-equity-africa/",
+      "publishedAt": "2026-02-16T17:26:00",
+      "content": "More communities in Africa are connected to the grid than ever before, but access alone is not delivering the economic gains many hoped for."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The US is merely the latest to join the global rush to hoard critical minerals",
+      "description": "JD Vance is seeking to create a ‘trading bloc’ as shortages and climate crises mean a kaleidoscope of rare earths are increasingly jealously guardedThe announcement by the US vice-president, JD Van...",
+      "url": "https://www.theguardian.com/environment/2026/feb/16/critical-minerals-shortages-jd-vance-trading-bloc-analysis",
+      "publishedAt": "2026-02-16T13:00:26",
+      "content": "JD Vance is seeking to create a ‘trading bloc’ as shortages and climate crises mean a kaleidoscope of rare earths are increasingly jealously guardedThe announcement by the US vice-president, JD Van..."
     },
     {
       "source": {
@@ -213,14 +180,102 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "New York Times"
       },
-      "author": "Good On You",
-      "title": "Where to Find More Sustainable Clothes for Tall People",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-clothes-for-tall-people/",
-      "publishedAt": "2026-02-10T01:11:06",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "New York Times",
+      "title": "With Latest Rollback, the U.S. Essentially Has No Clean-Car Rules",
+      "description": "The E.P.A.’s killing of the “endangerment finding” caps a year of deregulation that is likely to make cars thirstier for gas and less competitive globally, experts say.",
+      "url": "https://www.nytimes.com/2026/02/16/climate/endangerment-finding-auto-emissions-regulations.html",
+      "publishedAt": "2026-02-16T19:52:51",
+      "content": "The E.P.A.’s killing of the “endangerment finding” caps a year of deregulation that is likely to make cars thirstier for gas and less competitive globally, experts say."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weather tracker: New Zealand hit by storms and widespread floods",
+      "description": "Low pressure system funnels rain over already saturated areas, compounding risk of further floodingA deep area of low pressure to the south-east of New Zealand’s North Island swept into the region ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/16/weather-tracker-new-zealand-hit-by-storms-and-widespread-floods",
+      "publishedAt": "2026-02-16T10:22:40",
+      "content": "Low pressure system funnels rain over already saturated areas, compounding risk of further floodingA deep area of low pressure to the south-east of New Zealand’s North Island swept into the region ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Teddy Roosevelt’s Family Urges G.O.P. to Protect Public Lands",
+      "description": "In a rare letter to Republican senators, four descendants of the former president oppose mining near a wilderness area in Minnesota.",
+      "url": "https://www.nytimes.com/2026/02/16/climate/theodore-roosevelt-family-boundary-waters.html",
+      "publishedAt": "2026-02-16T10:02:25",
+      "content": "In a rare letter to Republican senators, four descendants of the former president oppose mining near a wilderness area in Minnesota."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Voracious Vine That ‘Ate the South’ Can Also Fuel Wildfires",
+      "description": "Nearly every Monday morning, five restorationists with Conserving Carolina guide volunteers through the steep hills of Norman Wilder Forest in Tryon, North Carolina. Armed with chainsaws, thick glo...",
+      "url": "https://insideclimatenews.org/news/16022026/invasive-kudzu-vine-fuels-wildfires-in-the-south/",
+      "publishedAt": "2026-02-16T10:00:00",
+      "content": "Nearly every Monday morning, five restorationists with Conserving Carolina guide volunteers through the steep hills of Norman Wilder Forest in Tryon, North Carolina. Armed with chainsaws, thick glo..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+      "description": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+      "url": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-16T08:05:27",
+      "content": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rural drivers to face steepest bills under UK’s mileage-based electric vehicle tax",
+      "description": "Analysis reveals big regional disparities as critics say Labour’s proposed levy could slow uptake of EVsDrivers in the south-west of England would pay nearly four times as much as those in London a...",
+      "url": "https://www.theguardian.com/environment/2026/feb/16/rural-drivers-uk-mileage-electric-vehicle-tax-labour",
+      "publishedAt": "2026-02-16T07:13:08",
+      "content": "Analysis reveals big regional disparities as critics say Labour’s proposed levy could slow uptake of EVsDrivers in the south-west of England would pay nearly four times as much as those in London a..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Why did I get a £100 parking fine when charging my electric car?",
+      "description": "The charger firm claimed the site operated 24 hours a day, but the parking operator had different ideasI charged my electric car at the 24-hour Mer EV charging station in my local B&Q car park.I th...",
+      "url": "https://www.theguardian.com/money/2026/feb/16/parking-fine-charging-electric-car-mer",
+      "publishedAt": "2026-02-16T07:00:44",
+      "content": "The charger firm claimed the site operated 24 hours a day, but the parking operator had different ideasI charged my electric car at the 24-hour Mer EV charging station in my local B&Q car park.I th..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "How Rio de Janeiro Locals Recycle Tons of Discarded Costumes After Carnival",
+      "description": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o...",
+      "url": "https://triplepundit.com/2026/rio-de-janeiro-carnival-costume-recycling-upcycling/",
+      "publishedAt": "2026-02-13T20:45:20",
+      "content": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: An anxious buzzard has me mirroring its movements | Derek Niemann",
+      "description": "Frome, Somerset: As the large raptor squirms and uses its wings to try to balance on a precarious perch, I find my own arms lifting in solidaritySix, seven, eight, nine long‑tailed tits are on a fo...",
+      "url": "https://www.theguardian.com/environment/2026/feb/16/country-diary-anxious-buzzard-mirroring-movements-moment-true-empathy",
+      "publishedAt": "2026-02-16T05:30:42",
+      "content": "Frome, Somerset: As the large raptor squirms and uses its wings to try to balance on a precarious perch, I find my own arms lifting in solidaritySix, seven, eight, nine long‑tailed tits are on a fo..."
     },
     {
       "source": {
@@ -257,25 +312,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "Race to find source of carcinogenic Pfas in Cumbria and Lancashire waters",
-      "description": "Exclusive: High levels of banned ‘forever chemical’ have been detected in rivers and groundwater at 25 sitesA string of toxic pollution hotspots has been uncovered across Cumbria and Lancashire, wi...",
-      "url": "https://www.theguardian.com/environment/2026/feb/14/race-to-find-source-of-carcinogenic-chemical-pfos-polluting-cumbria-and-lancashire-waters",
-      "publishedAt": "2026-02-14T06:00:46",
-      "content": "Exclusive: High levels of banned ‘forever chemical’ have been detected in rivers and groundwater at 25 sitesA string of toxic pollution hotspots has been uncovered across Cumbria and Lancashire, wi..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mastercard: Europe’s Future Hinges on Innovators – Here’s How To Unlock Their Potential",
-      "description": "Europe’s economic future rests on its smallest players.",
-      "url": "https://csrwire.com/press-release/mastercard-europes-future-hinges-innovators-heres-how-unlock-their-potential/",
-      "publishedAt": "2026-02-13T10:30:00",
-      "content": "Europe’s economic future rests on its smallest players."
+      "author": "Inside Climate News",
+      "title": "For Maine’s Lakes, Shorter Ice Seasons Mean Loss of Water Quality, Winter Traditions",
+      "description": "Ice fascinates Richard Behr.",
+      "url": "https://insideclimatenews.org/news/14022026/maine-shorter-ice-season-water-quality/",
+      "publishedAt": "2026-02-14T10:00:00",
+      "content": "Ice fascinates Richard Behr."
     },
     {
       "source": {
@@ -290,138 +334,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Whirlpool Mentors Explore Career Paths and Help Develop Critical Skills With High School Students",
-      "description": "Whirlpool Corporation mentors recently hosted the 2025-26 Jobs for Michigan's Graduates (JMG powered by Youth Solutions, Inc.",
-      "url": "https://csrwire.com/press-release/whirlpool-mentors-explore-career-paths-and-help-develop-critical-skills-high-school-students/",
-      "publishedAt": "2026-02-13T08:50:00",
-      "content": "Whirlpool Corporation mentors recently hosted the 2025-26 Jobs for Michigan's Graduates (JMG powered by Youth Solutions, Inc."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "SEC Chair Says Commission to Review ESG Fund Names Rule",
-      "description": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by",
-      "url": "https://www.esgtoday.com/sec-chair-commission-to-review-esg-fund-names-rule/?utm_source=rss&utm_medium=rss&utm_campaign=sec-chair-commission-to-review-esg-fund-names-rule",
-      "publishedAt": "2026-02-12T12:07:05",
-      "content": "The U.S. Securities and Exchange Commission (SEC) has placed anti-greenwashing rules put in place by"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "For Maine’s Lakes, Shorter Ice Seasons Mean Loss of Water Quality, Winter Traditions",
-      "description": "Ice fascinates Richard Behr.",
-      "url": "https://insideclimatenews.org/news/14022026/maine-shorter-ice-season-water-quality/",
-      "publishedAt": "2026-02-14T10:00:00",
-      "content": "Ice fascinates Richard Behr."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: There’s a monster looming over our garden | Gwyneth Lewis",
-      "description": "Cardiff: It steals light, it discourages growth at its base, and it blocks what was once a panoramic view.",
-      "url": "https://www.theguardian.com/environment/2026/feb/14/country-diary-theres-a-monster-looming-over-our-garden",
-      "publishedAt": "2026-02-14T05:30:44",
-      "content": "Cardiff: It steals light, it discourages growth at its base, and it blocks what was once a panoramic view."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Teamsters Seek Injunction to Block UPS Driver Separation Plan",
-      "description": "The union alleges a planned voluntary buyout plan violates the parties' 2023 labor contract as the carrier cuts Amazon volumes and reshapes its network.",
-      "url": "https://sourcingjournal.com/topics/logistics/ups-teamsters-lawsuit-preliminart-injunction-driver-separation-buyout-plan-2023-national-contract-violation-amazon-1234813608/",
-      "publishedAt": "2026-02-13T21:37:50",
-      "content": "The union alleges a planned voluntary buyout plan violates the parties' 2023 labor contract as the carrier cuts Amazon volumes and reshapes its network."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: Target Reworks Executive Suite",
-      "description": "Target makes senior leadership moves under new CEO Michael Fiddelke, while former Gap chief Sonia Syngal lands a board seat at Tractor Supply.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-target-reworks-lead-syngal-surfaces-1234813577/",
-      "publishedAt": "2026-02-13T20:33:35",
-      "content": "Target makes senior leadership moves under new CEO Michael Fiddelke, while former Gap chief Sonia Syngal lands a board seat at Tractor Supply."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Reju Selects Site for First Industrial-Scale Regeneration Hub in France",
-      "description": "The proposed site would process post-consumer textiles into recycled polyester as France pushes to industrialize circular supply chains.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/reju-anchors-french-textile-recycling-bet-in-lacq-basin-1234813571/",
-      "publishedAt": "2026-02-13T18:21:14",
-      "content": "The proposed site would process post-consumer textiles into recycled polyester as France pushes to industrialize circular supply chains."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A different set of rules’: thermal drone footage shows Musk’s AI power plant flouting clean air regulations",
-      "description": "Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacentersElon Musk’s artificial intelligence company is continuing to fuel its datacenters with unper...",
-      "url": "https://www.theguardian.com/environment/2026/feb/13/elon-musk-xai-datacenters-air-pollution-mississippi",
-      "publishedAt": "2026-02-13T18:00:15",
-      "content": "Images confirm xAI is continuing to defy EPA regulations in Mississippi to power its flagship datacentersElon Musk’s artificial intelligence company is continuing to fuel its datacenters with unper..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Elastane Is Fashion’s Smallest Big Problem",
-      "description": "Present in 80 percent of garments, the stretch fiber quietly derails recycling. A new cross-industry pilot by Fashion for Good aims to change that.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/elastane-is-fashions-smallest-big-problem-fashion-for-good-1234813561/",
-      "publishedAt": "2026-02-13T17:00:00",
-      "content": "Present in 80 percent of garments, the stretch fiber quietly derails recycling. A new cross-industry pilot by Fashion for Good aims to change that."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "FedEx Bets on High-Margin Verticals, AI and Europe to Lift Profits",
-      "description": "During an investor day call, leadership expanded on the role newly acquired parcel company InPost will play in its European operations.",
-      "url": "https://sourcingjournal.com/topics/logistics/fedex-investor-day-high-margin-verticals-ai-europe-inpost-acquisition-delivery-predictive-data-premium-air-freight-1234813566/",
-      "publishedAt": "2026-02-13T16:13:38",
-      "content": "During an investor day call, leadership expanded on the role newly acquired parcel company InPost will play in its European operations."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "River Thames spot among 13 sites shortlisted for swimming status",
-      "description": "Choice could prove difficult for Thames Water, which is trying to push through a water recycling scheme nearbyThe first designated bathing water area on the River Thames in London has been shortlis...",
-      "url": "https://www.theguardian.com/environment/2026/feb/13/river-thames-ham-london-swimming-bathing-water",
-      "publishedAt": "2026-02-13T07:00:37",
-      "content": "Choice could prove difficult for Thames Water, which is trying to push through a water recycling scheme nearbyThe first designated bathing water area on the River Thames in London has been shortlis..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Partners in Activating Healthy Indoor Air",
-      "description": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus.",
-      "url": "https://csrwire.com/press-release/partners-activating-healthy-indoor-air/",
-      "publishedAt": "2026-02-12T16:00:00",
-      "content": "If you were in Dr. Joseph Allen’s class on healthy buildings at Harvard this semester, you’d have begun your first day at the bust of Alice Hamilton on campus."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -430,61 +342,6 @@
       "url": "https://www.esgtoday.com/bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-eclipse-partner-to-build-battery-storage-across-europe",
       "publishedAt": "2026-02-12T13:43:51",
       "content": "BNP Paribas and energy storage company Eclipse announced a new partnership aimed at accelerating the"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Beauty of AI and Why AI Needs More Women",
-      "description": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow.",
-      "url": "https://csrwire.com/press-release/beauty-ai-and-why-ai-needs-more-women/",
-      "publishedAt": "2026-02-12T08:00:00",
-      "content": "While women remain underrepresented in the Artificial Intelligence (AI) and tech workforce, their participation is considered crucial for developing the right AI for tomorrow."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Celebrating Women in Science: How Chemours Champions the Future of STEM",
-      "description": "Each year on the International Day of Women and Girls in Science, the world recognizes the critical role women play in driving innovation, advancing discovery, and strengthening communities.",
-      "url": "https://csrwire.com/press-release/celebrating-women-science-how-chemours-champions-future-stem/",
-      "publishedAt": "2026-02-11T13:30:00",
-      "content": "Each year on the International Day of Women and Girls in Science, the world recognizes the critical role women play in driving innovation, advancing discovery, and strengthening communities."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "FedEx and International Youth Foundation Mind the Gap in Logistics",
-      "description": "Around the world, the logistics sector is growing fast, but companies can’t find enough qualified workers to keep up.",
-      "url": "https://csrwire.com/press-release/fedex-and-international-youth-foundation-mind-gap-logistics/",
-      "publishedAt": "2026-02-11T11:00:00",
-      "content": "Around the world, the logistics sector is growing fast, but companies can’t find enough qualified workers to keep up."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Whirlpool Corporation Named One of Fortune’s Most Admired Companies for Sixteenth Consecutive Year",
-      "description": "Whirlpool Corporation has once again been recognized by Fortune as one of the “World’s Most Admired Companies,” marking the sixteenth consecutive year the company has earned this distinction.",
-      "url": "https://csrwire.com/press-release/whirlpool-corporation-named-one-fortunes-most-admired-companies-sixteenth-consecutive-year/",
-      "publishedAt": "2026-02-11T09:10:00",
-      "content": "Whirlpool Corporation has once again been recognized by Fortune as one of the “World’s Most Admired Companies,” marking the sixteenth consecutive year the company has earned this distinction."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Five Capabilities Construction Finance Teams Need for the Future",
-      "description": "Unpredictable supply chains, multiplying compliance requirements and a shrinking labor pool of experienced accounting talent.",
-      "url": "https://csrwire.com/press-release/five-capabilities-construction-finance-teams-need-future/",
-      "publishedAt": "2026-02-11T09:00:00",
-      "content": "Unpredictable supply chains, multiplying compliance requirements and a shrinking labor pool of experienced accounting talent."
     }
   ]
 }
