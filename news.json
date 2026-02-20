@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 47,
   "articles": [
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Global Green, WBCSD and IWBI to Convene Executive Leadership Forum at EarthX to Advance Healthier, More Resilient Cities",
+      "description": "Global Green, the World Business Council for Sustainable Development (WBCSD) and the International WELL Building Institute (IWBI) will convene an invite-only Executive Leadership Forum at EarthX th...",
+      "url": "https://csrwire.com/press-release/global-green-wbcsd-and-iwbi-convene-executive-leadership-forum-earthx-advance-healthier-more/",
+      "publishedAt": "2026-02-19T10:10:00",
+      "content": "Global Green, the World Business Council for Sustainable Development (WBCSD) and the International WELL Building Institute (IWBI) will convene an invite-only Executive Leadership Forum at EarthX th..."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,14 +37,58 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise",
+      "description": "Global professional services firm EY announced the launch of its new EY Sustainable Operating Blueprint,",
+      "url": "https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise/?utm_source=rss&utm_medium=rss&utm_campaign=ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise",
+      "publishedAt": "2026-02-19T12:54:45",
+      "content": "Global professional services firm EY announced the launch of its new EY Sustainable Operating Blueprint,"
+    },
+    {
+      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "PBF Energy 2024 Sustainability Report Spotlight: Energy, Waste and Water Resource Management",
-      "description": "In 2023, PBF Energy completed the successful startup of the Saint Bernard Renewables (SBR) business, marking a significant milestone in our offering of lower-carbon fuels.",
-      "url": "https://csrwire.com/press-release/pbf-energy-2024-sustainability-report-spotlight-energy-waste-and-water-resource-management/",
-      "publishedAt": "2026-02-17T08:55:00",
-      "content": "In 2023, PBF Energy completed the successful startup of the Saint Bernard Renewables (SBR) business, marking a significant milestone in our offering of lower-carbon fuels."
+      "title": "CNH in Top 1% of S&P Global’s 2026 Sustainability Yearbook",
+      "description": "CNH has ranked in the top 1% of companies featured in S&P Global’s 2026 Sustainability Yearbook.",
+      "url": "https://csrwire.com/press-release/cnh-top-1-sp-globals-2026-sustainability-yearbook/",
+      "publishedAt": "2026-02-19T16:00:00",
+      "content": "CNH has ranked in the top 1% of companies featured in S&P Global’s 2026 Sustainability Yearbook."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Ontario Teachers’ Pension Plan Replaces Portfolio Emissions Reduction Goal with New Climate Investment Target",
+      "description": "Ontario Teachers’ Pension Plan (OTPP), one of Canada’s largest investors, with over $269 billion in",
+      "url": "https://www.esgtoday.com/ontario-teachers-pension-plan-replaces-portfolio-emissions-reduction-goal-with-new-climate-investment-target/?utm_source=rss&utm_medium=rss&utm_campaign=ontario-teachers-pension-plan-replaces-portfolio-emissions-reduction-goal-with-new-climate-investment-target",
+      "publishedAt": "2026-02-19T14:57:12",
+      "content": "Ontario Teachers’ Pension Plan (OTPP), one of Canada’s largest investors, with over $269 billion in"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Perplexing Ohio Bill Would Ban Wind, Solar … and Coal?",
+      "description": "An idea for restricting renewable energy has traveled from Utah to Louisiana and is now in New Hampshire, Arizona and Ohio.",
+      "url": "https://insideclimatenews.org/news/19022026/inside-clean-energy-ohio-wind-solar-coal-ban/",
+      "publishedAt": "2026-02-19T14:00:00",
+      "content": "An idea for restricting renewable energy has traveled from Utah to Louisiana and is now in New Hampshire, Arizona and Ohio."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Metafuels Raises $24 Million to Scale Low-Cost Synthetic Sustainable Aviation Fuel Technology",
+      "description": "Aviation technology startup Metafuels announced that it has raised $24 million in a Series A",
+      "url": "https://www.esgtoday.com/metafuels-raises-24-million-to-scale-synthetic-sustainable-aviation-fuel-technology/?utm_source=rss&utm_medium=rss&utm_campaign=metafuels-raises-24-million-to-scale-synthetic-sustainable-aviation-fuel-technology",
+      "publishedAt": "2026-02-19T11:30:46",
+      "content": "Aviation technology startup Metafuels announced that it has raised $24 million in a Series A"
     },
     {
       "source": {
@@ -48,47 +103,124 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Lydian Energy Secures $689 Million to Build U.S. Solar and Battery Storage Projects",
-      "description": "Clean energy developer Lydian announced it has secured $689 million in financing, aimed at supporting",
-      "url": "https://www.esgtoday.com/lydian-energy-secures-689-million-to-build-u-s-solar-and-battery-storage-projects/?utm_source=rss&utm_medium=rss&utm_campaign=lydian-energy-secures-689-million-to-build-u-s-solar-and-battery-storage-projects",
-      "publishedAt": "2026-02-18T09:37:38",
-      "content": "Clean energy developer Lydian announced it has secured $689 million in financing, aimed at supporting"
+      "author": "Inside Climate News",
+      "title": "Paris Court Holds Historic Climate Trial in Case Against TotalEnergies",
+      "description": "In the city where the Paris climate agreement was created, French oil major TotalEnergies is facing trial in a landmark civil climate case that aims to compel the company to curb its oil and gas pr...",
+      "url": "https://insideclimatenews.org/news/19022026/paris-totalenergies-climate-trial/",
+      "publishedAt": "2026-02-19T19:02:25",
+      "content": "In the city where the Paris climate agreement was created, French oil major TotalEnergies is facing trial in a landmark civil climate case that aims to compel the company to curb its oil and gas pr..."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "Inside Climate News"
       },
-      "author": "Sourcing Journal",
-      "title": "Clean200 Tracks the Clean Economy and Fashion Barely Shows Up",
-      "description": "The Carbon Clean 200 lists public companies making money in the clean energy economy. Consumer brands make up a massive chunk of it—apparel included.",
-      "url": "https://sourcingjournal.com/topics/compliance/clean200-tracks-the-clean-economy-and-fashion-barely-shows-1234813763/",
-      "publishedAt": "2026-02-18T23:39:43",
-      "content": "The Carbon Clean 200 lists public companies making money in the clean energy economy. Consumer brands make up a massive chunk of it—apparel included."
+      "author": "Inside Climate News",
+      "title": "Could a New Illinois Bill Be a Blueprint for Curbing Data Centers’ Climate Impacts?",
+      "description": "CHICAGO—A new Illinois bill seeks to rein in power- and water-hungry data centers’ impacts on residents and get the state back on track to meet its climate goals. The speed of the data center boom ...",
+      "url": "https://insideclimatenews.org/news/19022026/illinois-data-center-impacts-bill/",
+      "publishedAt": "2026-02-19T09:55:00",
+      "content": "CHICAGO—A new Illinois bill seeks to rein in power- and water-hungry data centers’ impacts on residents and get the state back on track to meet its climate goals. The speed of the data center boom ..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "17 More Sustainable Alternatives to Brandy Melville",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-alternatives-brandy-melville/",
+      "publishedAt": "2026-02-18T23:00:30",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "What Goes Up Must Come Down",
+      "description": "New research published Thursday bolsters growing concerns that a handful of companies and countries are using the global atmospheric commons as a dumping ground for potentially toxic and climate-al...",
+      "url": "https://insideclimatenews.org/news/19022026/commercial-space-travel-environmental-threat/",
+      "publishedAt": "2026-02-19T23:45:25",
+      "content": "New research published Thursday bolsters growing concerns that a handful of companies and countries are using the global atmospheric commons as a dumping ground for potentially toxic and climate-al..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Carton Recycling Access Expands to 2.5 Million New U.S. Households in 2025",
+      "description": "The Carton Council today announced continued growth in carton recycling access across the United States.",
+      "url": "https://csrwire.com/press-release/carton-recycling-access-expands-25-million-new-us-households-2025/",
+      "publishedAt": "2026-02-19T17:15:00",
+      "content": "The Carton Council today announced continued growth in carton recycling access across the United States."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "SpaceX rocket fireball linked to plume of polluting lithium",
+      "description": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.",
+      "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-19T16:00:42",
+      "content": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A Year in Values: How Covia Brought Its Mission to Life in 2025",
+      "description": "Across plants, labs, customer partnerships, and communities, Covia teams demonstrate what it truly means to operate responsibly, with passion and commitment.",
+      "url": "https://csrwire.com/press-release/year-values-how-covia-brought-its-mission-life-2025/",
+      "publishedAt": "2026-02-19T10:15:00",
+      "content": "Across plants, labs, customer partnerships, and communities, Covia teams demonstrate what it truly means to operate responsibly, with passion and commitment."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Corporation Named One of America’s Most Iconic Companies by Time",
+      "description": "Whirlpool Corporation has been named to TIME’s list of “America’s Most Iconic Companies,” earning a place among 250 U.",
+      "url": "https://csrwire.com/press-release/whirlpool-corporation-named-one-americas-most-iconic-companies-time/",
+      "publishedAt": "2026-02-19T09:15:00",
+      "content": "Whirlpool Corporation has been named to TIME’s list of “America’s Most Iconic Companies,” earning a place among 250 U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "45Z Proposed Regulations Add Clarifications on Sales, Production, and Eligibility Framework",
+      "description": "The Treasury Department and the IRS have issued proposed regulations on Feb.",
+      "url": "https://csrwire.com/press-release/45z-proposed-regulations-add-clarifications-sales-production-and-eligibility-framework/",
+      "publishedAt": "2026-02-19T09:00:00",
+      "content": "The Treasury Department and the IRS have issued proposed regulations on Feb."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Ostrum Appoints Maud Pierre-Minuit as Head of Sustainable Transitions",
-      "description": "Institutional investment management firm Ostrum Asset Management announced today the appointment of Maud Pierre-Minuit as",
-      "url": "https://www.esgtoday.com/ostrum-appoints-maud-pierre-minuit-head-of-sustainable-transitions/?utm_source=rss&utm_medium=rss&utm_campaign=ostrum-appoints-maud-pierre-minuit-head-of-sustainable-transitions",
-      "publishedAt": "2026-02-17T16:18:15",
-      "content": "Institutional investment management firm Ostrum Asset Management announced today the appointment of Maud Pierre-Minuit as"
+      "title": "TrusTrace, Retailers Launch New Human Rights Due Diligence Platform",
+      "description": "Supply chain traceability solutions provider TrusTrace, alongside a group of retailers, announced the launch of",
+      "url": "https://www.esgtoday.com/trustrace-retailers-launches-new-human-rights-due-diligence-platform/?utm_source=rss&utm_medium=rss&utm_campaign=trustrace-retailers-launches-new-human-rights-due-diligence-platform",
+      "publishedAt": "2026-02-19T08:58:37",
+      "content": "Supply chain traceability solutions provider TrusTrace, alongside a group of retailers, announced the launch of"
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Exomad Green, Senken Sign 105,000 Tonne Carbon Removal Deal to Target Aviation Sector",
-      "description": "Carbon removal provider Exomad Green announced the signing of a multi-year offtake agreement with carbon",
-      "url": "https://www.esgtoday.com/exomad-green-senken-sign-105000-tonne-carbon-removal-agreement-to-target-aviation-sector/?utm_source=rss&utm_medium=rss&utm_campaign=exomad-green-senken-sign-105000-tonne-carbon-removal-agreement-to-target-aviation-sector",
-      "publishedAt": "2026-02-17T14:35:09",
-      "content": "Carbon removal provider Exomad Green announced the signing of a multi-year offtake agreement with carbon"
+      "author": "CSRWire",
+      "title": "How Cisco’s Partnerships With LISC, Per Scholas Are Building Resilience in Western North Carolina",
+      "description": "When Hurricane Helene struck Western North Carolina in September 2024, the storm didn’t just damage buildings and roads.",
+      "url": "https://csrwire.com/press-release/how-ciscos-partnerships-lisc-scholas-are-building-resilience-western-north-carolina/",
+      "publishedAt": "2026-02-19T08:50:00",
+      "content": "When Hurricane Helene struck Western North Carolina in September 2024, the storm didn’t just damage buildings and roads."
     },
     {
       "source": {
@@ -103,17 +235,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "​Historic Climate Rollback Makes U.S. a Global Outlier on Tailpipe Rules",
-      "description": "The E.P.A.’s killing of the “endangerment finding” caps a year of deregulation that is likely to make cars thirstier for gas and less competitive globally, experts say.",
-      "url": "https://www.nytimes.com/2026/02/16/climate/endangerment-finding-auto-emissions-regulations.html",
-      "publishedAt": "2026-02-17T19:16:52",
-      "content": "The E.P.A.’s killing of the “endangerment finding” caps a year of deregulation that is likely to make cars thirstier for gas and less competitive globally, experts say."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -125,13 +246,167 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Kidswear: 2 Good On You Staffers (and Parents) Share Their Picks",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/team-picks-february-2026/",
+      "publishedAt": "2026-02-15T23:46:52",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "An Antarctic Voyage",
+      "description": "My colleague just spent two months on a research icebreaker. It changed his perspective on the world in ways he didn’t expect.",
+      "url": "https://www.nytimes.com/2026/02/19/world/antarctica-andrew-arrest-iran-strikes-olympics.html",
+      "publishedAt": "2026-02-20T05:43:57",
+      "content": "My colleague just spent two months on a research icebreaker. It changed his perspective on the world in ways he didn’t expect."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Lion DNA helps convict poachers for first time",
+      "description": "Investigators reveal how they were able to identify a missing animal using a database of lions in Zimbabwe.",
+      "url": "https://www.bbc.com/news/articles/c4grxvdyy00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-20T00:23:10",
+      "content": "Investigators reveal how they were able to identify a missing animal using a database of lions in Zimbabwe."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Deer culling to be made easier to protect trees and crops",
+      "description": "The government unveils a long awaited 10-year deer management plan that will identify priority culling areas.",
+      "url": "https://www.bbc.com/news/articles/c0e5l7ll31yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-19T22:58:13",
+      "content": "The government unveils a long awaited 10-year deer management plan that will identify priority culling areas."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Remake to Wind Down After a Decade of Labor Advocacy",
+      "description": "The San Francisco nonprofit will close by the end of February, citing sustained funding shortfalls and steady corporate accountability work challenges.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/after-payup-remake-prepares-to-wind-down-operations-1234813880/",
+      "publishedAt": "2026-02-19T22:35:18",
+      "content": "The San Francisco nonprofit will close by the end of February, citing sustained funding shortfalls and steady corporate accountability work challenges."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "PFAS Rules in Multiple States Take Effect This Year",
+      "description": "This year, more than a dozen state laws and regulations about the use of PFAS chemicals will go into effect.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-compliance/pfas-legislation-usa-1234813905/",
+      "publishedAt": "2026-02-19T22:01:02",
+      "content": "This year, more than a dozen state laws and regulations about the use of PFAS chemicals will go into effect."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "On an Ambitious Antarctic Quest, One Nation Is on the Sidelines",
+      "description": "None of the main research on the voyage of the Araon was funded by the U.S. National Science Foundation, a sign of the difficult times for American science.",
+      "url": "https://www.nytimes.com/2026/02/19/climate/antarctica-science-funding.html",
+      "publishedAt": "2026-02-19T20:11:19",
+      "content": "None of the main research on the voyage of the Araon was funded by the U.S. National Science Foundation, a sign of the difficult times for American science."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Frame Expands Amelia Gray Collaboration With New Denim Drop",
+      "description": "Almost 4,000 customers on the restock waitlist for The Gray.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/frame-expands-amelia-gray-collaboration-new-denim-drop-1234813564/",
+      "publishedAt": "2026-02-19T20:02:37",
+      "content": "Almost 4,000 customers on the restock waitlist for The Gray."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Material World: Next-Gen Leather Grows, Counterfeits Get Tested",
+      "description": "Modern Meadow’s Innovera enters footwear with Allbirds as Swiss traceability firm Haelixa launches forensic proof against fakes.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-next-gen-leather-grows-counterfeits-1234813743/",
+      "publishedAt": "2026-02-19T20:00:00",
+      "content": "Modern Meadow’s Innovera enters footwear with Allbirds as Swiss traceability firm Haelixa launches forensic proof against fakes."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How is this research funded?",
+      "description": "One your most frequently asked questions, answered.",
+      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/how-is-this-research-funded",
+      "publishedAt": "2026-02-19T19:57:09",
+      "content": "One your most frequently asked questions, answered."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Walmart ‘Averaging Under an Hour’ for Express Delivery",
+      "description": "According to new CEO John Furner, “a large number” of e-commerce orders are now delivered in less than 30 minutes.",
+      "url": "https://sourcingjournal.com/topics/logistics/walmart-express-fast-delivery-same-day-less-than-30-minutes-one-hour-e-commerce-automation-store-fulfillment-1234813862/",
+      "publishedAt": "2026-02-19T17:28:58",
+      "content": "According to new CEO John Furner, “a large number” of e-commerce orders are now delivered in less than 30 minutes."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘There has to be glitter’: can the Rio carnival give up its love of beach-polluting microplastics?",
+      "description": "A bill banning the sale and use of plastic and metallic glitter has yet to go through in Brazil as the capital’s sandy shores bear cost of carnival’s shineWhether it is embellishing elaborate costu...",
+      "url": "https://www.theguardian.com/environment/2026/feb/19/brazil-glitter-ban-rio-carnival-beaches-microplastic-pollution-health",
+      "publishedAt": "2026-02-19T12:01:21",
+      "content": "A bill banning the sale and use of plastic and metallic glitter has yet to go through in Brazil as the capital’s sandy shores bear cost of carnival’s shineWhether it is embellishing elaborate costu..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘They pushed so many lies about recycling’: the fight to stop big oil pumping billions more into plastics",
+      "description": "Plastic production has doubled over the last 20 years – and will likely double again.",
+      "url": "https://www.theguardian.com/environment/2026/feb/19/they-pushed-so-many-lies-about-recycling-the-fight-to-stop-big-oil-pumping-billions-more-into-plastics",
+      "publishedAt": "2026-02-19T10:00:05",
+      "content": "Plastic production has doubled over the last 20 years – and will likely double again."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "BBC plans David Attenborough celebration for 100th birthday",
+      "description": "The corporation will look back on the veteran wildlife broadcaster's career for his birthday in May.",
+      "url": "https://www.bbc.com/news/articles/c1l7m7j6lzjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-19T09:20:22",
+      "content": "The corporation will look back on the veteran wildlife broadcaster's career for his birthday in May."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
       "title": "E.P.A. Plans to Loosen Mercury Rules for Coal Plants, Documents Show",
       "description": "Senior officials at the Environmental Protection Agency are expected to announce the move on Friday, according to people briefed on the matter.",
       "url": "https://www.nytimes.com/2026/02/18/climate/epa-mercury-coal-plants.html",
-      "publishedAt": "2026-02-18T22:25:34",
+      "publishedAt": "2026-02-18T22:25:35",
       "content": "Senior officials at the Environmental Protection Agency are expected to announce the move on Friday, according to people briefed on the matter."
     },
     {
@@ -158,36 +433,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Triple Pundit"
       },
-      "author": "ESG Today",
-      "title": "ClimeFi Launches Carbon Removal Project Due Diligence Platform",
-      "description": "Climate solutions provider ClimeFi announced the launch of its new Due Diligence Coverage platform, designed",
-      "url": "https://www.esgtoday.com/climefi-launches-carbon-removal-project-due-diligence-platform/?utm_source=rss&utm_medium=rss&utm_campaign=climefi-launches-carbon-removal-project-due-diligence-platform",
-      "publishedAt": "2026-02-17T15:34:18",
-      "content": "Climate solutions provider ClimeFi announced the launch of its new Due Diligence Coverage platform, designed"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2026 Outlook: What to Watch for From WELL",
-      "description": "As the global authority on transforming health and well-being in buildings, organizations and communities, IWBI’s public health mission remains evergreen: a commitment to creating people-first places.",
-      "url": "https://csrwire.com/press-release/2026-outlook-what-watch-well/",
-      "publishedAt": "2026-02-17T09:00:00",
-      "content": "As the global authority on transforming health and well-being in buildings, organizations and communities, IWBI’s public health mission remains evergreen: a commitment to creating people-first places."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Kidswear: 2 Good On You Staffers (and Parents) Share Their Picks",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/team-picks-february-2026/",
-      "publishedAt": "2026-02-15T23:46:52",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+      "author": "Triple Pundit",
+      "title": "How Rio de Janeiro Locals Recycle Tons of Discarded Costumes After Carnival",
+      "description": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o...",
+      "url": "https://triplepundit.com/2026/rio-de-janeiro-carnival-costume-recycling-upcycling/",
+      "publishedAt": "2026-02-13T20:45:20",
+      "content": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o..."
     },
     {
       "source": {
@@ -199,6 +452,17 @@
       "url": "https://www.theguardian.com/news/2026/feb/19/extreme-flooding-somerset-birdlife-winners-losers",
       "publishedAt": "2026-02-19T06:00:56",
       "content": "Wet fields drive away rodents, leaving barn owls without much prey, but gulls of all kinds are attracted by the waterThe Somerset Levels flood regularly – but this year, after very heavy winter rai..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Smiling' fossil discovered on Holy Island",
+      "description": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period.",
+      "url": "https://www.bbc.com/news/articles/c7v0ev05mdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-19T05:07:07",
+      "content": "The unusual looking fossil is estimated to be a few hundred million years old dating to the Carboniferous period."
     },
     {
       "source": {
@@ -224,80 +488,14 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Why Lever Style’s Chairman is ‘Cautiously Optimistic’ About 2026",
-      "description": "Lever Style sees its activewear acquisition, asset-light operating model and digitalization efforts powering a return to growth this year.",
-      "url": "https://sourcingjournal.com/topics/sourcing/lever-style-on-2025-challenges-2026-outlook-1234813749/",
-      "publishedAt": "2026-02-18T21:06:10",
-      "content": "Lever Style sees its activewear acquisition, asset-light operating model and digitalization efforts powering a return to growth this year."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "An Antarctic Expedition Ends in New Zealand",
-      "description": "But stay tuned: We’ve still got more to share about this Antarctic expedition, and the next ones scientists are already planning.",
-      "url": "https://www.nytimes.com/2026/02/18/climate/antarctica-expedition-return.html",
-      "publishedAt": "2026-02-18T20:23:13",
-      "content": "But stay tuned: We’ve still got more to share about this Antarctic expedition, and the next ones scientists are already planning."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "5 Books to Add to Your Denim Library",
-      "description": "Refresh your book shelf with these new releases.",
-      "url": "https://sourcingjournal.com/denim/denim-business/5-books-to-add-to-your-denim-library-wrangler-levis-diy-1234798083/",
-      "publishedAt": "2026-02-18T20:00:00",
-      "content": "Refresh your book shelf with these new releases."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Port of LA Volumes Sink 12%, but Advance Purchase Orders ‘Looking Stable’",
-      "description": "Despite projecting Q1 cargo declines of less than 10 percent, port director Gene Seroka calls it \"a good sign\" he isn't seeing cancellation of POs out of Asian factories.",
-      "url": "https://sourcingjournal.com/topics/logistics/port-of-los-angeles-cargo-declines-january-china-purchase-orders-stable-southeast-asia-factories-tariffs-trade-1234813744/",
-      "publishedAt": "2026-02-18T18:54:53",
-      "content": "Despite projecting Q1 cargo declines of less than 10 percent, port director Gene Seroka calls it \"a good sign\" he isn't seeing cancellation of POs out of Asian factories."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Meet the captain.",
-      "description": "His name is Kim Gwang-heon and he has more than 40 years of seafaring experience.",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/meet-the-captain",
-      "publishedAt": "2026-02-18T18:38:39",
-      "content": "His name is Kim Gwang-heon and he has more than 40 years of seafaring experience."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Second wild beaver spotted living at Norfolk nature reserve",
-      "description": "Exclusive: Pensthorpe was believed to be home to just one individual but pair have been filmed grooming each otherNo one knows where they came from or how they ended up in Norfolk. But one thing is...",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/18/two-wild-beavers-norfolk-pensthorpe-nature-reserve",
-      "publishedAt": "2026-02-18T12:05:58",
-      "content": "Exclusive: Pensthorpe was believed to be home to just one individual but pair have been filmed grooming each otherNo one knows where they came from or how they ended up in Norfolk. But one thing is..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Coffee-growing countries becoming too hot to cultivate beans, analysis finds",
-      "description": "Five countries responsible for 75% of world’s coffee supply record average of 57 extra days of coffee-harming heat a yearIn Ethiopia, the birthplace of coffee, more than 4m households rely on coffe...",
-      "url": "https://www.theguardian.com/environment/2026/feb/18/coffee-growing-countries-too-hot-to-cultivate-beans-analysis",
-      "publishedAt": "2026-02-18T10:00:05",
-      "content": "Five countries responsible for 75% of world’s coffee supply record average of 57 extra days of coffee-harming heat a yearIn Ethiopia, the birthplace of coffee, more than 4m households rely on coffe..."
+      "title": "Plug-in hybrids use three times more fuel than manufacturers claim, analysis finds",
+      "description": "While most hybrids are said to use one to two litres of fuel per 100km, a study claims they need six litres on averagePlug-in hybrid electric cars (PHEVs) use much more fuel on the road than offici...",
+      "url": "https://www.theguardian.com/environment/2026/feb/18/plug-in-hybrids-use-three-times-more-fuel-than-manufacturers-claim-analysis-finds",
+      "publishedAt": "2026-02-18T18:41:26",
+      "content": "While most hybrids are said to use one to two litres of fuel per 100km, a study claims they need six litres on averagePlug-in hybrid electric cars (PHEVs) use much more fuel on the road than offici..."
     },
     {
       "source": {
@@ -312,50 +510,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Cleaning Up Carnival, Bead by Plantable Bead",
-      "description": "Mardi Gras in New Orleans can generate more than 1,000 tons of trash every year. A coalition of nonprofit groups, city officials and scientists has a plan to clean it up.",
-      "url": "https://www.nytimes.com/2026/02/17/climate/mardi-gras-carnival-beads-environment.html",
-      "publishedAt": "2026-02-18T09:46:53",
-      "content": "Mardi Gras in New Orleans can generate more than 1,000 tons of trash every year. A coalition of nonprofit groups, city officials and scientists has a plan to clean it up."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Discover 5 Reasons Why You Should Switch to Shelf-Stable Milk",
-      "description": "Have you ever bought milk and by the time you are ready to use it a few days or even a week later, it has expired? Your family can enjoy this delicious, nutrient-rich drink in a more convenient form.",
-      "url": "https://csrwire.com/press-release/discover-5-reasons-why-you-should-switch-shelf-stable-milk/",
-      "publishedAt": "2026-02-17T09:45:00",
-      "content": "Have you ever bought milk and by the time you are ready to use it a few days or even a week later, it has expired? Your family can enjoy this delicious, nutrient-rich drink in a more convenient form."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Unlocking the Business Case for Digital Finance at Scale",
-      "description": "Globally, advances in technology, data, and internet connectivity are rapidly reshaping the way we deliver financial services.",
-      "url": "https://csrwire.com/press-release/unlocking-business-case-digital-finance-scale/",
-      "publishedAt": "2026-02-17T08:55:00",
-      "content": "Globally, advances in technology, data, and internet connectivity are rapidly reshaping the way we deliver financial services."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AB Volunteers Support Munich Young People in Need",
-      "description": "At AB, our volunteer program reflects our commitment to serving our local communities.",
-      "url": "https://csrwire.com/press-release/ab-volunteers-support-munich-young-people-need/",
-      "publishedAt": "2026-02-17T08:35:00",
-      "content": "At AB, our volunteer program reflects our commitment to serving our local communities."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -364,94 +518,6 @@
       "url": "https://triplepundit.com/2026/electricity-access-affordable-appliances-equity-africa/",
       "publishedAt": "2026-02-16T17:26:00",
       "content": "More communities in Africa are connected to the grid than ever before, but access alone is not delivering the economic gains many hoped for."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "How Rio de Janeiro Locals Recycle Tons of Discarded Costumes After Carnival",
-      "description": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o...",
-      "url": "https://triplepundit.com/2026/rio-de-janeiro-carnival-costume-recycling-upcycling/",
-      "publishedAt": "2026-02-13T20:45:20",
-      "content": "The Sustenta Carnaval project is making the greatest party in the world more sustainable by rescuing tons of plastic and polyester materials from around the Sambadrome, a stadium at the epicenter o..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'It's overwhelming': Plastic from 1960s Canada washes up on Orkney beach",
-      "description": "One litter picker says he has seen a huge increase in the amount of plastic washing up on Sanday this year.",
-      "url": "https://www.bbc.com/news/articles/c2k8g4p44l0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-18T06:24:33",
-      "content": "One litter picker says he has seen a huge increase in the amount of plastic washing up on Sanday this year."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Persistence and confusion – this is how magpies build their nest | Nic Wilson",
-      "description": "Hitchin, Hertfordshire: It’s not quick, it’s not graceful, but these early nesters are hard at work in preparation for egg-laying in a few weeksIs it too early to whisper the S word? If so, I blame...",
-      "url": "https://www.theguardian.com/environment/2026/feb/18/country-diary-persistence-and-confusion-this-is-how-magpies-build-their-nest",
-      "publishedAt": "2026-02-18T05:30:01",
-      "content": "Hitchin, Hertfordshire: It’s not quick, it’s not graceful, but these early nesters are hard at work in preparation for egg-laying in a few weeksIs it too early to whisper the S word? If so, I blame..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Potomac Sewage Spill Becomes Ecological Disaster and Political Fight",
-      "description": "A D.C. utility had been working for weeks to repair a collapsed sewer line when the president blamed Maryland’s governor for the contamination on Monday.",
-      "url": "https://www.nytimes.com/2026/02/17/climate/potomac-river-trump-moore.html",
-      "publishedAt": "2026-02-18T02:59:59",
-      "content": "A D.C. utility had been working for weeks to repair a collapsed sewer line when the president blamed Maryland’s governor for the contamination on Monday."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Border Wall Closes in on Big Bend",
-      "description": "REDFORD, Texas—Plans for a border wall through the Big Bend region of West Texas are raising alarms among residents and elected officials.",
-      "url": "https://insideclimatenews.org/news/17022026/big-bend-texas-border-wall/",
-      "publishedAt": "2026-02-18T00:40:26",
-      "content": "REDFORD, Texas—Plans for a border wall through the Big Bend region of West Texas are raising alarms among residents and elected officials."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "One in nine new homes in England built in areas of flood risk, study shows",
-      "description": "Figures from Aviva also show number of homes being built in risky areas is risingOne in nine new homes in England built between 2022 and 2024 were constructed in areas that could now be at risk of ...",
-      "url": "https://www.theguardian.com/environment/2026/feb/18/one-in-nine-new-homes-in-england-built-in-areas-of-flood-risk-study-shows",
-      "publishedAt": "2026-02-18T00:01:53",
-      "content": "Figures from Aviva also show number of homes being built in risky areas is risingOne in nine new homes in England built between 2022 and 2024 were constructed in areas that could now be at risk of ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Retired EV Batteries Scored a New Gig: Bolstering Texas’ Grid",
-      "description": "In the midday hours, prices plummet.",
-      "url": "https://insideclimatenews.org/news/17022026/retired-ev-batteries-bolster-texas-grid/",
-      "publishedAt": "2026-02-17T10:00:00",
-      "content": "In the midday hours, prices plummet."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Teddy Roosevelt’s Family Urges G.O.P. to Protect Public Lands",
-      "description": "In a rare letter to Republican senators, four descendants of the former president oppose mining near a wilderness area in Minnesota.",
-      "url": "https://www.nytimes.com/2026/02/16/climate/theodore-roosevelt-family-boundary-waters.html",
-      "publishedAt": "2026-02-16T10:02:25",
-      "content": "In a rare letter to Republican senators, four descendants of the former president oppose mining near a wilderness area in Minnesota."
     }
   ]
 }
