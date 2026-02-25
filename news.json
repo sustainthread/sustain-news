@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 45,
   "articles": [
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Global Green, WBCSD and IWBI to Convene Executive Leadership Forum at EarthX to Advance Healthier, More Resilient Cities",
+      "description": "Global Green, the World Business Council for Sustainable Development (WBCSD) and the International WELL Building Institute (IWBI) will convene an invite-only Executive Leadership Forum at EarthX th...",
+      "url": "https://csrwire.com/press-release/global-green-wbcsd-and-iwbi-convene-executive-leadership-forum-earthx-advance-healthier-more/",
+      "publishedAt": "2026-02-19T10:10:00",
+      "content": "Global Green, the World Business Council for Sustainable Development (WBCSD) and the International WELL Building Institute (IWBI) will convene an invite-only Executive Leadership Forum at EarthX th..."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -12,17 +23,6 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-02-20T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Coach and Kate Spade Parent Enters Carbon Removal Partnership",
-      "description": "Tapestry, the parent company of Kate Spade New York and Coach, has made a move reduce its environmental impact by partnering with decarbonization firm Climeworks.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/coach-kate-spade-carbon-removal-partnership-climeworks-tapestry-1234814264/",
-      "publishedAt": "2026-02-23T18:00:00",
-      "content": "Tapestry, the parent company of Kate Spade New York and Coach, has made a move reduce its environmental impact by partnering with decarbonization firm Climeworks."
     },
     {
       "source": {
@@ -59,47 +59,256 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "EY Launches Framework to Help Companies Embed Sustainability Across the Enterprise",
-      "description": "Global professional services firm EY announced the launch of its new EY Sustainable Operating Blueprint,",
-      "url": "https://www.esgtoday.com/ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise/?utm_source=rss&utm_medium=rss&utm_campaign=ey-launches-framework-to-help-companies-embed-sustainability-across-the-enterprise",
-      "publishedAt": "2026-02-19T12:54:45",
-      "content": "Global professional services firm EY announced the launch of its new EY Sustainable Operating Blueprint,"
+      "author": "Good On You",
+      "title": "Shopping Centres Curate Stores. What if They Curated for Sustainability?",
+      "description": "Retail brands face constant scrutiny on sustainability.",
+      "url": "https://goodonyou.eco/shopping-centres-curate-stores-what-if-they-curated-for-sustainability/",
+      "publishedAt": "2026-02-25T05:58:54",
+      "content": "Retail brands face constant scrutiny on sustainability."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "16 More Sustainable Alternatives to Massimo Dutti",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
+      "publishedAt": "2026-02-24T23:18:03",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "8 Clothing Brands from France Championing Sustainability",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-clothing-brands-from-france/",
+      "publishedAt": "2026-02-24T16:30:32",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Environmental, Community Groups to Challenge Regulators’ Approval of Dominion’s Gas Plant",
+      "description": "RICHMOND, Va.",
+      "url": "https://insideclimatenews.org/news/24022026/southern-environmental-law-center-challenges-dominion-gas-plant-approval/",
+      "publishedAt": "2026-02-24T09:55:00",
+      "content": "RICHMOND, Va."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "This Oregon Winery Wants to Make Refillable Bottles the Norm",
+      "description": "The familiar glass bottle has dominated wine packaging for years, with little change and a hefty carbon footprint. Two Oregon companies are switching things up by going reusable. TriplePundit",
+      "url": "https://triplepundit.com/2026/refillable-wine-bottle-recyclable-cork-willamette-valley/",
+      "publishedAt": "2026-02-20T13:00:00",
+      "content": "The familiar glass bottle has dominated wine packaging for years, with little change and a hefty carbon footprint. Two Oregon companies are switching things up by going reusable. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH in Top 1% of S&P Global’s 2026 Sustainability Yearbook",
+      "description": "CNH has ranked in the top 1% of companies featured in S&P Global’s 2026 Sustainability Yearbook.",
+      "url": "https://csrwire.com/press-release/cnh-top-1-sp-globals-2026-sustainability-yearbook/",
+      "publishedAt": "2026-02-19T16:00:00",
+      "content": "CNH has ranked in the top 1% of companies featured in S&P Global’s 2026 Sustainability Yearbook."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Bentley Commits to Use 100% Sustainable Aviation Fuel for Car Airfreight",
-      "description": "Volkswagen-owned luxury carmaker Bentley Motors announced a new commitment to use 100% sustainable aviation fuel",
-      "url": "https://www.esgtoday.com/bentley-commits-to-use-100-sustainable-aviation-fuel-for-car-airfreight/?utm_source=rss&utm_medium=rss&utm_campaign=bentley-commits-to-use-100-sustainable-aviation-fuel-for-car-airfreight",
-      "publishedAt": "2026-02-23T09:34:40",
-      "content": "Volkswagen-owned luxury carmaker Bentley Motors announced a new commitment to use 100% sustainable aviation fuel"
+      "title": "EU Approves €400 Million Greek Cleantech Investment Aid Program",
+      "description": "The European Commission announced today that it has approved a €400 million Greek aid scheme",
+      "url": "https://www.esgtoday.com/eu-approves-e400-million-greek-cleantech-investment-aid-program/?utm_source=rss&utm_medium=rss&utm_campaign=eu-approves-e400-million-greek-cleantech-investment-aid-program",
+      "publishedAt": "2026-02-24T13:21:32",
+      "content": "The European Commission announced today that it has approved a €400 million Greek aid scheme"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "This Tiny Tracker Monitors Monarch Migration",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Dan Fagin, a journalism professor at New York University. The ama...",
+      "url": "https://insideclimatenews.org/news/24022026/tracking-monarch-butterfly-migration/",
+      "publishedAt": "2026-02-24T09:50:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Dan Fagin, a journalism professor at New York University. The ama..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Signs 1.8 Million Ton Carbon Removal Deal to Restore African Rainforest",
+      "description": "Forest restoration company Rainforest Builder announced that it has signed a new multi-year agreement with",
+      "url": "https://www.esgtoday.com/microsoft-signs-1-8-million-ton-carbon-removal-deal-to-restore-african-rainforest/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-1-8-million-ton-carbon-removal-deal-to-restore-african-rainforest",
+      "publishedAt": "2026-02-24T09:36:26",
+      "content": "Forest restoration company Rainforest Builder announced that it has signed a new multi-year agreement with"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Toyota to Build Circular Factory in Poland to Recycle End-of Life Vehicles",
+      "description": "Toyota Motor Europe announced the launch of a new circular factory in Walbrzych, Poland, aimed",
+      "url": "https://www.esgtoday.com/toyota-to-build-circular-factory-in-poland-to-recycle-end-of-life-vehicles/?utm_source=rss&utm_medium=rss&utm_campaign=toyota-to-build-circular-factory-in-poland-to-recycle-end-of-life-vehicles",
+      "publishedAt": "2026-02-24T08:46:48",
+      "content": "Toyota Motor Europe announced the launch of a new circular factory in Walbrzych, Poland, aimed"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Nike Sources 100% Clean Electricity for Japan Operations",
+      "description": "Global trading and investment company Mitsui & Co. and Nike, announced the signing of a",
+      "url": "https://www.esgtoday.com/nike-sources-100-clean-electricity-for-japan-operations/?utm_source=rss&utm_medium=rss&utm_campaign=nike-sources-100-clean-electricity-for-japan-operations",
+      "publishedAt": "2026-02-24T07:56:28",
+      "content": "Global trading and investment company Mitsui & Co. and Nike, announced the signing of a"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Enel to Increase Renewables Investment to $20 Billion Over Next 3 Years",
+      "description": "Italian energy company Enel announced the launch of its new 2026-2028 Strategic Plan, which includes",
+      "url": "https://www.esgtoday.com/enel-to-increase-renewables-investment-to-20-billion-over-next-3-years/?utm_source=rss&utm_medium=rss&utm_campaign=enel-to-increase-renewables-investment-to-20-billion-over-next-3-years",
+      "publishedAt": "2026-02-24T07:06:56",
+      "content": "Italian energy company Enel announced the launch of its new 2026-2028 Strategic Plan, which includes"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "17 More Sustainable Alternatives to Brandy Melville",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-alternatives-brandy-melville/",
+      "publishedAt": "2026-02-18T23:00:30",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "What’s Behind Shein’s $1.4B China Bet",
+      "description": "In a rare public speech, Shein founder and CEO Xu Yangtian outlined the e-tail giant's ambitions for a \"smart supply chain system\" in Guangdong Province.",
+      "url": "https://sourcingjournal.com/topics/business-news/shein-china-guangdong-investment-10-billion-yuan-1234815078/",
+      "publishedAt": "2026-02-24T23:21:58",
+      "content": "In a rare public speech, Shein founder and CEO Xu Yangtian outlined the e-tail giant's ambitions for a \"smart supply chain system\" in Guangdong Province."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Court Rejects Teamsters’ Bid to Block UPS Driver Buyout Program",
+      "description": "A judge denied the union’s request to block UPS’s voluntary separation program, ruling arbitration as the appropriate venue to address the labor dispute.",
+      "url": "https://sourcingjournal.com/topics/logistics/ups-teamsters-driver-choice-program-voluntary-buyout-separation-injunction-arbitration-irreparable-harm-court-1234815092/",
+      "publishedAt": "2026-02-24T22:59:17",
+      "content": "A judge denied the union’s request to block UPS’s voluntary separation program, ruling arbitration as the appropriate venue to address the labor dispute."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Plastic, Plastic Everywhere",
+      "description": "We talk to the author of a new book about why the problem is so hard to solve.",
+      "url": "https://www.nytimes.com/2026/02/24/climate/plastic-plastic-everywhere.html",
+      "publishedAt": "2026-02-24T21:12:59",
+      "content": "We talk to the author of a new book about why the problem is so hard to solve."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Birders Around the World Help Track ‘the Heartbeats of the Planet’",
+      "description": "Stepping off the Q train at Prospect Park Station in Brooklyn, I winced at the screech and grumble of the subway.",
+      "url": "https://insideclimatenews.org/news/24022026/todays-climate-great-backyard-bird-count-community-science/",
+      "publishedAt": "2026-02-24T20:47:56",
+      "content": "Stepping off the Q train at Prospect Park Station in Brooklyn, I winced at the screech and grumble of the subway."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Panama Installs Maersk, MSC as Interim Operators of Strategic Canal Ports",
+      "description": "Panama's Supreme Court annulled CK Hutchison’s long-standing concession, forcing subsidiary Panama Ports Company to halt operations at Balboa and Cristóbal.",
+      "url": "https://sourcingjournal.com/topics/logistics/panama-government-balboa-cristobal-ports-maersk-msc-ck-hutchison-ppc-canal-hong-kong-china-president-mulino-1234815049/",
+      "publishedAt": "2026-02-24T19:06:07",
+      "content": "Panama's Supreme Court annulled CK Hutchison’s long-standing concession, forcing subsidiary Panama Ports Company to halt operations at Balboa and Cristóbal."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "10 Innovations Changing the Denim Industry for the Better",
+      "description": "Industry experts discuss the impact of new technologies and how they continue to evolve.",
+      "url": "https://sourcingjournal.com/denim/denim-innovations/10-innovations-changing-the-denim-industry-1234798067/",
+      "publishedAt": "2026-02-24T17:00:00",
+      "content": "Industry experts discuss the impact of new technologies and how they continue to evolve."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Less snow, or more risk? What you need to know about avalanches and climate change",
-      "description": "Rising temperatures are forcing some ski resorts to close, while leaving others at greater risk of extreme weatherAvalanches kill about 100 people in Europe each year, with vast masses of ice, snow...",
-      "url": "https://www.theguardian.com/world/2026/feb/22/avalanches-climate-change-extreme-weather-ski-resorts",
-      "publishedAt": "2026-02-22T09:00:33",
-      "content": "Rising temperatures are forcing some ski resorts to close, while leaving others at greater risk of extreme weatherAvalanches kill about 100 people in Europe each year, with vast masses of ice, snow..."
+      "title": "‘If we see you again, we kill you’: how a Colombian wildlife hotspot turned into a death zone",
+      "description": "Armed groups and a state-owned refinery’s oil leaks have displaced Barrancabermeja’s fishing community and poisoned a paradise once full of manatees and jaguarsStanding on her wooden canoe, a mache...",
+      "url": "https://www.theguardian.com/global-development/2026/feb/24/colombia-barrancabermeja-ecopetrol-oil-fishing-wetlands-wildlife-armed-groups-death-zone",
+      "publishedAt": "2026-02-24T13:00:33",
+      "content": "Armed groups and a state-owned refinery’s oil leaks have displaced Barrancabermeja’s fishing community and poisoned a paradise once full of manatees and jaguarsStanding on her wooden canoe, a mache..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Ontario Teachers’ Pension Plan Replaces Portfolio Emissions Reduction Goal with New Climate Investment Target",
-      "description": "Ontario Teachers’ Pension Plan (OTPP), one of Canada’s largest investors, with over $269 billion in",
-      "url": "https://www.esgtoday.com/ontario-teachers-pension-plan-replaces-portfolio-emissions-reduction-goal-with-new-climate-investment-target/?utm_source=rss&utm_medium=rss&utm_campaign=ontario-teachers-pension-plan-replaces-portfolio-emissions-reduction-goal-with-new-climate-investment-target",
-      "publishedAt": "2026-02-19T14:57:12",
-      "content": "Ontario Teachers’ Pension Plan (OTPP), one of Canada’s largest investors, with over $269 billion in"
+      "author": "The Guardian",
+      "title": "‘It’s more exciting than Tesco’: can traditional fishing lure Cornwall’s young people?",
+      "description": "Taster days and training are offering teenagers an escape from a future of part-time, seasonal work – and giving a boost to a declining industryIt’s mid-morning on a rare calm day in Newlyn, Cornwa...",
+      "url": "https://www.theguardian.com/environment/2026/feb/24/its-more-exciting-than-tesco-can-traditional-fishing-lure-cornwalls-young-people",
+      "publishedAt": "2026-02-24T10:00:11",
+      "content": "Taster days and training are offering teenagers an escape from a future of part-time, seasonal work – and giving a boost to a declining industryIt’s mid-morning on a rare calm day in Newlyn, Cornwa..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Norway’s Century-Long Watch on the Northern Lights",
+      "description": "The nation’s northern region has led the scientific quest to understand the aurora borealis. This summer, a 10,000-antenna radar is expected to begin the next phase of exploration.",
+      "url": "https://www.nytimes.com/2026/02/24/science/norway-auroras-northern-lights-observatory.html",
+      "publishedAt": "2026-02-24T08:00:24",
+      "content": "The nation’s northern region has led the scientific quest to understand the aurora borealis. This summer, a 10,000-antenna radar is expected to begin the next phase of exploration."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People yearn for stability’: the Thames Water sewage plant at frontline of its crisis",
+      "description": "Weighed down by underinvestment and uncertainty, staff at Maple Lodge just want to get on with the jobIt is a grey day in a wet week but one of Thames Water’s neglected plants is still coping. Wast...",
+      "url": "https://www.theguardian.com/business/2026/feb/24/people-yearn-for-stability-the-thames-water-sewage-plant-at-frontline-of-its-crisis",
+      "publishedAt": "2026-02-24T07:00:04",
+      "content": "Weighed down by underinvestment and uncertainty, staff at Maple Lodge just want to get on with the jobIt is a grey day in a wet week but one of Thames Water’s neglected plants is still coping. Wast..."
     },
     {
       "source": {
@@ -114,14 +323,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "17 More Sustainable Alternatives to Brandy Melville",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-alternatives-brandy-melville/",
-      "publishedAt": "2026-02-18T23:00:30",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "BBC",
+      "title": "'Your balloon releases aren't going to heaven'",
+      "description": "Naomi Spittles refuses to provide balloons for memorial releases and says \"it infuriates me\".",
+      "url": "https://www.bbc.com/news/articles/c8jxg0z1ly8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-24T06:14:16",
+      "content": "Naomi Spittles refuses to provide balloons for memorial releases and says \"it infuriates me\"."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Reform mayor courted US oil and gas executive about fracking in UK",
+      "description": "Exclusive: Documents show Andrea Jenkyns asked how she could help firm after major gas find in LincolnshireLincolnshire’s Reform party mayor, Dame Andrea Jenkyns, has courted the head of an America...",
+      "url": "https://www.theguardian.com/environment/2026/feb/24/reform-uk-mayor-andrea-jenkyns-us-oil-gas-executive-fracking-lincolnshire",
+      "publishedAt": "2026-02-24T06:00:03",
+      "content": "Exclusive: Documents show Andrea Jenkyns asked how she could help firm after major gas find in LincolnshireLincolnshire’s Reform party mayor, Dame Andrea Jenkyns, has courted the head of an America..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The magic of knowing a meteorite fell here, of all places | Amy-Jane Beer",
+      "description": "Wold Newton, East Yorkshire: On a dreary day in a nondescript field, I visit the site where a 4.",
+      "url": "https://www.theguardian.com/environment/2026/feb/24/country-diary-the-magic-of-knowing-a-meteorite-fell-here-of-all-places",
+      "publishedAt": "2026-02-24T05:30:01",
+      "content": "Wold Newton, East Yorkshire: On a dreary day in a nondescript field, I visit the site where a 4."
     },
     {
       "source": {
@@ -147,50 +378,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Nordstrom Funds FIT Tailoring Program to Build Alterations Pipeline",
-      "description": "The retailer underwrites scholarships and launches certificate program as skilled tailoring talent grows harder to recruit.",
-      "url": "https://sourcingjournal.com/topics/business-news/nordstrom-funds-fit-tailoring-program-to-build-alterations-1234814969/",
-      "publishedAt": "2026-02-23T20:00:00",
-      "content": "The retailer underwrites scholarships and launches certificate program as skilled tailoring talent grows harder to recruit."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Blizzard Shuts Down Port of NY/NJ",
-      "description": "Historic snowfall halts container terminals, disrupts air cargo and suspends parcel service across key East Coast logistics hubs.",
-      "url": "https://sourcingjournal.com/topics/logistics/blizzard-winter-storm-hernando-snowstorm-port-of-new-york-new-jersey-thousands-flights-canceled-northeast-1234814975/",
-      "publishedAt": "2026-02-23T19:14:21",
-      "content": "Historic snowfall halts container terminals, disrupts air cargo and suspends parcel service across key East Coast logistics hubs."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Barrel Jeans Stay Strong as Slimmer Fits and Luxe Fabrics Rise",
-      "description": "Brands presented their Fall/Winter 2026-2027 collections last week in Las Vegas.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/barrel-jeans-slim-fits-cashmere-project-las-vegas-1234814011/",
-      "publishedAt": "2026-02-23T19:00:00",
-      "content": "Brands presented their Fall/Winter 2026-2027 collections last week in Las Vegas."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "The Hidden Costs of Cheap Suppliers: Why Ignoring Human Rights Threatens Apparel Resilience",
-      "description": "If you’re entering 2026 with blind spots in your supply chain, then it’s going to be an expensive year.",
-      "url": "https://sourcingjournal.com/topics/thought-leadership/the-hidden-costs-of-cheap-suppliers-supply-chain-human-level-1234813971/",
-      "publishedAt": "2026-02-23T18:30:00",
-      "content": "If you’re entering 2026 with blind spots in your supply chain, then it’s going to be an expensive year."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -205,17 +392,6 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "The Evolution of Eyes Began With One",
-      "description": "Even Charles Darwin was puzzled by the evolution of the vertebrate eye. New research suggests that it traces back to a cyclopean invertebrate with a single eye atop the head.",
-      "url": "https://www.nytimes.com/2026/02/23/science/evolution-vertebrate-eye.html",
-      "publishedAt": "2026-02-23T16:00:07",
-      "content": "Even Charles Darwin was puzzled by the evolution of the vertebrate eye. New research suggests that it traces back to a cyclopean invertebrate with a single eye atop the head."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
       "title": "A Post-Katrina Law Guards FEMA Resources. Why Hasn’t It Stopped Noem?",
       "description": "A key statute was designed to rein in the Homeland Security secretary and prevent deadly mistakes. Lawyers say its provisions are difficult to enforce.",
       "url": "https://www.nytimes.com/2026/02/21/climate/a-post-katrina-law-guards-fema-resources-why-hasnt-it-stopped-noem.html",
@@ -224,36 +400,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "What Happens If New York Buildings Use Less Gas?",
-      "description": "As temperatures dropped below freezing in New York City last month, boilers in the basements of city buildings insulated New Yorkers from the cold.",
-      "url": "https://insideclimatenews.org/news/23022026/new-york-city-natural-gas-reliance/",
-      "publishedAt": "2026-02-23T10:00:00",
-      "content": "As temperatures dropped below freezing in New York City last month, boilers in the basements of city buildings insulated New Yorkers from the cold."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Shell, British Airways Parent IAG Lead New Capital Raise for SAF Producer LanzaJet",
-      "description": "Sustainable aviation fuel (SAF) technology and production company LanzaJet announced that it has raised $47",
-      "url": "https://www.esgtoday.com/shell-british-airways-parent-iag-lead-capital-raise-for-saf-producer-lanzajet-at-650-million-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=shell-british-airways-parent-iag-lead-capital-raise-for-saf-producer-lanzajet-at-650-million-valuation",
-      "publishedAt": "2026-02-20T10:57:38",
-      "content": "Sustainable aviation fuel (SAF) technology and production company LanzaJet announced that it has raised $47"
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: Wood pigeon courtship rituals are straight out of Bridgerton | Kate Blincoe",
-      "description": "Caistor St Edmund, Norfolk: I can’t tell which birds are male and which are female and, it turns out, neither can they.",
-      "url": "https://www.theguardian.com/environment/2026/feb/23/country-diary-wood-pigeon-courtship-rituals-are-straight-out-of-bridgerton",
-      "publishedAt": "2026-02-23T05:30:00",
-      "content": "Caistor St Edmund, Norfolk: I can’t tell which birds are male and which are female and, it turns out, neither can they."
+      "title": "Weather tracker: Early taste of spring to sweep parts of Europe",
+      "description": "South-western France could hit 25C, while a powerful Nor’easter is forecast to bring blizzards to BostonEurope live – latest updatesAn early taste of spring is on the way for millions across northe...",
+      "url": "https://www.theguardian.com/environment/2026/feb/23/weather-tracker-spring-europe-france-noreaster-boston-blizzards",
+      "publishedAt": "2026-02-23T10:33:19",
+      "content": "South-western France could hit 25C, while a powerful Nor’easter is forecast to bring blizzards to BostonEurope live – latest updatesAn early taste of spring is on the way for millions across northe..."
     },
     {
       "source": {
@@ -279,91 +433,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "How a Groundbreaking Indigenous Treaty on Whales’ Rights Could Change National Laws",
-      "description": "In one of his final acts before his death in 2024, Māori King Tūheitia Pōtatau Te Wherowhero helped galvanize Pacific Indigenous leaders to sign a landmark declaration recognizing whales’ rights. N...",
-      "url": "https://insideclimatenews.org/news/22022026/new-zealand-indigenous-whale-rights-declaration/",
-      "publishedAt": "2026-02-22T10:00:00",
-      "content": "In one of his final acts before his death in 2024, Māori King Tūheitia Pōtatau Te Wherowhero helped galvanize Pacific Indigenous leaders to sign a landmark declaration recognizing whales’ rights. N..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Border Wall Closes in on Big Bend",
-      "description": "Building a wall along the U.",
-      "url": "https://insideclimatenews.org/news/22022026/icn-sunday-morning-border-wall-big-bend-park/",
-      "publishedAt": "2026-02-22T09:50:00",
-      "content": "Building a wall along the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘That’s a losing battle’: baboon incursions cause tense human-wildlife standoff in Cape Town",
-      "description": "Animal rights activists disagree with authorities on how best to handle boom in primate population near Table MountainAt the edge of Da Gama Park, where the Cape Town suburb meets the mountain, bab...",
-      "url": "https://www.theguardian.com/environment/2026/feb/22/baboon-population-cape-town-south-africa-animal-rights-activists",
-      "publishedAt": "2026-02-22T07:00:31",
-      "content": "Animal rights activists disagree with authorities on how best to handle boom in primate population near Table MountainAt the edge of Da Gama Park, where the Cape Town suburb meets the mountain, bab..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nasa astronauts' moon mission delayed due to rocket issue",
-      "description": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said.",
-      "url": "https://www.bbc.com/news/articles/c626v265zqlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-21T21:05:18",
-      "content": "The mission to the far side of the Moon and back will be postponed after problems with were spotted with its rocket, a Nasa official said."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Let a thousand stinky blossoms bloom: how Australia became the world’s corpse flower destination",
-      "description": "Australian collections of the endangered and notoriously unpredictable flowers have popped off in recent years, as ‘personas’ like Putricia, Stinkerella and Smellanie prove a hit with nosy spectato...",
-      "url": "https://www.theguardian.com/environment/2026/feb/22/corpse-flowers-australia-putricia-stinkerella-smellanie",
-      "publishedAt": "2026-02-21T19:00:18",
-      "content": "Australian collections of the endangered and notoriously unpredictable flowers have popped off in recent years, as ‘personas’ like Putricia, Stinkerella and Smellanie prove a hit with nosy spectato..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Giant tortoises return to Galápagos island after nearly 200 years",
-      "description": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island.",
-      "url": "https://www.bbc.com/news/articles/c9wn1jrzk4go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-21T18:32:37",
-      "content": "The native species was driven to extinction by sailors in the 1800s. Now, 158 juvenile giant tortoises have been reintroduced to the island."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Virginia House Delays Action on Bill Banning Paraquat",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/21022026/virginia-paraquat-ban-bill/",
-      "publishedAt": "2026-02-21T10:00:00",
-      "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "hummingbirds Raises $59 Million to Scale Nature-Based Carbon Projects",
-      "description": "Nature-based solutions platform hummingbirds announced that it has raised €50 million (USD$59 million) in a",
-      "url": "https://www.esgtoday.com/hummingbirds-raises-59-million-to-scale-nature-based-carbon-projects/?utm_source=rss&utm_medium=rss&utm_campaign=hummingbirds-raises-59-million-to-scale-nature-based-carbon-projects",
-      "publishedAt": "2026-02-20T13:17:52",
-      "content": "Nature-based solutions platform hummingbirds announced that it has raised €50 million (USD$59 million) in a"
+      "author": "CSRWire",
+      "title": "Carton Recycling Access Expands to 2.5 Million New U.S. Households in 2025",
+      "description": "The Carton Council today announced continued growth in carton recycling access across the United States.",
+      "url": "https://csrwire.com/press-release/carton-recycling-access-expands-25-million-new-us-households-2025/",
+      "publishedAt": "2026-02-19T17:15:00",
+      "content": "The Carton Council today announced continued growth in carton recycling access across the United States."
     },
     {
       "source": {
@@ -375,6 +452,50 @@
       "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-02-19T16:00:42",
       "content": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A Year in Values: How Covia Brought Its Mission to Life in 2025",
+      "description": "Across plants, labs, customer partnerships, and communities, Covia teams demonstrate what it truly means to operate responsibly, with passion and commitment.",
+      "url": "https://csrwire.com/press-release/year-values-how-covia-brought-its-mission-life-2025/",
+      "publishedAt": "2026-02-19T10:15:00",
+      "content": "Across plants, labs, customer partnerships, and communities, Covia teams demonstrate what it truly means to operate responsibly, with passion and commitment."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Corporation Named One of America’s Most Iconic Companies by Time",
+      "description": "Whirlpool Corporation has been named to TIME’s list of “America’s Most Iconic Companies,” earning a place among 250 U.",
+      "url": "https://csrwire.com/press-release/whirlpool-corporation-named-one-americas-most-iconic-companies-time/",
+      "publishedAt": "2026-02-19T09:15:00",
+      "content": "Whirlpool Corporation has been named to TIME’s list of “America’s Most Iconic Companies,” earning a place among 250 U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "45Z Proposed Regulations Add Clarifications on Sales, Production, and Eligibility Framework",
+      "description": "The Treasury Department and the IRS have issued proposed regulations on Feb.",
+      "url": "https://csrwire.com/press-release/45z-proposed-regulations-add-clarifications-sales-production-and-eligibility-framework/",
+      "publishedAt": "2026-02-19T09:00:00",
+      "content": "The Treasury Department and the IRS have issued proposed regulations on Feb."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Cisco’s Partnerships With LISC, Per Scholas Are Building Resilience in Western North Carolina",
+      "description": "When Hurricane Helene struck Western North Carolina in September 2024, the storm didn’t just damage buildings and roads.",
+      "url": "https://csrwire.com/press-release/how-ciscos-partnerships-lisc-scholas-are-building-resilience-western-north-carolina/",
+      "publishedAt": "2026-02-19T08:50:00",
+      "content": "When Hurricane Helene struck Western North Carolina in September 2024, the storm didn’t just damage buildings and roads."
     }
   ]
 }
