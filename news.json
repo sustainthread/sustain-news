@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 46,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "UK Releases Finalized Sustainability Reporting Standards",
+      "description": "The UK government announced the release of the finalized UK Sustainability Reporting Standards (UK SRS),",
+      "url": "https://www.esgtoday.com/uk-releases-finalized-sustainability-reporting-standards/?utm_source=rss&utm_medium=rss&utm_campaign=uk-releases-finalized-sustainability-reporting-standards",
+      "publishedAt": "2026-02-26T10:30:17",
+      "content": "The UK government announced the release of the finalized UK Sustainability Reporting Standards (UK SRS),"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This February 2026",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-02-26T06:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,14 +48,69 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This February 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-02-20T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+      "author": "BBC",
+      "title": "Earth's heat to power 10,000 homes in renewable energy first for UK",
+      "description": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium.",
+      "url": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-26T11:51:40",
+      "content": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock-backed Atlas Renewable Secures $3 Billion for Solar and Battery Storage Portfolio in Latin America",
+      "description": "Renewable energy provider Atlas Renewable Energy announced that it has secured $3 billion in refinancing",
+      "url": "https://www.esgtoday.com/blackrock-backed-atlas-renewable-secures-3-billion-for-solar-and-battery-storage-in-latin-america/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-backed-atlas-renewable-secures-3-billion-for-solar-and-battery-storage-in-latin-america",
+      "publishedAt": "2026-02-26T11:27:29",
+      "content": "Renewable energy provider Atlas Renewable Energy announced that it has secured $3 billion in refinancing"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Meta Signs Solar PPA with MN8 Energy to Power U.S. Data Centers",
+      "description": "Meta announced that it has signed a Power Purchase Agreement (PPA) with renewable energy and",
+      "url": "https://www.esgtoday.com/meta-signs-solar-ppa-with-mn8-energy-to-power-u-s-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=meta-signs-solar-ppa-with-mn8-energy-to-power-u-s-data-centers",
+      "publishedAt": "2026-02-26T11:04:31",
+      "content": "Meta announced that it has signed a Power Purchase Agreement (PPA) with renewable energy and"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BBVA Sustainable Finance Activity Jumps 44% to New Annual Record",
+      "description": "Spanish bank BBVA announced a significant increase in its sustainable finance activity over the past",
+      "url": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-44-to-new-annual-record/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-44-to-new-annual-record",
+      "publishedAt": "2026-02-26T14:36:32",
+      "content": "Spanish bank BBVA announced a significant increase in its sustainable finance activity over the past"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Epstein Is Shaking the Climate World, Too",
+      "description": "A major funder of the Earthshot Prize has been linked to the convicted sex offender.",
+      "url": "https://www.nytimes.com/2026/02/26/climate/epstein-climate-earthshot.html",
+      "publishedAt": "2026-02-26T21:27:24",
+      "content": "A major funder of the Earthshot Prize has been linked to the convicted sex offender."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Satellites Reveal New Climate Threat to Emperor Penguins",
+      "description": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks when it’s dangerous for the mostly aquatic bir...",
+      "url": "https://insideclimatenews.org/news/26022026/antarctic-ice-loss-threatens-emperor-penguins/",
+      "publishedAt": "2026-02-26T10:00:00",
+      "content": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks when it’s dangerous for the mostly aquatic bir..."
     },
     {
       "source": {
@@ -45,39 +122,6 @@
       "url": "https://www.esgtoday.com/credit-agricole-appoints-quentin-guerineau-as-chief-sustainability-and-impact-officer/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-appoints-quentin-guerineau-as-chief-sustainability-and-impact-officer",
       "publishedAt": "2026-02-25T14:51:29",
       "content": "Paris-based international banking and investment group Crédit Agricole announced today the appointment of former French"
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Retail Landlords Formalize Sustainability Scoring Across 1,200 Brands",
-      "description": "URW and Ingka launch SRI Association as portfolio-level ratings enter leasing conversations.",
-      "url": "https://sourcingjournal.com/topics/retail/retail-landlords-formalize-sustainability-scoring-1234815270/",
-      "publishedAt": "2026-02-25T21:00:00",
-      "content": "URW and Ingka launch SRI Association as portfolio-level ratings enter leasing conversations."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Germany accused of ditching climate targets as it scraps renewables mandate",
-      "description": "Coalition government agrees to remove parts of controversial law and allow homes to rely on fossil fuels Germany’s coalition government has been accused of abandoning its climate targets after agre...",
-      "url": "https://www.theguardian.com/environment/2026/feb/25/germany-accused-ditching-climate-targets-scraps-renewables-mandate",
-      "publishedAt": "2026-02-25T15:11:02",
-      "content": "Coalition government agrees to remove parts of controversial law and allow homes to rely on fossil fuels Germany’s coalition government has been accused of abandoning its climate targets after agre..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Improving Sustainability in Packaging & Products",
-      "description": "At Medtronic, we consistently hear from customers worldwide that they want products and packaging to: weigh less, generate less waste, be more recyclable, and incorporate recycled materials whereve...",
-      "url": "https://csrwire.com/press-release/improving-sustainability-packaging-products/",
-      "publishedAt": "2026-02-24T08:00:00",
-      "content": "At Medtronic, we consistently hear from customers worldwide that they want products and packaging to: weigh less, generate less waste, be more recyclable, and incorporate recycled materials whereve..."
     },
     {
       "source": {
@@ -95,11 +139,33 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Group expands legal claim over South West Water sewage pollution",
-      "description": "Thousands more people across Devon and Cornwall could join case against water firm  A group legal claim against South West Water alleging sewage pollution into coastal waters is harming businesses ...",
-      "url": "https://www.theguardian.com/business/2026/feb/25/group-expands-legal-claim-over-south-west-water-sewage-pollution",
-      "publishedAt": "2026-02-25T06:00:03",
-      "content": "Thousands more people across Devon and Cornwall could join case against water firm  A group legal claim against South West Water alleging sewage pollution into coastal waters is harming businesses ..."
+      "title": "Can degrowth save the climate? – podcast",
+      "description": "Since the 1960s, global GDP has been rapidly rising and living standards have reached record highs.",
+      "url": "https://www.theguardian.com/science/audio/2026/feb/26/can-degrowth-save-the-climate-podcast",
+      "publishedAt": "2026-02-26T05:00:20",
+      "content": "Since the 1960s, global GDP has been rapidly rising and living standards have reached record highs."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Modest Dressing is Easy Thanks to These Brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-modest-dressing/",
+      "publishedAt": "2026-02-25T23:46:48",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Tropical plants flowering months earlier or later because of climate crisis – study",
+      "description": "Changes threaten ecosystems as flowering falls out of sync with fruit-eating, seed-dispersing animals and pollinatorsTropical flowers are blooming months earlier or later than they used to because ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/25/tropical-plants-flower-shifted-months-climate-breakdown-aoe",
+      "publishedAt": "2026-02-25T19:00:06",
+      "content": "Changes threaten ecosystems as flowering falls out of sync with fruit-eating, seed-dispersing animals and pollinatorsTropical flowers are blooming months earlier or later than they used to because ..."
     },
     {
       "source": {
@@ -136,14 +202,157 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Vanguard Settles Case Claiming It Tried to Kill the Coal Industry",
+      "description": "Republican-led states had accused financial firms of colluding against coal producers. Vanguard also agreed not to push for action to fight climate change.",
+      "url": "https://www.nytimes.com/2026/02/26/climate/vanguard-texas-coal-lawsuit-settlement.html",
+      "publishedAt": "2026-02-26T22:54:09",
+      "content": "Republican-led states had accused financial firms of colluding against coal producers. Vanguard also agreed not to push for action to fight climate change."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PSEG: Record Storm. Jersey Ready Response.",
+      "description": "When one of the most severe winter storms our region has seen in more than 30 years tore through New Jersey, it didn’t just bring snow.",
+      "url": "https://csrwire.com/press-release/pseg-record-storm-jersey-ready-response/",
+      "publishedAt": "2026-02-26T09:20:00",
+      "content": "When one of the most severe winter storms our region has seen in more than 30 years tore through New Jersey, it didn’t just bring snow."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Frozen in time: Antarctic ice cave to be used to save melting glacier samples",
+      "description": "Ice Memory Foundation’s specially dug ‘sanctuary’ offers storage for cores, which hold thousands of years of historyLast month the Ice Memory Foundation opened the first ever sanctuary for mountain...",
+      "url": "https://www.theguardian.com/world/2026/feb/27/antarctic-ice-sanctuary-cave-melting-glacier-samples",
+      "publishedAt": "2026-02-27T06:00:34",
+      "content": "Ice Memory Foundation’s specially dug ‘sanctuary’ offers storage for cores, which hold thousands of years of historyLast month the Ice Memory Foundation opened the first ever sanctuary for mountain..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
+      "description": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way.",
+      "url": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
+      "publishedAt": "2026-02-27T05:01:15",
+      "content": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Amid Tariff Chaos, One Principle to Abide By: Don’t Harm Supply Chain Workers",
+      "description": "Better Buying's data shows that when commercial pressures reach a breaking point, the risk of unauthorized subcontracting, excessive overtime and other workers’ rights violations can also increase.",
+      "url": "https://sourcingjournal.com/topics/labor/better-buying-cascale-katie-hess-tariffs-garment-suppliers-1234815431/",
+      "publishedAt": "2026-02-26T23:00:57",
+      "content": "Better Buying's data shows that when commercial pressures reach a breaking point, the risk of unauthorized subcontracting, excessive overtime and other workers’ rights violations can also increase."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Canada Should Brace for Tariffs No Matter What, US and Canadian Officials Say",
+      "description": "For the United States’ neighbor to the North, tariffs are fast becoming a fact of life.",
+      "url": "https://sourcingjournal.com/topics/trade/canada-tariffs-trade-usmca-greer-ustr-ieepa-1234815412/",
+      "publishedAt": "2026-02-26T20:45:00",
+      "content": "For the United States’ neighbor to the North, tariffs are fast becoming a fact of life."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "AI is at the Center of WiseTech Global’s 29% Staff Reduction",
+      "description": "The E2open and CargoWise parent is laying off 2,000 employees, with CEO Zubin Appoo citing \"clear evidence of greater output in shorter time frames with smaller AI-enabled teams.”",
+      "url": "https://sourcingjournal.com/topics/logistics/wisetech-global-ai-layoffs-2000-employees-29-percent-e2open-cargowise-job-cuts-artificial-intelligence-software-1234815421/",
+      "publishedAt": "2026-02-26T19:26:36",
+      "content": "The E2open and CargoWise parent is laying off 2,000 employees, with CEO Zubin Appoo citing \"clear evidence of greater output in shorter time frames with smaller AI-enabled teams.”"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘A gift that falls from the sky’: why farmers are using Etna’s ash as fertiliser",
+      "description": "Falling volcanic ash has for years been viewed as a nuisance.",
+      "url": "https://www.theguardian.com/environment/2026/feb/26/volcanic-ash-farmers-using-etna-ash-fertiliser-agriculture-potential",
+      "publishedAt": "2026-02-26T14:00:08",
+      "content": "Falling volcanic ash has for years been viewed as a nuisance."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "First writing may be 40,000 years earlier than thought",
+      "description": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects.",
+      "url": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-26T12:02:06",
+      "content": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Riding the wave: can surf tourism save Peru’s ancient reed-boat fishing culture?",
+      "description": "As fish stocks dwindle, surf tourism may offer a lifeline to traditional caballitos de totora fishers, whose vessels are thought to be among the first ever used to ride wavesJust before dawn, in a ...",
+      "url": "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture",
+      "publishedAt": "2026-02-26T12:00:32",
+      "content": "As fish stocks dwindle, surf tourism may offer a lifeline to traditional caballitos de totora fishers, whose vessels are thought to be among the first ever used to ride wavesJust before dawn, in a ..."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Environmental, Community Groups to Challenge Regulators’ Approval of Dominion’s Gas Plant",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/24022026/southern-environmental-law-center-challenges-dominion-gas-plant-approval/",
-      "publishedAt": "2026-02-24T09:55:00",
-      "content": "RICHMOND, Va."
+      "title": "Hurricane Helene Is Headed for Georgians’ Electric Bills",
+      "description": "Hurricane Helene may be long over, but its costs are poised to land on Georgians’ electricity bills.",
+      "url": "https://insideclimatenews.org/news/26022026/hurricane-helene-recovery-georgia-power-bills/",
+      "publishedAt": "2026-02-26T09:50:00",
+      "content": "Hurricane Helene may be long over, but its costs are poised to land on Georgians’ electricity bills."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Amid Affordability Crisis, New Jersey Hands $250 Million Tax Break to Data Center",
+      "description": "With New Jersey’s cost-of-living “crisis” at the center of Gov.",
+      "url": "https://insideclimatenews.org/news/26022026/new-jersey-data-center-tax-break/",
+      "publishedAt": "2026-02-26T09:45:00",
+      "content": "With New Jersey’s cost-of-living “crisis” at the center of Gov."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A tale of two oak trees | Paul Evans",
+      "description": "The Marches, Shropshire: Our ancestors were captivated by how browsing by elk and bison affected tree growth.",
+      "url": "https://www.theguardian.com/environment/2026/feb/26/country-diary-a-tale-of-two-oak-trees",
+      "publishedAt": "2026-02-26T06:43:30",
+      "content": "The Marches, Shropshire: Our ancestors were captivated by how browsing by elk and bison affected tree growth."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall",
+      "description": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine...",
+      "url": "https://www.theguardian.com/environment/2026/feb/26/cornwall-new-geothermal-project-launches",
+      "publishedAt": "2026-02-26T06:00:19",
+      "content": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine..."
     },
     {
       "source": {
@@ -155,17 +364,6 @@
       "url": "https://triplepundit.com/2026/freedom-250-ice-detention-potomac-sewage-spill/",
       "publishedAt": "2026-02-25T20:30:45",
       "content": "Concerns about human rights, taxpayer money and public infrastructure collide as plans to celebrate the 250th anniversary of the Declaration of Independence stand in stark contrast to the growing U..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Friendshoring in Apparel: The New Strategy for Supply Chain Resilience",
-      "description": "Friendshoring is designed to provide stability in an increasingly uncertain global environment.",
-      "url": "https://sourcingjournal.com/topics/sourcing/friendshoring-apparel-supply-chain-resilience-informa-1234815017/",
-      "publishedAt": "2026-02-25T15:05:33",
-      "content": "Friendshoring is designed to provide stability in an increasingly uncertain global environment."
     },
     {
       "source": {
@@ -213,14 +411,47 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "A deafening nuclear fusion reactor: why you wouldn’t want to hear the sun",
-      "description": "Sunrise is a majestic spectacle – but we should be grateful for the miles of vacuum between us and the starDawn on a still morning is a majestic spectacle, as sunlight spills silently across the la...",
-      "url": "https://www.theguardian.com/news/2026/feb/26/deafening-hear-the-sun",
-      "publishedAt": "2026-02-26T06:00:20",
-      "content": "Sunrise is a majestic spectacle – but we should be grateful for the miles of vacuum between us and the starDawn on a still morning is a majestic spectacle, as sunlight spills silently across the la..."
+      "author": "CSRWire",
+      "title": "Baker Hughes Keynote: The Energy Equation™",
+      "description": "Our Chairman and CEO opened the Baker Hughes Annual Meeting 2026 with a powerful call to action, urging industry and energy to evolve faster, operate smarter, and deliver at the pace the world now ...",
+      "url": "https://csrwire.com/press-release/baker-hughes-keynote-energy-equationtm/",
+      "publishedAt": "2026-02-24T09:45:00",
+      "content": "Our Chairman and CEO opened the Baker Hughes Annual Meeting 2026 with a powerful call to action, urging industry and energy to evolve faster, operate smarter, and deliver at the pace the world now ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Building Tomorrow’s Pipeline, One Graduate at a Time: Inside Lenovo’s EAGLES Program",
+      "description": "From diamonds in the rough to confident professionals, EAGLES is shaping the next generation of Lenovo sales leaders across EMEA.",
+      "url": "https://csrwire.com/press-release/building-tomorrows-pipeline-one-graduate-time-inside-lenovos-eagles-program/",
+      "publishedAt": "2026-02-24T09:45:00",
+      "content": "From diamonds in the rough to confident professionals, EAGLES is shaping the next generation of Lenovo sales leaders across EMEA."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Minimizing Driver’s Range Anxiety With System Level Simulation of Electric Vehicles",
+      "description": "Lara, an experienced transporter for a cold storage packaging company primarily operating in Germany, undertakes three weekly trips between Munich and Dresden. Her role involves delivering frozen p...",
+      "url": "https://csrwire.com/press-release/minimizing-drivers-range-anxiety-system-level-simulation-electric-vehicles/",
+      "publishedAt": "2026-02-24T09:35:00",
+      "content": "Lara, an experienced transporter for a cold storage packaging company primarily operating in Germany, undertakes three weekly trips between Munich and Dresden. Her role involves delivering frozen p..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Chemours’ Gerardo Familiar Appointed to SEMI North America Advisory Board",
+      "description": "Recently, Chemours announced that Gerardo Familiar, President of the company’s Advanced Performance Materials (APM) business, has been appointed to the SEMI North America Advisory Board (NAAB).",
+      "url": "https://csrwire.com/press-release/chemours-gerardo-familiar-appointed-semi-north-america-advisory-board/",
+      "publishedAt": "2026-02-24T08:00:00",
+      "content": "Recently, Chemours announced that Gerardo Familiar, President of the company’s Advanced Performance Materials (APM) business, has been appointed to the SEMI North America Advisory Board (NAAB)."
     },
     {
       "source": {
@@ -246,36 +477,14 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Guardian"
       },
-      "author": "Sourcing Journal",
-      "title": "‘Built for Retailers by Retailers’: Profitmind Raises $9 Million to Scale AI Decision Making",
-      "description": "Led by Accenture Ventures, the Series A funding will help expand a tool leveraging agentic AI to power profit-linked pricing, assortment and merchandising recommendations.",
-      "url": "https://sourcingjournal.com/topics/technology/profitmind-ai-agentic-commerce-9-million-funding-round-dr-mark-chrystal-retail-technology-assortment-inventory-1234815239/",
-      "publishedAt": "2026-02-25T16:56:09",
-      "content": "Led by Accenture Ventures, the Series A funding will help expand a tool leveraging agentic AI to power profit-linked pricing, assortment and merchandising recommendations."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Trade Czar Greer Says Some Countries Could See Duties Rise Above 15% Under New Strategy",
-      "description": "Some countries could indeed end up with tariffs higher than the 15 percent currently promised by the administration under Section 122 using authorities like Section 301 and Section 232.",
-      "url": "https://sourcingjournal.com/topics/trade/trade-czar-greer-duties-rise-above-15-under-new-strategy-1234815238/",
-      "publishedAt": "2026-02-25T16:51:44",
-      "content": "Some countries could indeed end up with tariffs higher than the 15 percent currently promised by the administration under Section 122 using authorities like Section 301 and Section 232."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Target Expands Partnership with Levi’s",
-      "description": "Target remains one of Levi's most successful wholesale relationships.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/target-expands-partnership-with-levis-red-tab-tops-1234815038/",
-      "publishedAt": "2026-02-25T15:30:00",
-      "content": "Target remains one of Levi's most successful wholesale relationships."
+      "author": "The Guardian",
+      "title": "Fly-tipping across England reaches record high",
+      "description": "Fines for illegal dumping decreased over past year with only 0.",
+      "url": "https://www.theguardian.com/environment/2026/feb/25/fly-tipping-across-england-reaches-record-high",
+      "publishedAt": "2026-02-25T16:09:43",
+      "content": "Fines for illegal dumping decreased over past year with only 0."
     },
     {
       "source": {
@@ -290,17 +499,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Chronic ocean heating fuels ‘staggering’ loss of marine life, study finds",
-      "description": "Fish levels fall by 7.",
-      "url": "https://www.theguardian.com/environment/2026/feb/25/chronic-ocean-heating-fuels-staggering-loss-marine-life-study",
-      "publishedAt": "2026-02-25T10:00:07",
-      "content": "Fish levels fall by 7."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -309,171 +507,6 @@
       "url": "https://insideclimatenews.org/news/25022026/grasslands-wetlands-gobbled-up-by-agriculture-livestock/",
       "publishedAt": "2026-02-25T10:00:00",
       "content": "Agriculture is widely known to be the biggest driver of forest destruction globally, especially in sprawling, high-profile ecosystems like the Amazon rainforest.  But new research published this we..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Scotland’s new emissions strategy ‘too reliant on science fiction’, critics say",
-      "description": "UK Climate Change Committee voices concern over Scotland’s progress on decarbonising buildings and reliance on unproved technologies Scotland has finally produced realistic short-term plans on cutt...",
-      "url": "https://www.theguardian.com/uk-news/2026/feb/25/scotland-emissions-strategy-reliant-on-science-fiction-critics-say",
-      "publishedAt": "2026-02-25T05:00:01",
-      "content": "UK Climate Change Committee voices concern over Scotland’s progress on decarbonising buildings and reliance on unproved technologies Scotland has finally produced realistic short-term plans on cutt..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Approves €400 Million Greek Cleantech Investment Aid Program",
-      "description": "The European Commission announced today that it has approved a €400 million Greek aid scheme",
-      "url": "https://www.esgtoday.com/eu-approves-e400-million-greek-cleantech-investment-aid-program/?utm_source=rss&utm_medium=rss&utm_campaign=eu-approves-e400-million-greek-cleantech-investment-aid-program",
-      "publishedAt": "2026-02-24T13:21:32",
-      "content": "The European Commission announced today that it has approved a €400 million Greek aid scheme"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "This Tiny Tracker Monitors Monarch Migration",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Dan Fagin, a journalism professor at New York University. The ama...",
-      "url": "https://insideclimatenews.org/news/24022026/tracking-monarch-butterfly-migration/",
-      "publishedAt": "2026-02-24T09:50:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Dan Fagin, a journalism professor at New York University. The ama..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Baker Hughes Keynote: The Energy Equation™",
-      "description": "Our Chairman and CEO opened the Baker Hughes Annual Meeting 2026 with a powerful call to action, urging industry and energy to evolve faster, operate smarter, and deliver at the pace the world now ...",
-      "url": "https://csrwire.com/press-release/baker-hughes-keynote-energy-equationtm/",
-      "publishedAt": "2026-02-24T09:45:00",
-      "content": "Our Chairman and CEO opened the Baker Hughes Annual Meeting 2026 with a powerful call to action, urging industry and energy to evolve faster, operate smarter, and deliver at the pace the world now ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Building Tomorrow’s Pipeline, One Graduate at a Time: Inside Lenovo’s EAGLES Program",
-      "description": "From diamonds in the rough to confident professionals, EAGLES is shaping the next generation of Lenovo sales leaders across EMEA.",
-      "url": "https://csrwire.com/press-release/building-tomorrows-pipeline-one-graduate-time-inside-lenovos-eagles-program/",
-      "publishedAt": "2026-02-24T09:45:00",
-      "content": "From diamonds in the rough to confident professionals, EAGLES is shaping the next generation of Lenovo sales leaders across EMEA."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft Signs 1.8 Million Ton Carbon Removal Deal to Restore African Rainforest",
-      "description": "Forest restoration company Rainforest Builder announced that it has signed a new multi-year agreement with",
-      "url": "https://www.esgtoday.com/microsoft-signs-1-8-million-ton-carbon-removal-deal-to-restore-african-rainforest/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-1-8-million-ton-carbon-removal-deal-to-restore-african-rainforest",
-      "publishedAt": "2026-02-24T09:36:26",
-      "content": "Forest restoration company Rainforest Builder announced that it has signed a new multi-year agreement with"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Minimizing Driver’s Range Anxiety With System Level Simulation of Electric Vehicles",
-      "description": "Lara, an experienced transporter for a cold storage packaging company primarily operating in Germany, undertakes three weekly trips between Munich and Dresden. Her role involves delivering frozen p...",
-      "url": "https://csrwire.com/press-release/minimizing-drivers-range-anxiety-system-level-simulation-electric-vehicles/",
-      "publishedAt": "2026-02-24T09:35:00",
-      "content": "Lara, an experienced transporter for a cold storage packaging company primarily operating in Germany, undertakes three weekly trips between Munich and Dresden. Her role involves delivering frozen p..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Toyota to Build Circular Factory in Poland to Recycle End-of Life Vehicles",
-      "description": "Toyota Motor Europe announced the launch of a new circular factory in Walbrzych, Poland, aimed",
-      "url": "https://www.esgtoday.com/toyota-to-build-circular-factory-in-poland-to-recycle-end-of-life-vehicles/?utm_source=rss&utm_medium=rss&utm_campaign=toyota-to-build-circular-factory-in-poland-to-recycle-end-of-life-vehicles",
-      "publishedAt": "2026-02-24T08:46:48",
-      "content": "Toyota Motor Europe announced the launch of a new circular factory in Walbrzych, Poland, aimed"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Chemours’ Gerardo Familiar Appointed to SEMI North America Advisory Board",
-      "description": "Recently, Chemours announced that Gerardo Familiar, President of the company’s Advanced Performance Materials (APM) business, has been appointed to the SEMI North America Advisory Board (NAAB).",
-      "url": "https://csrwire.com/press-release/chemours-gerardo-familiar-appointed-semi-north-america-advisory-board/",
-      "publishedAt": "2026-02-24T08:00:00",
-      "content": "Recently, Chemours announced that Gerardo Familiar, President of the company’s Advanced Performance Materials (APM) business, has been appointed to the SEMI North America Advisory Board (NAAB)."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Georgia-Pacific Helps Restore Historic Prince Hall Temple, Honoring Atlanta History",
-      "description": "Located on the corner of Auburn Avenue and Hilliard Street, the Prince Hall Masonic Temple and Lodge, built between 1937 and 1941, is a vital part of Atlanta’s history.",
-      "url": "https://csrwire.com/press-release/georgia-pacific-helps-restore-historic-prince-hall-temple-honoring-atlanta-history/",
-      "publishedAt": "2026-02-23T11:30:00",
-      "content": "Located on the corner of Auburn Avenue and Hilliard Street, the Prince Hall Masonic Temple and Lodge, built between 1937 and 1941, is a vital part of Atlanta’s history."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Humans – not Mimmo the dolphin – need managing in Venice lagoon, say scientists",
-      "description": "Researchers say solitary bottlenose has adapted well to city waters, but tighter controls on boat traffic and human behaviour are needed Italian scientists monitoring the movements of a dolphin in ...",
-      "url": "https://www.theguardian.com/environment/2026/feb/25/humans-need-managing-in-venice-lagoon-say-scientists-mimm-dolphin",
-      "publishedAt": "2026-02-25T05:00:02",
-      "content": "Researchers say solitary bottlenose has adapted well to city waters, but tighter controls on boat traffic and human behaviour are needed Italian scientists monitoring the movements of a dolphin in ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Plastic, Plastic Everywhere",
-      "description": "We talk to the author of a new book about why the problem is so hard to solve.",
-      "url": "https://www.nytimes.com/2026/02/24/climate/plastic-plastic-everywhere.html",
-      "publishedAt": "2026-02-24T21:13:00",
-      "content": "We talk to the author of a new book about why the problem is so hard to solve."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Birders Around the World Help Track ‘the Heartbeats of the Planet’",
-      "description": "Stepping off the Q train at Prospect Park Station in Brooklyn, I winced at the screech and grumble of the subway.",
-      "url": "https://insideclimatenews.org/news/24022026/todays-climate-great-backyard-bird-count-community-science/",
-      "publishedAt": "2026-02-24T20:47:56",
-      "content": "Stepping off the Q train at Prospect Park Station in Brooklyn, I winced at the screech and grumble of the subway."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Post-Katrina Law Guards FEMA Resources. Why Hasn’t It Stopped Noem?",
-      "description": "A key statute was designed to rein in the Homeland Security secretary and prevent deadly mistakes. Lawyers say its provisions are difficult to enforce.",
-      "url": "https://www.nytimes.com/2026/02/21/climate/a-post-katrina-law-guards-fema-resources-why-hasnt-it-stopped-noem.html",
-      "publishedAt": "2026-02-23T14:36:00",
-      "content": "A key statute was designed to rein in the Homeland Security secretary and prevent deadly mistakes. Lawyers say its provisions are difficult to enforce."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "SpaceX rocket fireball linked to plume of polluting lithium",
-      "description": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused.",
-      "url": "https://www.bbc.com/news/articles/cpd8z4eqlxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-19T16:00:42",
-      "content": "A SpaceX Falcon 9 crashed to Earth last year. Now scientists have measured the pollution it caused."
     }
   ]
 }
