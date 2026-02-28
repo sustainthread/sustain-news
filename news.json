@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 46,
+  "totalResults": 49,
   "articles": [
     {
       "source": {
@@ -37,14 +37,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Sourcing Journal"
       },
-      "author": "ESG Today",
-      "title": "Deutsche Telekom Achieves Net Zero Across Operations",
-      "description": "Germany-based telecommunications giant Deutsche Telekom announced that it has achieved company-wide climate neutrality across its",
-      "url": "https://www.esgtoday.com/deutsche-telekom-achieves-net-zero-across-operations/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-telekom-achieves-net-zero-across-operations",
-      "publishedAt": "2026-02-25T07:43:54",
-      "content": "Germany-based telecommunications giant Deutsche Telekom announced that it has achieved company-wide climate neutrality across its"
+      "author": "Sourcing Journal",
+      "title": "Unifi Reveals Environmental Gains With Sustainability Snapshot",
+      "description": "Repreve recycled fiber and yarn maker Unifi outlined the progress it has made on environmental goals in its latest Sustainability Snapshot report.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/unifi-reveals-environmental-gains-sustainability-snapshot-repreve-1234815478/",
+      "publishedAt": "2026-02-27T19:00:00",
+      "content": "Repreve recycled fiber and yarn maker Unifi outlined the progress it has made on environmental goals in its latest Sustainability Snapshot report."
     },
     {
       "source": {
@@ -92,6 +92,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Crédit Agricole Appoints Quentin Guerineau as Chief Sustainability and Impact Officer",
+      "description": "Paris-based international banking and investment group Crédit Agricole announced today the appointment of former French",
+      "url": "https://www.esgtoday.com/credit-agricole-appoints-quentin-guerineau-as-chief-sustainability-and-impact-officer/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-appoints-quentin-guerineau-as-chief-sustainability-and-impact-officer",
+      "publishedAt": "2026-02-25T14:51:29",
+      "content": "Paris-based international banking and investment group Crédit Agricole announced today the appointment of former French"
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -114,39 +125,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Crédit Agricole Appoints Quentin Guerineau as Chief Sustainability and Impact Officer",
-      "description": "Paris-based international banking and investment group Crédit Agricole announced today the appointment of former French",
-      "url": "https://www.esgtoday.com/credit-agricole-appoints-quentin-guerineau-as-chief-sustainability-and-impact-officer/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-appoints-quentin-guerineau-as-chief-sustainability-and-impact-officer",
-      "publishedAt": "2026-02-25T14:51:29",
-      "content": "Paris-based international banking and investment group Crédit Agricole announced today the appointment of former French"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "This Oregon Winery Wants to Make Refillable Bottles the Norm",
-      "description": "The familiar glass bottle has dominated wine packaging for years, with little change and a hefty carbon footprint. Two Oregon companies are switching things up by going reusable. TriplePundit",
-      "url": "https://triplepundit.com/2026/refillable-wine-bottle-recyclable-cork-willamette-valley/",
-      "publishedAt": "2026-02-20T13:00:00",
-      "content": "The familiar glass bottle has dominated wine packaging for years, with little change and a hefty carbon footprint. Two Oregon companies are switching things up by going reusable. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Can degrowth save the climate? – podcast",
-      "description": "Since the 1960s, global GDP has been rapidly rising and living standards have reached record highs.",
-      "url": "https://www.theguardian.com/science/audio/2026/feb/26/can-degrowth-save-the-climate-podcast",
-      "publishedAt": "2026-02-26T05:00:20",
-      "content": "Since the 1960s, global GDP has been rapidly rising and living standards have reached record highs."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -166,6 +144,72 @@
       "url": "https://www.theguardian.com/environment/2026/feb/25/tropical-plants-flower-shifted-months-climate-breakdown-aoe",
       "publishedAt": "2026-02-25T19:00:06",
       "content": "Changes threaten ecosystems as flowering falls out of sync with fruit-eating, seed-dispersing animals and pollinatorsTropical flowers are blooming months earlier or later than they used to because ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Dirty water, death and decline: the inside story of a privatisation scandal",
+      "description": "There is no end in sight to the pollution caused by a ‘broken’ system.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/28/dirty-water-death-and-decline-the-inside-story-of-a-privatisation-scandal",
+      "publishedAt": "2026-02-28T06:00:05",
+      "content": "There is no end in sight to the pollution caused by a ‘broken’ system."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Inspired By the Film Industry, This Mobility Device Helps People Move Without Motors or Batteries",
+      "description": "Many of the over 5.5 million people who rely on mobility devices in the U.S. need multiple pieces of equipment to address their daily needs. The creators of the Zeen want to change that. TriplePundit",
+      "url": "https://triplepundit.com/2026/zeen-mobility-device-wheelchair-walker-alternative/",
+      "publishedAt": "2026-02-28T00:14:50",
+      "content": "Many of the over 5.5 million people who rely on mobility devices in the U.S. need multiple pieces of equipment to address their daily needs. The creators of the Zeen want to change that. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Camden Healthcare Workers Confront the Barriers Holding Back Their Neighbors’ Health",
+      "description": "A community-based healthcare system in Camden, New Jersey, is improving patients' health by considering every aspect of their life a part of the treatment. TriplePundit",
+      "url": "https://triplepundit.com/2026/camden-healthy-neighbor-diabetes-hypertension-treatment/",
+      "publishedAt": "2026-02-27T20:04:23",
+      "content": "A community-based healthcare system in Camden, New Jersey, is improving patients' health by considering every aspect of their life a part of the treatment. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "AXS Expands Tickets for Good Partnership to the UK, Enabling More Community Access To Live Events",
+      "description": "AXS, a trusted leader in advanced ticketing and live event technology, and Tickets for Good (TfG), the mission-driven ticket distribution platform for live events, have announced the launch of thei...",
+      "url": "https://csrwire.com/press-release/axs-expands-tickets-good-partnership-uk-enabling-more-community-access-live-events/",
+      "publishedAt": "2026-02-27T17:30:00",
+      "content": "AXS, a trusted leader in advanced ticketing and live event technology, and Tickets for Good (TfG), the mission-driven ticket distribution platform for live events, have announced the launch of thei..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "LEGO Group Invests in Nature and Technology-Based Carbon Removal Projects",
+      "description": "The LEGO Group announced a series of carbon removal investments, expanding the company’s carbon portfolio",
+      "url": "https://www.esgtoday.com/lego-group-invests-in-nature-and-technology-based-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=lego-group-invests-in-nature-and-technology-based-carbon-removal-projects",
+      "publishedAt": "2026-02-27T10:47:48",
+      "content": "The LEGO Group announced a series of carbon removal investments, expanding the company’s carbon portfolio"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Baker Hughes and Giammarco Technologies Collaborate To Advance and Commercialize Hot Potassium Carbonate for Post-Combustion Carbon Capture",
+      "description": "Baker Hughes and Giammarco Technologies S.",
+      "url": "https://csrwire.com/press-release/baker-hughes-and-giammarco-technologies-collaborate-advance-and-commercialize-hot-potassium/",
+      "publishedAt": "2026-02-27T09:35:00",
+      "content": "Baker Hughes and Giammarco Technologies S."
     },
     {
       "source": {
@@ -202,6 +246,105 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Cheniere Energy Received $370 Million IRS Windfall for Using LNG as ‘Alternative’ Fuel",
+      "description": "Cheniere Energy, the largest producer and exporter of U.",
+      "url": "https://insideclimatenews.org/news/27022026/cheniere-energy-lng-alternative-fuel-tax-benefits/",
+      "publishedAt": "2026-02-27T22:14:26",
+      "content": "Cheniere Energy, the largest producer and exporter of U."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Lanvin Group Promotes Pozzo to Wolford CEO",
+      "description": "Marco Pozzo has been a member of the management board of Wolford since last July and previously served as deputy CEO.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-lanvin-group-wolford-marco-pozzo-1234815464/",
+      "publishedAt": "2026-02-27T21:17:27",
+      "content": "Marco Pozzo has been a member of the management board of Wolford since last July and previously served as deputy CEO."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Ebay Axes 800 Jobs—6% of Its Workforce—After $1.2B Depop Deal",
+      "description": "It also follows \"very strong\" fourth-quarter revenue of nearly $3 billion and $21.2 billion in full-year gross merchandise volume.",
+      "url": "https://sourcingjournal.com/topics/labor/ebay-layoffs-ai-depop-job-cuts-1234815483/",
+      "publishedAt": "2026-02-27T20:15:21",
+      "content": "It also follows \"very strong\" fourth-quarter revenue of nearly $3 billion and $21.2 billion in full-year gross merchandise volume."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
+      "description": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way.",
+      "url": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
+      "publishedAt": "2026-02-27T18:46:06",
+      "content": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nasa announces change to its Moon landing plans",
+      "description": "It is adding an extra mission to its Artemis programme before landing astronauts on the Moon.",
+      "url": "https://www.bbc.com/news/articles/c6270030neyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-27T18:37:11",
+      "content": "It is adding an extra mission to its Artemis programme before landing astronauts on the Moon."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "How Buyers Are Rebuilding Sourcing Portfolios",
+      "description": "A look at why Africa and emerging markets are back on the table.",
+      "url": "https://sourcingjournal.com/topics/sourcing/how-buyers-are-rebuilding-sourcing-portfolio-africa-agoa-1234815417/",
+      "publishedAt": "2026-02-27T17:54:51",
+      "content": "A look at why Africa and emerging markets are back on the table."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Everlane Taps EB Denim Designer Elena Bonvicini for Capsule Collection",
+      "description": "The collection spans jeans, shorts, skirts and tees.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/everlane-collaborates-eb-denim-designer-elena-bonvicini-1234815378/",
+      "publishedAt": "2026-02-27T17:00:00",
+      "content": "The collection spans jeans, shorts, skirts and tees."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Waitrose to suspend mackerel sales due to overfishing concerns",
+      "description": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April.",
+      "url": "https://www.bbc.com/news/articles/cgl5gee07xzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-27T13:52:25",
+      "content": "The supermarket chain says it will stop sourcing fresh, chilled and frozen mackerel by 29 April."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Six planets on show in celestial 'parade'",
+      "description": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky.",
+      "url": "https://www.bbc.com/news/articles/c4g3l0yzyxdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-27T06:54:50",
+      "content": "Six planets - Mercury, Venus, Saturn, Jupiter, Uranus and Neptune - will all be visible in the night sky."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -227,6 +370,61 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
+      "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall",
+      "description": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine...",
+      "url": "https://www.theguardian.com/environment/2026/feb/26/cornwall-new-geothermal-project-launches",
+      "publishedAt": "2026-02-26T06:00:19",
+      "content": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "‘Freedom 250’ Collides with Detention Camps and a Massive Sewage Problem",
+      "description": "Concerns about human rights, taxpayer money and public infrastructure collide as plans to celebrate the 250th anniversary of the Declaration of Independence stand in stark contrast to the growing U...",
+      "url": "https://triplepundit.com/2026/freedom-250-ice-detention-potomac-sewage-spill/",
+      "publishedAt": "2026-02-25T20:30:45",
+      "content": "Concerns about human rights, taxpayer money and public infrastructure collide as plans to celebrate the 250th anniversary of the Declaration of Independence stand in stark contrast to the growing U..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Goldman Sachs Backs Clean Fuel Developer Andion",
+      "description": "Biogas developer Andion CH4 announced it has secured €67 (USD$79 million) in a private credit",
+      "url": "https://www.esgtoday.com/goldman-sachs-backs-clean-fuel-developer-andion/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-backs-clean-fuel-developer-andion",
+      "publishedAt": "2026-02-25T09:54:41",
+      "content": "Biogas developer Andion CH4 announced it has secured €67 (USD$79 million) in a private credit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco Networking Academy and Indeed Launch Global Partnership, Debut Dedicated Career Hub for India",
+      "description": "The disconnect between skilled talent and open jobs has become one of the most pressing challenges worldwide.",
+      "url": "https://csrwire.com/press-release/cisco-networking-academy-and-indeed-launch-global-partnership-debut-dedicated-career-hub-india/",
+      "publishedAt": "2026-02-25T09:10:00",
+      "content": "The disconnect between skilled talent and open jobs has become one of the most pressing challenges worldwide."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Science & Innovation Behind the Sparkle: Dr. Lucy Gildea Supercharges Mary Kay’s Beauty DNA",
+      "description": "When Dr.",
+      "url": "https://csrwire.com/press-release/science-innovation-behind-sparkle-dr-lucy-gildea-supercharges-mary-kays-beauty-dna/",
+      "publishedAt": "2026-02-25T08:00:00",
+      "content": "When Dr."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
       "title": "Frozen in time: Antarctic ice cave to be used to save melting glacier samples",
       "description": "Ice Memory Foundation’s specially dug ‘sanctuary’ offers storage for cores, which hold thousands of years of historyLast month the Ice Memory Foundation opened the first ever sanctuary for mountain...",
       "url": "https://www.theguardian.com/world/2026/feb/27/antarctic-ice-sanctuary-cave-melting-glacier-samples",
@@ -235,58 +433,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
-      "description": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way.",
-      "url": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
-      "publishedAt": "2026-02-27T05:01:15",
-      "content": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Amid Tariff Chaos, One Principle to Abide By: Don’t Harm Supply Chain Workers",
-      "description": "Better Buying's data shows that when commercial pressures reach a breaking point, the risk of unauthorized subcontracting, excessive overtime and other workers’ rights violations can also increase.",
-      "url": "https://sourcingjournal.com/topics/labor/better-buying-cascale-katie-hess-tariffs-garment-suppliers-1234815431/",
-      "publishedAt": "2026-02-26T23:00:57",
-      "content": "Better Buying's data shows that when commercial pressures reach a breaking point, the risk of unauthorized subcontracting, excessive overtime and other workers’ rights violations can also increase."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Canada Should Brace for Tariffs No Matter What, US and Canadian Officials Say",
-      "description": "For the United States’ neighbor to the North, tariffs are fast becoming a fact of life.",
-      "url": "https://sourcingjournal.com/topics/trade/canada-tariffs-trade-usmca-greer-ustr-ieepa-1234815412/",
-      "publishedAt": "2026-02-26T20:45:00",
-      "content": "For the United States’ neighbor to the North, tariffs are fast becoming a fact of life."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "AI is at the Center of WiseTech Global’s 29% Staff Reduction",
-      "description": "The E2open and CargoWise parent is laying off 2,000 employees, with CEO Zubin Appoo citing \"clear evidence of greater output in shorter time frames with smaller AI-enabled teams.”",
-      "url": "https://sourcingjournal.com/topics/logistics/wisetech-global-ai-layoffs-2000-employees-29-percent-e2open-cargowise-job-cuts-artificial-intelligence-software-1234815421/",
-      "publishedAt": "2026-02-26T19:26:36",
-      "content": "The E2open and CargoWise parent is laying off 2,000 employees, with CEO Zubin Appoo citing \"clear evidence of greater output in shorter time frames with smaller AI-enabled teams.”"
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘A gift that falls from the sky’: why farmers are using Etna’s ash as fertiliser",
-      "description": "Falling volcanic ash has for years been viewed as a nuisance.",
-      "url": "https://www.theguardian.com/environment/2026/feb/26/volcanic-ash-farmers-using-etna-ash-fertiliser-agriculture-potential",
-      "publishedAt": "2026-02-26T14:00:08",
-      "content": "Falling volcanic ash has for years been viewed as a nuisance."
+      "title": "Country diary: A wet walk is worth it for the spoonbills | Elizabeth-Jane Burnett",
+      "description": "Isley Marsh, Devon: The birdlife is mostly staying still in the downpour, not least these large, striking waders that we’re lucky to have hereRain washes across the saltmarsh, numbing my lips and f...",
+      "url": "https://www.theguardian.com/environment/2026/feb/27/country-diary-a-wet-walk-is-worth-it-for-the-spoonbills",
+      "publishedAt": "2026-02-27T05:30:32",
+      "content": "Isley Marsh, Devon: The birdlife is mostly staying still in the downpour, not least these large, striking waders that we’re lucky to have hereRain washes across the saltmarsh, numbing my lips and f..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Bird Losses Are Accelerating, New Study Finds",
+      "description": "Scientists studying data collected over more than three decades found accelerating losses. Their research offers clues about the causes.",
+      "url": "https://www.nytimes.com/2026/02/26/climate/bird-declines.html",
+      "publishedAt": "2026-02-26T19:00:06",
+      "content": "Scientists studying data collected over more than three decades found accelerating losses. Their research offers clues about the causes."
     },
     {
       "source": {
@@ -334,80 +499,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Country diary: A tale of two oak trees | Paul Evans",
-      "description": "The Marches, Shropshire: Our ancestors were captivated by how browsing by elk and bison affected tree growth.",
-      "url": "https://www.theguardian.com/environment/2026/feb/26/country-diary-a-tale-of-two-oak-trees",
-      "publishedAt": "2026-02-26T06:43:30",
-      "content": "The Marches, Shropshire: Our ancestors were captivated by how browsing by elk and bison affected tree growth."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall",
-      "description": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine...",
-      "url": "https://www.theguardian.com/environment/2026/feb/26/cornwall-new-geothermal-project-launches",
-      "publishedAt": "2026-02-26T06:00:19",
-      "content": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "‘Freedom 250’ Collides with Detention Camps and a Massive Sewage Problem",
-      "description": "Concerns about human rights, taxpayer money and public infrastructure collide as plans to celebrate the 250th anniversary of the Declaration of Independence stand in stark contrast to the growing U...",
-      "url": "https://triplepundit.com/2026/freedom-250-ice-detention-potomac-sewage-spill/",
-      "publishedAt": "2026-02-25T20:30:45",
-      "content": "Concerns about human rights, taxpayer money and public infrastructure collide as plans to celebrate the 250th anniversary of the Declaration of Independence stand in stark contrast to the growing U..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Goldman Sachs Backs Clean Fuel Developer Andion",
-      "description": "Biogas developer Andion CH4 announced it has secured €67 (USD$79 million) in a private credit",
-      "url": "https://www.esgtoday.com/goldman-sachs-backs-clean-fuel-developer-andion/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-backs-clean-fuel-developer-andion",
-      "publishedAt": "2026-02-25T09:54:41",
-      "content": "Biogas developer Andion CH4 announced it has secured €67 (USD$79 million) in a private credit"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Why Supply Chain Inefficiency is the Ultimate ESG Failure",
-      "description": "Guest post by: Justin Floyd, CEO of RedCloud Most corporate ESG strategies focus on visible,",
-      "url": "https://www.esgtoday.com/why-supply-chain-inefficiency-is-the-ultimate-esg-failure/?utm_source=rss&utm_medium=rss&utm_campaign=why-supply-chain-inefficiency-is-the-ultimate-esg-failure",
-      "publishedAt": "2026-02-25T09:28:56",
-      "content": "Guest post by: Justin Floyd, CEO of RedCloud Most corporate ESG strategies focus on visible,"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco Networking Academy and Indeed Launch Global Partnership, Debut Dedicated Career Hub for India",
-      "description": "The disconnect between skilled talent and open jobs has become one of the most pressing challenges worldwide.",
-      "url": "https://csrwire.com/press-release/cisco-networking-academy-and-indeed-launch-global-partnership-debut-dedicated-career-hub-india/",
-      "publishedAt": "2026-02-25T09:10:00",
-      "content": "The disconnect between skilled talent and open jobs has become one of the most pressing challenges worldwide."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Science & Innovation Behind the Sparkle: Dr. Lucy Gildea Supercharges Mary Kay’s Beauty DNA",
-      "description": "When Dr.",
-      "url": "https://csrwire.com/press-release/science-innovation-behind-sparkle-dr-lucy-gildea-supercharges-mary-kays-beauty-dna/",
-      "publishedAt": "2026-02-25T08:00:00",
-      "content": "When Dr."
+      "author": "BBC",
+      "title": "Why scientists fear Emperor penguins' annual moult may be killing them",
+      "description": "Each year the birds must stay on floating ice long enough to replace their weather-beaten feathers.",
+      "url": "https://www.bbc.com/news/articles/c204626888zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-25T10:01:53",
+      "content": "Each year the birds must stay on floating ice long enough to replace their weather-beaten feathers."
     },
     {
       "source": {
@@ -441,72 +540,6 @@
       "url": "https://csrwire.com/press-release/minimizing-drivers-range-anxiety-system-level-simulation-electric-vehicles/",
       "publishedAt": "2026-02-24T09:35:00",
       "content": "Lara, an experienced transporter for a cold storage packaging company primarily operating in Germany, undertakes three weekly trips between Munich and Dresden. Her role involves delivering frozen p..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Chemours’ Gerardo Familiar Appointed to SEMI North America Advisory Board",
-      "description": "Recently, Chemours announced that Gerardo Familiar, President of the company’s Advanced Performance Materials (APM) business, has been appointed to the SEMI North America Advisory Board (NAAB).",
-      "url": "https://csrwire.com/press-release/chemours-gerardo-familiar-appointed-semi-north-america-advisory-board/",
-      "publishedAt": "2026-02-24T08:00:00",
-      "content": "Recently, Chemours announced that Gerardo Familiar, President of the company’s Advanced Performance Materials (APM) business, has been appointed to the SEMI North America Advisory Board (NAAB)."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "North Carolina Regulators Nix $1.2 Billion Federal Proposal to Dredge Wilmington Harbor",
-      "description": "The U.",
-      "url": "https://insideclimatenews.org/news/25022026/north-carolina-denies-army-corps-engineers-wilmington-dredging/",
-      "publishedAt": "2026-02-26T00:23:50",
-      "content": "The U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Whale Entanglements in Fishing Gear Surge Off U.S. West Coast During Marine Heatwaves",
-      "description": "Each spring, humpback whales start to feed off the coast of California and Oregon on dense schools of anchovies, sardines and krill—prey sustained by cool, nutrient-rich water that seasonal winds d...",
-      "url": "https://insideclimatenews.org/news/25022026/west-coast-whale-entanglements-heatwaves/",
-      "publishedAt": "2026-02-25T21:48:19",
-      "content": "Each spring, humpback whales start to feed off the coast of California and Oregon on dense schools of anchovies, sardines and krill—prey sustained by cool, nutrient-rich water that seasonal winds d..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fly-tipping across England reaches record high",
-      "description": "Fines for illegal dumping decreased over past year with only 0.",
-      "url": "https://www.theguardian.com/environment/2026/feb/25/fly-tipping-across-england-reaches-record-high",
-      "publishedAt": "2026-02-25T16:09:43",
-      "content": "Fines for illegal dumping decreased over past year with only 0."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why scientists fear Emperor penguins' annual moult may be killing them",
-      "description": "Each year the birds must stay on floating ice long enough to replace their weather-beaten feathers.",
-      "url": "https://www.bbc.com/news/articles/c204626888zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-25T10:01:53",
-      "content": "Each year the birds must stay on floating ice long enough to replace their weather-beaten feathers."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Grasslands and Wetlands Are Being Gobbled Up By Agriculture, Mostly Livestock",
-      "description": "Agriculture is widely known to be the biggest driver of forest destruction globally, especially in sprawling, high-profile ecosystems like the Amazon rainforest.  But new research published this we...",
-      "url": "https://insideclimatenews.org/news/25022026/grasslands-wetlands-gobbled-up-by-agriculture-livestock/",
-      "publishedAt": "2026-02-25T10:00:00",
-      "content": "Agriculture is widely known to be the biggest driver of forest destruction globally, especially in sprawling, high-profile ecosystems like the Amazon rainforest.  But new research published this we..."
     }
   ]
 }
