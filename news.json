@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 49,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
@@ -48,6 +48,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Thousands of pollution incidents in England downgraded without site visit, data suggests",
+      "description": "Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidenceEnvironment Agency (EA) staff have downgraded thousands of serious pollution incid...",
+      "url": "https://www.theguardian.com/environment/2026/mar/01/thousands-pollution-incidents-england-downgraded-without-site-visit-data-suggests",
+      "publishedAt": "2026-03-01T07:00:34",
+      "content": "Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidenceEnvironment Agency (EA) staff have downgraded thousands of serious pollution incid..."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -67,6 +78,39 @@
       "url": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-02-26T11:51:40",
       "content": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Helping Trees—and a City—Outrace Climate Change",
+      "description": "LOUISVILLE, Ky.",
+      "url": "https://insideclimatenews.org/news/01032026/assisted-migration-trees-climate-change/",
+      "publishedAt": "2026-03-01T10:00:00",
+      "content": "LOUISVILLE, Ky."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Are ‘Climate Hushers’ Lurking in the Democratic Party?",
+      "description": "In late January, U.",
+      "url": "https://insideclimatenews.org/news/01032026/climate-hushing-in-the-democratic-party/",
+      "publishedAt": "2026-03-01T09:50:00",
+      "content": "In late January, U."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: UK releases finalized sustainability reporting standards; EU states approve Omnibus",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-250/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-250",
+      "publishedAt": "2026-03-01T09:07:33",
+      "content": "This week in ESG news: UK releases finalized sustainability reporting standards; EU states approve Omnibus"
     },
     {
       "source": {
@@ -114,17 +158,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Satellites Reveal New Climate Threat to Emperor Penguins",
-      "description": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks when it’s dangerous for the mostly aquatic bir...",
-      "url": "https://insideclimatenews.org/news/26022026/antarctic-ice-loss-threatens-emperor-penguins/",
-      "publishedAt": "2026-02-26T10:00:00",
-      "content": "Each year for millennia, emperor penguins have molted on coastal sea ice that remained stable until late summer—a haven during a span of several weeks when it’s dangerous for the mostly aquatic bir..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -139,22 +172,11 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "New fungal research to support woodland creation",
-      "description": "The project's aim is to understand how underground fungal networks adapt to environments.",
-      "url": "https://www.bbc.com/news/articles/cx284ljnv31o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-28T15:11:29",
-      "content": "The project's aim is to understand how underground fungal networks adapt to environments."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Dirty water, death and decline: the inside story of a privatisation scandal",
-      "description": "There is no end in sight to the pollution caused by a ‘broken’ system.",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/28/dirty-water-death-and-decline-the-inside-story-of-a-privatisation-scandal",
-      "publishedAt": "2026-02-28T10:51:46",
-      "content": "There is no end in sight to the pollution caused by a ‘broken’ system."
+      "title": "Wild spaces for butterflies to be created in Glasgow",
+      "description": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project.",
+      "url": "https://www.bbc.com/news/articles/c5yrdd4nepjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-02T06:12:36",
+      "content": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project."
     },
     {
       "source": {
@@ -166,17 +188,6 @@
       "url": "https://goodonyou.eco/more-sustainable-modest-dressing/",
       "publishedAt": "2026-02-25T23:46:48",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Tropical plants flowering months earlier or later because of climate crisis – study",
-      "description": "Changes threaten ecosystems as flowering falls out of sync with fruit-eating, seed-dispersing animals and pollinatorsTropical flowers are blooming months earlier or later than they used to because ...",
-      "url": "https://www.theguardian.com/environment/2026/feb/25/tropical-plants-flower-shifted-months-climate-breakdown-aoe",
-      "publishedAt": "2026-02-25T19:00:06",
-      "content": "Changes threaten ecosystems as flowering falls out of sync with fruit-eating, seed-dispersing animals and pollinatorsTropical flowers are blooming months earlier or later than they used to because ..."
     },
     {
       "source": {
@@ -216,11 +227,22 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Caesar Rodney statue to get place of honor in Washington",
-      "description": "Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer.",
-      "url": "https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html",
-      "publishedAt": "2026-02-28T13:27:10",
-      "content": "Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer."
+      "title": "Oil Prices Jump After Iran Attack",
+      "description": "How long prices remain high will depend on what the United States, Israel and Iran do next.",
+      "url": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html",
+      "publishedAt": "2026-03-02T06:00:01",
+      "content": "How long prices remain high will depend on what the United States, Israel and Iran do next."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Dirty water, death and decline: the inside story of a privatisation scandal",
+      "description": "There is no end in sight to the pollution caused by a ‘broken’ system.",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/28/dirty-water-death-and-decline-the-inside-story-of-a-privatisation-scandal",
+      "publishedAt": "2026-02-28T10:51:46",
+      "content": "There is no end in sight to the pollution caused by a ‘broken’ system."
     },
     {
       "source": {
@@ -282,33 +304,33 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Vanguard Settles Case Claiming It Tried to Kill the Coal Industry",
-      "description": "Republican-led states had accused financial firms of colluding against coal producers. Vanguard also agreed not to push for action to fight climate change.",
-      "url": "https://www.nytimes.com/2026/02/26/climate/vanguard-texas-coal-lawsuit-settlement.html",
-      "publishedAt": "2026-02-26T22:54:09",
-      "content": "Republican-led states had accused financial firms of colluding against coal producers. Vanguard also agreed not to push for action to fight climate change."
+      "title": "Caesar Rodney statue to get place of honor in Washington",
+      "description": "Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer.",
+      "url": "https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html",
+      "publishedAt": "2026-02-28T13:27:10",
+      "content": "Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "PSEG: Record Storm. Jersey Ready Response.",
-      "description": "When one of the most severe winter storms our region has seen in more than 30 years tore through New Jersey, it didn’t just bring snow.",
-      "url": "https://csrwire.com/press-release/pseg-record-storm-jersey-ready-response/",
-      "publishedAt": "2026-02-26T09:20:00",
-      "content": "When one of the most severe winter storms our region has seen in more than 30 years tore through New Jersey, it didn’t just bring snow."
+      "author": "The Guardian",
+      "title": "Young country diary: My favourite walk to my favourite tree | Sammy",
+      "description": "Hood hill, North Yorkshire: It’s a huge sycamore on top of a hill with amazing views of the Dales.",
+      "url": "https://www.theguardian.com/environment/2026/feb/28/young-country-diary-my-favourite-walk-to-my-favourite-tree",
+      "publishedAt": "2026-02-28T11:00:10",
+      "content": "Hood hill, North Yorkshire: It’s a huge sycamore on top of a hill with amazing views of the Dales."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Guardian"
       },
-      "author": "Inside Climate News",
-      "title": "Cheniere Energy Received $370 Million IRS Windfall for Using LNG as ‘Alternative’ Fuel",
-      "description": "Cheniere Energy, the largest producer and exporter of U.",
-      "url": "https://insideclimatenews.org/news/27022026/cheniere-energy-lng-alternative-fuel-tax-benefits/",
-      "publishedAt": "2026-02-27T22:14:26",
-      "content": "Cheniere Energy, the largest producer and exporter of U."
+      "author": "The Guardian",
+      "title": "From white goods to ‘driver Tizer’: volunteers pick up slack in England’s fly-tipping crisis",
+      "description": "Litter picking groups struggle to stem tide of rubbish after reported incidents rose 10% in last yearLast Wednesday, in a layby outside Brackley, Northamptonshire, Trish Savill and her band of self...",
+      "url": "https://www.theguardian.com/environment/2026/feb/28/fly-tipping-crisis-litter-picking-volunteers-england",
+      "publishedAt": "2026-02-28T07:00:07",
+      "content": "Litter picking groups struggle to stem tide of rubbish after reported incidents rose 10% in last yearLast Wednesday, in a layby outside Brackley, Northamptonshire, Trish Savill and her band of self..."
     },
     {
       "source": {
@@ -400,69 +422,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Frozen in time: Antarctic ice cave to be used to save melting glacier samples",
-      "description": "Ice Memory Foundation’s specially dug ‘sanctuary’ offers storage for cores, which hold thousands of years of historyLast month the Ice Memory Foundation opened the first ever sanctuary for mountain...",
-      "url": "https://www.theguardian.com/world/2026/feb/27/antarctic-ice-sanctuary-cave-melting-glacier-samples",
-      "publishedAt": "2026-02-27T06:00:34",
-      "content": "Ice Memory Foundation’s specially dug ‘sanctuary’ offers storage for cores, which hold thousands of years of historyLast month the Ice Memory Foundation opened the first ever sanctuary for mountain..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A wet walk is worth it for the spoonbills | Elizabeth-Jane Burnett",
-      "description": "Isley Marsh, Devon: The birdlife is mostly staying still in the downpour, not least these large, striking waders that we’re lucky to have hereRain washes across the saltmarsh, numbing my lips and f...",
-      "url": "https://www.theguardian.com/environment/2026/feb/27/country-diary-a-wet-walk-is-worth-it-for-the-spoonbills",
-      "publishedAt": "2026-02-27T05:30:32",
-      "content": "Isley Marsh, Devon: The birdlife is mostly staying still in the downpour, not least these large, striking waders that we’re lucky to have hereRain washes across the saltmarsh, numbing my lips and f..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Bird Losses Are Accelerating, New Study Finds",
-      "description": "Scientists studying data collected over more than three decades found accelerating losses. Their research offers clues about the causes.",
-      "url": "https://www.nytimes.com/2026/02/26/climate/bird-declines.html",
-      "publishedAt": "2026-02-26T19:00:06",
-      "content": "Scientists studying data collected over more than three decades found accelerating losses. Their research offers clues about the causes."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "First writing may be 40,000 years earlier than thought",
-      "description": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects.",
-      "url": "https://www.bbc.com/news/articles/cvgknj7yyv2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-26T12:02:06",
-      "content": "Scientists believe they have found evidence of written thoughts of Stone Age people on ancient objects."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Riding the wave: can surf tourism save Peru’s ancient reed-boat fishing culture?",
-      "description": "As fish stocks dwindle, surf tourism may offer a lifeline to traditional caballitos de totora fishers, whose vessels are thought to be among the first ever used to ride wavesJust before dawn, in a ...",
-      "url": "https://www.theguardian.com/environment/2026/feb/26/wave-riders-surf-tourism-save-peru-ancient-reed-boat-fishing-culture",
-      "publishedAt": "2026-02-26T12:00:32",
-      "content": "As fish stocks dwindle, surf tourism may offer a lifeline to traditional caballitos de totora fishers, whose vessels are thought to be among the first ever used to ride wavesJust before dawn, in a ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Magic beneath the surface’: pioneering geothermal plant launched in Cornwall",
-      "description": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine...",
-      "url": "https://www.theguardian.com/environment/2026/feb/26/cornwall-new-geothermal-project-launches",
-      "publishedAt": "2026-02-26T06:00:19",
-      "content": "A new mini power station and lithium extraction facility near Redruth are set to bolster green energy and create jobsJust outside the perimeter fence stand the hulking remains of grand stone engine..."
+      "author": "CSRWire",
+      "title": "PSEG: Record Storm. Jersey Ready Response.",
+      "description": "When one of the most severe winter storms our region has seen in more than 30 years tore through New Jersey, it didn’t just bring snow.",
+      "url": "https://csrwire.com/press-release/pseg-record-storm-jersey-ready-response/",
+      "publishedAt": "2026-02-26T09:20:00",
+      "content": "When one of the most severe winter storms our region has seen in more than 30 years tore through New Jersey, it didn’t just bring snow."
     },
     {
       "source": {
@@ -474,17 +441,6 @@
       "url": "https://triplepundit.com/2026/freedom-250-ice-detention-potomac-sewage-spill/",
       "publishedAt": "2026-02-25T20:30:45",
       "content": "Concerns about human rights, taxpayer money and public infrastructure collide as plans to celebrate the 250th anniversary of the Declaration of Independence stand in stark contrast to the growing U..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Goldman Sachs Backs Clean Fuel Developer Andion",
-      "description": "Biogas developer Andion CH4 announced it has secured €67 (USD$79 million) in a private credit",
-      "url": "https://www.esgtoday.com/goldman-sachs-backs-clean-fuel-developer-andion/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-backs-clean-fuel-developer-andion",
-      "publishedAt": "2026-02-25T09:54:41",
-      "content": "Biogas developer Andion CH4 announced it has secured €67 (USD$79 million) in a private credit"
     },
     {
       "source": {
