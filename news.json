@@ -4,17 +4,6 @@
   "articles": [
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Dow Asks Texas to Legalize Plastic Pollution From Its Seadrift Complex",
-      "description": "Two weeks ago, when Texas sued a massive Dow petrochemical plant over water pollution, state environmental regulators were already considering a novel proposal from the company that would effective...",
-      "url": "https://insideclimatenews.org/news/02032026/dow-requests-texas-plastic-pollution-permit/",
-      "publishedAt": "2026-03-02T10:00:00",
-      "content": "Two weeks ago, when Texas sued a massive Dow petrochemical plant over water pollution, state environmental regulators were already considering a novel proposal from the company that would effective..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -37,25 +26,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "The greenest flags: virtue signals that help you find love – from patchwork clothes to car sharing",
-      "description": "A new survey shows 80% of gen Zs believe strong environmental values are as important as physical attraction when it comes to finding a partner (so you might want to start reusing your coffee cups)...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/02/greenest-flags-virtue-signals-help-find-love-patchwork-clothes-car-sharing",
-      "publishedAt": "2026-03-02T16:50:31",
-      "content": "A new survey shows 80% of gen Zs believe strong environmental values are as important as physical attraction when it comes to finding a partner (so you might want to start reusing your coffee cups)..."
+      "author": "BBC",
+      "title": "Earth's heat to power 10,000 homes in renewable energy first for UK",
+      "description": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium.",
+      "url": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-02-26T11:51:40",
+      "content": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Thousands of pollution incidents in England downgraded without site visit, data suggests",
-      "description": "Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidenceEnvironment Agency (EA) staff have downgraded thousands of serious pollution incid...",
-      "url": "https://www.theguardian.com/environment/2026/mar/01/thousands-pollution-incidents-england-downgraded-without-site-visit-data-suggests",
-      "publishedAt": "2026-03-01T07:00:34",
-      "content": "Exclusive: Whistleblower figures show large rise in ‘serious’ to ‘minor’ downgrades based on water company evidenceEnvironment Agency (EA) staff have downgraded thousands of serious pollution incid..."
+      "author": "BBC",
+      "title": "New Scottish Dark Sky Observatory plans get the green light",
+      "description": "The facility in Galloway will replace one which burned down in Ayrshire more than four years ago.",
+      "url": "https://www.bbc.com/news/articles/clyg9xg215no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-03T12:09:51",
+      "content": "The facility in Galloway will replace one which burned down in Ayrshire more than four years ago."
     },
     {
       "source": {
@@ -81,14 +70,25 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Earth's heat to power 10,000 homes in renewable energy first for UK",
-      "description": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium.",
-      "url": "https://www.bbc.com/news/articles/cewzg77k721o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-02-26T11:51:40",
-      "content": "Water super-heated by rocks will also provide the UK's first domestic supply of the critical mineral lithium."
+      "author": "ESG Today",
+      "title": "XeleratedFifty Acquires Carbon Management Platform Terrascope",
+      "description": "Innovation acceleration platform XeleratedFifty announced the acquisition of enterprise carbon management and sustainability platform Terrascope",
+      "url": "https://www.esgtoday.com/xeleratedfifty-acquires-enterprise-carbon-management-platform-terrascope/?utm_source=rss&utm_medium=rss&utm_campaign=xeleratedfifty-acquires-enterprise-carbon-management-platform-terrascope",
+      "publishedAt": "2026-03-03T18:38:52",
+      "content": "Innovation acceleration platform XeleratedFifty announced the acquisition of enterprise carbon management and sustainability platform Terrascope"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Ferries emit ‘more sulphur pollution than cars’ in several EU capitals",
+      "description": "Dublin, Helsinki, Stockholm and Tallinn among port cities more choked by sulphur oxides from ferries, analysis showsFume-belching ferries spew more sulphur pollution than cars in several EU capital...",
+      "url": "https://www.theguardian.com/environment/2026/mar/02/ferries-emissions-sulphur-pollution-cars-eu-capitals",
+      "publishedAt": "2026-03-02T23:01:22",
+      "content": "Dublin, Helsinki, Stockholm and Tallinn among port cities more choked by sulphur oxides from ferries, analysis showsFume-belching ferries spew more sulphur pollution than cars in several EU capital..."
     },
     {
       "source": {
@@ -100,50 +100,6 @@
       "url": "https://www.theguardian.com/environment/2026/mar/02/uk-slashes-climate-aid-developing-countries",
       "publishedAt": "2026-03-02T16:37:46",
       "content": "Exclusive: Schemes worth hundreds of millions of pounds to protect biodiversity and oceans likely to be substantially reducedUK programmes to protect nature and the climate in developing countries ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Lobbyist Disclosure Failures Disadvantage Maryland Climate Advocates, According to Audit",
-      "description": "As Maryland lawmakers weigh proposals aimed at reining in utility companies, lowering electricity prices and expanding the state’s low-carbon energy system, a new audit report has found that the lo...",
-      "url": "https://insideclimatenews.org/news/02032026/maryland-lobbyist-disclosure-laws-climate-advocates/",
-      "publishedAt": "2026-03-02T09:50:00",
-      "content": "As Maryland lawmakers weigh proposals aimed at reining in utility companies, lowering electricity prices and expanding the state’s low-carbon energy system, a new audit report has found that the lo..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Upright Launches New ESG Due Diligence Solution for Investors",
-      "description": "Impact data company Upright announced the launch of its new AI-powered sustainability due diligence tool, aimed",
-      "url": "https://www.esgtoday.com/upright-launches-new-esg-due-diligence-solution-for-investors/?utm_source=rss&utm_medium=rss&utm_campaign=upright-launches-new-esg-due-diligence-solution-for-investors",
-      "publishedAt": "2026-03-02T15:03:10",
-      "content": "Impact data company Upright announced the launch of its new AI-powered sustainability due diligence tool, aimed"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Helping Trees—and a City—Outrace Climate Change",
-      "description": "LOUISVILLE, Ky.",
-      "url": "https://insideclimatenews.org/news/01032026/assisted-migration-trees-climate-change/",
-      "publishedAt": "2026-03-01T10:00:00",
-      "content": "LOUISVILLE, Ky."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Are ‘Climate Hushers’ Lurking in the Democratic Party?",
-      "description": "In late January, U.",
-      "url": "https://insideclimatenews.org/news/01032026/climate-hushing-in-the-democratic-party/",
-      "publishedAt": "2026-03-01T09:50:00",
-      "content": "In late January, U."
     },
     {
       "source": {
@@ -161,11 +117,176 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "BBVA Sustainable Finance Activity Jumps 44% to New Annual Record",
-      "description": "Spanish bank BBVA announced a significant increase in its sustainable finance activity over the past",
-      "url": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-44-to-new-annual-record/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-44-to-new-annual-record",
-      "publishedAt": "2026-02-26T14:36:32",
-      "content": "Spanish bank BBVA announced a significant increase in its sustainable finance activity over the past"
+      "title": "KPMG Appoints Gauthier Acket as Head of Global ESG",
+      "description": "Global professional services firm KPMG International announced the appointment of Gauthier Acket as Head of",
+      "url": "https://www.esgtoday.com/kpmg-appoints-gauthier-acket-as-head-of-global-esg/?utm_source=rss&utm_medium=rss&utm_campaign=kpmg-appoints-gauthier-acket-as-head-of-global-esg",
+      "publishedAt": "2026-03-03T12:45:43",
+      "content": "Global professional services firm KPMG International announced the appointment of Gauthier Acket as Head of"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Grassroots Resistance to Data Centers Rises in Pennsylvania",
+      "description": "Plans to build more than 50 data centers in Pennsylvania face opposition from a growing network of community groups, environmental activists and state lawmakers from both major parties. Driven by c...",
+      "url": "https://insideclimatenews.org/news/03032026/pennsylvania-data-center-resistance/",
+      "publishedAt": "2026-03-03T10:00:00",
+      "content": "Plans to build more than 50 data centers in Pennsylvania face opposition from a growing network of community groups, environmental activists and state lawmakers from both major parties. Driven by c..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Biomimicry Institute Invites Startups To Apply for 2026 Cohort of the Ray of Hope Accelerator",
+      "description": "The Biomimicry Institute has opened applications for the 2026 Ray of Hope Accelerator.",
+      "url": "https://csrwire.com/press-release/biomimicry-institute-invites-startups-apply-2026-cohort-ray-hope-accelerator/",
+      "publishedAt": "2026-03-03T09:40:00",
+      "content": "The Biomimicry Institute has opened applications for the 2026 Ray of Hope Accelerator."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Upright Launches New ESG Due Diligence Solution for Investors",
+      "description": "Impact data company Upright announced the launch of its new AI-powered sustainability due diligence tool, aimed",
+      "url": "https://www.esgtoday.com/upright-launches-new-esg-due-diligence-solution-for-investors/?utm_source=rss&utm_medium=rss&utm_campaign=upright-launches-new-esg-due-diligence-solution-for-investors",
+      "publishedAt": "2026-03-02T15:03:10",
+      "content": "Impact data company Upright announced the launch of its new AI-powered sustainability due diligence tool, aimed"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Modest Dressing is Easy Thanks to These Brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-modest-dressing/",
+      "publishedAt": "2026-02-25T23:46:48",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Tiny Texas School District Rejects Tax Deal with $6 Billion LNG Project",
+      "description": "The Point Isabel Independent School District on Monday rejected a multi-million dollar tax break for a proposed $5.",
+      "url": "https://insideclimatenews.org/news/03032026/texas-school-district-rejects-lng-tax-deal/",
+      "publishedAt": "2026-03-04T00:18:16",
+      "content": "The Point Isabel Independent School District on Monday rejected a multi-million dollar tax break for a proposed $5."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Circulose and Spinnova Are Getting Back Together",
+      "description": "After a stretch of false starts and major hurdles, the two are ready for their second act together, with Circulose joining Spinnova’s growing consortium to scale up its cellulosic pulp-to-fiber tec...",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/circulose-spinnova-textile-recycling-consortium-1234815932/",
+      "publishedAt": "2026-03-03T22:05:50",
+      "content": "After a stretch of false starts and major hurdles, the two are ready for their second act together, with Circulose joining Spinnova’s growing consortium to scale up its cellulosic pulp-to-fiber tec..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Oil and Natural Gas Prices Keep Climbing as Iran Attacks Escalate",
+      "description": "Energy prices continued to rise on Tuesday as attacks by the United States and Israel on Iran intensified, along with the country’s response.",
+      "url": "https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html",
+      "publishedAt": "2026-03-03T21:36:32",
+      "content": "Energy prices continued to rise on Tuesday as attacks by the United States and Israel on Iran intensified, along with the country’s response."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "First Confirmed Cases of Bird Flu in California Elephant Seals Stoke Fear As Virus Surges Worldwide",
+      "description": "Last week, a day that ecologists and virologists in California have feared for years finally arrived.",
+      "url": "https://insideclimatenews.org/news/03032026/california-elephant-seals-bird-flu/",
+      "publishedAt": "2026-03-03T20:04:03",
+      "content": "Last week, a day that ecologists and virologists in California have feared for years finally arrived."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "In-Season Agility: Using AI to Make Faster, Smarter Fashion Decisions",
+      "description": "Learn how to leverage AI to your advantage for signal-driven, in-season planning.",
+      "url": "https://sourcingjournal.com/topics/technology/in-season-agility-using-ai-to-make-faster-smarter-fashion-decisions-aptean-1234815833/",
+      "publishedAt": "2026-03-03T18:51:25",
+      "content": "Learn how to leverage AI to your advantage for signal-driven, in-season planning."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Potomac River Reopens for Some Uses After Sewer Collapse",
+      "description": "Contamination levels in the waterway have declined, but health advisories remain in place for boaters downstream.",
+      "url": "https://www.nytimes.com/2026/03/03/climate/potomac-river-reopens-sewer-collapse.html",
+      "publishedAt": "2026-03-03T18:02:00",
+      "content": "Contamination levels in the waterway have declined, but health advisories remain in place for boaters downstream."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Wrangler and Helly Hansen Lift Kontoor Brands to Strong Q4 Finish",
+      "description": "Wrangler's global revenue increased 12 percent.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/wrangler-helly-hansen-lift-kontoor-brands-strong-q4-finish-1234815827/",
+      "publishedAt": "2026-03-03T17:54:29",
+      "content": "Wrangler's global revenue increased 12 percent."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The businesses that prioritise people and planet",
+      "description": "Firms with B-Corp status want more companies to prioritise people and the planet as much as profits.",
+      "url": "https://www.bbc.com/news/articles/c4g80433rdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-03T17:16:58",
+      "content": "Firms with B-Corp status want more companies to prioritise people and the planet as much as profits."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "London Fashion Week Delivered Creative Denim",
+      "description": "Designers were driven by youth, subcultures and the deconstruction of traditional silhouettes.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/london-fashion-week-creative-denim-kseniaschnaider-erdem-1234815173/",
+      "publishedAt": "2026-03-03T16:00:00",
+      "content": "Designers were driven by youth, subcultures and the deconstruction of traditional silhouettes."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Global economy must stop pandering to ‘frivolous desires of ultra-rich’, says UN expert",
+      "description": "Olivier De Schutter says new economic agenda needed to tackle crises of rising inequality and ecological collapseThe global economy must be reordered to ensure it serves ordinary people around the ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/03/un-de-schutter-outlines-plan-for-redistributive-global-economy",
+      "publishedAt": "2026-03-03T14:11:54",
+      "content": "Olivier De Schutter says new economic agenda needed to tackle crises of rising inequality and ecological collapseThe global economy must be reordered to ensure it serves ordinary people around the ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Wild-born birds recruited to teach critically endangered regent honeyeaters their lost songs",
+      "description": "Researchers hope restoring the original song will improve breeding prospects for birds released into the wildFollow our Australia news live blog for latest updatesGet our breaking news email, free ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/04/wild-birds-teach-honeyeaters-sing-songs",
+      "publishedAt": "2026-03-03T14:00:04",
+      "content": "Researchers hope restoring the original song will improve breeding prospects for birds released into the wildFollow our Australia news live blog for latest updatesGet our breaking news email, free ..."
     },
     {
       "source": {
@@ -175,19 +296,8 @@
       "title": "Scientists Decry ‘Political Attack’ on the Reference Manual on Scientific Evidence",
       "description": "More than two dozen contributors to the manual criticized the deletion of a chapter on climate science by the Federal Judicial Center.",
       "url": "https://www.nytimes.com/2026/03/02/climate/climate-science-judges-manual.html",
-      "publishedAt": "2026-03-02T23:32:36",
+      "publishedAt": "2026-03-02T23:32:37",
       "content": "More than two dozen contributors to the manual criticized the deletion of a chapter on climate science by the Federal Judicial Center."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "M&S Partners With Pilio to Promote Cotton Farming Biodiversity",
-      "description": "Marks & Spencer (M&S) has joined forces with sustainability innovation firm Pilio to launch a cotton farming initiative in India.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/mamps-partners-pilio-cotton-farming-biodiversity-1234815585/",
-      "publishedAt": "2026-03-02T21:11:25",
-      "content": "Marks & Spencer (M&S) has joined forces with sustainability innovation firm Pilio to launch a cotton farming initiative in India."
     },
     {
       "source": {
@@ -199,6 +309,17 @@
       "url": "https://www.esgtoday.com/blackrock-eqt-lead-33-billion-acquisition-of-aes/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-eqt-lead-33-billion-acquisition-of-aes",
       "publishedAt": "2026-03-02T20:42:54",
       "content": "An investor consortium led by BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) and EQT"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Is Snakeskin Ethical? A Look at Fashion’s Favourite Exotic Material",
+      "description": "Many brands have banned fur while continuing to sell products made from the skins of snakes—but is this really any more ethically or environmentally acceptable? Here, Emma Håkansson, activist and f...",
+      "url": "https://goodonyou.eco/is-snakeskin-ethical/",
+      "publishedAt": "2026-03-02T14:07:47",
+      "content": "Many brands have banned fur while continuing to sell products made from the skins of snakes—but is this really any more ethically or environmentally acceptable? Here, Emma Håkansson, activist and f..."
     },
     {
       "source": {
@@ -224,91 +345,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Modest Dressing is Easy Thanks to These Brands",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-modest-dressing/",
-      "publishedAt": "2026-02-25T23:46:48",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "The Guardian",
+      "title": "Australia just experienced its wettest summer in nearly a decade – and the eighth-hottest on record",
+      "description": "South Australia saw most of the season’s wildest swings with January heatwaves followed by February floodsFollow our Australia news live blog for latest updatesGet our breaking news email, free app...",
+      "url": "https://www.theguardian.com/environment/2026/mar/03/australia-summer-extreme-weather-wettest-hottest-records",
+      "publishedAt": "2026-03-03T06:06:47",
+      "content": "South Australia saw most of the season’s wildest swings with January heatwaves followed by February floodsFollow our Australia news live blog for latest updatesGet our breaking news email, free app..."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "Shopping Centres Curate Stores. What if They Curated for Sustainability?",
-      "description": "Retail brands face constant scrutiny on sustainability.",
-      "url": "https://goodonyou.eco/future-of-sustainable-retail/",
-      "publishedAt": "2026-02-25T05:58:54",
-      "content": "Retail brands face constant scrutiny on sustainability."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "16 More Sustainable Alternatives to Massimo Dutti",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
-      "publishedAt": "2026-02-24T23:18:03",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "8 Clothing Brands from France Championing Sustainability",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-clothing-brands-from-france/",
-      "publishedAt": "2026-02-24T16:30:32",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Oil Prices Surge After Iran Attack",
-      "description": "How long prices remain high will depend on what the United States, Israel and Iran do next.",
-      "url": "https://www.nytimes.com/2026/03/01/business/energy-environment/iran-war-oil-prices.html",
-      "publishedAt": "2026-03-02T22:10:36",
-      "content": "How long prices remain high will depend on what the United States, Israel and Iran do next."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Outerknown Refines Sea Jeans Collection",
-      "description": "Candiani Denim fabrics are used throughout the men's and women's collection.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/outerknown-refines-sea-jeans-collection-candiani-john-moore-1234815242/",
-      "publishedAt": "2026-03-02T19:00:00",
-      "content": "Candiani Denim fabrics are used throughout the men's and women's collection."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "This New Collection Turns Denim Inside Out",
-      "description": "Kenny “Kas” Flanigan reimagines timeless denim staples through a bold, conceptual lens.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/kenny-kas-flanigan-new-inside-out-denim-collection-1234815027/",
-      "publishedAt": "2026-03-02T17:00:00",
-      "content": "Kenny “Kas” Flanigan reimagines timeless denim staples through a bold, conceptual lens."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "With a New Nigeria Refinery, Africa’s Richest Man Wants ‘to Rescue the Country’",
-      "description": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way.",
-      "url": "https://www.nytimes.com/2026/02/27/world/africa/nigeria-dangote-refinery.html",
-      "publishedAt": "2026-03-02T11:44:37",
-      "content": "Aliko Dangote, Africa’s richest man, has an ambitious vision for the continent’s most populous nation, but hurdles stand in his way."
+      "author": "The Guardian",
+      "title": "Country diary: To the old quarry, for a Triassic quest | Jennifer Jones",
+      "description": "Storeton Wood, Wirral: Two centuries ago, this area teemed with workmen busying building Liverpool; more than 200m years ago very different creatures roamed hereAt last, the sun shone after weeks o...",
+      "url": "https://www.theguardian.com/environment/2026/mar/03/country-diary-to-the-old-quarry-for-a-triassic-quest",
+      "publishedAt": "2026-03-03T05:30:29",
+      "content": "Storeton Wood, Wirral: Two centuries ago, this area teemed with workmen busying building Liverpool; more than 200m years ago very different creatures roamed hereAt last, the sun shone after weeks o..."
     },
     {
       "source": {
@@ -320,50 +375,6 @@
       "url": "https://www.theguardian.com/environment/2026/mar/02/identify-species-taxonomists-crisis-art-borkent",
       "publishedAt": "2026-03-02T08:00:04",
       "content": "Insect taxonomist Art Borkent has described and named more than 300 species of midges but fears his field of science is dying out, despite millions of insects, fungi and other organisms waiting to ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wild spaces for butterflies to be created in Glasgow",
-      "description": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project.",
-      "url": "https://www.bbc.com/news/articles/c5yrdd4nepjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-02T06:12:36",
-      "content": "The Butterfly Conservation charity hopes to open 40 habitats for wildlife during the two-year project."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Taking the long view of the farm and these fells | Andrea Meanwell",
-      "description": "Tebay, Cumbria: At this in-between moment where it’s both winter and spring, I’m reminded that nothing is permanent in farmingTo make our new hedgerows as diverse as possible, we are planting a fru...",
-      "url": "https://www.theguardian.com/environment/2026/mar/02/country-diary-taking-the-long-view-of-the-farm-and-these-fells",
-      "publishedAt": "2026-03-02T05:30:01",
-      "content": "Tebay, Cumbria: At this in-between moment where it’s both winter and spring, I’m reminded that nothing is permanent in farmingTo make our new hedgerows as diverse as possible, we are planting a fru..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "I went to rural Wales to bathe in starlight and the Milky Way blew me away",
-      "description": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide.",
-      "url": "https://www.bbc.com/news/articles/cj32l7kmkmko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-01T07:07:10",
-      "content": "I join two tourists in the mountains to immerse ourselves in the wonders of the night sky with a star guide."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Caesar Rodney statue to get place of honor in Washington",
-      "description": "Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer.",
-      "url": "https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html",
-      "publishedAt": "2026-02-28T13:27:10",
-      "content": "Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer."
     },
     {
       "source": {
@@ -452,17 +463,6 @@
       "url": "https://csrwire.com/press-release/cisco-networking-academy-and-indeed-launch-global-partnership-debut-dedicated-career-hub-india/",
       "publishedAt": "2026-02-25T09:10:00",
       "content": "The disconnect between skilled talent and open jobs has become one of the most pressing challenges worldwide."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Science & Innovation Behind the Sparkle: Dr. Lucy Gildea Supercharges Mary Kay’s Beauty DNA",
-      "description": "When Dr.",
-      "url": "https://csrwire.com/press-release/science-innovation-behind-sparkle-dr-lucy-gildea-supercharges-mary-kays-beauty-dna/",
-      "publishedAt": "2026-02-25T08:00:00",
-      "content": "When Dr."
     }
   ]
 }
