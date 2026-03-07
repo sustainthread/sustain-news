@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 43,
   "articles": [
     {
       "source": {
@@ -15,6 +15,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Documents Raise New Concerns Over Alligator Alcatraz’s Air and Climate Pollution",
+      "description": "A state-commissioned environmental assessment on the Everglades migrant detention site known as Alligator Alcatraz, conducted after opponents sued, raises concerns about pollution from the more tha...",
+      "url": "https://insideclimatenews.org/news/06032026/florida-alligator-alcatraz-detention-site-pollution/",
+      "publishedAt": "2026-03-06T23:43:34",
+      "content": "A state-commissioned environmental assessment on the Everglades migrant detention site known as Alligator Alcatraz, conducted after opponents sued, raises concerns about pollution from the more tha..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How green is your milk? We compare the environmental cost of dairy and plant-based options",
+      "description": "Many Australians are choosing oat, almond and soy over cow’s milk – but which choice is the most sustainable?Change by degrees offers life hacks and sustainable living tips each Saturday to help re...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/07/oat-soy-plant-based-milk-sustainability-environmental-comparison",
+      "publishedAt": "2026-03-06T23:00:34",
+      "content": "Many Australians are choosing oat, almond and soy over cow’s milk – but which choice is the most sustainable?Change by degrees offers life hacks and sustainable living tips each Saturday to help re..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -26,36 +48,47 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Good On You"
       },
-      "author": "New York Times",
-      "title": "As New York Energy Costs Surge, Attention Turns to Landmark Climate Law",
-      "description": "The battle to lower costs has reached the State Capitol, where concerns have emerged about the fate of a 2019 climate law and its ambitious goals to reduce greenhouse gas emissions.",
-      "url": "https://www.nytimes.com/2026/03/04/nyregion/energy-bills-climate.html",
-      "publishedAt": "2026-03-06T01:50:23",
-      "content": "The battle to lower costs has reached the State Capitol, where concerns have emerged about the fate of a 2019 climate law and its ambitious goals to reduce greenhouse gas emissions."
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This March 2026",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-03-03T06:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "‘It creates a sense of belonging’: Brazil bets on hiking trails for conservation",
-      "description": "The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environmentFollow the yellow footprints along Brazil’s newest long-distance trai...",
-      "url": "https://www.theguardian.com/environment/2026/mar/05/brazil-hiking-trails-conservation",
-      "publishedAt": "2026-03-05T14:01:39",
-      "content": "The country’s network of footpaths is growing – with hopes they will develop local economies and better preserve the environmentFollow the yellow footprints along Brazil’s newest long-distance trai..."
+      "author": "BBC",
+      "title": "3G pitch set to be approved despite pollution fears",
+      "description": "A charity is worried about microplastics but a council says the plans follow environmental guidance.",
+      "url": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-06T10:43:38",
+      "content": "A charity is worried about microplastics but a council says the plans follow environmental guidance."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "NBIM, Brookfield, BCI Launch New Platform to Own, Acquire Clean Energy Infrastructure Across North America",
-      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, British",
-      "url": "https://www.esgtoday.com/nbim-brookfield-bci-launch-new-platform-to-own-acquire-clean-energy-infrastructure-across-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-brookfield-bci-launch-new-platform-to-own-acquire-clean-energy-infrastructure-across-north-america",
-      "publishedAt": "2026-03-04T10:45:35",
-      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, British"
+      "title": "China Unveils Cautious 2030 Climate Goals",
+      "description": "China has unveiled a series of new climate and energy transition-related goals, including targets to",
+      "url": "https://www.esgtoday.com/china-unveils-cautious-2030-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=china-unveils-cautious-2030-climate-goals",
+      "publishedAt": "2026-03-06T13:48:43",
+      "content": "China has unveiled a series of new climate and energy transition-related goals, including targets to"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Schroders Greencoat Launches Green AI Infrastructure Investment Platform",
+      "description": "Global investment manager Schroders’ renewable infrastructure investment unit Schroders Greencoat announced the launch of a",
+      "url": "https://www.esgtoday.com/schroders-greencoat-launches-green-ai-infrastructure-investment-platform/?utm_source=rss&utm_medium=rss&utm_campaign=schroders-greencoat-launches-green-ai-infrastructure-investment-platform",
+      "publishedAt": "2026-03-06T10:30:54",
+      "content": "Global investment manager Schroders’ renewable infrastructure investment unit Schroders Greencoat announced the launch of a"
     },
     {
       "source": {
@@ -70,6 +103,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Island Nation in the South Pacific Leads the Latest Push for Climate Justice at the UN",
+      "description": "Led by the South Pacific island nation of Vanuatu, a coalition of countries are introducing a resolution at the United Nations General Assembly that could reinforce countries’ legal obligations und...",
+      "url": "https://insideclimatenews.org/news/06032026/pacific-island-vanuatu-un-climate-justice/",
+      "publishedAt": "2026-03-06T22:19:52",
+      "content": "Led by the South Pacific island nation of Vanuatu, a coalition of countries are introducing a resolution at the United Nations General Assembly that could reinforce countries’ legal obligations und..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "On the Farm, the Hidden Climate Cost of the Broken U.S. Health Care System",
+      "description": "Samantha Kemnah looked out the foggy window of her home in New Berlin, New York, at the 150-acre dairy farm she and her husband, Chris, bought last year. This winter, an unprecedented cold front br...",
+      "url": "https://insideclimatenews.org/news/06032026/american-farmers-climate-cost-health-care/",
+      "publishedAt": "2026-03-06T09:55:00",
+      "content": "Samantha Kemnah looked out the foggy window of her home in New Berlin, New York, at the 150-acre dairy farm she and her husband, Chris, bought last year. This winter, an unprecedented cold front br..."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -81,14 +136,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Moeve to Build $1.2 Billion Green Hydrogen Plant in Spain",
-      "description": "Madrid-based energy company Moeve announced a final investment decision to begin construction on the largest green",
-      "url": "https://www.esgtoday.com/moeve-to-build-1-2-billion-green-hydrogen-plant-in-spain/?utm_source=rss&utm_medium=rss&utm_campaign=moeve-to-build-1-2-billion-green-hydrogen-plant-in-spain",
-      "publishedAt": "2026-03-04T12:18:14",
-      "content": "Madrid-based energy company Moeve announced a final investment decision to begin construction on the largest green"
+      "author": "The Guardian",
+      "title": "Tackling air pollution should be part of government work to cut cancer rates, scientists say",
+      "description": "New European Code Against Cancer calls on politicians to phase out use of fossil fuels in homesCutting air pollution should form part of government strategies to reduce cancer rates, the European C...",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/tackle-air-pollution-cut-cancer-rates-scientists",
+      "publishedAt": "2026-03-06T06:00:16",
+      "content": "New European Code Against Cancer calls on politicians to phase out use of fossil fuels in homesCutting air pollution should form part of government strategies to reduce cancer rates, the European C..."
     },
     {
       "source": {
@@ -100,6 +155,127 @@
       "url": "https://goodonyou.eco/minimalist-fashion/",
       "publishedAt": "2026-03-05T00:00:45",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "CBP Will Start Issuing $166B in Tariff Refunds—Just Not Immediately",
+      "description": "U.S. Customs and Border Protection is preparing its Automated Commercial Environment system to electronically process IEEPA reimbursements, but it will take time.",
+      "url": "https://sourcingjournal.com/topics/business-news/cbp-customs-ieepa-tariff-refunds-importers-1234816479/",
+      "publishedAt": "2026-03-06T22:25:39",
+      "content": "U.S. Customs and Border Protection is preparing its Automated Commercial Environment system to electronically process IEEPA reimbursements, but it will take time."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "AI Helps Protect Orcas from Noisy Ships in Washington",
+      "description": "Endangered orcas are struggling to survive in Washington State’s busy shipping corridor Puget Sound.",
+      "url": "https://triplepundit.com/2026/artificial-intelligence-orca-conservation-pudget-sound-whalespotter/",
+      "publishedAt": "2026-03-06T18:34:29",
+      "content": "Endangered orcas are struggling to survive in Washington State’s busy shipping corridor Puget Sound."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "From 2011: Wangari Maathai, Nobel Peace Prize Laureate, Dies at 71",
+      "description": "A Kenyan environmentalist, she began by paying women a few shillings to plant trees and went on to become the first African woman to win a Nobel Peace Prize.",
+      "url": "https://www.nytimes.com/2026/03/06/world/africa/wangari-maathai-dead.html",
+      "publishedAt": "2026-03-06T17:07:46",
+      "content": "A Kenyan environmentalist, she began by paying women a few shillings to plant trees and went on to become the first African woman to win a Nobel Peace Prize."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Svante Acquires Carbon Removal Supplier Carbon Alpha",
+      "description": "Carbon capture and removal technology provider Svante announced the acquisition of carbon dioxide removal project developer",
+      "url": "https://www.esgtoday.com/svante-acquires-carbon-removal-supplier-carbon-alpha/?utm_source=rss&utm_medium=rss&utm_campaign=svante-acquires-carbon-removal-supplier-carbon-alpha",
+      "publishedAt": "2026-03-06T09:15:21",
+      "content": "Carbon capture and removal technology provider Svante announced the acquisition of carbon dioxide removal project developer"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Unspun Taps CEO, Haelixa Adds Board Member",
+      "description": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-unspun-taps-ceo-haelixa-adds-board-1234816422/",
+      "publishedAt": "2026-03-06T21:00:00",
+      "content": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Von Dutch Plots U.S. Comeback Under WSG Brands",
+      "description": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/von-dutch-plots-comeback-under-wsg-brands-1234816419/",
+      "publishedAt": "2026-03-06T17:50:22",
+      "content": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Potomac River in D.C. Is Safe, Officials Say. But Locals Still Worry About the Poop.",
+      "description": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear.",
+      "url": "https://www.nytimes.com/2026/03/06/us/politics/potomac-river-poop-sewage-dc.html",
+      "publishedAt": "2026-03-06T16:29:21",
+      "content": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Humanity heating planet faster than ever before, study finds",
+      "description": "Researchers identify sharp rise to about 0.",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
+      "publishedAt": "2026-03-06T14:00:24",
+      "content": "Researchers identify sharp rise to about 0."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Sheep are disappearing from our hills - and our dinner plates",
+      "description": "Have we have passed \"peak sheep\" in the UK?",
+      "url": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-06T11:57:15",
+      "content": "Have we have passed \"peak sheep\" in the UK?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
+      "description": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble....",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
+      "publishedAt": "2026-03-06T11:49:25",
+      "content": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble...."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Wildcats are here and they’re on the march | Amanda Thomson",
+      "description": "Badenoch and Strathspey, Cairngorms: Conservation efforts to help them are working – numbers are still small, but I’ve seen signs in the late winter snowIt is always interesting to see how overnigh...",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/country-diary-wildcats-are-here-and-theyre-on-the-march",
+      "publishedAt": "2026-03-06T05:30:12",
+      "content": "Badenoch and Strathspey, Cairngorms: Conservation efforts to help them are working – numbers are still small, but I’ve seen signs in the late winter snowIt is always interesting to see how overnigh..."
     },
     {
       "source": {
@@ -180,72 +356,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Should New York City Burn Its Parks? This Scientist Thinks So.",
-      "description": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions.",
-      "url": "https://www.nytimes.com/2026/03/05/climate/new-york-city-park-fires-controlled-burns.html",
-      "publishedAt": "2026-03-05T19:43:41",
-      "content": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Reformation Taps Into ZDHC’s Chemical Management Tools",
-      "description": "The Los Angeles-based brand recently became a Signatory Friend of ZDHC – Brand.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/reformation-taps-into-zdhc-chemical-management-tools-1234815563/",
-      "publishedAt": "2026-03-05T18:00:00",
-      "content": "The Los Angeles-based brand recently became a Signatory Friend of ZDHC – Brand."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Facebook, Instagram Named ‘Notorious Markets’ by USTR",
-      "description": "The USTR said the scale of Meta's infringing activity can cause significant harm to U.S. IP owners, workers, consumers and the economy.",
-      "url": "https://sourcingjournal.com/topics/business-news/facebook-instagram-meta-notorious-markets-ustr-aafa-ecommerce-1234816099/",
-      "publishedAt": "2026-03-05T17:22:12",
-      "content": "The USTR said the scale of Meta's infringing activity can cause significant harm to U.S. IP owners, workers, consumers and the economy."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "On the Trendy Tram, You Can Hear a Subway Voice",
-      "description": "A man who has done voice-overs for the M.T.A. for years is now speaking to riders of the Roosevelt Island Tram.",
-      "url": "https://www.nytimes.com/2026/03/05/nyregion/roosevelt-island-tram-voiceovers.html",
-      "publishedAt": "2026-03-05T14:19:34",
-      "content": "A man who has done voice-overs for the M.T.A. for years is now speaking to riders of the Roosevelt Island Tram."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Texas Seizes the Solar Crown From California, and Other Key Points From the Latest Electricity Data",
-      "description": "Texas, which already leads the country in electricity generation from natural gas, coal and wind, has passed California to become the leader in utility-scale solar. Data for 2025, released last wee...",
-      "url": "https://insideclimatenews.org/news/05032026/inside-clean-energy-texas-utility-scale-solar/",
-      "publishedAt": "2026-03-05T14:00:00",
-      "content": "Texas, which already leads the country in electricity generation from natural gas, coal and wind, has passed California to become the leader in utility-scale solar. Data for 2025, released last wee..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Marsupials previously thought extinct for millennia discovered in New Guinea",
-      "description": "The chances of finding one mammal species thought to be lost was ‘almost zero’ and finding two is ‘unprecedented’, biologist Tim Flannery saysResearchers led by the Australian scientist Tim Flanner...",
-      "url": "https://www.theguardian.com/environment/2026/mar/05/marsupials-discovered-new-guinea",
-      "publishedAt": "2026-03-05T13:01:01",
-      "content": "The chances of finding one mammal species thought to be lost was ‘almost zero’ and finding two is ‘unprecedented’, biologist Tim Flannery saysResearchers led by the Australian scientist Tim Flanner..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -279,17 +389,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "AllianzGI Acquires 50% Stake in €500 Million German Battery Storage Portfolio from TotalEnergies",
-      "description": "Alllianz Global Investors (AllianzGI) announced today it has signed an agreement with French energy giant",
-      "url": "https://www.esgtoday.com/allianzgi-acquires-50-stake-in-e500-million-german-battery-storage-portfolio-from-totalenergies/?utm_source=rss&utm_medium=rss&utm_campaign=allianzgi-acquires-50-stake-in-e500-million-german-battery-storage-portfolio-from-totalenergies",
-      "publishedAt": "2026-03-04T11:40:43",
-      "content": "Alllianz Global Investors (AllianzGI) announced today it has signed an agreement with French energy giant"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -298,6 +397,50 @@
       "url": "https://csrwire.com/press-release/mastercard-what-spending-data-tells-us-about-cyberattacks/",
       "publishedAt": "2026-03-04T08:55:00",
       "content": "Asahi Group, maker of Japan’s best-selling beer, was struck by a cyberattack last fall that was so severe the company had to shut down many computer systems and fill orders using pen, paper and fax..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Should New York City Burn Its Parks? This Scientist Thinks So.",
+      "description": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions.",
+      "url": "https://www.nytimes.com/2026/03/05/climate/new-york-city-park-fires-controlled-burns.html",
+      "publishedAt": "2026-03-05T19:43:41",
+      "content": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "On the Trendy Tram, You Can Hear a Subway Voice",
+      "description": "A man who has done voice-overs for the M.T.A. for years is now speaking to riders of the Roosevelt Island Tram.",
+      "url": "https://www.nytimes.com/2026/03/05/nyregion/roosevelt-island-tram-voiceovers.html",
+      "publishedAt": "2026-03-05T14:19:34",
+      "content": "A man who has done voice-overs for the M.T.A. for years is now speaking to riders of the Roosevelt Island Tram."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wildlife trust's centenary 'free weekend in nature'",
+      "description": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations.",
+      "url": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-05T06:24:31",
+      "content": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Sea Levels Are Already Higher Than Many Scientists Think, New Study Shows",
+      "description": "Researchers found that a majority of studies on coastal sea levels underestimated how high water levels are, and hundreds of millions of people are closer to peril than previously thought.",
+      "url": "https://www.nytimes.com/2026/03/04/climate/sea-level-underestimated.html",
+      "publishedAt": "2026-03-04T18:06:02",
+      "content": "Researchers found that a majority of studies on coastal sea levels underestimated how high water levels are, and hundreds of millions of people are closer to peril than previously thought."
     },
     {
       "source": {
@@ -323,61 +466,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wildlife trust's centenary 'free weekend in nature'",
-      "description": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations.",
-      "url": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-05T06:24:31",
-      "content": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A delightful day at the dump: ‘The trick is not to leave with more stuff than I arrived with!’",
-      "description": "At the council recycling tip in Chingford, people drop off fridges, dishwashers, mattresses, golf clubs, bicycles and batteries – then head into the shop to hunt through the weird and wonderful tre...",
-      "url": "https://www.theguardian.com/environment/2026/mar/05/dump-council-recycling-centre-tip-shop-treasures",
-      "publishedAt": "2026-03-05T05:00:51",
-      "content": "At the council recycling tip in Chingford, people drop off fridges, dishwashers, mattresses, golf clubs, bicycles and batteries – then head into the shop to hunt through the weird and wonderful tre..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Google’s Response to an Iowa County’s New Data Center Requirements? Annex the Land.",
-      "description": "Google is seeking to bypass data center zoning rules recently adopted by Linn County, Iowa, by annexing the land for its proposed campus into a city two miles away. If approved by city officials in...",
-      "url": "https://insideclimatenews.org/news/04032026/google-attempts-to-annex-iowa-county-land-for-data-center/",
-      "publishedAt": "2026-03-05T00:55:07",
-      "content": "Google is seeking to bypass data center zoning rules recently adopted by Linn County, Iowa, by annexing the land for its proposed campus into a city two miles away. If approved by city officials in..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Sea Levels Are Already Higher Than Many Scientists Think, New Study Shows",
-      "description": "Researchers found that a majority of studies on coastal sea levels underestimated how high water levels are, and hundreds of millions of people are closer to peril than previously thought.",
-      "url": "https://www.nytimes.com/2026/03/04/climate/sea-level-underestimated.html",
-      "publishedAt": "2026-03-04T18:06:02",
-      "content": "Researchers found that a majority of studies on coastal sea levels underestimated how high water levels are, and hundreds of millions of people are closer to peril than previously thought."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Glass deposit plan 'could push up prices for consumer'",
-      "description": "Wales is the only UK nation planning to include glass in a deposit return scheme from October 2027.",
-      "url": "https://www.bbc.com/news/articles/ce3gkp2w2l3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-04T12:48:15",
-      "content": "Wales is the only UK nation planning to include glass in a deposit return scheme from October 2027."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -386,28 +474,6 @@
       "url": "https://goodonyou.eco/is-snakeskin-ethical/",
       "publishedAt": "2026-03-02T14:07:47",
       "content": "Many brands have banned fur while continuing to sell products made from the skins of snakes—but is this really any more ethically or environmentally acceptable? Here, Emma Håkansson, activist and f..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Inspired By the Film Industry, This Mobility Device Helps People Move Without Motors or Batteries",
-      "description": "Many of the over 5.5 million people who rely on mobility devices in the U.S. need multiple pieces of equipment to address their daily needs. The creators of the Zeen want to change that. TriplePundit",
-      "url": "https://triplepundit.com/2026/zeen-mobility-device-wheelchair-walker-alternative/",
-      "publishedAt": "2026-02-28T00:14:50",
-      "content": "Many of the over 5.5 million people who rely on mobility devices in the U.S. need multiple pieces of equipment to address their daily needs. The creators of the Zeen want to change that. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Camden Healthcare Workers Confront the Barriers Holding Back Their Neighbors’ Health",
-      "description": "A community-based healthcare system in Camden, New Jersey, is improving patients' health by considering every aspect of their life a part of the treatment. TriplePundit",
-      "url": "https://triplepundit.com/2026/camden-healthy-neighbor-diabetes-hypertension-treatment/",
-      "publishedAt": "2026-02-27T20:04:23",
-      "content": "A community-based healthcare system in Camden, New Jersey, is improving patients' health by considering every aspect of their life a part of the treatment. TriplePundit"
     }
   ]
 }
