@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 42,
   "articles": [
     {
       "source": {
@@ -26,17 +26,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How green is your milk? We compare the environmental cost of dairy and plant-based options",
-      "description": "Many Australians are choosing oat, almond and soy over cow’s milk – but which choice is the most sustainable?Change by degrees offers life hacks and sustainable living tips each Saturday to help re...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/07/oat-soy-plant-based-milk-sustainability-environmental-comparison",
-      "publishedAt": "2026-03-06T23:00:34",
-      "content": "Many Australians are choosing oat, almond and soy over cow’s milk – but which choice is the most sustainable?Change by degrees offers life hacks and sustainable living tips each Saturday to help re..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -59,6 +48,17 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Private buildings, public land: how Australia’s national parks became a battleground between conservation and commerce",
+      "description": "Developers argue that eco-tourism helps ‘underfunded’ parks but former Greens leader Bob Brown says the idea of wilderness lodges is an ‘oxymoron’Follow our Australia news live blog for latest upda...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/08/australia-national-parks-eco-toursim-glamping-lodges",
+      "publishedAt": "2026-03-07T19:00:02",
+      "content": "Developers argue that eco-tourism helps ‘underfunded’ parks but former Greens leader Bob Brown says the idea of wilderness lodges is an ‘oxymoron’Follow our Australia news live blog for latest upda..."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -67,6 +67,17 @@
       "url": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-03-06T10:43:38",
       "content": "A charity is worried about microplastics but a council says the plans follow environmental guidance."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Why Beaches Are Swamped With Sargassum, the Stinky Seaweed Menace",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Aynsley O’Neill with Inside Climate News’ Teresa Tomassoni. Maybe you’re dreaming of an e...",
+      "url": "https://insideclimatenews.org/news/07032026/sargassum-toxic-seaweed/",
+      "publishedAt": "2026-03-07T09:50:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Aynsley O’Neill with Inside Climate News’ Teresa Tomassoni. Maybe you’re dreaming of an e..."
     },
     {
       "source": {
@@ -103,6 +114,17 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "51 Women-Owned Brands Making Waves in Ethical Fashion and Beauty",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/women-owned-brands/",
+      "publishedAt": "2026-03-04T02:00:09",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -125,17 +147,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "51 Women-Owned Brands Making Waves in Ethical Fashion and Beauty",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/women-owned-brands/",
-      "publishedAt": "2026-03-04T02:00:09",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -155,6 +166,50 @@
       "url": "https://goodonyou.eco/minimalist-fashion/",
       "publishedAt": "2026-03-05T00:00:45",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Spectacular images reveal unique sea creatures and corals off Caribbean islands",
+      "description": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures.",
+      "url": "https://www.bbc.com/news/articles/cgmllk32g72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-08T01:38:45",
+      "content": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Rebecca Solnit Says the Left’s Next Hero Is Already Here",
+      "description": "The writer and activist on how political change happens and taking the long view.",
+      "url": "https://www.nytimes.com/2026/03/07/magazine/rebecca-solnit-interview.html",
+      "publishedAt": "2026-03-07T10:15:02",
+      "content": "The writer and activist on how political change happens and taking the long view."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Lemurs Love This Fruit That Is Choking Madagascar’s Forests",
+      "description": "The strawberry guava, one of the world’s worst invasive species, hinders forest restoration on the island while feeding its famous endangered primates.",
+      "url": "https://www.nytimes.com/2026/03/07/science/lemurs-guavas-forests-madagascar.html",
+      "publishedAt": "2026-03-07T10:00:40",
+      "content": "The strawberry guava, one of the world’s worst invasive species, hinders forest restoration on the island while feeding its famous endangered primates."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Upstate New York Communities Eye Nuclear Power",
+      "description": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power plant.  In summer 2025, Gov. Kathy Hochul order...",
+      "url": "https://insideclimatenews.org/news/07032026/upstate-new-york-nuclear-plants/",
+      "publishedAt": "2026-03-07T10:00:00",
+      "content": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power plant.  In summer 2025, Gov. Kathy Hochul order..."
     },
     {
       "source": {
@@ -202,105 +257,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: Unspun Taps CEO, Haelixa Adds Board Member",
-      "description": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-unspun-taps-ceo-haelixa-adds-board-1234816422/",
-      "publishedAt": "2026-03-06T21:00:00",
-      "content": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Von Dutch Plots U.S. Comeback Under WSG Brands",
-      "description": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/von-dutch-plots-comeback-under-wsg-brands-1234816419/",
-      "publishedAt": "2026-03-06T17:50:22",
-      "content": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Potomac River in D.C. Is Safe, Officials Say. But Locals Still Worry About the Poop.",
-      "description": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear.",
-      "url": "https://www.nytimes.com/2026/03/06/us/politics/potomac-river-poop-sewage-dc.html",
-      "publishedAt": "2026-03-06T16:29:21",
-      "content": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Humanity heating planet faster than ever before, study finds",
-      "description": "Researchers identify sharp rise to about 0.",
-      "url": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
-      "publishedAt": "2026-03-06T14:00:24",
-      "content": "Researchers identify sharp rise to about 0."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Sheep are disappearing from our hills - and our dinner plates",
-      "description": "Have we have passed \"peak sheep\" in the UK?",
-      "url": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-06T11:57:15",
-      "content": "Have we have passed \"peak sheep\" in the UK?"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
-      "description": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble....",
-      "url": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
-      "publishedAt": "2026-03-06T11:49:25",
-      "content": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble...."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Wildcats are here and they’re on the march | Amanda Thomson",
-      "description": "Badenoch and Strathspey, Cairngorms: Conservation efforts to help them are working – numbers are still small, but I’ve seen signs in the late winter snowIt is always interesting to see how overnigh...",
-      "url": "https://www.theguardian.com/environment/2026/mar/06/country-diary-wildcats-are-here-and-theyre-on-the-march",
-      "publishedAt": "2026-03-06T05:30:12",
-      "content": "Badenoch and Strathspey, Cairngorms: Conservation efforts to help them are working – numbers are still small, but I’ve seen signs in the late winter snowIt is always interesting to see how overnigh..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Feeling the Effects of 260,000 Federal Jobs Lost",
-      "description": "One year in, assessing budget cuts to federal climate and science jobs.",
-      "url": "https://www.nytimes.com/2026/03/05/climate/climate-forward-science-federal-cuts.html",
-      "publishedAt": "2026-03-05T19:50:05",
-      "content": "One year in, assessing budget cuts to federal climate and science jobs."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Portugal fined £8.7m by EU court for failing to protect biodiversity",
-      "description": "The court of justice said Portugal had committed serious infringements of EU environmental law Portugal has been fined €10m (£8.",
-      "url": "https://www.theguardian.com/world/2026/mar/05/portugal-fined-eu-court-biodiversity-protection-failure",
-      "publishedAt": "2026-03-05T19:38:24",
-      "content": "The court of justice said Portugal had committed serious infringements of EU environmental law Portugal has been fined €10m (£8."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -345,14 +301,91 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Our patch of snowdrops is part of the family | Mark Cocker",
+      "description": "Buxton, Derbyshire: Their ‘parents’ were planted 50 years ago by my wonderful late mother.",
+      "url": "https://www.theguardian.com/environment/2026/mar/07/country-diary-our-patch-of-snowdrops-is-part-of-the-family",
+      "publishedAt": "2026-03-07T05:30:41",
+      "content": "Buxton, Derbyshire: Their ‘parents’ were planted 50 years ago by my wonderful late mother."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Unspun Taps CEO, Haelixa Adds Board Member",
+      "description": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-unspun-taps-ceo-haelixa-adds-board-1234816422/",
+      "publishedAt": "2026-03-06T21:00:00",
+      "content": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Von Dutch Plots U.S. Comeback Under WSG Brands",
+      "description": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/von-dutch-plots-comeback-under-wsg-brands-1234816419/",
+      "publishedAt": "2026-03-06T17:50:22",
+      "content": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Potomac River in D.C. Is Safe, Officials Say. But Locals Still Worry About the Poop.",
+      "description": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear.",
+      "url": "https://www.nytimes.com/2026/03/06/us/politics/potomac-river-poop-sewage-dc.html",
+      "publishedAt": "2026-03-06T16:29:22",
+      "content": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Humanity heating planet faster than ever before, study finds",
+      "description": "Researchers identify sharp rise to about 0.",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
+      "publishedAt": "2026-03-06T14:00:24",
+      "content": "Researchers identify sharp rise to about 0."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Wildlife park welcomes three new Humboldt penguins",
-      "description": "The South American species is part of a conservation programme at the wildlife park.",
-      "url": "https://www.bbc.com/news/articles/c1mjj132951o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-05T10:11:21",
-      "content": "The South American species is part of a conservation programme at the wildlife park."
+      "title": "Sheep are disappearing from our hills - and our dinner plates",
+      "description": "Have we have passed \"peak sheep\" in the UK?",
+      "url": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-06T11:57:15",
+      "content": "Have we have passed \"peak sheep\" in the UK?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
+      "description": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble....",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
+      "publishedAt": "2026-03-06T11:49:25",
+      "content": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble...."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Should New York City Burn Its Parks? This Scientist Thinks So.",
+      "description": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions.",
+      "url": "https://www.nytimes.com/2026/03/05/climate/new-york-city-park-fires-controlled-burns.html",
+      "publishedAt": "2026-03-05T19:43:41",
+      "content": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions."
     },
     {
       "source": {
@@ -397,50 +430,6 @@
       "url": "https://csrwire.com/press-release/mastercard-what-spending-data-tells-us-about-cyberattacks/",
       "publishedAt": "2026-03-04T08:55:00",
       "content": "Asahi Group, maker of Japan’s best-selling beer, was struck by a cyberattack last fall that was so severe the company had to shut down many computer systems and fill orders using pen, paper and fax..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Should New York City Burn Its Parks? This Scientist Thinks So.",
-      "description": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions.",
-      "url": "https://www.nytimes.com/2026/03/05/climate/new-york-city-park-fires-controlled-burns.html",
-      "publishedAt": "2026-03-05T19:43:41",
-      "content": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "On the Trendy Tram, You Can Hear a Subway Voice",
-      "description": "A man who has done voice-overs for the M.T.A. for years is now speaking to riders of the Roosevelt Island Tram.",
-      "url": "https://www.nytimes.com/2026/03/05/nyregion/roosevelt-island-tram-voiceovers.html",
-      "publishedAt": "2026-03-05T14:19:34",
-      "content": "A man who has done voice-overs for the M.T.A. for years is now speaking to riders of the Roosevelt Island Tram."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wildlife trust's centenary 'free weekend in nature'",
-      "description": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations.",
-      "url": "https://www.bbc.com/news/articles/c4g22d9n5llo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-05T06:24:31",
-      "content": "The Norfolk Wildlife Trust is opening its sites for free as part of its 100th birthday celebrations."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Sea Levels Are Already Higher Than Many Scientists Think, New Study Shows",
-      "description": "Researchers found that a majority of studies on coastal sea levels underestimated how high water levels are, and hundreds of millions of people are closer to peril than previously thought.",
-      "url": "https://www.nytimes.com/2026/03/04/climate/sea-level-underestimated.html",
-      "publishedAt": "2026-03-04T18:06:02",
-      "content": "Researchers found that a majority of studies on coastal sea levels underestimated how high water levels are, and hundreds of millions of people are closer to peril than previously thought."
     },
     {
       "source": {
