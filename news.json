@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 41,
   "articles": [
     {
       "source": {
@@ -51,22 +51,33 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Private buildings, public land: how Australia’s national parks became a battleground between conservation and commerce",
-      "description": "Developers argue that eco-tourism helps ‘underfunded’ parks but former Greens leader Bob Brown says the idea of wilderness lodges is an ‘oxymoron’Follow our Australia news live blog for latest upda...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/08/australia-national-parks-eco-toursim-glamping-lodges",
-      "publishedAt": "2026-03-07T19:00:02",
-      "content": "Developers argue that eco-tourism helps ‘underfunded’ parks but former Greens leader Bob Brown says the idea of wilderness lodges is an ‘oxymoron’Follow our Australia news live blog for latest upda..."
+      "title": "‘The smell wasn’t healthy’: the artist who wore 24 nappies to highlight sewage pollution – and fell ill",
+      "description": "zack mennell made a costume out of nappies and waded into filthy waterways saying: ‘I’m going to be the parasite.",
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/09/artist-24-nappies-sewage-pollution-zack-mennell",
+      "publishedAt": "2026-03-09T05:00:39",
+      "content": "zack mennell made a costume out of nappies and waded into filthy waterways saying: ‘I’m going to be the parasite."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "3G pitch set to be approved despite pollution fears",
-      "description": "A charity is worried about microplastics but a council says the plans follow environmental guidance.",
-      "url": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-06T10:43:38",
-      "content": "A charity is worried about microplastics but a council says the plans follow environmental guidance."
+      "author": "The Guardian",
+      "title": "How can we really protect Britain’s environment?",
+      "description": "Well-intentioned laws designed to safeguard nature frequently have the opposite effectThe importance of protecting nature is not up for debate.",
+      "url": "https://www.theguardian.com/books/2026/mar/08/how-can-we-really-protect-britains-environment",
+      "publishedAt": "2026-03-08T12:00:21",
+      "content": "Well-intentioned laws designed to safeguard nature frequently have the opposite effectThe importance of protecting nature is not up for debate."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Is the FBI Investigating Environmental Activists?",
+      "description": "NEW YORK CITY—The group in the Brooklyn studio seemed harmless.",
+      "url": "https://insideclimatenews.org/news/08032026/environmental-activists-fbi-visits/",
+      "publishedAt": "2026-03-08T09:00:00",
+      "content": "NEW YORK CITY—The group in the Brooklyn studio seemed harmless."
     },
     {
       "source": {
@@ -125,36 +136,25 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Good On You"
       },
-      "author": "Inside Climate News",
-      "title": "An Island Nation in the South Pacific Leads the Latest Push for Climate Justice at the UN",
-      "description": "Led by the South Pacific island nation of Vanuatu, a coalition of countries are introducing a resolution at the United Nations General Assembly that could reinforce countries’ legal obligations und...",
-      "url": "https://insideclimatenews.org/news/06032026/pacific-island-vanuatu-un-climate-justice/",
-      "publishedAt": "2026-03-06T22:19:52",
-      "content": "Led by the South Pacific island nation of Vanuatu, a coalition of countries are introducing a resolution at the United Nations General Assembly that could reinforce countries’ legal obligations und..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "On the Farm, the Hidden Climate Cost of the Broken U.S. Health Care System",
-      "description": "Samantha Kemnah looked out the foggy window of her home in New Berlin, New York, at the 150-acre dairy farm she and her husband, Chris, bought last year. This winter, an unprecedented cold front br...",
-      "url": "https://insideclimatenews.org/news/06032026/american-farmers-climate-cost-health-care/",
-      "publishedAt": "2026-03-06T09:55:00",
-      "content": "Samantha Kemnah looked out the foggy window of her home in New Berlin, New York, at the 150-acre dairy farm she and her husband, Chris, bought last year. This winter, an unprecedented cold front br..."
+      "author": "Good On You",
+      "title": "A Fashion Trend Defining the 2020s? Tech Billionaires Crowding the Culture",
+      "description": "What does luxury fashion’s platforming of tech billionaires signal about the industry? Certainly not sustainability.",
+      "url": "https://goodonyou.eco/a-fashion-trend-defining-the-2020s-tech-billionaires-crowding-the-culture/",
+      "publishedAt": "2026-03-09T01:51:19",
+      "content": "What does luxury fashion’s platforming of tech billionaires signal about the industry? Certainly not sustainability."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Tackling air pollution should be part of government work to cut cancer rates, scientists say",
-      "description": "New European Code Against Cancer calls on politicians to phase out use of fossil fuels in homesCutting air pollution should form part of government strategies to reduce cancer rates, the European C...",
-      "url": "https://www.theguardian.com/environment/2026/mar/06/tackle-air-pollution-cut-cancer-rates-scientists",
-      "publishedAt": "2026-03-06T06:00:16",
-      "content": "New European Code Against Cancer calls on politicians to phase out use of fossil fuels in homesCutting air pollution should form part of government strategies to reduce cancer rates, the European C..."
+      "title": "Life on Kenya’s largest dump: the invisible workers sorting the world’s rubbish",
+      "description": "Plastic, textiles, e-waste and more end up at the vast Dandora site, where waste pickers spend all hours sifting through toxic debris looking for recyclablesOn my journey documenting environmental ...",
+      "url": "https://www.theguardian.com/global-development/2026/mar/08/waste-pickers-kenya-recycling-dandora-rubbish-dump",
+      "publishedAt": "2026-03-08T07:00:13",
+      "content": "Plastic, textiles, e-waste and more end up at the vast Dandora site, where waste pickers spend all hours sifting through toxic debris looking for recyclablesOn my journey documenting environmental ..."
     },
     {
       "source": {
@@ -169,47 +169,47 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "Spectacular images reveal unique sea creatures and corals off Caribbean islands",
-      "description": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures.",
-      "url": "https://www.bbc.com/news/articles/cgmllk32g72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-08T01:38:45",
-      "content": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures."
+      "author": "The Guardian",
+      "title": "Sex and the sea snail: how a plucky marine lab brought a mollusk back from the brink",
+      "description": "Once abundant in California, the white abalone had all but vanished.",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/mar/08/white-abalone-breeding-program-california",
+      "publishedAt": "2026-03-08T14:00:24",
+      "content": "Once abundant in California, the white abalone had all but vanished."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Rebecca Solnit Says the Left’s Next Hero Is Already Here",
-      "description": "The writer and activist on how political change happens and taking the long view.",
-      "url": "https://www.nytimes.com/2026/03/07/magazine/rebecca-solnit-interview.html",
-      "publishedAt": "2026-03-07T10:15:02",
-      "content": "The writer and activist on how political change happens and taking the long view."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Lemurs Love This Fruit That Is Choking Madagascar’s Forests",
-      "description": "The strawberry guava, one of the world’s worst invasive species, hinders forest restoration on the island while feeding its famous endangered primates.",
-      "url": "https://www.nytimes.com/2026/03/07/science/lemurs-guavas-forests-madagascar.html",
-      "publishedAt": "2026-03-07T10:00:40",
-      "content": "The strawberry guava, one of the world’s worst invasive species, hinders forest restoration on the island while feeding its famous endangered primates."
+      "author": "The Guardian",
+      "title": "BrewDog sold Highland estate for knockdown price after abandoning its reforestation plans",
+      "description": "Self-styled ‘punk’ beer company bought land in 2020, pledging to plant Scotland’s ‘biggest ever forest’The self-styled “punk” beer company BrewDog sold its Highland estate for a knockdown price aft...",
+      "url": "https://www.theguardian.com/business/2026/mar/08/brewdog-sold-highland-estate-knockdown-price-reforesting",
+      "publishedAt": "2026-03-08T09:00:15",
+      "content": "Self-styled ‘punk’ beer company bought land in 2020, pledging to plant Scotland’s ‘biggest ever forest’The self-styled “punk” beer company BrewDog sold its Highland estate for a knockdown price aft..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Upstate New York Communities Eye Nuclear Power",
-      "description": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power plant.  In summer 2025, Gov. Kathy Hochul order...",
-      "url": "https://insideclimatenews.org/news/07032026/upstate-new-york-nuclear-plants/",
-      "publishedAt": "2026-03-07T10:00:00",
-      "content": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power plant.  In summer 2025, Gov. Kathy Hochul order..."
+      "title": "Gobbled up by Agriculture",
+      "description": "Agriculture is the biggest driver of forest destruction around the world, especially in well-known places like the Amazon rainforest.",
+      "url": "https://insideclimatenews.org/news/08032026/icn-sunday-morning-agriculture-devours-lands/",
+      "publishedAt": "2026-03-08T08:50:00",
+      "content": "Agriculture is the biggest driver of forest destruction around the world, especially in well-known places like the Amazon rainforest."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Ancient hedge laying used to boost biodiversity",
+      "description": "Bristol Water is using ancient hedge laying techniques to improve biodiversity near Blagdon lake.",
+      "url": "https://www.bbc.com/news/articles/cyv918n9v93o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-08T07:21:40",
+      "content": "Bristol Water is using ancient hedge laying techniques to improve biodiversity near Blagdon lake."
     },
     {
       "source": {
@@ -235,17 +235,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "From 2011: Wangari Maathai, Nobel Peace Prize Laureate, Dies at 71",
-      "description": "A Kenyan environmentalist, she began by paying women a few shillings to plant trees and went on to become the first African woman to win a Nobel Peace Prize.",
-      "url": "https://www.nytimes.com/2026/03/06/world/africa/wangari-maathai-dead.html",
-      "publishedAt": "2026-03-06T17:07:46",
-      "content": "A Kenyan environmentalist, she began by paying women a few shillings to plant trees and went on to become the first African woman to win a Nobel Peace Prize."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -254,6 +243,105 @@
       "url": "https://www.esgtoday.com/svante-acquires-carbon-removal-supplier-carbon-alpha/?utm_source=rss&utm_medium=rss&utm_campaign=svante-acquires-carbon-removal-supplier-carbon-alpha",
       "publishedAt": "2026-03-06T09:15:21",
       "content": "Carbon capture and removal technology provider Svante announced the acquisition of carbon dioxide removal project developer"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Spectacular images reveal unique sea creatures and corals off Caribbean islands",
+      "description": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures.",
+      "url": "https://www.bbc.com/news/articles/cgmllk32g72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-08T01:38:45",
+      "content": "Scientists discover underwater mountain ranges, golden towers of coral, and never-before-seen sea creatures."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Rebecca Solnit Says the Left’s Next Hero Is Already Here",
+      "description": "The writer and activist on how political change happens and taking the long view.",
+      "url": "https://www.nytimes.com/2026/03/07/magazine/rebecca-solnit-interview.html",
+      "publishedAt": "2026-03-07T10:15:03",
+      "content": "The writer and activist on how political change happens and taking the long view."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Lemurs Love This Fruit That Is Choking Madagascar’s Forests",
+      "description": "The strawberry guava, one of the world’s worst invasive species, hinders forest restoration on the island while feeding its famous endangered primates.",
+      "url": "https://www.nytimes.com/2026/03/07/science/lemurs-guavas-forests-madagascar.html",
+      "publishedAt": "2026-03-07T10:00:41",
+      "content": "The strawberry guava, one of the world’s worst invasive species, hinders forest restoration on the island while feeding its famous endangered primates."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Upstate New York Communities Eye Nuclear Power",
+      "description": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power plant.  In summer 2025, Gov. Kathy Hochul order...",
+      "url": "https://insideclimatenews.org/news/07032026/upstate-new-york-nuclear-plants/",
+      "publishedAt": "2026-03-07T10:00:00",
+      "content": "Schuyler County in New York is home to a bucolic state park, an automobile race track and one day—if Judy McKinney Cherry has her way—a nuclear power plant.  In summer 2025, Gov. Kathy Hochul order..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Unspun Taps CEO, Haelixa Adds Board Member",
+      "description": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-unspun-taps-ceo-haelixa-adds-board-1234816422/",
+      "publishedAt": "2026-03-06T21:00:00",
+      "content": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Von Dutch Plots U.S. Comeback Under WSG Brands",
+      "description": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/von-dutch-plots-comeback-under-wsg-brands-1234816419/",
+      "publishedAt": "2026-03-06T17:50:22",
+      "content": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Humanity heating planet faster than ever before, study finds",
+      "description": "Researchers identify sharp rise to about 0.",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
+      "publishedAt": "2026-03-06T14:00:24",
+      "content": "Researchers identify sharp rise to about 0."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Sheep are disappearing from our hills - and our dinner plates",
+      "description": "Have we have passed \"peak sheep\" in the UK?",
+      "url": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-06T11:57:15",
+      "content": "Have we have passed \"peak sheep\" in the UK?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
+      "description": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble....",
+      "url": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
+      "publishedAt": "2026-03-06T11:49:25",
+      "content": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble...."
     },
     {
       "source": {
@@ -301,94 +389,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Our patch of snowdrops is part of the family | Mark Cocker",
-      "description": "Buxton, Derbyshire: Their ‘parents’ were planted 50 years ago by my wonderful late mother.",
-      "url": "https://www.theguardian.com/environment/2026/mar/07/country-diary-our-patch-of-snowdrops-is-part-of-the-family",
-      "publishedAt": "2026-03-07T05:30:41",
-      "content": "Buxton, Derbyshire: Their ‘parents’ were planted 50 years ago by my wonderful late mother."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: Unspun Taps CEO, Haelixa Adds Board Member",
-      "description": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-unspun-taps-ceo-haelixa-adds-board-1234816422/",
-      "publishedAt": "2026-03-06T21:00:00",
-      "content": "Unspun appoints Arne Arens as CEO; Haelixa names Infinited Fiber founder to board; AAFA announces new board leadership slate."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Von Dutch Plots U.S. Comeback Under WSG Brands",
-      "description": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/von-dutch-plots-comeback-under-wsg-brands-1234816419/",
-      "publishedAt": "2026-03-06T17:50:22",
-      "content": "WSG Brands is reviving Von Dutch in a bet that the early-2000s label’s cultural cachet can translate into a nine-digit global business."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Potomac River in D.C. Is Safe, Officials Say. But Locals Still Worry About the Poop.",
-      "description": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear.",
-      "url": "https://www.nytimes.com/2026/03/06/us/politics/potomac-river-poop-sewage-dc.html",
-      "publishedAt": "2026-03-06T16:29:22",
-      "content": "A broken pipe sent a gusher of sewage into the river near Washington. Some people may try to row, sail or fish. But skeptics are steering clear."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Humanity heating planet faster than ever before, study finds",
-      "description": "Researchers identify sharp rise to about 0.",
-      "url": "https://www.theguardian.com/environment/2026/mar/06/humanity-heating-planet-faster-than-ever-before-study-finds",
-      "publishedAt": "2026-03-06T14:00:24",
-      "content": "Researchers identify sharp rise to about 0."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Sheep are disappearing from our hills - and our dinner plates",
-      "description": "Have we have passed \"peak sheep\" in the UK?",
-      "url": "https://www.bbc.com/news/articles/cgrzd72wp5zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-06T11:57:15",
-      "content": "Have we have passed \"peak sheep\" in the UK?"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A century of care: Wildlife Trusts mark 100th birthday with woodland project",
-      "description": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble....",
-      "url": "https://www.theguardian.com/environment/2026/mar/06/wildlife-trusts-mark-100th-birthday-with-woodland-project-norfolk",
-      "publishedAt": "2026-03-06T11:49:25",
-      "content": "First of the trusts, formed with 12 people in a Norfolk pub in 1926, buys swath of farmland to restore to natureThe place where Norton Wood once stood is now a vast field of decaying wheat stubble...."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Should New York City Burn Its Parks? This Scientist Thinks So.",
-      "description": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions.",
-      "url": "https://www.nytimes.com/2026/03/05/climate/new-york-city-park-fires-controlled-burns.html",
-      "publishedAt": "2026-03-05T19:43:41",
-      "content": "An unusual outbreak of wildfires in city parks gave scientists a chance to study these rare events. Now they’re coming to different conclusions."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -397,17 +397,6 @@
       "url": "https://csrwire.com/press-release/aeg-presents-goldenvoice-supports-community-healthcare-access-empire-polo-club/",
       "publishedAt": "2026-03-04T17:15:00",
       "content": "AEG Presents’, Goldenvoice division recently supported expanded access to essential healthcare services in the Coachella Valley as the presenting sponsor of the California CareForce 2026 Coachella ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Commission Unveils Industrial Accelerator Act with New Made-in-EU Requirements for Cleantech Procurement",
-      "description": "The European Commission announced the release of its long-awaited Industrial Accelerator Act (IAA) proposal on",
-      "url": "https://www.esgtoday.com/european-commission-unveils-low-carbon-made-in-eu-rules-for-manufacturing-cleantech-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=european-commission-unveils-low-carbon-made-in-eu-rules-for-manufacturing-cleantech-sectors",
-      "publishedAt": "2026-03-04T15:18:32",
-      "content": "The European Commission announced the release of its long-awaited Industrial Accelerator Act (IAA) proposal on"
     },
     {
       "source": {
