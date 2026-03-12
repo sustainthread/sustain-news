@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 37,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Reaching net zero by 2050 ‘cheaper for UK than one fossil fuel crisis’",
+      "description": "Climate change committee finds move to renewable energy would also bring health, economic and security benefitsAchieving the UK’s net zero target by 2050 will cost less than a single oil shock and ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/11/reaching-net-zero-by-2050-cheaper-for-uk-than-one-fossil-fuel-crisis",
+      "publishedAt": "2026-03-11T06:00:11",
+      "content": "Climate change committee finds move to renewable energy would also bring health, economic and security benefitsAchieving the UK’s net zero target by 2050 will cost less than a single oil shock and ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Intersect Spins Off Green Energy Producer IPX Following Acquisition by Google",
+      "description": "Following the $4.75 billion acquisition of AI infrastructure-focused clean energy developer Intersect by Google, the",
+      "url": "https://www.esgtoday.com/intersect-spins-off-green-energy-producer-ipx-following-acquisition-by-google/?utm_source=rss&utm_medium=rss&utm_campaign=intersect-spins-off-green-energy-producer-ipx-following-acquisition-by-google",
+      "publishedAt": "2026-03-11T10:27:28",
+      "content": "Following the $4.75 billion acquisition of AI infrastructure-focused clean energy developer Intersect by Google, the"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -18,11 +40,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "HSBC Climate Tech Team Joins Sustainable Investment Firm Bridges",
-      "description": "Sustainable and impact investment fund manager Bridges announced that it has added HSBC Asset Management’s",
-      "url": "https://www.esgtoday.com/hsbc-climate-tech-team-joins-sustainable-investment-firm-bridges/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-climate-tech-team-joins-sustainable-investment-firm-bridges",
-      "publishedAt": "2026-03-09T15:05:06",
-      "content": "Sustainable and impact investment fund manager Bridges announced that it has added HSBC Asset Management’s"
+      "title": "Beyond the Hype: Executives Must Harness AI-powered Data to Unearth the Sustainable Truth",
+      "description": "Guest post by: Mandi McReynolds, Chief Sustainability Officer & Vice President, External Affairs & Customer",
+      "url": "https://www.esgtoday.com/beyond-the-hype-executives-must-harness-ai-powered-data-to-unearth-the-sustainable-truth/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-the-hype-executives-must-harness-ai-powered-data-to-unearth-the-sustainable-truth",
+      "publishedAt": "2026-03-11T09:25:12",
+      "content": "Guest post by: Mandi McReynolds, Chief Sustainability Officer & Vice President, External Affairs & Customer"
     },
     {
       "source": {
@@ -34,6 +56,17 @@
       "url": "https://www.esgtoday.com/net-zero-asset-owner-alliance-introduces-transition-targets-in-new-target-setting-protocol/?utm_source=rss&utm_medium=rss&utm_campaign=net-zero-asset-owner-alliance-introduces-transition-targets-in-new-target-setting-protocol",
       "publishedAt": "2026-03-10T13:46:33",
       "content": "The Net Zero Asset Owner Alliance announced the release of its updated Target-Setting Protocol, its"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "HSBC’s Sustainable Finance Activity Tops $100 Billion in 2025",
+      "description": "HSBC announced that it mobilized more than $102 billion in sustainable finance and investment in",
+      "url": "https://www.esgtoday.com/hsbc-sustainable-finance-activity-tops-100-billion-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-sustainable-finance-activity-tops-100-billion-in-2025",
+      "publishedAt": "2026-03-11T14:40:42",
+      "content": "HSBC announced that it mobilized more than $102 billion in sustainable finance and investment in"
     },
     {
       "source": {
@@ -51,55 +84,22 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Air strikes cause black rain and 'unprecedented' pollution in Tehran, scientists say",
-      "description": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
-      "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-10T19:39:58",
-      "content": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Latest Tactic for Silencing Ecuador’s Environmental Defenders: Shuttering Their Bank Accounts",
-      "description": "It was a sweltering January afternoon in the Amazonian town of Puyo when Andrés Tapia realized his daughter’s public school fees were due.",
-      "url": "https://insideclimatenews.org/news/10032026/ecuador-freezes-environmental-defenders-bank-accounts/",
-      "publishedAt": "2026-03-10T09:00:00",
-      "content": "It was a sweltering January afternoon in the Amazonian town of Puyo when Andrés Tapia realized his daughter’s public school fees were due."
+      "title": "Why Namibia's green energy dream could be a red flag for penguins",
+      "description": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility.",
+      "url": "https://www.bbc.com/news/articles/czj1lkvpzxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-12T00:04:52",
+      "content": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Bill Gates’ TerraPower Gets Green Light to Build First U.S. Advanced Nuclear Reactor",
-      "description": "Nuclear technology company TerraPower announced that it has received a construction permit from the U.S.",
-      "url": "https://www.esgtoday.com/bill-gates-terrapower-gets-green-light-to-build-first-u-s-advanced-nuclear-reactor/?utm_source=rss&utm_medium=rss&utm_campaign=bill-gates-terrapower-gets-green-light-to-build-first-u-s-advanced-nuclear-reactor",
-      "publishedAt": "2026-03-09T17:03:02",
-      "content": "Nuclear technology company TerraPower announced that it has received a construction permit from the U.S."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "LSEG Launches New Sustainability Ratings and Analytics Solutions Suite",
-      "description": "The London Stock Exchange Group (LSEG) announced today the launch of LSEG Sustainability Ratings and",
-      "url": "https://www.esgtoday.com/lseg-launches-new-sustainability-ratings-and-data-solutions-suite/?utm_source=rss&utm_medium=rss&utm_campaign=lseg-launches-new-sustainability-ratings-and-data-solutions-suite",
-      "publishedAt": "2026-03-09T14:09:06",
-      "content": "The London Stock Exchange Group (LSEG) announced today the launch of LSEG Sustainability Ratings and"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "LEGO Surpasses 50% Renewable and Recycled Raw Materials to Make its Bricks",
-      "description": "The LEGO Group revealed significant progress in its efforts to increase the use of sustainable",
-      "url": "https://www.esgtoday.com/lego-surpasses-50-renewable-and-recycled-content-in-bricks/?utm_source=rss&utm_medium=rss&utm_campaign=lego-surpasses-50-renewable-and-recycled-content-in-bricks",
-      "publishedAt": "2026-03-10T15:13:08",
-      "content": "The LEGO Group revealed significant progress in its efforts to increase the use of sustainable"
+      "title": "Emerald Raises €100 Million for Water Solutions Startup Fund",
+      "description": "Industrial sustainability-focused venture capital firm Emerald Technology Ventures announced that it has raised €100 million",
+      "url": "https://www.esgtoday.com/emerald-raises-e100-million-for-water-solutions-startup-fund/?utm_source=rss&utm_medium=rss&utm_campaign=emerald-raises-e100-million-for-water-solutions-startup-fund",
+      "publishedAt": "2026-03-11T12:15:23",
+      "content": "Industrial sustainability-focused venture capital firm Emerald Technology Ventures announced that it has raised €100 million"
     },
     {
       "source": {
@@ -114,14 +114,124 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU’s Von der Leyen Says Turning Away from Nuclear Energy was a “Strategic Mistake”",
+      "description": "European Commission President Ursula von der Leyen unveiled a new strategy to boost the development",
+      "url": "https://www.esgtoday.com/eus-von-der-leyen-says-turning-away-from-nuclear-energy-was-a-strategic-mistake/?utm_source=rss&utm_medium=rss&utm_campaign=eus-von-der-leyen-says-turning-away-from-nuclear-energy-was-a-strategic-mistake",
+      "publishedAt": "2026-03-11T11:39:22",
+      "content": "European Commission President Ursula von der Leyen unveiled a new strategy to boost the development"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "LEGO Surpasses 50% Renewable and Recycled Raw Materials to Make its Bricks",
+      "description": "The LEGO Group revealed significant progress in its efforts to increase the use of sustainable",
+      "url": "https://www.esgtoday.com/lego-surpasses-50-renewable-and-recycled-content-in-bricks/?utm_source=rss&utm_medium=rss&utm_campaign=lego-surpasses-50-renewable-and-recycled-content-in-bricks",
+      "publishedAt": "2026-03-10T15:13:08",
+      "content": "The LEGO Group revealed significant progress in its efforts to increase the use of sustainable"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Greedy beaver caught twice in monitoring trap",
+      "description": "Rangers in Northumberland say the beavers are doing well after they were caught and checked over.",
+      "url": "https://www.bbc.com/news/articles/cvgvj84ggv7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-12T06:11:16",
+      "content": "Rangers in Northumberland say the beavers are doing well after they were caught and checked over."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "There’s Something in the Air in South Portland, Maine",
+      "description": "SOUTH PORTLAND—It’s one of Maine’s most desirable locations—home to a vibrant and diverse community, nearby beaches, and close proximity to Portland’s downtown. But for years, residents in South Po...",
+      "url": "https://insideclimatenews.org/news/11032026/south-portland-maine-petroleum-storage-tanks-emissions/",
+      "publishedAt": "2026-03-11T21:34:20",
+      "content": "SOUTH PORTLAND—It’s one of Maine’s most desirable locations—home to a vibrant and diverse community, nearby beaches, and close proximity to Portland’s downtown. But for years, residents in South Po..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Denim Street Style at Paris Fashion Week",
+      "description": "Jeans were a key part of Paris Fashion Week attendees’ overall elevated casual style.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/denim-street-style-paris-fashion-week-dior-double-denim-1234816109/",
+      "publishedAt": "2026-03-11T20:20:24",
+      "content": "Jeans were a key part of Paris Fashion Week attendees’ overall elevated casual style."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Best Denim From Paris Fashion Week",
+      "description": "Jeans were effortlessly woven into Fall/winter 2026-2027 collections.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/best-denim-paris-fashion-week-dior-stella-mccartney-ganni-1234816233/",
+      "publishedAt": "2026-03-11T19:45:00",
+      "content": "Jeans were effortlessly woven into Fall/winter 2026-2027 collections."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Tehran’s Smothering Smoke Has Roots in ‘Mazut,’ an Unusually Dirty Fuel",
+      "description": "The low-grade oil has been used to fuel power plants amid Iran’s international isolation. Tanks of mazut may now be burning near the city.",
+      "url": "https://www.nytimes.com/2026/03/11/climate/tehran-air-pollution-mazut-oil.html",
+      "publishedAt": "2026-03-11T15:41:06",
+      "content": "The low-grade oil has been used to fuel power plants amid Iran’s international isolation. Tanks of mazut may now be burning near the city."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maui’s Mental Health Crisis Goes Far Beyond the Wildfire Burn Zone",
+      "description": "On the day of one of the deadliest natural disasters in Hawaii’s history, Blake Kekoa Ramelb watched his hometown go up in flames.",
+      "url": "https://insideclimatenews.org/news/11032026/mauis-mental-health-crisis-goes-far-beyond-the-wildfire-burn-zone/",
+      "publishedAt": "2026-03-11T15:00:00",
+      "content": "On the day of one of the deadliest natural disasters in Hawaii’s history, Blake Kekoa Ramelb watched his hometown go up in flames."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Countries can rewild borders to deter invasions, says EU environment chief",
-      "description": "Jessika Roswall cites Poland and Finland, which have made border areas near Russia or its allies ‘more hostile’ to crossCountries should look to rewild their land borders as a deterrence to invasio...",
-      "url": "https://www.theguardian.com/environment/2026/mar/09/countries-can-rewild-borders-to-deter-invasions-says-eu-environment-chief",
-      "publishedAt": "2026-03-09T11:17:36",
-      "content": "Jessika Roswall cites Poland and Finland, which have made border areas near Russia or its allies ‘more hostile’ to crossCountries should look to rewild their land borders as a deterrence to invasio..."
+      "title": "‘When I leave, part of me stays’: why Scarborough’s youth won’t turn their backs on the seaside town they love",
+      "description": "Hemmed in by the sea and poor transport links, many young people from the Yorkshire town feel trapped, but there is also a pride in the areaIt’s the morning after a wet and stormy day in the Yorksh...",
+      "url": "https://www.theguardian.com/environment/2026/mar/11/against-the-tide-scarborough-eastfield-youth-town-love-opportunity-transport-seaside",
+      "publishedAt": "2026-03-11T10:00:01",
+      "content": "Hemmed in by the sea and poor transport links, many young people from the Yorkshire town feel trapped, but there is also a pride in the areaIt’s the morning after a wet and stormy day in the Yorksh..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Slowly, Slowly, ‘Darwin’s Finches of the Snail World’ Return From Near Extinction",
+      "description": "Partula snails all but vanished from Polynesia after the arrival of a carnivorous foreign snail. But a global alliance of zoos has worked to bring them back.",
+      "url": "https://www.nytimes.com/2026/03/11/science/conservation-snails-partula.html",
+      "publishedAt": "2026-03-11T09:02:03",
+      "content": "Partula snails all but vanished from Polynesia after the arrival of a carnivorous foreign snail. But a global alliance of zoos has worked to bring them back."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "This is the story of Weda Bay – and how nature is being sacrificed for mining",
+      "description": "Analysis has found more than 3,000 mining operations within the most naturally precious areas of the planet, a much bigger footprint than previously thoughtWeda Bay is just one example of a global ...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/mar/11/how-mining-threatens-the-worlds-biodiversity-aoe",
+      "publishedAt": "2026-03-11T07:00:12",
+      "content": "Analysis has found more than 3,000 mining operations within the most naturally precious areas of the planet, a much bigger footprint than previously thoughtWeda Bay is just one example of a global ..."
     },
     {
       "source": {
@@ -147,28 +257,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A sobering preview’: extreme heat now affects one in three people globally, study finds",
-      "description": "Rising temperatures making it hard even for young, healthy people to safely do normal physical tasks in many regionsClimate breakdown is shrinking the amount of time that people can safely go about...",
-      "url": "https://www.theguardian.com/environment/2026/mar/10/extreme-heat-study-global-warming-physical-activity",
-      "publishedAt": "2026-03-10T14:00:08",
-      "content": "Rising temperatures making it hard even for young, healthy people to safely do normal physical tasks in many regionsClimate breakdown is shrinking the amount of time that people can safely go about..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Rabobank Launches Impact Investing Platform with €1 Billion Target",
-      "description": "Netherlands-based cooperative bank Rabobank announced the launch of the Rabo Impact Foundation, a new platform",
-      "url": "https://www.esgtoday.com/rabobank-launches-impact-investing-platform-with-e1-billion-target/?utm_source=rss&utm_medium=rss&utm_campaign=rabobank-launches-impact-investing-platform-with-e1-billion-target",
-      "publishedAt": "2026-03-10T11:03:58",
-      "content": "Netherlands-based cooperative bank Rabobank announced the launch of the Rabo Impact Foundation, a new platform"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -177,127 +265,6 @@
       "url": "https://csrwire.com/press-release/mastercard-inclusive-india-innovating-ai-create-economic-opportunities-and-why-it-matters/",
       "publishedAt": "2026-03-10T09:00:00",
       "content": "In India, there is a subtle but tangible shift in the digital economy."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "What Is Minimalist Fashion? The More Sustainable Approach to Dressing",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/minimalist-fashion/",
-      "publishedAt": "2026-03-05T00:00:45",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
-      "description": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK.",
-      "url": "https://www.bbc.com/news/articles/cze0j2dgkx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-11T06:24:04",
-      "content": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Secret of hedgehog hearing discovered at far beyond human range",
-      "description": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear",
-      "url": "https://www.bbc.com/news/articles/c8d52n0dnzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-11T00:24:19",
-      "content": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear"
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "China’s Exports Surge to Start 2026, but Mask Slowing Economy",
-      "description": "Outbound shipments soared 21.8 percent to $656.6 billion despite an 11 percent drop in U.S.-bound cargo as tariffs and shifting demand reshape China’s trade flows.",
-      "url": "https://sourcingjournal.com/topics/trade/china-exports-surge-january-february-trade-surplus-mask-slowing-economy-gdp-manufacturing-lunar-new-year-1234816817/",
-      "publishedAt": "2026-03-10T22:17:59",
-      "content": "Outbound shipments soared 21.8 percent to $656.6 billion despite an 11 percent drop in U.S.-bound cargo as tariffs and shifting demand reshape China’s trade flows."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Following Months of Drought, Floods in Kenya Kill More Than 40 People",
-      "description": "After months of intense drought conditions, Kenya was inundated by rain late last week, triggering severe flooding that killed more than 40 people.",
-      "url": "https://insideclimatenews.org/news/10032026/todays-climate-kenya-floods-climate-whiplash/",
-      "publishedAt": "2026-03-10T20:50:56",
-      "content": "After months of intense drought conditions, Kenya was inundated by rain late last week, triggering severe flooding that killed more than 40 people."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Lenzing Pushes Biobased Fibers in EU Policy Debate",
-      "description": "EU policymakers and industry leaders discussed scalable alternatives to fossil-based materials at the Austrian group’s roundtable in Brussels.",
-      "url": "https://sourcingjournal.com/topics/compliance/lenzing-pushes-biobased-fibers-in-eu-policy-debate-brussels-1234816772/",
-      "publishedAt": "2026-03-10T18:00:00",
-      "content": "EU policymakers and industry leaders discussed scalable alternatives to fossil-based materials at the Austrian group’s roundtable in Brussels."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "CK Hutchison Seeks $2B in Arbitration Over Panama Canal Port Seizure",
-      "description": "The Hong Kong-based operator challenges Panama’s takeover of the Balboa and Cristóbal terminals as China summons Maersk and MSC amid rising geopolitical tensions.",
-      "url": "https://sourcingjournal.com/topics/logistics/ck-hutchison-panama-ports-company-ppc-seizure-2-billion-arbitration-balboa-cristobal-terminals-msc-maersk-china-1234816787/",
-      "publishedAt": "2026-03-10T17:23:40",
-      "content": "The Hong Kong-based operator challenges Panama’s takeover of the Balboa and Cristóbal terminals as China summons Maersk and MSC amid rising geopolitical tensions."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why the price of oil matters more than you might think",
-      "description": "A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit.",
-      "url": "https://www.bbc.com/news/articles/cr457nq7z61o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-10T15:04:16",
-      "content": "A shock to oil supplies is rattling financial markets, driving up prices at the pump and raising fears of a bigger economic hit."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Amid Cuts to the U.S. Fish and Wildlife Service, Species Like the Florida Panther Languish",
-      "description": "The honey-colored Florida panther inhabits the southwest corner of the state, mostly occupying a remote swath of cypress swamps, sawgrass prairies and other natural and agricultural lands that cons...",
-      "url": "https://insideclimatenews.org/news/10032026/florida-panther-usfws-cuts/",
-      "publishedAt": "2026-03-10T08:55:00",
-      "content": "The honey-colored Florida panther inhabits the southwest corner of the state, mostly occupying a remote swath of cypress swamps, sawgrass prairies and other natural and agricultural lands that cons..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Testing the waters: can pumping chemicals into the ocean help stop global heating?",
-      "description": "To some it was a reckless experiment but scientists hope the dispersal of 65,000 litres of sodium hydroxide into the Gulf of Maine could ease the climate crisisFor four days last August, a thick sl...",
-      "url": "https://www.theguardian.com/environment/2026/mar/10/sodium-hydroxide-ocean-global-heating-solution",
-      "publishedAt": "2026-03-10T06:00:10",
-      "content": "To some it was a reckless experiment but scientists hope the dispersal of 65,000 litres of sodium hydroxide into the Gulf of Maine could ease the climate crisisFor four days last August, a thick sl..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Orchids, plums and pine cones – all bursting out of cathedral walls | Nic Wilson",
-      "description": "St Albans Cathedral, Hertfordshire: The chapel here is a wonderful curiosity, thanks to its restoration by a green-fingered Victorian sculptorAll’s quiet in the Lady Chapel, sheltered from the bust...",
-      "url": "https://www.theguardian.com/environment/2026/mar/10/country-diary-orchids-plums-and-pine-cones-all-bursting-out-of-cathedral-walls",
-      "publishedAt": "2026-03-10T05:30:09",
-      "content": "St Albans Cathedral, Hertfordshire: The chapel here is a wonderful curiosity, thanks to its restoration by a green-fingered Victorian sculptorAll’s quiet in the Lady Chapel, sheltered from the bust..."
     },
     {
       "source": {
@@ -312,17 +279,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Shellworks Raises $15 Million to Scale Plant-Based Biodegradable Plastic Packaging Alternative",
-      "description": "Biotech startup Shellworks announced that it has raised $15 million in a Series A investment",
-      "url": "https://www.esgtoday.com/shellworks-raises-15-million-to-scale-plant-based-biodegradable-plastic-packaging-alternative/?utm_source=rss&utm_medium=rss&utm_campaign=shellworks-raises-15-million-to-scale-plant-based-biodegradable-plastic-packaging-alternative",
-      "publishedAt": "2026-03-09T16:37:51",
-      "content": "Biotech startup Shellworks announced that it has raised $15 million in a Series A investment"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -331,28 +287,6 @@
       "url": "https://csrwire.com/press-release/medtronic-spark-onsite-day-innovation-collaboration-and-discovery/",
       "publishedAt": "2026-03-09T13:50:00",
       "content": "Medtronic welcomed 200 fifth-grade students to its campus for a half-day, immersive learning experience powered by Medtronic Spark and led by employee volunteers."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How Extreme Weather and Aging Infrastructure Led to Months of ‘Musty’ Water in One Ohio Village",
-      "description": "The Allegheny Front covers the environment in Pennsylvania and eastern Ohio.",
-      "url": "https://insideclimatenews.org/news/09032026/ohio-village-water-contaminants-extreme-weather-aging-infrastructure/",
-      "publishedAt": "2026-03-09T12:03:50",
-      "content": "The Allegheny Front covers the environment in Pennsylvania and eastern Ohio."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Large tortoiseshell butterfly confirmed no longer extinct in UK",
-      "description": "Early spring sightings show colourful insect is a resident species for first time in decades, says conservation charityThe large tortoiseshell – an elusive and enigmatic butterfly that became extin...",
-      "url": "https://www.theguardian.com/environment/2026/mar/09/large-tortoiseshell-butterfly-no-longer-extinct-uk",
-      "publishedAt": "2026-03-09T11:00:47",
-      "content": "Early spring sightings show colourful insect is a resident species for first time in decades, says conservation charityThe large tortoiseshell – an elusive and enigmatic butterfly that became extin..."
     },
     {
       "source": {
@@ -367,6 +301,83 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
+      "description": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK.",
+      "url": "https://www.bbc.com/news/articles/cze0j2dgkx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-11T06:24:04",
+      "content": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Ultrasound repellers could keep hedgehogs off roads, scientists hope",
+      "description": "Study shows animals hear very high frequencies, making it possible to design a deterrent to cut deathsHedgehogs have been discovered to hear high-frequency ultrasound, raising hopes that they could...",
+      "url": "https://www.theguardian.com/environment/2026/mar/11/ultrasound-repellers-hedgehogs-roads-scientists",
+      "publishedAt": "2026-03-11T06:00:10",
+      "content": "Study shows animals hear very high frequencies, making it possible to design a deterrent to cut deathsHedgehogs have been discovered to hear high-frequency ultrasound, raising hopes that they could..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "What is Collective Bargaining? Why It’s Central to Labour Justice",
+      "description": "Collective bargaining is important for workers’ safety and wellbeing, particularly in the garment supply chain.",
+      "url": "https://goodonyou.eco/what-is-collective-bargaining/",
+      "publishedAt": "2026-03-11T01:31:25",
+      "content": "Collective bargaining is important for workers’ safety and wellbeing, particularly in the garment supply chain."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘My lovely distraction’: live stream of kākāpō – world’s fattest parrot – and her chicks captivates New Zealand",
+      "description": "More than 100,000 people have tuned in to watch ‘kākāpō cam’, which captures a rare flightless bird sleeping, tidying her nest and fighting off intrudersOn an island in New Zealand’s remote south ,...",
+      "url": "https://www.theguardian.com/world/2026/mar/11/kakapo-cam-live-stream-parrot-new-zealand",
+      "publishedAt": "2026-03-11T01:03:28",
+      "content": "More than 100,000 people have tuned in to watch ‘kākāpō cam’, which captures a rare flightless bird sleeping, tidying her nest and fighting off intrudersOn an island in New Zealand’s remote south ,..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Secret of hedgehog hearing discovered at far beyond human range",
+      "description": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear",
+      "url": "https://www.bbc.com/news/articles/c8d52n0dnzro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-11T00:24:19",
+      "content": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Following Months of Drought, Floods in Kenya Kill More Than 40 People",
+      "description": "After months of intense drought conditions, Kenya was inundated by rain late last week, triggering severe flooding that killed more than 40 people.",
+      "url": "https://insideclimatenews.org/news/10032026/todays-climate-kenya-floods-climate-whiplash/",
+      "publishedAt": "2026-03-10T20:50:56",
+      "content": "After months of intense drought conditions, Kenya was inundated by rain late last week, triggering severe flooding that killed more than 40 people."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Why air strikes on Tehran oil facilities are causing black rain",
+      "description": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
+      "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-10T19:39:58",
+      "content": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -375,28 +386,6 @@
       "url": "https://goodonyou.eco/a-fashion-trend-defining-the-2020s-tech-billionaires-crowding-the-culture/",
       "publishedAt": "2026-03-09T01:51:19",
       "content": "What does luxury fashion’s platforming of tech billionaires signal about the industry? Certainly not sustainability."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "States Blast Federal Playbook of Potential Colorado River Options",
-      "description": "The sluggish Colorado River negotiations have entered a new phase: Long and fiery letter writing.",
-      "url": "https://insideclimatenews.org/news/09032026/states-blast-federal-playbook-of-potential-colorado-river-options/",
-      "publishedAt": "2026-03-09T19:07:52",
-      "content": "The sluggish Colorado River negotiations have entered a new phase: Long and fiery letter writing."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Help a toad across the road – and five more ways to save these endangered amphibians",
-      "description": "Britain’s toads have begun their spring migration, putting them at even greater risk than usual.",
-      "url": "https://www.theguardian.com/environment/2026/mar/09/help-a-toad-across-the-road-and-five-more-ways-to-save-these-endangered-amphibians",
-      "publishedAt": "2026-03-09T14:55:28",
-      "content": "Britain’s toads have begun their spring migration, putting them at even greater risk than usual."
     },
     {
       "source": {
