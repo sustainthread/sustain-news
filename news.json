@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
@@ -12,17 +12,6 @@
       "url": "https://www.esgtoday.com/90-of-companies-no-longer-in-csrd-scope-plan-to-maintain-expand-sustainability-reporting-survey/?utm_source=rss&utm_medium=rss&utm_campaign=90-of-companies-no-longer-in-csrd-scope-plan-to-maintain-expand-sustainability-reporting-survey",
       "publishedAt": "2026-03-12T11:39:16",
       "content": "The vast majority of companies that have been removed from the scope of the EU’s"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Reaching net zero by 2050 ‘cheaper for UK than one fossil fuel crisis’",
-      "description": "Climate change committee finds move to renewable energy would also bring health, economic and security benefitsAchieving the UK’s net zero target by 2050 will cost less than a single oil shock and ...",
-      "url": "https://www.theguardian.com/environment/2026/mar/11/reaching-net-zero-by-2050-cheaper-for-uk-than-one-fossil-fuel-crisis",
-      "publishedAt": "2026-03-11T06:00:11",
-      "content": "Climate change committee finds move to renewable energy would also bring health, economic and security benefitsAchieving the UK’s net zero target by 2050 will cost less than a single oil shock and ..."
     },
     {
       "source": {
@@ -48,6 +37,28 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The environmental cost of datacentres is rising. Is it time to quit AI?",
+      "description": "As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?Change by degrees offers life hacks and sustainable living tips each Saturd...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/13/ai-datacentres-environmental-impacts",
+      "publishedAt": "2026-03-13T23:00:02",
+      "content": "As the QuitGPT movement gains momentum, should people concerned about the environmental impacts of AI consider opting out?Change by degrees offers life hacks and sustainable living tips each Saturd..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "3G pitch given approval despite pollution fears",
+      "description": "A charity is worried about microplastics but a council says the plans follow environmental guidance.",
+      "url": "https://www.bbc.com/news/articles/cvgv403y6rno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-13T13:46:22",
+      "content": "A charity is worried about microplastics but a council says the plans follow environmental guidance."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -59,6 +70,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Octopus Energy Generation Signs $60 Million Carbon Removal Deal with Nature-Based Solutions Provider Cultivo",
+      "description": "Renewable energy investor Octopus Energy Generation announced the expansion of its carbon removal partnership with",
+      "url": "https://www.esgtoday.com/octopus-energy-generation-signs-60-million-carbon-removal-deal-with-nature-based-solutions-provider-cultivo/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-energy-generation-signs-60-million-carbon-removal-deal-with-nature-based-solutions-provider-cultivo",
+      "publishedAt": "2026-03-13T13:22:28",
+      "content": "Renewable energy investor Octopus Energy Generation announced the expansion of its carbon removal partnership with"
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -67,6 +89,28 @@
       "url": "https://www.nytimes.com/2026/03/11/climate/iran-war-oil-clean-energy-coal.html",
       "publishedAt": "2026-03-12T17:37:04",
       "content": "The oil crisis in the Middle East could spur countries to invest in wind, solar and otherrenewables. It could also spike reliance on coal, a cheap and polluting fossil fuel."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "AIRMO Raises €5 Million to Detect Greenhouse Gas Emissions from Space",
+      "description": "Space tech startup AIRMO announced that it has raised €5 million in a seed funding",
+      "url": "https://www.esgtoday.com/airmo-raises-e5-million-to-monitor-greenhouse-gas-emissions-from-space/?utm_source=rss&utm_medium=rss&utm_campaign=airmo-raises-e5-million-to-monitor-greenhouse-gas-emissions-from-space",
+      "publishedAt": "2026-03-13T10:19:38",
+      "content": "Space tech startup AIRMO announced that it has raised €5 million in a seed funding"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Bureau Veritas Acquires Two Building and Infrastructure Sustainability Consultancies",
+      "description": "France-based testing, inspection and certification provider Bureau Veritas announced the acquisition of two sustainability consulting",
+      "url": "https://www.esgtoday.com/bureau-veritas-acquires-two-building-and-infrastructure-sustainability-consultancies/?utm_source=rss&utm_medium=rss&utm_campaign=bureau-veritas-acquires-two-building-and-infrastructure-sustainability-consultancies",
+      "publishedAt": "2026-03-13T08:44:42",
+      "content": "France-based testing, inspection and certification provider Bureau Veritas announced the acquisition of two sustainability consulting"
     },
     {
       "source": {
@@ -89,6 +133,17 @@
       "url": "https://www.esgtoday.com/ecovadis-watershed-partner-to-provide-scope-3-data-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-watershed-partner-to-provide-scope-3-data-solutions",
       "publishedAt": "2026-03-12T14:51:14",
       "content": "Business sustainability ratings and solutions provider EcoVadis and climate solutions provider Watershed announced today a"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Brian Joondeph’s Appointment to Air Pollution Advisory Board Draws Pushback",
+      "description": "Brian Joondeph, a Colorado-based ophthalmologist and political commentator, has not published peer-reviewed research on air pollution science.",
+      "url": "https://www.nytimes.com/2026/03/12/climate/epa-science-adviser-brian-joondeph.html",
+      "publishedAt": "2026-03-13T17:00:36",
+      "content": "Brian Joondeph, a Colorado-based ophthalmologist and political commentator, has not published peer-reviewed research on air pollution science."
     },
     {
       "source": {
@@ -125,69 +180,179 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Inside Climate News"
       },
-      "author": "New York Times",
-      "title": "Brian Joondeph’s Appointment to Air Pollution Advisory Board Draws Pushback",
-      "description": "Brian Joondeph, a Colorado-based ophthalmologist and political commentator, has not published peer-reviewed research on air pollution science.",
-      "url": "https://www.nytimes.com/2026/03/12/climate/epa-science-adviser-brian-joondeph.html",
-      "publishedAt": "2026-03-12T18:59:09",
-      "content": "Brian Joondeph, a Colorado-based ophthalmologist and political commentator, has not published peer-reviewed research on air pollution science."
+      "author": "Inside Climate News",
+      "title": "Pennsylvania Publishes Long-Awaited Study on Radioactivity in Landfill Runoff",
+      "description": "A decade ago, Pennsylvania’s Department of Environmental Protection published a study on radioactivity in the oil and gas industry, motivated by fears that increasing volumes of toxic fracking wast...",
+      "url": "https://insideclimatenews.org/news/13032026/pennsylvania-radioactivity-landfill-runoff-study/",
+      "publishedAt": "2026-03-14T00:30:04",
+      "content": "A decade ago, Pennsylvania’s Department of Environmental Protection published a study on radioactivity in the oil and gas industry, motivated by fears that increasing volumes of toxic fracking wast..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "London, San Francisco and Beijing achieve ‘remarkable reductions’ in air pollution",
-      "description": "Cycle lanes, electric cars and other interventions have helped 19 global cities slash levels of pollutants by more than 20% London, San Francisco and Beijing are among 19 global cities that have ac...",
-      "url": "https://www.theguardian.com/environment/2026/mar/12/london-san-francisco-and-beijing-achieve-remarkable-reductions-in-air-pollution",
-      "publishedAt": "2026-03-12T09:00:13",
-      "content": "Cycle lanes, electric cars and other interventions have helped 19 global cities slash levels of pollutants by more than 20% London, San Francisco and Beijing are among 19 global cities that have ac..."
+      "author": "Triple Pundit",
+      "title": "Plexes, Pods and Micro-Centers: New Family Childcare Models Are Bringing Business and Families Back to Main Street",
+      "description": "By converting homes and small-scale commercial spaces into turnkey sites for family childcare providers, small towns across the country are creating new childcare slots, good jobs, and communities ...",
+      "url": "https://triplepundit.com/2026/affordable-childcare-model-flex-plex-rural-communities/",
+      "publishedAt": "2026-03-13T13:00:00",
+      "content": "By converting homes and small-scale commercial spaces into turnkey sites for family childcare providers, small towns across the country are creating new childcare slots, good jobs, and communities ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "International WELL Building Institute (IWBI) To Give Evidence on Indoor Air Quality at Parliament of New South Wales (NSW Parliament)",
+      "description": "Following submission to a recent inquiry from NSW Parliament, Jack Noonan, Head of Asia Pacific, Senior Vice President, will represent IWBI to present evidence to the NSW Upper House Portfolio Comm...",
+      "url": "https://csrwire.com/press-release/international-well-building-institute-iwbi-give-evidence-indoor-air-quality-parliament-new/",
+      "publishedAt": "2026-03-13T10:40:00",
+      "content": "Following submission to a recent inquiry from NSW Parliament, Jack Noonan, Head of Asia Pacific, Senior Vice President, will represent IWBI to present evidence to the NSW Upper House Portfolio Comm..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Meet 9 More Sustainable Brands Making ‘Petite’ and Short Clothes",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-brands-for-short-people/",
+      "publishedAt": "2026-03-10T02:00:35",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "California Water Board Will Soon Release a New Rule to Limit Water Pollution From Dairies in the State",
-      "description": "California dairies are out of balance.",
-      "url": "https://insideclimatenews.org/news/12032026/california-water-board-dairy-waste-pollution-rule/",
-      "publishedAt": "2026-03-12T09:00:00",
-      "content": "California dairies are out of balance."
+      "title": "Summer in March? Unusual Heat Wave Descends on Already Parched Western U.S.",
+      "description": "An early-season heat wave is descending across the Western United States, likely to bring record-shattering temperatures to much of the region.",
+      "url": "https://insideclimatenews.org/news/13032026/march-heat-wave-western-united-states/",
+      "publishedAt": "2026-03-13T22:30:30",
+      "content": "An early-season heat wave is descending across the Western United States, likely to bring record-shattering temperatures to much of the region."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Sourcing Journal"
       },
-      "author": "ESG Today",
-      "title": "HSBC’s Sustainable Finance Activity Tops $100 Billion in 2025",
-      "description": "HSBC announced that it mobilized more than $102 billion in sustainable finance and investment in",
-      "url": "https://www.esgtoday.com/hsbc-sustainable-finance-activity-tops-100-billion-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-sustainable-finance-activity-tops-100-billion-in-2025",
-      "publishedAt": "2026-03-11T14:40:42",
-      "content": "HSBC announced that it mobilized more than $102 billion in sustainable finance and investment in"
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: Accelerating Circularity Names CEO, Oritain Hires CBP Exec",
+      "description": "Oritain taps former CBP assistant commissioner Dave Fluty for forensic science while Accelerating Circularity names board treasurer Edd Denes as CEO.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-accelerating-circularity-names-ceo-oritain-1234817011/",
+      "publishedAt": "2026-03-13T20:00:00",
+      "content": "Oritain taps former CBP assistant commissioner Dave Fluty for forensic science while Accelerating Circularity names board treasurer Edd Denes as CEO."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Sourcing Journal"
       },
-      "author": "BBC",
-      "title": "Why Namibia's green energy dream could be a red flag for penguins",
-      "description": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility.",
-      "url": "https://www.bbc.com/news/articles/czj1lkvpzxyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-12T00:04:52",
-      "content": "A near pristine desert and coastal wilderness in Namibia could soon host a huge hydrogen production facility."
+      "author": "Sourcing Journal",
+      "title": "Paradise Textiles to Build $102 Million Facility in Egypt",
+      "description": "Paradise Textiles will bring around 1,200 jobs to the Amreya Public Free Zone in Alexandria.",
+      "url": "https://sourcingjournal.com/topics/sourcing/paradise-textiles-build-102-million-facility-egypt-1234817007/",
+      "publishedAt": "2026-03-13T18:06:18",
+      "content": "Paradise Textiles will bring around 1,200 jobs to the Amreya Public Free Zone in Alexandria."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Ksubi Introduces Premium Leisurewear for Men",
+      "description": "The 4x4 collection emphasizes premium leisurewear and heavyweight fleeces.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/ksubi-introduces-4x4-collection-leisurewear-four-cross-logo-1234816987/",
+      "publishedAt": "2026-03-13T18:02:58",
+      "content": "The 4x4 collection emphasizes premium leisurewear and heavyweight fleeces."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Odds Rise That El Niño Will Soon Bring Weather Extremes",
-      "description": "The climate pattern known for intense heat, floods and drought is likely to develop this summer, raising questions about disaster preparedness.",
-      "url": "https://www.nytimes.com/2026/03/12/climate/el-nino-weather-extremes.html",
-      "publishedAt": "2026-03-12T17:34:12",
-      "content": "The climate pattern known for intense heat, floods and drought is likely to develop this summer, raising questions about disaster preparedness."
+      "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
+      "description": "The gas, ethylene oxide, plays a crucial role in sterilizing medical devices. But long-term exposure is linked to several types of cancer and other ailments.",
+      "url": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
+      "publishedAt": "2026-03-13T17:32:46",
+      "content": "The gas, ethylene oxide, plays a crucial role in sterilizing medical devices. But long-term exposure is linked to several types of cancer and other ailments."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Oil giant forced to pay £6m after major spill",
+      "description": "A major incident was declared when a leak occurred at a pipeline operated by gas company Perenco.",
+      "url": "https://www.bbc.com/news/articles/c204v5e4v46o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-13T16:37:42",
+      "content": "A major incident was declared when a leak occurred at a pipeline operated by gas company Perenco."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Gen Z Shopping Habits: Young Consumers Still Love Brick-and-Mortar Stores",
+      "description": "YouGov data suggests that this young cohort is more inclined to spend time in stores.",
+      "url": "https://sourcingjournal.com/denim/denim-business/gen-z-shopping-habits-yougov-love-brick-and-mortar-stores-1234816024/",
+      "publishedAt": "2026-03-13T15:33:48",
+      "content": "YouGov data suggests that this young cohort is more inclined to spend time in stores."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Who are the key figures in the sewage crisis, and where are they now?",
+      "description": "With anger stoked by Channel 4’s drama Dirty Business, we look at what has happened to some of the main playersWater companies have been in the public eye for the wrong reasons again recently. Sout...",
+      "url": "https://www.theguardian.com/environment/2026/mar/13/who-are-the-key-figures-in-the-sewage-crisis-and-where-are-they-now",
+      "publishedAt": "2026-03-13T12:00:50",
+      "content": "With anger stoked by Channel 4’s drama Dirty Business, we look at what has happened to some of the main playersWater companies have been in the public eye for the wrong reasons again recently. Sout..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weather tracker: Southern France under yellow alert after severe thunderstorms",
+      "description": "US also experiences severe convective storms, while record-breaking heat recorded in parts of South AfricaOn Monday 9 March, severe thunderstorms affected parts of southern France, with several dep...",
+      "url": "https://www.theguardian.com/news/2026/mar/13/weather-tracker-southern-france-under-yellow-alert-after-severe-thunderstorms",
+      "publishedAt": "2026-03-13T10:26:44",
+      "content": "US also experiences severe convective storms, while record-breaking heat recorded in parts of South AfricaOn Monday 9 March, severe thunderstorms affected parts of southern France, with several dep..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Palisades Fire Recovery Tests L.A.’s Ability to Invest in Resilience",
+      "description": "Palisades fire victims want to raise money for disaster hardening. Their idea could be a model — if it can get past L.A.’s most vexing housing problems.",
+      "url": "https://www.nytimes.com/2026/03/13/climate/palisades-fire-resilience-district-rebuild.html",
+      "publishedAt": "2026-03-13T09:01:05",
+      "content": "Palisades fire victims want to raise money for disaster hardening. Their idea could be a model — if it can get past L.A.’s most vexing housing problems."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Massive boost of serotonin!’: How a dose of nature is treating mental illness",
+      "description": "A project in London is helping hundreds of people, providing a genuine alternative to traditional treatments“What you’ve got there from the sun on your face is a massive boost of serotonin!” says A...",
+      "url": "https://www.theguardian.com/environment/2026/mar/13/it-has-changed-my-life-how-a-dose-of-nature-is-treating-mental-illness",
+      "publishedAt": "2026-03-13T09:00:44",
+      "content": "A project in London is helping hundreds of people, providing a genuine alternative to traditional treatments“What you’ve got there from the sun on your face is a massive boost of serotonin!” says A..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "‘We Live in One Ocean’: Native Hawaiian Activist Calls for Inclusion in Deep-Sea Mining Decisions",
+      "description": "This week, delegates from around the world gathered at the International Seabed Authority’s headquarters in Kingston, Jamaica, to continue ongoing negotiations over a long-debated “mining code”—a s...",
+      "url": "https://insideclimatenews.org/news/13032026/native-hawaiian-activist-deep-sea-mining-regulations/",
+      "publishedAt": "2026-03-13T08:55:00",
+      "content": "This week, delegates from around the world gathered at the International Seabed Authority’s headquarters in Kingston, Jamaica, to continue ongoing negotiations over a long-debated “mining code”—a s..."
     },
     {
       "source": {
@@ -199,17 +364,6 @@
       "url": "https://csrwire.com/press-release/ai-and-iot-innovations-are-transforming-accessibility-opportunities/",
       "publishedAt": "2026-03-12T15:50:00",
       "content": "AI-enabled smart home and accessibility solutions designed to address the unique challenges faced by individuals with disabilities were demonstrated for the first time by global home appliance inno..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "From Technology to Outcomes: What Really Matters in Modern Supply Chain Management",
-      "description": "Guest post by: Katie Ferrier, Regional Director, Northern Europe & MEA, Achilles Katie Ferrier talks to",
-      "url": "https://www.esgtoday.com/from-technology-to-outcomes-what-really-matters-in-modern-supply-chain-management/?utm_source=rss&utm_medium=rss&utm_campaign=from-technology-to-outcomes-what-really-matters-in-modern-supply-chain-management",
-      "publishedAt": "2026-03-12T09:01:28",
-      "content": "Guest post by: Katie Ferrier, Regional Director, Northern Europe & MEA, Achilles Katie Ferrier talks to"
     },
     {
       "source": {
@@ -232,138 +386,6 @@
       "url": "https://csrwire.com/press-release/ericsson-and-mastercard-enhance-global-digital-money-movement-and-accelerate-digital-financial/",
       "publishedAt": "2026-03-12T09:00:00",
       "content": "Ericsson and Mastercard today announce a collaboration to reshape how money moves across the world."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Emerald Raises €100 Million for Water Solutions Startup Fund",
-      "description": "Industrial sustainability-focused venture capital firm Emerald Technology Ventures announced that it has raised €100 million",
-      "url": "https://www.esgtoday.com/emerald-raises-e100-million-for-water-solutions-startup-fund/?utm_source=rss&utm_medium=rss&utm_campaign=emerald-raises-e100-million-for-water-solutions-startup-fund",
-      "publishedAt": "2026-03-11T12:15:23",
-      "content": "Industrial sustainability-focused venture capital firm Emerald Technology Ventures announced that it has raised €100 million"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Meet 9 More Sustainable Brands Making ‘Petite’ and Short Clothes",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-brands-for-short-people/",
-      "publishedAt": "2026-03-10T02:00:35",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "No drama, just wet feet: how the joy of puddles sums up UK weather",
-      "description": "We do not generally get epic tornadoes, sandstorms or avalanches, but we may get splashed by a bus on the roadPuddles, small and temporary pools of water typically formed by rainfall, hold a specia...",
-      "url": "https://www.theguardian.com/news/2026/mar/13/weatherwatch-puddles-uk-weather",
-      "publishedAt": "2026-03-13T06:00:42",
-      "content": "We do not generally get epic tornadoes, sandstorms or avalanches, but we may get splashed by a bus on the roadPuddles, small and temporary pools of water typically formed by rainfall, hold a specia..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Virginia Democrats Fail to Reach Compromise on Data Center Tax Exemption",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/12032026/virginia-democrats-fail-to-reach-compromise-on-data-center-tax-exemption/",
-      "publishedAt": "2026-03-13T02:16:46",
-      "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Alabama Poised to Drastically Overhaul Utility Regulation. Will It Lower Electric Bills?",
-      "description": "MONTGOMERY, Ala.",
-      "url": "https://insideclimatenews.org/news/12032026/alabama-public-service-commission-utility-regulation-electric-bills/",
-      "publishedAt": "2026-03-13T00:37:17",
-      "content": "MONTGOMERY, Ala."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Despite ‘Economic Bullying,’ Xinjiang’s Textile Industry is Growing",
-      "description": "Yarn output rose more than 20 percent and 46,800 new jobs were created in the past year alone, an official from the northwestern province said.",
-      "url": "https://sourcingjournal.com/topics/labor/xinjiang-cotton-growing-uflpa-uyghur-1234816988/",
-      "publishedAt": "2026-03-12T21:21:29",
-      "content": "Yarn output rose more than 20 percent and 46,800 new jobs were created in the past year alone, an official from the northwestern province said."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Artemis II: Nasa targets early April for Moon mission",
-      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch.",
-      "url": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-12T21:21:11",
-      "content": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Ksubi Reframes the New Klassic with 4×4",
-      "description": "First introduced in 1999, denim brand Ksubi’s four-cross logo sharpens in the Australian streetwear brand’s leisurely 4x4 collection.",
-      "url": "https://sourcingjournal.com/gallery/denim/denim-brands/ksubi-reframes-the-klassic-4x4-1234816968/",
-      "publishedAt": "2026-03-12T20:32:16",
-      "content": "First introduced in 1999, denim brand Ksubi’s four-cross logo sharpens in the Australian streetwear brand’s leisurely 4x4 collection."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Challenge the Fabric Says “Oui” to Paris for Sixth Edition",
-      "description": "The MMCF-focused gathering will hit the French capital this May as its value chain players push collaboration across the next-gen materials ecosystem.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/challenge-the-fabric-says-oui-to-paris-1234816959/",
-      "publishedAt": "2026-03-12T20:10:54",
-      "content": "The MMCF-focused gathering will hit the French capital this May as its value chain players push collaboration across the next-gen materials ecosystem."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Material World: Italian Innovation Incoming",
-      "description": "Avavav and OnceMore’s joint initiative showcased at Milan Fashion Week while Italian biomaterials developer Vegea celebrates 10 years of GrapeSkin.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/material-world-italian-innovation-incoming-vegea-1234816794/",
-      "publishedAt": "2026-03-12T18:00:00",
-      "content": "Avavav and OnceMore’s joint initiative showcased at Milan Fashion Week while Italian biomaterials developer Vegea celebrates 10 years of GrapeSkin."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Grounding Colors Are Trending for Spring/Summer 2028",
-      "description": "Future Snoops unveiled three color shifts set to make an emotional and creative impact.",
-      "url": "https://sourcingjournal.com/topics/fashion-trends/grounding-colors-trends-spring-summer-2028-future-snoops-1234816638/",
-      "publishedAt": "2026-03-12T16:30:00",
-      "content": "Future Snoops unveiled three color shifts set to make an emotional and creative impact."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Can Hydropower Ride the Wave of the Energy Boom?",
-      "description": "The International Energy Agency’s executive director has called hydropower a “forgotten giant,” and has urged governments to do more to remember it.",
-      "url": "https://insideclimatenews.org/news/12032026/inside-clean-energy-hydropower-potential/",
-      "publishedAt": "2026-03-12T13:00:00",
-      "content": "The International Energy Agency’s executive director has called hydropower a “forgotten giant,” and has urged governments to do more to remember it."
     },
     {
       "source": {
@@ -400,47 +422,47 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "LA Kings Celebrate Read Across America With School and Hospital Visits Across Los Angeles",
-      "description": "AEG’s LA Kings brought the joy of reading to students and patients across Los Angeles on March 4, 2026 in celebration of Read Across America.",
-      "url": "https://csrwire.com/press-release/la-kings-celebrate-read-across-america-school-and-hospital-visits-across-los-angeles/",
-      "publishedAt": "2026-03-10T16:10:00",
-      "content": "AEG’s LA Kings brought the joy of reading to students and patients across Los Angeles on March 4, 2026 in celebration of Read Across America."
+      "author": "The Guardian",
+      "title": "Mining’s toxic timebomb: dams full of poisonous waste are dotted around the world. What happens when they burst?",
+      "description": "While tailings dams are meant to last for ever, extreme weather events are making many unstable – with devastating consequences for nature and humansAs soon as the barrier broke, a flood of poison ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/13/minings-toxic-timebomb-dams-full-of-poisonous-waste-are-dotted-around-the-world-what-happens-when-they-burst-aoe",
+      "publishedAt": "2026-03-13T05:00:41",
+      "content": "While tailings dams are meant to last for ever, extreme weather events are making many unstable – with devastating consequences for nature and humansAs soon as the barrier broke, a flood of poison ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Virginia Democrats Fail to Reach Compromise on Data Center Tax Exemption",
+      "description": "RICHMOND, Va.",
+      "url": "https://insideclimatenews.org/news/12032026/virginia-democrats-fail-to-reach-compromise-on-data-center-tax-exemption/",
+      "publishedAt": "2026-03-13T02:16:46",
+      "content": "RICHMOND, Va."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama Poised to Drastically Overhaul Utility Regulation. Will It Lower Electric Bills?",
+      "description": "MONTGOMERY, Ala.",
+      "url": "https://insideclimatenews.org/news/12032026/alabama-public-service-commission-utility-regulation-electric-bills/",
+      "publishedAt": "2026-03-13T00:37:17",
+      "content": "MONTGOMERY, Ala."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Greedy beaver caught twice in monitoring trap",
-      "description": "Rangers in Northumberland say the beavers are doing well after they were caught and checked over.",
-      "url": "https://www.bbc.com/news/articles/cvgvj84ggv7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-12T06:11:16",
-      "content": "Rangers in Northumberland say the beavers are doing well after they were caught and checked over."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Primroses turn a churchyard buttery yellow, heralding spring | Sarah Lambert",
-      "description": "Bainton, Cambridgeshire: Villagers gather each year on Palm Sunday to celebrate these scented flowersBeside the lichen-encrusted churchyard wall, a robin sings from the dark heart of a yew, its cle...",
-      "url": "https://www.theguardian.com/environment/2026/mar/12/country-diary-primroses-turn-a-churchyard-buttery-yellow-heralding-spring",
-      "publishedAt": "2026-03-12T05:30:09",
-      "content": "Bainton, Cambridgeshire: Villagers gather each year on Palm Sunday to celebrate these scented flowersBeside the lichen-encrusted churchyard wall, a robin sings from the dark heart of a yew, its cle..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘The last frontier’: how red globules of nickel ore are suffocating an island’s precious wilderness",
-      "description": "In the race to meet the demands of the energy transition, biodiversity hotspots such as Palawan in the Philippines are being increasingly mined for critical elementsHow nature is being sacrificed f...",
-      "url": "https://www.theguardian.com/environment/2026/mar/12/clean-energy-demands-philippines-island-nickel-palawan-mining-environment-aoe",
-      "publishedAt": "2026-03-12T05:00:12",
-      "content": "In the race to meet the demands of the energy transition, biodiversity hotspots such as Palawan in the Philippines are being increasingly mined for critical elementsHow nature is being sacrificed f..."
+      "title": "Artemis II: Nasa targets early April for Moon mission",
+      "description": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch.",
+      "url": "https://www.bbc.com/news/articles/c4g8qp42rq6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-12T21:21:11",
+      "content": "Nasa says technical problems that have delayed the rocket are fixed and it is ready for launch."
     },
     {
       "source": {
@@ -466,94 +488,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Severe water stress’: why desalination plants are the Gulf’s greatest weakness",
-      "description": "Recent attack on plants led to fears of escalating strikes, but Iran knows drought has left it equally vulnerableMiddle East crisis – live updatesIn 1983, the CIA determined that the most crucial c...",
-      "url": "https://www.theguardian.com/world/2026/mar/11/severe-water-stress-why-desalination-plants-are-gulf-greatest-weakness",
-      "publishedAt": "2026-03-11T12:01:01",
-      "content": "Recent attack on plants led to fears of escalating strikes, but Iran knows drought has left it equally vulnerableMiddle East crisis – live updatesIn 1983, the CIA determined that the most crucial c..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘When I leave, part of me stays’: why Scarborough’s youth won’t turn their backs on the seaside town they love",
-      "description": "Hemmed in by the sea and poor transport links, many young people from the Yorkshire town feel trapped, but there is also a pride in the areaIt’s the morning after a wet and stormy day in the Yorksh...",
-      "url": "https://www.theguardian.com/environment/2026/mar/11/against-the-tide-scarborough-eastfield-youth-town-love-opportunity-transport-seaside",
-      "publishedAt": "2026-03-11T10:00:01",
-      "content": "Hemmed in by the sea and poor transport links, many young people from the Yorkshire town feel trapped, but there is also a pride in the areaIt’s the morning after a wet and stormy day in the Yorksh..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Slowly, Slowly, ‘Darwin’s Finches of the Snail World’ Return From Near Extinction",
-      "description": "Partula snails all but vanished from Polynesia after the arrival of a carnivorous foreign snail. But a global alliance of zoos has worked to bring them back.",
-      "url": "https://www.nytimes.com/2026/03/11/science/conservation-snails-partula.html",
-      "publishedAt": "2026-03-11T09:02:03",
-      "content": "Partula snails all but vanished from Polynesia after the arrival of a carnivorous foreign snail. But a global alliance of zoos has worked to bring them back."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How nature is being sacrificed for mining across the world – a data visualisation",
-      "description": "Analysis has found more than 3,000 mining operations within the most naturally precious areas of the planet, a much bigger footprint than previously thoughtWeda Bay is just one example of a global ...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/mar/11/how-mining-threatens-the-worlds-biodiversity-aoe",
-      "publishedAt": "2026-03-11T07:00:12",
-      "content": "Analysis has found more than 3,000 mining operations within the most naturally precious areas of the planet, a much bigger footprint than previously thoughtWeda Bay is just one example of a global ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Toxic pet flea treatment chemicals found at 'damaging' levels in rivers",
-      "description": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK.",
-      "url": "https://www.bbc.com/news/articles/cze0j2dgkx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-11T06:24:04",
-      "content": "Scientists have found further evidence that pet flea treatments are widespread in rivers across the UK."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "What is Collective Bargaining? Why It’s Central to Labour Justice",
-      "description": "Collective bargaining is important for workers’ safety and wellbeing, particularly in the garment supply chain.",
-      "url": "https://goodonyou.eco/what-is-collective-bargaining/",
-      "publishedAt": "2026-03-11T01:31:25",
-      "content": "Collective bargaining is important for workers’ safety and wellbeing, particularly in the garment supply chain."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Secret of hedgehog hearing discovered at far beyond human range",
-      "description": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear",
-      "url": "https://www.bbc.com/news/articles/c8d52n0dnzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-11T00:24:19",
-      "content": "Researchers played a sountrack to hedgehogs to identify the frequency of sounds they can hear"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why air strikes on Tehran oil facilities are causing black rain",
-      "description": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month.",
-      "url": "https://www.bbc.com/news/articles/cqxd1nv3re2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-10T19:39:58",
-      "content": "Air strikes have damaged at least four oil facilities since US-Israeli attacks on Iran began last month."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -562,17 +496,6 @@
       "url": "https://goodonyou.eco/a-fashion-trend-defining-the-2020s-tech-billionaires-crowding-the-culture/",
       "publishedAt": "2026-03-09T01:51:19",
       "content": "What does luxury fashion’s platforming of tech billionaires signal about the industry? Certainly not sustainability."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "AI Helps Protect Orcas from Noisy Ships in Washington’s Puget Sound",
-      "description": "Endangered orcas are struggling to survive in the Puget Sound.",
-      "url": "https://triplepundit.com/2026/artificial-intelligence-orca-conservation-pudget-sound-whalespotter/",
-      "publishedAt": "2026-03-06T18:34:29",
-      "content": "Endangered orcas are struggling to survive in the Puget Sound."
     }
   ]
 }
