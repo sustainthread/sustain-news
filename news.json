@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 36,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "The Ratings Overhaul that Could Add to the Sustainability Reporting Burden",
+      "description": "Guest post by: Sarah Walkley, Senior Sustainability Writer, Context Europe Environmental, social and governance (ESG)",
+      "url": "https://www.esgtoday.com/the-ratings-overhaul-that-could-add-to-the-sustainability-reporting-burden/?utm_source=rss&utm_medium=rss&utm_campaign=the-ratings-overhaul-that-could-add-to-the-sustainability-reporting-burden",
+      "publishedAt": "2026-03-16T09:46:30",
+      "content": "Guest post by: Sarah Walkley, Senior Sustainability Writer, Context Europe Environmental, social and governance (ESG)"
+    },
     {
       "source": {
         "name": "CSRWire"
@@ -15,25 +26,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This March 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-03-10T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Iran Shocks Could Spur a Shift to Clean Energy — But Also to Coal",
-      "description": "The oil crisis in the Middle East could spur countries to invest in wind, solar and other renewables. It could also spike reliance on coal, a cheap and polluting fossil fuel.",
-      "url": "https://www.nytimes.com/2026/03/11/climate/iran-war-oil-clean-energy-coal.html",
-      "publishedAt": "2026-03-15T16:12:47",
-      "content": "The oil crisis in the Middle East could spur countries to invest in wind, solar and other renewables. It could also spike reliance on coal, a cheap and polluting fossil fuel."
+      "author": "ESG Today",
+      "title": "ReNew Raises $95 Million to Expand Commercial & Industrial Decarbonization Platform",
+      "description": "India-based decarbonization solutions provider ReNew Energy announced today that its commercial and industrial-focused platform ReNew",
+      "url": "https://www.esgtoday.com/renew-raises-95-million-to-expand-commercial-industrial-decarbonization-platform/?utm_source=rss&utm_medium=rss&utm_campaign=renew-raises-95-million-to-expand-commercial-industrial-decarbonization-platform",
+      "publishedAt": "2026-03-16T15:33:52",
+      "content": "India-based decarbonization solutions provider ReNew Energy announced today that its commercial and industrial-focused platform ReNew"
     },
     {
       "source": {
@@ -48,14 +48,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "EIB to Provide More than €75 Billion Clean Energy Financing Over Next 3 Years",
-      "description": "The European Investment Bank (EIB) Group will deliver more than €75 billion (USD$87 billion) of",
-      "url": "https://www.esgtoday.com/eib-to-provide-more-than-e75-billion-clean-energy-financing-over-next-3-years/?utm_source=rss&utm_medium=rss&utm_campaign=eib-to-provide-more-than-e75-billion-clean-energy-financing-over-next-3-years",
-      "publishedAt": "2026-03-12T12:27:40",
-      "content": "The European Investment Bank (EIB) Group will deliver more than €75 billion (USD$87 billion) of"
+      "author": "CSRWire",
+      "title": "Entergy Marks 25 Years of Giving Through Environmental Initiatives Fund",
+      "description": "Entergy recently invested $1 million of shareholder funds in 10 local environmental partners through the company’s Environmental Initiatives Fund.",
+      "url": "https://csrwire.com/press-release/entergy-marks-25-years-giving-through-environmental-initiatives-fund/",
+      "publishedAt": "2026-03-16T16:30:00",
+      "content": "Entergy recently invested $1 million of shareholder funds in 10 local environmental partners through the company’s Environmental Initiatives Fund."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Administration to Convene ‘God Squad’ With Power to Override Environmental Law",
+      "description": "The meeting, planned for this month, will focus on oil and gas drilling in the Gulf of Mexico.",
+      "url": "https://www.nytimes.com/2026/03/16/climate/god-squad-whales-gulf-oil.html",
+      "publishedAt": "2026-03-16T20:04:59",
+      "content": "The meeting, planned for this month, will focus on oil and gas drilling in the Gulf of Mexico."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Elusive nightjar birds making remarkable comeback, conservationists say",
+      "description": "An ecological survey has found 109 nightjar territories in the lowland heaths of east Hampshire.",
+      "url": "https://www.bbc.com/news/articles/c7952d4dwd8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-16T11:13:19",
+      "content": "An ecological survey has found 109 nightjar territories in the lowland heaths of east Hampshire."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Why green entrepreneurship is where India’s next jobs will come from",
+      "description": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change",
+      "url": "https://www.thehindu.com/education/careers/why-green-entrepreneurship-is-where-indias-next-jobs-will-come-from/article70730845.ece",
+      "publishedAt": "2026-03-14T08:43:09",
+      "content": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change"
     },
     {
       "source": {
@@ -70,6 +103,28 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Arevon Secures $920 Million for New California Energy Storage Project",
+      "description": "Renewable energy developer Arevon Energy announced that it has secured $920 million in financing for",
+      "url": "https://www.esgtoday.com/arevon-secures-920-million-for-new-california-energy-storage-project/?utm_source=rss&utm_medium=rss&utm_campaign=arevon-secures-920-million-for-new-california-energy-storage-project",
+      "publishedAt": "2026-03-12T16:36:52",
+      "content": "Renewable energy developer Arevon Energy announced that it has secured $920 million in financing for"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "20 More Sustainable Alternatives to Barbour’s Outdoorsy Gear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-to-barbour/",
+      "publishedAt": "2026-03-15T23:00:36",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -81,25 +136,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "Funding for green community initiatives",
-      "description": "Staffordshire Moorlands District Council says projects can receive up to £5.000.",
-      "url": "https://www.bbc.com/news/articles/cx2gvw1z2gwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-15T07:32:42",
-      "content": "Staffordshire Moorlands District Council says projects can receive up to £5.000."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Why green entrepreneurship is where India’s next jobs will come from",
-      "description": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change",
-      "url": "https://www.thehindu.com/education/careers/why-green-entrepreneurship-is-where-indias-next-jobs-will-come-from/article70730845.ece",
-      "publishedAt": "2026-03-14T08:43:09",
-      "content": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change"
+      "author": "The Guardian",
+      "title": "‘My ideas are a little revolutionary’: ecologist Suzanne Simard on intelligent forests, the climate and her critics",
+      "description": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal.",
+      "url": "https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics",
+      "publishedAt": "2026-03-14T09:00:14",
+      "content": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal."
     },
     {
       "source": {
@@ -125,80 +169,91 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Arevon Secures $920 Million for New California Energy Storage Project",
-      "description": "Renewable energy developer Arevon Energy announced that it has secured $920 million in financing for",
-      "url": "https://www.esgtoday.com/arevon-secures-920-million-for-new-california-energy-storage-project/?utm_source=rss&utm_medium=rss&utm_campaign=arevon-secures-920-million-for-new-california-energy-storage-project",
-      "publishedAt": "2026-03-12T16:36:52",
-      "content": "Renewable energy developer Arevon Energy announced that it has secured $920 million in financing for"
+      "author": "CSRWire",
+      "title": "Meeting Patients Where They Are: How Collaboration Built a Replicable Model for Community-Based Healthcare Delivery",
+      "description": "Through community-based and tech-enabled care, we’ve created a replicable model that improves chronic disease outcomes and rebuilds trust in healthcare. The remaining barrier is leadership commitment.",
+      "url": "https://csrwire.com/press-release/meeting-patients-where-they-are-how-collaboration-built-replicable-model-community-based/",
+      "publishedAt": "2026-03-16T16:00:00",
+      "content": "Through community-based and tech-enabled care, we’ve created a replicable model that improves chronic disease outcomes and rebuilds trust in healthcare. The remaining barrier is leadership commitment."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EcoVadis, Watershed Partner to Provide Scope 3 Data Solutions",
-      "description": "Business sustainability ratings and solutions provider EcoVadis and climate solutions provider Watershed announced today a",
-      "url": "https://www.esgtoday.com/ecovadis-watershed-partner-to-provide-scope-3-data-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-watershed-partner-to-provide-scope-3-data-solutions",
-      "publishedAt": "2026-03-12T14:51:14",
-      "content": "Business sustainability ratings and solutions provider EcoVadis and climate solutions provider Watershed announced today a"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘My ideas are a little revolutionary’: ecologist Suzanne Simard on intelligent forests, the climate and her critics",
-      "description": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal.",
-      "url": "https://www.theguardian.com/environment/2026/mar/14/my-ideas-are-a-little-revolutionary-ecologist-suzanne-simard-on-intelligent-forests-the-climate-and-her-critics",
-      "publishedAt": "2026-03-14T09:00:14",
-      "content": "Her research popularised the idea of the wood wide web, but the scientific backlash was brutal."
+      "title": "BNP Paribas AM Invests in Forest Restoration Developer Rainforest Builder",
+      "description": "Forest restoration company Rainforest Builder UK announced the closing of a Series A funding round",
+      "url": "https://www.esgtoday.com/bnp-paribas-am-invests-in-forest-restoration-developer-rainforest-builder/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-am-invests-in-forest-restoration-developer-rainforest-builder",
+      "publishedAt": "2026-03-16T13:04:57",
+      "content": "Forest restoration company Rainforest Builder UK announced the closing of a Series A funding round"
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Brian Joondeph’s Appointment to Air Pollution Advisory Board Draws Pushback",
-      "description": "Brian Joondeph, a Colorado-based ophthalmologist and political commentator, has not published peer-reviewed research on air pollution science.",
-      "url": "https://www.nytimes.com/2026/03/12/climate/epa-science-adviser-brian-joondeph.html",
-      "publishedAt": "2026-03-13T17:00:36",
-      "content": "Brian Joondeph, a Colorado-based ophthalmologist and political commentator, has not published peer-reviewed research on air pollution science."
+      "title": "What to Know About the Extreme Heat Forecast in Los Angeles, San Francisco and Phoenix",
+      "description": "Meteorologists are not mincing words in their forecasts for record-high temperatures in California and the desert Southwest.",
+      "url": "https://www.nytimes.com/2026/03/16/weather/la-sf-callifornia-heat-dome-phoenix.html",
+      "publishedAt": "2026-03-16T17:14:59",
+      "content": "Meteorologists are not mincing words in their forecasts for record-high temperatures in California and the desert Southwest."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "RGreen Raises Over $1 Billion for European Green Infrastructure Fund",
-      "description": "France-based investment firm RGREEN INVEST announced that it has raised over €900 million (USD$1 billion)",
-      "url": "https://www.esgtoday.com/rgreen-raises-over-1-billion-for-european-green-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=rgreen-raises-over-1-billion-for-european-green-infrastructure-fund",
-      "publishedAt": "2026-03-12T15:54:11",
-      "content": "France-based investment firm RGREEN INVEST announced that it has raised over €900 million (USD$1 billion)"
+      "author": "New York Times",
+      "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
+      "description": "The gas, ethylene oxide, plays a crucial role in sterilizing medical devices. But long-term exposure is linked to several types of cancer and other ailments.",
+      "url": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
+      "publishedAt": "2026-03-16T16:54:24",
+      "content": "The gas, ethylene oxide, plays a crucial role in sterilizing medical devices. But long-term exposure is linked to several types of cancer and other ailments."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Sourcing Journal"
       },
-      "author": "ESG Today",
-      "title": "Rolls Royce, Equilibrion Explore Production of Sustainable Aviation Fuel with Nuclear Energy",
-      "description": "Rolls-Royce SMR, a small modular reactor developer majority-owned by Rolls-Royce, and project development company Equilibrion",
-      "url": "https://www.esgtoday.com/rolls-royce-equilibrion-explore-production-of-sustainable-aviation-fuel-with-nuclear-energy/?utm_source=rss&utm_medium=rss&utm_campaign=rolls-royce-equilibrion-explore-production-of-sustainable-aviation-fuel-with-nuclear-energy",
-      "publishedAt": "2026-03-12T15:21:25",
-      "content": "Rolls-Royce SMR, a small modular reactor developer majority-owned by Rolls-Royce, and project development company Equilibrion"
+      "author": "Sourcing Journal",
+      "title": "Benetton Revives ’70s Denim Brand Jean’s West",
+      "description": "Jeans and Western graphics are reimagined for 2026.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/benetton-revives-70s-denim-brand-jeans-west-western-trend-1234817087/",
+      "publishedAt": "2026-03-16T16:00:00",
+      "content": "Jeans and Western graphics are reimagined for 2026."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Sourcing Journal"
       },
-      "author": "ESG Today",
-      "title": "UK Raises $8.4 Billion in First Green Bond Offering to Include Nuclear Energy as Eligible Use of Proceeds",
-      "description": "The UK government announced the completion of its latest “Green Gilt” offering, raising £6.25 billion",
-      "url": "https://www.esgtoday.com/uk-raises-8-4-billion-in-first-green-bond-offering-to-include-nuclear-energy-as-eligible-use-of-proceeds/?utm_source=rss&utm_medium=rss&utm_campaign=uk-raises-8-4-billion-in-first-green-bond-offering-to-include-nuclear-energy-as-eligible-use-of-proceeds",
-      "publishedAt": "2026-03-12T14:09:47",
-      "content": "The UK government announced the completion of its latest “Green Gilt” offering, raising £6.25 billion"
+      "author": "Sourcing Journal",
+      "title": "Levi’s Adopts New E-Commerce Platform for Key Markets",
+      "description": "Scayle announced it will become the global e-commerce platform for Levi.com across the U.S., Canada and Europe.",
+      "url": "https://sourcingjournal.com/denim/denim-business/levis-adopts-scayle-e-commerce-platform-key-markets-1234817058/",
+      "publishedAt": "2026-03-16T13:06:05",
+      "content": "Scayle announced it will become the global e-commerce platform for Levi.com across the U.S., Canada and Europe."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Oldest-known whale song recording provides new insight into ocean sounds",
+      "description": "Recording of humpback whale from 1949 could also provide new understanding of how the huge animals communicateA haunting whale song discovered on decades-old audio equipment could open up a new und...",
+      "url": "https://www.theguardian.com/environment/2026/mar/16/oldest-known-whale-song-recording-ocean-sounds",
+      "publishedAt": "2026-03-16T13:05:24",
+      "content": "Recording of humpback whale from 1949 could also provide new understanding of how the huge animals communicateA haunting whale song discovered on decades-old audio equipment could open up a new und..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New York Cooks Up a Plan to Boost Energy Efficiency in Public Housing",
+      "description": "Facing each other, two appliance installers strapped a 350-pound stove to their bodies, with thick black cords wrapped around their backs to support it. One of the workers walked up the stairs back...",
+      "url": "https://insideclimatenews.org/news/16032026/new-york-city-induction-stoves-energy-efficiency/",
+      "publishedAt": "2026-03-16T09:00:00",
+      "content": "Facing each other, two appliance installers strapped a 350-pound stove to their bodies, with thick black cords wrapped around their backs to support it. One of the workers walked up the stairs back..."
     },
     {
       "source": {
@@ -224,25 +279,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "The Guardian"
       },
-      "author": "Good On You",
-      "title": "Meet 9 More Sustainable Brands Making ‘Petite’ and Short Clothes",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-brands-for-short-people/",
-      "publishedAt": "2026-03-10T02:00:35",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Hydropower Line From Quebec to Queens Could Power a Million N.Y.C. Homes",
-      "description": "A 339-mile buried transmission line is on schedule to bring clean electricity to New York City this spring.",
-      "url": "https://www.nytimes.com/2026/03/16/nyregion/hydro-power-nyc.html",
-      "publishedAt": "2026-03-16T07:00:21",
-      "content": "A 339-mile buried transmission line is on schedule to bring clean electricity to New York City this spring."
+      "author": "The Guardian",
+      "title": "Country diary: A saliva test for George the pony, and a rethink on worm control | Kate Blincoe",
+      "description": "Caistor St Edmund, Norfolk: Deworming horses is as important as ever, but not at the expense of dung beetles – which are coming out of hibernation nowI slide a medical spatula into George the Conne...",
+      "url": "https://www.theguardian.com/environment/2026/mar/16/country-diary-a-saliva-test-for-george-the-pony-and-a-rethink-on-worm-control",
+      "publishedAt": "2026-03-16T05:30:07",
+      "content": "Caistor St Edmund, Norfolk: Deworming horses is as important as ever, but not at the expense of dung beetles – which are coming out of hibernation nowI slide a medical spatula into George the Conne..."
     },
     {
       "source": {
@@ -271,22 +315,22 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "The Fight Over Logging on U.S. Public Lands Isn’t Done Yet",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Timothy Ingalsbee, executive director of Firefighters United for ...",
-      "url": "https://insideclimatenews.org/news/14032026/the-fight-over-logging-on-u-s-public-lands-isnt-done-yet/",
-      "publishedAt": "2026-03-14T08:45:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by host Steve Curwood with Timothy Ingalsbee, executive director of Firefighters United for ..."
+      "title": "Habitat Loss Is Eroding Tribal Sovereignty",
+      "description": "Spanning seven U.",
+      "url": "https://insideclimatenews.org/news/14032026/pacific-northwest-salmon-habitat-loss-tribes/",
+      "publishedAt": "2026-03-14T09:00:00",
+      "content": "Spanning seven U."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Pennsylvania Publishes Long-Awaited Study on Radioactivity in Landfill Runoff",
-      "description": "A decade ago, Pennsylvania’s Department of Environmental Protection published a study on radioactivity in the oil and gas industry, motivated by fears that increasing volumes of toxic fracking wast...",
-      "url": "https://insideclimatenews.org/news/13032026/pennsylvania-radioactivity-landfill-runoff-study/",
-      "publishedAt": "2026-03-14T00:30:04",
-      "content": "A decade ago, Pennsylvania’s Department of Environmental Protection published a study on radioactivity in the oil and gas industry, motivated by fears that increasing volumes of toxic fracking wast..."
+      "title": "A New Era of Data Center Development Is Like a Second Industrial Revolution",
+      "description": "For its first three decades, the data center industry was not used to the limelight, quietly building server closets in office basements and later the infrastructure to power credit cards, digital ...",
+      "url": "https://insideclimatenews.org/news/14032026/data-center-development-energy/",
+      "publishedAt": "2026-03-14T08:50:00",
+      "content": "For its first three decades, the data center industry was not used to the limelight, quietly building server closets in office basements and later the infrastructure to power credit cards, digital ..."
     },
     {
       "source": {
@@ -309,105 +353,6 @@
       "url": "https://csrwire.com/press-release/international-well-building-institute-iwbi-give-evidence-indoor-air-quality-parliament-new/",
       "publishedAt": "2026-03-13T10:40:00",
       "content": "Following submission to a recent inquiry from NSW Parliament, Jack Noonan, Head of Asia Pacific, Senior Vice President, will represent IWBI to present evidence to the NSW Upper House Portfolio Comm..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Some top US lobbying firms are working both sides of the Pfas issue at the same time",
-      "description": "Review from non-profit finds range of scenarios of firms simultaneously lobbying for and against Pfas regulationsSome top US lobbying firms are simultaneously working both sides of the Pfas “foreve...",
-      "url": "https://www.theguardian.com/environment/2026/mar/14/pfas-lobby-firms",
-      "publishedAt": "2026-03-14T12:00:19",
-      "content": "Review from non-profit finds range of scenarios of firms simultaneously lobbying for and against Pfas regulationsSome top US lobbying firms are simultaneously working both sides of the Pfas “foreve..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Habitat Loss Is Eroding Tribal Sovereignty",
-      "description": "Spanning seven U.",
-      "url": "https://insideclimatenews.org/news/14032026/pacific-northwest-salmon-habitat-loss-tribes/",
-      "publishedAt": "2026-03-14T09:00:00",
-      "content": "Spanning seven U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A New Era of Data Center Development Is Like a Second Industrial Revolution",
-      "description": "For its first three decades, the data center industry was not used to the limelight, quietly building server closets in office basements and later the infrastructure to power credit cards, digital ...",
-      "url": "https://insideclimatenews.org/news/14032026/data-center-development-energy/",
-      "publishedAt": "2026-03-14T08:50:00",
-      "content": "For its first three decades, the data center industry was not used to the limelight, quietly building server closets in office basements and later the infrastructure to power credit cards, digital ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A dawn search for the rare black grouse | Eben Muse",
-      "description": "Ruabon grouse moor, Wrexham: Mating season is upon us.",
-      "url": "https://www.theguardian.com/environment/2026/mar/14/country-diary-a-dawn-search-for-the-rare-black-grouse",
-      "publishedAt": "2026-03-14T05:30:09",
-      "content": "Ruabon grouse moor, Wrexham: Mating season is upon us."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Drinking from a fetid pond’: superbug-creating genes found in UK’s largest lake",
-      "description": "Exclusive: Lough Neagh, which supplies drinking water for 40% of NI, contains genes resistant to last-resort antibioticsGenes capable of creating antibiotic-resistant superbugs have been detected i...",
-      "url": "https://www.theguardian.com/environment/2026/mar/14/lough-neagh-northern-ireland-genes-antibiotic-resistance-superbugs",
-      "publishedAt": "2026-03-14T05:00:11",
-      "content": "Exclusive: Lough Neagh, which supplies drinking water for 40% of NI, contains genes resistant to last-resort antibioticsGenes capable of creating antibiotic-resistant superbugs have been detected i..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Shuffle Board: Accelerating Circularity Names CEO, Oritain Hires CBP Exec",
-      "description": "Oritain taps former CBP assistant commissioner Dave Fluty for forensic science while Accelerating Circularity names board treasurer Edd Denes as CEO.",
-      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-accelerating-circularity-names-ceo-oritain-1234817011/",
-      "publishedAt": "2026-03-13T20:00:00",
-      "content": "Oritain taps former CBP assistant commissioner Dave Fluty for forensic science while Accelerating Circularity names board treasurer Edd Denes as CEO."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Paradise Textiles to Build $102 Million Facility in Egypt",
-      "description": "Paradise Textiles will bring around 1,200 jobs to the Amreya Public Free Zone in Alexandria.",
-      "url": "https://sourcingjournal.com/topics/sourcing/paradise-textiles-build-102-million-facility-egypt-1234817007/",
-      "publishedAt": "2026-03-13T18:06:18",
-      "content": "Paradise Textiles will bring around 1,200 jobs to the Amreya Public Free Zone in Alexandria."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Ksubi Introduces Premium Leisurewear for Men",
-      "description": "The 4x4 collection emphasizes premium leisurewear and heavyweight fleeces.",
-      "url": "https://sourcingjournal.com/denim/denim-brands/ksubi-introduces-4x4-collection-leisurewear-four-cross-logo-1234816987/",
-      "publishedAt": "2026-03-13T18:02:58",
-      "content": "The 4x4 collection emphasizes premium leisurewear and heavyweight fleeces."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Gen Z Shopping Habits: Young Consumers Still Love Brick-and-Mortar Stores",
-      "description": "YouGov data suggests that this young cohort is more inclined to spend time in stores.",
-      "url": "https://sourcingjournal.com/denim/denim-business/gen-z-shopping-habits-yougov-love-brick-and-mortar-stores-1234816024/",
-      "publishedAt": "2026-03-13T15:33:48",
-      "content": "YouGov data suggests that this young cohort is more inclined to spend time in stores."
     },
     {
       "source": {
@@ -452,28 +397,6 @@
       "url": "https://csrwire.com/press-release/new-electric-mini-excavator-and-mini-track-loader-new-holland-construction-expand-jobsite/",
       "publishedAt": "2026-03-11T10:26:00",
       "content": "New Holland Construction, a CNH brand, is expanding its electric equipment portfolio to meet customer needs and ever-changing jobsite demands with the launch of the E25X Electric Mini Excavator and..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "In Partnership with Senac Brasil and Senac Pará, the Cisco Networking Academy Provides Pathway to AI-enriched Future",
-      "description": "If we can bring digital skills to the Amazon, we can do it anywhere.",
-      "url": "https://csrwire.com/press-release/partnership-senac-brasil-and-senac-para-cisco-networking-academy-provides-pathway-ai-enriched/",
-      "publishedAt": "2026-03-11T09:05:00",
-      "content": "If we can bring digital skills to the Amazon, we can do it anywhere."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mary Kay Powers Lab Grade Learning With Next Gen Cosmetologists",
-      "description": "At Mary Kay, empowering women through science‑backed, high‑quality products is creating real‑world learning opportunities in classrooms across North Texas – helping shape the next generation of cos...",
-      "url": "https://csrwire.com/press-release/mary-kay-powers-lab-grade-learning-next-gen-cosmetologists/",
-      "publishedAt": "2026-03-11T08:00:00",
-      "content": "At Mary Kay, empowering women through science‑backed, high‑quality products is creating real‑world learning opportunities in classrooms across North Texas – helping shape the next generation of cos..."
     }
   ]
 }
