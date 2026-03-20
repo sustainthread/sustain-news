@@ -1,29 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 55,
+  "totalResults": 52,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Turning Climate Ambition into Action: Accelerating Supply Chain Decarbonization",
-      "description": "Guest post by: John Powers, Vice President, Global Cleantech and Renewables, Schneider Electric The climate",
-      "url": "https://www.esgtoday.com/turning-climate-ambition-into-action-accelerating-supply-chain-decarbonization/?utm_source=rss&utm_medium=rss&utm_campaign=turning-climate-ambition-into-action-accelerating-supply-chain-decarbonization",
-      "publishedAt": "2026-03-18T10:47:36",
-      "content": "Guest post by: John Powers, Vice President, Global Cleantech and Renewables, Schneider Electric The climate"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Whirlpool Commits to Reach Net Zero Across Value Chain by 2050",
-      "description": "Home appliance manufacturer Whirlpool announced a series of new climate-related goals, including a new commitment",
-      "url": "https://www.esgtoday.com/whirlpool-commits-to-reach-net-zero-across-value-chain-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=whirlpool-commits-to-reach-net-zero-across-value-chain-by-2050",
-      "publishedAt": "2026-03-17T16:05:48",
-      "content": "Home appliance manufacturer Whirlpool announced a series of new climate-related goals, including a new commitment"
-    },
     {
       "source": {
         "name": "Good On You"
@@ -34,6 +12,28 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-03-16T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Earth Blox Raises $8 Million to Help Companies Assess Climate, Nature Risks",
+      "description": "Environmental intelligence company Earth Blox announced that it has secured £6 million (USD$8 million) in",
+      "url": "https://www.esgtoday.com/earth-blox-raises-8-million-to-help-companies-assess-climate-nature-risks/?utm_source=rss&utm_medium=rss&utm_campaign=earth-blox-raises-8-million-to-help-companies-assess-climate-nature-risks",
+      "publishedAt": "2026-03-19T10:04:30",
+      "content": "Environmental intelligence company Earth Blox announced that it has secured £6 million (USD$8 million) in"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "24 States Sue E.P.A. Over Climate Change Decision",
+      "description": "The suit accuses the agency of illegally repealing the endangerment finding, the scientific assessment that required it to regulate greenhouse gases.",
+      "url": "https://www.nytimes.com/2026/03/19/climate/epa-endangerment-states-lawsuit.html",
+      "publishedAt": "2026-03-19T18:02:19",
+      "content": "The suit accuses the agency of illegally repealing the endangerment finding, the scientific assessment that required it to regulate greenhouse gases."
     },
     {
       "source": {
@@ -59,58 +59,58 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Standard Chartered, COFCO Sign $435 Million Loan with Terms Tied to Supply Chain Sustainability Targets",
+      "description": "International banking group Standard Chartered announced the closing of a $435 million sustainability-linked loan with",
+      "url": "https://www.esgtoday.com/standard-chartered-cofco-sign-435-million-loan-with-terms-tied-to-supply-chain-sustainability-metrics/?utm_source=rss&utm_medium=rss&utm_campaign=standard-chartered-cofco-sign-435-million-loan-with-terms-tied-to-supply-chain-sustainability-metrics",
+      "publishedAt": "2026-03-19T15:59:02",
+      "content": "International banking group Standard Chartered announced the closing of a $435 million sustainability-linked loan with"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ING’s Sustainable Finance Activity Jumps 28% in 2025",
+      "description": "Amsterdam-based global bank ING reported significant growth in its sustainable finance activity over the past",
+      "url": "https://www.esgtoday.com/ings-sustainable-finance-activity-jumps-28-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=ings-sustainable-finance-activity-jumps-28-in-2025",
+      "publishedAt": "2026-03-19T14:00:09",
+      "content": "Amsterdam-based global bank ING reported significant growth in its sustainable finance activity over the past"
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "The Fight Over New Jersey’s Tough Environmental Justice Law Is Now in the Courts",
-      "description": "When New Jersey’s landmark environmental justice law was enacted in September 2020, there was plenty to celebrate for activists who had fought so hard to prevent more of the unrelenting pollution t...",
-      "url": "https://insideclimatenews.org/news/18032026/new-jersey-environmental-justice-law-legal-challenges/",
-      "publishedAt": "2026-03-18T08:55:00",
-      "content": "When New Jersey’s landmark environmental justice law was enacted in September 2020, there was plenty to celebrate for activists who had fought so hard to prevent more of the unrelenting pollution t..."
+      "title": "Wondering How to Talk About Climate Change? Take a Lesson from Bad Bunny",
+      "description": "When Bad Bunny climbed onto broken power lines during his Super Bowl halftime show, millions of viewers saw a spectacle.",
+      "url": "https://insideclimatenews.org/news/19032026/climate-change-communication-bad-bunny-halftime-show/",
+      "publishedAt": "2026-03-19T08:55:00",
+      "content": "When Bad Bunny climbed onto broken power lines during his Super Bowl halftime show, millions of viewers saw a spectacle."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Government to lift paywall from large parts of the Land Registry",
-      "description": "Exclusive: finding out who owns land will become simpler under plans to make the best use of green spaces and hit net zero targetsFinding out who owns land in England is to become much simpler beca...",
-      "url": "https://www.theguardian.com/environment/2026/mar/18/government-to-lift-paywall-from-large-parts-of-land-registry",
-      "publishedAt": "2026-03-18T06:00:23",
-      "content": "Exclusive: finding out who owns land will become simpler under plans to make the best use of green spaces and hit net zero targetsFinding out who owns land in England is to become much simpler beca..."
+      "title": "UK to cut climate aid to developing countries by 14% to £2bn a year in ‘refocus’",
+      "description": "Move will put national security and lives overseas at risk, critics say, as overall UK aid budget is slashed to 0.",
+      "url": "https://www.theguardian.com/environment/2026/mar/19/uk-cut-climate-aid-budget-developing-countries-refocus",
+      "publishedAt": "2026-03-19T07:00:02",
+      "content": "Move will put national security and lives overseas at risk, critics say, as overall UK aid budget is slashed to 0."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "The False Trade-off Between Competitiveness and Sustainability",
-      "description": "Guest post by: Laura Zizzo, Founder & Chief Strategy Officer, Manifest Climate Framing the Omnibus",
-      "url": "https://www.esgtoday.com/the-false-trade-off-between-competitiveness-and-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=the-false-trade-off-between-competitiveness-and-sustainability",
-      "publishedAt": "2026-03-17T14:40:03",
-      "content": "Guest post by: Laura Zizzo, Founder & Chief Strategy Officer, Manifest Climate Framing the Omnibus"
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Levi Strauss Sets New Energy Targets",
-      "description": "The company expects to fall just short of its 90 percent reduction in emissions target.",
-      "url": "https://sourcingjournal.com/footwear/footwear-brands/levi-strauss-sets-new-energy-consumption-targets-2030-1234817379/",
-      "publishedAt": "2026-03-18T15:40:00",
-      "content": "The company expects to fall just short of its 90 percent reduction in emissions target."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Level Nine Raises $4.6 Million to Convert Biomass into Green Chemicals",
-      "description": "Berlin-based nanotechnology startup Level Nine announced that it has raised €4 million (USD$4.6 million) in",
-      "url": "https://www.esgtoday.com/level-nine-raises-4-6-million-to-convert-biomass-into-green-chemicals/?utm_source=rss&utm_medium=rss&utm_campaign=level-nine-raises-4-6-million-to-convert-biomass-into-green-chemicals",
-      "publishedAt": "2026-03-18T09:37:31",
-      "content": "Berlin-based nanotechnology startup Level Nine announced that it has raised €4 million (USD$4.6 million) in"
+      "author": "New York Times",
+      "title": "Administration to Convene ‘God Squad’ With Power to Override Environmental Law",
+      "description": "The meeting, planned for this month, will focus on oil and gas drilling in the Gulf of Mexico.",
+      "url": "https://www.nytimes.com/2026/03/16/climate/god-squad-whales-gulf-oil.html",
+      "publishedAt": "2026-03-19T03:07:54",
+      "content": "The meeting, planned for this month, will focus on oil and gas drilling in the Gulf of Mexico."
     },
     {
       "source": {
@@ -120,52 +120,8 @@
       "title": "FEMA Will Relaunch Climate Resiliency Grants",
       "description": "A judge ruled in December that the agency could not cancel a program that had helped states invest billions of dollars in disaster readiness.",
       "url": "https://www.nytimes.com/2026/03/18/climate/fema-bric-grants-relaunch.html",
-      "publishedAt": "2026-03-19T00:16:39",
+      "publishedAt": "2026-03-19T00:16:40",
       "content": "A judge ruled in December that the agency could not cancel a program that had helped states invest billions of dollars in disaster readiness."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "The Digital Sustainability Divide: Why Fashion’s Data Infrastructure Gap Is Becoming a Supply Chain Risk",
-      "description": "As DPP requirements, ecodesign rules and buyer transparency expectations accelerate, the industry is moving at two speeds.",
-      "url": "https://sourcingjournal.com/topics/thought-leadership/fashions-data-infrastructure-gap-supply-chain-risk-green-story-1234817349/",
-      "publishedAt": "2026-03-18T17:30:00",
-      "content": "As DPP requirements, ecodesign rules and buyer transparency expectations accelerate, the industry is moving at two speeds."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Reliance Signs $3 Billion Green Ammonia Supply Deal with Samsung C&T",
-      "description": "India-based energy and industrial conglomerate Reliance Industries announced the signing of a new $3 billion",
-      "url": "https://www.esgtoday.com/reliance-signs-3-billion-green-ammonia-supply-deal-with-samsung-ct/?utm_source=rss&utm_medium=rss&utm_campaign=reliance-signs-3-billion-green-ammonia-supply-deal-with-samsung-ct",
-      "publishedAt": "2026-03-17T11:49:39",
-      "content": "India-based energy and industrial conglomerate Reliance Industries announced the signing of a new $3 billion"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Marks 25 Years of Giving Through Environmental Initiatives Fund",
-      "description": "Entergy recently invested $1 million of shareholder funds in 10 local environmental partners through the company’s Environmental Initiatives Fund.",
-      "url": "https://csrwire.com/press-release/entergy-marks-25-years-giving-through-environmental-initiatives-fund/",
-      "publishedAt": "2026-03-16T16:30:00",
-      "content": "Entergy recently invested $1 million of shareholder funds in 10 local environmental partners through the company’s Environmental Initiatives Fund."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ERM, Secaro and AstraZeneca Partner to Decarbonize Industrial Heat",
-      "description": "Sustainability advisory firm ERM, supply chain intelligence platform Secaro, and pharmaceutical company AstraZeneca announced the",
-      "url": "https://www.esgtoday.com/erm-secaro-and-astrazeneca-launch-industrial-heat-decarbonization-program/?utm_source=rss&utm_medium=rss&utm_campaign=erm-secaro-and-astrazeneca-launch-industrial-heat-decarbonization-program",
-      "publishedAt": "2026-03-18T10:02:36",
-      "content": "Sustainability advisory firm ERM, supply chain intelligence platform Secaro, and pharmaceutical company AstraZeneca announced the"
     },
     {
       "source": {
@@ -180,14 +136,102 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Hindu"
       },
-      "author": "Inside Climate News",
-      "title": "Are There Climate Fingerprints in Tornado Activity?",
-      "description": "It’s been a weird few weeks for weather across the United States.",
-      "url": "https://insideclimatenews.org/news/17032026/todays-climate-tornadoes-severe-weather-storms/",
-      "publishedAt": "2026-03-17T21:56:59",
-      "content": "It’s been a weird few weeks for weather across the United States."
+      "author": "The Hindu",
+      "title": "Why green entrepreneurship is where India’s next jobs will come from",
+      "description": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change",
+      "url": "https://www.thehindu.com/education/careers/why-green-entrepreneurship-is-where-indias-next-jobs-will-come-from/article70730845.ece",
+      "publishedAt": "2026-03-14T08:43:09",
+      "content": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Science of Plant Wisdom: How Herbalism Unlocks Better Health and Deeper Connection",
+      "description": "With over 50 years as the leading expert in herbal wellness, Traditional Medicinals is bringing that deep-rooted knowledge to a wider audience through a new educational video platform: The Plant Wi...",
+      "url": "https://triplepundit.com/2026/plant-wisdom-collective-herbalism-education/",
+      "publishedAt": "2026-03-19T18:51:43",
+      "content": "With over 50 years as the leading expert in herbal wellness, Traditional Medicinals is bringing that deep-rooted knowledge to a wider audience through a new educational video platform: The Plant Wi..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Case IH and Senar of Rio Grande do Sul Close Partnership for Rural Professional Training Courses in Brazil",
+      "description": "Case IH, a CNH brand, announces a partnership with the National Rural Learning Service (Senar) of Rio Grande do Sul, for the entity's new Rural Professional Training Center that will be inaugurated...",
+      "url": "https://csrwire.com/press-release/case-ih-and-senar-rio-grande-do-sul-close-partnership-rural-professional-training-courses/",
+      "publishedAt": "2026-03-19T16:00:00",
+      "content": "Case IH, a CNH brand, announces a partnership with the National Rural Learning Service (Senar) of Rio Grande do Sul, for the entity's new Rural Professional Training Center that will be inaugurated..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Fervo Secures $421 Million to Build U.S. Geothermal Energy Plant",
+      "description": "Geothermal energy project developer Fervo Energy announced today that it has secured $421 million in",
+      "url": "https://www.esgtoday.com/fervo-secures-421-million-to-build-u-s-geothermal-energy-project/?utm_source=rss&utm_medium=rss&utm_campaign=fervo-secures-421-million-to-build-u-s-geothermal-energy-project",
+      "publishedAt": "2026-03-19T14:41:26",
+      "content": "Geothermal energy project developer Fervo Energy announced today that it has secured $421 million in"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Stop mowing the lawn – and five more ways to save Britain’s ‘charming’ and ‘polite’ gatekeeper butterflies",
+      "description": "Conservation can be hard work.",
+      "url": "https://www.theguardian.com/environment/2026/mar/19/stop-mowing-the-lawn-five-more-ways-to-save-gatekeeper-butterflies-britain",
+      "publishedAt": "2026-03-19T12:46:08",
+      "content": "Conservation can be hard work."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "KKR to Invest up to $310 Million in India Electric Bus Platform Allfleet",
+      "description": "Alternative asset and private equity investor KKR announced the formation of a new strategic partnership",
+      "url": "https://www.esgtoday.com/kkr-to-invest-up-to-310-million-in-india-electric-bus-platform-allfleet/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-to-invest-up-to-310-million-in-india-electric-bus-platform-allfleet",
+      "publishedAt": "2026-03-19T12:15:00",
+      "content": "Alternative asset and private equity investor KKR announced the formation of a new strategic partnership"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Norway’s $2 Trillion Wealth Fund Sets Expectations for Portfolio Companies to Assess, Report, Manage Nature Risks",
+      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2.1 trillion oil fund announced",
+      "url": "https://www.esgtoday.com/norways-2-trillion-wealth-fund-sets-expectations-for-portfolio-companies-to-assess-report-manage-nature-risks/?utm_source=rss&utm_medium=rss&utm_campaign=norways-2-trillion-wealth-fund-sets-expectations-for-portfolio-companies-to-assess-report-manage-nature-risks",
+      "publishedAt": "2026-03-19T11:22:21",
+      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2.1 trillion oil fund announced"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Asset Recycling as a Strategic Enabler",
+      "description": "KPMG in Singapore worked with the World Bank Group to develop The Asset Recycling Handbook, a roadmap for monetizing existing infrastructure assets and reinvesting the proceeds into new projects to...",
+      "url": "https://csrwire.com/press-release/asset-recycling-strategic-enabler/",
+      "publishedAt": "2026-03-19T10:00:00",
+      "content": "KPMG in Singapore worked with the World Bank Group to develop The Asset Recycling Handbook, a roadmap for monetizing existing infrastructure assets and reinvesting the proceeds into new projects to..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mastercard: Gen Z Is Entering the Workplace — and They’re Changing How Businesses Work",
+      "description": "Consumer payments have evolved dramatically over the past two decades.",
+      "url": "https://csrwire.com/press-release/mastercard-gen-z-entering-workplace-and-theyre-changing-how-businesses-work/",
+      "publishedAt": "2026-03-19T09:00:00",
+      "content": "Consumer payments have evolved dramatically over the past two decades."
     },
     {
       "source": {
@@ -202,14 +246,135 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "Good On You"
       },
-      "author": "The Hindu",
-      "title": "Why green entrepreneurship is where India’s next jobs will come from",
-      "description": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change",
-      "url": "https://www.thehindu.com/education/careers/why-green-entrepreneurship-is-where-indias-next-jobs-will-come-from/article70730845.ece",
-      "publishedAt": "2026-03-14T08:43:09",
-      "content": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change"
+      "author": "Good On You",
+      "title": "20 More Sustainable Alternatives to Barbour’s Outdoorsy Gear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-to-barbour/",
+      "publishedAt": "2026-03-15T23:00:36",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data",
+      "description": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say.",
+      "url": "https://www.nytimes.com/2026/03/19/climate/the-weather-is-getting-wilder-and-some-see-a-dire-signal-in-the-data.html",
+      "publishedAt": "2026-03-20T03:57:56",
+      "content": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
+      "description": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England.",
+      "url": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-20T03:34:02",
+      "content": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Gender Equality Remains ESG’s Obvious Yet Elusive Goal",
+      "description": "A new World Benchmarking Alliance report suggests that many public-facing policies remain largely untethered to operational reality.",
+      "url": "https://sourcingjournal.com/topics/labor/gender-equality-world-benchmarking-alliance-esg-workers-1234817634/",
+      "publishedAt": "2026-03-19T22:58:54",
+      "content": "A new World Benchmarking Alliance report suggests that many public-facing policies remain largely untethered to operational reality."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Armedangels Takes Aim at Plastic Outerwear with Lenzing",
+      "description": "The Cologne-based eco-brand's Tencel Lyocell ripstop windbreaker is the first membrane-free proof point for performance and sourcing transparency.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/armedangels-takes-aim-at-plastic-outerwear-lenzing-1234817557/",
+      "publishedAt": "2026-03-19T20:12:58",
+      "content": "The Cologne-based eco-brand's Tencel Lyocell ripstop windbreaker is the first membrane-free proof point for performance and sourcing transparency."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Denim Première Vision Is Heading to Japan",
+      "description": "The trade show will take place alongside Tranoï Tokyo",
+      "url": "https://sourcingjournal.com/denim/denim-business/denim-premiere-vision-tokyo-japan-gl-events-1234817427/",
+      "publishedAt": "2026-03-19T16:32:00",
+      "content": "The trade show will take place alongside Tranoï Tokyo"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "King opens world’s longest managed coastal walk – but much of it is still closed off",
+      "description": "Landowner disputes, coastal erosion and disused ferry hindering completion of King Charles III England coast pathThe longest managed coastal walking route in the world has been opened by the king a...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/19/worlds-longest-managed-coastal-walk-much-still-closed",
+      "publishedAt": "2026-03-19T16:09:52",
+      "content": "Landowner disputes, coastal erosion and disused ferry hindering completion of King Charles III England coast pathThe longest managed coastal walking route in the world has been opened by the king a..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sex garden to ‘break taboos’ at Chelsea flower show as gnome ban ends",
+      "description": "Lovehoney sponsors Aphrodite-themed ‘pleasure garden’ full of flowers associated with love and sexIt is one of the most prestigious events of the UK social calendar, but the great and good attendin...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/19/chelsea-flower-show-sex-garden-break-taboos-lovehoney",
+      "publishedAt": "2026-03-19T15:00:53",
+      "content": "Lovehoney sponsors Aphrodite-themed ‘pleasure garden’ full of flowers associated with love and sexIt is one of the most prestigious events of the UK social calendar, but the great and good attendin..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "King opens world's longest coastal path around England",
+      "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
+      "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-19T14:34:11",
+      "content": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Just two flavours of chips and pub theme nights: how these isolated Queensland towns have survived being cut off for weeks",
+      "description": "Birdsville and Bedourie locals are used to being trapped by flooding – but if they run out of Tim Tams and chocolate, ‘that’s a big problem’Follow our Australia news live blog for latest updatesGet...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/19/queensland-floods-birdsville-bedourie-towns-cut-off-for-weeks",
+      "publishedAt": "2026-03-19T14:00:53",
+      "content": "Birdsville and Bedourie locals are used to being trapped by flooding – but if they run out of Tim Tams and chocolate, ‘that’s a big problem’Follow our Australia news live blog for latest updatesGet..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Lee x J.Crew Collection",
+      "description": "",
+      "url": "https://sourcingjournal.com/gallery/denim/denim-brands/lee-j-crew-collection-1234817276/",
+      "publishedAt": "2026-03-19T13:00:54",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Vanishing Next Generation of US-Made EVs",
+      "description": "Honda is being whipsawed by a decreasing emphasis on electric vehicles in the United States and a rapid shift to EVs in China.",
+      "url": "https://insideclimatenews.org/news/19032026/inside-clean-energy-us-ev-production/",
+      "publishedAt": "2026-03-19T13:00:00",
+      "content": "Honda is being whipsawed by a decreasing emphasis on electric vehicles in the United States and a rapid shift to EVs in China."
     },
     {
       "source": {
@@ -312,17 +477,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "20 More Sustainable Alternatives to Barbour’s Outdoorsy Gear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-to-barbour/",
-      "publishedAt": "2026-03-15T23:00:36",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -345,17 +499,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Stretching 2,689 miles, the world's longest coastal path opens in England",
-      "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
-      "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-19T02:36:02",
-      "content": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -364,28 +507,6 @@
       "url": "https://www.nytimes.com/2026/03/18/climate/mullin-fema-noem-delays.html",
       "publishedAt": "2026-03-18T21:01:24",
       "content": "The president’s nominee, Markwayne Mullin, said he would avoid “micromanaging” FEMA."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Section 301 Probes Put US-ASEAN Apparel Trade Deals in Limbo",
-      "description": "Indonesia says it's hitting pause on ratifying the reciprocal trade agreement, while Malaysia may or may not have axed its own.",
-      "url": "https://sourcingjournal.com/topics/trade/section-301-indonesia-malaysia-reciprocal-trade-deals-1234817512/",
-      "publishedAt": "2026-03-18T20:11:19",
-      "content": "Indonesia says it's hitting pause on ratifying the reciprocal trade agreement, while Malaysia may or may not have axed its own."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "White House Waives Shipping Statute As Oil Prices Spike",
-      "description": "The Jones Act, which specifies that cargo shipped between U.S. ports must be carried on ships that are built, flagged and (mostly) owned by the U.S., will be waived for a period of 60 days.",
-      "url": "https://sourcingjournal.com/topics/logistics/trump-jones-act-ocean-carriers-shipping-oil-iran-war-logistics-1234817511/",
-      "publishedAt": "2026-03-18T19:46:08",
-      "content": "The Jones Act, which specifies that cargo shipped between U.S. ports must be carried on ships that are built, flagged and (mostly) owned by the U.S., will be waived for a period of 60 days."
     },
     {
       "source": {
@@ -411,28 +532,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Crystal International Joins RISE to Advance Women Empowerment",
-      "description": "The company trained 190 employees during its first stage of membership.",
-      "url": "https://sourcingjournal.com/topics/labor/crystal-international-joins-rise-advance-women-empowerment-1234817331/",
-      "publishedAt": "2026-03-18T16:20:00",
-      "content": "The company trained 190 employees during its first stage of membership."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Kojima Calling: Where Japanese Denim Heritage Meets a New Generation",
-      "description": "Inside the quiet coastal outpost where denim dreams begin—and where Japanese craftsmanship still reigns supreme.",
-      "url": "https://sourcingjournal.com/denim/denim-business/kojima-jeans-street-japanese-denim-heritage-new-generation-1234817391/",
-      "publishedAt": "2026-03-18T15:15:14",
-      "content": "Inside the quiet coastal outpost where denim dreams begin—and where Japanese craftsmanship still reigns supreme."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -441,17 +540,6 @@
       "url": "https://insideclimatenews.org/news/18032026/california-wine-label-promotes-workers-rights/",
       "publishedAt": "2026-03-18T09:00:00",
       "content": "When Cary Quintana learned about a new initiative to promote fair treatment and safe conditions for vineyard workers, the Northern California winemaker immediately signed on.  Quintana has partnere..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Planet Is Overheating, But You Might Not Know It From the News",
-      "description": "This story was originally published by Grist.",
-      "url": "https://insideclimatenews.org/news/18032026/the-planet-is-overheating-but-you-might-not-know-it-from-the-news/",
-      "publishedAt": "2026-03-18T08:50:00",
-      "content": "This story was originally published by Grist."
     },
     {
       "source": {
@@ -466,61 +554,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "GP PRO’s New Dixie Ultra® Take-Two Interfold Napkin Dispenser Slashes Waste, Increases Speed-of-Service and Elevates Operational Efficiency",
-      "description": "GP PRO, a division of Georgia-Pacific and leading innovator of advanced dispensing and smart monitoring solutions, today launched the Dixie Ultra® Take-Two Interfold Napkin Dispenser.",
-      "url": "https://csrwire.com/press-release/gp-pros-new-dixie-ultrar-take-two-interfold-napkin-dispenser-slashes-waste-increases-speed/",
-      "publishedAt": "2026-03-17T14:40:00",
-      "content": "GP PRO, a division of Georgia-Pacific and leading innovator of advanced dispensing and smart monitoring solutions, today launched the Dixie Ultra® Take-Two Interfold Napkin Dispenser."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Getting Proximate: Reflections From Cisco's First Year of 40 Communities",
-      "description": "A little more than a year ago, Cisco announced our next big ambition: 40 Communities. The 10-year initiative is audacious by design",
-      "url": "https://csrwire.com/press-release/getting-proximate-reflections-ciscos-first-year-40-communities/",
-      "publishedAt": "2026-03-17T11:45:00",
-      "content": "A little more than a year ago, Cisco announced our next big ambition: 40 Communities. The 10-year initiative is audacious by design"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Revealed: the world’s worst mega-leaks of methane driving global heating",
-      "description": "Exclusive: Fixing a leak can be simple and equivalent to closing a coal power station, making lack of action maddening, say analystsThe world’s worst mega-leaks of the potent greenhouse gas methane...",
-      "url": "https://www.theguardian.com/environment/2026/mar/17/revealed-world-worst-methane-leaks-global-heating",
-      "publishedAt": "2026-03-17T05:00:42",
-      "content": "Exclusive: Fixing a leak can be simple and equivalent to closing a coal power station, making lack of action maddening, say analystsThe world’s worst mega-leaks of the potent greenhouse gas methane..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Plantwatch: the Natal crocus co-opts fire, bees and ants to reproduce",
-      "description": "Perhaps the biggest surprise is that it tricks ants into moving its seeds with a scent that mimics their larvaePlants are superb at enticing animals to pollinate their flowers or carry off their se...",
-      "url": "https://www.theguardian.com/science/2026/mar/18/plantwatch-the-natal-crocus-co-opts-fire-bees-and-ants-to-reproduce",
-      "publishedAt": "2026-03-18T06:00:24",
-      "content": "Perhaps the biggest surprise is that it tricks ants into moving its seeds with a scent that mimics their larvaePlants are superb at enticing animals to pollinate their flowers or carry off their se..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Return to ‘bitey horse field’ – this time with a plan | Derek Niemann",
-      "description": "Frome, Somerset: A small patch of land, leased by the council, will be the site of a new community project.",
-      "url": "https://www.theguardian.com/environment/2026/mar/18/country-diary-return-to-bitey-horse-field-this-time-with-a-plan",
-      "publishedAt": "2026-03-18T05:30:23",
-      "content": "Frome, Somerset: A small patch of land, leased by the council, will be the site of a new community project."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -529,72 +562,6 @@
       "url": "https://www.bbc.com/news/articles/cy0dxzz0pzro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-03-18T02:26:55",
       "content": "Police will have new powers to seize and detain dogs that have attacked or chased farm animals."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Corpus Christi Cuts Timeline to Disaster as Abbott Issues Emergency Orders",
-      "description": "City officials in Corpus Christi on Tuesday released modeling that showed emergency cuts to water demand could be required as soon as May as reservoir levels continue to decline.  That means the re...",
-      "url": "https://insideclimatenews.org/news/17032026/corpus-christi-cuts-timeline-to-disaster-as-abbott-issues-emergency-orders/",
-      "publishedAt": "2026-03-18T00:42:02",
-      "content": "City officials in Corpus Christi on Tuesday released modeling that showed emergency cuts to water demand could be required as soon as May as reservoir levels continue to decline.  That means the re..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Discussion over the future of Sark launched",
-      "description": "Islanders are being urged to share their ideas on what matters most for them and their home.",
-      "url": "https://www.bbc.com/news/articles/c07j4l3gy5po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-17T12:45:33",
-      "content": "Islanders are being urged to share their ideas on what matters most for them and their home."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Water Shortage May Hit Corpus Christi Within Weeks",
-      "description": "EDNA, Texas—Water shortages could hit Corpus Christi within weeks when contract terms mandate a 10 percent reduction in the city’s draw from its largest remaining reservoir, the equivalent of 7 mil...",
-      "url": "https://insideclimatenews.org/news/17032026/corpus-christi-water-shortage/",
-      "publishedAt": "2026-03-17T08:55:00",
-      "content": "EDNA, Texas—Water shortages could hit Corpus Christi within weeks when contract terms mandate a 10 percent reduction in the city’s draw from its largest remaining reservoir, the equivalent of 7 mil..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sky monkeys, pink tutus and bum nuts: behind the scenes at the Eden Project as it turns 25",
-      "description": "Our photojournalist explores the Cornish landmark on the eve of its anniversary and meets some of its staff, visitors, plants and creatures“Give me a sleeping bag and I’ll happily sleep here overni...",
-      "url": "https://www.theguardian.com/uk-news/2026/mar/17/eden-project-behind-the-scenes-sky-monkeys-pink-tutus-and-bum-nuts-photos",
-      "publishedAt": "2026-03-17T08:00:43",
-      "content": "Our photojournalist explores the Cornish landmark on the eve of its anniversary and meets some of its staff, visitors, plants and creatures“Give me a sleeping bag and I’ll happily sleep here overni..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A total hoot! Beautiful birds – in pictures",
-      "description": "From fluffy owlets to rosy-hued flamingos, Claire Rosen’s portraits of live birds took her on a journey that touched on colonialism, wallpaper design … and chickens Continue reading...",
-      "url": "https://www.theguardian.com/artanddesign/gallery/2026/mar/17/a-total-hoot-beautiful-birds-in-pictures-claire-rosen",
-      "publishedAt": "2026-03-17T07:00:41",
-      "content": "From fluffy owlets to rosy-hued flamingos, Claire Rosen’s portraits of live birds took her on a journey that touched on colonialism, wallpaper design … and chickens Continue reading..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "E.P.A. Moves to Weaken Limits on Ethylene Oxide",
-      "description": "The gas, ethylene oxide, plays a crucial role in sterilizing medical devices. But long-term exposure is linked to several types of cancer and other ailments.",
-      "url": "https://www.nytimes.com/2026/03/13/climate/epa-ethylene-oxide-cancer.html",
-      "publishedAt": "2026-03-16T16:54:24",
-      "content": "The gas, ethylene oxide, plays a crucial role in sterilizing medical devices. But long-term exposure is linked to several types of cancer and other ailments."
     },
     {
       "source": {
