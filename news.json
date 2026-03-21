@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 54,
   "articles": [
     {
       "source": {
@@ -12,6 +12,28 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-03-16T06:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "In Rural West Texas, Renewable Energy Brings a Windfall for Seniors",
+      "description": "Officials in Crockett County are using wind investments to help older residents age in place.TriplePundit",
+      "url": "https://triplepundit.com/2026/renewable-energy-rural-wind-crockett-county-texas/",
+      "publishedAt": "2026-03-20T18:07:55",
+      "content": "Officials in Crockett County are using wind investments to help older residents age in place.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Capturing Landfill Methane Can Strengthen Climate Resilience and Community Equity in Georgia",
+      "description": "Climate activist, Eriqah Vincent, sits down with Garry Harris, Managing Director of the Center for Sustainable Communities, to explore why landfill methane capture deserves more attention and how i...",
+      "url": "https://csrwire.com/press-release/how-capturing-landfill-methane-can-strengthen-climate-resilience-and-community-equity-georgia/",
+      "publishedAt": "2026-03-20T09:40:00",
+      "content": "Climate activist, Eriqah Vincent, sits down with Garry Harris, Managing Director of the Center for Sustainable Communities, to explore why landfill methane capture deserves more attention and how i..."
     },
     {
       "source": {
@@ -37,25 +59,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "BNP Paribas AM Invests in Farming Decarbonization Platform FarmCarbon",
-      "description": "BNP Paribas Asset Management (BNPP AM) announced an investment in FarmCarbon, a newly established vehicle",
-      "url": "https://www.esgtoday.com/bnp-paribas-am-invests-in-farming-decarbonization-platform-farmcarbon/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-am-invests-in-farming-decarbonization-platform-farmcarbon",
-      "publishedAt": "2026-03-18T15:45:41",
-      "content": "BNP Paribas Asset Management (BNPP AM) announced an investment in FarmCarbon, a newly established vehicle"
+      "author": "Inside Climate News",
+      "title": "New York’s Governor Pushes to Delay a Key Portion of the State’s Climate Law",
+      "description": "New York Gov.",
+      "url": "https://insideclimatenews.org/news/20032026/new-york-gov-kathy-hochul-delays-climate-law-key-portion/",
+      "publishedAt": "2026-03-20T21:41:05",
+      "content": "New York Gov."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "House Democrats Want Clean Energy Tax Credits Back",
-      "description": "U.",
-      "url": "https://insideclimatenews.org/news/18032026/house-democrats-propose-clean-energy-tax-credits-legislation/",
-      "publishedAt": "2026-03-18T21:26:48",
-      "content": "U."
+      "title": "A New Study Links a Record-Breaking Tropical Disease Outbreak in Peru to Climate-Driven Extreme Weather",
+      "description": "Every year, mosquitoes in mostly tropical and subtropical countries cause millions of cases of dengue fever, a virus that induces potentially lethal flu-like symptoms. Cases surged in 2019, after r...",
+      "url": "https://insideclimatenews.org/news/20032026/peru-dengue-fever-record-outbreak-climate-driven-weather/",
+      "publishedAt": "2026-03-20T18:18:22",
+      "content": "Every year, mosquitoes in mostly tropical and subtropical countries cause millions of cases of dengue fever, a virus that induces potentially lethal flu-like symptoms. Cases surged in 2019, after r..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Hochul Moves to Delay and Alter Climate Law, Citing Energy Prices",
+      "description": "The proposal, currently being considered by the Legislature during budget talks, would put off regulations for enforcing the law until 2030.",
+      "url": "https://www.nytimes.com/2026/03/20/nyregion/hochul-new-york-climate-law-delay.html",
+      "publishedAt": "2026-03-20T16:55:30",
+      "content": "The proposal, currently being considered by the Legislature during budget talks, would put off regulations for enforcing the law until 2030."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Oil firm breaks environmental rules nearly 500 times",
+      "description": "Operator Essar has apologised for the breaches committed over four years.",
+      "url": "https://www.bbc.com/news/articles/c4g6l0v2e3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-20T11:59:54",
+      "content": "Operator Essar has apologised for the breaches committed over four years."
     },
     {
       "source": {
@@ -81,28 +125,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Wondering How to Talk About Climate Change? Take a Lesson from Bad Bunny",
-      "description": "When Bad Bunny climbed onto broken power lines during his Super Bowl halftime show, millions of viewers saw a spectacle.",
-      "url": "https://insideclimatenews.org/news/19032026/climate-change-communication-bad-bunny-halftime-show/",
-      "publishedAt": "2026-03-19T08:55:00",
-      "content": "When Bad Bunny climbed onto broken power lines during his Super Bowl halftime show, millions of viewers saw a spectacle."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "UK to cut climate aid to developing countries by 14% to £2bn a year in ‘refocus’",
-      "description": "Move will put national security and lives overseas at risk, critics say, as overall UK aid budget is slashed to 0.",
-      "url": "https://www.theguardian.com/environment/2026/mar/19/uk-cut-climate-aid-budget-developing-countries-refocus",
-      "publishedAt": "2026-03-19T07:00:02",
-      "content": "Move will put national security and lives overseas at risk, critics say, as overall UK aid budget is slashed to 0."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -114,14 +136,91 @@
     },
     {
       "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Why green entrepreneurship is where India’s next jobs will come from",
+      "description": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change",
+      "url": "https://www.thehindu.com/education/careers/why-green-entrepreneurship-is-where-indias-next-jobs-will-come-from/article70730845.ece",
+      "publishedAt": "2026-03-14T08:43:09",
+      "content": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change"
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Coats Eyes 2026 as a ‘Pivotal Year’",
+      "description": "The apparel and footwear components supplier is leveraging scale, material innovation and supplier engagement to accelerate its sustainability impact.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/coats-sustainability-report-2025-decarbonization-recycling-1234817744/",
+      "publishedAt": "2026-03-20T18:00:00",
+      "content": "The apparel and footwear components supplier is leveraging scale, material innovation and supplier engagement to accelerate its sustainability impact."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
+      "description": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticidesThe population of monarch butterflies in Mexico increased 64% this winter, compared ...",
+      "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
+      "publishedAt": "2026-03-20T17:41:47",
+      "content": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticidesThe population of monarch butterflies in Mexico increased 64% this winter, compared ..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "FEMA Will Relaunch Climate Resiliency Grants",
-      "description": "A judge ruled in December that the agency could not cancel a program that had helped states invest billions of dollars in disaster readiness.",
-      "url": "https://www.nytimes.com/2026/03/18/climate/fema-bric-grants-relaunch.html",
-      "publishedAt": "2026-03-19T00:16:40",
-      "content": "A judge ruled in December that the agency could not cancel a program that had helped states invest billions of dollars in disaster readiness."
+      "title": "Lee Zeldin, E.P.A. Chief, to Headline Heartland Institute Forum",
+      "description": "Lee Zeldin, the agency administrator, will address a Heartland Institute forum in April. The organization says speakers will challenge the climate crisis “narrative.”",
+      "url": "https://www.nytimes.com/2026/03/20/climate/zeldin-epa-heartland-institute.html",
+      "publishedAt": "2026-03-20T15:48:31",
+      "content": "Lee Zeldin, the agency administrator, will address a Heartland Institute forum in April. The organization says speakers will challenge the climate crisis “narrative.”"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU’s von der Leyen Pledges to Revise Carbon Pricing System, Introduce €30 Billion Cleantech Fund",
+      "description": "European Commission President Ursula von der Leyen unveiled a series of commitments aimed at addressing",
+      "url": "https://www.esgtoday.com/eus-von-der-leyen-pledges-to-revise-carbon-pricing-system-introduce-e30-billion-cleantech-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eus-von-der-leyen-pledges-to-revise-carbon-pricing-system-introduce-e30-billion-cleantech-fund",
+      "publishedAt": "2026-03-20T15:07:59",
+      "content": "European Commission President Ursula von der Leyen unveiled a series of commitments aimed at addressing"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TotalEnergies Launches France’s First Advanced Plastics Recycling Plant",
+      "description": "France-based energy giant TotalEnergies announced today the launch of France’s first advanced plastics recycling plant,",
+      "url": "https://www.esgtoday.com/totalenergies-launches-frances-first-advanced-plastics-recycling-plant/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-launches-frances-first-advanced-plastics-recycling-plant",
+      "publishedAt": "2026-03-20T12:52:37",
+      "content": "France-based energy giant TotalEnergies announced today the launch of France’s first advanced plastics recycling plant,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "FedEx Invests in HBCU Pathways Through $2 Million Commitment",
+      "description": "FedEx has deepened its long-standing support for Historically Black Colleges and Universities with a four-year, $500,000 commitment to the business schools of Tennessee State University, Jackson St...",
+      "url": "https://csrwire.com/press-release/fedex-invests-hbcu-pathways-through-2-million-commitment/",
+      "publishedAt": "2026-03-20T11:00:00",
+      "content": "FedEx has deepened its long-standing support for Historically Black Colleges and Universities with a four-year, $500,000 commitment to the business schools of Tennessee State University, Jackson St..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How a Power Line From Canada Could Be a New York Lifeline",
+      "description": "The pipeline from Quebec will help New York meet ambitious targets for cutting back on greenhouse gas emissions and could be crucial if the city faces a power shortfall.",
+      "url": "https://www.nytimes.com/2026/03/20/nyregion/how-a-power-line-from-canada-could-be-a-new-york-lifeline.html",
+      "publishedAt": "2026-03-20T09:02:18",
+      "content": "The pipeline from Quebec will help New York meet ambitious targets for cutting back on greenhouse gas emissions and could be crucial if the city faces a power shortfall."
     },
     {
       "source": {
@@ -136,14 +235,102 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "Good On You"
       },
-      "author": "The Hindu",
-      "title": "Why green entrepreneurship is where India’s next jobs will come from",
-      "description": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change",
-      "url": "https://www.thehindu.com/education/careers/why-green-entrepreneurship-is-where-indias-next-jobs-will-come-from/article70730845.ece",
-      "publishedAt": "2026-03-14T08:43:09",
-      "content": "The most resilient careers will sit at the intersection of climate literacy and entrepreneurship and Indian institutions must respond to this change"
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Sneakers",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/the-ultimate-guide-to-sustainable-sneakers/",
+      "publishedAt": "2026-03-16T23:00:22",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "20 More Sustainable Alternatives to Barbour’s Outdoorsy Gear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-to-barbour/",
+      "publishedAt": "2026-03-15T23:00:36",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘A toad is a perfect tenner’: experts recommend wild candidates for new banknotes",
+      "description": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no...",
+      "url": "https://www.theguardian.com/environment/2026/mar/21/a-toad-is-a-perfect-tenner-experts-recommend-wild-candidates-for-new-banknotes",
+      "publishedAt": "2026-03-21T06:00:44",
+      "content": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Spring Is Here. Do You Care?",
+      "description": "A season celebrated by Shakespeare and the Beatles now ranks behind fall in popularity. After a harsh winter, can it regain its former glory?",
+      "url": "https://www.nytimes.com/2026/03/20/style/spring-season-comeback.html",
+      "publishedAt": "2026-03-20T22:55:59",
+      "content": "A season celebrated by Shakespeare and the Beatles now ranks behind fall in popularity. After a harsh winter, can it regain its former glory?"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Gas Plant Proposal for Rural Virginia Gets Local Land Use Approval",
+      "description": "PALMYRA, Va.",
+      "url": "https://insideclimatenews.org/news/20032026/virginia-fluvanna-gas-plant-land-approval/",
+      "publishedAt": "2026-03-20T21:03:57",
+      "content": "PALMYRA, Va."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "H&M Group Gets Grounded With SBTN Framework",
+      "description": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/hm-group-gets-grounded-with-sbtn-framework-1234817762/",
+      "publishedAt": "2026-03-20T18:27:10",
+      "content": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+      "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
+      "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-20T16:32:43",
+      "content": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Could the Dyson Case Open a New Route to Justice for Garment Workers?",
+      "description": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/dyson-case-justice-garment-workers-labour-behind-the-label-1234817578/",
+      "publishedAt": "2026-03-20T15:30:00",
+      "content": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Hybrid organ’: how a union of trees and fungi could revolutionise forest management",
+      "description": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester...",
+      "url": "https://www.theguardian.com/environment/2026/mar/20/hybrid-organ-trees-fungi-union-loblolly-pines-startup-forest-management",
+      "publishedAt": "2026-03-20T10:00:15",
+      "content": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester..."
     },
     {
       "source": {
@@ -177,17 +364,6 @@
       "url": "https://www.esgtoday.com/fervo-secures-421-million-to-build-u-s-geothermal-energy-project/?utm_source=rss&utm_medium=rss&utm_campaign=fervo-secures-421-million-to-build-u-s-geothermal-energy-project",
       "publishedAt": "2026-03-19T14:41:26",
       "content": "Geothermal energy project developer Fervo Energy announced today that it has secured $421 million in"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Stop mowing the lawn – and five more ways to save Britain’s ‘charming’ and ‘polite’ gatekeeper butterflies",
-      "description": "Conservation can be hard work.",
-      "url": "https://www.theguardian.com/environment/2026/mar/19/stop-mowing-the-lawn-five-more-ways-to-save-gatekeeper-butterflies-britain",
-      "publishedAt": "2026-03-19T12:46:08",
-      "content": "Conservation can be hard work."
     },
     {
       "source": {
@@ -235,149 +411,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Sneakers",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/the-ultimate-guide-to-sustainable-sneakers/",
-      "publishedAt": "2026-03-16T23:00:22",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "20 More Sustainable Alternatives to Barbour’s Outdoorsy Gear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-to-barbour/",
-      "publishedAt": "2026-03-15T23:00:36",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data",
-      "description": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say.",
-      "url": "https://www.nytimes.com/2026/03/19/climate/the-weather-is-getting-wilder-and-some-see-a-dire-signal-in-the-data.html",
-      "publishedAt": "2026-03-20T03:57:56",
-      "content": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
-      "description": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England.",
-      "url": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-20T03:34:02",
-      "content": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Gender Equality Remains ESG’s Obvious Yet Elusive Goal",
-      "description": "A new World Benchmarking Alliance report suggests that many public-facing policies remain largely untethered to operational reality.",
-      "url": "https://sourcingjournal.com/topics/labor/gender-equality-world-benchmarking-alliance-esg-workers-1234817634/",
-      "publishedAt": "2026-03-19T22:58:54",
-      "content": "A new World Benchmarking Alliance report suggests that many public-facing policies remain largely untethered to operational reality."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Armedangels Takes Aim at Plastic Outerwear with Lenzing",
-      "description": "The Cologne-based eco-brand's Tencel Lyocell ripstop windbreaker is the first membrane-free proof point for performance and sourcing transparency.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/armedangels-takes-aim-at-plastic-outerwear-lenzing-1234817557/",
-      "publishedAt": "2026-03-19T20:12:58",
-      "content": "The Cologne-based eco-brand's Tencel Lyocell ripstop windbreaker is the first membrane-free proof point for performance and sourcing transparency."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Denim Première Vision Is Heading to Japan",
-      "description": "The trade show will take place alongside Tranoï Tokyo",
-      "url": "https://sourcingjournal.com/denim/denim-business/denim-premiere-vision-tokyo-japan-gl-events-1234817427/",
-      "publishedAt": "2026-03-19T16:32:00",
-      "content": "The trade show will take place alongside Tranoï Tokyo"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "King opens world’s longest managed coastal walk – but much of it is still closed off",
-      "description": "Landowner disputes, coastal erosion and disused ferry hindering completion of King Charles III England coast pathThe longest managed coastal walking route in the world has been opened by the king a...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/19/worlds-longest-managed-coastal-walk-much-still-closed",
-      "publishedAt": "2026-03-19T16:09:52",
-      "content": "Landowner disputes, coastal erosion and disused ferry hindering completion of King Charles III England coast pathThe longest managed coastal walking route in the world has been opened by the king a..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sex garden to ‘break taboos’ at Chelsea flower show as gnome ban ends",
-      "description": "Lovehoney sponsors Aphrodite-themed ‘pleasure garden’ full of flowers associated with love and sexIt is one of the most prestigious events of the UK social calendar, but the great and good attendin...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/19/chelsea-flower-show-sex-garden-break-taboos-lovehoney",
-      "publishedAt": "2026-03-19T15:00:53",
-      "content": "Lovehoney sponsors Aphrodite-themed ‘pleasure garden’ full of flowers associated with love and sexIt is one of the most prestigious events of the UK social calendar, but the great and good attendin..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "King opens world's longest coastal path around England",
-      "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
-      "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-19T14:34:11",
-      "content": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Just two flavours of chips and pub theme nights: how these isolated Queensland towns have survived being cut off for weeks",
-      "description": "Birdsville and Bedourie locals are used to being trapped by flooding – but if they run out of Tim Tams and chocolate, ‘that’s a big problem’Follow our Australia news live blog for latest updatesGet...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/19/queensland-floods-birdsville-bedourie-towns-cut-off-for-weeks",
-      "publishedAt": "2026-03-19T14:00:53",
-      "content": "Birdsville and Bedourie locals are used to being trapped by flooding – but if they run out of Tim Tams and chocolate, ‘that’s a big problem’Follow our Australia news live blog for latest updatesGet..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Lee x J.Crew Collection",
-      "description": "",
-      "url": "https://sourcingjournal.com/gallery/denim/denim-brands/lee-j-crew-collection-1234817276/",
-      "publishedAt": "2026-03-19T13:00:54",
-      "content": ""
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Vanishing Next Generation of US-Made EVs",
-      "description": "Honda is being whipsawed by a decreasing emphasis on electric vehicles in the United States and a rapid shift to EVs in China.",
-      "url": "https://insideclimatenews.org/news/19032026/inside-clean-energy-us-ev-production/",
-      "publishedAt": "2026-03-19T13:00:00",
-      "content": "Honda is being whipsawed by a decreasing emphasis on electric vehicles in the United States and a rapid shift to EVs in China."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -408,17 +441,6 @@
       "url": "https://csrwire.com/press-release/watch-iwbi-participates-parliament-new-south-wales-public-hearing-indoor-air-quality/",
       "publishedAt": "2026-03-18T12:45:00",
       "content": "Following submission to an inquiry from NSW Parliament, Jack Noonan, Head of Asia Pacific, Senior Vice President, represented the organization by presenting evidence to the NSW Upper House Portfoli..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs Deal to Remove 200,000 Tons of CO2 by Turning Landfill Waste into Biochar",
-      "description": "Google announced that it has signed a new multi-year agreement with AI-powered recycling technology provider",
-      "url": "https://www.esgtoday.com/google-signs-deal-to-remove-200000-tons-of-co2-by-turning-landfill-waste-into-biochar/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-remove-200000-tons-of-co2-by-turning-landfill-waste-into-biochar",
-      "publishedAt": "2026-03-18T11:50:49",
-      "content": "Google announced that it has signed a new multi-year agreement with AI-powered recycling technology provider"
     },
     {
       "source": {
@@ -455,36 +477,91 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "Cencora Releases Fiscal Year 2025 Corporate Responsibility Report, Marking 10 Years of Purpose in Action",
-      "description": "Cencora, a global pharmaceutical solutions company, today released its Fiscal Year 2025 Corporate Responsibility Report: Purpose in Action, marking a decade of annual reporting and driving continuo...",
-      "url": "https://csrwire.com/press-release/cencora-releases-fiscal-year-2025-corporate-responsibility-report-marking-10-years-purpose/",
-      "publishedAt": "2026-03-18T09:00:00",
-      "content": "Cencora, a global pharmaceutical solutions company, today released its Fiscal Year 2025 Corporate Responsibility Report: Purpose in Action, marking a decade of annual reporting and driving continuo..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "International Women’s Day: The Power of SHE at Mary Kay, 13 Women Leading, Lifting, and Inspiring",
-      "description": "At Mary Kay Inc.",
-      "url": "https://csrwire.com/press-release/international-womens-day-power-she-mary-kay-13-women-leading-lifting-and-inspiring/",
-      "publishedAt": "2026-03-18T08:00:00",
-      "content": "At Mary Kay Inc."
+      "author": "The Guardian",
+      "title": "People in North Yorkshire town found to have ‘alarming’ levels of toxic Pfas chemicals in blood",
+      "description": "Exclusive: Testing in Bentham, home to UK’s highest recorded Pfas levels, finds one in four have blood levels in greatest risk categoryAlarming levels of toxic forever chemicals have been found in ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/20/bentham-north-yorkshire-pfas-toxic-forever-chemicals-blood",
+      "publishedAt": "2026-03-20T06:00:11",
+      "content": "Exclusive: Testing in Bentham, home to UK’s highest recorded Pfas levels, finds one in four have blood levels in greatest risk categoryAlarming levels of toxic forever chemicals have been found in ..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Thousands of seabirds dying on western Europe’s coasts",
-      "description": "Puffins, guillemots and razorbills are being washed up dead or dying on Europe’s Atlantic coast in what scientists call a ‘wreck’Thousands of seabirds – mostly puffins, but also many guillemots and...",
-      "url": "https://www.theguardian.com/news/2026/mar/19/thousands-seabirds-dying-western-europe-coast",
-      "publishedAt": "2026-03-19T06:00:03",
-      "content": "Puffins, guillemots and razorbills are being washed up dead or dying on Europe’s Atlantic coast in what scientists call a ‘wreck’Thousands of seabirds – mostly puffins, but also many guillemots and..."
+      "title": "‘Smokeless’ fuels produce more ultrafine particles that get embedded in lungs, study shows",
+      "description": "The tiny size of the particles means they can become deposited deep in people’s lungs, causing a health riskNew research has found that burning “smokeless” or low-smoke fuels may be causing new air...",
+      "url": "https://www.theguardian.com/environment/2026/mar/20/smokeless-fuels-ultrafine-particles-embedded-lungs-study",
+      "publishedAt": "2026-03-20T06:00:11",
+      "content": "The tiny size of the particles means they can become deposited deep in people’s lungs, causing a health riskNew research has found that burning “smokeless” or low-smoke fuels may be causing new air..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The messy chaos of nesting herons | Mary Montague",
+      "description": "Stranmillis University College, Belfast: There’s a fuss going on high up in the trees, as these early breeders have already got going with this year’s broodA robin is singing. Moonlight gleams thro...",
+      "url": "https://www.theguardian.com/environment/2026/mar/20/country-diary-the-messy-chaos-of-nesting-herons",
+      "publishedAt": "2026-03-20T05:30:10",
+      "content": "Stranmillis University College, Belfast: There’s a fuss going on high up in the trees, as these early breeders have already got going with this year’s broodA robin is singing. Moonlight gleams thro..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data",
+      "description": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say.",
+      "url": "https://www.nytimes.com/2026/03/19/climate/the-weather-is-getting-wilder-and-some-see-a-dire-signal-in-the-data.html",
+      "publishedAt": "2026-03-20T03:57:56",
+      "content": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
+      "description": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England.",
+      "url": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-20T03:34:02",
+      "content": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Natural History Museum overtakes British Museum as UK's top tourist attraction",
+      "description": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
+      "url": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-20T00:05:07",
+      "content": "The venue broke the record for the most visitors to any museum or gallery in a single year."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sex garden to ‘break taboos’ at Chelsea flower show as gnome ban ends",
+      "description": "Lovehoney sponsors Aphrodite-themed ‘pleasure garden’ full of flowers associated with love and sexIt is one of the most prestigious events of the UK social calendar, but the great and good attendin...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/mar/19/chelsea-flower-show-sex-garden-break-taboos-lovehoney",
+      "publishedAt": "2026-03-19T15:00:53",
+      "content": "Lovehoney sponsors Aphrodite-themed ‘pleasure garden’ full of flowers associated with love and sexIt is one of the most prestigious events of the UK social calendar, but the great and good attendin..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "King opens world's longest coastal path around England",
+      "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
+      "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-19T14:34:11",
+      "content": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time."
     },
     {
       "source": {
@@ -496,17 +573,6 @@
       "url": "https://goodonyou.eco/more-sustainable-office-clothes-2026/",
       "publishedAt": "2026-03-19T02:43:33",
       "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Mullin Signals He Would End Noem Policy That Slowed Disaster Aid",
-      "description": "The president’s nominee, Markwayne Mullin, said he would avoid “micromanaging” FEMA.",
-      "url": "https://www.nytimes.com/2026/03/18/climate/mullin-fema-noem-delays.html",
-      "publishedAt": "2026-03-18T21:01:24",
-      "content": "The president’s nominee, Markwayne Mullin, said he would avoid “micromanaging” FEMA."
     },
     {
       "source": {
@@ -529,50 +595,6 @@
       "url": "https://www.bbc.com/news/articles/c9dn770n1deo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-03-18T17:13:28",
       "content": "Fly tippers could face up to 20 hours of community service removing rubbish they have illegally dumped."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A New Wine Label Promotes Workers’ Rights",
-      "description": "When Cary Quintana learned about a new initiative to promote fair treatment and safe conditions for vineyard workers, the Northern California winemaker immediately signed on.  Quintana has partnere...",
-      "url": "https://insideclimatenews.org/news/18032026/california-wine-label-promotes-workers-rights/",
-      "publishedAt": "2026-03-18T09:00:00",
-      "content": "When Cary Quintana learned about a new initiative to promote fair treatment and safe conditions for vineyard workers, the Northern California winemaker immediately signed on.  Quintana has partnere..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Butterflies crossing oceans, moths navigating by the stars: unravelling the mysteries of insect migrations",
-      "description": "Trillions of insects embark, largely unnoticed, on epic journeys every year across mountain ranges, deserts and seas, and it is only now, as their numbers suffer huge declines, that scientists are ...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/mar/18/butterflies-crossing-oceans-moths-navigating-stars-insect-migrations-aoe",
-      "publishedAt": "2026-03-18T08:00:27",
-      "content": "Trillions of insects embark, largely unnoticed, on epic journeys every year across mountain ranges, deserts and seas, and it is only now, as their numbers suffer huge declines, that scientists are ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Dog owners to face unlimited fines if their pets attack livestock under new law",
-      "description": "Police will have new powers to seize and detain dogs that have attacked or chased farm animals.",
-      "url": "https://www.bbc.com/news/articles/cy0dxzz0pzro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-18T02:26:55",
-      "content": "Police will have new powers to seize and detain dogs that have attacked or chased farm animals."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Plexes, Pods and Micro-Centers: New Family Childcare Models Are Bringing Business and Families Back to Main Street",
-      "description": "By converting homes and small-scale commercial spaces into turnkey sites for family childcare providers, small towns across the country are creating new childcare slots, good jobs, and communities ...",
-      "url": "https://triplepundit.com/2026/affordable-childcare-model-flex-plex-rural-communities/",
-      "publishedAt": "2026-03-13T13:00:00",
-      "content": "By converting homes and small-scale commercial spaces into turnkey sites for family childcare providers, small towns across the country are creating new childcare slots, good jobs, and communities ..."
     }
   ]
 }
