@@ -1,29 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 51,
+  "totalResults": 42,
   "articles": [
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This March 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-03-16T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Susan Collins and Climate Change: ‘The Silence is Deafening’",
-      "description": "Last August, when reports emerged that the Environmental Protection Agency (EPA) planned to cancel $7 billion in grants for solar panels for low-income households, including an estimated 20,000 hou...",
-      "url": "https://insideclimatenews.org/news/21032026/maine-senator-susan-collins-climate-action/",
-      "publishedAt": "2026-03-21T08:55:00",
-      "content": "Last August, when reports emerged that the Environmental Protection Agency (EPA) planned to cancel $7 billion in grants for solar panels for low-income households, including an estimated 20,000 hou..."
-    },
     {
       "source": {
         "name": "Triple Pundit"
@@ -45,6 +23,17 @@
       "url": "https://csrwire.com/press-release/how-capturing-landfill-methane-can-strengthen-climate-resilience-and-community-equity-georgia/",
       "publishedAt": "2026-03-20T09:40:00",
       "content": "Climate activist, Eriqah Vincent, sits down with Garry Harris, Managing Director of the Center for Sustainable Communities, to explore why landfill methane capture deserves more attention and how i..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Susan Collins and Climate Change: ‘The Silence is Deafening’",
+      "description": "Last August, when reports emerged that the Environmental Protection Agency (EPA) planned to cancel $7 billion in grants for solar panels for low-income households, including an estimated 20,000 hou...",
+      "url": "https://insideclimatenews.org/news/21032026/maine-senator-susan-collins-climate-action/",
+      "publishedAt": "2026-03-21T08:55:00",
+      "content": "Last August, when reports emerged that the Environmental Protection Agency (EPA) planned to cancel $7 billion in grants for solar panels for low-income households, including an estimated 20,000 hou..."
     },
     {
       "source": {
@@ -70,6 +59,28 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.N. Climate Report Finds Growing Energy Imbalance on Earth",
+      "description": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds.",
+      "url": "https://www.nytimes.com/2026/03/22/climate/energy-imbalance-un-report.html",
+      "publishedAt": "2026-03-23T03:00:04",
+      "content": "The continued burning of fossil fuels is locking heat in Earth’s atmosphere, oceans and land — instead of allowing it to reflect back into space, a new report finds."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Courts’ Fight Over ‘Cop City’ Protests Raises Questions About Terrorism Laws and Environmental Activism",
+      "description": "ATLANTA—On a recent March morning, a large monitor at the front of a DeKalb County courtroom flickered to life as Superior Court Judge David B.",
+      "url": "https://insideclimatenews.org/news/22032026/atlanta-cop-city-protests-legal-battles/",
+      "publishedAt": "2026-03-22T08:55:00",
+      "content": "ATLANTA—On a recent March morning, a large monitor at the front of a DeKalb County courtroom flickered to life as Superior Court Judge David B."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -78,6 +89,17 @@
       "url": "https://www.theguardian.com/environment/2026/mar/21/lincolnshire-solar-farm-controversy-british-countryside",
       "publishedAt": "2026-03-21T12:00:51",
       "content": "In one corner, clean energy champion Ed Miliband."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New York’s Governor Pushes to Delay a Key Portion of the State’s Climate Law",
+      "description": "New York Gov.",
+      "url": "https://insideclimatenews.org/news/20032026/new-york-gov-kathy-hochul-delays-climate-law-key-portion/",
+      "publishedAt": "2026-03-20T21:41:05",
+      "content": "New York Gov."
     },
     {
       "source": {
@@ -100,61 +122,6 @@
       "url": "https://www.esgtoday.com/ings-sustainable-finance-activity-jumps-28-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=ings-sustainable-finance-activity-jumps-28-in-2025",
       "publishedAt": "2026-03-19T14:00:09",
       "content": "Amsterdam-based global bank ING reported significant growth in its sustainable finance activity over the past"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New York’s Governor Pushes to Delay a Key Portion of the State’s Climate Law",
-      "description": "New York Gov.",
-      "url": "https://insideclimatenews.org/news/20032026/new-york-gov-kathy-hochul-delays-climate-law-key-portion/",
-      "publishedAt": "2026-03-20T21:41:05",
-      "content": "New York Gov."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A New Study Links a Record-Breaking Tropical Disease Outbreak in Peru to Climate-Driven Extreme Weather",
-      "description": "Every year, mosquitoes in mostly tropical and subtropical countries cause millions of cases of dengue fever, a virus that induces potentially lethal flu-like symptoms. Cases surged in 2019, after r...",
-      "url": "https://insideclimatenews.org/news/20032026/peru-dengue-fever-record-outbreak-climate-driven-weather/",
-      "publishedAt": "2026-03-20T18:18:22",
-      "content": "Every year, mosquitoes in mostly tropical and subtropical countries cause millions of cases of dengue fever, a virus that induces potentially lethal flu-like symptoms. Cases surged in 2019, after r..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Hochul Moves to Delay and Alter Climate Law, Citing Energy Prices",
-      "description": "The proposal, currently being considered by the Legislature during budget talks, would put off regulations for enforcing the law until 2030.",
-      "url": "https://www.nytimes.com/2026/03/20/nyregion/hochul-new-york-climate-law-delay.html",
-      "publishedAt": "2026-03-20T16:55:30",
-      "content": "The proposal, currently being considered by the Legislature during budget talks, would put off regulations for enforcing the law until 2030."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Oil firm breaks environmental rules nearly 500 times",
-      "description": "Operator Essar has apologised for the breaches committed over four years.",
-      "url": "https://www.bbc.com/news/articles/c4g6l0v2e3zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-20T11:59:54",
-      "content": "Operator Essar has apologised for the breaches committed over four years."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Yes, Venezuela Has a Ton of Oil—But Its Biggest Opportunity Is Offshore Wind",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Paasha Mahdavi, an associate professor of political science at the Uni...",
-      "url": "https://insideclimatenews.org/news/21032026/venezuela-offshore-wind-opportunity/",
-      "publishedAt": "2026-03-21T08:50:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Paasha Mahdavi, an associate professor of political science at the Uni..."
     },
     {
       "source": {
@@ -191,25 +158,47 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "20 More Sustainable Alternatives to Barbour’s Outdoorsy Gear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-to-barbour/",
-      "publishedAt": "2026-03-15T23:00:36",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "BBC",
+      "title": "MP raises Heathrow expansion transport concerns",
+      "description": "Windsor MP, Jack Rankin says he backs the idea of a western rail link to Heathrow.",
+      "url": "https://www.bbc.com/news/articles/c0le8w6748wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-23T06:09:12",
+      "content": "Windsor MP, Jack Rankin says he backs the idea of a western rail link to Heathrow."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Tehran’s toxic cloud: satellite images show oily fires burned for days",
+      "description": "Residents reported headaches, eye and skin irritation and breathing difficulties as Israeli bombings blanketed Tehran with pollutantsMiddle East crisis live – latest updatesSatellite images of Tehr...",
+      "url": "https://www.theguardian.com/world/2026/mar/23/tehran-toxic-cloud-satellite-image-oil-fires",
+      "publishedAt": "2026-03-23T05:00:40",
+      "content": "Residents reported headaches, eye and skin irritation and breathing difficulties as Israeli bombings blanketed Tehran with pollutantsMiddle East crisis live – latest updatesSatellite images of Tehr..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Two Years After Fatal Explosion, Alabama Mine Regulator ‘Letting the Fox Guard the Henhouse’",
-      "description": "OAK GROVE, Ala.",
-      "url": "https://insideclimatenews.org/news/21032026/alabama-mine-explosion-regulation-under-trump/",
-      "publishedAt": "2026-03-21T09:00:00",
-      "content": "OAK GROVE, Ala."
+      "title": "In the Fight to Defend the Amazon, This Indigenous Community’s Secret Weapon Is Science",
+      "description": "MAIKIUANTS, Ecuador—By the time Olger Kitiar reached the ridge, his shirt was wet with sweat, clinging to his back.",
+      "url": "https://insideclimatenews.org/news/22032026/ecuador-amazon-indigenous-communitys-paraecologists/",
+      "publishedAt": "2026-03-22T09:00:00",
+      "content": "MAIKIUANTS, Ecuador—By the time Olger Kitiar reached the ridge, his shirt was wet with sweat, clinging to his back."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Yes, Venezuela Has a Ton of Oil—But Its Biggest Opportunity Is Offshore Wind",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Paasha Mahdavi, an associate professor of political science at the Uni...",
+      "url": "https://insideclimatenews.org/news/21032026/venezuela-offshore-wind-opportunity/",
+      "publishedAt": "2026-03-21T08:50:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Paasha Mahdavi, an associate professor of political science at the Uni..."
     },
     {
       "source": {
@@ -232,17 +221,6 @@
       "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
       "publishedAt": "2026-03-20T17:41:47",
       "content": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticidesThe population of monarch butterflies in Mexico increased 64% this winter, compared ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Lee Zeldin, E.P.A. Chief, to Headline Heartland Institute Forum",
-      "description": "Lee Zeldin, the agency administrator, will address a Heartland Institute forum in April. The organization says speakers will challenge the climate crisis “narrative.”",
-      "url": "https://www.nytimes.com/2026/03/20/climate/zeldin-epa-heartland-institute.html",
-      "publishedAt": "2026-03-20T15:48:31",
-      "content": "Lee Zeldin, the agency administrator, will address a Heartland Institute forum in April. The organization says speakers will challenge the climate crisis “narrative.”"
     },
     {
       "source": {
@@ -276,6 +254,83 @@
       "url": "https://csrwire.com/press-release/fedex-invests-hbcu-pathways-through-2-million-commitment/",
       "publishedAt": "2026-03-20T11:00:00",
       "content": "FedEx has deepened its long-standing support for Historically Black Colleges and Universities with a four-year, $500,000 commitment to the business schools of Tennessee State University, Jackson St..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Two Years After Fatal Explosion, Alabama Mine Regulator ‘Letting the Fox Guard the Henhouse,’ Resident Says",
+      "description": "OAK GROVE, Ala.",
+      "url": "https://insideclimatenews.org/news/21032026/alabama-mine-explosion-regulation-under-trump/",
+      "publishedAt": "2026-03-21T09:00:00",
+      "content": "OAK GROVE, Ala."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘A toad is a perfect tenner’: experts recommend wild candidates for new banknotes",
+      "description": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no...",
+      "url": "https://www.theguardian.com/environment/2026/mar/21/a-toad-is-a-perfect-tenner-experts-recommend-wild-candidates-for-new-banknotes",
+      "publishedAt": "2026-03-21T06:00:44",
+      "content": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The weeds in my garden aren’t disposable – they’re edible | Michael White",
+      "description": "Cranbrook, Kent: Fat hen, chickweed and stinging nettles often end up in the compost heap, but they deserve a try in the kitchenBy March, traditional gardeners have worked hard to eradicate weeds i...",
+      "url": "https://www.theguardian.com/environment/2026/mar/21/country-diary-the-weeds-in-my-garden-arent-disposable-theyre-edible",
+      "publishedAt": "2026-03-21T05:30:43",
+      "content": "Cranbrook, Kent: Fat hen, chickweed and stinging nettles often end up in the compost heap, but they deserve a try in the kitchenBy March, traditional gardeners have worked hard to eradicate weeds i..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "H&M Group Gets Grounded With SBTN Framework",
+      "description": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/hm-group-gets-grounded-with-sbtn-framework-1234817762/",
+      "publishedAt": "2026-03-20T18:27:10",
+      "content": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+      "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
+      "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-20T16:32:43",
+      "content": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Could the Dyson Case Open a New Route to Justice for Garment Workers?",
+      "description": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/dyson-case-justice-garment-workers-labour-behind-the-label-1234817578/",
+      "publishedAt": "2026-03-20T15:30:00",
+      "content": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Hybrid organ’: how a union of trees and fungi could revolutionise forest management",
+      "description": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester...",
+      "url": "https://www.theguardian.com/environment/2026/mar/20/hybrid-organ-trees-fungi-union-loblolly-pines-startup-forest-management",
+      "publishedAt": "2026-03-20T10:00:15",
+      "content": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester..."
     },
     {
       "source": {
@@ -353,160 +408,6 @@
       "url": "https://csrwire.com/press-release/mastercard-gen-z-entering-workplace-and-theyre-changing-how-businesses-work/",
       "publishedAt": "2026-03-19T09:00:00",
       "content": "Consumer payments have evolved dramatically over the past two decades."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A toad is a perfect tenner’: experts recommend wild candidates for new banknotes",
-      "description": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no...",
-      "url": "https://www.theguardian.com/environment/2026/mar/21/a-toad-is-a-perfect-tenner-experts-recommend-wild-candidates-for-new-banknotes",
-      "publishedAt": "2026-03-21T06:00:44",
-      "content": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Gas Plant Proposal for Rural Virginia Gets Local Land Use Approval",
-      "description": "PALMYRA, Va.",
-      "url": "https://insideclimatenews.org/news/20032026/virginia-fluvanna-gas-plant-land-approval/",
-      "publishedAt": "2026-03-20T21:03:57",
-      "content": "PALMYRA, Va."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "H&M Group Gets Grounded With SBTN Framework",
-      "description": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/hm-group-gets-grounded-with-sbtn-framework-1234817762/",
-      "publishedAt": "2026-03-20T18:27:10",
-      "content": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
-      "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
-      "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-20T16:32:43",
-      "content": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Could the Dyson Case Open a New Route to Justice for Garment Workers?",
-      "description": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/dyson-case-justice-garment-workers-labour-behind-the-label-1234817578/",
-      "publishedAt": "2026-03-20T15:30:00",
-      "content": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Hybrid organ’: how a union of trees and fungi could revolutionise forest management",
-      "description": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester...",
-      "url": "https://www.theguardian.com/environment/2026/mar/20/hybrid-organ-trees-fungi-union-loblolly-pines-startup-forest-management",
-      "publishedAt": "2026-03-20T10:00:15",
-      "content": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "People in North Yorkshire town found to have ‘alarming’ levels of toxic Pfas chemicals in blood",
-      "description": "Exclusive: Testing in Bentham, home to UK’s highest recorded Pfas levels, finds one in four have blood levels in greatest risk categoryAlarming levels of toxic forever chemicals have been found in ...",
-      "url": "https://www.theguardian.com/environment/2026/mar/20/bentham-north-yorkshire-pfas-toxic-forever-chemicals-blood",
-      "publishedAt": "2026-03-20T06:00:11",
-      "content": "Exclusive: Testing in Bentham, home to UK’s highest recorded Pfas levels, finds one in four have blood levels in greatest risk categoryAlarming levels of toxic forever chemicals have been found in ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Smokeless’ fuels produce more ultrafine particles that get embedded in lungs, study shows",
-      "description": "The tiny size of the particles means they can become deposited deep in people’s lungs, causing a health riskNew research has found that burning “smokeless” or low-smoke fuels may be causing new air...",
-      "url": "https://www.theguardian.com/environment/2026/mar/20/smokeless-fuels-ultrafine-particles-embedded-lungs-study",
-      "publishedAt": "2026-03-20T06:00:11",
-      "content": "The tiny size of the particles means they can become deposited deep in people’s lungs, causing a health riskNew research has found that burning “smokeless” or low-smoke fuels may be causing new air..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The messy chaos of nesting herons | Mary Montague",
-      "description": "Stranmillis University College, Belfast: There’s a fuss going on high up in the trees, as these early breeders have already got going with this year’s broodA robin is singing. Moonlight gleams thro...",
-      "url": "https://www.theguardian.com/environment/2026/mar/20/country-diary-the-messy-chaos-of-nesting-herons",
-      "publishedAt": "2026-03-20T05:30:10",
-      "content": "Stranmillis University College, Belfast: There’s a fuss going on high up in the trees, as these early breeders have already got going with this year’s broodA robin is singing. Moonlight gleams thro..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Weather Is Getting Wilder, and Some See a Dire Signal in the Data",
-      "description": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say.",
-      "url": "https://www.nytimes.com/2026/03/19/climate/the-weather-is-getting-wilder-and-some-see-a-dire-signal-in-the-data.html",
-      "publishedAt": "2026-03-20T03:57:56",
-      "content": "Several of the Earth’s systems are changing faster than predicted as global temperatures rise, scientists say."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Taxpayers to fund clear-up of huge illegal waste dumps",
-      "description": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England.",
-      "url": "https://www.bbc.com/news/articles/cx2expk404vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-20T03:34:02",
-      "content": "The government says it will step in to clean up some of the biggest illegal rubbish tips in England."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Natural History Museum overtakes British Museum as UK's top tourist attraction",
-      "description": "The venue broke the record for the most visitors to any museum or gallery in a single year.",
-      "url": "https://www.bbc.com/news/articles/c70n09pz4y1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-20T00:05:07",
-      "content": "The venue broke the record for the most visitors to any museum or gallery in a single year."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "King opens world's longest coastal path around England",
-      "description": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time.",
-      "url": "https://www.bbc.com/news/articles/cy0dxexdd8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-19T14:34:11",
-      "content": "The King Charles coastal path will allow walkers right of access to the entire coast for the first time."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "LEGO to Install Over 40,000 Solar Panels at its First U.S. Factory",
-      "description": "The LEGO Group announced today that it plans to build an 80-acre solar park at",
-      "url": "https://www.esgtoday.com/lego-to-install-over-40000-solar-panels-at-its-first-u-s-factory/?utm_source=rss&utm_medium=rss&utm_campaign=lego-to-install-over-40000-solar-panels-at-its-first-u-s-factory",
-      "publishedAt": "2026-03-18T17:13:28",
-      "content": "The LEGO Group announced today that it plans to build an 80-acre solar park at"
     },
     {
       "source": {
