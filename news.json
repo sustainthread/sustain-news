@@ -1,7 +1,51 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 48,
   "articles": [
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Report: Companies Maintaining Sustainability Budgets Despite Trade Disruptions",
+      "description": "EiQ assessed data on corporate sustainability budgets across a number of sectors, including transport and supply chain management.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/eiq-companies-maintaining-sustainability-budgets-despite-trade-disruptions-1234817794/",
+      "publishedAt": "2026-03-23T18:00:00",
+      "content": "EiQ assessed data on corporate sustainability budgets across a number of sectors, including transport and supply chain management."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "The Language of Climate Tech is Changing, and it Says a Lot About Where Sustainability is Headed",
+      "description": "Guest post by: Amelia Zimmerman, Co-Founder at The Climate Hub Over the past several years,",
+      "url": "https://www.esgtoday.com/the-language-of-climate-tech-is-changing-and-it-says-a-lot-about-where-sustainability-is-headed/?utm_source=rss&utm_medium=rss&utm_campaign=the-language-of-climate-tech-is-changing-and-it-says-a-lot-about-where-sustainability-is-headed",
+      "publishedAt": "2026-03-23T09:18:17",
+      "content": "Guest post by: Amelia Zimmerman, Co-Founder at The Climate Hub Over the past several years,"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Climate-Fueled Wildfires and Dust Storms Drove Up Air Pollution Around the World Last Year",
+      "description": "A new report on global air pollution shows that the majority of the world’s population breathes unhealthy air, and climate change is making the problem worse. The report was published Tuesday by IQ...",
+      "url": "https://insideclimatenews.org/news/24032026/wildfires-dust-storms-air-pollution-risks/",
+      "publishedAt": "2026-03-24T04:01:00",
+      "content": "A new report on global air pollution shows that the majority of the world’s population breathes unhealthy air, and climate change is making the problem worse. The report was published Tuesday by IQ..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This March 2026",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-03-18T06:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
     {
       "source": {
         "name": "Triple Pundit"
@@ -26,36 +70,47 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Sourcing Journal"
       },
-      "author": "Inside Climate News",
-      "title": "Susan Collins and Climate Change: ‘The Silence is Deafening’",
-      "description": "Last August, when reports emerged that the Environmental Protection Agency (EPA) planned to cancel $7 billion in grants for solar panels for low-income households, including an estimated 20,000 hou...",
-      "url": "https://insideclimatenews.org/news/21032026/maine-senator-susan-collins-climate-action/",
-      "publishedAt": "2026-03-21T08:55:00",
-      "content": "Last August, when reports emerged that the Environmental Protection Agency (EPA) planned to cancel $7 billion in grants for solar panels for low-income households, including an estimated 20,000 hou..."
+      "author": "Sourcing Journal",
+      "title": "Everlane Partners With Masters of Flax Fibre for Fully Traceable Collection",
+      "description": "This collection is the latest move from the California-based retailer to reduce its environmental impact and improve sustainability and circularity.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/everlane-partners-with-masters-flax-fibre-1234817580/",
+      "publishedAt": "2026-03-23T17:00:00",
+      "content": "This collection is the latest move from the California-based retailer to reduce its environmental impact and improve sustainability and circularity."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Earth Blox Raises $8 Million to Help Companies Assess Climate, Nature Risks",
-      "description": "Environmental intelligence company Earth Blox announced that it has secured £6 million (USD$8 million) in",
-      "url": "https://www.esgtoday.com/earth-blox-raises-8-million-to-help-companies-assess-climate-nature-risks/?utm_source=rss&utm_medium=rss&utm_campaign=earth-blox-raises-8-million-to-help-companies-assess-climate-nature-risks",
-      "publishedAt": "2026-03-19T10:04:30",
-      "content": "Environmental intelligence company Earth Blox announced that it has secured £6 million (USD$8 million) in"
+      "title": "New York Governor Proposes Pushing Back Climate Targets that Have Become “Costly and Unattainable”",
+      "description": "New York Governor Kathy Hochul announced plans to revise the state’s climate laws requiring the",
+      "url": "https://www.esgtoday.com/new-york-governor-proposes-pushing-back-climate-targets-that-have-become-costly-and-unattainable/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-governor-proposes-pushing-back-climate-targets-that-have-become-costly-and-unattainable",
+      "publishedAt": "2026-03-23T16:43:44",
+      "content": "New York Governor Kathy Hochul announced plans to revise the state’s climate laws requiring the"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "24 States Sue E.P.A. Over Climate Change Decision",
-      "description": "The suit accuses the agency of illegally repealing the endangerment finding, the scientific assessment that required it to regulate greenhouse gases.",
-      "url": "https://www.nytimes.com/2026/03/19/climate/epa-endangerment-states-lawsuit.html",
-      "publishedAt": "2026-03-19T18:02:19",
-      "content": "The suit accuses the agency of illegally repealing the endangerment finding, the scientific assessment that required it to regulate greenhouse gases."
+      "author": "ESG Today",
+      "title": "Nomura AM Appoints Nick Henderson as Head of Global Sustainable Equities",
+      "description": "Nomura Asset Management announced the appointment of Nick Henderson sustainable investing veteran Nick Henderson as",
+      "url": "https://www.esgtoday.com/nomura-appoints-nick-henderson-as-head-of-global-sustainable-equities/?utm_source=rss&utm_medium=rss&utm_campaign=nomura-appoints-nick-henderson-as-head-of-global-sustainable-equities",
+      "publishedAt": "2026-03-23T11:14:58",
+      "content": "Nomura Asset Management announced the appointment of Nick Henderson sustainable investing veteran Nick Henderson as"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Report Shows Earth’s Climate is Out of Balance, as Indicators Hit New Extremes",
+      "description": "The world is in a state of climate emergency, the head of the United Nations declared Sunday, following the release of the latest State of the Global Climate report from the World Meteorological Or...",
+      "url": "https://insideclimatenews.org/news/23032026/wmo-report-highlights-global-emergency/",
+      "publishedAt": "2026-03-23T16:28:30",
+      "content": "The world is in a state of climate emergency, the head of the United Nations declared Sunday, following the release of the latest State of the Global Climate report from the World Meteorological Or..."
     },
     {
       "source": {
@@ -81,58 +136,102 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "‘It was our little idyll – until the solar farm landed’: the battle raging in the heart of the British countryside",
-      "description": "In one corner, clean energy champion Ed Miliband.",
-      "url": "https://www.theguardian.com/environment/2026/mar/21/lincolnshire-solar-farm-controversy-british-countryside",
-      "publishedAt": "2026-03-21T12:00:51",
-      "content": "In one corner, clean energy champion Ed Miliband."
+      "author": "Triple Pundit",
+      "title": "How Montana Tribes Are Using Sovereignty to Restore Their Waterways",
+      "description": "‘We live at the backbone of the world, where the water begins.’TriplePundit",
+      "url": "https://triplepundit.com/2026/jocko-river-restoration-montana-confederated-salish-kootenai-tribes/",
+      "publishedAt": "2026-03-23T16:16:41",
+      "content": "‘We live at the backbone of the world, where the water begins.’TriplePundit"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Commission Approves €5 Billion Danish Offshore Wind Program",
+      "description": "The European Commission announced today that it has approved a €5 billion state aid program",
+      "url": "https://www.esgtoday.com/eu-commission-approves-e5-billion-danish-offshore-wind-program/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-approves-e5-billion-danish-offshore-wind-program",
+      "publishedAt": "2026-03-23T15:25:16",
+      "content": "The European Commission announced today that it has approved a €5 billion state aid program"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Triple Pundit: Camden Healthcare Workers Confront the Barriers Holding Back Their Neighbors’ Health",
+      "description": "The Healthy Neighbor program, led by healthcare provider Virtua Health and supported by global medical technology company Medtronic and Medtronic LABS, recognizes that health goes beyond medicine a...",
+      "url": "https://csrwire.com/press-release/triple-pundit-camden-healthcare-workers-confront-barriers-holding-back-their-neighbors-health/",
+      "publishedAt": "2026-03-23T13:45:00",
+      "content": "The Healthy Neighbor program, led by healthcare provider Virtua Health and supported by global medical technology company Medtronic and Medtronic LABS, recognizes that health goes beyond medicine a..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "H&M Sets Science-Based Nature Targets to Address Impact of Supply Chain on Land",
+      "description": "H&M Group announced that it has established a series of targets to address its nature-related",
+      "url": "https://www.esgtoday.com/hm-sets-land-focused-science-based-nature-targets/?utm_source=rss&utm_medium=rss&utm_campaign=hm-sets-land-focused-science-based-nature-targets",
+      "publishedAt": "2026-03-23T13:16:44",
+      "content": "H&M Group announced that it has established a series of targets to address its nature-related"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Cocoon Raises $15 Million to Scale Low-Carbon Building Materials",
+      "description": "Buildings materials startup Cocoon Carbon announced that it has raised $15 million in a Series",
+      "url": "https://www.esgtoday.com/cocoon-raises-15-million-to-scale-low-carbon-building-materials/?utm_source=rss&utm_medium=rss&utm_campaign=cocoon-raises-15-million-to-scale-low-carbon-building-materials",
+      "publishedAt": "2026-03-23T12:01:13",
+      "content": "Buildings materials startup Cocoon Carbon announced that it has raised $15 million in a Series"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "2025 JA Americas Company of the Year Celebrates the Spirit of Possibility",
+      "description": "For three unforgettable days at the Junior Achievement (JA) Americas Company of the Year (COY) competition, the spirit of possibility took hold of Rio de Janeiro.",
+      "url": "https://csrwire.com/press-release/2025-ja-americas-company-year-celebrates-spirit-possibility/",
+      "publishedAt": "2026-03-23T11:00:00",
+      "content": "For three unforgettable days at the Junior Achievement (JA) Americas Company of the Year (COY) competition, the spirit of possibility took hold of Rio de Janeiro."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "India Launches Centralized Carbon Market Trading Platform",
+      "description": "The government of India announced the launch of the Indian Carbon Market Portal, a new",
+      "url": "https://www.esgtoday.com/india-to-launch-carbon-market-trading-within-four-months/?utm_source=rss&utm_medium=rss&utm_campaign=india-to-launch-carbon-market-trading-within-four-months",
+      "publishedAt": "2026-03-23T10:30:04",
+      "content": "The government of India announced the launch of the Indian Carbon Market Portal, a new"
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "New York’s Governor Pushes to Delay a Key Portion of the State’s Climate Law",
-      "description": "New York Gov.",
-      "url": "https://insideclimatenews.org/news/20032026/new-york-gov-kathy-hochul-delays-climate-law-key-portion/",
-      "publishedAt": "2026-03-20T21:41:05",
-      "content": "New York Gov."
+      "title": "Replacing Toxic Lead Pipes Could Drive Job Creation in Illinois, Report Finds",
+      "description": "This story is a partnership between Inside Climate News, Grist and WBEZ, a public radio station serving the Chicago metropolitan region.",
+      "url": "https://insideclimatenews.org/news/23032026/replacing-toxic-lead-pipes-could-drive-job-creation-in-illinois-report-finds/",
+      "publishedAt": "2026-03-23T08:55:00",
+      "content": "This story is a partnership between Inside Climate News, Grist and WBEZ, a public radio station serving the Chicago metropolitan region."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Standard Chartered, COFCO Sign $435 Million Loan with Terms Tied to Supply Chain Sustainability Targets",
-      "description": "International banking group Standard Chartered announced the closing of a $435 million sustainability-linked loan with",
-      "url": "https://www.esgtoday.com/standard-chartered-cofco-sign-435-million-loan-with-terms-tied-to-supply-chain-sustainability-metrics/?utm_source=rss&utm_medium=rss&utm_campaign=standard-chartered-cofco-sign-435-million-loan-with-terms-tied-to-supply-chain-sustainability-metrics",
-      "publishedAt": "2026-03-19T15:59:02",
-      "content": "International banking group Standard Chartered announced the closing of a $435 million sustainability-linked loan with"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ING’s Sustainable Finance Activity Jumps 28% in 2025",
-      "description": "Amsterdam-based global bank ING reported significant growth in its sustainable finance activity over the past",
-      "url": "https://www.esgtoday.com/ings-sustainable-finance-activity-jumps-28-in-2025/?utm_source=rss&utm_medium=rss&utm_campaign=ings-sustainable-finance-activity-jumps-28-in-2025",
-      "publishedAt": "2026-03-19T14:00:09",
-      "content": "Amsterdam-based global bank ING reported significant growth in its sustainable finance activity over the past"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Administration to Convene ‘God Squad’ With Power to Override Environmental Law",
-      "description": "The meeting, planned for this month, will focus on oil and gas drilling in the Gulf of Mexico.",
-      "url": "https://www.nytimes.com/2026/03/16/climate/god-squad-whales-gulf-oil.html",
-      "publishedAt": "2026-03-19T03:07:54",
-      "content": "The meeting, planned for this month, will focus on oil and gas drilling in the Gulf of Mexico."
+      "author": "Inside Climate News",
+      "title": "Scientists See Converging Evidence of Antarctic Ice Retreat",
+      "description": "Drilling through 500 feet of floating ice into the Antarctic Ocean floor, climate scientists have retrieved a rare 23-million-year record of sediments that helps demonstrate why the planet’s southe...",
+      "url": "https://insideclimatenews.org/news/23032026/antarctic-ice-retreat-evidence/",
+      "publishedAt": "2026-03-23T08:50:00",
+      "content": "Drilling through 500 feet of floating ice into the Antarctic Ocean floor, climate scientists have retrieved a rare 23-million-year record of sediments that helps demonstrate why the planet’s southe..."
     },
     {
       "source": {
@@ -147,14 +246,124 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Inside Climate News"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Sneakers",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/the-ultimate-guide-to-sustainable-sneakers/",
-      "publishedAt": "2026-03-16T23:00:22",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Inside Climate News",
+      "title": "Colorado River Negotiations Resume With Focus on Stopgap Measures",
+      "description": "Critical negotiations about the future of the Colorado River took a two-week hiatus last month after the seven states in the basin missed a key Valentine’s Day deadline for striking a deal, New Mex...",
+      "url": "https://insideclimatenews.org/news/23032026/colorado-river-negotiations-resume-with-focus-on-stopgap-measures/",
+      "publishedAt": "2026-03-23T21:19:39",
+      "content": "Critical negotiations about the future of the Colorado River took a two-week hiatus last month after the seven states in the basin missed a key Valentine’s Day deadline for striking a deal, New Mex..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Hormuz Disruptions Lift India-Bound Freight Rates",
+      "description": "According to Xeneta, average spot rates for goods shipped from China to India's Nhava Sheva Port have accelerated nearly 70 percent over the past month.",
+      "url": "https://sourcingjournal.com/topics/logistics/strait-of-hormuz-traffic-persian-gulf-india-nhava-sheva-mundra-port-congestion-xeneta-freight-rates-fedex-iran-war-1234817848/",
+      "publishedAt": "2026-03-23T18:30:21",
+      "content": "According to Xeneta, average spot rates for goods shipped from China to India's Nhava Sheva Port have accelerated nearly 70 percent over the past month."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shein Targets Gen Z With Festival Pop-Up",
+      "description": "A Shein survey of 18,000-plus shoppers reveals how today's festivalgoers fashion plans are multiplying.",
+      "url": "https://sourcingjournal.com/denim/denim-trends/shein-targets-gen-z-with-festival-pop-up-fast-fashion-1234817788/",
+      "publishedAt": "2026-03-23T17:20:56",
+      "content": "A Shein survey of 18,000-plus shoppers reveals how today's festivalgoers fashion plans are multiplying."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Devil-Dog Dungarees Expands Into Women’s Denim",
+      "description": "The women’s collection is anchored by a high-rise straight jean.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/devil-dog-dungarees-debuts-first-womens-denim-collection-1234817585/",
+      "publishedAt": "2026-03-23T16:00:00",
+      "content": "The women’s collection is anchored by a high-rise straight jean."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Carbon Capture Technology Is Helping This Pub Make Beer",
+      "description": "A pub in California is pulling carbon dioxide from the air to carbonate pints. If the business model works, it could give the broader carbon-capture industry a boost.",
+      "url": "https://www.nytimes.com/2026/03/23/climate/beer-carbon-capture.html",
+      "publishedAt": "2026-03-23T15:30:46",
+      "content": "A pub in California is pulling carbon dioxide from the air to carbonate pints. If the business model works, it could give the broader carbon-capture industry a boost."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Europe’s ‘staggering’ clean power gains undermined by failure to phase out fuel-burning machines",
+      "description": "The EU’s reluctance to replace petrol cars and gas boilers keep it hooked on foreign fuels, say industry groupsEurope has made “staggering progress” in producing clean power but neglected efforts t...",
+      "url": "https://www.theguardian.com/environment/2026/mar/23/europe-clean-energy-gains-failure-phase-out-fuel-burning",
+      "publishedAt": "2026-03-23T15:00:53",
+      "content": "The EU’s reluctance to replace petrol cars and gas boilers keep it hooked on foreign fuels, say industry groupsEurope has made “staggering progress” in producing clean power but neglected efforts t..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘There’s biological treasure here’: Chile’s endemic seals gain protection with new marine park",
+      "description": "Sixty years after the discovery of a colony of Juan Fernández fur seals, previously thought to be extinct, a landmark agreement extends ‘no take’ zone around the wildlife-rich archipelagoSix decade...",
+      "url": "https://www.theguardian.com/environment/2026/mar/23/chile-seals-colony-gain-protection-new-marine-park-juan-fernandez-archipelago-wildlife",
+      "publishedAt": "2026-03-23T12:00:49",
+      "content": "Sixty years after the discovery of a colony of Juan Fernández fur seals, previously thought to be extinct, a landmark agreement extends ‘no take’ zone around the wildlife-rich archipelagoSix decade..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Secrets of the karst: new species found in Cambodia’s limestone caves – in pictures",
+      "description": "A survey has revealed the vast array of wildlife – some never seen before – living within the south-east Asian country’s karst ecosystems.",
+      "url": "https://www.theguardian.com/environment/gallery/2026/mar/23/cambodia-karst-new-species-limestone-caves-aoe",
+      "publishedAt": "2026-03-23T11:01:47",
+      "content": "A survey has revealed the vast array of wildlife – some never seen before – living within the south-east Asian country’s karst ecosystems."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Border Communities Remain in the Dark About Federal Government’s Billion-Dollar Buoy Project",
+      "description": "Reporting supported by the Water Desk at the University of Colorado, Boulder.",
+      "url": "https://insideclimatenews.org/news/23032026/texas-rio-grande-border-buoy-environmental-risks/",
+      "publishedAt": "2026-03-23T09:00:00",
+      "content": "Reporting supported by the Water Desk at the University of Colorado, Boulder."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Predatory feral ferrets removed from an island for the first time ever",
+      "description": "Rathlin Island in Northern Ireland is ferret-free after £4.",
+      "url": "https://www.theguardian.com/environment/2026/mar/23/predatory-feral-ferrets-removed-from-island-first-time-rathlin-island-northern-ireland",
+      "publishedAt": "2026-03-23T08:00:45",
+      "content": "Rathlin Island in Northern Ireland is ferret-free after £4."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Earth being ‘pushed beyond its limits’ as energy imbalance reaches record high",
+      "description": "State of the Climate report finds Earth’s energy has moved dangerously out of balance, with oceans absorbing vast majority of trapped heatOur home planet is struggling with a record energy imbalanc...",
+      "url": "https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high",
+      "publishedAt": "2026-03-23T04:00:39",
+      "content": "State of the Climate report finds Earth’s energy has moved dangerously out of balance, with oceans absorbing vast majority of trapped heatOur home planet is struggling with a record energy imbalanc..."
     },
     {
       "source": {
@@ -180,6 +389,39 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "23 Responsible Clothing Brands from Denmark, Sweden, Norway, and Finland",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-clothing-brands-from-denmark-sweden-norway/",
+      "publishedAt": "2026-03-23T04:00:32",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "I discovered three new geckos in Cambodia’s limestone caves – and that’s not all we found",
+      "description": "The whole ecosystem inside a cave feeds off guano, dead bats, or any dead animals on the ground.",
+      "url": "https://www.theguardian.com/environment/2026/mar/22/i-discovered-three-new-geckos-in-cambodia-limestone-caves-and-thats-not-all-we-found-aoe",
+      "publishedAt": "2026-03-23T00:01:35",
+      "content": "The whole ecosystem inside a cave feeds off guano, dead bats, or any dead animals on the ground."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How an island became ferret free  - thanks, in part, to Woody the wonderdog",
+      "description": "More than 400 traps were laid across the island in a  £4.5m project which featured a specially-trained detection dog called Woody.",
+      "url": "https://www.bbc.com/news/articles/cre1jly1ny2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-23T00:00:16",
+      "content": "More than 400 traps were laid across the island in a  £4.5m project which featured a specially-trained detection dog called Woody."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -188,39 +430,6 @@
       "url": "https://insideclimatenews.org/news/22032026/ecuador-amazon-indigenous-communitys-paraecologists/",
       "publishedAt": "2026-03-22T09:00:00",
       "content": "MAIKIUANTS, Ecuador—By the time Olger Kitiar reached the ridge, his shirt was wet with sweat, clinging to his back."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Yes, Venezuela Has a Ton of Oil—But Its Biggest Opportunity Is Offshore Wind",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Paasha Mahdavi, an associate professor of political science at the Uni...",
-      "url": "https://insideclimatenews.org/news/21032026/venezuela-offshore-wind-opportunity/",
-      "publishedAt": "2026-03-21T08:50:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Paasha Mahdavi, an associate professor of political science at the Uni..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Coats Eyes 2026 as a ‘Pivotal Year’",
-      "description": "The apparel and footwear components supplier is leveraging scale, material innovation and supplier engagement to accelerate its sustainability impact.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/coats-sustainability-report-2025-decarbonization-recycling-1234817744/",
-      "publishedAt": "2026-03-20T18:00:00",
-      "content": "The apparel and footwear components supplier is leveraging scale, material innovation and supplier engagement to accelerate its sustainability impact."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Mexico’s monarch butterfly population jumps 64%, offering hope for at-risk species",
-      "description": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticidesThe population of monarch butterflies in Mexico increased 64% this winter, compared ...",
-      "url": "https://www.theguardian.com/world/2026/mar/20/mexico-monarch-butterfly-population-increases",
-      "publishedAt": "2026-03-20T17:41:47",
-      "content": "The insects covered its largest area since 2018, despite threats from habitat loss, climate crisis and pesticidesThe population of monarch butterflies in Mexico increased 64% this winter, compared ..."
     },
     {
       "source": {
@@ -257,83 +466,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Two Years After Fatal Explosion, Alabama Mine Regulator ‘Letting the Fox Guard the Henhouse,’ Resident Says",
-      "description": "OAK GROVE, Ala.",
-      "url": "https://insideclimatenews.org/news/21032026/alabama-mine-explosion-regulation-under-trump/",
-      "publishedAt": "2026-03-21T09:00:00",
-      "content": "OAK GROVE, Ala."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A toad is a perfect tenner’: experts recommend wild candidates for new banknotes",
-      "description": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no...",
-      "url": "https://www.theguardian.com/environment/2026/mar/21/a-toad-is-a-perfect-tenner-experts-recommend-wild-candidates-for-new-banknotes",
-      "publishedAt": "2026-03-21T06:00:44",
-      "content": "Animals will feature on £5, £10, £20 and £50 notes, the Bank of England says, but which creatures should make the cut?Native British wildlife will feature on the next set of £5, £10, £20 and £50 no..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The weeds in my garden aren’t disposable – they’re edible | Michael White",
-      "description": "Cranbrook, Kent: Fat hen, chickweed and stinging nettles often end up in the compost heap, but they deserve a try in the kitchenBy March, traditional gardeners have worked hard to eradicate weeds i...",
-      "url": "https://www.theguardian.com/environment/2026/mar/21/country-diary-the-weeds-in-my-garden-arent-disposable-theyre-edible",
-      "publishedAt": "2026-03-21T05:30:43",
-      "content": "Cranbrook, Kent: Fat hen, chickweed and stinging nettles often end up in the compost heap, but they deserve a try in the kitchenBy March, traditional gardeners have worked hard to eradicate weeds i..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "H&M Group Gets Grounded With SBTN Framework",
-      "description": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/hm-group-gets-grounded-with-sbtn-framework-1234817762/",
-      "publishedAt": "2026-03-20T18:27:10",
-      "content": "H&M Group announces SBTN-validated land targets covering no conversion, land footprint reduction and landscape engagement."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
-      "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
-      "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-20T16:32:43",
-      "content": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Could the Dyson Case Open a New Route to Justice for Garment Workers?",
-      "description": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/dyson-case-justice-garment-workers-labour-behind-the-label-1234817578/",
-      "publishedAt": "2026-03-20T15:30:00",
-      "content": "he case could mark a turning point for workers across global supply chains, including those making clothes for UK fashion brands. Here's why."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Hybrid organ’: how a union of trees and fungi could revolutionise forest management",
-      "description": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester...",
-      "url": "https://www.theguardian.com/environment/2026/mar/20/hybrid-organ-trees-fungi-union-loblolly-pines-startup-forest-management",
-      "publishedAt": "2026-03-20T10:00:15",
-      "content": "A US startup supplies spray for fast-growing loblolly pines with the hope of increasing biodiversity – and reducing the need for artificial fertiliserAt a commercial tree nursery near Evans, wester..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -353,39 +485,6 @@
       "url": "https://csrwire.com/press-release/case-ih-and-senar-rio-grande-do-sul-close-partnership-rural-professional-training-courses/",
       "publishedAt": "2026-03-19T16:00:00",
       "content": "Case IH, a CNH brand, announces a partnership with the National Rural Learning Service (Senar) of Rio Grande do Sul, for the entity's new Rural Professional Training Center that will be inaugurated..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Fervo Secures $421 Million to Build U.S. Geothermal Energy Plant",
-      "description": "Geothermal energy project developer Fervo Energy announced today that it has secured $421 million in",
-      "url": "https://www.esgtoday.com/fervo-secures-421-million-to-build-u-s-geothermal-energy-project/?utm_source=rss&utm_medium=rss&utm_campaign=fervo-secures-421-million-to-build-u-s-geothermal-energy-project",
-      "publishedAt": "2026-03-19T14:41:26",
-      "content": "Geothermal energy project developer Fervo Energy announced today that it has secured $421 million in"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "KKR to Invest up to $310 Million in India Electric Bus Platform Allfleet",
-      "description": "Alternative asset and private equity investor KKR announced the formation of a new strategic partnership",
-      "url": "https://www.esgtoday.com/kkr-to-invest-up-to-310-million-in-india-electric-bus-platform-allfleet/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-to-invest-up-to-310-million-in-india-electric-bus-platform-allfleet",
-      "publishedAt": "2026-03-19T12:15:00",
-      "content": "Alternative asset and private equity investor KKR announced the formation of a new strategic partnership"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Norway’s $2 Trillion Wealth Fund Sets Expectations for Portfolio Companies to Assess, Report, Manage Nature Risks",
-      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2.1 trillion oil fund announced",
-      "url": "https://www.esgtoday.com/norways-2-trillion-wealth-fund-sets-expectations-for-portfolio-companies-to-assess-report-manage-nature-risks/?utm_source=rss&utm_medium=rss&utm_campaign=norways-2-trillion-wealth-fund-sets-expectations-for-portfolio-companies-to-assess-report-manage-nature-risks",
-      "publishedAt": "2026-03-19T11:22:21",
-      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2.1 trillion oil fund announced"
     },
     {
       "source": {
@@ -430,39 +529,6 @@
       "url": "https://csrwire.com/press-release/watch-iwbi-participates-parliament-new-south-wales-public-hearing-indoor-air-quality/",
       "publishedAt": "2026-03-18T12:45:00",
       "content": "Following submission to an inquiry from NSW Parliament, Jack Noonan, Head of Asia Pacific, Senior Vice President, represented the organization by presenting evidence to the NSW Upper House Portfoli..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Dress for Success New Orleans Partners With Entergy To Celebrate More Than 25 Years of Empowering Women",
-      "description": "In celebration of more than 25 years of service, Dress for Success New Orleans, or DSFNO, hosted its annual Styled for Success luncheon, powered by Entergy.",
-      "url": "https://csrwire.com/press-release/dress-success-new-orleans-partners-entergy-celebrate-more-25-years-empowering-women/",
-      "publishedAt": "2026-03-18T11:05:00",
-      "content": "In celebration of more than 25 years of service, Dress for Success New Orleans, or DSFNO, hosted its annual Styled for Success luncheon, powered by Entergy."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Aflac Celebrates 20 Years as a World’s Most Ethical Company",
-      "description": "Aflac announced today that the company has once again been named by Ethisphere, a global leader in defining and advancing the standards of ethical business practices, as a World's Most Ethical Comp...",
-      "url": "https://csrwire.com/press-release/aflac-celebrates-20-years-worlds-most-ethical-company/",
-      "publishedAt": "2026-03-18T10:00:00",
-      "content": "Aflac announced today that the company has once again been named by Ethisphere, a global leader in defining and advancing the standards of ethical business practices, as a World's Most Ethical Comp..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG Earns National Recognition for Corporate Citizenship and Community Impact",
-      "description": "Public Service Enterprise Group is proud to announce we have been honored with three national distinctions that reflect our focus on the people and communities we serve: recognized as the JUST Capi...",
-      "url": "https://csrwire.com/press-release/pseg-earns-national-recognition-corporate-citizenship-and-community-impact/",
-      "publishedAt": "2026-03-18T10:00:00",
-      "content": "Public Service Enterprise Group is proud to announce we have been honored with three national distinctions that reflect our focus on the people and communities we serve: recognized as the JUST Capi..."
     }
   ]
 }
