@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 47,
+  "totalResults": 46,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fears net zero is ‘next Brexit’ as oil crisis fuels political climate divide",
-      "description": "Rising energy bills give Reform and Tories opening to attack net zero while government hesitant to make case for clean energyCould net zero become “the next Brexit”? That is the fear stalking clima...",
-      "url": "https://www.theguardian.com/environment/2026/mar/26/fears-net-zero-is-next-brexit-as-oil-crisis-fuels-political-climate-divide",
-      "publishedAt": "2026-03-26T08:00:31",
-      "content": "Rising energy bills give Reform and Tories opening to attack net zero while government hesitant to make case for clean energyCould net zero become “the next Brexit”? That is the fear stalking clima..."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -23,6 +12,17 @@
       "url": "https://www.esgtoday.com/watershed-launches-ai-powered-sustainability-reporting-tools/?utm_source=rss&utm_medium=rss&utm_campaign=watershed-launches-ai-powered-sustainability-reporting-tools",
       "publishedAt": "2026-03-26T12:06:46",
       "content": "Climate solutions provider Watershed announced the launch of a series of new capabilities within its"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "India Approves Cautious 2035 Climate, Clean Energy Goals",
+      "description": "The government of India unveiled its new interim climate goals, including new approved targets to",
+      "url": "https://www.esgtoday.com/india-approves-cautious-2035-climate-clean-energy-goals/?utm_source=rss&utm_medium=rss&utm_campaign=india-approves-cautious-2035-climate-clean-energy-goals",
+      "publishedAt": "2026-03-27T13:21:09",
+      "content": "The government of India unveiled its new interim climate goals, including new approved targets to"
     },
     {
       "source": {
@@ -45,6 +45,17 @@
       "url": "https://www.esgtoday.com/germany-adopts-climate-action-plan-to-slash-emissions-fossil-fuel-consumption/?utm_source=rss&utm_medium=rss&utm_campaign=germany-adopts-climate-action-plan-to-slash-emissions-fossil-fuel-consumption",
       "publishedAt": "2026-03-26T10:32:15",
       "content": "The government of Germany announced Wednesday the adoption of its new Climate Protection Program, setting"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Climate Investment Raises $450 Million to Address the “Missing Middle” in Climate Tech Finance",
+      "description": "Decarbonization technology investment firm Climate Investment announced that it has raised $450 million for its",
+      "url": "https://www.esgtoday.com/climate-investment-raises-450-million-to-address-the-missing-middle-in-climate-tech-finance/?utm_source=rss&utm_medium=rss&utm_campaign=climate-investment-raises-450-million-to-address-the-missing-middle-in-climate-tech-finance",
+      "publishedAt": "2026-03-27T09:52:01",
+      "content": "Decarbonization technology investment firm Climate Investment announced that it has raised $450 million for its"
     },
     {
       "source": {
@@ -73,6 +84,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Radisson Sets Goal to Reach 100 Net Zero Hotels by 2030",
+      "description": "Radisson Hotel Group announced a new target, with the company aiming to reach 100 Verified",
+      "url": "https://www.esgtoday.com/radisson-sets-goal-to-reach-100-net-zero-hotels-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=radisson-sets-goal-to-reach-100-net-zero-hotels-by-2030",
+      "publishedAt": "2026-03-27T09:15:33",
+      "content": "Radisson Hotel Group announced a new target, with the company aiming to reach 100 Verified"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "LaSalle Raises $370 Million for New Real Estate Decarbonization Fund",
       "description": "LaSalle Investment Management, the global investment management business of real estate-focused professional services firm JLL,",
       "url": "https://www.esgtoday.com/lasalle-raises-370-million-for-new-real-estate-decarbonization-fund/?utm_source=rss&utm_medium=rss&utm_campaign=lasalle-raises-370-million-for-new-real-estate-decarbonization-fund",
@@ -92,25 +114,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Brookfield, La Caisse Acquire Clean Energy Platform Boralex for $6.5 Billion",
-      "description": "Brookfield and Quebec-based institutional investor La Caisse announced an agreement to acquire Quebec-based global renewable",
-      "url": "https://www.esgtoday.com/brookfield-la-caisse-acquire-clean-energy-platform-boralex-for-6-5-billion/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-la-caisse-acquire-clean-energy-platform-boralex-for-6-5-billion",
-      "publishedAt": "2026-03-25T14:00:24",
-      "content": "Brookfield and Quebec-based institutional investor La Caisse announced an agreement to acquire Quebec-based global renewable"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "In Rural West Texas, Renewable Energy Brings a Windfall for Seniors",
-      "description": "Officials in Crockett County are using wind investments to help older residents age in place.TriplePundit",
-      "url": "https://triplepundit.com/2026/renewable-energy-rural-wind-crockett-county-texas/",
-      "publishedAt": "2026-03-20T18:07:55",
-      "content": "Officials in Crockett County are using wind investments to help older residents age in place.TriplePundit"
+      "author": "CSRWire",
+      "title": "Sign on the Dotted Line: Keeping Security and Sustainability in Focus for W&W Informatik Group’s Mobile Sales Force",
+      "description": "W&W needed more than devices—they needed secure, flexible technology that empowers mobile sales teams to work safely from anywhere.",
+      "url": "https://csrwire.com/press-release/sign-dotted-line-keeping-security-and-sustainability-focus-ww-informatik-groups-mobile-sales/",
+      "publishedAt": "2026-03-27T11:25:00",
+      "content": "W&W needed more than devices—they needed secure, flexible technology that empowers mobile sales teams to work safely from anywhere."
     },
     {
       "source": {
@@ -122,17 +133,6 @@
       "url": "https://insideclimatenews.org/news/26032026/inside-clean-energy-midwest-data-center-power-plans/",
       "publishedAt": "2026-03-26T13:00:00",
       "content": "A proposed Google data center in Michigan is notable for its use of renewable energy and its ability to ramp down power use during periods of high demand. The plan, announced last week, is a partne..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Church leaders criticise Christian owner of GB News over channel’s climate attacks",
-      "description": "Exclusive: Paul Marshall also challenged over his own ‘misleading’ statements and £1.",
-      "url": "https://www.theguardian.com/media/2026/mar/26/church-leaders-criticise-christian-owner-of-gb-news-over-channels-climate-attacks",
-      "publishedAt": "2026-03-26T12:00:36",
-      "content": "Exclusive: Paul Marshall also challenged over his own ‘misleading’ statements and £1."
     },
     {
       "source": {
@@ -150,11 +150,220 @@
         "name": "CSRWire"
       },
       "author": "CSRWire",
+      "title": "AEG Partners With Girl Scouts of Greater Los Angeles to Inspire the Next Generation of Leaders",
+      "description": "As part of its commitment to advancing gender equity and leadership development, AEG partnered with the Girl Scouts of Greater Los Angeles to host \"A Night of Mentorship.\"",
+      "url": "https://csrwire.com/press-release/aeg-partners-girl-scouts-greater-los-angeles-inspire-next-generation-leaders/",
+      "publishedAt": "2026-03-27T14:40:00",
+      "content": "As part of its commitment to advancing gender equity and leadership development, AEG partnered with the Girl Scouts of Greater Los Angeles to host \"A Night of Mentorship.\""
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "T‑Mobile’s Hometown Grants Top $21.5M, Empowering 475 Small Towns Nationwide",
+      "description": "T-Mobile (NASDAQ: TMUS) today announced the latest 25 Hometown Grants recipients, including, for the first time, a town in North Dakota.",
+      "url": "https://csrwire.com/press-release/t-mobiles-hometown-grants-top-empowering-475-small-towns-nationwide/",
+      "publishedAt": "2026-03-27T13:30:00",
+      "content": "T-Mobile (NASDAQ: TMUS) today announced the latest 25 Hometown Grants recipients, including, for the first time, a town in North Dakota."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Preparing Tomorrow’s Leaders: FedEx and the Marine Corps Scholarship Foundation",
+      "description": "Recently, FedEx hosted the spring edition of the Marine Corps Career Readiness Initiative webinar, an inspiring event dedicated to equipping student scholars with the tools they need to transition ...",
+      "url": "https://csrwire.com/press-release/preparing-tomorrows-leaders-fedex-and-marine-corps-scholarship-foundation/",
+      "publishedAt": "2026-03-27T11:00:00",
+      "content": "Recently, FedEx hosted the spring edition of the Marine Corps Career Readiness Initiative webinar, an inspiring event dedicated to equipping student scholars with the tools they need to transition ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘It helped me feed my six children’: how Africa’s first water fund supports farmers to protect Kenya’s biggest river",
+      "description": "Conserving the watershed of the Tana and improving farming methods is securing water supplies and livelihoods alike in a changing climateWhen in 2017 David Nyoro became one of the first farmers to ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/27/africa-water-fund-farmers-protect-kenya-river-tana",
+      "publishedAt": "2026-03-27T10:00:03",
+      "content": "Conserving the watershed of the Tana and improving farming methods is securing water supplies and livelihoods alike in a changing climateWhen in 2017 David Nyoro became one of the first farmers to ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Eaton Recognized for the 15th Time as One of the World’s Most Ethical Companies®",
+      "description": "One of 13 honorees in the industrial manufacturing category, Eaton embeds ethics into decision-making—driving reliable outcomes for the customers and communities it serves.",
+      "url": "https://csrwire.com/press-release/eaton-recognized-15th-time-one-worlds-most-ethical-companiesr/",
+      "publishedAt": "2026-03-27T09:00:00",
+      "content": "One of 13 honorees in the industrial manufacturing category, Eaton embeds ethics into decision-making—driving reliable outcomes for the customers and communities it serves."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "NBCUniversal Local Impact Grants Return for 9th Consecutive Year to Provide $2.5 Million for Nonprofits in 2026",
+      "description": "Comcast NBCUniversal and NBCUniversal Local today announced the return of the NBCUniversal Local Impact Grants for the ninth consecutive year.",
+      "url": "https://csrwire.com/press-release/nbcuniversal-local-impact-grants-return-9th-consecutive-year-provide-25-million-nonprofits/",
+      "publishedAt": "2026-03-27T09:00:00",
+      "content": "Comcast NBCUniversal and NBCUniversal Local today announced the return of the NBCUniversal Local Impact Grants for the ninth consecutive year."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
       "title": "Circular Design Illustrated Through Four Cisco Products",
       "description": "At Cisco, circular design means building sustainability into our products and packaging from the start. It’s about designing with the full life cycle in mind",
       "url": "https://csrwire.com/press-release/circular-design-illustrated-through-four-cisco-products/",
       "publishedAt": "2026-03-26T11:55:00",
       "content": "At Cisco, circular design means building sustainability into our products and packaging from the start. It’s about designing with the full life cycle in mind"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Office Workwear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-workwear/",
+      "publishedAt": "2026-03-24T02:00:49",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shuffle Board: On Names Co-CEOs, Kornit Digital Taps Asos Chief Exec",
+      "description": "Former Asos exec Nick Deighton joins the digital fashion firm as strategic advisor while Swiss shoemaker On announced its co-founders as co-CEOs.",
+      "url": "https://sourcingjournal.com/topics/business-news/shuffle-board-executive-moves-on-ebay-1234818392/",
+      "publishedAt": "2026-03-27T20:00:00",
+      "content": "Former Asos exec Nick Deighton joins the digital fashion firm as strategic advisor while Swiss shoemaker On announced its co-founders as co-CEOs."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Shein Frames Circularity as Convenience; Experts Say That Misses the Point",
+      "description": "Shein says reducing “friction” is key for circularity, but experts argue its survey reads more like customer research than evidence of system change.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-news/shein-frames-circularity-as-convenience-1234818463/",
+      "publishedAt": "2026-03-27T19:35:34",
+      "content": "Shein says reducing “friction” is key for circularity, but experts argue its survey reads more like customer research than evidence of system change."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Hormuz Crisis Hits Hapag-Lloyd With Up to $50M in Added Weekly Costs",
+      "description": "As fuel cost pressures intensify for Hapag-Lloyd and its ships remain stranded in the Persian Gulf, Cosco Shipping’s aborted transit attempts through the trade artery compound concerns.",
+      "url": "https://sourcingjournal.com/topics/logistics/strait-of-hormuz-hapag-lloyd-40-50-million-weekly-costs-fuel-cosco-shipping-abort-transits-iran-war-persian-gulf-1234818514/",
+      "publishedAt": "2026-03-27T19:09:12",
+      "content": "As fuel cost pressures intensify for Hapag-Lloyd and its ships remain stranded in the Persian Gulf, Cosco Shipping’s aborted transit attempts through the trade artery compound concerns."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Cotton States Push Precision Agriculture Bill as Brazil Topples US in Exports",
+      "description": "The Land Grant Research Prioritization Act of 2026 would boost R&D for advanced agricultural innovations, including mechanization.",
+      "url": "https://sourcingjournal.com/topics/raw-materials/legislation-jon-ossoff-georgia-florida-cotton-agriculture-1234818513/",
+      "publishedAt": "2026-03-27T17:45:44",
+      "content": "The Land Grant Research Prioritization Act of 2026 would boost R&D for advanced agricultural innovations, including mechanization."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Japan and the U.S. Agree to Team Up on Seabed Mining",
+      "description": "The arrangement could signal a fracture in the decades-long effort among nations to reach consensus on how to mine the ocean floor while protecting ecosystems.",
+      "url": "https://www.nytimes.com/2026/03/27/climate/japan-united-states-seabed-mining.html",
+      "publishedAt": "2026-03-27T16:19:22",
+      "content": "The arrangement could signal a fracture in the decades-long effort among nations to reach consensus on how to mine the ocean floor while protecting ecosystems."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Scientists film whale giving birth while other whales work together to help her",
+      "description": "Female named Rounder surrounded by family members when about to give birth to her second calfScientists have managed to film a sperm whale giving birth while other female whales worked together to ...",
+      "url": "https://www.theguardian.com/environment/2026/mar/27/scientists-film-whale-giving-birth-other-whales-help-her",
+      "publishedAt": "2026-03-27T16:13:07",
+      "content": "Female named Rounder surrounded by family members when about to give birth to her second calfScientists have managed to film a sperm whale giving birth while other female whales worked together to ..."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Gap Taps Awake NY for ’90s-Inspired Streetwear Collection",
+      "description": "Gap continues to tap into the cultural zeitgeist through collabroations.",
+      "url": "https://sourcingjournal.com/denim/denim-brands/gap-taps-awake-ny-90s-inspired-streetwear-collection-1234818318/",
+      "publishedAt": "2026-03-27T14:45:00",
+      "content": "Gap continues to tap into the cultural zeitgeist through collabroations."
+    },
+    {
+      "source": {
+        "name": "Sourcing Journal"
+      },
+      "author": "Sourcing Journal",
+      "title": "Cotton Diaries Urges Holistic Traceability Anchored at the Gin",
+      "description": "A new report argues that traceability’s key issue isn’t complexity but rather how the system is mapped.",
+      "url": "https://sourcingjournal.com/sustainability/sustainability-materials/cotton-diaries-urges-holistic-traceability-anchored-at-gin-1234818177/",
+      "publishedAt": "2026-03-27T14:20:00",
+      "content": "A new report argues that traceability’s key issue isn’t complexity but rather how the system is mapped."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Tempolimit? Nein, danke!’: why German petrolheads won’t slow down – despite the energy crisis",
+      "description": "Driving fast is in ‘the German DNA’, say lovers of the speed-limit free Autobahn, but support in the country for a restriction is growingDeath-defying thrills are not what draws Lutz Leif Linden to...",
+      "url": "https://www.theguardian.com/world/2026/mar/27/germany-autobahn-no-speed-limits-energy-crisis",
+      "publishedAt": "2026-03-27T13:00:01",
+      "content": "Driving fast is in ‘the German DNA’, say lovers of the speed-limit free Autobahn, but support in the country for a restriction is growingDeath-defying thrills are not what draws Lutz Leif Linden to..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers.",
+      "description": "The episode, involving a group of sperm whales, adds to evidence that humans aren’t the only species that gets some form of assistance during and after delivery.",
+      "url": "https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html",
+      "publishedAt": "2026-03-27T12:04:08",
+      "content": "The episode, involving a group of sperm whales, adds to evidence that humans aren’t the only species that gets some form of assistance during and after delivery."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cut the lights – and seven more ways to save Britain’s bats",
+      "description": "Lots of us aren’t very keen on bats.",
+      "url": "https://www.theguardian.com/environment/2026/mar/27/cut-the-lights-and-seven-more-ways-to-save-britains-bats",
+      "publishedAt": "2026-03-27T09:00:03",
+      "content": "Lots of us aren’t very keen on bats."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Legislation Aims to Protect Floridians From Data Center Costs, but Will It?",
+      "description": "Legislation awaiting Gov.",
+      "url": "https://insideclimatenews.org/news/27032026/florida-data-center-costs-legislation/",
+      "publishedAt": "2026-03-27T09:00:00",
+      "content": "Legislation awaiting Gov."
     },
     {
       "source": {
@@ -202,47 +411,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Triple Pundit"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Office Workwear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-workwear/",
-      "publishedAt": "2026-03-24T02:00:49",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Triple Pundit",
+      "title": "At the Height of NCAA March Madness, Activists Pressure Charter Airlines on Deportation Flights",
+      "description": "U.",
+      "url": "https://triplepundit.com/2026/ncaa-march-madness-ice-deportation-flights/",
+      "publishedAt": "2026-03-25T20:51:34",
+      "content": "U."
     },
     {
       "source": {
-        "name": "Sourcing Journal"
+        "name": "The Guardian"
       },
-      "author": "Sourcing Journal",
-      "title": "Progress Over Perfection: Lessons From Garment Factories Fighting Heat Stress",
-      "description": "As growing temperatures endanger worker wellbeing, three factories in Cambodia and Vietnam are treating cooling as an operational imperative.",
-      "url": "https://sourcingjournal.com/topics/labor/cornell-ilr-vietnam-cambodia-heat-stress-garment-workers-1234818467/",
-      "publishedAt": "2026-03-26T22:08:12",
-      "content": "As growing temperatures endanger worker wellbeing, three factories in Cambodia and Vietnam are treating cooling as an operational imperative."
+      "author": "The Guardian",
+      "title": "Beavers ‘breathe new life’ into Dorset as dams built and biodiversity returns",
+      "description": "National Trust says one year after reintroduction they are enriching habitats and may be having kits this summerThey were released this time last year with fanfare, much hope and also, perhaps, a l...",
+      "url": "https://www.theguardian.com/environment/2026/mar/27/beavers-dorset-dams-biodiversity-national-trust",
+      "publishedAt": "2026-03-27T06:00:06",
+      "content": "National Trust says one year after reintroduction they are enriching habitats and may be having kits this summerThey were released this time last year with fanfare, much hope and also, perhaps, a l..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers.",
-      "description": "The episode, involving a group of sperm whales, adds to evidence that humans aren’t the only species that gets some form of assistance during and after delivery.",
-      "url": "https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html",
-      "publishedAt": "2026-03-26T21:22:56",
-      "content": "The episode, involving a group of sperm whales, adds to evidence that humans aren’t the only species that gets some form of assistance during and after delivery."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Blue Fever Group Acquires Garmon From Kemin",
-      "description": "Kemin and Blue Fever will continue to share operations of Garmon.",
-      "url": "https://sourcingjournal.com/denim/denim-business/blue-fever-group-acquires-garmon-chemicals-denim-finishing-1234818043/",
-      "publishedAt": "2026-03-26T21:16:36",
-      "content": "Kemin and Blue Fever will continue to share operations of Garmon."
+      "author": "The Guardian",
+      "title": "More than 6m vapes and pods discarded weekly in UK despite single-use ban, study finds",
+      "description": "Number fell 23% year on year in 2025 but waste companies say recycling systems still under strain from sheer volumeMore than 6m vapes and vape pods are still being discarded every week in the UK, w...",
+      "url": "https://www.theguardian.com/society/2026/mar/27/vapes-pods-waste-uk-recycling-disposable-single-use-ban",
+      "publishedAt": "2026-03-27T06:00:05",
+      "content": "Number fell 23% year on year in 2025 but waste companies say recycling systems still under strain from sheer volumeMore than 6m vapes and vape pods are still being discarded every week in the UK, w..."
     },
     {
       "source": {
@@ -257,17 +455,6 @@
     },
     {
       "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Material World: Circular Fibers Scale as Traceability Gets Real",
-      "description": "Circ scales recycled polycotton through China partnerships while OnceMore taps TextileGenesis to operationalize traceability as regulation tightens.",
-      "url": "https://sourcingjournal.com/sustainability/sustainability-news/material-world-circular-fibers-scale-as-traceability-gets-1234818053/",
-      "publishedAt": "2026-03-26T18:30:00",
-      "content": "Circ scales recycled polycotton through China partnerships while OnceMore taps TextileGenesis to operationalize traceability as regulation tightens."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -276,28 +463,6 @@
       "url": "https://insideclimatenews.org/news/26032026/sperm-whale-birth-event-study-animal-cooperation/",
       "publishedAt": "2026-03-26T18:00:00",
       "content": "Two landmark studies of a rare sperm whale birth observation in the Caribbean are reshaping scientists’ understanding of cooperation in the animal kingdom, revealing that whales in unrelated family..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "UK Consumers Link Cotton to Durability",
-      "description": "Cotton Incorporated's new survey found that most consumers associate durability with fiber choice.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/uk-consumers-link-cotton-to-durability-cotton-incorporated-1234818052/",
-      "publishedAt": "2026-03-26T17:30:00",
-      "content": "Cotton Incorporated's new survey found that most consumers associate durability with fiber choice."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Tipping the Scale: How Recycled Cotton Is Weathering an Uncertain Denim Market",
-      "description": "One area that mills hope will remain resilient is the denim industry’s commitment to circularity and recycled cotton.",
-      "url": "https://sourcingjournal.com/denim/denim-sustainability/how-recycled-cotton-weathering-uncertain-denim-market-1234818104/",
-      "publishedAt": "2026-03-26T14:31:41",
-      "content": "One area that mills hope will remain resilient is the denim industry’s commitment to circularity and recycled cotton."
     },
     {
       "source": {
@@ -323,105 +488,6 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "At the Height of NCAA March Madness, Activists Pressure Charter Airlines on Deportation Flights",
-      "description": "U.",
-      "url": "https://triplepundit.com/2026/ncaa-march-madness-ice-deportation-flights/",
-      "publishedAt": "2026-03-25T20:51:34",
-      "content": "U."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Lululemon Invests in Biorecycling Tech Company Epoch Biodesign",
-      "description": "Biorecycling startup Epoch Biodesign announced that it has raised $12 million in a new funding",
-      "url": "https://www.esgtoday.com/lululemon-invests-in-biorecycling-tech-company-epoch-biodesign/?utm_source=rss&utm_medium=rss&utm_campaign=lululemon-invests-in-biorecycling-tech-company-epoch-biodesign",
-      "publishedAt": "2026-03-25T15:15:20",
-      "content": "Biorecycling startup Epoch Biodesign announced that it has raised $12 million in a new funding"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "27 Years, 260,000 Appliances: Whirlpool Celebrates Habitat for Humanity’s 50th Anniversary and Improving Lives and Communities Together",
-      "description": "Whirlpool Corporation is celebrating Habitat for Humanity International's 50th anniversary, marking five decades of building homes, communities and hope across more than 60 countries.",
-      "url": "https://csrwire.com/press-release/27-years-260000-appliances-whirlpool-celebrates-habitat-humanitys-50th-anniversary-and/",
-      "publishedAt": "2026-03-25T08:30:00",
-      "content": "Whirlpool Corporation is celebrating Habitat for Humanity International's 50th anniversary, marking five decades of building homes, communities and hope across more than 60 countries."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "From the Classroom to the Community: How Chemours Is Inspiring the Next Generation of STEM Leaders",
-      "description": "From site visits to community science fairs, Chemours is helping bring STEM learning to life for students across the communities where it operates.",
-      "url": "https://csrwire.com/press-release/classroom-community-how-chemours-inspiring-next-generation-stem-leaders/",
-      "publishedAt": "2026-03-25T08:00:00",
-      "content": "From site visits to community science fairs, Chemours is helping bring STEM learning to life for students across the communities where it operates."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Setting the Nordic Standard: How Castellum’s Decade of WELL Leadership Culminated in a Triple WELL Certified Platinum Milestone",
-      "description": "Castellum, a leading commercial property company in the Nordic region, has consistently set a bold benchmark for what advancing human health and well-being looks like in buildings and within organi...",
-      "url": "https://csrwire.com/press-release/setting-nordic-standard-how-castellums-decade-well-leadership-culminated-triple-well-certified/",
-      "publishedAt": "2026-03-24T12:45:00",
-      "content": "Castellum, a leading commercial property company in the Nordic region, has consistently set a bold benchmark for what advancing human health and well-being looks like in buildings and within organi..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mastercard: Bottling the Creative Process: A Woman Founder’s AI-Powered Approach to Innovation",
-      "description": "Catalina Banuleasa knows that most exciting new products aren’t born from sheer luck.",
-      "url": "https://csrwire.com/press-release/mastercard-bottling-creative-process-woman-founders-ai-powered-approach-innovation/",
-      "publishedAt": "2026-03-24T09:30:00",
-      "content": "Catalina Banuleasa knows that most exciting new products aren’t born from sheer luck."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Spring is here – a mad mix of joy and discipline | Paul Evans",
-      "description": "The Marches, Shropshire: The call of the chiffchaff and the turning of the allotment soil – these are seasonal rituals honed over timeA pair of ravens, barking mad, perform their shuttling flight i...",
-      "url": "https://www.theguardian.com/environment/2026/mar/26/country-diary-spring-is-here-a-mad-mix-of-joy-and-discipline",
-      "publishedAt": "2026-03-26T05:30:27",
-      "content": "The Marches, Shropshire: The call of the chiffchaff and the turning of the allotment soil – these are seasonal rituals honed over timeA pair of ravens, barking mad, perform their shuttling flight i..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "E.P.A. Waives Smog Rules on Summer Gasoline in Bid to Ease Prices",
-      "description": "The moves will allow expanded sales of a higher-ethanol blend known as E15, which is often restricted in the summer.",
-      "url": "https://www.nytimes.com/2026/03/25/climate/epa-waive-smog-gas-ethanol.html",
-      "publishedAt": "2026-03-25T19:33:35",
-      "content": "The moves will allow expanded sales of a higher-ethanol blend known as E15, which is often restricted in the summer."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Iowa’s Cancer Crisis Linked to Pesticides, PFAS, Fertilizer and Radon, Report Says",
-      "description": "Iowa is among a few states where cancer diagnoses are on the rise.",
-      "url": "https://insideclimatenews.org/news/25032026/iowa-environmental-risk-factors-contribute-to-cancer-crisis/",
-      "publishedAt": "2026-03-25T18:00:00",
-      "content": "Iowa is among a few states where cancer diagnoses are on the rise."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -433,61 +499,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Humans Had Dogs Before They Had Farming, Ancient DNA Confirms",
-      "description": "New research pushes the first genetic evidence of dogs back by 5,000 years and suggests that hunter-gatherer groups may have acquired dogs from one another.",
-      "url": "https://www.nytimes.com/2026/03/25/science/paleontology-humans-dogs-dna.html",
-      "publishedAt": "2026-03-25T16:00:08",
-      "content": "New research pushes the first genetic evidence of dogs back by 5,000 years and suggests that hunter-gatherer groups may have acquired dogs from one another."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Lessons From Salt Lakes for Making a Home in a Changing World",
-      "description": "When Mormon settlers descended upon the Salt Lake Valley in 1847, the land was an oasis.",
-      "url": "https://insideclimatenews.org/news/25032026/book-traces-history-and-decline-of-salt-lakes/",
-      "publishedAt": "2026-03-25T09:00:00",
-      "content": "When Mormon settlers descended upon the Salt Lake Valley in 1847, the land was an oasis."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Ethical Is Nike?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-nike/",
-      "publishedAt": "2026-03-24T23:00:24",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "As Storms Pummel Hawaii, the Western U.S. Continues to Bake Amid Record-Breaking Heat Wave",
-      "description": "Communities across the Western United States are in for another week of unusually high temperatures amid an ongoing and historic early-season heat wave. It has broken March temperature records in n...",
-      "url": "https://insideclimatenews.org/news/24032026/todays-climate-storms-hawaii-western-heat-wave/",
-      "publishedAt": "2026-03-24T21:53:38",
-      "content": "Communities across the Western United States are in for another week of unusually high temperatures amid an ongoing and historic early-season heat wave. It has broken March temperature records in n..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Decline in migratory fish populations prompts fight for protection",
-      "description": "The UN assessment of the state of migratory freshwater fish revealed an 81% decline in the last 50 years.",
-      "url": "https://www.bbc.com/news/articles/cr4105d93d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-24T12:00:30",
-      "content": "The UN assessment of the state of migratory freshwater fish revealed an 81% decline in the last 50 years."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -496,28 +507,6 @@
       "url": "https://triplepundit.com/2026/jocko-river-restoration-montana-confederated-salish-kootenai-tribes/",
       "publishedAt": "2026-03-23T16:16:41",
       "content": "‘We live at the backbone of the world, where the water begins.’TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Triple Pundit: Camden Healthcare Workers Confront the Barriers Holding Back Their Neighbors’ Health",
-      "description": "The Healthy Neighbor program, led by healthcare provider Virtua Health and supported by global medical technology company Medtronic and Medtronic LABS, recognizes that health goes beyond medicine a...",
-      "url": "https://csrwire.com/press-release/triple-pundit-camden-healthcare-workers-confront-barriers-holding-back-their-neighbors-health/",
-      "publishedAt": "2026-03-23T13:45:00",
-      "content": "The Healthy Neighbor program, led by healthcare provider Virtua Health and supported by global medical technology company Medtronic and Medtronic LABS, recognizes that health goes beyond medicine a..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2025 JA Americas Company of the Year Celebrates the Spirit of Possibility",
-      "description": "For three unforgettable days at the Junior Achievement (JA) Americas Company of the Year (COY) competition, the spirit of possibility took hold of Rio de Janeiro.",
-      "url": "https://csrwire.com/press-release/2025-ja-americas-company-year-celebrates-spirit-possibility/",
-      "publishedAt": "2026-03-23T11:00:00",
-      "content": "For three unforgettable days at the Junior Achievement (JA) Americas Company of the Year (COY) competition, the spirit of possibility took hold of Rio de Janeiro."
     }
   ]
 }
