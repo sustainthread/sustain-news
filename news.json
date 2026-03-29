@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 46,
+  "totalResults": 47,
   "articles": [
     {
       "source": {
@@ -81,6 +81,17 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The 4-Billion-Year Perspective to Understanding Earth’s Current Climate Crisis",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Peter Brannen, the author of “The Story of CO2 Is the Story of Everyth...",
+      "url": "https://insideclimatenews.org/news/28032026/how-carbon-dioxide-shaped-the-earth/",
+      "publishedAt": "2026-03-28T08:55:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with Peter Brannen, the author of “The Story of CO2 Is the Story of Everyth..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -125,17 +136,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Two Wildly Different Data Centers Reveal a ‘Fork in the Road’ on How to Meet Electricity Demand",
-      "description": "A proposed Google data center in Michigan is notable for its use of renewable energy and its ability to ramp down power use during periods of high demand. The plan, announced last week, is a partne...",
-      "url": "https://insideclimatenews.org/news/26032026/inside-clean-energy-midwest-data-center-power-plans/",
-      "publishedAt": "2026-03-26T13:00:00",
-      "content": "A proposed Google data center in Michigan is notable for its use of renewable energy and its ability to ramp down power use during periods of high demand. The plan, announced last week, is a partne..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -144,6 +144,94 @@
       "url": "https://csrwire.com/press-release/ideas-impact-empowering-africas-next-generation-climate-innovators/",
       "publishedAt": "2026-03-25T11:00:00",
       "content": "In December, the future of African innovation took center stage in Abuja, Nigeria, as students from across the continent gathered for Junior Achievement (JA) Africa’s Company of the Year (COY) comp..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Circular Design Illustrated Through Four Cisco Products",
+      "description": "At Cisco, circular design means building sustainability into our products and packaging from the start. It’s about designing with the full life cycle in mind",
+      "url": "https://csrwire.com/press-release/circular-design-illustrated-through-four-cisco-products/",
+      "publishedAt": "2026-03-26T11:55:00",
+      "content": "At Cisco, circular design means building sustainability into our products and packaging from the start. It’s about designing with the full life cycle in mind"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Office Workwear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-workwear/",
+      "publishedAt": "2026-03-24T02:00:49",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Lots of people still don’t have roofs’: Jamaicans living in hardship after Hurricane Melissa",
+      "description": "Many say they have not received support to rebuild their homes months after the storm caused unprecedented destruction“Before Hurricane Melissa I could have navigated life, figured things out. But ...",
+      "url": "https://www.theguardian.com/news/2026/mar/29/hurricane-melissa-aftermath-jamaica",
+      "publishedAt": "2026-03-29T06:00:48",
+      "content": "Many say they have not received support to rebuild their homes months after the storm caused unprecedented destruction“Before Hurricane Melissa I could have navigated life, figured things out. But ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch: Iconic global landmarks turn off lights for Earth Hour",
+      "description": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night.",
+      "url": "https://www.bbc.com/news/videos/c4gx042nlezo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-28T22:02:34",
+      "content": "France's Eiffel Tower and Barcelona's Sagrada Família Basilica were among the famous global landmarks that went dark for an hour on Saturday night."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Call out to volunteers to take part in bug survey",
+      "description": "Buglife says Kent, Surrey and Sussex forms one of the UK's richest regions for insect variety.",
+      "url": "https://www.bbc.com/news/articles/cj37epve5l6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-28T15:05:00",
+      "content": "Buglife says Kent, Surrey and Sussex forms one of the UK's richest regions for insect variety."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: A weary wheatear shows off his best feature | Henry",
+      "description": "Dartmoor, Devon: This one is an early-arriver after spending winter in sub-Saharan Africa, and it’s keen to show off its ‘white arse’ The first signs of spring shine through the shadow of Haytor Ro...",
+      "url": "https://www.theguardian.com/environment/2026/mar/28/country-diary-a-weary-wheatear-shows-off-his-best-feature",
+      "publishedAt": "2026-03-28T11:00:26",
+      "content": "Dartmoor, Devon: This one is an early-arriver after spending winter in sub-Saharan Africa, and it’s keen to show off its ‘white arse’ The first signs of spring shine through the shadow of Haytor Ro..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Summit Sold Its Midwest Pipeline as a Carbon Solution. Now, It’ll Be Used for Fossil Fuels.",
+      "description": "For four years, battles over private property rights have gridlocked state legislatures across the Midwest and stalled plans for a pipeline to transport liquified carbon dioxide from ethanol plants...",
+      "url": "https://insideclimatenews.org/news/28032026/summit-midwest-co2-pipeline/",
+      "publishedAt": "2026-03-28T09:00:00",
+      "content": "For four years, battles over private property rights have gridlocked state legislatures across the Midwest and stalled plans for a pipeline to transport liquified carbon dioxide from ethanol plants..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The start of the healing process’: the vital work to restore Britain’s peatlands",
+      "description": "A project on Dartmoor to reprofile the landscape aims to return the springy bog – and carbon store – to its natural conditionAt one of the most remote spots in southern England, Al West skilfully t...",
+      "url": "https://www.theguardian.com/environment/2026/mar/28/britain-peatlands-restore-dartmoor-bog-carbon-store",
+      "publishedAt": "2026-03-28T07:00:21",
+      "content": "A project on Dartmoor to reprofile the landscape aims to return the springy bog – and carbon store – to its natural conditionAt one of the most remote spots in southern England, Al West skilfully t..."
     },
     {
       "source": {
@@ -213,25 +301,36 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "Circular Design Illustrated Through Four Cisco Products",
-      "description": "At Cisco, circular design means building sustainability into our products and packaging from the start. It’s about designing with the full life cycle in mind",
-      "url": "https://csrwire.com/press-release/circular-design-illustrated-through-four-cisco-products/",
-      "publishedAt": "2026-03-26T11:55:00",
-      "content": "At Cisco, circular design means building sustainability into our products and packaging from the start. It’s about designing with the full life cycle in mind"
+      "author": "Inside Climate News",
+      "title": "Scientists Discover a New Branch of Life in the Deep Sea",
+      "description": "Beneath the neon lights of a laser-scanning microscope, newly classified species glow in vivid greens and oranges—a far cry from the pitch-black abyss of their natural ocean floor.  Researchers hav...",
+      "url": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/",
+      "publishedAt": "2026-03-26T18:06:48",
+      "content": "Beneath the neon lights of a laser-scanning microscope, newly classified species glow in vivid greens and oranges—a far cry from the pitch-black abyss of their natural ocean floor.  Researchers hav..."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Office Workwear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-workwear/",
-      "publishedAt": "2026-03-24T02:00:49",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "Beyond the Grant: 14 Years of Leadership Excellence",
+      "description": "From the heat of the fireground to the strategic demands of the command office, fire leaders must seamlessly pivot from tactical action to visionary leadership.",
+      "url": "https://csrwire.com/press-release/beyond-grant-14-years-leadership-excellence/",
+      "publishedAt": "2026-03-26T17:30:00",
+      "content": "From the heat of the fireground to the strategic demands of the command office, fire leaders must seamlessly pivot from tactical action to visionary leadership."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "KKR Impact Fund Earns 15x Investment on Sale of Data Center Cooling Provider CoolIT to Ecolab",
+      "description": "Water, hygiene and infection prevention solutions provider Ecolab announced today an agreement to acquire liquid",
+      "url": "https://www.esgtoday.com/kkr-impact-fund-earns-15x-investment-on-sale-of-liquid-data-center-cooling-provider-coolit-to-ecolab/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-impact-fund-earns-15x-investment-on-sale-of-liquid-data-center-cooling-provider-coolit-to-ecolab",
+      "publishedAt": "2026-03-26T09:01:11",
+      "content": "Water, hygiene and infection prevention solutions provider Ecolab announced today an agreement to acquire liquid"
     },
     {
       "source": {
@@ -323,17 +422,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Tempolimit? Nein, danke!’: why German petrolheads won’t slow down – despite the energy crisis",
-      "description": "Driving fast is in ‘the German DNA’, say lovers of the speed-limit free Autobahn, but support in the country for a restriction is growingDeath-defying thrills are not what draws Lutz Leif Linden to...",
-      "url": "https://www.theguardian.com/world/2026/mar/27/germany-autobahn-no-speed-limits-energy-crisis",
-      "publishedAt": "2026-03-27T13:00:01",
-      "content": "Driving fast is in ‘the German DNA’, say lovers of the speed-limit free Autobahn, but support in the country for a restriction is growingDeath-defying thrills are not what draws Lutz Leif Linden to..."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -367,61 +455,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Released beavers settle after year of ups and downs",
-      "description": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset.",
-      "url": "https://www.bbc.com/news/articles/cx2v6xn35gwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-27T06:20:54",
-      "content": "The BBC speaks to conservationists a year after beavers were released at a nature reserve in Dorset."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Scientists Discover a New Branch of Life in the Deep Sea",
-      "description": "Beneath the neon lights of a laser-scanning microscope, newly classified species glow in vivid greens and oranges—a far cry from the pitch-black abyss of their natural ocean floor.  Researchers hav...",
-      "url": "https://insideclimatenews.org/news/26032026/scientists-discover-new-deep-sea-creatures/",
-      "publishedAt": "2026-03-26T18:06:48",
-      "content": "Beneath the neon lights of a laser-scanning microscope, newly classified species glow in vivid greens and oranges—a far cry from the pitch-black abyss of their natural ocean floor.  Researchers hav..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Beyond the Grant: 14 Years of Leadership Excellence",
-      "description": "From the heat of the fireground to the strategic demands of the command office, fire leaders must seamlessly pivot from tactical action to visionary leadership.",
-      "url": "https://csrwire.com/press-release/beyond-grant-14-years-leadership-excellence/",
-      "publishedAt": "2026-03-26T17:30:00",
-      "content": "From the heat of the fireground to the strategic demands of the command office, fire leaders must seamlessly pivot from tactical action to visionary leadership."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "KKR Impact Fund Earns 15x Investment on Sale of Data Center Cooling Provider CoolIT to Ecolab",
-      "description": "Water, hygiene and infection prevention solutions provider Ecolab announced today an agreement to acquire liquid",
-      "url": "https://www.esgtoday.com/kkr-impact-fund-earns-15x-investment-on-sale-of-liquid-data-center-cooling-provider-coolit-to-ecolab/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-impact-fund-earns-15x-investment-on-sale-of-liquid-data-center-cooling-provider-coolit-to-ecolab",
-      "publishedAt": "2026-03-26T09:01:11",
-      "content": "Water, hygiene and infection prevention solutions provider Ecolab announced today an agreement to acquire liquid"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "At the Height of NCAA March Madness, Activists Pressure Charter Airlines on Deportation Flights",
-      "description": "U.",
-      "url": "https://triplepundit.com/2026/ncaa-march-madness-ice-deportation-flights/",
-      "publishedAt": "2026-03-25T20:51:34",
-      "content": "U."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -441,17 +474,6 @@
       "url": "https://www.theguardian.com/society/2026/mar/27/vapes-pods-waste-uk-recycling-disposable-single-use-ban",
       "publishedAt": "2026-03-27T06:00:05",
       "content": "Number fell 23% year on year in 2025 but waste companies say recycling systems still under strain from sheer volumeMore than 6m vapes and vape pods are still being discarded every week in the UK, w..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Weekly quiz: What sneaky snack was this bird of prey seen carrying?",
-      "description": "How much attention did you pay to what happened in the world over the past seven days?",
-      "url": "https://www.bbc.com/news/articles/cm291jz0321o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-26T18:35:38",
-      "content": "How much attention did you pay to what happened in the world over the past seven days?"
     },
     {
       "source": {
@@ -477,25 +499,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Triple Pundit"
       },
-      "author": "Inside Climate News",
-      "title": "Avian Flu Has Killed Thousands of Birds in the U.S. Pennsylvania Is at the Epicenter.",
-      "description": "When two bald eagles built a nest in Philadelphia in 2007, it was the first time one had been recorded in the area in 200 years.",
-      "url": "https://insideclimatenews.org/news/26032026/pennsylvania-avian-flu-outbreak-epicenter/",
-      "publishedAt": "2026-03-26T09:00:00",
-      "content": "When two bald eagles built a nest in Philadelphia in 2007, it was the first time one had been recorded in the area in 200 years."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Dogs became man's best friend far earlier than thought, scientists find",
-      "description": "A jawbone found in a Somerset cave rewrites the story of when and how dogs became our best friends.",
-      "url": "https://www.bbc.com/news/articles/cn0ky1n791go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-25T16:00:49",
-      "content": "A jawbone found in a Somerset cave rewrites the story of when and how dogs became our best friends."
+      "author": "Triple Pundit",
+      "title": "At the Height of NCAA March Madness, Activists Pressure Charter Airlines on Deportation Flights",
+      "description": "U.",
+      "url": "https://triplepundit.com/2026/ncaa-march-madness-ice-deportation-flights/",
+      "publishedAt": "2026-03-25T20:51:34",
+      "content": "U."
     },
     {
       "source": {
