@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 40,
   "articles": [
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "15 Things to Know in Sustainable Fashion and Beauty This April",
+      "description": "Read the industry’s reactions to Zara x John Galliano, find out how the Strait of Hormuz closure is affecting garment workers, and see which beauty brands are being held to account in this month’s ...",
+      "url": "https://goodonyou.eco/sustainable-fashion-and-beauty-news-april-2026/",
+      "publishedAt": "2026-04-02T02:00:34",
+      "content": "Read the industry’s reactions to Zara x John Galliano, find out how the Strait of Hormuz closure is affecting garment workers, and see which beauty brands are being held to account in this month’s ..."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -15,17 +26,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This March 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-03-26T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -34,6 +34,17 @@
       "url": "https://www.esgtoday.com/totalenergies-says-it-cant-formulate-net-zero-targets-as-1-5c-is-out-of-reach/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-says-it-cant-formulate-net-zero-targets-as-1-5c-is-out-of-reach",
       "publishedAt": "2026-03-31T10:31:47",
       "content": "French energy giant TotalEnergies said that it “cannot formulate “Net Zero” targets” that align with"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "In New England, Catching Climate Data Along With Fish",
+      "description": "Commercial vessels are deploying high-tech sensors to map a shifting sea, providing critical data for scientists and some help for the industry.",
+      "url": "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html",
+      "publishedAt": "2026-04-01T13:21:43",
+      "content": "Commercial vessels are deploying high-tech sensors to map a shifting sea, providing critical data for scientists and some help for the industry."
     },
     {
       "source": {
@@ -51,11 +62,22 @@
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Drawdown Georgia Launches Climate Outlook Maps To Help Communities Plan for the Future",
-      "description": "Drawdown Georgia has launched Drawdown Georgia Climate Outlook Maps, designed to help civic, business, and community leaders understand and visualize how Georgia’s climate may change between now an...",
-      "url": "https://csrwire.com/press-release/drawdown-georgia-launches-climate-outlook-maps-help-communities-plan-future/",
-      "publishedAt": "2026-03-30T09:40:00",
-      "content": "Drawdown Georgia has launched Drawdown Georgia Climate Outlook Maps, designed to help civic, business, and community leaders understand and visualize how Georgia’s climate may change between now an..."
+      "title": "PSEG – Snow, Sleet and Straight-Line Winds: Powering Through a Season of Storms",
+      "description": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey.",
+      "url": "https://csrwire.com/press-release/pseg-snow-sleet-and-straight-line-winds-powering-through-season-storms/",
+      "publishedAt": "2026-04-01T17:10:00",
+      "content": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "After Chemical Industry Lobbying, EPA Considers Dropping Clean Air Protections for Plastic Waste Recycling",
+      "description": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agency’s Washington headquarters in February, she w...",
+      "url": "https://insideclimatenews.org/news/01042026/after-chemical-industry-lobbying-epa-considers-dropping-clean-air-protections-for-plastic-waste-recycling/",
+      "publishedAt": "2026-04-01T13:45:26",
+      "content": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agency’s Washington headquarters in February, she w..."
     },
     {
       "source": {
@@ -65,8 +87,63 @@
       "title": "The Three Big Questions Delaying New York’s Budget",
       "description": "Legislators are weighing tax increases on the wealthy and changes to laws meant to protect immigrants and the environment as the state budget deadline passes.",
       "url": "https://www.nytimes.com/2026/04/01/nyregion/budget-delayed-hochul.html",
-      "publishedAt": "2026-04-01T07:00:12",
+      "publishedAt": "2026-04-01T13:44:19",
       "content": "Legislators are weighing tax increases on the wealthy and changes to laws meant to protect immigrants and the environment as the state budget deadline passes."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Not if, but when: how Spain’s coastal towns are preparing for tsunamis",
+      "description": "In the holiday hotspots of the Costa del Sol, the risks are rarely mentioned.",
+      "url": "https://www.theguardian.com/environment/2026/apr/02/how-spain-coastal-towns-preparing-for-tsunamis",
+      "publishedAt": "2026-04-02T04:00:16",
+      "content": "In the holiday hotspots of the Costa del Sol, the risks are rarely mentioned."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Cheers and euphoria as dream of space travel reignites",
+      "description": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh.",
+      "url": "https://www.bbc.com/news/articles/cz90yp7w104o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-02T03:09:08",
+      "content": "There was giddy euphoria at the Kennedy Space Center after the launch, writes the BBC's Pallab Ghosh."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch the moment Artemis II blasts into space",
+      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
+      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-01T23:00:39",
+      "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "This Puppy Could Someday Save Your Life",
+      "description": "Avalanche rescue dogs are essential tools for ski patrollers searching for people buried in the snow, and these special companions start their training young.",
+      "url": "https://www.nytimes.com/2026/04/01/travel/avalanche-rescue-dogs-ski-patrol.html",
+      "publishedAt": "2026-04-01T15:17:41",
+      "content": "Avalanche rescue dogs are essential tools for ski patrollers searching for people buried in the snow, and these special companions start their training young."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pennsylvania Lawmakers Are Talking the Talk on Data Center Regulations. But Will They Walk?",
+      "description": "Ask Gemini, Google’s AI chatbot, whether Pennsylvania politicians are doing anything about the swelling public concern over data center development in the commonwealth, and it answers confidently. ...",
+      "url": "https://insideclimatenews.org/news/01042026/pennsylvania-data-center-regulations/",
+      "publishedAt": "2026-04-01T09:00:00",
+      "content": "Ask Gemini, Google’s AI chatbot, whether Pennsylvania politicians are doing anything about the swelling public concern over data center development in the commonwealth, and it answers confidently. ..."
     },
     {
       "source": {
@@ -216,121 +293,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Nasdaq, Adyen Buy First-Ever Carbon Credits Aligned with EU’s New Standard",
-      "description": "Climate solutions provider ClimeFi announced that it has structured the first publicly announced transaction for",
-      "url": "https://www.esgtoday.com/nasdaq-adyen-buy-first-ever-carbon-credits-aligned-with-eus-new-standard/?utm_source=rss&utm_medium=rss&utm_campaign=nasdaq-adyen-buy-first-ever-carbon-credits-aligned-with-eus-new-standard",
-      "publishedAt": "2026-03-30T14:37:21",
-      "content": "Climate solutions provider ClimeFi announced that it has structured the first publicly announced transaction for"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Zoo welcomes 'vulnerable' giant anteater pup",
-      "description": "The  anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says.",
-      "url": "https://www.bbc.com/news/articles/cz780wx5eveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-01T05:26:08",
-      "content": "The  anteater pup's gender is not yet known as it \"prefers the safety of mum\" for now, the zoo says."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Water-Use Restrictions Follow Snow Drought and Heat Wave in the Western U.S.",
-      "description": "Officials were already sounding the alarm bells in early March across the Western United States after a winter with historically low snowpacks, which supplies water for communities as it slowly mel...",
-      "url": "https://insideclimatenews.org/news/31032026/todays-climate-water-use-restrictions-snow-drought-western-us/",
-      "publishedAt": "2026-03-31T22:33:48",
-      "content": "Officials were already sounding the alarm bells in early March across the Western United States after a winter with historically low snowpacks, which supplies water for communities as it slowly mel..."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "FedEx’s Same-Day Delivery Rollout is More About Optionality than Speed",
-      "description": "The logistics giant taps OneRail to scale two-hour and end-of-day delivery to retail customers enabling precise delivery windows for everything from bulky goods to urgent essentials.",
-      "url": "https://sourcingjournal.com/topics/logistics/fedexs-sameday-local-same-day-delivery-last-mile-onerail-optionality-speed-time-definite-window-two-hour-1234818873/",
-      "publishedAt": "2026-03-31T20:00:00",
-      "content": "The logistics giant taps OneRail to scale two-hour and end-of-day delivery to retail customers enabling precise delivery windows for everything from bulky goods to urgent essentials."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Celebrities Embrace Flare Jeans and Distressed Denim Trends",
-      "description": "Fashion and sporting events drew out celebrities, many of whom stepped out in statement denim.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/celebrities-embrace-flare-jeans-distressed-denim-trends-1234818573/",
-      "publishedAt": "2026-03-31T18:00:00",
-      "content": "Fashion and sporting events drew out celebrities, many of whom stepped out in statement denim."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Guess Jeans x Hysteric Glamour",
-      "description": "",
-      "url": "https://sourcingjournal.com/gallery/denim/denim-brands/guess-jeans-x-hysteric-glamour-slideshow-1234818813/",
-      "publishedAt": "2026-03-31T15:54:54",
-      "content": ""
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Deepwater discoveries: scientists find more than 110 new fish and invertebrate species in the Coral Sea",
-      "description": "Brittlestars, sea anemones and a catshark among new-to-science species collected during expedition off the Queensland coastFollow our Australia news live blog for latest updatesGet our breaking new...",
-      "url": "https://www.theguardian.com/environment/2026/apr/01/queensland-great-barrier-reef-coral-sea-110-new-fish-species-discovered",
-      "publishedAt": "2026-03-31T13:01:55",
-      "content": "Brittlestars, sea anemones and a catshark among new-to-science species collected during expedition off the Queensland coastFollow our Australia news live blog for latest updatesGet our breaking new..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Judge Rules Alabama Power Can Keep Its Solar Fee, Among the Nation’s Highest",
-      "description": "In Alabama, a years-long battle over one of the nation’s highest backup fees for residential solar customers may have finally come to an end.",
-      "url": "https://insideclimatenews.org/news/31032026/alabama-power-solar-fee-ruling/",
-      "publishedAt": "2026-03-31T08:55:00",
-      "content": "In Alabama, a years-long battle over one of the nation’s highest backup fees for residential solar customers may have finally come to an end."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Your ‘Widely Recyclable’ Starbucks Cup Is Still Trash",
-      "description": "This story was originally published by Grist.",
-      "url": "https://insideclimatenews.org/news/31032026/your-widely-recyclable-starbucks-cup-is-still-trash/",
-      "publishedAt": "2026-03-31T08:50:00",
-      "content": "This story was originally published by Grist."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
       "title": "Google, Meta, McKinsey Ink U.S. Reforestation-Based Carbon Removal Deals",
       "description": "Nature-based solutions company Living Carbon announced today that it has signed a new set of",
       "url": "https://www.esgtoday.com/google-meta-mckinsey-ink-u-s-reforestation-based-carbon-removal-deals/?utm_source=rss&utm_medium=rss&utm_campaign=google-meta-mckinsey-ink-u-s-reforestation-based-carbon-removal-deals",
       "publishedAt": "2026-03-31T07:00:41",
       "content": "Nature-based solutions company Living Carbon announced today that it has signed a new set of"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Blasting Begins For Border Wall On Cherished New Mexico Mountain",
-      "description": "Editor’s note: This story was co-published with Puente News Collaborative in partnership with Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/30032026/new-mexico-mount-cristo-rey-destruction-border-wall/",
-      "publishedAt": "2026-03-30T22:04:33",
-      "content": "Editor’s note: This story was co-published with Puente News Collaborative in partnership with Inside Climate News."
     },
     {
       "source": {
@@ -367,14 +334,80 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "Where Water Flows, Equality Grows: FedEx and Water Mission Bring Relief After Hurricane Melissa",
-      "description": "When Hurricane Melissa made landfall on October 28, 2025, Jamaica faced one of the most powerful storms ever recorded in the Atlantic.",
-      "url": "https://csrwire.com/press-release/where-water-flows-equality-grows-fedex-and-water-mission-bring-relief-after-hurricane-melissa/",
-      "publishedAt": "2026-03-30T11:00:00",
-      "content": "When Hurricane Melissa made landfall on October 28, 2025, Jamaica faced one of the most powerful storms ever recorded in the Atlantic."
+      "author": "The Guardian",
+      "title": "Energy crisis: why ‘keep calm but cut down’ may be a better message for Labour",
+      "description": "Government keen to avoid panic as oil price surges, but perhaps households need advice on reducing consumptionLabour ministers asked in recent days about the looming energy crisis sparked by the Ir...",
+      "url": "https://www.theguardian.com/politics/2026/apr/01/energy-crisis-keep-calm-but-cut-down-better-message-labour",
+      "publishedAt": "2026-04-01T06:00:41",
+      "content": "Government keen to avoid panic as oil price surges, but perhaps households need advice on reducing consumptionLabour ministers asked in recent days about the looming energy crisis sparked by the Ir..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: It is our duty to delight in the dandelion | Josie George",
+      "description": "Stoke-on-Trent, Staffordshire: These early spring bloomers are a favourite of mine, a model of nature’s generosity, yet so often ignoredThe drier days of March are always marked by the hum of dutif...",
+      "url": "https://www.theguardian.com/environment/2026/apr/01/country-diary-it-is-our-duty-to-delight-in-the-dandelion",
+      "publishedAt": "2026-04-01T04:30:37",
+      "content": "Stoke-on-Trent, Staffordshire: These early spring bloomers are a favourite of mine, a model of nature’s generosity, yet so often ignoredThe drier days of March are always marked by the hum of dutif..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "How Ethical Is Carhartt WIP?",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/how-ethical-is-carhartt/",
+      "publishedAt": "2026-04-01T04:30:15",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Water-Use Restrictions Follow Snow Drought and Heat Wave in the Western U.S.",
+      "description": "Officials were already sounding the alarm bells in early March across the Western United States after a winter with historically low snowpacks, which supplies water for communities as it slowly mel...",
+      "url": "https://insideclimatenews.org/news/31032026/todays-climate-water-use-restrictions-snow-drought-western-us/",
+      "publishedAt": "2026-03-31T22:33:48",
+      "content": "Officials were already sounding the alarm bells in early March across the Western United States after a winter with historically low snowpacks, which supplies water for communities as it slowly mel..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'God squad' waives animal protections to expand oil drilling in Gulf of Mexico",
+      "description": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
+      "url": "https://www.bbc.com/news/articles/cre19zrg5dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-03-31T18:51:48",
+      "content": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
+      "description": "Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’The merlin, Britain’s smallest bird of prey, is one of more than 200 species that will become...",
+      "url": "https://www.theguardian.com/environment/2026/mar/31/uk-smallest-bird-prey-among-species-risk-extinction-study-finds",
+      "publishedAt": "2026-03-31T15:00:01",
+      "content": "Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’The merlin, Britain’s smallest bird of prey, is one of more than 200 species that will become..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Judge Rules Alabama Power Can Keep Its Solar Fee, Among the Nation’s Highest",
+      "description": "In Alabama, a years-long battle over one of the nation’s highest backup fees for residential solar customers may have finally come to an end.",
+      "url": "https://insideclimatenews.org/news/31032026/alabama-power-solar-fee-ruling/",
+      "publishedAt": "2026-03-31T08:55:00",
+      "content": "In Alabama, a years-long battle over one of the nation’s highest backup fees for residential solar customers may have finally come to an end."
     },
     {
       "source": {
@@ -386,17 +419,6 @@
       "url": "https://www.theguardian.com/environment/2026/mar/31/drilling-north-sea-not-the-answer-uk-energy-security",
       "publishedAt": "2026-03-31T05:00:32",
       "content": "Government told to focus on transition to mix of wind, solar, tidal and nuclear energyMore drilling in the North Sea would do nothing to improve the UK’s energy security, former military leaders ha..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: These ‘mystery’ geese and I have a fond history | Nick Acheson",
-      "description": "Holkham, Norfolk: They’re noisy and boisterous and should by rights be breeding in Siberia, not eastern England.",
-      "url": "https://www.theguardian.com/environment/2026/mar/31/country-diary-these-mystery-geese-and-i-have-a-fond-history",
-      "publishedAt": "2026-03-31T04:30:30",
-      "content": "Holkham, Norfolk: They’re noisy and boisterous and should by rights be breeding in Siberia, not eastern England."
     },
     {
       "source": {
@@ -419,50 +441,6 @@
       "url": "https://goodonyou.eco/ethical-maternity-clothing/",
       "publishedAt": "2026-03-30T23:00:24",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "FEMA Skips National Hurricane Conference Amid DHS Shutdown",
-      "description": "ORLANDO, Fla.",
-      "url": "https://insideclimatenews.org/news/30032026/fema-skips-national-hurricane-conference/",
-      "publishedAt": "2026-03-30T22:41:58",
-      "content": "ORLANDO, Fla."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Scientists Deploy First Satellite Tag on a Leatherback Sea Turtle in Ecuador to Better Reveal Gaps in Ocean Protection",
-      "description": "Just after 3 a.",
-      "url": "https://insideclimatenews.org/news/30032026/ecuador-leatherback-sea-turtle-tracking-ocean-protection/",
-      "publishedAt": "2026-03-30T21:32:48",
-      "content": "Just after 3 a."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
-      "description": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
-      "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-29T23:50:21",
-      "content": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "At the Height of NCAA March Madness, Activists Pressure Charter Airlines on Deportation Flights",
-      "description": "U.",
-      "url": "https://triplepundit.com/2026/ncaa-march-madness-ice-deportation-flights/",
-      "publishedAt": "2026-03-25T20:51:34",
-      "content": "U."
     }
   ]
 }
