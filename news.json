@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 46,
+  "totalResults": 40,
   "articles": [
     {
       "source": {
@@ -48,6 +48,39 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
+      "description": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit",
+      "url": "https://triplepundit.com/2026/yangtze-river-fishing-ban-endangered-species-conservation/",
+      "publishedAt": "2026-04-03T13:00:00",
+      "content": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Why reducing air pollution deaths isn’t just about reducing air pollution",
+      "description": "Study shows reducing vulnerability to pollution, including by expanding healthcare access, saves millions of livesReductions in vulnerability to air pollution since 1990 saved the lives of about 1....",
+      "url": "https://www.theguardian.com/environment/2026/apr/03/air-pollution-deaths-vulnerability-study-pollutionwatch",
+      "publishedAt": "2026-04-03T05:00:44",
+      "content": "Study shows reducing vulnerability to pollution, including by expanding healthcare access, saves millions of livesReductions in vulnerability to air pollution since 1990 saved the lives of about 1...."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
+      "description": "Texas power plant would emit 4.",
+      "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
+      "publishedAt": "2026-04-02T18:55:08",
+      "content": "Texas power plant would emit 4."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -56,6 +89,105 @@
       "url": "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html",
       "publishedAt": "2026-04-01T13:21:44",
       "content": "Commercial vessels are deploying high-tech sensors to map a shifting sea, providing critical data for scientists and some help for the industry."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Forest Service Will Close Research Stations That Study Wildfire Risk",
+      "description": "Scientists say their work on fires and climate change could be lost as the agency moves its headquarters to Utah from Washington and shuts 57 research stations.",
+      "url": "https://www.nytimes.com/2026/04/03/climate/forest-service-research-stations.html",
+      "publishedAt": "2026-04-03T22:08:08",
+      "content": "Scientists say their work on fires and climate change could be lost as the agency moves its headquarters to Utah from Washington and shuts 57 research stations."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Hope on Wheels: FedEx Supports The Salvation Army",
+      "description": "The Salvation Army’s canteen trucks—many of them donated by FedEx—play a vital role in supporting communities around the world.",
+      "url": "https://csrwire.com/press-release/hope-wheels-fedex-supports-salvation-army/",
+      "publishedAt": "2026-04-03T11:00:00",
+      "content": "The Salvation Army’s canteen trucks—many of them donated by FedEx—play a vital role in supporting communities around the world."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maui Mental Health Providers Face Stress and Uncertainty About State Jobs",
+      "description": "This story is a partnership between Inside Climate News and Honolulu Civil Beat.",
+      "url": "https://insideclimatenews.org/news/03042026/maui-mental-health-clinic-staffing-cuts/",
+      "publishedAt": "2026-04-03T08:55:00",
+      "content": "This story is a partnership between Inside Climate News and Honolulu Civil Beat."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
+      "description": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers.",
+      "url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
+      "publishedAt": "2026-04-03T21:58:10",
+      "content": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Amazing’: how to grow a meadow in the sea",
+      "description": "Vibrant seagrass meadows once flourished around the UK but most have been destroyed.",
+      "url": "https://www.theguardian.com/environment/2026/apr/03/hard-work-how-to-grow-a-meadow-in-the-sea",
+      "publishedAt": "2026-04-03T12:00:52",
+      "content": "Vibrant seagrass meadows once flourished around the UK but most have been destroyed."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Artemis II leaves Earth orbit on track for far side of the Moon",
+      "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+      "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-03T11:12:28",
+      "content": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Critics Call the Poultry Farming System Rigged. Craig Watts Is Fighting to Overturn It.",
+      "description": "FAIRMONT, N.",
+      "url": "https://insideclimatenews.org/news/03042026/craig-watts-fights-poultry-farming-system/",
+      "publishedAt": "2026-04-03T09:00:00",
+      "content": "FAIRMONT, N."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Florida Power & Light Profit Margins Top Other Utilities’ Nationwide, Report Says",
+      "description": "Florida Power & Light’s profit margins consistently ranked among the highest in the nation over the past five years and topped other utilities’ in 2024 and 2025, with 27 cents of every dollar in re...",
+      "url": "https://insideclimatenews.org/news/03042026/florida-power-and-light-highest-profit-margins-nationwide/",
+      "publishedAt": "2026-04-03T08:50:00",
+      "content": "Florida Power & Light’s profit margins consistently ranked among the highest in the nation over the past five years and topped other utilities’ in 2024 and 2025, with 27 cents of every dollar in re..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
+      "description": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
+      "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-03T07:07:48",
+      "content": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far."
     },
     {
       "source": {
@@ -103,25 +235,36 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "How a lush Miami park was designed to keep flooding at bay – in pictures",
-      "description": "As the climate crisis intensifies the storms lashing south Florida, it is imperative to design spaces that soak up the water.",
-      "url": "https://www.theguardian.com/environment/gallery/2026/apr/02/photos-miami-bayshore-park-flooding-climate-crisis",
-      "publishedAt": "2026-04-02T15:00:26",
-      "content": "As the climate crisis intensifies the storms lashing south Florida, it is imperative to design spaces that soak up the water."
+      "author": "CSRWire",
+      "title": "PSEG – Snow, Sleet and Straight-Line Winds: Powering Through a Season of Storms",
+      "description": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey.",
+      "url": "https://csrwire.com/press-release/pseg-snow-sleet-and-straight-line-winds-powering-through-season-storms/",
+      "publishedAt": "2026-04-01T17:10:00",
+      "content": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Emerald AI Raises $25 Million to Align Data Center Energy Use with Grid Capacity",
+      "description": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic",
+      "url": "https://www.esgtoday.com/emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity",
+      "publishedAt": "2026-04-01T06:56:25",
+      "content": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic"
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Experience: I climbed the tallest tropical tree in the world",
-      "description": "It was a slow ascent: I needed to check for wasps, snakes and scorpionsI was born in Tawau, a Malaysian city on the island of Borneo, and grew up around logging camps – my dad worked in the industr...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/03/experience-i-climbed-the-tallest-tropical-tree-in-the-world",
-      "publishedAt": "2026-04-03T04:00:43",
-      "content": "It was a slow ascent: I needed to check for wasps, snakes and scorpionsI was born in Tawau, a Malaysian city on the island of Borneo, and grew up around logging camps – my dad worked in the industr..."
+      "title": "Contractor that cut back 500-year-old oak in London park identified",
+      "description": "Document shows partial felling last year, which led to legal action against Toby Carvery, was done by Ground ControlA mystery contractor who chainsawed an ancient oak in north London for the Toby C...",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/03/contractor-ancient-oak-whitewebbs-park-london-identified",
+      "publishedAt": "2026-04-03T06:00:44",
+      "content": "Document shows partial felling last year, which led to legal action against Toby Carvery, was done by Ground ControlA mystery contractor who chainsawed an ancient oak in north London for the Toby C..."
     },
     {
       "source": {
@@ -136,47 +279,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
-      "description": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers.",
-      "url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
-      "publishedAt": "2026-04-02T21:27:40",
-      "content": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "E.P.A. Targets Microplastics and Drugs in Drinking Water",
-      "description": "The move drew praise from leaders of the Make America Healthy Again movement who had recently criticized the agency’s handling of toxic chemicals.",
-      "url": "https://www.nytimes.com/2026/04/02/climate/microplastics-maha-epa.html",
-      "publishedAt": "2026-04-02T19:09:10",
-      "content": "The move drew praise from leaders of the Make America Healthy Again movement who had recently criticized the agency’s handling of toxic chemicals."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why isn't Artemis II landing on the Moon?",
-      "description": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?",
-      "url": "https://www.bbc.com/news/videos/c3w344wyxg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-02T19:02:15",
-      "content": "The US is aiming to be the first country to land humans on the lunar surface again by 2028 - so what's this mission for?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "High above Earth, Artemis II crew prepare to thrust on to the Moon",
-      "description": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit.",
-      "url": "https://www.bbc.com/news/articles/c75kr702z75o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-02T14:22:07",
-      "content": "After a spectacular launch the astronauts are preparing for a high-stakes engine burn out of Earth's orbit."
+      "author": "The Guardian",
+      "title": "Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find",
+      "description": "Sensory organ in male cephalopod able to detect female hormone progesterone, even if male cannot see partnerSex might seem an intimate act, but scientists have shed fresh light on how octopuses man...",
+      "url": "https://www.theguardian.com/environment/2026/apr/02/sex-octopus-specialist-arm-mating-science",
+      "publishedAt": "2026-04-02T18:17:45",
+      "content": "Sensory organ in male cephalopod able to detect female hormone progesterone, even if male cannot see partnerSex might seem an intimate act, but scientists have shed fresh light on how octopuses man..."
     },
     {
       "source": {
@@ -191,91 +301,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Festivalgoers’ urine to fertilise trees in Brecon Beacons restoration scheme",
-      "description": "Waste of 700 Boomtown festival attendees used to produce 540 litres of fertiliser for native tree projectScientists are aiming to grow 4,500 trees at a national park with the help of fertiliser mad...",
-      "url": "https://www.theguardian.com/environment/2026/apr/02/feativalgoers-urine-to-fertilise-trees-in-brecon-beacons-restoration-scheme",
-      "publishedAt": "2026-04-02T12:37:26",
-      "content": "Waste of 700 Boomtown festival attendees used to produce 540 litres of fertiliser for native tree projectScientists are aiming to grow 4,500 trees at a national park with the help of fertiliser mad..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Artemis II is in orbit - what happens next?",
-      "description": "What are the mission's four astronauts doing and when will they go to the Moon?",
-      "url": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-02T12:20:34",
-      "content": "What are the mission's four astronauts doing and when will they go to the Moon?"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Why Doesn’t Texas, the Leader of Onshore Wind Energy, Have Any Offshore?",
-      "description": "Texas state officials have led a successful and concerted effort to prevent offshore wind developments in the Gulf.",
-      "url": "https://insideclimatenews.org/news/02042026/texas-offshore-wind-energy-battles/",
-      "publishedAt": "2026-04-02T09:00:00",
-      "content": "Texas state officials have led a successful and concerted effort to prevent offshore wind developments in the Gulf."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Georgia’s New Public Service Commissioner Says She Will Put Affordability and Transparency First",
-      "description": "The Georgia Public Service Commission has approved six rate increases in three years and signed off on a sweeping expansion of fossil fuel infrastructure, decisions that have reshaped Georgia’s ene...",
-      "url": "https://insideclimatenews.org/news/02042026/georgia-public-service-commissioner-alicia-johnson-affordability/",
-      "publishedAt": "2026-04-02T08:55:00",
-      "content": "The Georgia Public Service Commission has approved six rate increases in three years and signed off on a sweeping expansion of fossil fuel infrastructure, decisions that have reshaped Georgia’s ene..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Swifts spark joy!’ Why these beautiful birds need our help – and 10 ways to give it",
-      "description": "Britain’s swift population fell by two-thirds between 1995 and 2023.",
-      "url": "https://www.theguardian.com/environment/2026/apr/02/swifts-spark-joy-why-these-beautiful-birds-need-our-help-and-10-ways-to-give-it",
-      "publishedAt": "2026-04-02T08:00:20",
-      "content": "Britain’s swift population fell by two-thirds between 1995 and 2023."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG – Snow, Sleet and Straight-Line Winds: Powering Through a Season of Storms",
-      "description": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey.",
-      "url": "https://csrwire.com/press-release/pseg-snow-sleet-and-straight-line-winds-powering-through-season-storms/",
-      "publishedAt": "2026-04-01T17:10:00",
-      "content": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "After Chemical Industry Lobbying, EPA Considers Dropping Clean Air Protections for Plastic Waste Recycling",
-      "description": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agency’s Washington headquarters in February, she w...",
-      "url": "https://insideclimatenews.org/news/01042026/after-chemical-industry-lobbying-epa-considers-dropping-clean-air-protections-for-plastic-waste-recycling/",
-      "publishedAt": "2026-04-01T13:45:26",
-      "content": "When former top Environmental Protection Agency official Judith Enck noticed a cavalcade of chemical and plastics industry lobbyists visiting the agency’s Washington headquarters in February, she w..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Emerald AI Raises $25 Million to Align Data Center Energy Use with Grid Capacity",
-      "description": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic",
-      "url": "https://www.esgtoday.com/emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity",
-      "publishedAt": "2026-04-01T06:56:25",
-      "content": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic"
+      "title": "Watch the moment Artemis II blasts into space",
+      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
+      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-01T23:00:39",
+      "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
     },
     {
       "source": {
@@ -400,94 +433,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: This is heavy work for heavy beasts | Sara Hudston",
-      "description": "Nettlecombe, Dorset: Logging is typically a job for a machine, but French Comtois are highly manoeuvrable and have just the right amount of horsepowerA heave and a grunt and a sudden rush as the fe...",
-      "url": "https://www.theguardian.com/environment/2026/apr/02/country-diary-this-is-heavy-work-for-heavy-beasts",
-      "publishedAt": "2026-04-02T04:30:16",
-      "content": "Nettlecombe, Dorset: Logging is typically a job for a machine, but French Comtois are highly manoeuvrable and have just the right amount of horsepowerA heave and a grunt and a sudden rush as the fe..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The dark side of the balloon boom – is it time they were banned?",
-      "description": "From balloon arches at parties to mass balloon releases at funerals, these bits of floating rubber and plastic can have disastrous effects on wildlife. As some retailers are refusing to sell them, ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/02/the-dark-side-of-the-balloon-boom-is-it-time-they-were-banned",
-      "publishedAt": "2026-04-02T04:00:18",
-      "content": "From balloon arches at parties to mass balloon releases at funerals, these bits of floating rubber and plastic can have disastrous effects on wildlife. As some retailers are refusing to sell them, ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch the moment Artemis II blasts into space",
-      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
-      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-01T23:00:39",
-      "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Ethical Is Carhartt WIP?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-carhartt/",
-      "publishedAt": "2026-04-01T04:30:15",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "FedEx’s Same-Day Delivery Rollout is More About Optionality than Speed",
-      "description": "The logistics giant taps OneRail to scale two-hour and end-of-day delivery to retail customers enabling precise delivery windows for everything from bulky goods to urgent essentials.",
-      "url": "https://sourcingjournal.com/topics/logistics/fedexs-sameday-local-same-day-delivery-last-mile-onerail-optionality-speed-time-definite-window-two-hour-1234818873/",
-      "publishedAt": "2026-03-31T20:00:00",
-      "content": "The logistics giant taps OneRail to scale two-hour and end-of-day delivery to retail customers enabling precise delivery windows for everything from bulky goods to urgent essentials."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'God squad' waives animal protections to expand oil drilling in Gulf of Mexico",
-      "description": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security.",
-      "url": "https://www.bbc.com/news/articles/cre19zrg5dxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-03-31T18:51:48",
-      "content": "Secretary of Defence Pete Hegseth said exempting oil drilling was a matter of national security."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Celebrities Embrace Flare Jeans and Distressed Denim Trends",
-      "description": "Fashion and sporting events drew out celebrities, many of whom stepped out in statement denim.",
-      "url": "https://sourcingjournal.com/denim/denim-trends/celebrities-embrace-flare-jeans-distressed-denim-trends-1234818573/",
-      "publishedAt": "2026-03-31T18:00:00",
-      "content": "Fashion and sporting events drew out celebrities, many of whom stepped out in statement denim."
-    },
-    {
-      "source": {
-        "name": "Sourcing Journal"
-      },
-      "author": "Sourcing Journal",
-      "title": "Guess Jeans x Hysteric Glamour",
-      "description": "",
-      "url": "https://sourcingjournal.com/gallery/denim/denim-brands/guess-jeans-x-hysteric-glamour-slideshow-1234818813/",
-      "publishedAt": "2026-03-31T15:54:54",
-      "content": ""
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -496,17 +441,6 @@
       "url": "https://triplepundit.com/2026/incarcerated-firefighters-fair-pay-california-ab247/",
       "publishedAt": "2026-03-30T16:27:35",
       "content": "California increased the hourly pay for incarcerated firefighters to $7."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Georgia-Pacific Announces President & CEO; Duncan to Lead Nearly 100-year-old Atlanta-Based Manufacturing Company",
-      "description": "Georgia-Pacific today announced that effective immediately, David Duncan, executive vice president of Georgia-Pacific’s consumer products group, has been named president and CEO.",
-      "url": "https://csrwire.com/press-release/georgia-pacific-announces-president-ceo-duncan-lead-nearly-100-year-old-atlanta-based/",
-      "publishedAt": "2026-03-30T11:50:00",
-      "content": "Georgia-Pacific today announced that effective immediately, David Duncan, executive vice president of Georgia-Pacific’s consumer products group, has been named president and CEO."
     }
   ]
 }
