@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 36,
   "articles": [
     {
       "source": {
@@ -59,28 +59,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why reducing air pollution deaths isn’t just about reducing air pollution",
-      "description": "Study shows reducing vulnerability to pollution, including by expanding healthcare access, saves millions of livesReductions in vulnerability to air pollution since 1990 saved the lives of about 1....",
-      "url": "https://www.theguardian.com/environment/2026/apr/03/air-pollution-deaths-vulnerability-study-pollutionwatch",
-      "publishedAt": "2026-04-03T05:00:44",
-      "content": "Study shows reducing vulnerability to pollution, including by expanding healthcare access, saves millions of livesReductions in vulnerability to air pollution since 1990 saved the lives of about 1...."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
-      "description": "Texas power plant would emit 4.",
-      "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
-      "publishedAt": "2026-04-02T18:55:08",
-      "content": "Texas power plant would emit 4."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -89,6 +67,17 @@
       "url": "https://www.nytimes.com/2026/04/01/climate/new-england-fishermen-ocean-data.html",
       "publishedAt": "2026-04-01T13:21:44",
       "content": "Commercial vessels are deploying high-tech sensors to map a shifting sea, providing critical data for scientists and some help for the industry."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
+      "description": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli...",
+      "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
+      "publishedAt": "2026-04-04T09:00:18",
+      "content": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli..."
     },
     {
       "source": {
@@ -122,6 +111,61 @@
       "url": "https://insideclimatenews.org/news/03042026/maui-mental-health-clinic-staffing-cuts/",
       "publishedAt": "2026-04-03T08:55:00",
       "content": "This story is a partnership between Inside Climate News and Honolulu Civil Beat."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Commission Launches First of Planned ETS Carbon Market Reforms Amid Industry Pressure",
+      "description": "The European Commission announced a new proposed measure to adjust a key mechanism in its",
+      "url": "https://www.esgtoday.com/eu-commission-launches-first-of-planned-ets-reforms-amid-industry-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-first-of-planned-ets-reforms-amid-industry-pressure",
+      "publishedAt": "2026-04-02T19:39:05",
+      "content": "The European Commission announced a new proposed measure to adjust a key mechanism in its"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "What the Return of ACT UP Can Teach No Kings Protesters About Sustaining a Movement",
+      "description": "No Kings has organized millions, but protest marches are only part of a grassroots movement.",
+      "url": "https://triplepundit.com/2026/act-up-new-york-protest-big-tech-trump-no-kings/",
+      "publishedAt": "2026-04-02T18:20:30",
+      "content": "No Kings has organized millions, but protest marches are only part of a grassroots movement."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A New Holland Tractor That Transformed a Community: How Mechanization Generated Hope, Growth, and Self-Sufficiency in Uganda",
+      "description": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ...",
+      "url": "https://csrwire.com/press-release/new-holland-tractor-transformed-community-how-mechanization-generated-hope-growth-and-self/",
+      "publishedAt": "2026-04-02T16:00:00",
+      "content": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
+      "description": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
+      "publishedAt": "2026-04-04T05:00:13",
+      "content": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Our first sunny day in a month – time to scale a summit | Merryn Glover",
+      "description": "Sgòr Gaoith, Cairngorms: Our rucksacks are heavy with crampons and ice axe, and the wind is a menace, but it’s all worth it for the viewsThe weather app shows wall-to-wall spiky yellow suns. We hav...",
+      "url": "https://www.theguardian.com/environment/2026/apr/04/country-diary-our-first-sunny-day-in-a-month-time-to-scale-a-summit",
+      "publishedAt": "2026-04-04T04:30:11",
+      "content": "Sgòr Gaoith, Cairngorms: Our rucksacks are heavy with crampons and ice axe, and the wind is a menace, but it’s all worth it for the viewsThe weather app shows wall-to-wall spiky yellow suns. We hav..."
     },
     {
       "source": {
@@ -194,44 +238,11 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Feds Seek Access to Three Texas State Parks for Border Wall",
-      "description": "Federal officials have already traced a path for a border barrier through multiple Texas state parks, according to documents obtained by Inside Climate News. A top Border Patrol official wrote to l...",
-      "url": "https://insideclimatenews.org/news/02042026/texas-state-parks-border-wall-construction/",
-      "publishedAt": "2026-04-02T22:41:01",
-      "content": "Federal officials have already traced a path for a border barrier through multiple Texas state parks, according to documents obtained by Inside Climate News. A top Border Patrol official wrote to l..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Commission Launches First of Planned ETS Carbon Market Reforms Amid Industry Pressure",
-      "description": "The European Commission announced a new proposed measure to adjust a key mechanism in its",
-      "url": "https://www.esgtoday.com/eu-commission-launches-first-of-planned-ets-reforms-amid-industry-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-first-of-planned-ets-reforms-amid-industry-pressure",
-      "publishedAt": "2026-04-02T19:39:05",
-      "content": "The European Commission announced a new proposed measure to adjust a key mechanism in its"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "What the Return of ACT UP Can Teach No Kings Protesters About Sustaining a Movement",
-      "description": "No Kings has organized millions, but protest marches are only part of a grassroots movement.",
-      "url": "https://triplepundit.com/2026/act-up-new-york-protest-big-tech-trump-no-kings/",
-      "publishedAt": "2026-04-02T18:20:30",
-      "content": "No Kings has organized millions, but protest marches are only part of a grassroots movement."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A New Holland Tractor That Transformed a Community: How Mechanization Generated Hope, Growth, and Self-Sufficiency in Uganda",
-      "description": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ...",
-      "url": "https://csrwire.com/press-release/new-holland-tractor-transformed-community-how-mechanization-generated-hope-growth-and-self/",
-      "publishedAt": "2026-04-02T16:00:00",
-      "content": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ..."
+      "title": "Forest Service Shake-Up Comes As Risky Wildfire Season Looms",
+      "description": "In announcing one of the largest reorganizations in the 120-year history of the U.",
+      "url": "https://insideclimatenews.org/news/02042026/forest-service-reorganization-ahead-of-wildfire-season/",
+      "publishedAt": "2026-04-02T23:08:52",
+      "content": "In announcing one of the largest reorganizations in the 120-year history of the U."
     },
     {
       "source": {
@@ -254,61 +265,6 @@
       "url": "https://www.esgtoday.com/emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity",
       "publishedAt": "2026-04-01T06:56:25",
       "content": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Contractor that cut back 500-year-old oak in London park identified",
-      "description": "Document shows partial felling last year, which led to legal action against Toby Carvery, was done by Ground ControlA mystery contractor who chainsawed an ancient oak in north London for the Toby C...",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/03/contractor-ancient-oak-whitewebbs-park-london-identified",
-      "publishedAt": "2026-04-03T06:00:44",
-      "content": "Document shows partial felling last year, which led to legal action against Toby Carvery, was done by Ground ControlA mystery contractor who chainsawed an ancient oak in north London for the Toby C..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Forest Service Shake-Up Comes As Risky Wildfire Season Looms",
-      "description": "In announcing one of the largest reorganizations in the 120-year history of the U.",
-      "url": "https://insideclimatenews.org/news/02042026/forest-service-reorganization-ahead-of-wildfire-season/",
-      "publishedAt": "2026-04-02T23:08:52",
-      "content": "In announcing one of the largest reorganizations in the 120-year history of the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find",
-      "description": "Sensory organ in male cephalopod able to detect female hormone progesterone, even if male cannot see partnerSex might seem an intimate act, but scientists have shed fresh light on how octopuses man...",
-      "url": "https://www.theguardian.com/environment/2026/apr/02/sex-octopus-specialist-arm-mating-science",
-      "publishedAt": "2026-04-02T18:17:45",
-      "content": "Sensory organ in male cephalopod able to detect female hormone progesterone, even if male cannot see partnerSex might seem an intimate act, but scientists have shed fresh light on how octopuses man..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Which State Leads in Battery Energy Storage? It Depends on How You Measure.",
-      "description": "On a recent evening, batteries were the broad shoulders propping up California’s electricity grid.",
-      "url": "https://insideclimatenews.org/news/02042026/inside-clean-energy-us-battery-storage/",
-      "publishedAt": "2026-04-02T13:00:00",
-      "content": "On a recent evening, batteries were the broad shoulders propping up California’s electricity grid."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch the moment Artemis II blasts into space",
-      "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
-      "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-01T23:00:39",
-      "content": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit."
     },
     {
       "source": {
