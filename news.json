@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 34,
   "articles": [
     {
       "source": {
@@ -37,14 +37,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "TotalEnergies Says it Can’t Formulate Net Zero Targets as 1.5°C is “Out of Reach”",
-      "description": "French energy giant TotalEnergies said that it “cannot formulate “Net Zero” targets” that align with",
-      "url": "https://www.esgtoday.com/totalenergies-says-it-cant-formulate-net-zero-targets-as-1-5c-is-out-of-reach/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-says-it-cant-formulate-net-zero-targets-as-1-5c-is-out-of-reach",
-      "publishedAt": "2026-03-31T10:31:47",
-      "content": "French energy giant TotalEnergies said that it “cannot formulate “Net Zero” targets” that align with"
+      "author": "Inside Climate News",
+      "title": "As Vermont Defends Its Law to Make Fossil Fuel Firms Pay for Climate Adaptation, the Bill Is Already Coming Due",
+      "description": "RUTLAND, Vt.",
+      "url": "https://insideclimatenews.org/news/05042026/vermont-defends-climate-superfund-law/",
+      "publishedAt": "2026-04-05T08:55:00",
+      "content": "RUTLAND, Vt."
     },
     {
       "source": {
@@ -70,14 +70,58 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+      "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+      "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-05T23:02:53",
+      "content": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
-      "description": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli...",
-      "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
-      "publishedAt": "2026-04-04T09:00:18",
-      "content": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli..."
+      "title": "How Paris swapped cars for bikes – and transformed its streets",
+      "description": "Under Anne Hidalgo – mayor for 12 years until last week – the French capital added bike lanes, cut traffic and reclaimed public space, but not without resistanceWhen Corentin Roudaut moved to Paris...",
+      "url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
+      "publishedAt": "2026-04-05T15:59:20",
+      "content": "Under Anne Hidalgo – mayor for 12 years until last week – the French capital added bike lanes, cut traffic and reclaimed public space, but not without resistanceWhen Corentin Roudaut moved to Paris..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Artemis's stunning Moon pictures - science or holiday photos?",
+      "description": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.",
+      "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-05T15:03:19",
+      "content": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The swift parrot’s distinctive call was recorded dozens of times in a patch of Tasmanian forest. Then the forest was logged",
+      "description": "Scientists estimate the endangered bird’s population has slumped to about 750.",
+      "url": "https://www.theguardian.com/environment/2026/apr/06/the-swift-parrots-distinctive-call-was-recorded-dozens-of-times-in-a-patch-of-tasmanian-forest-then-the-forest-was-logged",
+      "publishedAt": "2026-04-05T15:00:55",
+      "content": "Scientists estimate the endangered bird’s population has slumped to about 750."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Paramedics for Ecosystems",
+      "description": "In the copper-rich mountains of southeastern Ecuador, residents working as “paraecologists” are documenting the biodiversity of their territory – home to endangered species, waterfalls, and medicin...",
+      "url": "https://insideclimatenews.org/news/05042026/icn-sunday-morning-ecuador-ecosystem-paramedics/",
+      "publishedAt": "2026-04-05T08:50:00",
+      "content": "In the copper-rich mountains of southeastern Ecuador, residents working as “paraecologists” are documenting the biodiversity of their territory – home to endangered species, waterfalls, and medicin..."
     },
     {
       "source": {
@@ -103,14 +147,47 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
+      "description": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli...",
+      "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
+      "publishedAt": "2026-04-04T09:00:18",
+      "content": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
+      "description": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
+      "publishedAt": "2026-04-04T05:00:13",
+      "content": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
+      "description": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers.",
+      "url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
+      "publishedAt": "2026-04-03T21:58:10",
+      "content": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Maui Mental Health Providers Face Stress and Uncertainty About State Jobs",
-      "description": "This story is a partnership between Inside Climate News and Honolulu Civil Beat.",
-      "url": "https://insideclimatenews.org/news/03042026/maui-mental-health-clinic-staffing-cuts/",
-      "publishedAt": "2026-04-03T08:55:00",
-      "content": "This story is a partnership between Inside Climate News and Honolulu Civil Beat."
+      "title": "Critics Call the Poultry Farming System Rigged. Craig Watts Is Fighting to Overturn It.",
+      "description": "FAIRMONT, N.",
+      "url": "https://insideclimatenews.org/news/03042026/craig-watts-fights-poultry-farming-system/",
+      "publishedAt": "2026-04-03T09:00:00",
+      "content": "FAIRMONT, N."
     },
     {
       "source": {
@@ -144,105 +221,6 @@
       "url": "https://csrwire.com/press-release/new-holland-tractor-transformed-community-how-mechanization-generated-hope-growth-and-self/",
       "publishedAt": "2026-04-02T16:00:00",
       "content": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
-      "description": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
-      "publishedAt": "2026-04-04T05:00:13",
-      "content": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Our first sunny day in a month – time to scale a summit | Merryn Glover",
-      "description": "Sgòr Gaoith, Cairngorms: Our rucksacks are heavy with crampons and ice axe, and the wind is a menace, but it’s all worth it for the viewsThe weather app shows wall-to-wall spiky yellow suns. We hav...",
-      "url": "https://www.theguardian.com/environment/2026/apr/04/country-diary-our-first-sunny-day-in-a-month-time-to-scale-a-summit",
-      "publishedAt": "2026-04-04T04:30:11",
-      "content": "Sgòr Gaoith, Cairngorms: Our rucksacks are heavy with crampons and ice axe, and the wind is a menace, but it’s all worth it for the viewsThe weather app shows wall-to-wall spiky yellow suns. We hav..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Hershey’s Promises to Use Only Real Chocolate After Backlash",
-      "description": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers.",
-      "url": "https://www.nytimes.com/2026/04/02/business/hershey-reeses-recipe-real-chocolate.html",
-      "publishedAt": "2026-04-03T21:58:10",
-      "content": "The change follows weeks of complaints from a grandson of the Reese’s Peanut Butter Cup inventor and other vocal consumers."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Amazing’: how to grow a meadow in the sea",
-      "description": "Vibrant seagrass meadows once flourished around the UK but most have been destroyed.",
-      "url": "https://www.theguardian.com/environment/2026/apr/03/hard-work-how-to-grow-a-meadow-in-the-sea",
-      "publishedAt": "2026-04-03T12:00:52",
-      "content": "Vibrant seagrass meadows once flourished around the UK but most have been destroyed."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Artemis II leaves Earth orbit on track for far side of the Moon",
-      "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-      "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-03T11:12:28",
-      "content": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Critics Call the Poultry Farming System Rigged. Craig Watts Is Fighting to Overturn It.",
-      "description": "FAIRMONT, N.",
-      "url": "https://insideclimatenews.org/news/03042026/craig-watts-fights-poultry-farming-system/",
-      "publishedAt": "2026-04-03T09:00:00",
-      "content": "FAIRMONT, N."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Florida Power & Light Profit Margins Top Other Utilities’ Nationwide, Report Says",
-      "description": "Florida Power & Light’s profit margins consistently ranked among the highest in the nation over the past five years and topped other utilities’ in 2024 and 2025, with 27 cents of every dollar in re...",
-      "url": "https://insideclimatenews.org/news/03042026/florida-power-and-light-highest-profit-margins-nationwide/",
-      "publishedAt": "2026-04-03T08:50:00",
-      "content": "Florida Power & Light’s profit margins consistently ranked among the highest in the nation over the past five years and topped other utilities’ in 2024 and 2025, with 27 cents of every dollar in re..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Trust us, you look amazing': Artemis II astronauts speak from space",
-      "description": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
-      "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-03T07:07:48",
-      "content": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Forest Service Shake-Up Comes As Risky Wildfire Season Looms",
-      "description": "In announcing one of the largest reorganizations in the 120-year history of the U.",
-      "url": "https://insideclimatenews.org/news/02042026/forest-service-reorganization-ahead-of-wildfire-season/",
-      "publishedAt": "2026-04-02T23:08:52",
-      "content": "In announcing one of the largest reorganizations in the 120-year history of the U."
     },
     {
       "source": {
