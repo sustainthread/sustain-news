@@ -1,7 +1,51 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 42,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Switzerland Proposes New Sustainability Reporting, Due Diligence Law",
+      "description": "The Swiss government announced the release of its new proposed Federal Act on Sustainable Corporate",
+      "url": "https://www.esgtoday.com/switzerland-proposes-new-sustainability-reporting-due-diligence-law/?utm_source=rss&utm_medium=rss&utm_campaign=switzerland-proposes-new-sustainability-reporting-due-diligence-law",
+      "publishedAt": "2026-04-07T07:20:09",
+      "content": "The Swiss government announced the release of its new proposed Federal Act on Sustainable Corporate"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "AWS Launches Solution Enabling Users to Track Carbon Footprint of Cloud Usage",
+      "description": "Amazon’s cloud provider service, Amazon Web Services (AWS) announced the launch of its AWS Sustainability",
+      "url": "https://www.esgtoday.com/aws-launches-solution-enabling-users-to-track-carbon-footprint-of-cloud-usage/?utm_source=rss&utm_medium=rss&utm_campaign=aws-launches-solution-enabling-users-to-track-carbon-footprint-of-cloud-usage",
+      "publishedAt": "2026-04-07T09:10:00",
+      "content": "Amazon’s cloud provider service, Amazon Web Services (AWS) announced the launch of its AWS Sustainability"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Social Sustainability in Sustainable Finance: From Indicators to Impact",
+      "description": "IWBI’s Investing in Health Pays Back: The Business Case for Healthy Buildings and Healthy Organizations special report brings together the largest collection of research to date that links investme...",
+      "url": "https://csrwire.com/press-release/social-sustainability-sustainable-finance-indicators-impact/",
+      "publishedAt": "2026-04-07T12:00:00",
+      "content": "IWBI’s Investing in Health Pays Back: The Business Case for Healthy Buildings and Healthy Organizations special report brings together the largest collection of research to date that links investme..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "86 More Sustainable Fashion Brands From Europe",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
+      "publishedAt": "2026-04-06T00:00:41",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -15,25 +59,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This April 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-04-01T06:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Amundi Invests in C&I-focused Clean Energy Solutions Platform Youdera",
+      "description": "European asset manager Amundi announced a strategic investment in Swiss commercial and industrial (C&I)-focused energy",
+      "url": "https://www.esgtoday.com/amundi-invests-in-ci-focused-clean-energy-solutions-platform-youdera/?utm_source=rss&utm_medium=rss&utm_campaign=amundi-invests-in-ci-focused-clean-energy-solutions-platform-youdera",
+      "publishedAt": "2026-04-07T12:19:23",
+      "content": "European asset manager Amundi announced a strategic investment in Swiss commercial and industrial (C&I)-focused energy"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "Sustainable Fashion Built Its Movement on Social Media. Then the Algorithms Moved On",
-      "description": "Sustainable fashion activism found its stride on social media.",
-      "url": "https://goodonyou.eco/sustainable-fashion-and-social-media-algorithms/",
-      "publishedAt": "2026-03-31T17:32:57",
-      "content": "Sustainable fashion activism found its stride on social media."
+      "author": "ESG Today",
+      "title": "Blackstone Backs Renewable Energy Infrastructure Platform Sunotec",
+      "description": "Renewable energy infrastructure integrator Sunotec announced today a new partnership structured equity investment from alternative",
+      "url": "https://www.esgtoday.com/blackstone-backs-renewable-energy-infrastructure-platform-sunotec/?utm_source=rss&utm_medium=rss&utm_campaign=blackstone-backs-renewable-energy-infrastructure-platform-sunotec",
+      "publishedAt": "2026-04-07T11:36:40",
+      "content": "Renewable energy infrastructure integrator Sunotec announced today a new partnership structured equity investment from alternative"
     },
     {
       "source": {
@@ -51,6 +95,28 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Apave Launches New Sustainability Services Platform",
+      "description": "France-based international risk management group Apave announced the launch of Apave Impact, a new sustainability-focused",
+      "url": "https://www.esgtoday.com/apave-launches-new-sustainability-services-platform/?utm_source=rss&utm_medium=rss&utm_campaign=apave-launches-new-sustainability-services-platform",
+      "publishedAt": "2026-04-07T13:21:12",
+      "content": "France-based international risk management group Apave announced the launch of Apave Impact, a new sustainability-focused"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
+      "description": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulateRevealed: Mexico’s industrial boomtown is making goods for the US. Resi...",
+      "url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
+      "publishedAt": "2026-04-07T10:00:45",
+      "content": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulateRevealed: Mexico’s industrial boomtown is making goods for the US. Resi..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "TotalEnergies, Masdar Merge Asia Renewables Platforms in New $2.2 Billion JV",
       "description": "French energy giant TotalEnergies and clean energy developer Masdar announced a new agreement which will",
       "url": "https://www.esgtoday.com/totalenergies-masdar-merge-asia-renewables-platforms-in-new-2-2-billion-jv/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-masdar-merge-asia-renewables-platforms-in-new-2-2-billion-jv",
@@ -59,14 +125,157 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy’s 2025 Performance Report Highlights Growth, Reliability and Customer-Driven Initiatives",
+      "description": "Entergy today announced the publishing of its 2025 Performance Report, “Energy for a Better Future,” detailing the company’s achievements last year and the strategic priorities guiding its path for...",
+      "url": "https://csrwire.com/press-release/entergys-2025-performance-report-highlights-growth-reliability-and-customer-driven-initiatives/",
+      "publishedAt": "2026-04-07T14:00:00",
+      "content": "Entergy today announced the publishing of its 2025 Performance Report, “Energy for a Better Future,” detailing the company’s achievements last year and the strategic priorities guiding its path for..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco and Quest Alliance Are Modernizing Vocational Training for India’s Next-Gen Workforce",
+      "description": "When Priya first enrolled in a vocational training program at her local Industrial Training Institute (ITI) in northern India’s Haryana state, the prospect of a career in technology felt like a fut...",
+      "url": "https://csrwire.com/press-release/cisco-and-quest-alliance-are-modernizing-vocational-training-indias-next-gen-workforce/",
+      "publishedAt": "2026-04-07T11:00:00",
+      "content": "When Priya first enrolled in a vocational training program at her local Industrial Training Institute (ITI) in northern India’s Haryana state, the prospect of a career in technology felt like a fut..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Signs 15-Year BECCS-based Carbon Removal Deal in Canada",
+      "description": "Carbon capture and removal technology provider Svante and the Meadow Lake Tribal Council (MLTC) announced",
+      "url": "https://www.esgtoday.com/microsoft-signs-15-year-beccs-based-carbon-removal-deal-in-canada/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-15-year-beccs-based-carbon-removal-deal-in-canada",
+      "publishedAt": "2026-04-07T10:31:33",
+      "content": "Carbon capture and removal technology provider Svante and the Meadow Lake Tribal Council (MLTC) announced"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Doctor Will See You Now: The Value of Human Connection in AI-Supported Medicine",
+      "description": "As artificial intelligence (AI) continues to take hold across all industries, Adam Weinstein, MD, chief medical information officer for DaVita, highlights how new technological capabilities also he...",
+      "url": "https://csrwire.com/press-release/doctor-will-see-you-now-value-human-connection-ai-supported-medicine/",
+      "publishedAt": "2026-04-07T09:05:00",
+      "content": "As artificial intelligence (AI) continues to take hold across all industries, Adam Weinstein, MD, chief medical information officer for DaVita, highlights how new technological capabilities also he..."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "As Vermont Defends Its Law to Make Fossil Fuel Firms Pay for Climate Adaptation, the Bill Is Already Coming Due",
-      "description": "RUTLAND, Vt.",
-      "url": "https://insideclimatenews.org/news/05042026/vermont-defends-climate-superfund-law/",
-      "publishedAt": "2026-04-05T08:55:00",
-      "content": "RUTLAND, Vt."
+      "title": "US Senators Investigate $370 Million IRS Payout to Cheniere Energy",
+      "description": "Seven Democratic U.",
+      "url": "https://insideclimatenews.org/news/07042026/senators-investigate-cheniere-energy-irs-payout/",
+      "publishedAt": "2026-04-07T22:11:14",
+      "content": "Seven Democratic U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama’s Governor Signed a Landmark Utility Regulation Bill Into Law. Many Say It’s a Win For Alabama Power.",
+      "description": "BIRMINGHAM, Ala.",
+      "url": "https://insideclimatenews.org/news/07042026/alabama-power-utility-regulation-bill/",
+      "publishedAt": "2026-04-07T21:59:20",
+      "content": "BIRMINGHAM, Ala."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why Electric Trucks Haven’t Taken Off in the U.S.",
+      "description": "The vast majority of commercial trucks in the U.S. run on diesel, but that may be changing as fuel prices rise and Tesla ramps up production.",
+      "url": "https://www.nytimes.com/2026/04/07/climate/electric-truck-sales-united-staes.html",
+      "publishedAt": "2026-04-07T20:16:24",
+      "content": "The vast majority of commercial trucks in the U.S. run on diesel, but that may be changing as fuel prices rise and Tesla ramps up production."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How Tolls in the Strait of Hormuz Would Undercut International Law",
+      "description": "Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas.",
+      "url": "https://www.nytimes.com/2026/04/07/climate/strait-of-hormuz-law-of-the-sea-tolls.html",
+      "publishedAt": "2026-04-07T19:03:28",
+      "content": "Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "E.P.A. Targets Microplastics and Drugs in Drinking Water",
+      "description": "The move drew praise from leaders of the Make America Healthy Again movement who had recently criticized the agency’s handling of toxic chemicals.",
+      "url": "https://www.nytimes.com/2026/04/02/climate/microplastics-maha-epa.html",
+      "publishedAt": "2026-04-07T16:03:29",
+      "content": "The move drew praise from leaders of the Make America Healthy Again movement who had recently criticized the agency’s handling of toxic chemicals."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Has Artemis II shown we can land on the Moon again?",
+      "description": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
+      "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-07T15:23:05",
+      "content": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
+      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
+      "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-07T14:53:18",
+      "content": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Hidden Culprit Behind Rising Gas Utility Bills",
+      "description": "From the cold snap this winter to the U.",
+      "url": "https://insideclimatenews.org/news/07042026/the-hidden-culprit-behind-rising-gas-utility-bills/",
+      "publishedAt": "2026-04-07T13:46:16",
+      "content": "From the cold snap this winter to the U."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Everything you need to know about Nasa's Artemis II mission",
+      "description": "The Artemis II mission has taken its four astronauts further into space than anyone has been before.",
+      "url": "https://www.bbc.com/news/articles/c0q4w3l0wdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-07T12:04:09",
+      "content": "The Artemis II mission has taken its four astronauts further into space than anyone has been before."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Corpus Christi Water Crisis Spurs Stampede on South Texas Aquifers",
+      "description": "JIM WELLS COUNTY, Texas—Dwindling levels in this region’s main reservoirs have triggered a rush on local aquifers as cities, towns, chemical plants and ranchers drill for water. The nearby city of ...",
+      "url": "https://insideclimatenews.org/news/07042026/corpus-christi-water-crisis-south-texas-aquifers/",
+      "publishedAt": "2026-04-07T09:00:00",
+      "content": "JIM WELLS COUNTY, Texas—Dwindling levels in this region’s main reservoirs have triggered a rush on local aquifers as cities, towns, chemical plants and ranchers drill for water. The nearby city of ..."
     },
     {
       "source": {
@@ -114,14 +323,58 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
+      "description": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit",
+      "url": "https://triplepundit.com/2026/yangtze-river-fishing-ban-endangered-species-conservation/",
+      "publishedAt": "2026-04-03T13:00:00",
+      "content": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit"
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Moon fly-by sees astronauts regain contact with Earth and head for home",
+      "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
       "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years.",
       "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-07T06:33:58",
       "content": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A bum note amid the dawn chorus | Mark Cocker",
+      "description": "Hogshaw, Derbyshire: Our old Buxton tip is an area rich in nature.",
+      "url": "https://www.theguardian.com/environment/2026/apr/07/country-diary-a-bum-note-amid-the-dawn-chorus",
+      "publishedAt": "2026-04-07T04:30:38",
+      "content": "Hogshaw, Derbyshire: Our old Buxton tip is an area rich in nature."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Festival Style, Done More Sustainably",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-festival-style-2/",
+      "publishedAt": "2026-04-07T02:33:30",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cars make way for bikes as Sydney commuters saddle up to circumvent ‘crazy’ fuel costs",
+      "description": "The shock of the oil crisis is playing out on Australian streets, where bike sales are up and cycle lanes are busierTrack current petrol and diesel prices across AustraliaGet our breaking news emai...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/06/fuel-crisis-sydney-commuters-cycling",
+      "publishedAt": "2026-04-06T15:00:22",
+      "content": "The shock of the oil crisis is playing out on Australian streets, where bike sales are up and cycle lanes are busierTrack current petrol and diesel prices across AustraliaGet our breaking news emai..."
     },
     {
       "source": {
@@ -147,39 +400,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Church’s Geothermal Experiment Could Pave the Way for Projects Across New York",
-      "description": "The Rev.",
-      "url": "https://insideclimatenews.org/news/06042026/new-york-city-church-geothermal-project/",
-      "publishedAt": "2026-04-06T09:00:00",
-      "content": "The Rev."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
-      "description": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit",
-      "url": "https://triplepundit.com/2026/yangtze-river-fishing-ban-endangered-species-conservation/",
-      "publishedAt": "2026-04-03T13:00:00",
-      "content": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Lambing season is here – how long until white-tailed eagles are overhead? | Andrea Meanwell",
-      "description": "Tebay, Cumbria: A planned reintroduction of these apex predators has got us upland farmers worried.",
-      "url": "https://www.theguardian.com/environment/2026/apr/06/country-diary-lambing-season-is-here-how-long-until-white-tailed-eagles-are-overhead",
-      "publishedAt": "2026-04-06T04:30:09",
-      "content": "Tebay, Cumbria: A planned reintroduction of these apex predators has got us upland farmers worried."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -191,17 +411,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How Paris swapped cars for bikes – and transformed its streets",
-      "description": "Under Anne Hidalgo – mayor for 12 years until last week – the French capital added bike lanes, cut traffic and reclaimed public space, but not without resistanceWhen Corentin Roudaut moved to Paris...",
-      "url": "https://www.theguardian.com/world/2026/apr/05/how-paris-swapped-cars-for-bikes-and-remade-its-streets",
-      "publishedAt": "2026-04-05T15:59:20",
-      "content": "Under Anne Hidalgo – mayor for 12 years until last week – the French capital added bike lanes, cut traffic and reclaimed public space, but not without resistanceWhen Corentin Roudaut moved to Paris..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -210,28 +419,6 @@
       "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-05T15:03:19",
       "content": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Paramedics for Ecosystems",
-      "description": "In the copper-rich mountains of southeastern Ecuador, residents working as “paraecologists” are documenting the biodiversity of their territory – home to endangered species, waterfalls, and medicin...",
-      "url": "https://insideclimatenews.org/news/05042026/icn-sunday-morning-ecuador-ecosystem-paramedics/",
-      "publishedAt": "2026-04-05T08:50:00",
-      "content": "In the copper-rich mountains of southeastern Ecuador, residents working as “paraecologists” are documenting the biodiversity of their territory – home to endangered species, waterfalls, and medicin..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
-      "description": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli...",
-      "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
-      "publishedAt": "2026-04-04T09:00:18",
-      "content": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli..."
     },
     {
       "source": {
@@ -257,17 +444,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Commission Launches First of Planned ETS Carbon Market Reforms Amid Industry Pressure",
-      "description": "The European Commission announced a new proposed measure to adjust a key mechanism in its",
-      "url": "https://www.esgtoday.com/eu-commission-launches-first-of-planned-ets-reforms-amid-industry-pressure/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-first-of-planned-ets-reforms-amid-industry-pressure",
-      "publishedAt": "2026-04-02T19:39:05",
-      "content": "The European Commission announced a new proposed measure to adjust a key mechanism in its"
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -287,72 +463,6 @@
       "url": "https://csrwire.com/press-release/new-holland-tractor-transformed-community-how-mechanization-generated-hope-growth-and-self/",
       "publishedAt": "2026-04-02T16:00:00",
       "content": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG – Snow, Sleet and Straight-Line Winds: Powering Through a Season of Storms",
-      "description": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey.",
-      "url": "https://csrwire.com/press-release/pseg-snow-sleet-and-straight-line-winds-powering-through-season-storms/",
-      "publishedAt": "2026-04-01T17:10:00",
-      "content": "The end of 2025 and start of 2026 hasn’t exactly been gentle for New Jersey."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Emerald AI Raises $25 Million to Align Data Center Energy Use with Grid Capacity",
-      "description": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic",
-      "url": "https://www.esgtoday.com/emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=emerald-ai-raises-25-million-to-align-data-center-energy-use-with-grid-capacity",
-      "publishedAt": "2026-04-01T06:56:25",
-      "content": "Energy tech startup Emerald AI announced that it has raised $25 million in a strategic"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EnerVenue Raises $300 Million to Scale Lithium-Free Energy Storage Solutions",
-      "description": "Energy storage solutions company EnerVenue announced today that it has raised $300 million in an",
-      "url": "https://www.esgtoday.com/enervenue-raises-300-million-to-scale-lithium-free-energy-storage-solution/?utm_source=rss&utm_medium=rss&utm_campaign=enervenue-raises-300-million-to-scale-lithium-free-energy-storage-solution",
-      "publishedAt": "2026-04-01T06:04:27",
-      "content": "Energy storage solutions company EnerVenue announced today that it has raised $300 million in an"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "U.S. DOE Partners with Amazon to Recover Critical Materials from Clothing, Tech Waste",
-      "description": "The U.S. Department of Energy’s (DOE) Ames National Laboratory and the Critical Materials Innovation (CMI)",
-      "url": "https://www.esgtoday.com/u-s-doe-partners-with-amazon-on-solutions-to-recover-critical-materials-from-textile-tech-waste/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-doe-partners-with-amazon-on-solutions-to-recover-critical-materials-from-textile-tech-waste",
-      "publishedAt": "2026-03-31T15:05:39",
-      "content": "The U.S. Department of Energy’s (DOE) Ames National Laboratory and the Critical Materials Innovation (CMI)"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A Historic Honor: Jacqui Seargeant Inducted Into the Keepers of the Quaich",
-      "description": "This Women’s Month, Jacqui Seargeant, Global Heritage Manager at Bacardi, was inducted into the Keepers of the Quaich, one of Scotch whisky’s most prestigious and enduring societies.",
-      "url": "https://csrwire.com/press-release/historic-honor-jacqui-seargeant-inducted-keepers-quaich/",
-      "publishedAt": "2026-03-31T13:00:00",
-      "content": "This Women’s Month, Jacqui Seargeant, Global Heritage Manager at Bacardi, was inducted into the Keepers of the Quaich, one of Scotch whisky’s most prestigious and enduring societies."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Circular Electronics Partnership Marks Five Years With New Focus on Solutions and Implementation",
-      "description": "CEP marks five years with expanded participation, new governance, and a focus on scaling circular electronics solutions.",
-      "url": "https://csrwire.com/press-release/circular-electronics-partnership-marks-five-years-new-focus-solutions-and-implementation/",
-      "publishedAt": "2026-03-31T10:30:00",
-      "content": "CEP marks five years with expanded participation, new governance, and a focus on scaling circular electronics solutions."
     }
   ]
 }
