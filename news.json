@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 44,
   "articles": [
     {
       "source": {
@@ -26,6 +26,17 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This April 2026",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-04-07T07:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -48,14 +59,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Inside Climate News"
       },
-      "author": "Good On You",
-      "title": "15 Things to Know in Sustainable Fashion and Beauty This April",
-      "description": "Read the industry’s reactions to Zara x John Galliano, find out how the Strait of Hormuz closure is affecting garment workers, and see which beauty brands are being held to account in this month’s ...",
-      "url": "https://goodonyou.eco/sustainable-fashion-and-beauty-news-april-2026/",
-      "publishedAt": "2026-04-02T02:00:34",
-      "content": "Read the industry’s reactions to Zara x John Galliano, find out how the Strait of Hormuz closure is affecting garment workers, and see which beauty brands are being held to account in this month’s ..."
+      "author": "Inside Climate News",
+      "title": "Zeldin Celebrates Endangerment Finding Repeal With Climate Skeptics",
+      "description": "WASHINGTON—Addressing a conference of scientists and other experts skeptical of climate change, Environmental Protection Agency Administrator Lee Zeldin on Wednesday celebrated his decision to repe...",
+      "url": "https://insideclimatenews.org/news/08042026/zeldin-celebrates-endangerment-finding-repeal-conference/",
+      "publishedAt": "2026-04-08T20:51:36",
+      "content": "WASHINGTON—Addressing a conference of scientists and other experts skeptical of climate change, Environmental Protection Agency Administrator Lee Zeldin on Wednesday celebrated his decision to repe..."
     },
     {
       "source": {
@@ -95,6 +106,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "TotalEnergies, Masdar Merge Asia Renewables Platforms in New $2.2 Billion JV",
+      "description": "French energy giant TotalEnergies and clean energy developer Masdar announced a new agreement which will",
+      "url": "https://www.esgtoday.com/totalenergies-masdar-merge-asia-renewables-platforms-in-new-2-2-billion-jv/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-masdar-merge-asia-renewables-platforms-in-new-2-2-billion-jv",
+      "publishedAt": "2026-04-06T10:55:52",
+      "content": "French energy giant TotalEnergies and clean energy developer Masdar announced a new agreement which will"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Apave Launches New Sustainability Services Platform",
       "description": "France-based international risk management group Apave announced the launch of Apave Impact, a new sustainability-focused",
       "url": "https://www.esgtoday.com/apave-launches-new-sustainability-services-platform/?utm_source=rss&utm_medium=rss&utm_campaign=apave-launches-new-sustainability-services-platform",
@@ -103,25 +125,135 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "US is ‘using Mexico as a garbage sink’ leading to ‘toxic crisis’, UN expert says",
-      "description": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulateRevealed: Mexico’s industrial boomtown is making goods for the US. Resi...",
-      "url": "https://www.theguardian.com/world/2026/apr/07/mexico-us-toxic-waste-un-special-rapporteur",
-      "publishedAt": "2026-04-07T10:00:45",
-      "content": "Marcos Orellana, a special rapporteur, found lax environmental standards and lack of oversight allowed pollution to accumulateRevealed: Mexico’s industrial boomtown is making goods for the US. Resi..."
+      "author": "CSRWire",
+      "title": "PSEG – Leading by Example: NJCC Upgrades Its Headquarters Through Energy Efficiency",
+      "description": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend...",
+      "url": "https://csrwire.com/press-release/pseg-leading-example-njcc-upgrades-its-headquarters-through-energy-efficiency/",
+      "publishedAt": "2026-04-08T09:36:00",
+      "content": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "TotalEnergies, Masdar Merge Asia Renewables Platforms in New $2.2 Billion JV",
-      "description": "French energy giant TotalEnergies and clean energy developer Masdar announced a new agreement which will",
-      "url": "https://www.esgtoday.com/totalenergies-masdar-merge-asia-renewables-platforms-in-new-2-2-billion-jv/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-masdar-merge-asia-renewables-platforms-in-new-2-2-billion-jv",
-      "publishedAt": "2026-04-06T10:55:52",
-      "content": "French energy giant TotalEnergies and clean energy developer Masdar announced a new agreement which will"
+      "author": "Good On You",
+      "title": "More Ethical and Sustainable Sunglasses That Leave Others In The Shade",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-sunglasses/",
+      "publishedAt": "2026-04-08T03:00:53",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PNC Surpasses Community Benefits Plan Commitment With $119 Billion in Community Investments",
+      "description": "Surpassing our original $88 billion commitment with $119.",
+      "url": "https://csrwire.com/press-release/pnc-surpasses-community-benefits-plan-commitment-119-billion-community-investments/",
+      "publishedAt": "2026-04-08T11:05:00",
+      "content": "Surpassing our original $88 billion commitment with $119."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "One Million Items Collected! Taco Bell® Sauce Container U.S. Recycling Program",
+      "description": "For years, Taco Bell’s iconic hot sauce packets have been part of fans’ biggest and boldest moments, from elevating everyday meals to inspiring fashion statements and even unforgettable marriage pr...",
+      "url": "https://csrwire.com/press-release/one-million-items-collected-taco-bellr-sauce-container-us-recycling-program/",
+      "publishedAt": "2026-04-08T10:00:00",
+      "content": "For years, Taco Bell’s iconic hot sauce packets have been part of fans’ biggest and boldest moments, from elevating everyday meals to inspiring fashion statements and even unforgettable marriage pr..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Connecting Across Continents With Women of Cisco Networking Academy",
+      "description": "Through Cisco Networking Academy, millions of learners each year gain the skills and credentials they need to lead, create, and thrive in the tech industry. Here, we’re showcasing a few of Cisco Ne...",
+      "url": "https://csrwire.com/press-release/connecting-across-continents-women-cisco-networking-academy/",
+      "publishedAt": "2026-04-08T09:05:00",
+      "content": "Through Cisco Networking Academy, millions of learners each year gain the skills and credentials they need to lead, create, and thrive in the tech industry. Here, we’re showcasing a few of Cisco Ne..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+      "description": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
+      "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-09T05:57:18",
+      "content": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\"."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nature reserve helping restore crane population",
+      "description": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007.",
+      "url": "https://www.bbc.com/news/articles/ckgr45pdz35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-09T05:19:31",
+      "content": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘They poo all over the yard’: little corellas are terrorising Kangaroo Island – and nothing can stop them",
+      "description": "The birds – not native to the South Australian island – have covered a school in faeces, torn up infrastructure and damaged cropsGet our breaking news email, free app or daily news podcastThousands...",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/09/kangaroo-island-little-corellas-culled",
+      "publishedAt": "2026-04-09T00:00:16",
+      "content": "The birds – not native to the South Australian island – have covered a school in faeces, torn up infrastructure and damaged cropsGet our breaking news email, free app or daily news podcastThousands..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "California Bill Aims to Keep Toxic PFAS off Its Crops",
+      "description": "California Assemblymember Nick Schultz is leading an effort to phase out the use of pesticides containing toxic “forever chemicals” to safeguard the nation’s produce.  Schultz, D-Burbank, introduce...",
+      "url": "https://insideclimatenews.org/news/08042026/california-bill-could-ban-pfas-pesticides/",
+      "publishedAt": "2026-04-08T23:36:42",
+      "content": "California Assemblymember Nick Schultz is leading an effort to phase out the use of pesticides containing toxic “forever chemicals” to safeguard the nation’s produce.  Schultz, D-Burbank, introduce..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Heat Wipes Out Western Snowpack, Raising Fears of Summer Drought",
+      "description": "A record-mild winter and blistering spring heat will mean higher risks of water shortages and wildfires in the months ahead.",
+      "url": "https://www.nytimes.com/2026/04/08/climate/heat-snow-drought-west.html",
+      "publishedAt": "2026-04-08T14:01:49",
+      "content": "A record-mild winter and blistering spring heat will mean higher risks of water shortages and wildfires in the months ahead."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Should it all just be renationalised?’ – your water crisis questions answered",
+      "description": "Sandra Laville has been reporting on England’s sewage crisis for years.",
+      "url": "https://www.theguardian.com/environment/2026/apr/08/reader-qa-post-your-questions-about-water-pollution-for-sandra-laville",
+      "publishedAt": "2026-04-08T13:57:47",
+      "content": "Sandra Laville has been reporting on England’s sewage crisis for years."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Say no to pesticides, mix up your lawn – and six more ways to help bees to thrive",
+      "description": "Like so many flying insects, these essential pollinators are suffering because of habitat loss and the overuse of chemicals.",
+      "url": "https://www.theguardian.com/environment/2026/apr/08/say-no-to-pesticides-mix-up-your-lawn-and-six-more-ways-to-help-bees-to-thrive",
+      "publishedAt": "2026-04-08T10:50:27",
+      "content": "Like so many flying insects, these essential pollinators are suffering because of habitat loss and the overuse of chemicals."
     },
     {
       "source": {
@@ -169,6 +301,61 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Boeing Signs 40,000 Ton Soil-Based Carbon Removal Deal with Grassroots Carbon",
+      "description": "Nature-based soil carbon removal solutions provider Grassroots Carbon announced a new multi-year deal with Boeing,",
+      "url": "https://www.esgtoday.com/boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-grassroots-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-grassroots-carbon",
+      "publishedAt": "2026-04-06T14:55:37",
+      "content": "Nature-based soil carbon removal solutions provider Grassroots Carbon announced a new multi-year deal with Boeing,"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Grandmothers on the Front Line of Zimbabwe’s Mental Health Crisis",
+      "description": "Grandmothers are the custodians of culture in Zimbabwe.",
+      "url": "https://triplepundit.com/2026/friendship-bench-zimbabwe-mental-healthcare-access/",
+      "publishedAt": "2026-04-06T13:00:00",
+      "content": "Grandmothers are the custodians of culture in Zimbabwe."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
+      "description": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit",
+      "url": "https://triplepundit.com/2026/yangtze-river-fishing-ban-endangered-species-conservation/",
+      "publishedAt": "2026-04-03T13:00:00",
+      "content": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Birdwatch: Climbing to 4,400 metres to spot a rare rufous-bellied seedsnipe",
+      "description": "Our writer travels to the eastern Andes in search of one of Ecuador’s most elusive birdsI’m out of breath – and not just because I’m desperate to see one of Ecuador’s most elusive birds, the rufous...",
+      "url": "https://www.theguardian.com/environment/2026/apr/08/birdwatch-rufous-bellied-seedsnipe-andes-mountains-ecuador",
+      "publishedAt": "2026-04-08T05:00:17",
+      "content": "Our writer travels to the eastern Andes in search of one of Ecuador’s most elusive birdsI’m out of breath – and not just because I’m desperate to see one of Ecuador’s most elusive birds, the rufous..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Watching the cows, chewing on memories of protest and parenting | Nicola Chester",
+      "description": "Woolton Hill, Hampshire: I visit an old friend in an old haunt, where a small herd of Shetlands has been set to workThirty years on from the impassioned action of the road protests, the Newbury byp...",
+      "url": "https://www.theguardian.com/environment/2026/apr/08/country-diary-watching-cows-chewing-on-old-memories",
+      "publishedAt": "2026-04-08T04:30:15",
+      "content": "Woolton Hill, Hampshire: I visit an old friend in an old haunt, where a small herd of Shetlands has been set to workThirty years on from the impassioned action of the road protests, the Newbury byp..."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -199,17 +386,6 @@
       "url": "https://www.nytimes.com/2026/04/07/climate/electric-truck-sales-united-staes.html",
       "publishedAt": "2026-04-07T20:16:24",
       "content": "The vast majority of commercial trucks in the U.S. run on diesel, but that may be changing as fuel prices rise and Tesla ramps up production."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How Tolls in the Strait of Hormuz Would Undercut International Law",
-      "description": "Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas.",
-      "url": "https://www.nytimes.com/2026/04/07/climate/strait-of-hormuz-law-of-the-sea-tolls.html",
-      "publishedAt": "2026-04-07T19:03:28",
-      "content": "Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas."
     },
     {
       "source": {
@@ -268,72 +444,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Corpus Christi Water Crisis Spurs Stampede on South Texas Aquifers",
-      "description": "JIM WELLS COUNTY, Texas—Dwindling levels in this region’s main reservoirs have triggered a rush on local aquifers as cities, towns, chemical plants and ranchers drill for water. The nearby city of ...",
-      "url": "https://insideclimatenews.org/news/07042026/corpus-christi-water-crisis-south-texas-aquifers/",
-      "publishedAt": "2026-04-07T09:00:00",
-      "content": "JIM WELLS COUNTY, Texas—Dwindling levels in this region’s main reservoirs have triggered a rush on local aquifers as cities, towns, chemical plants and ranchers drill for water. The nearby city of ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How Forests Start to Fail, One Leaf at a Time",
-      "description": "In spring and summer, the canopies of oak and beech forest gather into layers of green.",
-      "url": "https://insideclimatenews.org/news/06042026/europe-forests-heat-emissions-study/",
-      "publishedAt": "2026-04-06T19:00:00",
-      "content": "In spring and summer, the canopies of oak and beech forest gather into layers of green."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Chemours Marks Women’s History Month Through Employee Engagement and Community Impact",
-      "description": "Throughout March, the Chemours Women’s Network (CWN) led initiatives that engaged employees across the globe in activities designed to elevate diverse perspectives, strengthen connections, and supp...",
-      "url": "https://csrwire.com/press-release/chemours-marks-womens-history-month-through-employee-engagement-and-community-impact/",
-      "publishedAt": "2026-04-06T16:15:00",
-      "content": "Throughout March, the Chemours Women’s Network (CWN) led initiatives that engaged employees across the globe in activities designed to elevate diverse perspectives, strengthen connections, and supp..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Boeing Signs 40,000 Ton Soil-Based Carbon Removal Deal with Grassroots Carbon",
-      "description": "Nature-based soil carbon removal solutions provider Grassroots Carbon announced a new multi-year deal with Boeing,",
-      "url": "https://www.esgtoday.com/boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-grassroots-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-signs-40000-ton-soil-based-carbon-removal-deal-with-grassroots-carbon",
-      "publishedAt": "2026-04-06T14:55:37",
-      "content": "Nature-based soil carbon removal solutions provider Grassroots Carbon announced a new multi-year deal with Boeing,"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The Grandmothers on the Front Line of Zimbabwe’s Mental Health Crisis",
-      "description": "Grandmothers are the custodians of culture in Zimbabwe.",
-      "url": "https://triplepundit.com/2026/friendship-bench-zimbabwe-mental-healthcare-access/",
-      "publishedAt": "2026-04-06T13:00:00",
-      "content": "Grandmothers are the custodians of culture in Zimbabwe."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
-      "description": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit",
-      "url": "https://triplepundit.com/2026/yangtze-river-fishing-ban-endangered-species-conservation/",
-      "publishedAt": "2026-04-03T13:00:00",
-      "content": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit"
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -342,17 +452,6 @@
       "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-07T06:33:58",
       "content": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A bum note amid the dawn chorus | Mark Cocker",
-      "description": "Hogshaw, Derbyshire: Our old Buxton tip is an area rich in nature.",
-      "url": "https://www.theguardian.com/environment/2026/apr/07/country-diary-a-bum-note-amid-the-dawn-chorus",
-      "publishedAt": "2026-04-07T04:30:38",
-      "content": "Hogshaw, Derbyshire: Our old Buxton tip is an area rich in nature."
     },
     {
       "source": {
@@ -367,61 +466,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Cars make way for bikes as Sydney commuters saddle up to circumvent ‘crazy’ fuel costs",
-      "description": "The shock of the oil crisis is playing out on Australian streets, where bike sales are up and cycle lanes are busierTrack current petrol and diesel prices across AustraliaGet our breaking news emai...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/apr/06/fuel-crisis-sydney-commuters-cycling",
-      "publishedAt": "2026-04-06T15:00:22",
-      "content": "The shock of the oil crisis is playing out on Australian streets, where bike sales are up and cycle lanes are busierTrack current petrol and diesel prices across AustraliaGet our breaking news emai..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "German mayors call for night-time ban on robot lawnmowers to protect hedgehogs",
-      "description": "Leaders say automated mowers’ blades threaten nocturnal animals as studies highlight risks to wildlifeGerman mayors have called for a nationwide ban on night-time use of robot lawnmowers to protect...",
-      "url": "https://www.theguardian.com/environment/2026/apr/06/german-mayors-call-for-night-time-ban-on-robot-lawnmowers-to-protect-hedgehogs",
-      "publishedAt": "2026-04-06T12:20:37",
-      "content": "Leaders say automated mowers’ blades threaten nocturnal animals as studies highlight risks to wildlifeGerman mayors have called for a nationwide ban on night-time use of robot lawnmowers to protect..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I escaped death a lot of times’: one man’s lifelong work protecting gorillas and communities in Congo",
-      "description": "As a child, Dominique Bikaba, was displaced by a new national park in the DRC.",
-      "url": "https://www.theguardian.com/environment/2026/apr/06/dominique-bikaba-drc-gorillas-wildlife-sanctuary-war-zone-aoe",
-      "publishedAt": "2026-04-06T09:00:16",
-      "content": "As a child, Dominique Bikaba, was displaced by a new national park in the DRC."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-      "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
-      "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-05T23:02:53",
-      "content": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Artemis's stunning Moon pictures - science or holiday photos?",
-      "description": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.",
-      "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-05T15:03:19",
-      "content": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -433,17 +477,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Hope on Wheels: FedEx Supports The Salvation Army",
-      "description": "The Salvation Army’s canteen trucks—many of them donated by FedEx—play a vital role in supporting communities around the world.",
-      "url": "https://csrwire.com/press-release/hope-wheels-fedex-supports-salvation-army/",
-      "publishedAt": "2026-04-03T11:00:00",
-      "content": "The Salvation Army’s canteen trucks—many of them donated by FedEx—play a vital role in supporting communities around the world."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -452,17 +485,6 @@
       "url": "https://triplepundit.com/2026/act-up-new-york-protest-big-tech-trump-no-kings/",
       "publishedAt": "2026-04-02T18:20:30",
       "content": "No Kings has organized millions, but protest marches are only part of a grassroots movement."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A New Holland Tractor That Transformed a Community: How Mechanization Generated Hope, Growth, and Self-Sufficiency in Uganda",
-      "description": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ...",
-      "url": "https://csrwire.com/press-release/new-holland-tractor-transformed-community-how-mechanization-generated-hope-growth-and-self/",
-      "publishedAt": "2026-04-02T16:00:00",
-      "content": "New Holland, a brand of CNH, is proud to highlight the extraordinary impact that the donation of a TT model tractor has generated within the community of Bugiri, Uganda, through the work of God in ..."
     }
   ]
 }
