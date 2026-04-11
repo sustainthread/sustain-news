@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 35,
   "articles": [
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "It’s Time for Impact – a Call for Action by CDL in Its 19th Integrated Sustainability Report 2026 – Future-Proofing Planet, People and Prosperity",
+      "description": "City Developments Limited (CDL) has released its 19th Integrated Sustainability Report (ISR) 2026, titled “Time for Impact: Future-Proofing Planet, People and Prosperity”.",
+      "url": "https://csrwire.com/press-release/its-time-impact-call-action-cdl-its-19th-integrated-sustainability-report-2026-future-proofing/",
+      "publishedAt": "2026-04-10T15:00:00",
+      "content": "City Developments Limited (CDL) has released its 19th Integrated Sustainability Report (ISR) 2026, titled “Time for Impact: Future-Proofing Planet, People and Prosperity”."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -40,33 +51,22 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Canada Launches Council to Develop Sustainable Finance Taxonomy",
+      "description": "Canadian climate-focused investor initiative Business Future Pathways (BFP) announced the appointment by an independent committee",
+      "url": "https://www.esgtoday.com/canada-launches-council-to-develop-sustainable-finance-taxonomy/?utm_source=rss&utm_medium=rss&utm_campaign=canada-launches-council-to-develop-sustainable-finance-taxonomy",
+      "publishedAt": "2026-04-10T13:38:13",
+      "content": "Canadian climate-focused investor initiative Business Future Pathways (BFP) announced the appointment by an independent committee"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "SLR Acquires Climate Analytics Platforms Planetrics and ClimSystems",
       "description": "UK-based sustainability-focused consulting firm SLR announced today the acquisition of advanced climate-modelling and analytics platforms",
       "url": "https://www.esgtoday.com/slr-acquires-climate-analytics-platforms-planetrics-and-climsystems/?utm_source=rss&utm_medium=rss&utm_campaign=slr-acquires-climate-analytics-platforms-planetrics-and-climsystems",
       "publishedAt": "2026-04-09T12:21:03",
       "content": "UK-based sustainability-focused consulting firm SLR announced today the acquisition of advanced climate-modelling and analytics platforms"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amundi Invests in C&I-focused Clean Energy Solutions Platform Youdera",
-      "description": "European asset manager Amundi announced a strategic investment in Swiss commercial and industrial (C&I)-focused energy",
-      "url": "https://www.esgtoday.com/amundi-invests-in-ci-focused-clean-energy-solutions-platform-youdera/?utm_source=rss&utm_medium=rss&utm_campaign=amundi-invests-in-ci-focused-clean-energy-solutions-platform-youdera",
-      "publishedAt": "2026-04-07T12:19:23",
-      "content": "European asset manager Amundi announced a strategic investment in Swiss commercial and industrial (C&I)-focused energy"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Blackstone Backs Renewable Energy Infrastructure Platform Sunotec",
-      "description": "Renewable energy infrastructure integrator Sunotec announced today a new partnership structured equity investment from alternative",
-      "url": "https://www.esgtoday.com/blackstone-backs-renewable-energy-infrastructure-platform-sunotec/?utm_source=rss&utm_medium=rss&utm_campaign=blackstone-backs-renewable-energy-infrastructure-platform-sunotec",
-      "publishedAt": "2026-04-07T11:36:40",
-      "content": "Renewable energy infrastructure integrator Sunotec announced today a new partnership structured equity investment from alternative"
     },
     {
       "source": {
@@ -84,44 +84,44 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Zeldin Celebrates Endangerment Finding Repeal With Climate Skeptics",
-      "description": "WASHINGTON—Addressing a conference of scientists and other experts skeptical of climate change, Environmental Protection Agency Administrator Lee Zeldin on Wednesday celebrated his decision to repe...",
-      "url": "https://insideclimatenews.org/news/08042026/zeldin-celebrates-endangerment-finding-repeal-conference/",
-      "publishedAt": "2026-04-08T20:51:36",
-      "content": "WASHINGTON—Addressing a conference of scientists and other experts skeptical of climate change, Environmental Protection Agency Administrator Lee Zeldin on Wednesday celebrated his decision to repe..."
+      "title": "As the Alabama Legislature Adjourns, Environmentalists See a Silver Lining",
+      "description": "MONTGOMERY, Ala.",
+      "url": "https://insideclimatenews.org/news/10042026/alabama-legislature-adjourns/",
+      "publishedAt": "2026-04-10T22:59:55",
+      "content": "MONTGOMERY, Ala."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Hindu"
       },
-      "author": "Inside Climate News",
-      "title": "Meeting Climate Targets Requires Humanity to Reorient Its Relationship With Nature, New Study Says",
-      "description": "Governments cannot reach their climate goals without rethinking humanity’s relationship to the Earth.",
-      "url": "https://insideclimatenews.org/news/09042026/yellowstone-to-yukon-conservation-climate-targets/",
-      "publishedAt": "2026-04-09T22:26:31",
-      "content": "Governments cannot reach their climate goals without rethinking humanity’s relationship to the Earth."
+      "author": "The Hindu",
+      "title": "Why India must define its own green factory standards now",
+      "description": "As plants adopt solar power and resource-efficient systems, the absence of a unified certification limits global recognition",
+      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/why-india-must-define-its-own-green-factory-standards-now/article70817200.ece",
+      "publishedAt": "2026-04-11T05:54:32",
+      "content": "As plants adopt solar power and resource-efficient systems, the absence of a unified certification limits global recognition"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
-      "description": "Housing corporations are adopting rainwater storage in garden fences, reducing pressure during downpours and preserving water for times of droughtGood fences make good neighbours – but rain fences ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
-      "publishedAt": "2026-04-09T13:00:50",
-      "content": "Housing corporations are adopting rainwater storage in garden fences, reducing pressure during downpours and preserving water for times of droughtGood fences make good neighbours – but rain fences ..."
+      "author": "Triple Pundit",
+      "title": "African Women Make Economic Gains Through Global Gig Economy",
+      "description": "Women make up about 27 percent of the Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit",
+      "url": "https://triplepundit.com/2026/gig-economy-african-women-global-work/",
+      "publishedAt": "2026-04-10T13:00:00",
+      "content": "Women make up about 27 percent of the Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit"
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Apave Launches New Sustainability Services Platform",
-      "description": "France-based international risk management group Apave announced the launch of Apave Impact, a new sustainability-focused",
-      "url": "https://www.esgtoday.com/apave-launches-new-sustainability-services-platform/?utm_source=rss&utm_medium=rss&utm_campaign=apave-launches-new-sustainability-services-platform",
-      "publishedAt": "2026-04-07T13:21:12",
-      "content": "France-based international risk management group Apave announced the launch of Apave Impact, a new sustainability-focused"
+      "author": "CSRWire",
+      "title": "NFWF Announces $1.8 Million To Support Working Lands and Restore Wildlife Habitat in the Intermountain West",
+      "description": "The National Fish and Wildlife Foundation (NFWF) recently announced nearly $1.",
+      "url": "https://csrwire.com/press-release/nfwf-announces-18-million-support-working-lands-and-restore-wildlife-habitat-intermountain/",
+      "publishedAt": "2026-04-10T10:00:00",
+      "content": "The National Fish and Wildlife Foundation (NFWF) recently announced nearly $1."
     },
     {
       "source": {
@@ -136,6 +136,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PSEG – Leading by Example: NJCC Upgrades Its Headquarters Through Energy Efficiency",
+      "description": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend...",
+      "url": "https://csrwire.com/press-release/pseg-leading-example-njcc-upgrades-its-headquarters-through-energy-efficiency/",
+      "publishedAt": "2026-04-08T09:36:00",
+      "content": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend..."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -144,6 +155,105 @@
       "url": "https://goodonyou.eco/sustainable-sunglasses/",
       "publishedAt": "2026-04-08T03:00:53",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Artemis II mission was a triumph. Now comes the hard part",
+      "description": "The mission was almost flawless but there are considerable obstacles ahead before a Moon landing.",
+      "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-11T00:38:44",
+      "content": "The mission was almost flawless but there are considerable obstacles ahead before a Moon landing."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Back to Earth: What happens to the Artemis II astronauts now?",
+      "description": "The astronauts will have medical checks and will be reunited with their families.",
+      "url": "https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-11T00:38:27",
+      "content": "The astronauts will have medical checks and will be reunited with their families."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Texas Data Center Developers Play Offense on Water, Claiming Huge Cuts in Usage",
+      "description": "As Texas confronts decades of water mismanagement and growing demands for electricity from data centers, the state’s top utility regulator, Public Utility Commission Chairman Thomas Gleeson, told a...",
+      "url": "https://insideclimatenews.org/news/10042026/texas-data-center-developers-play-offense-on-water-claiming-huge-cuts-in-usage/",
+      "publishedAt": "2026-04-10T23:54:49",
+      "content": "As Texas confronts decades of water mismanagement and growing demands for electricity from data centers, the state’s top utility regulator, Public Utility Commission Chairman Thomas Gleeson, told a..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Minneapolis Activists Launch Hunger Strike to Protest Polluting Trash Incinerator",
+      "description": "Minneapolis activists are escalating a decades-long fight by going on a hunger strike to demand that local officials shut down a polluting trash incinerator.  Residents have long opposed the Hennep...",
+      "url": "https://insideclimatenews.org/news/10042026/minneapolis-hunger-strike-protesting-trash-incinerator-pollution/",
+      "publishedAt": "2026-04-10T20:58:14",
+      "content": "Minneapolis activists are escalating a decades-long fight by going on a hunger strike to demand that local officials shut down a polluting trash incinerator.  Residents have long opposed the Hennep..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Volkswagen to End E.V. Production at Tennessee Plant",
+      "description": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
+      "url": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
+      "publishedAt": "2026-04-10T19:00:23",
+      "content": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "What Is the Economic Impact of Data Centers? It’s a Secret.",
+      "description": "Tax breaks for data centers in North Carolina keep as much as $57 million each year from state and local government coffers, state figures show, an amount that could balloon to billions of dollars ...",
+      "url": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/",
+      "publishedAt": "2026-04-10T17:28:19",
+      "content": "Tax breaks for data centers in North Carolina keep as much as $57 million each year from state and local government coffers, state figures show, an amount that could balloon to billions of dollars ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Britain’s Most Iconic Fish Nears Breaking Point",
+      "description": "The days of Britain’s fish and chip shops might be numbered.",
+      "url": "https://insideclimatenews.org/news/10042026/uk-cod-shortages-warming-overfishing/",
+      "publishedAt": "2026-04-10T16:45:02",
+      "content": "The days of Britain’s fish and chip shops might be numbered."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘I’m worried there’s too much of me,’ says a birch: inside the interspecies council giving nature a voice",
+      "description": "In a village in Norway, humans representing flora and fauna of all kinds meet to reimagine ‘nature-centric governance’“My ask of humans is quite large,” says the northern bat to a room of reindeer,...",
+      "url": "https://www.theguardian.com/environment/2026/apr/10/im-worried-theres-too-much-of-me-says-a-birch-inside-the-interspecies-council-giving-nature-a-voice",
+      "publishedAt": "2026-04-10T10:09:55",
+      "content": "In a village in Norway, humans representing flora and fauna of all kinds meet to reimagine ‘nature-centric governance’“My ask of humans is quite large,” says the northern bat to a room of reindeer,..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘An abomination’: the Lancashire town kicking up a stink over reopened landfill",
+      "description": "Residents of Fleetwood say continuous foul smell from Transwaste site is causing illness and making life hellIn the week that many families went to the coast for the fresh sea air or the tang of fi...",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/lancashire-fleetwood-stench-landfill-transwaste",
+      "publishedAt": "2026-04-10T08:31:10",
+      "content": "Residents of Fleetwood say continuous foul smell from Transwaste site is causing illness and making life hellIn the week that many families went to the coast for the fresh sea air or the tang of fi..."
     },
     {
       "source": {
@@ -164,7 +274,7 @@
       "title": "I.U.C.N. Red List Moves Emperor Penguins to “Endangered”",
       "description": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers.",
       "url": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
-      "publishedAt": "2026-04-09T17:39:08",
+      "publishedAt": "2026-04-09T17:39:09",
       "content": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers."
     },
     {
@@ -202,105 +312,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Bitten by snakes 200 times – on purpose: US man’s quest to help deliver new antivenom",
-      "description": "Tim Friede put his ‘ass on the line’ to help stop snakebite deaths – whose numbers appear to be rising amid the climate crisisAs we overheat and degrade our planet, more people are likely to come i...",
-      "url": "https://www.theguardian.com/environment/2026/apr/09/intentional-snakebites-antivenom",
-      "publishedAt": "2026-04-09T10:00:46",
-      "content": "Tim Friede put his ‘ass on the line’ to help stop snakebite deaths – whose numbers appear to be rising amid the climate crisisAs we overheat and degrade our planet, more people are likely to come i..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG – Leading by Example: NJCC Upgrades Its Headquarters Through Energy Efficiency",
-      "description": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend...",
-      "url": "https://csrwire.com/press-release/pseg-leading-example-njcc-upgrades-its-headquarters-through-energy-efficiency/",
-      "publishedAt": "2026-04-08T09:36:00",
-      "content": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How the Artemis crew will splash down on Earth",
-      "description": "The Artemis crew will return to Earth on 10 April after a 10-day mission that took them around the Moon.",
-      "url": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-10T04:27:25",
-      "content": "The Artemis crew will return to Earth on 10 April after a 10-day mission that took them around the Moon."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Severe Exposure to ‘Forever Chemicals’ During Pregnancy Could Lead to Childhood Asthma",
-      "description": "Exposure to “forever chemicals” during pregnancy could increase the risk of childhood asthma, according to new research from Sweden.",
-      "url": "https://insideclimatenews.org/news/09042026/severe-exposure-to-forever-chemicals-during-pregnancy-could-lead-to-childhood-asthma/",
-      "publishedAt": "2026-04-09T18:21:12",
-      "content": "Exposure to “forever chemicals” during pregnancy could increase the risk of childhood asthma, according to new research from Sweden."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Volkswagen to End E.V. Production at Tennessee Plant",
-      "description": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
-      "url": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
-      "publishedAt": "2026-04-09T17:58:52",
-      "content": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "US had hottest March on record as nation faced ‘unprecedented’ heat",
-      "description": "The continental US registered its most abnormally hot month in 132 years of records, according to Noaa data March’s persistent unseasonable heat was so intense that the continental United States re...",
-      "url": "https://www.theguardian.com/us-news/2026/apr/09/hottest-march-on-record",
-      "publishedAt": "2026-04-09T14:49:59",
-      "content": "The continental US registered its most abnormally hot month in 132 years of records, according to Noaa data March’s persistent unseasonable heat was so intense that the continental United States re..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘A dream come true’: Brazil’s blue-and-yellow macaws return to Rio after 200 years",
-      "description": "An ambitious ‘refaunation’ project is bringing the much-loved birds and other lost species back to the city’s national parkImages of the iconic blue-and-yellow macaw can be spotted all over Rio de ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/09/a-dream-come-true-brazils-blue-and-yellow-macaws-return-to-rio-after-200-years",
-      "publishedAt": "2026-04-09T11:00:48",
-      "content": "An ambitious ‘refaunation’ project is bringing the much-loved birds and other lost species back to the city’s national parkImages of the iconic blue-and-yellow macaw can be spotted all over Rio de ..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Meet the 5 Fashion Brands We Rated Highest in Q1",
-      "description": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points.",
-      "url": "https://goodonyou.eco/top-rated-fashion-brands-q1-2026/",
-      "publishedAt": "2026-04-09T10:39:03",
-      "content": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Bills to Protect Ratepayers From Data Centers Fail in Georgia Legislature",
-      "description": "When the final gavel fell on Georgia’s legislative session, Big Tech and Georgia Power had little reason to be disappointed.",
-      "url": "https://insideclimatenews.org/news/09042026/georgia-legislature-data-center-bills-fail/",
-      "publishedAt": "2026-04-09T09:00:00",
-      "content": "When the final gavel fell on Georgia’s legislative session, Big Tech and Georgia Power had little reason to be disappointed."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -323,47 +334,36 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "Connecting Across Continents With Women of Cisco Networking Academy",
-      "description": "Through Cisco Networking Academy, millions of learners each year gain the skills and credentials they need to lead, create, and thrive in the tech industry. Here, we’re showcasing a few of Cisco Ne...",
-      "url": "https://csrwire.com/press-release/connecting-across-continents-women-cisco-networking-academy/",
-      "publishedAt": "2026-04-08T09:05:00",
-      "content": "Through Cisco Networking Academy, millions of learners each year gain the skills and credentials they need to lead, create, and thrive in the tech industry. Here, we’re showcasing a few of Cisco Ne..."
+      "author": "The Guardian",
+      "title": "Take down bird feeders this summer to cut spread of avian disease, says RSPB",
+      "description": "Charity advises replacing seed and nut feeders, where birds gather, with small amounts of mealworms, fat balls or suetGarden birds should not be fed seeds and nuts over the summer months, the RSPB ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/10/rspb-bird-feeders-nuts-seeds-summer-parasitic-avian-disease",
+      "publishedAt": "2026-04-10T05:00:09",
+      "content": "Charity advises replacing seed and nut feeders, where birds gather, with small amounts of mealworms, fat balls or suetGarden birds should not be fed seeds and nuts over the summer months, the RSPB ..."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Good On You"
       },
-      "author": "CSRWire",
-      "title": "Entergy’s 2025 Performance Report Highlights Growth, Reliability and Customer-Driven Initiatives",
-      "description": "Entergy today announced the publishing of its 2025 Performance Report, “Energy for a Better Future,” detailing the company’s achievements last year and the strategic priorities guiding its path for...",
-      "url": "https://csrwire.com/press-release/entergys-2025-performance-report-highlights-growth-reliability-and-customer-driven-initiatives/",
-      "publishedAt": "2026-04-07T14:00:00",
-      "content": "Entergy today announced the publishing of its 2025 Performance Report, “Energy for a Better Future,” detailing the company’s achievements last year and the strategic priorities guiding its path for..."
+      "author": "Good On You",
+      "title": "Meet the 5 Fashion Brands We Rated Highest in Q1",
+      "description": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points.",
+      "url": "https://goodonyou.eco/top-rated-fashion-brands-q1-2026/",
+      "publishedAt": "2026-04-09T10:39:03",
+      "content": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points."
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "BBC"
       },
-      "author": "Triple Pundit",
-      "title": "Five Years Into a Fishing Ban, the Yangtze River Is Teeming With Life",
-      "description": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit",
-      "url": "https://triplepundit.com/2026/yangtze-river-fishing-ban-endangered-species-conservation/",
-      "publishedAt": "2026-04-03T13:00:00",
-      "content": "A doubling of fish biomass along Asia’s longest river shows hope for large-scale conservation efforts and a lifeline for the endangered finless porpoise.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "California Bill Aims to Keep Toxic PFAS off Its Crops",
-      "description": "California Assemblymember Nick Schultz is leading an effort to phase out the use of pesticides containing toxic “forever chemicals” to safeguard the nation’s produce.  Schultz, D-Burbank, introduce...",
-      "url": "https://insideclimatenews.org/news/08042026/california-bill-could-ban-pfas-pesticides/",
-      "publishedAt": "2026-04-08T23:36:42",
-      "content": "California Assemblymember Nick Schultz is leading an effort to phase out the use of pesticides containing toxic “forever chemicals” to safeguard the nation’s produce.  Schultz, D-Burbank, introduce..."
+      "author": "BBC",
+      "title": "Nature reserve helping restore crane population",
+      "description": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007.",
+      "url": "https://www.bbc.com/news/articles/ckgr45pdz35o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-09T05:19:31",
+      "content": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007."
     },
     {
       "source": {
@@ -375,39 +375,6 @@
       "url": "https://www.nytimes.com/2026/04/08/climate/heat-snow-drought-west.html",
       "publishedAt": "2026-04-08T14:01:49",
       "content": "A record-mild winter and blistering spring heat will mean higher risks of water shortages and wildfires in the months ahead."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How Tolls in the Strait of Hormuz Would Undercut International Law",
-      "description": "Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas.",
-      "url": "https://www.nytimes.com/2026/04/07/climate/strait-of-hormuz-law-of-the-sea-tolls.html",
-      "publishedAt": "2026-04-07T19:03:29",
-      "content": "Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Has Artemis II shown we can land on the Moon again?",
-      "description": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
-      "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-07T15:23:05",
-      "content": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Earthset and a solar eclipse: Nasa releases first images from Moon fly-by",
-      "description": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed.",
-      "url": "https://www.bbc.com/news/articles/cyv183v02j3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-07T14:53:18",
-      "content": "The first two images show an 'Earthrise' and the solar eclipse the astronauts viewed."
     },
     {
       "source": {
