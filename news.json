@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 27,
   "articles": [
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "It’s Time for Impact – a Call for Action by CDL in Its 19th Integrated Sustainability Report 2026 – Future-Proofing Planet, People and Prosperity",
-      "description": "City Developments Limited (CDL) has released its 19th Integrated Sustainability Report (ISR) 2026, titled “Time for Impact: Future-Proofing Planet, People and Prosperity”.",
-      "url": "https://csrwire.com/press-release/its-time-impact-call-action-cdl-its-19th-integrated-sustainability-report-2026-future-proofing/",
-      "publishedAt": "2026-04-10T15:00:00",
-      "content": "City Developments Limited (CDL) has released its 19th Integrated Sustainability Report (ISR) 2026, titled “Time for Impact: Future-Proofing Planet, People and Prosperity”."
+      "author": "New York Times",
+      "title": "The Northeast Hoped to Lead on Climate. Now It’s Rethinking.",
+      "description": "Many blue states are rethinking ambitious strategies to cut emissions as they struggle with rising electricity costs and new hurdles for renewable energy.",
+      "url": "https://www.nytimes.com/2026/04/11/climate/northeast-climate-goals-trump.html",
+      "publishedAt": "2026-04-11T09:00:06",
+      "content": "Many blue states are rethinking ambitious strategies to cut emissions as they struggle with rising electricity costs and new hurdles for renewable energy."
     },
     {
       "source": {
@@ -70,6 +70,17 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Gas Industry Front Group Targets Democrats in Pennsylvania",
+      "description": "PHILADELPHIA—Sitting on a dais at the private Fitler Club for what was billed as a discussion about “the Path to a Clean Energy Future,” former Philadelphia Mayor Michael Nutter played to his audie...",
+      "url": "https://insideclimatenews.org/news/11042026/pennsylvania-natural-gas-group-targets-democrats/",
+      "publishedAt": "2026-04-11T09:00:00",
+      "content": "PHILADELPHIA—Sitting on a dais at the private Fitler Club for what was billed as a discussion about “the Path to a Clean Energy Future,” former Philadelphia Mayor Michael Nutter played to his audie..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -92,36 +103,36 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "BBC"
       },
-      "author": "The Hindu",
-      "title": "Why India must define its own green factory standards now",
-      "description": "As plants adopt solar power and resource-efficient systems, the absence of a unified certification limits global recognition",
-      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/why-india-must-define-its-own-green-factory-standards-now/article70817200.ece",
-      "publishedAt": "2026-04-11T05:54:32",
-      "content": "As plants adopt solar power and resource-efficient systems, the absence of a unified certification limits global recognition"
+      "author": "BBC",
+      "title": "The team saving native species in case the apocalypse wipes them out",
+      "description": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists.",
+      "url": "https://www.bbc.com/news/articles/c2d1k0nrwe9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-12T06:48:10",
+      "content": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists."
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "BBC"
       },
-      "author": "Triple Pundit",
-      "title": "African Women Make Economic Gains Through Global Gig Economy",
-      "description": "Women make up about 27 percent of the Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit",
-      "url": "https://triplepundit.com/2026/gig-economy-african-women-global-work/",
-      "publishedAt": "2026-04-10T13:00:00",
-      "content": "Women make up about 27 percent of the Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit"
+      "author": "BBC",
+      "title": "Hopes more pine martens will be born in the wild",
+      "description": "Conservation charity expects more kits to be born on Dartmoor and Exmoor.",
+      "url": "https://www.bbc.com/news/articles/cn9q7vlwnxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-12T06:12:20",
+      "content": "Conservation charity expects more kits to be born on Dartmoor and Exmoor."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Al Jazeera"
       },
-      "author": "CSRWire",
-      "title": "NFWF Announces $1.8 Million To Support Working Lands and Restore Wildlife Habitat in the Intermountain West",
-      "description": "The National Fish and Wildlife Foundation (NFWF) recently announced nearly $1.",
-      "url": "https://csrwire.com/press-release/nfwf-announces-18-million-support-working-lands-and-restore-wildlife-habitat-intermountain/",
-      "publishedAt": "2026-04-10T10:00:00",
-      "content": "The National Fish and Wildlife Foundation (NFWF) recently announced nearly $1."
+      "author": "Al Jazeera",
+      "title": "Musician performs inside melting glacier to highlight climate crisis",
+      "description": "Swiss musician To Athena has performed inside a cave in a melting glacier to highlight ice loss in the Alps.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/musician-performs-inside-melting-glacier-to-highlight-climate-crisis?traffic_source=rss",
+      "publishedAt": "2026-04-12T05:01:41",
+      "content": "Swiss musician To Athena has performed inside a cave in a melting glacier to highlight ice loss in the Alps."
     },
     {
       "source": {
@@ -136,17 +147,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG – Leading by Example: NJCC Upgrades Its Headquarters Through Energy Efficiency",
-      "description": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend...",
-      "url": "https://csrwire.com/press-release/pseg-leading-example-njcc-upgrades-its-headquarters-through-energy-efficiency/",
-      "publishedAt": "2026-04-08T09:36:00",
-      "content": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -155,6 +155,39 @@
       "url": "https://goodonyou.eco/sustainable-sunglasses/",
       "publishedAt": "2026-04-08T03:00:53",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "I.U.C.N. Red List Moves Emperor Penguins to “Endangered”",
+      "description": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers.",
+      "url": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
+      "publishedAt": "2026-04-09T17:39:09",
+      "content": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Energy Vault Acquires 850 MW BESS Project Portfolio to Enter Japan’s Energy Storage Market",
+      "description": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW",
+      "url": "https://www.esgtoday.com/energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market/?utm_source=rss&utm_medium=rss&utm_campaign=energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market",
+      "publishedAt": "2026-04-09T14:35:58",
+      "content": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "JPMorgan Signs 10-Year Biomass-Based Carbon Removal Deal",
+      "description": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000",
+      "url": "https://www.esgtoday.com/jpmorgan-signs-10-year-biomass-based-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-signs-10-year-biomass-based-carbon-removal-deal",
+      "publishedAt": "2026-04-09T13:12:18",
+      "content": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000"
     },
     {
       "source": {
@@ -202,17 +235,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Volkswagen to End E.V. Production at Tennessee Plant",
-      "description": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models.",
-      "url": "https://www.nytimes.com/2026/04/09/business/volkswagen-electric-vehicles-id4-chattanooga.html",
-      "publishedAt": "2026-04-10T19:00:23",
-      "content": "The German carmaker is the latest to scale back plans for electric vehicles in favor of gasoline models."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -257,83 +279,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Is the Keystone XL Pipeline Back?",
-      "description": "No project better embodies the nation’s wild swings in climate and energy policy than the Keystone XL pipeline.",
-      "url": "https://insideclimatenews.org/news/09042026/canada-us-oil-pipeline-proposal/",
-      "publishedAt": "2026-04-09T22:34:52",
-      "content": "No project better embodies the nation’s wild swings in climate and energy policy than the Keystone XL pipeline."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "I.U.C.N. Red List Moves Emperor Penguins to “Endangered”",
-      "description": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers.",
-      "url": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
-      "publishedAt": "2026-04-09T17:39:09",
-      "content": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Energy Vault Acquires 850 MW BESS Project Portfolio to Enter Japan’s Energy Storage Market",
-      "description": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW",
-      "url": "https://www.esgtoday.com/energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market/?utm_source=rss&utm_medium=rss&utm_campaign=energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market",
-      "publishedAt": "2026-04-09T14:35:58",
-      "content": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "JPMorgan Signs 10-Year Biomass-Based Carbon Removal Deal",
-      "description": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000",
-      "url": "https://www.esgtoday.com/jpmorgan-signs-10-year-biomass-based-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-signs-10-year-biomass-based-carbon-removal-deal",
-      "publishedAt": "2026-04-09T13:12:18",
-      "content": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The \"Seal of Approval\": How to Find Trustworthy Treatment Centers for Law Enforcement Officers",
-      "description": "At the 2026 International Association of Chiefs of Police (IACP) Officer Safety and Wellness Symposium, the Motorola Solutions Foundation and the Police Executive Research Forum (PERF) addressed a ...",
-      "url": "https://csrwire.com/press-release/seal-approval-how-find-trustworthy-treatment-centers-law-enforcement-officers/",
-      "publishedAt": "2026-04-09T11:40:00",
-      "content": "At the 2026 International Association of Chiefs of Police (IACP) Officer Safety and Wellness Symposium, the Motorola Solutions Foundation and the Police Executive Research Forum (PERF) addressed a ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PNC Surpasses Community Benefits Plan Commitment With $119 Billion in Community Investments",
-      "description": "Surpassing our original $88 billion commitment with $119.",
-      "url": "https://csrwire.com/press-release/pnc-surpasses-community-benefits-plan-commitment-119-billion-community-investments/",
-      "publishedAt": "2026-04-08T11:05:00",
-      "content": "Surpassing our original $88 billion commitment with $119."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "One Million Items Collected! Taco Bell® Sauce Container U.S. Recycling Program",
-      "description": "For years, Taco Bell’s iconic hot sauce packets have been part of fans’ biggest and boldest moments, from elevating everyday meals to inspiring fashion statements and even unforgettable marriage pr...",
-      "url": "https://csrwire.com/press-release/one-million-items-collected-taco-bellr-sauce-container-us-recycling-program/",
-      "publishedAt": "2026-04-08T10:00:00",
-      "content": "For years, Taco Bell’s iconic hot sauce packets have been part of fans’ biggest and boldest moments, from elevating everyday meals to inspiring fashion statements and even unforgettable marriage pr..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -353,39 +298,6 @@
       "url": "https://goodonyou.eco/top-rated-fashion-brands-q1-2026/",
       "publishedAt": "2026-04-09T10:39:03",
       "content": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nature reserve helping restore crane population",
-      "description": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007.",
-      "url": "https://www.bbc.com/news/articles/ckgr45pdz35o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-09T05:19:31",
-      "content": "The site is home to three breeding pairs and has welcomed 26 chicks since 2007."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Heat Wipes Out Western Snowpack, Raising Fears of Summer Drought",
-      "description": "A record-mild winter and blistering spring heat will mean higher risks of water shortages and wildfires in the months ahead.",
-      "url": "https://www.nytimes.com/2026/04/08/climate/heat-snow-drought-west.html",
-      "publishedAt": "2026-04-08T14:01:49",
-      "content": "A record-mild winter and blistering spring heat will mean higher risks of water shortages and wildfires in the months ahead."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The Grandmothers on the Front Line of Zimbabwe’s Mental Health Crisis",
-      "description": "Grandmothers are the custodians of culture in Zimbabwe.",
-      "url": "https://triplepundit.com/2026/friendship-bench-zimbabwe-mental-healthcare-access/",
-      "publishedAt": "2026-04-06T13:00:00",
-      "content": "Grandmothers are the custodians of culture in Zimbabwe."
     }
   ]
 }
