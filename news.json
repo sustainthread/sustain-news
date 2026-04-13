@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 35,
   "articles": [
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "It’s Time for Impact – a Call for Action by CDL in Its 19th Integrated Sustainability Report 2026 – Future-Proofing Planet, People and Prosperity",
+      "description": "City Developments Limited (CDL) has released its 19th Integrated Sustainability Report (ISR) 2026, titled “Time for Impact: Future-Proofing Planet, People and Prosperity”.",
+      "url": "https://csrwire.com/press-release/its-time-impact-call-action-cdl-its-19th-integrated-sustainability-report-2026-future-proofing/",
+      "publishedAt": "2026-04-10T15:00:00",
+      "content": "City Developments Limited (CDL) has released its 19th Integrated Sustainability Report (ISR) 2026, titled “Time for Impact: Future-Proofing Planet, People and Prosperity”."
+    },
     {
       "source": {
         "name": "New York Times"
@@ -34,17 +45,6 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-04-07T07:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "86 More Sustainable Fashion Brands From Europe",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
-      "publishedAt": "2026-04-06T00:00:41",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -103,36 +103,124 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Good On You"
       },
-      "author": "BBC",
-      "title": "The team saving native species in case the apocalypse wipes them out",
-      "description": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists.",
-      "url": "https://www.bbc.com/news/articles/c2d1k0nrwe9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-12T06:48:10",
-      "content": "Should the apocalypse arrive, Wales as we know it may depend on these two conservationists."
+      "author": "Good On You",
+      "title": "More Ethical and Sustainable Sunglasses That Leave Others In The Shade",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-sunglasses/",
+      "publishedAt": "2026-04-08T03:00:53",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "We lost £3,000 after collapse of Ikea’s solar panel installer",
+      "description": "Swedish retailer continued to advertise partnership with Soly and failed to offer me any adviceI am one of many left thousands of pounds out of pocket after signing up for solar panels via Ikea’s w...",
+      "url": "https://www.theguardian.com/money/2026/apr/13/ikea-solar-panels-soly-collapse-lost-3000",
+      "publishedAt": "2026-04-13T06:00:39",
+      "content": "Swedish retailer continued to advertise partnership with Soly and failed to offer me any adviceI am one of many left thousands of pounds out of pocket after signing up for solar panels via Ikea’s w..."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Hopes more pine martens will be born in the wild",
-      "description": "Conservation charity expects more kits to be born on Dartmoor and Exmoor.",
-      "url": "https://www.bbc.com/news/articles/cn9q7vlwnxno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-12T06:12:20",
-      "content": "Conservation charity expects more kits to be born on Dartmoor and Exmoor."
+      "title": "Charity plans to release wild beavers into rivers",
+      "description": "Dorset Wildlife Trust wants to reintroduce up to 50 of the semi-aquatic mammals unenclosed.",
+      "url": "https://www.bbc.com/news/articles/cx2wy5711lwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-13T05:16:17",
+      "content": "Dorset Wildlife Trust wants to reintroduce up to 50 of the semi-aquatic mammals unenclosed."
     },
     {
       "source": {
-        "name": "Al Jazeera"
+        "name": "BBC"
       },
-      "author": "Al Jazeera",
-      "title": "Musician performs inside melting glacier to highlight climate crisis",
-      "description": "Swiss musician To Athena has performed inside a cave in a melting glacier to highlight ice loss in the Alps.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/musician-performs-inside-melting-glacier-to-highlight-climate-crisis?traffic_source=rss",
-      "publishedAt": "2026-04-12T05:01:41",
-      "content": "Swiss musician To Athena has performed inside a cave in a melting glacier to highlight ice loss in the Alps."
+      "author": "BBC",
+      "title": "Floating wetlands plan to boost coastal ecosystems",
+      "description": "The new project will see specially designed floating saltmarshes deployed in coastal waters.",
+      "url": "https://www.bbc.com/news/articles/cj0v10834leo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-13T05:14:23",
+      "content": "The new project will see specially designed floating saltmarshes deployed in coastal waters."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "In the Desert, a ‘Cleaning Station’ for Ants",
+      "description": "A unique “choreography” between two ant species suggests a distinctive partnership in which one provides a carwash service to the other.",
+      "url": "https://www.nytimes.com/2026/04/13/science/harvester-cone-ants-cleaning.html",
+      "publishedAt": "2026-04-13T05:00:10",
+      "content": "A unique “choreography” between two ant species suggests a distinctive partnership in which one provides a carwash service to the other."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Time for some spring planting – on a precarious ledge | Susie White",
+      "description": "Bowlees, Teesdale: It’s been a long road to this point, but now these pots of rare rock whitebeam are ready for the soilMy route along Teesdale is full of distractions. I stop twice, awed by the si...",
+      "url": "https://www.theguardian.com/environment/2026/apr/13/country-diary-time-for-some-spring-planting-on-a-precarious-ledge",
+      "publishedAt": "2026-04-13T04:30:36",
+      "content": "Bowlees, Teesdale: It’s been a long road to this point, but now these pots of rare rock whitebeam are ready for the soilMy route along Teesdale is full of distractions. I stop twice, awed by the si..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Hunger Strike Ends, but an ‘Unreasonable’ Woman’s Battle Against Corporate Polluters Marches On",
+      "description": "The Resistance, Part 1: With an army of lawyers, an activist legend squares off against polluting industries along the Texas coast she calls home.",
+      "url": "https://insideclimatenews.org/news/12042026/diane-wilson-dow-chemical-texas-hunger-strike/",
+      "publishedAt": "2026-04-12T09:00:00",
+      "content": "The Resistance, Part 1: With an army of lawyers, an activist legend squares off against polluting industries along the Texas coast she calls home."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Cancer Rates Are Higher Near Large Livestock Feeding Operations in 3 States, a New Study Finds",
+      "description": "People in three states living near large livestock feeding operations experience higher rates of cancer, a new analysis found.",
+      "url": "https://insideclimatenews.org/news/12042026/cancer-rates-higher-near-livestock-operations-study-finds/",
+      "publishedAt": "2026-04-12T08:55:00",
+      "content": "People in three states living near large livestock feeding operations experience higher rates of cancer, a new analysis found."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Extraordinary Sensory Worlds of Animals",
+      "description": "Watch as Ed Yong, Pulitzer-winning science journalist and author of An Immense World, speaks with ICN executive editor Vernon Loeb about the extraordinary sensory worlds of animals, and the concept...",
+      "url": "https://insideclimatenews.org/news/12042026/inside-climate-talks-ed-yong/",
+      "publishedAt": "2026-04-12T08:50:00",
+      "content": "Watch as Ed Yong, Pulitzer-winning science journalist and author of An Immense World, speaks with ICN executive editor Vernon Loeb about the extraordinary sensory worlds of animals, and the concept..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "African Women Make Economic Gains Through Global Gig Economy",
+      "description": "Women make up about 27 percent of the Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit",
+      "url": "https://triplepundit.com/2026/gig-economy-african-women-global-work/",
+      "publishedAt": "2026-04-10T13:00:00",
+      "content": "Women make up about 27 percent of the Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "NFWF Announces $1.8 Million To Support Working Lands and Restore Wildlife Habitat in the Intermountain West",
+      "description": "The National Fish and Wildlife Foundation (NFWF) recently announced nearly $1.",
+      "url": "https://csrwire.com/press-release/nfwf-announces-18-million-support-working-lands-and-restore-wildlife-habitat-intermountain/",
+      "publishedAt": "2026-04-10T10:00:00",
+      "content": "The National Fish and Wildlife Foundation (NFWF) recently announced nearly $1."
     },
     {
       "source": {
@@ -147,47 +235,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "More Ethical and Sustainable Sunglasses That Leave Others In The Shade",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-sunglasses/",
-      "publishedAt": "2026-04-08T03:00:53",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "PSEG – Leading by Example: NJCC Upgrades Its Headquarters Through Energy Efficiency",
+      "description": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend...",
+      "url": "https://csrwire.com/press-release/pseg-leading-example-njcc-upgrades-its-headquarters-through-energy-efficiency/",
+      "publishedAt": "2026-04-08T09:36:00",
+      "content": "As a nonprofit organization, NJCC understands the challenging environment small businesses face, where every dollar counts and resources must be stretched as far as they can go. This need to extend..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "BBC"
       },
-      "author": "New York Times",
-      "title": "I.U.C.N. Red List Moves Emperor Penguins to “Endangered”",
-      "description": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers.",
-      "url": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
-      "publishedAt": "2026-04-09T17:39:09",
-      "content": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers."
+      "author": "BBC",
+      "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+      "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
+      "url": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-11T23:17:07",
+      "content": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Energy Vault Acquires 850 MW BESS Project Portfolio to Enter Japan’s Energy Storage Market",
-      "description": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW",
-      "url": "https://www.esgtoday.com/energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market/?utm_source=rss&utm_medium=rss&utm_campaign=energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market",
-      "publishedAt": "2026-04-09T14:35:58",
-      "content": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "JPMorgan Signs 10-Year Biomass-Based Carbon Removal Deal",
-      "description": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000",
-      "url": "https://www.esgtoday.com/jpmorgan-signs-10-year-biomass-based-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-signs-10-year-biomass-based-carbon-removal-deal",
-      "publishedAt": "2026-04-09T13:12:18",
-      "content": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000"
+      "author": "The Guardian",
+      "title": "Golden eagles could be reintroduced to England after more than 150 years",
+      "description": "Study identified eight areas that can sustain a population and government has given £1m for recovery programme“The world is grown so bad that wrens make prey where eagles dare not perch.” So wrote ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/12/golden-eagles-reintroduced-england-150-years",
+      "publishedAt": "2026-04-11T23:01:00",
+      "content": "Study identified eight areas that can sustain a population and government has given £1m for recovery programme“The world is grown so bad that wrens make prey where eagles dare not perch.” So wrote ..."
     },
     {
       "source": {
@@ -224,39 +301,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Minneapolis Activists Launch Hunger Strike to Protest Polluting Trash Incinerator",
-      "description": "Minneapolis activists are escalating a decades-long fight by going on a hunger strike to demand that local officials shut down a polluting trash incinerator.  Residents have long opposed the Hennep...",
-      "url": "https://insideclimatenews.org/news/10042026/minneapolis-hunger-strike-protesting-trash-incinerator-pollution/",
-      "publishedAt": "2026-04-10T20:58:14",
-      "content": "Minneapolis activists are escalating a decades-long fight by going on a hunger strike to demand that local officials shut down a polluting trash incinerator.  Residents have long opposed the Hennep..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "What Is the Economic Impact of Data Centers? It’s a Secret.",
-      "description": "Tax breaks for data centers in North Carolina keep as much as $57 million each year from state and local government coffers, state figures show, an amount that could balloon to billions of dollars ...",
-      "url": "https://insideclimatenews.org/news/10042026/north-carolina-data-centers-economic-impact/",
-      "publishedAt": "2026-04-10T17:28:19",
-      "content": "Tax breaks for data centers in North Carolina keep as much as $57 million each year from state and local government coffers, state figures show, an amount that could balloon to billions of dollars ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Britain’s Most Iconic Fish Nears Breaking Point",
-      "description": "The days of Britain’s fish and chip shops might be numbered.",
-      "url": "https://insideclimatenews.org/news/10042026/uk-cod-shortages-warming-overfishing/",
-      "publishedAt": "2026-04-10T16:45:02",
-      "content": "The days of Britain’s fish and chip shops might be numbered."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -268,36 +312,80 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "The Guardian",
-      "title": "‘An abomination’: the Lancashire town kicking up a stink over reopened landfill",
-      "description": "Residents of Fleetwood say continuous foul smell from Transwaste site is causing illness and making life hellIn the week that many families went to the coast for the fresh sea air or the tang of fi...",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/10/lancashire-fleetwood-stench-landfill-transwaste",
-      "publishedAt": "2026-04-10T08:31:10",
-      "content": "Residents of Fleetwood say continuous foul smell from Transwaste site is causing illness and making life hellIn the week that many families went to the coast for the fresh sea air or the tang of fi..."
+      "author": "New York Times",
+      "title": "I.U.C.N. Red List Moves Emperor Penguins to “Endangered”",
+      "description": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers.",
+      "url": "https://www.nytimes.com/2026/04/09/climate/emperor-penguins-iucn-red-list.html",
+      "publishedAt": "2026-04-09T17:39:09",
+      "content": "Populations are declining as climate change causes the sea ice the birds need for survival to retreat, according to researchers."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Take down bird feeders this summer to cut spread of avian disease, says RSPB",
-      "description": "Charity advises replacing seed and nut feeders, where birds gather, with small amounts of mealworms, fat balls or suetGarden birds should not be fed seeds and nuts over the summer months, the RSPB ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/10/rspb-bird-feeders-nuts-seeds-summer-parasitic-avian-disease",
-      "publishedAt": "2026-04-10T05:00:09",
-      "content": "Charity advises replacing seed and nut feeders, where birds gather, with small amounts of mealworms, fat balls or suetGarden birds should not be fed seeds and nuts over the summer months, the RSPB ..."
+      "author": "ESG Today",
+      "title": "Energy Vault Acquires 850 MW BESS Project Portfolio to Enter Japan’s Energy Storage Market",
+      "description": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW",
+      "url": "https://www.esgtoday.com/energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market/?utm_source=rss&utm_medium=rss&utm_campaign=energy-vault-acquires-850-mw-bess-project-portfolio-to-enter-japans-energy-storage-market",
+      "publishedAt": "2026-04-09T14:35:58",
+      "content": "Grid-scale energy storage solutions provider Energy Vault announced an agreement to acquire an 850 MW"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "Meet the 5 Fashion Brands We Rated Highest in Q1",
-      "description": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points.",
-      "url": "https://goodonyou.eco/top-rated-fashion-brands-q1-2026/",
-      "publishedAt": "2026-04-09T10:39:03",
-      "content": "Three Aussie brands got high marks in our analysts’ ratings in the first quarter of 2026, with one scoring 98 out of 100 points."
+      "author": "ESG Today",
+      "title": "JPMorgan Signs 10-Year Biomass-Based Carbon Removal Deal",
+      "description": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000",
+      "url": "https://www.esgtoday.com/jpmorgan-signs-10-year-biomass-based-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-signs-10-year-biomass-based-carbon-removal-deal",
+      "publishedAt": "2026-04-09T13:12:18",
+      "content": "Cleantech startup Graphyte announced today a new agreement with JPMorganChase for the purchase of 60,000"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The \"Seal of Approval\": How to Find Trustworthy Treatment Centers for Law Enforcement Officers",
+      "description": "At the 2026 International Association of Chiefs of Police (IACP) Officer Safety and Wellness Symposium, the Motorola Solutions Foundation and the Police Executive Research Forum (PERF) addressed a ...",
+      "url": "https://csrwire.com/press-release/seal-approval-how-find-trustworthy-treatment-centers-law-enforcement-officers/",
+      "publishedAt": "2026-04-09T11:40:00",
+      "content": "At the 2026 International Association of Chiefs of Police (IACP) Officer Safety and Wellness Symposium, the Motorola Solutions Foundation and the Police Executive Research Forum (PERF) addressed a ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PNC Surpasses Community Benefits Plan Commitment With $119 Billion in Community Investments",
+      "description": "Surpassing our original $88 billion commitment with $119.",
+      "url": "https://csrwire.com/press-release/pnc-surpasses-community-benefits-plan-commitment-119-billion-community-investments/",
+      "publishedAt": "2026-04-08T11:05:00",
+      "content": "Surpassing our original $88 billion commitment with $119."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "One Million Items Collected! Taco Bell® Sauce Container U.S. Recycling Program",
+      "description": "For years, Taco Bell’s iconic hot sauce packets have been part of fans’ biggest and boldest moments, from elevating everyday meals to inspiring fashion statements and even unforgettable marriage pr...",
+      "url": "https://csrwire.com/press-release/one-million-items-collected-taco-bellr-sauce-container-us-recycling-program/",
+      "publishedAt": "2026-04-08T10:00:00",
+      "content": "For years, Taco Bell’s iconic hot sauce packets have been part of fans’ biggest and boldest moments, from elevating everyday meals to inspiring fashion statements and even unforgettable marriage pr..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Grandmothers on the Front Line of Zimbabwe’s Mental Health Crisis",
+      "description": "Grandmothers are the custodians of culture in Zimbabwe.",
+      "url": "https://triplepundit.com/2026/friendship-bench-zimbabwe-mental-healthcare-access/",
+      "publishedAt": "2026-04-06T13:00:00",
+      "content": "Grandmothers are the custodians of culture in Zimbabwe."
     }
   ]
 }
