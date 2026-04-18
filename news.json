@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 32,
   "articles": [
     {
       "source": {
@@ -12,17 +12,6 @@
       "url": "https://www.esgtoday.com/sustainability-reporting-is-built-on-imperfect-data-and-thats-okay/?utm_source=rss&utm_medium=rss&utm_campaign=sustainability-reporting-is-built-on-imperfect-data-and-thats-okay",
       "publishedAt": "2026-04-16T08:17:46",
       "content": "Guest post by: Aaron Saw, Head of Corporate Reporting Insights – Financial, ACCA As expectations"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI Launches WELL–GRI Social Topic Standards Alignment Tool To Translate Health, Well-Being and Social Impact Into the Language of Global Sustainability Disclosures",
-      "description": "The International WELL Building Institute announced the launch of its WELL–GRI Social Topic Standards Alignment Tool, a resource that maps strategies in the WELL Standard to GRI Social Topic Standa...",
-      "url": "https://csrwire.com/press-release/iwbi-launches-well-gri-social-topic-standards-alignment-tool-translate-health-well-being-and/",
-      "publishedAt": "2026-04-15T12:55:00",
-      "content": "The International WELL Building Institute announced the launch of its WELL–GRI Social Topic Standards Alignment Tool, a resource that maps strategies in the WELL Standard to GRI Social Topic Standa..."
     },
     {
       "source": {
@@ -48,14 +37,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Henkel Unveils New 2030 Climate, Circularity, Supply Chain Sustainability Targets",
-      "description": "Global consumer brands and industrial products company Henkel announced a broad set of new sustainability",
-      "url": "https://www.esgtoday.com/henkel-unveils-new-2030-climate-circularity-supply-chain-sustainability-targets/?utm_source=rss&utm_medium=rss&utm_campaign=henkel-unveils-new-2030-climate-circularity-supply-chain-sustainability-targets",
-      "publishedAt": "2026-04-15T12:38:24",
-      "content": "Global consumer brands and industrial products company Henkel announced a broad set of new sustainability"
+      "author": "Inside Climate News",
+      "title": "To Battle Climate Change, a Baltimore Church Turns to Nature",
+      "description": "BALTIMORE—Every drop of rain rushing over pavement is a dilemma, picking up pollution and sweeping it into streams.",
+      "url": "https://insideclimatenews.org/news/17042026/baltimore-church-uses-green-space-to-combat-flooding/",
+      "publishedAt": "2026-04-17T08:55:00",
+      "content": "BALTIMORE—Every drop of rain rushing over pavement is a dilemma, picking up pollution and sweeping it into streams."
     },
     {
       "source": {
@@ -70,14 +59,25 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pollution Persists in the Florida Everglades Despite 40-Year Restoration Effort, Report Says",
+      "description": "Florida’s fragile Everglades are not on track to meet a new water quality standard set to take effect next month, even after nearly 40 years of costly restoration work aimed at addressing pollution...",
+      "url": "https://insideclimatenews.org/news/17042026/florida-everglades-water-quality/",
+      "publishedAt": "2026-04-17T09:00:00",
+      "content": "Florida’s fragile Everglades are not on track to meet a new water quality standard set to take effect next month, even after nearly 40 years of costly restoration work aimed at addressing pollution..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Ammonia pollution hotspots found in areas of UK with most pig and poultry factory farms",
-      "description": "Map reveals most severe concentrations of ammonia emissions, which are dangerous to health and environmentAmmonia pollution hotspots have been identified in areas with some of the greatest numbers ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/16/ammonia-pollution-hotspots-uk-pig-poultry-factory-farms",
-      "publishedAt": "2026-04-16T06:00:49",
-      "content": "Map reveals most severe concentrations of ammonia emissions, which are dangerous to health and environmentAmmonia pollution hotspots have been identified in areas with some of the greatest numbers ..."
+      "title": "Colombia convenes climate ‘coalition of the willing’ to break global fossil fuel deadlock",
+      "description": "Santa Marta conference born out of frustration at Cop summits, where renewable progress has been stalled by major pollutersEverybody knows fossil fuels cause climate breakdown, but until recently, ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/17/colombia-convenes-climate-coalition-of-the-willing-to-break-global-fossil-fuel-deadlock",
+      "publishedAt": "2026-04-17T08:00:24",
+      "content": "Santa Marta conference born out of frustration at Cop summits, where renewable progress has been stalled by major pollutersEverybody knows fossil fuels cause climate breakdown, but until recently, ..."
     },
     {
       "source": {
@@ -103,25 +103,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Insights From Dr. Marshall Shepherd on Georgia’s Climate Outlook and Resilience",
-      "description": "The Drawdown Georgia Climate Outlook Maps are helping turn uncertainty into insight.",
-      "url": "https://csrwire.com/press-release/insights-dr-marshall-shepherd-georgias-climate-outlook-and-resilience/",
-      "publishedAt": "2026-04-15T09:40:00",
-      "content": "The Drawdown Georgia Climate Outlook Maps are helping turn uncertainty into insight."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Ethical and Sustainable Basics",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-basics/",
-      "publishedAt": "2026-04-14T23:00:57",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "BTG Pactual TIG Raises $370 Million for Latin America Timberland Strategy",
+      "description": "BTG Pactual Timberland Investment Group (BTG Pactual TIG) announced that it has raised $370 million in",
+      "url": "https://www.esgtoday.com/btg-pactual-tig-raises-370-million-for-latin-america-timberland-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=btg-pactual-tig-raises-370-million-for-latin-america-timberland-strategy",
+      "publishedAt": "2026-04-17T12:52:56",
+      "content": "BTG Pactual Timberland Investment Group (BTG Pactual TIG) announced that it has raised $370 million in"
     },
     {
       "source": {
@@ -136,47 +125,14 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "Good On You"
       },
-      "author": "Triple Pundit",
-      "title": "In the Fight to Defend the Amazon, This Indigenous Community’s Secret Weapon Is Science",
-      "description": "In the copper-rich mountains of southeastern Ecuador, Shuar people are combining ancestral knowledge and modern science to protect their forest from a Canadian mining giant.TriplePundit",
-      "url": "https://triplepundit.com/2026/ecosystem-conservation-rights-of-nature-ecuador-copper-mine/",
-      "publishedAt": "2026-04-16T17:55:04",
-      "content": "In the copper-rich mountains of southeastern Ecuador, Shuar people are combining ancestral knowledge and modern science to protect their forest from a Canadian mining giant.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "LA Galaxy and City National Bank Expand Wildfire Recovery Efforts With New Mini-Pitch for Pasadena Youth",
-      "description": "The LA Galaxy and City National Bank are building upon their existing partnership with the launch of a brand-new mini-pitch at Octavia E.",
-      "url": "https://csrwire.com/press-release/la-galaxy-and-city-national-bank-expand-wildfire-recovery-efforts-new-mini-pitch-pasadena/",
-      "publishedAt": "2026-04-16T15:40:00",
-      "content": "The LA Galaxy and City National Bank are building upon their existing partnership with the launch of a brand-new mini-pitch at Octavia E."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Carbon Removal Industry Reels as Microsoft Retreats",
-      "description": "Once held up as a key solution to climate change, a field that aims to remove carbon from the atmosphere is struggling to catch on.",
-      "url": "https://www.nytimes.com/2026/04/16/climate/microsoft-carbon-removal.html",
-      "publishedAt": "2026-04-16T14:33:43",
-      "content": "Once held up as a key solution to climate change, a field that aims to remove carbon from the atmosphere is struggling to catch on."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EBA Proposes Major Simplification of ESG Supervisory Reporting Requirements for Banks",
-      "description": "EU banking supervisor The European Banking Authority (EBA) announced the publication of a significant proposed",
-      "url": "https://www.esgtoday.com/eba-proposes-major-simplification-for-esg-supervisory-reporting-requirements-for-banks/?utm_source=rss&utm_medium=rss&utm_campaign=eba-proposes-major-simplification-for-esg-supervisory-reporting-requirements-for-banks",
-      "publishedAt": "2026-04-16T11:19:05",
-      "content": "EU banking supervisor The European Banking Authority (EBA) announced the publication of a significant proposed"
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Ethical and Sustainable Basics",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-basics/",
+      "publishedAt": "2026-04-14T23:00:57",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -199,6 +155,127 @@
       "url": "https://goodonyou.eco/sustainable-swimwear-brands/",
       "publishedAt": "2026-04-13T00:00:09",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Six great reads: Iran’s social media memes, an abandoned department store and a 1,200-year-old record of cherry blossoms",
+      "description": "Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days Continue reading...",
+      "url": "https://www.theguardian.com/news/2026/apr/18/six-great-reads-iran-social-media-memes-abandoned-department-store-cherry-blossoms",
+      "publishedAt": "2026-04-18T05:00:06",
+      "content": "Need something brilliant to read this weekend? Here are six of our favourite pieces from the last seven days Continue reading..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Western States Need Water. San Diego Has Extra. Will They Make A Deal?",
+      "description": "San Diego County is shopping a surplus of desalinated seawater to Western states that are facing increasingly urgent drought and short supplies.",
+      "url": "https://www.nytimes.com/2026/04/17/climate/how-pacific-ocean-water-could-help-the-colorado-river-crisis.html",
+      "publishedAt": "2026-04-17T22:05:15",
+      "content": "San Diego County is shopping a surplus of desalinated seawater to Western states that are facing increasingly urgent drought and short supplies."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Coral reefs are nearing extinction. 2026 must mark a turning point | Jason Momoa",
+      "description": "At 1.",
+      "url": "https://www.theguardian.com/commentisfree/2026/apr/17/coral-reefs-extinction-global-warming-jason-momoa",
+      "publishedAt": "2026-04-17T12:00:44",
+      "content": "At 1."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How Can I Protect My Car When the Weather Is Scorching?",
+      "description": "Extreme heat is extremely hard on your vehicle, but a few simple precautions can help a lot.",
+      "url": "https://www.nytimes.com/2026/04/17/climate/cars-heat-damage.html",
+      "publishedAt": "2026-04-17T09:02:08",
+      "content": "Extreme heat is extremely hard on your vehicle, but a few simple precautions can help a lot."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EBA Proposes Major Simplification of ESG Supervisory Reporting Requirements for Banks",
+      "description": "EU banking supervisor The European Banking Authority (EBA) announced the publication of a significant proposed",
+      "url": "https://www.esgtoday.com/eba-proposes-major-simplification-for-esg-supervisory-reporting-requirements-for-banks/?utm_source=rss&utm_medium=rss&utm_campaign=eba-proposes-major-simplification-for-esg-supervisory-reporting-requirements-for-banks",
+      "publishedAt": "2026-04-16T11:19:05",
+      "content": "EU banking supervisor The European Banking Authority (EBA) announced the publication of a significant proposed"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Goldman Sachs-Backed LRQA Acquires Responsible Sourcing Advisory Partner Africa",
+      "description": "London-based assurance services provider LRQA announced the acquisition of responsible business advisory organization Partner Africa,",
+      "url": "https://www.esgtoday.com/goldman-sachs-backed-lrqa-acquires-responsible-sourcing-advisory-partner-africa/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-backed-lrqa-acquires-responsible-sourcing-advisory-partner-africa",
+      "publishedAt": "2026-04-16T07:05:31",
+      "content": "London-based assurance services provider LRQA announced the acquisition of responsible business advisory organization Partner Africa,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Rivian Partners with Redwood Materials to Power EV Plant with Recycled Batteries",
+      "description": "U.S.-based energy storage and battery materials provider Redwood Materials and electric vehicle maker Rivian announced",
+      "url": "https://www.esgtoday.com/rivian-partners-with-redwood-materials-to-power-ev-plant-with-recycled-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=rivian-partners-with-redwood-materials-to-power-ev-plant-with-recycled-batteries",
+      "publishedAt": "2026-04-15T16:02:59",
+      "content": "U.S.-based energy storage and battery materials provider Redwood Materials and electric vehicle maker Rivian announced"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ISS Sues Indiana Over New Law Targeting Proxy Advisers for Recommendations Against Management",
+      "description": "Investor services and proxy advisory company Institutional Shareholder Services (ISS) announced that it has filed a",
+      "url": "https://www.esgtoday.com/iss-sues-indiana-over-new-law-mandating-disclosures-for-proxy-advice-against-management/?utm_source=rss&utm_medium=rss&utm_campaign=iss-sues-indiana-over-new-law-mandating-disclosures-for-proxy-advice-against-management",
+      "publishedAt": "2026-04-15T15:03:59",
+      "content": "Investor services and proxy advisory company Institutional Shareholder Services (ISS) announced that it has filed a"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
+      "description": "Legally questionable confidentiality clause adopted almost word for word from demands of Microsoft and trade groupsMicrosoft and other US tech companies successfully lobbied the EU to hide the envi...",
+      "url": "https://www.theguardian.com/technology/2026/apr/17/microsoft-us-tech-firms-lobbied-eu-secrecy-rules-datacentre-emissions",
+      "publishedAt": "2026-04-17T06:00:24",
+      "content": "Legally questionable confidentiality clause adopted almost word for word from demands of Microsoft and trade groupsMicrosoft and other US tech companies successfully lobbied the EU to hide the envi..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "More than 15m oysters to be released in the North Sea for UK rewilding project",
+      "description": "Exclusive: Experts say scheme will help repair damaged marine ecosystems while sequestering large amounts of carbonMore than 15m juvenile oysters are to be released into the North Sea in one of the...",
+      "url": "https://www.theguardian.com/environment/2026/apr/17/more-than-15m-oysters-to-be-released-in-the-north-sea-for-uk-rewilding-project",
+      "publishedAt": "2026-04-17T06:00:23",
+      "content": "Exclusive: Experts say scheme will help repair damaged marine ecosystems while sequestering large amounts of carbonMore than 15m juvenile oysters are to be released into the North Sea in one of the..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A hardworking meadow that is surely worth saving | Mary Montague",
+      "description": "Lower Botanic Gardens, Belfast: A precious field here provides flood protection and carbon research, and has a productive community garden.",
+      "url": "https://www.theguardian.com/environment/2026/apr/17/country-diary-a-hardworking-meadow-that-is-surely-worth-saving",
+      "publishedAt": "2026-04-17T04:30:20",
+      "content": "Lower Botanic Gardens, Belfast: A precious field here provides flood protection and carbon research, and has a productive community garden."
     },
     {
       "source": {
@@ -257,116 +334,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Saving gorillas by helping humans",
-      "description": "In South West Uganda, mountain gorillas are being saved by helping humans.",
-      "url": "https://www.bbc.com/news/videos/cx2r19vx08go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-16T14:52:41",
-      "content": "In South West Uganda, mountain gorillas are being saved by helping humans."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Rising Gas Prices Make the Market Ripe for Electric Vehicles, but US Automakers Can’t Seize the Moment",
-      "description": "Over the weekend, on a family trip in central Kentucky, I paid more than $4 per gallon for gasoline for the first time during our current price spike.",
-      "url": "https://insideclimatenews.org/news/16042026/inside-clean-energy-gas-prices-evs/",
-      "publishedAt": "2026-04-16T13:00:00",
-      "content": "Over the weekend, on a family trip in central Kentucky, I paid more than $4 per gallon for gasoline for the first time during our current price spike."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Memoir, Fiction and the Natural World",
-      "description": "The third installment in our special Earth Day series What is it like to experience the pain and joy of being human at a moment when the richness of the planet’s life is deeply threatened? Author L...",
-      "url": "https://insideclimatenews.org/news/16042026/inside-climate-talks-lydia-millet/",
-      "publishedAt": "2026-04-16T08:50:00",
-      "content": "The third installment in our special Earth Day series What is it like to experience the pain and joy of being human at a moment when the richness of the planet’s life is deeply threatened? Author L..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Goldman Sachs-Backed LRQA Acquires Responsible Sourcing Advisory Partner Africa",
-      "description": "London-based assurance services provider LRQA announced the acquisition of responsible business advisory organization Partner Africa,",
-      "url": "https://www.esgtoday.com/goldman-sachs-backed-lrqa-acquires-responsible-sourcing-advisory-partner-africa/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-backed-lrqa-acquires-responsible-sourcing-advisory-partner-africa",
-      "publishedAt": "2026-04-16T07:05:31",
-      "content": "London-based assurance services provider LRQA announced the acquisition of responsible business advisory organization Partner Africa,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Rivian Partners with Redwood Materials to Power EV Plant with Recycled Batteries",
-      "description": "U.S.-based energy storage and battery materials provider Redwood Materials and electric vehicle maker Rivian announced",
-      "url": "https://www.esgtoday.com/rivian-partners-with-redwood-materials-to-power-ev-plant-with-recycled-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=rivian-partners-with-redwood-materials-to-power-ev-plant-with-recycled-batteries",
-      "publishedAt": "2026-04-15T16:02:59",
-      "content": "U.S.-based energy storage and battery materials provider Redwood Materials and electric vehicle maker Rivian announced"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Case IH Launches Nutri-Tiller 1000 Series To Boost Long-Term Soil Health in North America",
-      "description": "Case IH, a CNH brand, is now offering farmers in North America a new strip-till solution built on the proven agronomic performance of Case IH tillage equipment, delivering enhanced soil conservatio...",
-      "url": "https://csrwire.com/press-release/case-ih-launches-nutri-tiller-1000-series-boost-long-term-soil-health-north-america/",
-      "publishedAt": "2026-04-15T16:00:00",
-      "content": "Case IH, a CNH brand, is now offering farmers in North America a new strip-till solution built on the proven agronomic performance of Case IH tillage equipment, delivering enhanced soil conservatio..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ISS Sues Indiana Over New Law Targeting Proxy Advisers for Recommendations Against Management",
-      "description": "Investor services and proxy advisory company Institutional Shareholder Services (ISS) announced that it has filed a",
-      "url": "https://www.esgtoday.com/iss-sues-indiana-over-new-law-mandating-disclosures-for-proxy-advice-against-management/?utm_source=rss&utm_medium=rss&utm_campaign=iss-sues-indiana-over-new-law-mandating-disclosures-for-proxy-advice-against-management",
-      "publishedAt": "2026-04-15T15:03:59",
-      "content": "Investor services and proxy advisory company Institutional Shareholder Services (ISS) announced that it has filed a"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Power Plant 101: How a Power Plant Is Built and Brought Online",
-      "description": "There’s a lot of talk these days about how New Jersey needs more power generation to supply its growing needs. Ever wonder how a power plant gets built?",
-      "url": "https://csrwire.com/press-release/power-plant-101-how-power-plant-built-and-brought-online/",
-      "publishedAt": "2026-04-15T08:33:00",
-      "content": "There’s a lot of talk these days about how New Jersey needs more power generation to supply its growing needs. Ever wonder how a power plant gets built?"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Three Rural Alabama Hospitals Benefit From $500K Georgia-Pacific Donation",
-      "description": "In the midst of widespread funding shortfalls for most rural Alabama hospitals, Georgia-Pacific operations in Escambia and Monroe counties are helping hospitals there with a much-needed funding boost.",
-      "url": "https://csrwire.com/press-release/three-rural-alabama-hospitals-benefit-500k-georgia-pacific-donation/",
-      "publishedAt": "2026-04-14T16:15:00",
-      "content": "In the midst of widespread funding shortfalls for most rural Alabama hospitals, Georgia-Pacific operations in Escambia and Monroe counties are helping hospitals there with a much-needed funding boost."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Responsible Business Alliance and Global Electronics Association Publish GHG Emissions Reporting Guidance",
-      "description": "Responsible Business Alliance and Global Electronics Association Publish GHG Emissions Reporting Guidance",
-      "url": "https://csrwire.com/press-release/responsible-business-alliance-and-global-electronics-association-publish-ghg-emissions/",
-      "publishedAt": "2026-04-14T08:30:00",
-      "content": "Responsible Business Alliance and Global Electronics Association Publish GHG Emissions Reporting Guidance"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -381,77 +348,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "How South Korea plans to use the Iran crisis to spur a renewables revolution",
-      "description": "Energy crisis unfolding in Middle East has added political urgency, and more funding, to transform South Korea’s solar industryIn Guyang-ri, a farming village of 70 households about 90 minutes sout...",
-      "url": "https://www.theguardian.com/world/2026/apr/16/south-korea-solar-power-renewables-revolution",
-      "publishedAt": "2026-04-16T03:09:28",
-      "content": "Energy crisis unfolding in Middle East has added political urgency, and more funding, to transform South Korea’s solar industryIn Guyang-ri, a farming village of 70 households about 90 minutes sout..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Gray whales, once rare in San Francisco Bay, dying there at alarming rates",
-      "description": "Researchers find increase in whale deaths in the bay, largely because of collisions with vessels on busy shipping routeGray whales have historically been a rare sight in the San Francisco Bay. They...",
-      "url": "https://www.theguardian.com/us-news/2026/apr/15/gray-whales-san-francisco-bay",
-      "publishedAt": "2026-04-15T21:45:57",
-      "content": "Researchers find increase in whale deaths in the bay, largely because of collisions with vessels on busy shipping routeGray whales have historically been a rare sight in the San Francisco Bay. They..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "Critical Atlantic current significantly more likely to collapse than thought",
       "description": "Scientists say finding is ‘very concerning’ as collapse would be catastrophic for Europe, Africa and the AmericasThe critical Atlantic current system appears significantly more likely to collapse t...",
       "url": "https://www.theguardian.com/environment/2026/apr/15/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought",
       "publishedAt": "2026-04-15T18:00:34",
       "content": "Scientists say finding is ‘very concerning’ as collapse would be catastrophic for Europe, Africa and the AmericasThe critical Atlantic current system appears significantly more likely to collapse t..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Over-the-counter pet flea treatments could be banned under new UK rules",
-      "description": "Exclusive: ministers consider restricting pesticide-based treatments, which can get into waterways and harm wildlifePet owners across the UK could be banned from buying flea treatment for cats and ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/15/over-the-counter-pet-flea-treatments-could-be-banned-under-new-uk-rules",
-      "publishedAt": "2026-04-15T17:00:34",
-      "content": "Exclusive: ministers consider restricting pesticide-based treatments, which can get into waterways and harm wildlifePet owners across the UK could be banned from buying flea treatment for cats and ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "New footage shows moment Orion capsule hatch is opened at sea",
-      "description": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a joyful reunion with the four astronauts.",
-      "url": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-14T16:12:27",
-      "content": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a joyful reunion with the four astronauts."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Newsweek: Medtronic Built a Care Platform for Ghana. Now, It’s Working in New Jersey",
-      "description": "Alexis Kayser, Healthcare Editor at Newsweek, recently connected with Geoff Martha, CEO of Medtronic, and Dennis Pullin, CEO of Virtua Health, to learn how they transformed a tactic used in Kenya, ...",
-      "url": "https://csrwire.com/press-release/newsweek-medtronic-built-care-platform-ghana-now-its-working-new-jersey/",
-      "publishedAt": "2026-04-13T16:15:00",
-      "content": "Alexis Kayser, Healthcare Editor at Newsweek, recently connected with Geoff Martha, CEO of Medtronic, and Dennis Pullin, CEO of Virtua Health, to learn how they transformed a tactic used in Kenya, ..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "African Women Make Economic Gains Through Global Gig Economy",
-      "description": "Women make up about 27 percent of Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit",
-      "url": "https://triplepundit.com/2026/gig-economy-african-women-global-work/",
-      "publishedAt": "2026-04-10T13:00:00",
-      "content": "Women make up about 27 percent of Africa’s online gig workforce. They're part of a generation redefining what work looks like across continent.TriplePundit"
     }
   ]
 }
