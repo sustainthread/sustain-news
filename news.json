@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 41,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Most Businesses Maintaining Climate Action, but Reframing Messaging on Net Zero: Survey",
-      "description": "Most businesses are reframing their communication on their net zero action to focus on resilience",
-      "url": "https://www.esgtoday.com/most-businesses-maintaining-climate-action-but-reframing-messaging-on-net-zero-survey/?utm_source=rss&utm_medium=rss&utm_campaign=most-businesses-maintaining-climate-action-but-reframing-messaging-on-net-zero-survey",
-      "publishedAt": "2026-04-21T13:27:18",
-      "content": "Most businesses are reframing their communication on their net zero action to focus on resilience"
-    },
     {
       "source": {
         "name": "Good On You"
@@ -23,17 +12,6 @@
       "url": "https://goodonyou.eco/whats-new-in-sustainable-fashion-this-april-2026/",
       "publishedAt": "2026-04-23T03:31:00",
       "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Major Livestock and Animal Agriculture Companies Are Making Climate Promises They Aren’t Keeping",
-      "description": "Five years ago, the world’s largest meat company took out a full-page ad in The New York Times, making a bold claim: “Bacon, chicken wings, and steak with net zero emissions. It’s possible.” But ac...",
-      "url": "https://insideclimatenews.org/news/22042026/major-livestock-companies-failed-climate-promises/",
-      "publishedAt": "2026-04-22T18:37:26",
-      "content": "Five years ago, the world’s largest meat company took out a full-page ad in The New York Times, making a bold claim: “Bacon, chicken wings, and steak with net zero emissions. It’s possible.” But ac..."
     },
     {
       "source": {
@@ -48,25 +26,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "Five Years Later: How Chemours’ Forest Partnership in West Virginia Is Delivering Measurable Climate and Community Impact",
-      "description": "In 2021, Chemours made a commitment to pair climate action with community investment.",
-      "url": "https://csrwire.com/press-release/five-years-later-how-chemours-forest-partnership-west-virginia-delivering-measurable-climate/",
-      "publishedAt": "2026-04-21T08:00:00",
-      "content": "In 2021, Chemours made a commitment to pair climate action with community investment."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Green roofs in Chennai: A climate solution to tackle rising heatwaves in Tamil Nadu",
-      "description": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning",
-      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/green-roofs-in-chennai-a-climate-solution-to-tackle-rising-heatwaves-in-tamil-nadu/article70783185.ece",
-      "publishedAt": "2026-04-22T18:32:17",
-      "content": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning"
+      "author": "Inside Climate News",
+      "title": "Major Livestock and Animal Agriculture Companies Are Making Climate Promises They Aren’t Keeping",
+      "description": "Five years ago, the world’s largest meat company took out a full-page ad in The New York Times, making a bold claim: “Bacon, chicken wings, and steak with net zero emissions. It’s possible.” But ac...",
+      "url": "https://insideclimatenews.org/news/22042026/major-livestock-companies-failed-climate-promises/",
+      "publishedAt": "2026-04-22T18:37:26",
+      "content": "Five years ago, the world’s largest meat company took out a full-page ad in The New York Times, making a bold claim: “Bacon, chicken wings, and steak with net zero emissions. It’s possible.” But ac..."
     },
     {
       "source": {
@@ -84,33 +51,66 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Exergy3 Raises $13.5 Million to Decarbonize Industrial Heat with Unused Renewable Energy",
-      "description": "Cleantech startup Exergy3 announced that it has raised £10 million (USD$13.5 million) in a seed",
-      "url": "https://www.esgtoday.com/exergy3-raises-13-5-million-to-decarbonize-industrial-heat-with-unused-renewable-energy/?utm_source=rss&utm_medium=rss&utm_campaign=exergy3-raises-13-5-million-to-decarbonize-industrial-heat-with-unused-renewable-energy",
-      "publishedAt": "2026-04-21T15:06:44",
-      "content": "Cleantech startup Exergy3 announced that it has raised £10 million (USD$13.5 million) in a seed"
+      "title": "GM Achieves 100% Renewable Electricity Goal in U.S.",
+      "description": "GM announced a new clean energy milestone, with the company securing 100% of the energy",
+      "url": "https://www.esgtoday.com/gm-achieves-100-renewable-energy-powered-electricity-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=gm-achieves-100-renewable-energy-powered-electricity-in-u-s",
+      "publishedAt": "2026-04-23T10:47:31",
+      "content": "GM announced a new clean energy milestone, with the company securing 100% of the energy"
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Green roofs in Chennai: A climate solution to tackle rising heatwaves in Tamil Nadu",
+      "description": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning",
+      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/green-roofs-in-chennai-a-climate-solution-to-tackle-rising-heatwaves-in-tamil-nadu/article70783185.ece",
+      "publishedAt": "2026-04-22T18:32:17",
+      "content": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "bp Shareholders Defeat Resolution Aimed at Reducing Climate Disclosures",
+      "description": "bp shareholders resoundingly defeated two resolutions proposed by the energy giant at its annual general",
+      "url": "https://www.esgtoday.com/bp-shareholders-defeat-resolution-aimed-at-reducing-climate-disclosures/?utm_source=rss&utm_medium=rss&utm_campaign=bp-shareholders-defeat-resolution-aimed-at-reducing-climate-disclosures",
+      "publishedAt": "2026-04-23T13:53:28",
+      "content": "bp shareholders resoundingly defeated two resolutions proposed by the energy giant at its annual general"
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "As Climate Disasters Create an Insurance Crisis, a California Bill Seeks to Make Fossil Fuel Companies Pay",
-      "description": "Mary Creasman had insurance on her mind as she made her way to the California Capitol on Earth Day.",
-      "url": "https://insideclimatenews.org/news/22042026/california-disaster-insurance-bill/",
-      "publishedAt": "2026-04-23T01:07:51",
-      "content": "Mary Creasman had insurance on her mind as she made her way to the California Capitol on Earth Day."
+      "title": "Ohio Is Where Wind and Solar Projects Go to Die, and Other Findings From New Research on State Permitting",
+      "description": "Ohio resembles a torture chamber for renewable energy developers, according to new research that examines how regulators in 19 states handle wind and solar project applications. The Buckeye State h...",
+      "url": "https://insideclimatenews.org/news/23042026/inside-clean-energy-ohio-permit-rejections/",
+      "publishedAt": "2026-04-23T13:00:00",
+      "content": "Ohio resembles a torture chamber for renewable energy developers, according to new research that examines how regulators in 19 states handle wind and solar project applications. The Buckeye State h..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "What is a ‘super El Niño’ and what might it mean for the global climate?",
+      "description": "In this week’s newsletter: Experts are predicting a stronger version of the weather pattern this year, which could supercharge extreme events and see temperature rises breach 1.5C• Don’t get Down t...",
+      "url": "https://www.theguardian.com/environment/2026/apr/23/down-to-earth-super-el-nino-extreme-weather",
+      "publishedAt": "2026-04-24T06:00:33",
+      "content": "In this week’s newsletter: Experts are predicting a stronger version of the weather pattern this year, which could supercharge extreme events and see temperature rises breach 1.5C• Don’t get Down t..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "An Installation in Nature has Climate Lessons for Humans",
-      "description": "With lichen, mechanical artwork and a barrel of snowflakes, “Climate Clock” will wind along a trail through the forests across Oulu, Finland.",
-      "url": "https://www.nytimes.com/2026/04/21/arts/design/finland-climate-clock.html",
-      "publishedAt": "2026-04-22T08:54:36",
-      "content": "With lichen, mechanical artwork and a barrel of snowflakes, “Climate Clock” will wind along a trail through the forests across Oulu, Finland."
+      "title": "How the Supreme Court’s Shadow Docket Upended Climate Policy",
+      "description": "The Times unearthed memos that signaled a major shift in the court’s operations, in a decision that critics say was rushed and flawed.",
+      "url": "https://www.nytimes.com/2026/04/23/climate/supreme-court-climate-shadow-docket.html",
+      "publishedAt": "2026-04-23T19:17:54",
+      "content": "The Times unearthed memos that signaled a major shift in the court’s operations, in a decision that critics say was rushed and flawed."
     },
     {
       "source": {
@@ -125,17 +125,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Eiffel Launches New Short Term Green Bond Fund",
-      "description": "Paris-based asset manager Eiffel Investment Group announced the launch of Eiffel Short Term Green Bonds,",
-      "url": "https://www.esgtoday.com/eiffel-launches-new-short-term-green-bond-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eiffel-launches-new-short-term-green-bond-fund",
-      "publishedAt": "2026-04-21T14:00:43",
-      "content": "Paris-based asset manager Eiffel Investment Group announced the launch of Eiffel Short Term Green Bonds,"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -147,58 +136,146 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "New Georgia Map Tool Offers Local Climate Change Insights",
-      "description": "Local leaders across Georgia can now see a more detailed picture of what impacts to expect from climate change with a new map tool released by Drawdown Georgia.",
-      "url": "https://csrwire.com/press-release/new-georgia-map-tool-offers-local-climate-change-insights/",
-      "publishedAt": "2026-04-20T09:40:00",
-      "content": "Local leaders across Georgia can now see a more detailed picture of what impacts to expect from climate change with a new map tool released by Drawdown Georgia."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Vienna Climate Biennale Contrasts Chaos with Hope",
-      "description": "In a world marked by ecological, social and political crises, the art festival aims to get people talking, thinking and ready to imagine a better world.",
-      "url": "https://www.nytimes.com/2026/04/21/arts/design/vienna-climate-biennale-2026.html",
-      "publishedAt": "2026-04-22T03:18:38",
-      "content": "In a world marked by ecological, social and political crises, the art festival aims to get people talking, thinking and ready to imagine a better world."
+      "author": "ESG Today",
+      "title": "ISSB Decides to Develop Non-Mandatory Nature-Related Reporting Requirements",
+      "description": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced that it has decided to proceed with",
+      "url": "https://www.esgtoday.com/issb-decides-to-develop-non-mandatory-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-decides-to-develop-non-mandatory-nature-related-reporting-requirements",
+      "publishedAt": "2026-04-23T09:23:03",
+      "content": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced that it has decided to proceed with"
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "This Growing Climate Threat Could Be Increasing Your Blood Pressure",
-      "description": "Anyone who has ever been told to lower their sodium intake knows they have to cut back on the usual salty suspects, from potato chips to deli meats.",
-      "url": "https://insideclimatenews.org/news/21042026/todays-climate-salt-freshwater-health-risks/",
-      "publishedAt": "2026-04-21T21:46:29",
-      "content": "Anyone who has ever been told to lower their sodium intake knows they have to cut back on the usual salty suspects, from potato chips to deli meats."
+      "title": "As Climate Disasters Create an Insurance Crisis, a California Bill Seeks to Make Fossil Fuel Companies Pay",
+      "description": "Mary Creasman had insurance on her mind as she made her way to the California Capitol on Earth Day.",
+      "url": "https://insideclimatenews.org/news/22042026/california-disaster-insurance-bill/",
+      "publishedAt": "2026-04-23T01:07:51",
+      "content": "Mary Creasman had insurance on her mind as she made her way to the California Capitol on Earth Day."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
+      "description": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
+      "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-24T05:42:44",
+      "content": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Sewage Spill Is Over, But Contamination Lingers In Potomac",
+      "description": "Though river monitoring shows bacteria levels have declined, scientists and environmentalists said a full recovery isn’t yet assured.",
+      "url": "https://www.nytimes.com/2026/04/23/climate/potomac-river-sewage-contamination.html",
+      "publishedAt": "2026-04-23T21:49:08",
+      "content": "Though river monitoring shows bacteria levels have declined, scientists and environmentalists said a full recovery isn’t yet assured."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Scaling climate adaptation from policy to grassroots",
+      "description": "Adaptation can be advanced through coordinated governance, finance and local efforts",
+      "url": "https://www.thehindu.com/opinion/op-ed/scaling-climate-adaptation-from-policy-to-grassroots/article70898407.ece",
+      "publishedAt": "2026-04-23T19:10:57",
+      "content": "Adaptation can be advanced through coordinated governance, finance and local efforts"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A New Bureau Will Oversee Both Offshore Drilling and Seabed Mining",
+      "description": "The new federal office will undo a change made after the 2010 Deepwater Horizon oil disaster. Critics say it could reduce environmental oversight.",
+      "url": "https://www.nytimes.com/2026/04/23/climate/seabed-mining-interior-department.html",
+      "publishedAt": "2026-04-23T17:33:53",
+      "content": "The new federal office will undo a change made after the 2010 Deepwater Horizon oil disaster. Critics say it could reduce environmental oversight."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Tracking Deforestation and Land Use Change with Satellite Imagery: Implications for ESG Compliance",
-      "description": "Guest post by: Kateryna Sergieieva, Data Scientist at EOS Data Analytics In today’s world, sustainability",
-      "url": "https://www.esgtoday.com/tracking-deforestation-and-land-use-change-with-satellite-imagery-implications-for-esg-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=tracking-deforestation-and-land-use-change-with-satellite-imagery-implications-for-esg-compliance",
-      "publishedAt": "2026-04-21T08:24:07",
-      "content": "Guest post by: Kateryna Sergieieva, Data Scientist at EOS Data Analytics In today’s world, sustainability"
+      "title": "Lime Rock New Energy Raises $640 Million for Energy Transition Private Equity Fund",
+      "description": "Growth-focused private equity investor Lime Rock New Energy (LRNE) announced the final close of Lime",
+      "url": "https://www.esgtoday.com/lime-rock-new-energy-raises-640-million-for-energy-transition-private-equity-fund/?utm_source=rss&utm_medium=rss&utm_campaign=lime-rock-new-energy-raises-640-million-for-energy-transition-private-equity-fund",
+      "publishedAt": "2026-04-23T15:21:24",
+      "content": "Growth-focused private equity investor Lime Rock New Energy (LRNE) announced the final close of Lime"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "ISSB Staff Recommend Non-Mandatory Nature Reporting Practice Statement Instead of Standalone Standard",
-      "description": "Staff members at the IFRS Foundation’s International Sustainability Standards Board (ISSB) have recommended that the",
-      "url": "https://www.esgtoday.com/issb-staff-recommend-non-mandatory-nature-reporting-statement-instead-of-standalone-standard/?utm_source=rss&utm_medium=rss&utm_campaign=issb-staff-recommend-non-mandatory-nature-reporting-statement-instead-of-standalone-standard",
-      "publishedAt": "2026-04-20T15:33:45",
-      "content": "Staff members at the IFRS Foundation’s International Sustainability Standards Board (ISSB) have recommended that the"
+      "title": "Meta Signs 1 GW Energy Storage Deal to Power Data Centers",
+      "description": "Meta announced an agreement with ultra-long duration energy storage company Noon Energy, reserving up to",
+      "url": "https://www.esgtoday.com/meta-signs-1-gw-energy-storage-deal-to-power-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=meta-signs-1-gw-energy-storage-deal-to-power-data-centers",
+      "publishedAt": "2026-04-23T14:23:00",
+      "content": "Meta announced an agreement with ultra-long duration energy storage company Noon Energy, reserving up to"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Signs 685,000 Ton Carbon Credit Deal to Reduce Emissions from Rice Farming in India",
+      "description": "Amazon announced that it has entered into a long-term carbon credit offtake agreement with The",
+      "url": "https://www.esgtoday.com/amazon-signs-685000-ton-carbon-credit-deal-to-reduce-emissions-from-rice-farming-in-india/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-signs-685000-ton-carbon-credit-deal-to-reduce-emissions-from-rice-farming-in-india",
+      "publishedAt": "2026-04-23T11:56:13",
+      "content": "Amazon announced that it has entered into a long-term carbon credit offtake agreement with The"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "IWBI Supports Future-Ready Facilities Grant to Modernize U.S. School Infrastructure",
+      "description": "A new initiative launched by Attune is designed to address a growing challenge across the United States: aging school facilities that lack visibility into critical building performance metrics.",
+      "url": "https://csrwire.com/press-release/iwbi-supports-future-ready-facilities-grant-modernize-us-school-infrastructure/",
+      "publishedAt": "2026-04-23T11:35:00",
+      "content": "A new initiative launched by Attune is designed to address a growing challenge across the United States: aging school facilities that lack visibility into critical building performance metrics."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU to Set “Ambitious” Electrification Target to Accelerate Transition Away from Fossil Fuels",
+      "description": "The European Commission presented its new “AccelerateEU” strategy, outlining a series of proposed actions aimed",
+      "url": "https://www.esgtoday.com/eu-to-set-ambitious-electrification-target-to-accelerate-transition-away-from-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=eu-to-set-ambitious-electrification-target-to-accelerate-transition-away-from-fossil-fuels",
+      "publishedAt": "2026-04-23T11:32:56",
+      "content": "The European Commission presented its new “AccelerateEU” strategy, outlining a series of proposed actions aimed"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Delivering Impact Where It Counts, With Futurpreneur",
+      "description": "When young entrepreneurs have the right support at the right time, ideas turn into businesses. That belief underpins the collaboration between FedEx and Futurpreneur",
+      "url": "https://csrwire.com/press-release/delivering-impact-where-it-counts-futurpreneur/",
+      "publishedAt": "2026-04-23T11:00:00",
+      "content": "When young entrepreneurs have the right support at the right time, ideas turn into businesses. That belief underpins the collaboration between FedEx and Futurpreneur"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Prioritizing Security, Privacy, and Trust in the AI Era | Cisco FY25 Purpose Report",
+      "description": "As innovation accelerates, the need for strong security, data protection, and privacy has never been more critical.",
+      "url": "https://csrwire.com/press-release/prioritizing-security-privacy-and-trust-ai-era-cisco-fy25-purpose-report/",
+      "publishedAt": "2026-04-23T10:45:00",
+      "content": "As innovation accelerates, the need for strong security, data protection, and privacy has never been more critical."
     },
     {
       "source": {
@@ -213,6 +290,116 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Meet the 19-metre octopus that prowled the ancient seas",
+      "description": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence.",
+      "url": "https://www.bbc.com/news/articles/cyv1rgm16r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-23T18:04:39",
+      "content": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Corpus Christi Plans to Declare a ‘Water Emergency.’ What Does That Mean?",
+      "description": "This story was published in partnership with the Texas Newsroom, the state’s network of public radio stations.",
+      "url": "https://insideclimatenews.org/news/23042026/corpus-christi-water-emergency-explainer/",
+      "publishedAt": "2026-04-23T17:13:34",
+      "content": "This story was published in partnership with the Texas Newsroom, the state’s network of public radio stations."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Oilfield Leak Springs Under a Permian Basin Baptist Church",
+      "description": "Salty water is gurgling up from underground in the middle of the small Permian Basin town of Grandfalls, Texas.",
+      "url": "https://insideclimatenews.org/news/23042026/west-texas-permian-basin-oilfield-leak/",
+      "publishedAt": "2026-04-23T17:08:54",
+      "content": "Salty water is gurgling up from underground in the middle of the small Permian Basin town of Grandfalls, Texas."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "China Publishes Maps Detailing Minerals on the Ocean Floor",
+      "description": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters.",
+      "url": "https://www.nytimes.com/2026/04/23/climate/china-seabed-mining-maps-rare-earths.html",
+      "publishedAt": "2026-04-23T16:12:49",
+      "content": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Bonobos enjoy pretend tea parties and chimps think rationally: why apes are more like us than we ever thought",
+      "description": "A series of stunning findings about great apes’ mental capabilities in recent years has transformed how we see our closest relativesClear plastic cups and pitchers adorned the wooden table in Des M...",
+      "url": "https://www.theguardian.com/environment/2026/apr/23/apes-behaviour-bonobo-chimpanzee-humans-science-aoe",
+      "publishedAt": "2026-04-23T09:00:06",
+      "content": "A series of stunning findings about great apes’ mental capabilities in recent years has transformed how we see our closest relativesClear plastic cups and pitchers adorned the wooden table in Des M..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Southwire Canada Advances Education Through Wired for the Future Scholarship",
+      "description": "Southwire Canada is proud to support the next generation of talent through Southwire’s Wired for the Future Scholarship via Electro Federation Canada’s (EFC) scholarship platform.",
+      "url": "https://csrwire.com/press-release/southwire-canada-advances-education-through-wired-future-scholarship/",
+      "publishedAt": "2026-04-23T07:15:00",
+      "content": "Southwire Canada is proud to support the next generation of talent through Southwire’s Wired for the Future Scholarship via Electro Federation Canada’s (EFC) scholarship platform."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Use of toxic Pfas in consumer goods must be urgently restricted, MPs say",
+      "description": "Commons committee heard from residents of Yorkshire town with the highest levels of ‘forever chemicals’ in UKOn 15 January, members of the House of Commons environmental audit committee (EAC) visit...",
+      "url": "https://www.theguardian.com/environment/2026/apr/23/use-of-toxic-pfas-in-consumer-goods-must-be-urgently-restricted-mps-say",
+      "publishedAt": "2026-04-23T04:00:46",
+      "content": "Commons committee heard from residents of Yorkshire town with the highest levels of ‘forever chemicals’ in UKOn 15 January, members of the House of Commons environmental audit committee (EAC) visit..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mary Kay Hosts Largest-Ever Women in STEM Day at the Mary Kay Global Manufacturing and Research & Development Center To Inspire Future STEM Leaders",
+      "description": "Mary Kay welcomed nearly 100 sophomore girls and faculty from Lewisville Independent School District, along with Mayor of Lewisville, and representatives from local and national elected officials’ ...",
+      "url": "https://csrwire.com/press-release/mary-kay-hosts-largest-ever-women-stem-day-mary-kay-global-manufacturing-and-research/",
+      "publishedAt": "2026-04-21T08:00:00",
+      "content": "Mary Kay welcomed nearly 100 sophomore girls and faculty from Lewisville Independent School District, along with Mayor of Lewisville, and representatives from local and national elected officials’ ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A tree can define a landscape – even when it has fallen | Paul Evans",
+      "description": "The Marches, Shropshire: Recently I had wondered how long this great lime would stay standing.",
+      "url": "https://www.theguardian.com/environment/2026/apr/23/country-diary-a-tree-can-define-a-landscape-even-when-it-has-fallen",
+      "publishedAt": "2026-04-23T04:30:00",
+      "content": "The Marches, Shropshire: Recently I had wondered how long this great lime would stay standing."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Pacific ashtray’: Australian billionaire’s plan to ship and burn waste in Fiji condemned by villagers",
+      "description": "After his project got rejected in Sydney, a rubbish disposal magnate now hopes to build a $630m port and waste incinerator near a tourist gateway cityAn Australian billionaire’s plan to burn rubbis...",
+      "url": "https://www.theguardian.com/world/2026/apr/23/waste-incinerator-fiji-plan-australians-ian-malouf-rob-cromb-kookai",
+      "publishedAt": "2026-04-23T01:34:43",
+      "content": "After his project got rejected in Sydney, a rubbish disposal magnate now hopes to build a $630m port and waste incinerator near a tourist gateway cityAn Australian billionaire’s plan to burn rubbis..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -221,17 +408,6 @@
       "url": "https://www.nytimes.com/2026/04/22/climate/clothing-recycling-trashie-helpsy.html",
       "publishedAt": "2026-04-23T00:49:55",
       "content": "Collection services offer convenience, but most garments are shredded into low-grade stuffing or sent abroad to an uncertain fate."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Wildfires in Georgia Destroy Homes and Set Off Evacuations",
-      "description": "The fires are also causing poor air quality, expected to last into at least Thursday, for a corner of the Southeast.",
-      "url": "https://www.nytimes.com/2026/04/22/us/georgia-wildfires-evacuations-homes-destroyed-smoke.html",
-      "publishedAt": "2026-04-23T00:16:10",
-      "content": "The fires are also causing poor air quality, expected to last into at least Thursday, for a corner of the Southeast."
     },
     {
       "source": {
@@ -257,94 +433,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fury in Cornwall over herbicide plan to tackle weeds",
-      "description": "Council proposal to use glyphosate to tidy up pavements criticised over potential harm to humans and wildlifeCornwall is famed for its glorious gardens and verdant landscapes but a bitter row has b...",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/22/weeds-cornwall-glyphosate-herbicide-protest",
-      "publishedAt": "2026-04-22T09:00:53",
-      "content": "Council proposal to use glyphosate to tidy up pavements criticised over potential harm to humans and wildlifeCornwall is famed for its glorious gardens and verdant landscapes but a bitter row has b..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "At Water Week 2026, Local Leaders See a Glimmer of Hope",
-      "description": "Municipal water system leaders and nonprofits gathered in Washington, D.",
-      "url": "https://insideclimatenews.org/news/22042026/water-week-2026-hopeful-outlook/",
-      "publishedAt": "2026-04-22T09:00:00",
-      "content": "Municipal water system leaders and nonprofits gathered in Washington, D."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Almost Half of America’s Kids Are Breathing Toxic Air",
-      "description": "Nearly half the nation’s children live in places with dangerous levels of air pollution, according to a report released Wednesday by the American Lung Association. That’s 33.5 million children—46 p...",
-      "url": "https://insideclimatenews.org/news/22042026/american-lung-association-toxic-air-annual-report/",
-      "publishedAt": "2026-04-22T04:01:00",
-      "content": "Nearly half the nation’s children live in places with dangerous levels of air pollution, according to a report released Wednesday by the American Lung Association. That’s 33.5 million children—46 p..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The security report the UK government doesn’t want you to see – podcast",
-      "description": "Fiona Harvey tells Nosheen Iqbal why the climate crisis is a threat to national security“Last October, I and other journalists got quite excited because we thought that we were going to be attendin...",
-      "url": "https://www.theguardian.com/environment/audio/2026/apr/22/national-security-report-uk-government-climate-crisis-podcast",
-      "publishedAt": "2026-04-22T02:00:05",
-      "content": "Fiona Harvey tells Nosheen Iqbal why the climate crisis is a threat to national security“Last October, I and other journalists got quite excited because we thought that we were going to be attendin..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Transco Pipeline Project Faces Legal Challenge",
-      "description": "Five environmental groups are petitioning a federal appeals court to invalidate a water quality permit issued by the U.",
-      "url": "https://insideclimatenews.org/news/21042026/transco-southeast-pipeline-lawsuit/",
-      "publishedAt": "2026-04-21T19:59:37",
-      "content": "Five environmental groups are petitioning a federal appeals court to invalidate a water quality permit issued by the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Welsh farmers launch landmark claim against ‘intimidating’ pylon firm",
-      "description": "About 500 farmers challenge Green Gen Cymru in high court over alleged disregard for landowners and biosecurityA group of 500 Welsh farmers have brought a landmark legal claim to the high court ove...",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/21/welsh-farmers-legal-claim-green-gen-cymru",
-      "publishedAt": "2026-04-21T14:22:34",
-      "content": "About 500 farmers challenge Green Gen Cymru in high court over alleged disregard for landowners and biosecurityA group of 500 Welsh farmers have brought a landmark legal claim to the high court ove..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Mangrove Systems Acquires Biochar Carbon Removal Platform Grain Ecosystem",
-      "description": "Carbon removal measurement, reporting, and verification (dMRV) platform Mangrove Systems announced the acquisition of operating",
-      "url": "https://www.esgtoday.com/mangrove-systems-acquires-biochar-carbon-removal-platform-grain-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=mangrove-systems-acquires-biochar-carbon-removal-platform-grain-ecosystem",
-      "publishedAt": "2026-04-21T09:56:14",
-      "content": "Carbon removal measurement, reporting, and verification (dMRV) platform Mangrove Systems announced the acquisition of operating"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mary Kay Hosts Largest-Ever Women in STEM Day at the Mary Kay Global Manufacturing and Research & Development Center To Inspire Future STEM Leaders",
-      "description": "Mary Kay welcomed nearly 100 sophomore girls and faculty from Lewisville Independent School District, along with Mayor of Lewisville, and representatives from local and national elected officials’ ...",
-      "url": "https://csrwire.com/press-release/mary-kay-hosts-largest-ever-women-stem-day-mary-kay-global-manufacturing-and-research/",
-      "publishedAt": "2026-04-21T08:00:00",
-      "content": "Mary Kay welcomed nearly 100 sophomore girls and faculty from Lewisville Independent School District, along with Mayor of Lewisville, and representatives from local and national elected officials’ ..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -356,28 +444,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A beekeeper’s lament – ‘Why did none of my bees survive winter?’ | Tom Allan",
-      "description": "St Mabyn, Cornwall: Many apiarists opened their hives this spring to find hardly any sign of life.",
-      "url": "https://www.theguardian.com/environment/2026/apr/22/country-diary-a-beekeepers-lament-why-did-none-of-my-bees-survive-winter",
-      "publishedAt": "2026-04-22T04:30:08",
-      "content": "St Mabyn, Cornwall: Many apiarists opened their hives this spring to find hardly any sign of life."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Florida Electricity Shutoffs Rank Among Nation’s Highest",
-      "description": "Florida households had their electricity shut off some 2.",
-      "url": "https://insideclimatenews.org/news/21042026/florida-electricity-customer-shutoffs/",
-      "publishedAt": "2026-04-22T00:09:20",
-      "content": "Florida households had their electricity shut off some 2."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -386,50 +452,6 @@
       "url": "https://www.nytimes.com/2026/04/21/climate/rainforests-deforestation-fast-recovery.html",
       "publishedAt": "2026-04-21T18:21:11",
       "content": "Scientists long believed it would take more than a century for animals to return to deforested land. New research shows that’s not always the case."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How to Get Involved in Fashion Revolution Week 2026",
-      "description": "April means Fashion Revolution Week is upon us.",
-      "url": "https://goodonyou.eco/fashion-revolution-week-events/",
-      "publishedAt": "2026-04-21T02:00:32",
-      "content": "April means Fashion Revolution Week is upon us."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Energy for a Better Future: Our 2025 Corporate Citizenship Impact",
-      "description": "April is Volunteer Month, and we're proud to reflect on an incredible year of giving back.",
-      "url": "https://csrwire.com/press-release/energy-better-future-our-2025-corporate-citizenship-impact/",
-      "publishedAt": "2026-04-17T10:50:00",
-      "content": "April is Volunteer Month, and we're proud to reflect on an incredible year of giving back."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "In the Fight to Defend the Amazon, This Indigenous Community’s Secret Weapon Is Science",
-      "description": "In the copper-rich mountains of southeastern Ecuador, Shuar people are combining ancestral knowledge and modern science to protect their forest from a Canadian mining giant.TriplePundit",
-      "url": "https://triplepundit.com/2026/ecosystem-conservation-rights-of-nature-ecuador-copper-mine/",
-      "publishedAt": "2026-04-16T17:55:04",
-      "content": "In the copper-rich mountains of southeastern Ecuador, Shuar people are combining ancestral knowledge and modern science to protect their forest from a Canadian mining giant.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "LA Galaxy and City National Bank Expand Wildfire Recovery Efforts With New Mini-Pitch for Pasadena Youth",
-      "description": "The LA Galaxy and City National Bank are building upon their existing partnership with the launch of a brand-new mini-pitch at Octavia E.",
-      "url": "https://csrwire.com/press-release/la-galaxy-and-city-national-bank-expand-wildfire-recovery-efforts-new-mini-pitch-pasadena/",
-      "publishedAt": "2026-04-16T15:40:00",
-      "content": "The LA Galaxy and City National Bank are building upon their existing partnership with the launch of a brand-new mini-pitch at Octavia E."
     }
   ]
 }
