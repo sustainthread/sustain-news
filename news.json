@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 38,
   "articles": [
     {
       "source": {
@@ -26,6 +26,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How to Think About the Extractive Problem of Lithium Mining",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Thea Riofrancos, the author of “Extraction: The Frontiers of Green Ca...",
+      "url": "https://insideclimatenews.org/news/25042026/ev-lithium-mining-problems/",
+      "publishedAt": "2026-04-25T08:55:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Thea Riofrancos, the author of “Extraction: The Frontiers of Green Ca..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "GM Achieves 100% Renewable Electricity Goal in U.S.",
+      "description": "GM announced a new clean energy milestone, with the company securing 100% of the energy",
+      "url": "https://www.esgtoday.com/gm-achieves-100-renewable-energy-powered-electricity-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=gm-achieves-100-renewable-energy-powered-electricity-in-u-s",
+      "publishedAt": "2026-04-23T10:47:31",
+      "content": "GM announced a new clean energy milestone, with the company securing 100% of the energy"
+    },
+    {
+      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
@@ -34,6 +56,28 @@
       "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/green-roofs-in-chennai-a-climate-solution-to-tackle-rising-heatwaves-in-tamil-nadu/article70783185.ece",
       "publishedAt": "2026-04-22T18:32:17",
       "content": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'We're living in a shed because of river pollution'",
+      "description": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution.",
+      "url": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-26T06:20:08",
+      "content": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Next El Niño Could Lock Earth Into a Hotter Climate",
+      "description": "The Pacific Ocean is a giant climate cauldron, with a powerful heat engine that affects storms, fisheries and rainfall patterns half a world away, and scientists are watching closely to see if it’s...",
+      "url": "https://insideclimatenews.org/news/25042026/el-nino-earth-warming/",
+      "publishedAt": "2026-04-25T09:00:00",
+      "content": "The Pacific Ocean is a giant climate cauldron, with a powerful heat engine that affects storms, fisheries and rainfall patterns half a world away, and scientists are watching closely to see if it’s..."
     },
     {
       "source": {
@@ -51,33 +95,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "GM Achieves 100% Renewable Electricity Goal in U.S.",
-      "description": "GM announced a new clean energy milestone, with the company securing 100% of the energy",
-      "url": "https://www.esgtoday.com/gm-achieves-100-renewable-energy-powered-electricity-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=gm-achieves-100-renewable-energy-powered-electricity-in-u-s",
-      "publishedAt": "2026-04-23T10:47:31",
-      "content": "GM announced a new clean energy milestone, with the company securing 100% of the energy"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
       "title": "bp Shareholders Defeat Resolution Aimed at Reducing Climate Disclosures",
       "description": "bp shareholders resoundingly defeated two resolutions proposed by the energy giant at its annual general",
       "url": "https://www.esgtoday.com/bp-shareholders-defeat-resolution-aimed-at-reducing-climate-disclosures/?utm_source=rss&utm_medium=rss&utm_campaign=bp-shareholders-defeat-resolution-aimed-at-reducing-climate-disclosures",
       "publishedAt": "2026-04-23T13:53:28",
       "content": "bp shareholders resoundingly defeated two resolutions proposed by the energy giant at its annual general"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "What is a ‘super El Niño’ and what might it mean for the global climate?",
-      "description": "In this week’s newsletter: Experts are predicting a stronger version of the weather pattern this year, which could supercharge extreme events and see temperature rises breach 1.5C• Don’t get Down t...",
-      "url": "https://www.theguardian.com/environment/2026/apr/23/down-to-earth-super-el-nino-extreme-weather",
-      "publishedAt": "2026-04-24T06:00:33",
-      "content": "In this week’s newsletter: Experts are predicting a stronger version of the weather pattern this year, which could supercharge extreme events and see temperature rises breach 1.5C• Don’t get Down t..."
     },
     {
       "source": {
@@ -92,14 +114,69 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "Good On You"
       },
-      "author": "The Hindu",
-      "title": "How is ethanol used in Sustainable Aviation Fuel?",
-      "description": "Since ATJ prevents raw ethanol from running through jet engines, it will not reduce thrust or clog fuel lines by absorbing moisture",
-      "url": "https://www.thehindu.com/sci-tech/science/how-is-ethanol-used-in-sustainable-aviation-fuel/article70901226.ece",
-      "publishedAt": "2026-04-25T04:27:44",
-      "content": "Since ATJ prevents raw ethanol from running through jet engines, it will not reduce thrust or clog fuel lines by absorbing moisture"
+      "author": "Good On You",
+      "title": "Better Brand Edit: 18 More Sustainable Suits and Co-Ords for Everyone",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-suits-co-ords/",
+      "publishedAt": "2026-04-20T00:00:43",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The birds are a global citizen’: Indigenous groups in Australia and Alaska team up to track a feathered adventurer’s epic journey",
+      "description": "A new knowledge-sharing project aims to ensure the survival of the migratory short-tailed shearwaterShort-tailed shearwaters used to blacken the skies on the south-west coast of Australia, so abund...",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/26/indigenous-groups-australia-alaska-track-short-tailed-shearwater-bird",
+      "publishedAt": "2026-04-25T20:00:55",
+      "content": "A new knowledge-sharing project aims to ensure the survival of the migratory short-tailed shearwaterShort-tailed shearwaters used to blacken the skies on the south-west coast of Australia, so abund..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A New Idea to Save the AMOC? Dam the Bering Strait.",
+      "description": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study.",
+      "url": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
+      "publishedAt": "2026-04-25T12:44:35",
+      "content": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: A close call with a black adder | Orla",
+      "description": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and specialIt was a bright spring morning, and I had gone up to Dartmoor with my mum, my brother and my ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/25/young-country-diary-a-close-call-with-a-black-adder",
+      "publishedAt": "2026-04-25T10:00:43",
+      "content": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and specialIt was a bright spring morning, and I had gone up to Dartmoor with my mum, my brother and my ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
+      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
+      "url": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+      "publishedAt": "2026-04-25T09:02:23",
+      "content": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Why Millions of Adorable Bees Are Emerging from This Cemetery",
+      "description": "A growing body of evidence shows that cemeteries host much more life — including insects, birds, mammals and rare plants — than death.TriplePundit",
+      "url": "https://triplepundit.com/2026/mining-bees-habitat-loss-cemeteries/",
+      "publishedAt": "2026-04-24T19:53:46",
+      "content": "A growing body of evidence shows that cemeteries host much more life — including insects, birds, mammals and rare plants — than death.TriplePundit"
     },
     {
       "source": {
@@ -133,61 +210,6 @@
       "url": "https://www.esgtoday.com/decade-energy-raises-e22-million-to-scale-fleet-electrification-infrastructure-platform/?utm_source=rss&utm_medium=rss&utm_campaign=decade-energy-raises-e22-million-to-scale-fleet-electrification-infrastructure-platform",
       "publishedAt": "2026-04-24T08:03:54",
       "content": "Paris-based logistics electrification company Decade Energy announced that it has raised €22 million (USD$26 million),"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Better Brand Edit: 18 More Sustainable Suits and Co-Ords for Everyone",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-suits-co-ords/",
-      "publishedAt": "2026-04-20T00:00:43",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A New Idea to Save the AMOC? Dam the Bering Strait.",
-      "description": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study.",
-      "url": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
-      "publishedAt": "2026-04-24T19:54:52",
-      "content": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Data Center Tax Exemption Changes Still Holding Up Virginia Budget",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/24042026/data-center-tax-exemption-stalls-virginia-budget/",
-      "publishedAt": "2026-04-24T19:40:03",
-      "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "description": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "publishedAt": "2026-04-24T11:42:26",
-      "content": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
-      "description": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo...",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
-      "publishedAt": "2026-04-24T10:30:37",
-      "content": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo..."
     },
     {
       "source": {
@@ -268,6 +290,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "IWBI Supports Future-Ready Facilities Grant to Modernize U.S. School Infrastructure",
+      "description": "A new initiative launched by Attune is designed to address a growing challenge across the United States: aging school facilities that lack visibility into critical building performance metrics.",
+      "url": "https://csrwire.com/press-release/iwbi-supports-future-ready-facilities-grant-modernize-us-school-infrastructure/",
+      "publishedAt": "2026-04-23T11:35:00",
+      "content": "A new initiative launched by Attune is designed to address a growing challenge across the United States: aging school facilities that lack visibility into critical building performance metrics."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -279,14 +312,91 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Delivering Impact Where It Counts, With Futurpreneur",
+      "description": "When young entrepreneurs have the right support at the right time, ideas turn into businesses. That belief underpins the collaboration between FedEx and Futurpreneur",
+      "url": "https://csrwire.com/press-release/delivering-impact-where-it-counts-futurpreneur/",
+      "publishedAt": "2026-04-23T11:00:00",
+      "content": "When young entrepreneurs have the right support at the right time, ideas turn into businesses. That belief underpins the collaboration between FedEx and Futurpreneur"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Prioritizing Security, Privacy, and Trust in the AI Era | Cisco FY25 Purpose Report",
+      "description": "As innovation accelerates, the need for strong security, data protection, and privacy has never been more critical.",
+      "url": "https://csrwire.com/press-release/prioritizing-security-privacy-and-trust-ai-era-cisco-fy25-purpose-report/",
+      "publishedAt": "2026-04-23T10:45:00",
+      "content": "As innovation accelerates, the need for strong security, data protection, and privacy has never been more critical."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Southwire Canada Advances Education Through Wired for the Future Scholarship",
+      "description": "Southwire Canada is proud to support the next generation of talent through Southwire’s Wired for the Future Scholarship via Electro Federation Canada’s (EFC) scholarship platform.",
+      "url": "https://csrwire.com/press-release/southwire-canada-advances-education-through-wired-future-scholarship/",
+      "publishedAt": "2026-04-23T07:15:00",
+      "content": "Southwire Canada is proud to support the next generation of talent through Southwire’s Wired for the Future Scholarship via Electro Federation Canada’s (EFC) scholarship platform."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: The quiet vitality of a well-managed churchyard | Phil Gates",
-      "description": "Brancepeth, County Durham: It’s nearly 30 years since St Brandon’s was devastated by fire.",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/country-diary-the-quiet-vitality-of-a-well-managed-churchyard",
-      "publishedAt": "2026-04-24T04:30:30",
-      "content": "Brancepeth, County Durham: It’s nearly 30 years since St Brandon’s was devastated by fire."
+      "title": "‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time",
+      "description": "After a two-year wait, video of a young male crossing above a road gives hope that critically endangered species can survive habitat fragmentationThe critically endangered Sumatran orangutan has be...",
+      "url": "https://www.theguardian.com/environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe",
+      "publishedAt": "2026-04-25T05:00:40",
+      "content": "After a two-year wait, video of a young male crossing above a road gives hope that critically endangered species can survive habitat fragmentationThe critically endangered Sumatran orangutan has be..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "New global panel aims to accelerate move away from fossil fuels",
+      "description": "Scientists and economists will help countries develop plans to reduce dependence on oil, gas and coalA panel of global experts has been launched to provide scientific input for countries that want ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/25/new-global-panel-aims-to-accelerate-move-away-from-fossil-fuels",
+      "publishedAt": "2026-04-25T00:30:30",
+      "content": "Scientists and economists will help countries develop plans to reduce dependence on oil, gas and coalA panel of global experts has been launched to provide scientific input for countries that want ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Data Center Tax Exemption Changes Still Holding Up Virginia Budget",
+      "description": "RICHMOND, Va.",
+      "url": "https://insideclimatenews.org/news/24042026/data-center-tax-exemption-stalls-virginia-budget/",
+      "publishedAt": "2026-04-24T19:40:03",
+      "content": "RICHMOND, Va."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
+      "description": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
+      "publishedAt": "2026-04-24T11:42:26",
+      "content": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
+      "description": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo...",
+      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
+      "publishedAt": "2026-04-24T10:30:37",
+      "content": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo..."
     },
     {
       "source": {
@@ -301,39 +411,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Kraken-like’ giant octopuses 100m years ago crunched bones of prey",
-      "description": "Study of fossilised beaks shows patterns of wear and suggests some ancient species were up to 19 metres longGiant “kraken-like” octopuses that used powerful beaks to crunch through bones of prey we...",
-      "url": "https://www.theguardian.com/science/2026/apr/23/kraken-like-giant-octopuses-crunched-cretaceous-bones",
-      "publishedAt": "2026-04-23T18:00:17",
-      "content": "Study of fossilised beaks shows patterns of wear and suggests some ancient species were up to 19 metres longGiant “kraken-like” octopuses that used powerful beaks to crunch through bones of prey we..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Corpus Christi Plans to Declare a ‘Water Emergency.’ What Does That Mean?",
-      "description": "This story was published in partnership with the Texas Newsroom, the state’s network of public radio stations.",
-      "url": "https://insideclimatenews.org/news/23042026/corpus-christi-water-emergency-explainer/",
-      "publishedAt": "2026-04-23T17:13:34",
-      "content": "This story was published in partnership with the Texas Newsroom, the state’s network of public radio stations."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "An Oilfield Leak Springs Under a Permian Basin Baptist Church",
-      "description": "Salty water is gurgling up from underground in the middle of the small Permian Basin town of Grandfalls, Texas.",
-      "url": "https://insideclimatenews.org/news/23042026/west-texas-permian-basin-oilfield-leak/",
-      "publishedAt": "2026-04-23T17:08:54",
-      "content": "Salty water is gurgling up from underground in the middle of the small Permian Basin town of Grandfalls, Texas."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -342,28 +419,6 @@
       "url": "https://www.nytimes.com/2026/04/23/climate/china-seabed-mining-maps-rare-earths.html",
       "publishedAt": "2026-04-23T16:12:49",
       "content": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Wildfires in Georgia Destroy Homes and Set Off Evacuations",
-      "description": "The fires are also causing poor air quality, expected to last into at least Thursday, for a corner of the Southeast.",
-      "url": "https://www.nytimes.com/2026/04/22/us/georgia-wildfires-evacuations-homes-destroyed-smoke.html",
-      "publishedAt": "2026-04-23T00:16:10",
-      "content": "The fires are also causing poor air quality, expected to last into at least Thursday, for a corner of the Southeast."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
-      "description": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
-      "url": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-22T23:11:24",
-      "content": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say."
     }
   ]
 }
