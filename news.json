@@ -1,7 +1,40 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 35,
   "articles": [
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This April 2026",
+      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-04-26T07:00:45",
+      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Intention to Execution – Building Confidence in Scope 3 Reporting",
+      "description": "Guest post by: Sean Daley, Director of Sustainability Consulting at Sphera Sustainability reporting is increasingly",
+      "url": "https://www.esgtoday.com/intention-to-execution-building-confidence-in-scope-3-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=intention-to-execution-building-confidence-in-scope-3-reporting",
+      "publishedAt": "2026-04-27T07:32:39",
+      "content": "Guest post by: Sean Daley, Director of Sustainability Consulting at Sphera Sustainability reporting is increasingly"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK's biggest ever environmental pollution claim reaches High Court",
+      "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
+      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-26T23:01:47",
+      "content": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -15,14 +48,47 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Queensland’s renewable energy ‘whiplash’: how the shift from coal stalled in Australia’s most polluting state",
+      "description": "In 2024 seven solar and windfarms and seven storage projects – totalling 3,202 megawatts – had been approved.",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/27/queenslands-renewable-energy-whiplash-how-the-shift-from-coal-stalled-in-australias-most-polluting-state",
+      "publishedAt": "2026-04-26T15:00:18",
+      "content": "In 2024 seven solar and windfarms and seven storage projects – totalling 3,202 megawatts – had been approved."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Green roofs in Chennai: A climate solution to tackle rising heatwaves in Tamil Nadu",
+      "description": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning",
+      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/green-roofs-in-chennai-a-climate-solution-to-tackle-rising-heatwaves-in-tamil-nadu/article70783185.ece",
+      "publishedAt": "2026-04-22T18:32:17",
+      "content": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning"
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This April 2026",
-      "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-04-22T07:00:45",
-      "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+      "title": "The Best More Sustainable Bikinis for This Season and Next",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-bikinis/",
+      "publishedAt": "2026-04-26T22:00:11",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Toxins plus climate harms likely cause of reduced fertility, study finds",
+      "description": "Researchers find ‘alarming’ effect on fertility across global species from simultaneous exposuresSimultaneous exposure to toxic chemicals and climate change’s impacts likely generates an additive o...",
+      "url": "https://www.theguardian.com/science/2026/apr/26/toxic-exposure-climate-crisis-study",
+      "publishedAt": "2026-04-26T13:00:15",
+      "content": "Researchers find ‘alarming’ effect on fertility across global species from simultaneous exposuresSimultaneous exposure to toxic chemicals and climate change’s impacts likely generates an additive o..."
     },
     {
       "source": {
@@ -40,22 +106,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "GM Achieves 100% Renewable Electricity Goal in U.S.",
-      "description": "GM announced a new clean energy milestone, with the company securing 100% of the energy",
-      "url": "https://www.esgtoday.com/gm-achieves-100-renewable-energy-powered-electricity-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=gm-achieves-100-renewable-energy-powered-electricity-in-u-s",
-      "publishedAt": "2026-04-23T10:47:31",
-      "content": "GM announced a new clean energy milestone, with the company securing 100% of the energy"
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Green roofs in Chennai: A climate solution to tackle rising heatwaves in Tamil Nadu",
-      "description": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning",
-      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/green-roofs-in-chennai-a-climate-solution-to-tackle-rising-heatwaves-in-tamil-nadu/article70783185.ece",
-      "publishedAt": "2026-04-22T18:32:17",
-      "content": "A city confronts extreme weather through vegetation-led design, community effort, and adaptive planning"
+      "title": "Accenture Appoints Jens Laue as Sustainability Services Lead for EMEA",
+      "description": "Global professional services firm Accenture has appointed Jens Laue as EMEA Lead Sustainability Services. In",
+      "url": "https://www.esgtoday.com/accenture-appoints-jens-laue-as-sustainability-services-lead-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=accenture-appoints-jens-laue-as-sustainability-services-lead-for-emea",
+      "publishedAt": "2026-04-24T13:36:46",
+      "content": "Global professional services firm Accenture has appointed Jens Laue as EMEA Lead Sustainability Services. In"
     },
     {
       "source": {
@@ -84,17 +139,6 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Accenture Appoints Jens Laue as Sustainability Services Lead for EMEA",
-      "description": "Global professional services firm Accenture has appointed Jens Laue as EMEA Lead Sustainability Services. In",
-      "url": "https://www.esgtoday.com/accenture-appoints-jens-laue-as-sustainability-services-lead-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=accenture-appoints-jens-laue-as-sustainability-services-lead-for-emea",
-      "publishedAt": "2026-04-24T13:36:46",
-      "content": "Global professional services firm Accenture has appointed Jens Laue as EMEA Lead Sustainability Services. In"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
       "title": "bp Shareholders Defeat Resolution Aimed at Reducing Climate Disclosures",
       "description": "bp shareholders resoundingly defeated two resolutions proposed by the energy giant at its annual general",
       "url": "https://www.esgtoday.com/bp-shareholders-defeat-resolution-aimed-at-reducing-climate-disclosures/?utm_source=rss&utm_medium=rss&utm_campaign=bp-shareholders-defeat-resolution-aimed-at-reducing-climate-disclosures",
@@ -114,58 +158,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Better Brand Edit: 18 More Sustainable Suits and Co-Ords for Everyone",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-suits-co-ords/",
-      "publishedAt": "2026-04-20T00:00:43",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘The birds are a global citizen’: Indigenous groups in Australia and Alaska team up to track a feathered adventurer’s epic journey",
-      "description": "A new knowledge-sharing project aims to ensure the survival of the migratory short-tailed shearwaterShort-tailed shearwaters used to blacken the skies on the south-west coast of Australia, so abund...",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/26/indigenous-groups-australia-alaska-track-short-tailed-shearwater-bird",
-      "publishedAt": "2026-04-25T20:00:55",
-      "content": "A new knowledge-sharing project aims to ensure the survival of the migratory short-tailed shearwaterShort-tailed shearwaters used to blacken the skies on the south-west coast of Australia, so abund..."
+      "title": "Country diary: The skies here are busy with satellites and fieldfares | Rchard Smyth",
+      "description": "Prendwick, Northumberland: On a crisp, cold walk, I’m reminded that winter still clings on, and that familiar constellations are far from aloneThe red sun rising over the radar station on Alnwick M...",
+      "url": "https://www.theguardian.com/environment/2026/apr/27/country-diary-the-skies-here-are-busy-with-satellites-and-fieldfares",
+      "publishedAt": "2026-04-27T04:30:33",
+      "content": "Prendwick, Northumberland: On a crisp, cold walk, I’m reminded that winter still clings on, and that familiar constellations are far from aloneThe red sun rising over the radar station on Alnwick M..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Inside Climate News"
       },
-      "author": "New York Times",
-      "title": "A New Idea to Save the AMOC? Dam the Bering Strait.",
-      "description": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study.",
-      "url": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
-      "publishedAt": "2026-04-25T12:44:35",
-      "content": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Young country diary: A close call with a black adder | Orla",
-      "description": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and specialIt was a bright spring morning, and I had gone up to Dartmoor with my mum, my brother and my ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/25/young-country-diary-a-close-call-with-a-black-adder",
-      "publishedAt": "2026-04-25T10:00:43",
-      "content": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and specialIt was a bright spring morning, and I had gone up to Dartmoor with my mum, my brother and my ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
-      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
-      "url": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
-      "publishedAt": "2026-04-25T09:02:23",
-      "content": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots."
+      "author": "Inside Climate News",
+      "title": "Sewage Is Threatening Coral Reefs Around the World, Even in Marine Protected Areas",
+      "description": "Marine protected areas are designed to conserve coral reefs and other ocean ecosystems by restricting human activity within their boundaries.",
+      "url": "https://insideclimatenews.org/news/26042026/sewage-threatens-coral-reefs-marine-protected-areas/",
+      "publishedAt": "2026-04-26T09:00:00",
+      "content": "Marine protected areas are designed to conserve coral reefs and other ocean ecosystems by restricting human activity within their boundaries."
     },
     {
       "source": {
@@ -213,6 +224,61 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Scientists believe birds’ skulls hold clues to inner lives of long-extinct dinosaurs",
+      "description": "Early birds were like ‘T rex reincarnated’, says scientist who believes avian skulls offer insight into dinosaurs’ behaviourT rex is often depicted as more brawn than brains, but now scientists are...",
+      "url": "https://www.theguardian.com/science/2026/apr/26/scientists-believe-birds-skulls-hold-clues-to-inner-lives-of-long-extinct-dinosaurs",
+      "publishedAt": "2026-04-26T06:00:06",
+      "content": "Early birds were like ‘T rex reincarnated’, says scientist who believes avian skulls offer insight into dinosaurs’ behaviourT rex is often depicted as more brawn than brains, but now scientists are..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A New Idea to Save the AMOC? Dam the Bering Strait.",
+      "description": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study.",
+      "url": "https://www.nytimes.com/2026/04/24/climate/amoc-bering-strait-dam.html",
+      "publishedAt": "2026-04-25T12:44:35",
+      "content": "Blocking the narrow waterway between Russia and Alaska could help stabilize a vulnerable system of ocean currents, scientists found in a study."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: A close call with a black adder | Orla",
+      "description": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and specialIt was a bright spring morning, and I had gone up to Dartmoor with my mum, my brother and my ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/25/young-country-diary-a-close-call-with-a-black-adder",
+      "publishedAt": "2026-04-25T10:00:43",
+      "content": "Dartmoor: We went for a family walk on the moor, and I ended up seeing something really rare and specialIt was a bright spring morning, and I had gone up to Dartmoor with my mum, my brother and my ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Thousands of EV Car Leases Are Ending Soon, Giving Buyers a More Affordable Option",
+      "description": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots.",
+      "url": "https://www.nytimes.com/2026/04/25/business/electric-vehicles-used-leases.html",
+      "publishedAt": "2026-04-25T09:02:23",
+      "content": "The leases on hundreds of thousands of battery-powered cars and trucks will end in the next three years, and many will end up on used-car lots."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Data Center Tax Exemption Changes Still Holding Up Virginia Budget",
+      "description": "RICHMOND, Va.",
+      "url": "https://insideclimatenews.org/news/24042026/data-center-tax-exemption-stalls-virginia-budget/",
+      "publishedAt": "2026-04-24T19:40:03",
+      "content": "RICHMOND, Va."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -221,17 +287,6 @@
       "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-24T05:42:44",
       "content": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Largest-ever ban on toxic chemicals in EU hit by ‘extremely frustrating’ delays",
-      "description": "Green groups say European Commission is ‘chief roadblock’ to its own plans, as report finds poor progress four years onHarmful compounds in children’s nappies and toxic “forever chemicals” in every...",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/toxic-chemicals-eu-delays-pollution-report",
-      "publishedAt": "2026-04-24T04:00:30",
-      "content": "Green groups say European Commission is ‘chief roadblock’ to its own plans, as report finds poor progress four years onHarmful compounds in children’s nappies and toxic “forever chemicals” in every..."
     },
     {
       "source": {
@@ -301,17 +356,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU to Set “Ambitious” Electrification Target to Accelerate Transition Away from Fossil Fuels",
-      "description": "The European Commission presented its new “AccelerateEU” strategy, outlining a series of proposed actions aimed",
-      "url": "https://www.esgtoday.com/eu-to-set-ambitious-electrification-target-to-accelerate-transition-away-from-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=eu-to-set-ambitious-electrification-target-to-accelerate-transition-away-from-fossil-fuels",
-      "publishedAt": "2026-04-23T11:32:56",
-      "content": "The European Commission presented its new “AccelerateEU” strategy, outlining a series of proposed actions aimed"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -342,83 +386,6 @@
       "url": "https://csrwire.com/press-release/southwire-canada-advances-education-through-wired-future-scholarship/",
       "publishedAt": "2026-04-23T07:15:00",
       "content": "Southwire Canada is proud to support the next generation of talent through Southwire’s Wired for the Future Scholarship via Electro Federation Canada’s (EFC) scholarship platform."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Cries of delight’ as Sumatran orangutan filmed using canopy bridge to cross road for first time",
-      "description": "After a two-year wait, video of a young male crossing above a road gives hope that critically endangered species can survive habitat fragmentationThe critically endangered Sumatran orangutan has be...",
-      "url": "https://www.theguardian.com/environment/2026/apr/25/first-footage-endangered-sumatran-orangutan-using-canopy-bridge-cross-road-hope-species-aoe",
-      "publishedAt": "2026-04-25T05:00:40",
-      "content": "After a two-year wait, video of a young male crossing above a road gives hope that critically endangered species can survive habitat fragmentationThe critically endangered Sumatran orangutan has be..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "New global panel aims to accelerate move away from fossil fuels",
-      "description": "Scientists and economists will help countries develop plans to reduce dependence on oil, gas and coalA panel of global experts has been launched to provide scientific input for countries that want ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/25/new-global-panel-aims-to-accelerate-move-away-from-fossil-fuels",
-      "publishedAt": "2026-04-25T00:30:30",
-      "content": "Scientists and economists will help countries develop plans to reduce dependence on oil, gas and coalA panel of global experts has been launched to provide scientific input for countries that want ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Data Center Tax Exemption Changes Still Holding Up Virginia Budget",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/24042026/data-center-tax-exemption-stalls-virginia-budget/",
-      "publishedAt": "2026-04-24T19:40:03",
-      "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "description": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "publishedAt": "2026-04-24T11:42:26",
-      "content": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
-      "description": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo...",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
-      "publishedAt": "2026-04-24T10:30:37",
-      "content": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Meet the 19-metre octopus that prowled the ancient seas",
-      "description": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence.",
-      "url": "https://www.bbc.com/news/articles/cyv1rgm16r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-23T18:04:39",
-      "content": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "China Publishes Maps Detailing Minerals on the Ocean Floor",
-      "description": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters.",
-      "url": "https://www.nytimes.com/2026/04/23/climate/china-seabed-mining-maps-rare-earths.html",
-      "publishedAt": "2026-04-23T16:12:49",
-      "content": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters."
     }
   ]
 }
