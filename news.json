@@ -1,28 +1,39 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 37,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "82% of Companies Maintaining or Accelerating Climate Goals, as Decarbonization Efforts Extend to Supply Chain: PwC",
-      "description": "More than four out of five companies are maintaining or accelerating their climate goals, and",
-      "url": "https://www.esgtoday.com/82-of-companies-maintaining-or-accelerating-climate-goals-as-decarbonization-efforts-extend-to-supply-chain-pwc/?utm_source=rss&utm_medium=rss&utm_campaign=82-of-companies-maintaining-or-accelerating-climate-goals-as-decarbonization-efforts-extend-to-supply-chain-pwc",
-      "publishedAt": "2026-04-29T11:15:09",
-      "content": "More than four out of five companies are maintaining or accelerating their climate goals, and"
-    },
     {
       "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This April 2026",
+      "title": "More Sustainable Fashion Brand Offers This May 2026",
       "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-04-26T07:00:45",
+      "publishedAt": "2026-04-30T02:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "NYC Pension Funds Cut Portfolio Carbon Footprint in Half",
+      "description": "New York City Comptroller Mark Levine announced that the city’s public pension systems have cut",
+      "url": "https://www.esgtoday.com/nyc-pension-funds-cut-portfolio-carbon-footprint-in-half/?utm_source=rss&utm_medium=rss&utm_campaign=nyc-pension-funds-cut-portfolio-carbon-footprint-in-half",
+      "publishedAt": "2026-04-30T09:33:38",
+      "content": "New York City Comptroller Mark Levine announced that the city’s public pension systems have cut"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Kompas VC Raises €160 Million to Back Industrial Productivity and Decarbonization Startups",
+      "description": "Early-stage venture capital firm Kompas VC announced today the final close of its second fund,",
+      "url": "https://www.esgtoday.com/kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups/?utm_source=rss&utm_medium=rss&utm_campaign=kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups",
+      "publishedAt": "2026-04-30T08:32:24",
+      "content": "Early-stage venture capital firm Kompas VC announced today the final close of its second fund,"
     },
     {
       "source": {
@@ -37,17 +48,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "FCA to Pilot Reporting Requirements for ESG Ratings Providers",
-      "description": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial",
-      "url": "https://www.esgtoday.com/fca-to-pilot-reporting-requirements-for-esg-ratings-providers/?utm_source=rss&utm_medium=rss&utm_campaign=fca-to-pilot-reporting-requirements-for-esg-ratings-providers",
-      "publishedAt": "2026-04-28T14:34:16",
-      "content": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial"
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -56,6 +56,50 @@
       "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-04-26T23:01:47",
       "content": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Octopus Invests $500 Million in U.S. Reforestation-Based Carbon Removal Projects",
+      "description": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new",
+      "url": "https://www.esgtoday.com/octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects",
+      "publishedAt": "2026-04-30T15:44:02",
+      "content": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "NYC Pension Funds Say BlackRock, Fidelity not Aligned with Climate Expectations",
+      "description": "New York City’s pension funds reported that asset managers BlackRock and Fidelity remain “insufficiently aligned”",
+      "url": "https://www.esgtoday.com/nyc-pension-funds-say-blackrock-fidelity-not-aligned-with-climate-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=nyc-pension-funds-say-blackrock-fidelity-not-aligned-with-climate-expectations",
+      "publishedAt": "2026-04-30T15:02:01",
+      "content": "New York City’s pension funds reported that asset managers BlackRock and Fidelity remain “insufficiently aligned”"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ERM Appoints Louise Pearce as Global Leader of Sustainability and Risk",
+      "description": "Sustainability advisory firm ERM has appointed Louise Pearce as its new Global Leader of Sustainability",
+      "url": "https://www.esgtoday.com/erm-appoints-louise-pearce-as-global-leader-of-sustainability-and-risk/?utm_source=rss&utm_medium=rss&utm_campaign=erm-appoints-louise-pearce-as-global-leader-of-sustainability-and-risk",
+      "publishedAt": "2026-04-30T14:02:40",
+      "content": "Sustainability advisory firm ERM has appointed Louise Pearce as its new Global Leader of Sustainability"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The climate crisis is making our hay fever worse – and affecting our enjoyment of nature",
+      "description": "In this week’s newsletter: the European pollen season is now up to two weeks longer than it was in the 90s – just one more way global heating is causing millions to suffer• Don’t get Down to Earth ...",
+      "url": "https://www.theguardian.com/environment/2026/apr/30/the-climate-crisis-is-making-our-hay-fever-worse-and-affecting-our-enjoyment-of-nature",
+      "publishedAt": "2026-05-01T06:00:39",
+      "content": "In this week’s newsletter: the European pollen season is now up to two weeks longer than it was in the 90s – just one more way global heating is causing millions to suffer• Don’t get Down to Earth ..."
     },
     {
       "source": {
@@ -70,6 +114,28 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "California Leverages EPEAT To Advance Net-Zero Goals Through Sustainable Procurement",
+      "description": "California shows how EPEAT-enabled procurement cuts emissions, saves taxpayers $7.5 million, and advances net-zero goals in a new case study from GEC.",
+      "url": "https://csrwire.com/press-release/california-leverages-epeat-advance-net-zero-goals-through-sustainable-procurement/",
+      "publishedAt": "2026-04-28T09:02:00",
+      "content": "California shows how EPEAT-enabled procurement cuts emissions, saves taxpayers $7.5 million, and advances net-zero goals in a new case study from GEC."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Report: Baker Hughes Achieves 36.9% Absolute Reduction in Operational Greenhouse Gas Emissions",
+      "description": "Baker Hughes reported a 36.",
+      "url": "https://csrwire.com/press-release/report-baker-hughes-achieves-369-absolute-reduction-operational-greenhouse-gas-emissions/",
+      "publishedAt": "2026-04-28T08:00:00",
+      "content": "Baker Hughes reported a 36."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -78,50 +144,6 @@
       "url": "https://insideclimatenews.org/news/29042026/arizona-mine-impacts-threatened-owls/",
       "publishedAt": "2026-04-29T16:18:30",
       "content": "This story is co-published with Arizona Luminaria, a nonprofit newsroom dedicated to community-centered reporting."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Aviva Investors, Climate Impact Partners Launch Forest Project to Remove up to 6 Million Tonnes of Carbon",
-      "description": "Voluntary carbon markets-focused finance company Climate Impact Partners and Aviva Investors, the global asset management",
-      "url": "https://www.esgtoday.com/aviva-investors-climate-impact-partners-launch-forest-project-to-remove-up-to-6-million-tonnes-of-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=aviva-investors-climate-impact-partners-launch-forest-project-to-remove-up-to-6-million-tonnes-of-carbon",
-      "publishedAt": "2026-04-29T06:53:49",
-      "content": "Voluntary carbon markets-focused finance company Climate Impact Partners and Aviva Investors, the global asset management"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Achmea Publishes Climate and Nature Transition Plan",
-      "description": "Netherlands-based insurance and financial services company Achmea announced the launch of its Climate and Nature",
-      "url": "https://www.esgtoday.com/achmea-publishes-climate-and-nature-transition-plan/?utm_source=rss&utm_medium=rss&utm_campaign=achmea-publishes-climate-and-nature-transition-plan",
-      "publishedAt": "2026-04-28T13:52:09",
-      "content": "Netherlands-based insurance and financial services company Achmea announced the launch of its Climate and Nature"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Why California’s Scope 3 Reporting Needs a Clear Start",
-      "description": "Guest post by: Kristina Wyatt, Executive Vice President and General Counsel at The Conservation Fund",
-      "url": "https://www.esgtoday.com/why-californias-scope-3-reporting-needs-a-clear-start/?utm_source=rss&utm_medium=rss&utm_campaign=why-californias-scope-3-reporting-needs-a-clear-start",
-      "publishedAt": "2026-04-29T10:13:09",
-      "content": "Guest post by: Kristina Wyatt, Executive Vice President and General Counsel at The Conservation Fund"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Babies exposed to air pollution during pregnancy take longer to learn to speak, research finds",
-      "description": "A KCL study has found that exposure during the first trimester of pregnancy delayed speech development Babies exposed to higher levels of air pollution in the early stages of pregnancy take longer ...",
-      "url": "https://www.theguardian.com/environment/2026/apr/29/babies-exposed-to-air-pollution-during-pregnancy-take-longer-to-learn-to-speak-research-finds",
-      "publishedAt": "2026-04-29T05:00:46",
-      "content": "A KCL study has found that exposure during the first trimester of pregnancy delayed speech development Babies exposed to higher levels of air pollution in the early stages of pregnancy take longer ..."
     },
     {
       "source": {
@@ -136,25 +158,80 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "IBM Launches Solution to Embed GHG Emissions Calculations into Existing Systems",
-      "description": "IBM announced the general availability of the IBM Envizi Emissions API, its new tool aimed",
-      "url": "https://www.esgtoday.com/ibm-launches-solution-to-embed-ghg-emissions-calculations-into-existing-systems/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-launches-solution-to-embed-ghg-emissions-calculations-into-existing-systems",
-      "publishedAt": "2026-04-29T13:08:13",
-      "content": "IBM announced the general availability of the IBM Envizi Emissions API, its new tool aimed"
+      "author": "The Guardian",
+      "title": "Hope is contagious and science is king: 10 big lessons on ending the fossil fuel era",
+      "description": "At world-first Santa Marta climate meeting, delegates say it was ‘euphoric’ to finally be focusing on concrete solutionsAfter a landmark climate meeting in Santa Marta, Colombia, where nearly 60 co...",
+      "url": "https://www.theguardian.com/environment/2026/may/01/santa-marta-colombia-climate-conference-ending-fossil-fuel-era",
+      "publishedAt": "2026-05-01T05:00:40",
+      "content": "At world-first Santa Marta climate meeting, delegates say it was ‘euphoric’ to finally be focusing on concrete solutionsAfter a landmark climate meeting in Santa Marta, Colombia, where nearly 60 co..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Public Lands Transfer Battle Takes On a New Form in Forest Service Reorganization",
+      "description": "The U.",
+      "url": "https://triplepundit.com/2026/usda-forest-service-reorganization-public-lands-lumber-industry/",
+      "publishedAt": "2026-04-30T22:18:11",
+      "content": "The U."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Blackstone Invests €2 Billion in Renewables Developer Eurowind",
-      "description": "Alternative asset manager Blackstone announced today an investment of up to €2 billion (USD$2.3 billion)",
-      "url": "https://www.esgtoday.com/blackstone-invests-e2-billion-in-european-renewables-developer-eurowind/?utm_source=rss&utm_medium=rss&utm_campaign=blackstone-invests-e2-billion-in-european-renewables-developer-eurowind",
-      "publishedAt": "2026-04-29T12:15:42",
-      "content": "Alternative asset manager Blackstone announced today an investment of up to €2 billion (USD$2.3 billion)"
+      "title": "Scotiabank, RBC Drop Financed Emissions Goals",
+      "description": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce",
+      "url": "https://www.esgtoday.com/scotiabank-rbc-drop-financed-emissions-goals/?utm_source=rss&utm_medium=rss&utm_campaign=scotiabank-rbc-drop-financed-emissions-goals",
+      "publishedAt": "2026-04-30T13:20:34",
+      "content": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ROSI Raises $23 Million to Scale Solar Panel Recycling Capacity",
+      "description": "French cleantech company ROSI announced it has secured over €20 million (USD$23 million) in funding",
+      "url": "https://www.esgtoday.com/rosi-raises-23-million-to-scale-solar-panel-recycling-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=rosi-raises-23-million-to-scale-solar-panel-recycling-capacity",
+      "publishedAt": "2026-04-30T11:13:27",
+      "content": "French cleantech company ROSI announced it has secured over €20 million (USD$23 million) in funding"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Comcast and Boys & Girls Clubs of Thurston County Open Lift Zones in Lacey to Help Youth Build Digital Skills",
+      "description": "Comcast and Boys & Girls Clubs of Thurston County (BGCTC) have opened new Lift Zones in Lacey, Tumwater, Yelm, and Rochester to help youth build their digital skills.",
+      "url": "https://csrwire.com/press-release/comcast-and-boys-girls-clubs-thurston-county-open-lift-zones-lacey-help-youth-build-digital/",
+      "publishedAt": "2026-04-30T10:05:00",
+      "content": "Comcast and Boys & Girls Clubs of Thurston County (BGCTC) have opened new Lift Zones in Lacey, Tumwater, Yelm, and Rochester to help youth build their digital skills."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Independent Scientific Review Consolidates Knowledge on Tire Wear Emissions, Finds Understanding of Human Health Impacts To Be Inconclusive",
+      "description": "Third \"State of Knowledge\" (SoK) paper on tire wear emissions concludes that, while the understanding of tire wear emissions has advanced, current data to quantify human health impacts attributable...",
+      "url": "https://csrwire.com/press-release/independent-scientific-review-consolidates-knowledge-tire-wear-emissions-finds-understanding/",
+      "publishedAt": "2026-04-30T09:00:00",
+      "content": "Third \"State of Knowledge\" (SoK) paper on tire wear emissions concludes that, while the understanding of tire wear emissions has advanced, current data to quantify human health impacts attributable..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How We’re Building a Cleaner, More Efficient Energy Supply | Cisco FY25 Purpose Report",
+      "description": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply.",
+      "url": "https://csrwire.com/press-release/how-were-building-cleaner-more-efficient-energy-supply-cisco-fy25-purpose-report/",
+      "publishedAt": "2026-04-29T08:05:00",
+      "content": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply."
     },
     {
       "source": {
@@ -180,14 +257,113 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How LNG interests are seeking to disrupt global talks on decarbonising shipping",
+      "description": "Observers say pressure on IMO negotiations appears to be linked to countries that have invested heavily in gasAbout a fifth of the world’s oil and liquefied natural gas (LNG) passed through the str...",
+      "url": "https://www.theguardian.com/environment/2026/may/01/lng-liquefied-natural-gas-imo-talks-shipping",
+      "publishedAt": "2026-05-01T06:00:38",
+      "content": "Observers say pressure on IMO negotiations appears to be linked to countries that have invested heavily in gasAbout a fifth of the world’s oil and liquefied natural gas (LNG) passed through the str..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "The Murky Ethics of Swimming With Killer Whales",
-      "description": "Only two places in the world allow tourists to enter the water with the ocean’s apex predator. But the safety of both species is a growing concern.",
-      "url": "https://www.nytimes.com/2026/04/29/science/tourism-killer-whales-orcas.html",
-      "publishedAt": "2026-04-29T21:10:20",
-      "content": "Only two places in the world allow tourists to enter the water with the ocean’s apex predator. But the safety of both species is a growing concern."
+      "title": "FEMA Is Reversing Job Cuts Made Under Kristi Noem",
+      "description": "The agency said staff members who had been let go or placed on administrative leave were now needed to prepare for hurricanes and the World Cup.",
+      "url": "https://www.nytimes.com/2026/04/30/climate/fema-job-cuts-reverse.html",
+      "publishedAt": "2026-05-01T01:12:05",
+      "content": "The agency said staff members who had been let go or placed on administrative leave were now needed to prepare for hurricanes and the World Cup."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Gen Z leads birdwatching boom as more Britons reach for the binoculars",
+      "description": "Birdwatching no longer niche, old-fashioned pastime, says RSPB as research shows 47% increase in hobby since 2018Birdwatching is the second fastest growing hobby for generation Z after jewellery ma...",
+      "url": "https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment",
+      "publishedAt": "2026-04-30T23:01:30",
+      "content": "Birdwatching no longer niche, old-fashioned pastime, says RSPB as research shows 47% increase in hobby since 2018Birdwatching is the second fastest growing hobby for generation Z after jewellery ma..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Florida, Alligator Alcatraz Remains Open Among Sacred Miccosukee Lands",
+      "description": "Every spring Florida’s Miccosukee Tribe observes its corn dance season on lands the tribe holds as sacred within the fragile Everglades.",
+      "url": "https://insideclimatenews.org/news/30042026/florida-alligator-alcatraz-remains-open-after-court-ruling/",
+      "publishedAt": "2026-04-30T09:00:00",
+      "content": "Every spring Florida’s Miccosukee Tribe observes its corn dance season on lands the tribe holds as sacred within the fragile Everglades."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "IBM Launches Solution to Embed GHG Emissions Calculations into Existing Systems",
+      "description": "IBM announced the general availability of the IBM Envizi Emissions API, its new tool aimed",
+      "url": "https://www.esgtoday.com/ibm-launches-solution-to-embed-ghg-emissions-calculations-into-existing-systems/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-launches-solution-to-embed-ghg-emissions-calculations-into-existing-systems",
+      "publishedAt": "2026-04-29T13:08:13",
+      "content": "IBM announced the general availability of the IBM Envizi Emissions API, its new tool aimed"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "For Generations To Come: Ancestry Publishes 2025 Impact Report",
+      "description": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ...",
+      "url": "https://csrwire.com/press-release/generations-come-ancestry-publishes-2025-impact-report/",
+      "publishedAt": "2026-04-29T10:00:00",
+      "content": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Ray’s Expertise Reflected in Arizona Governor’s Final Energy Report",
+      "description": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ...",
+      "url": "https://csrwire.com/press-release/rays-expertise-reflected-arizona-governors-final-energy-report/",
+      "publishedAt": "2026-04-29T09:40:00",
+      "content": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Program Delivers Path to 1.6 Million tCO2e Reduction for Consumer Goods Manufacturers",
+      "description": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers.",
+      "url": "https://csrwire.com/press-release/program-delivers-path-16-million-tco2e-reduction-consumer-goods-manufacturers/",
+      "publishedAt": "2026-04-29T09:00:00",
+      "content": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Money Trees: Paraguay’s Carbon Market Strategy Comes into Focus",
+      "description": "The global compliance carbon market is opening a big financial opportunity, and Paraguay is prepared to make the most of it. TriplePundit",
+      "url": "https://triplepundit.com/2026/paraguay-carbon-credit-compliance-market-article-6/",
+      "publishedAt": "2026-04-28T13:00:00",
+      "content": "The global compliance carbon market is opening a big financial opportunity, and Paraguay is prepared to make the most of it. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "AEG and Pizza City Fest Donate $10,000 to the Culinary Careers Program During Fourth Annual Pizza City Fest at L.A. LIVE",
+      "description": "AEG’s L.",
+      "url": "https://csrwire.com/press-release/aeg-and-pizza-city-fest-donate-10000-culinary-careers-program-during-fourth-annual-pizza-city/",
+      "publishedAt": "2026-04-28T10:00:00",
+      "content": "AEG’s L."
     },
     {
       "source": {
@@ -213,72 +389,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BTG Pactual TIG Raises Over $1.2 Billion for Reforestation and Restoration Strategy",
-      "description": "BTG Pactual Timberland Investment Group (BTG Pactual TIG) announced that it has raised $1.24 billion in",
-      "url": "https://www.esgtoday.com/btg-pactual-tig-raises-over-1-2-billion-for-reforestation-and-restoration-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=btg-pactual-tig-raises-over-1-2-billion-for-reforestation-and-restoration-strategy",
-      "publishedAt": "2026-04-28T15:20:23",
-      "content": "BTG Pactual Timberland Investment Group (BTG Pactual TIG) announced that it has raised $1.24 billion in"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A New Bureau Will Oversee Both Offshore Drilling and Seabed Mining",
-      "description": "The new federal office will undo a change made after the 2010 Deepwater Horizon oil disaster. Critics say it could reduce environmental oversight.",
-      "url": "https://www.nytimes.com/2026/04/23/climate/seabed-mining-interior-department.html",
-      "publishedAt": "2026-04-27T18:21:12",
-      "content": "The new federal office will undo a change made after the 2010 Deepwater Horizon oil disaster. Critics say it could reduce environmental oversight."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Older than the dinosaurs: scientists finally unlock secret of the mayfly’s dance",
-      "description": "The bizarre vertical flight pattern has long puzzled experts but new research reveals why it may play a crucial role in the insect’s survivalOn a spring evening along the banks of the River Thames,...",
-      "url": "https://www.theguardian.com/environment/2026/apr/29/mayflies-dance-vertical-pattern-experts-aoe",
-      "publishedAt": "2026-04-29T06:00:48",
-      "content": "The bizarre vertical flight pattern has long puzzled experts but new research reveals why it may play a crucial role in the insect’s survivalOn a spring evening along the banks of the River Thames,..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
-      "description": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl...",
-      "url": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
-      "publishedAt": "2026-04-29T05:00:45",
-      "content": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The simple pleasure of watching beetles doing a barn dance | Charlie Elder",
-      "description": "West Dartmoor, Devon: On the moor, every puddle and pool is quivering with whirligig beetles, carving circles and rotating in pairsA calm, clear morning on Dartmoor and the shallow pools I pass are...",
-      "url": "https://www.theguardian.com/environment/2026/apr/29/country-diary-the-simple-pleasure-of-watching-beetles-doing-a-barn-dance",
-      "publishedAt": "2026-04-29T04:30:44",
-      "content": "West Dartmoor, Devon: On the moor, every puddle and pool is quivering with whirligig beetles, carving circles and rotating in pairsA calm, clear morning on Dartmoor and the shallow pools I pass are..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Nordic heatwave part of record year that saw temperatures scorch most of Europe, report finds",
-      "description": "Scientists find annual sea surface temperatures across Europe reached highest levels recorded, while deadly wildfires set large parts of continent ablazeThe Nordic heatwave that pushed temperatures...",
-      "url": "https://www.theguardian.com/environment/2026/apr/29/nordic-extreme-heat-environment-europe-report",
-      "publishedAt": "2026-04-29T02:00:41",
-      "content": "Scientists find annual sea surface temperatures across Europe reached highest levels recorded, while deadly wildfires set large parts of continent ablazeThe Nordic heatwave that pushed temperatures..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -290,80 +400,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Triple Pundit"
       },
-      "author": "Inside Climate News",
-      "title": "Drought Turns Southeastern US Into ‘Tinderbox’ as Wildfires Rage",
-      "description": "Drought and fire are a dangerous duo.",
-      "url": "https://insideclimatenews.org/news/28042026/todays-climate-drought-wildfire-southeast-us/",
-      "publishedAt": "2026-04-28T21:45:50",
-      "content": "Drought and fire are a dangerous duo."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Disaster Declarations Ripple Through South Texas Amid Water Crisis",
-      "description": "At least six small cities and towns in the Coastal Bend region of Texas issued disaster declarations in the last two weeks, begging not to be forgotten amid a spiraling water crisis. All attention ...",
-      "url": "https://insideclimatenews.org/news/28042026/corpus-christi-water-disaster-declarations/",
-      "publishedAt": "2026-04-28T09:00:00",
-      "content": "At least six small cities and towns in the Coastal Bend region of Texas issued disaster declarations in the last two weeks, begging not to be forgotten amid a spiraling water crisis. All attention ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Europe’s Trawlers Extract a Huge ‘Cost to Society’ in Bycatch and Carbon Dioxide",
-      "description": "By the time it was dumped on deck, the heaved contents no longer resembled ocean life.",
-      "url": "https://insideclimatenews.org/news/27042026/europe-bottom-trawlers-ocean-emissions/",
-      "publishedAt": "2026-04-28T00:01:00",
-      "content": "By the time it was dumped on deck, the heaved contents no longer resembled ocean life."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Ethical Is Temu? Why We Rate the Brand ‘We Avoid’",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-temu/",
-      "publishedAt": "2026-04-27T23:00:44",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "China Publishes Maps Detailing Minerals on the Ocean Floor",
-      "description": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters.",
-      "url": "https://www.nytimes.com/2026/04/23/climate/china-seabed-mining-maps-rare-earths.html",
-      "publishedAt": "2026-04-27T21:40:27",
-      "content": "The new deep-sea atlas underscores Beijing’s interest in ocean mining, its military ambitions and its claims to disputed waters."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Weather tracker: Torrential rain in southern China leads to flooding fears",
-      "description": "Heatwaves reach 45C across India as unseasonably cold weather affects parts of central CanadaWidespread heavy rain is sweeping over southern China.",
-      "url": "https://www.theguardian.com/environment/2026/apr/27/weather-tracker-torrential-rain-southern-china-flooding-fears-india-heatwave-canada-cold",
-      "publishedAt": "2026-04-27T09:29:19",
-      "content": "Heatwaves reach 45C across India as unseasonably cold weather affects parts of central CanadaWidespread heavy rain is sweeping over southern China."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
-      "description": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
-      "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-24T05:42:44",
-      "content": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change"
+      "author": "Triple Pundit",
+      "title": "Why Millions of Adorable Bees Are Emerging from This Cemetery",
+      "description": "A growing body of evidence shows that cemeteries host much more life — including insects, birds, mammals and rare plants — than death.TriplePundit",
+      "url": "https://triplepundit.com/2026/mining-bees-habitat-loss-cemeteries/",
+      "publishedAt": "2026-04-24T19:53:46",
+      "content": "A growing body of evidence shows that cemeteries host much more life — including insects, birds, mammals and rare plants — than death.TriplePundit"
     }
   ]
 }
