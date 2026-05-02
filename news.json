@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 40,
   "articles": [
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Water Conservation Works, But Climate Change Is Outpacing It: Phoenix, Denver and Las Vegas Offer a Glimpse of the Future",
+      "description": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use.",
+      "url": "https://triplepundit.com/2026/urban-water-conservation-drought-phoenix-denver-las-vegas/",
+      "publishedAt": "2026-05-01T21:27:50",
+      "content": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
+      "description": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Carib...",
+      "url": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
+      "publishedAt": "2026-05-01T14:19:29",
+      "content": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Carib..."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -18,33 +40,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "NYC Pension Funds Cut Portfolio Carbon Footprint in Half",
-      "description": "New York City Comptroller Mark Levine announced that the city’s public pension systems have cut",
-      "url": "https://www.esgtoday.com/nyc-pension-funds-cut-portfolio-carbon-footprint-in-half/?utm_source=rss&utm_medium=rss&utm_campaign=nyc-pension-funds-cut-portfolio-carbon-footprint-in-half",
-      "publishedAt": "2026-04-30T09:33:38",
-      "content": "New York City Comptroller Mark Levine announced that the city’s public pension systems have cut"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Kompas VC Raises €160 Million to Back Industrial Productivity and Decarbonization Startups",
-      "description": "Early-stage venture capital firm Kompas VC announced today the final close of its second fund,",
-      "url": "https://www.esgtoday.com/kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups/?utm_source=rss&utm_medium=rss&utm_campaign=kompas-vc-raises-e160-million-to-back-industrial-productivity-and-decarbonization-startups",
-      "publishedAt": "2026-04-30T08:32:24",
-      "content": "Early-stage venture capital firm Kompas VC announced today the final close of its second fund,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "PepsiCo Signs 10-Year Clean Energy Deal for Operations and Suppliers in Europe",
-      "description": "PepsiCo, and its suppliers Givaudan, Smurfit WestRock, announced today the signing of a multi-year renewable",
-      "url": "https://www.esgtoday.com/pepsico-signs-10-year-clean-energy-deal-for-operations-and-suppliers-in-europe/?utm_source=rss&utm_medium=rss&utm_campaign=pepsico-signs-10-year-clean-energy-deal-for-operations-and-suppliers-in-europe",
-      "publishedAt": "2026-04-29T13:59:44",
-      "content": "PepsiCo, and its suppliers Givaudan, Smurfit WestRock, announced today the signing of a multi-year renewable"
+      "title": "CIP Launches New European Renewable Energy Platform Following Ørsted Onshore Acquisition",
+      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Perigus Energy, its new European",
+      "url": "https://www.esgtoday.com/cip-launches-new-european-renewable-energy-platform-following-orsted-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-new-european-renewable-energy-platform-following-orsted-acquisition",
+      "publishedAt": "2026-05-01T10:09:33",
+      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Perigus Energy, its new European"
     },
     {
       "source": {
@@ -62,11 +62,33 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Solaria Raises €300 Million to Build Out Renewables, Storage, Data Center Infrastructure Platform",
+      "description": "Clean energy developer Solaria Energia announced that it has raised €300 million (USD$350 million) through",
+      "url": "https://www.esgtoday.com/solaria-raises-e300-million-to-build-out-renewables-storage-data-center-infrastructure-platform/?utm_source=rss&utm_medium=rss&utm_campaign=solaria-raises-e300-million-to-build-out-renewables-storage-data-center-infrastructure-platform",
+      "publishedAt": "2026-05-01T09:18:06",
+      "content": "Clean energy developer Solaria Energia announced that it has raised €300 million (USD$350 million) through"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Octopus Invests $500 Million in U.S. Reforestation-Based Carbon Removal Projects",
       "description": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new",
       "url": "https://www.esgtoday.com/octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects",
       "publishedAt": "2026-04-30T15:44:02",
       "content": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "With Fertilizer Pollution on the Rise, Iowa Will Invest $100 Million in Water Treatment",
+      "description": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov.",
+      "url": "https://insideclimatenews.org/news/01052026/iowa-water-treatment-from-fertilizer-pollution/",
+      "publishedAt": "2026-05-01T23:04:11",
+      "content": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov."
     },
     {
       "source": {
@@ -103,17 +125,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How to Build a Better Kind of Nuclear Power? This Side Hustle Might Help.",
-      "description": "Zap Energy says its ultimate goal is safe, clean energy from fusion. To help get there, it’s starting to build fission reactors.",
-      "url": "https://www.nytimes.com/2026/04/29/climate/zap-energy-fusion-fission.html",
-      "publishedAt": "2026-04-29T13:30:29",
-      "content": "Zap Energy says its ultimate goal is safe, clean energy from fusion. To help get there, it’s starting to build fission reactors."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -125,25 +136,69 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Report: Baker Hughes Achieves 36.9% Absolute Reduction in Operational Greenhouse Gas Emissions",
-      "description": "Baker Hughes reported a 36.",
-      "url": "https://csrwire.com/press-release/report-baker-hughes-achieves-369-absolute-reduction-operational-greenhouse-gas-emissions/",
-      "publishedAt": "2026-04-28T08:00:00",
-      "content": "Baker Hughes reported a 36."
+      "author": "ESG Today",
+      "title": "France Unveils Roadmap to Quit Fossil Fuels by 2050",
+      "description": "The government of France published its “Roadmap for Transitioning away from Fossil Fuels,” highlighting its",
+      "url": "https://www.esgtoday.com/france-unveils-roadmap-to-quit-fossil-fuels-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=france-unveils-roadmap-to-quit-fossil-fuels-by-2050",
+      "publishedAt": "2026-05-01T13:50:31",
+      "content": "The government of France published its “Roadmap for Transitioning away from Fossil Fuels,” highlighting its"
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "New York Times"
       },
-      "author": "Inside Climate News",
-      "title": "Tribe and Environmentalists to Sue Feds Over Arizona Mine’s  Impacts to Threatened Owls",
-      "description": "This story is co-published with Arizona Luminaria, a nonprofit newsroom dedicated to community-centered reporting.",
-      "url": "https://insideclimatenews.org/news/29042026/arizona-mine-impacts-threatened-owls/",
-      "publishedAt": "2026-04-29T16:18:30",
-      "content": "This story is co-published with Arizona Luminaria, a nonprofit newsroom dedicated to community-centered reporting."
+      "author": "New York Times",
+      "title": "In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden",
+      "description": "The Dutch city has outlawed advertising that promotes lifestyles linked to high carbon emissions, which is a driver of climate change. It’s a first for a world capital.",
+      "url": "https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html",
+      "publishedAt": "2026-05-01T13:23:35",
+      "content": "The Dutch city has outlawed advertising that promotes lifestyles linked to high carbon emissions, which is a driver of climate change. It’s a first for a world capital."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Self-Healing Networks Improve Reliability for More Than 500,000 Customers",
+      "description": "Entergy has reached an important milestone in our work to build a stronger electric grid.",
+      "url": "https://csrwire.com/press-release/self-healing-networks-improve-reliability-more-500000-customers/",
+      "publishedAt": "2026-05-01T11:00:00",
+      "content": "Entergy has reached an important milestone in our work to build a stronger electric grid."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Engie Signs DAC Carbon Removal Deal with Deep Sky",
+      "description": "Carbon removal project developer Deep Sky and power company Engie announced, encompassing covering carbon credit",
+      "url": "https://www.esgtoday.com/engie-signs-dac-carbon-removal-deal-with-deep-sky/?utm_source=rss&utm_medium=rss&utm_campaign=engie-signs-dac-carbon-removal-deal-with-deep-sky",
+      "publishedAt": "2026-05-01T09:30:43",
+      "content": "Carbon removal project developer Deep Sky and power company Engie announced, encompassing covering carbon credit"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Boeing Buys 20,000-Ton Portfolio of Biochar, ERW Carbon Removals",
+      "description": "Carbon removal marketplace Supercritical announced a new agreement with Boeing for the purchase of 20,000",
+      "url": "https://www.esgtoday.com/boeing-buys-20000-ton-portfolio-of-biochar-erw-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-buys-20000-ton-portfolio-of-biochar-erw-carbon-removals",
+      "publishedAt": "2026-05-01T08:34:57",
+      "content": "Carbon removal marketplace Supercritical announced a new agreement with Boeing for the purchase of 20,000"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How We’re Building a Cleaner, More Efficient Energy Supply | Cisco FY25 Purpose Report",
+      "description": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply.",
+      "url": "https://csrwire.com/press-release/how-were-building-cleaner-more-efficient-energy-supply-cisco-fy25-purpose-report/",
+      "publishedAt": "2026-04-29T08:05:00",
+      "content": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply."
     },
     {
       "source": {
@@ -158,14 +213,80 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Good On You"
       },
-      "author": "The Guardian",
-      "title": "Hope is contagious and science is king: 10 big lessons on ending the fossil fuel era",
-      "description": "At world-first Santa Marta climate meeting, delegates say it was ‘euphoric’ to finally be focusing on concrete solutionsAfter a landmark climate meeting in Santa Marta, Colombia, where nearly 60 co...",
-      "url": "https://www.theguardian.com/environment/2026/may/01/santa-marta-colombia-climate-conference-ending-fossil-fuel-era",
-      "publishedAt": "2026-05-01T05:00:40",
-      "content": "At world-first Santa Marta climate meeting, delegates say it was ‘euphoric’ to finally be focusing on concrete solutionsAfter a landmark climate meeting in Santa Marta, Colombia, where nearly 60 co..."
+      "author": "Good On You",
+      "title": "The Best More Sustainable Bikinis for This Season and Next",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-bikinis/",
+      "publishedAt": "2026-04-26T22:00:11",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'We're living in a shed because of river pollution'",
+      "description": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution.",
+      "url": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-04-26T06:20:08",
+      "content": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Is this the real face of Anne Boleyn?",
+      "description": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
+      "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-01T23:01:44",
+      "content": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Wyoming’s Largest Utility Joins a New Western Day Ahead Market for Electricity",
+      "description": "Wyoming’s largest utility today began participating in a new “Extended Day Ahead Market” for electricity on the Western grid, a potentially landmark shift in the way energy is sold in the state tha...",
+      "url": "https://insideclimatenews.org/news/01052026/rocky-mountain-power-joins-new-electricity-market/",
+      "publishedAt": "2026-05-01T19:50:40",
+      "content": "Wyoming’s largest utility today began participating in a new “Extended Day Ahead Market” for electricity on the Western grid, a potentially landmark shift in the way energy is sold in the state tha..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Is this actually what Anne Boleyn looked like?",
+      "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be.",
+      "url": "https://www.bbc.com/news/videos/c3d2e581k7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-01T14:44:02",
+      "content": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Utility Bills Are Likely to Be Higher This Summer. Here’s What You Can Do.",
+      "description": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked.",
+      "url": "https://www.nytimes.com/2026/05/01/your-money/electricity-costs-summer.html",
+      "publishedAt": "2026-05-01T13:00:04",
+      "content": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "After Prison, a Financial Titan Plots an Unlikely Comeback",
+      "description": "Bill McGlashan served time for trying to buy his son’s way into college during the Varsity Blues scandal. He hopes his new venture will restore his name — and save the planet.",
+      "url": "https://www.nytimes.com/2026/05/01/business/after-prison-a-financial-titan-plots-an-unlikely-comeback.html",
+      "publishedAt": "2026-05-01T09:00:10",
+      "content": "Bill McGlashan served time for trying to buy his son’s way into college during the Varsity Blues scandal. He hopes his new venture will restore his name — and save the planet."
     },
     {
       "source": {
@@ -227,33 +348,33 @@
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "How We’re Building a Cleaner, More Efficient Energy Supply | Cisco FY25 Purpose Report",
-      "description": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply.",
-      "url": "https://csrwire.com/press-release/how-were-building-cleaner-more-efficient-energy-supply-cisco-fy25-purpose-report/",
-      "publishedAt": "2026-04-29T08:05:00",
-      "content": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply."
+      "title": "For Generations To Come: Ancestry Publishes 2025 Impact Report",
+      "description": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ...",
+      "url": "https://csrwire.com/press-release/generations-come-ancestry-publishes-2025-impact-report/",
+      "publishedAt": "2026-04-29T10:00:00",
+      "content": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ..."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "The Best More Sustainable Bikinis for This Season and Next",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-bikinis/",
-      "publishedAt": "2026-04-26T22:00:11",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "The Ray’s Expertise Reflected in Arizona Governor’s Final Energy Report",
+      "description": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ...",
+      "url": "https://csrwire.com/press-release/rays-expertise-reflected-arizona-governors-final-energy-report/",
+      "publishedAt": "2026-04-29T09:40:00",
+      "content": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ..."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "'We're living in a shed because of river pollution'",
-      "description": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution.",
-      "url": "https://www.bbc.com/news/articles/c6244zv02ero?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-26T06:20:08",
-      "content": "Jane and Tony Coyle spent seven years waiting for planning permission due to River Lugg pollution."
+      "author": "CSRWire",
+      "title": "Program Delivers Path to 1.6 Million tCO2e Reduction for Consumer Goods Manufacturers",
+      "description": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers.",
+      "url": "https://csrwire.com/press-release/program-delivers-path-16-million-tco2e-reduction-consumer-goods-manufacturers/",
+      "publishedAt": "2026-04-29T09:00:00",
+      "content": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers."
     },
     {
       "source": {
@@ -301,50 +422,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "IBM Launches Solution to Embed GHG Emissions Calculations into Existing Systems",
-      "description": "IBM announced the general availability of the IBM Envizi Emissions API, its new tool aimed",
-      "url": "https://www.esgtoday.com/ibm-launches-solution-to-embed-ghg-emissions-calculations-into-existing-systems/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-launches-solution-to-embed-ghg-emissions-calculations-into-existing-systems",
-      "publishedAt": "2026-04-29T13:08:13",
-      "content": "IBM announced the general availability of the IBM Envizi Emissions API, its new tool aimed"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "For Generations To Come: Ancestry Publishes 2025 Impact Report",
-      "description": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ...",
-      "url": "https://csrwire.com/press-release/generations-come-ancestry-publishes-2025-impact-report/",
-      "publishedAt": "2026-04-29T10:00:00",
-      "content": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Ray’s Expertise Reflected in Arizona Governor’s Final Energy Report",
-      "description": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ...",
-      "url": "https://csrwire.com/press-release/rays-expertise-reflected-arizona-governors-final-energy-report/",
-      "publishedAt": "2026-04-29T09:40:00",
-      "content": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Program Delivers Path to 1.6 Million tCO2e Reduction for Consumer Goods Manufacturers",
-      "description": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers.",
-      "url": "https://csrwire.com/press-release/program-delivers-path-16-million-tco2e-reduction-consumer-goods-manufacturers/",
-      "publishedAt": "2026-04-29T09:00:00",
-      "content": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -364,50 +441,6 @@
       "url": "https://csrwire.com/press-release/aeg-and-pizza-city-fest-donate-10000-culinary-careers-program-during-fourth-annual-pizza-city/",
       "publishedAt": "2026-04-28T10:00:00",
       "content": "AEG’s L."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "California Will Soon Have More Than 300 Data Centers. Where Will They Get Their Water?",
-      "description": "IMPERIAL, Calif.",
-      "url": "https://insideclimatenews.org/news/29042026/california-data-center-boom-water-issues/",
-      "publishedAt": "2026-04-29T09:00:00",
-      "content": "IMPERIAL, Calif."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Virginia Legislature Bucks Governor’s Amendments to Dominion-Backed Bill",
-      "description": "RICHMOND, Va.",
-      "url": "https://insideclimatenews.org/news/29042026/virginia-legislature-bucks-governors-amendments-to-dominion-backed-bills/",
-      "publishedAt": "2026-04-29T08:50:00",
-      "content": "RICHMOND, Va."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "£20m mystery gift buys London Zoo new hospital where you can watch vets work",
-      "description": "Visitors will be able to watch live veterinary procedures inside a state-of-the-art new animal hospital.",
-      "url": "https://www.bbc.com/news/articles/cpqpj7wy4x4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-28T23:20:26",
-      "content": "Visitors will be able to watch live veterinary procedures inside a state-of-the-art new animal hospital."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Why Millions of Adorable Bees Are Emerging from This Cemetery",
-      "description": "A growing body of evidence shows that cemeteries host much more life — including insects, birds, mammals and rare plants — than death.TriplePundit",
-      "url": "https://triplepundit.com/2026/mining-bees-habitat-loss-cemeteries/",
-      "publishedAt": "2026-04-24T19:53:46",
-      "content": "A growing body of evidence shows that cemeteries host much more life — including insects, birds, mammals and rare plants — than death.TriplePundit"
     }
   ]
 }
