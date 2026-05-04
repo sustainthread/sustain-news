@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 39,
   "articles": [
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Water Conservation Works, But Climate Change Is Outpacing It: Phoenix, Denver and Las Vegas Offer a Glimpse of the Future",
+      "description": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use.",
+      "url": "https://triplepundit.com/2026/urban-water-conservation-drought-phoenix-denver-las-vegas/",
+      "publishedAt": "2026-05-01T21:27:50",
+      "content": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use."
+    },
     {
       "source": {
         "name": "The Guardian"
@@ -37,17 +48,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK's biggest ever environmental pollution claim reaches High Court",
-      "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
-      "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-04-26T23:01:47",
-      "content": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye"
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -67,6 +67,17 @@
       "url": "https://www.esgtoday.com/octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects",
       "publishedAt": "2026-04-30T15:44:02",
       "content": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "With Fertilizer Pollution on the Rise, Iowa Will Invest $100 Million in Water Treatment",
+      "description": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov.",
+      "url": "https://insideclimatenews.org/news/01052026/iowa-water-treatment-from-fertilizer-pollution/",
+      "publishedAt": "2026-05-01T23:04:11",
+      "content": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov."
     },
     {
       "source": {
@@ -92,14 +103,25 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "California Leverages EPEAT To Advance Net-Zero Goals Through Sustainable Procurement",
+      "description": "California shows how EPEAT-enabled procurement cuts emissions, saves taxpayers $7.5 million, and advances net-zero goals in a new case study from GEC.",
+      "url": "https://csrwire.com/press-release/california-leverages-epeat-advance-net-zero-goals-through-sustainable-procurement/",
+      "publishedAt": "2026-04-28T09:02:00",
+      "content": "California shows how EPEAT-enabled procurement cuts emissions, saves taxpayers $7.5 million, and advances net-zero goals in a new case study from GEC."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "With Fertilizer Pollution on the Rise, Iowa Will Invest $100 Million in Water Treatment",
-      "description": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov.",
-      "url": "https://insideclimatenews.org/news/01052026/iowa-water-treatment-from-fertilizer-pollution/",
-      "publishedAt": "2026-05-01T23:04:11",
-      "content": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov."
+      "title": "How We Tracked the Lithium Rush",
+      "description": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U.",
+      "url": "https://insideclimatenews.org/news/03052026/america-lithium-rush-data/",
+      "publishedAt": "2026-05-03T08:50:00",
+      "content": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U."
     },
     {
       "source": {
@@ -114,47 +136,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Best More Sustainable Bikinis for This Season and Next",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-bikinis/",
-      "publishedAt": "2026-04-26T22:00:11",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "From neat lawns to wild havens: how No Mow May is transforming England’s gardens",
-      "description": "Cheshire villagers are letting lawns grow wild to improve diversity and reconnect with nature on their doorstepIan Waddington was crouched in his garden last summer, inspecting loose paving, when h...",
-      "url": "https://www.theguardian.com/environment/2026/may/03/lawns-wild-no-mow-may-gardens",
-      "publishedAt": "2026-05-03T06:00:46",
-      "content": "Cheshire villagers are letting lawns grow wild to improve diversity and reconnect with nature on their doorstepIan Waddington was crouched in his garden last summer, inspecting loose paving, when h..."
+      "title": "‘Living library’: inside the marine biobanks racing to protect ocean species from extinction",
+      "description": "Australia’s biobanks store everything from seeds of native plants to the cells and tissue of threatened animal speciesIn the mudflats of Swan Bay, Victoria, royal spoonbills sweep their paddle-shap...",
+      "url": "https://www.theguardian.com/environment/2026/may/04/marine-biobanks-protect-ocean-species",
+      "publishedAt": "2026-05-04T04:04:25",
+      "content": "Australia’s biobanks store everything from seeds of native plants to the cells and tissue of threatened animal speciesIn the mudflats of Swan Bay, Victoria, royal spoonbills sweep their paddle-shap..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "The Guardian",
-      "title": "Rescuers release humpback whale that was stranded off German coast",
-      "description": "Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survivalRescuers have released a young humpback whale that became a national sensation after it...",
-      "url": "https://www.theguardian.com/environment/2026/may/02/humpback-whale-rescue-release-stranded-germany-baltic-coast",
-      "publishedAt": "2026-05-02T11:38:52",
-      "content": "Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survivalRescuers have released a young humpback whale that became a national sensation after it..."
+      "author": "New York Times",
+      "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
+      "description": "The charging network is spotty, but it’s a small country.",
+      "url": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
+      "publishedAt": "2026-05-03T19:24:12",
+      "content": "The charging network is spotty, but it’s a small country."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "The Guardian",
-      "title": "To give young people wings: The Lost Words duo reunite for book of birds",
-      "description": "Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and endangered speciesWhen the artist Jackie Morris collaborat...",
-      "url": "https://www.theguardian.com/environment/2026/may/02/the-lost-words-authors-jackie-morris-robert-macfarlane-reunite-book-of-birds",
-      "publishedAt": "2026-05-02T11:00:23",
-      "content": "Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and endangered speciesWhen the artist Jackie Morris collaborat..."
+      "author": "New York Times",
+      "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
+      "description": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.",
+      "url": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
+      "publishedAt": "2026-05-03T09:00:36",
+      "content": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "What the US Could Learn About Mining on Indigenous Peoples’ Ancestral Lands",
+      "description": "In the U.",
+      "url": "https://insideclimatenews.org/news/03052026/global-indigenous-rights/",
+      "publishedAt": "2026-05-03T08:55:00",
+      "content": "In the U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Mining the Metal of the Future",
+      "description": "Today, just one lithium mine operates in the U.",
+      "url": "https://insideclimatenews.org/news/03052026/icn-sunday-morning-lithium-mining-future/",
+      "publishedAt": "2026-05-03T08:45:00",
+      "content": "Today, just one lithium mine operates in the U."
     },
     {
       "source": {
@@ -180,6 +213,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Self-Healing Networks Improve Reliability for More Than 500,000 Customers",
+      "description": "Entergy has reached an important milestone in our work to build a stronger electric grid.",
+      "url": "https://csrwire.com/press-release/self-healing-networks-improve-reliability-more-500000-customers/",
+      "publishedAt": "2026-05-01T11:00:00",
+      "content": "Entergy has reached an important milestone in our work to build a stronger electric grid."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -202,14 +246,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Scotiabank, RBC Drop Financed Emissions Goals",
-      "description": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce",
-      "url": "https://www.esgtoday.com/scotiabank-rbc-drop-financed-emissions-goals/?utm_source=rss&utm_medium=rss&utm_campaign=scotiabank-rbc-drop-financed-emissions-goals",
-      "publishedAt": "2026-04-30T13:20:34",
-      "content": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce"
+      "author": "CSRWire",
+      "title": "How We’re Building a Cleaner, More Efficient Energy Supply | Cisco FY25 Purpose Report",
+      "description": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply.",
+      "url": "https://csrwire.com/press-release/how-were-building-cleaner-more-efficient-energy-supply-cisco-fy25-purpose-report/",
+      "publishedAt": "2026-04-29T08:05:00",
+      "content": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rescuers release humpback whale that was stranded off German coast",
+      "description": "Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survivalRescuers have released a young humpback whale that became a national sensation after it...",
+      "url": "https://www.theguardian.com/environment/2026/may/02/humpback-whale-rescue-release-stranded-germany-baltic-coast",
+      "publishedAt": "2026-05-02T11:38:52",
+      "content": "Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survivalRescuers have released a young humpback whale that became a national sensation after it..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "To give young people wings: The Lost Words duo reunite for book of birds",
+      "description": "Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and endangered speciesWhen the artist Jackie Morris collaborat...",
+      "url": "https://www.theguardian.com/environment/2026/may/02/the-lost-words-authors-jackie-morris-robert-macfarlane-reunite-book-of-birds",
+      "publishedAt": "2026-05-02T11:00:23",
+      "content": "Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and endangered speciesWhen the artist Jackie Morris collaborat..."
     },
     {
       "source": {
@@ -235,17 +301,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Wyoming’s Largest Utility Joins a New Western Day Ahead Market for Electricity",
-      "description": "Wyoming’s largest utility today began participating in a new “Extended Day Ahead Market” for electricity on the Western grid, a potentially landmark shift in the way energy is sold in the state tha...",
-      "url": "https://insideclimatenews.org/news/01052026/rocky-mountain-power-joins-new-electricity-market/",
-      "publishedAt": "2026-05-01T19:50:40",
-      "content": "Wyoming’s largest utility today began participating in a new “Extended Day Ahead Market” for electricity on the Western grid, a potentially landmark shift in the way energy is sold in the state tha..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -263,7 +318,7 @@
       "title": "Utility Bills Are Likely to Be Higher This Summer. Here’s What You Can Do.",
       "description": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked.",
       "url": "https://www.nytimes.com/2026/05/01/your-money/electricity-costs-summer.html",
-      "publishedAt": "2026-05-01T13:00:04",
+      "publishedAt": "2026-05-01T13:00:05",
       "content": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked."
     },
     {
@@ -279,25 +334,102 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "FEMA Is Reversing Job Cuts Made Under Kristi Noem",
-      "description": "The agency said staff members who had been let go or placed on administrative leave were now needed to prepare for hurricanes and the World Cup.",
-      "url": "https://www.nytimes.com/2026/04/30/climate/fema-job-cuts-reverse.html",
-      "publishedAt": "2026-05-01T01:12:05",
-      "content": "The agency said staff members who had been let go or placed on administrative leave were now needed to prepare for hurricanes and the World Cup."
+      "author": "Triple Pundit",
+      "title": "The Public Lands Transfer Battle Takes On a New Form in Forest Service Reorganization",
+      "description": "The U.",
+      "url": "https://triplepundit.com/2026/usda-forest-service-reorganization-public-lands-lumber-industry/",
+      "publishedAt": "2026-04-30T22:18:11",
+      "content": "The U."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Gen Z leads birdwatching boom as more Britons reach for the binoculars",
-      "description": "Birdwatching no longer niche, old-fashioned pastime, says RSPB as research shows 47% increase in hobby since 2018Birdwatching is the second fastest growing hobby for generation Z after jewellery ma...",
-      "url": "https://www.theguardian.com/environment/2026/may/01/birdwatching-boom-britain-nature-gen-z-rspb-environment",
-      "publishedAt": "2026-04-30T23:01:30",
-      "content": "Birdwatching no longer niche, old-fashioned pastime, says RSPB as research shows 47% increase in hobby since 2018Birdwatching is the second fastest growing hobby for generation Z after jewellery ma..."
+      "author": "ESG Today",
+      "title": "Scotiabank, RBC Drop Financed Emissions Goals",
+      "description": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce",
+      "url": "https://www.esgtoday.com/scotiabank-rbc-drop-financed-emissions-goals/?utm_source=rss&utm_medium=rss&utm_campaign=scotiabank-rbc-drop-financed-emissions-goals",
+      "publishedAt": "2026-04-30T13:20:34",
+      "content": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Comcast and Boys & Girls Clubs of Thurston County Open Lift Zones in Lacey to Help Youth Build Digital Skills",
+      "description": "Comcast and Boys & Girls Clubs of Thurston County (BGCTC) have opened new Lift Zones in Lacey, Tumwater, Yelm, and Rochester to help youth build their digital skills.",
+      "url": "https://csrwire.com/press-release/comcast-and-boys-girls-clubs-thurston-county-open-lift-zones-lacey-help-youth-build-digital/",
+      "publishedAt": "2026-04-30T10:05:00",
+      "content": "Comcast and Boys & Girls Clubs of Thurston County (BGCTC) have opened new Lift Zones in Lacey, Tumwater, Yelm, and Rochester to help youth build their digital skills."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Independent Scientific Review Consolidates Knowledge on Tire Wear Emissions, Finds Understanding of Human Health Impacts To Be Inconclusive",
+      "description": "Third \"State of Knowledge\" (SoK) paper on tire wear emissions concludes that, while the understanding of tire wear emissions has advanced, current data to quantify human health impacts attributable...",
+      "url": "https://csrwire.com/press-release/independent-scientific-review-consolidates-knowledge-tire-wear-emissions-finds-understanding/",
+      "publishedAt": "2026-04-30T09:00:00",
+      "content": "Third \"State of Knowledge\" (SoK) paper on tire wear emissions concludes that, while the understanding of tire wear emissions has advanced, current data to quantify human health impacts attributable..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "For Generations To Come: Ancestry Publishes 2025 Impact Report",
+      "description": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ...",
+      "url": "https://csrwire.com/press-release/generations-come-ancestry-publishes-2025-impact-report/",
+      "publishedAt": "2026-04-29T10:00:00",
+      "content": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Ray’s Expertise Reflected in Arizona Governor’s Final Energy Report",
+      "description": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ...",
+      "url": "https://csrwire.com/press-release/rays-expertise-reflected-arizona-governors-final-energy-report/",
+      "publishedAt": "2026-04-29T09:40:00",
+      "content": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Program Delivers Path to 1.6 Million tCO2e Reduction for Consumer Goods Manufacturers",
+      "description": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers.",
+      "url": "https://csrwire.com/press-release/program-delivers-path-16-million-tco2e-reduction-consumer-goods-manufacturers/",
+      "publishedAt": "2026-04-29T09:00:00",
+      "content": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Money Trees: Paraguay’s Carbon Market Strategy Comes into Focus",
+      "description": "The global compliance carbon market is opening a big financial opportunity, and Paraguay is prepared to make the most of it. TriplePundit",
+      "url": "https://triplepundit.com/2026/paraguay-carbon-credit-compliance-market-article-6/",
+      "publishedAt": "2026-04-28T13:00:00",
+      "content": "The global compliance carbon market is opening a big financial opportunity, and Paraguay is prepared to make the most of it. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "AEG and Pizza City Fest Donate $10,000 to the Culinary Careers Program During Fourth Annual Pizza City Fest at L.A. LIVE",
+      "description": "AEG’s L.",
+      "url": "https://csrwire.com/press-release/aeg-and-pizza-city-fest-donate-10000-culinary-careers-program-during-fourth-annual-pizza-city/",
+      "publishedAt": "2026-04-28T10:00:00",
+      "content": "AEG’s L."
     }
   ]
 }
