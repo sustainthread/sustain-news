@@ -4,28 +4,6 @@
   "articles": [
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Water Conservation Works, But Climate Change Is Outpacing It: Phoenix, Denver and Las Vegas Offer a Glimpse of the Future",
-      "description": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use.",
-      "url": "https://triplepundit.com/2026/urban-water-conservation-drought-phoenix-denver-las-vegas/",
-      "publishedAt": "2026-05-01T21:27:50",
-      "content": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
-      "description": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Carib...",
-      "url": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
-      "publishedAt": "2026-05-01T14:19:29",
-      "content": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Carib..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -40,6 +18,39 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Carbon Data Platform Energi.AI Acquires Sustainability Advisory CEMAsys",
+      "description": "Norway-based climate tech platform Energi.AI announced the acquisition of sustainability advisory firm CEMAsys. in a",
+      "url": "https://www.esgtoday.com/carbon-data-platform-energi-ai-acquires-sustainability-advisory-cemasys/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-data-platform-energi-ai-acquires-sustainability-advisory-cemasys",
+      "publishedAt": "2026-05-04T10:35:33",
+      "content": "Norway-based climate tech platform Energi.AI announced the acquisition of sustainability advisory firm CEMAsys. in a"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Water Conservation Works, But Climate Change Is Outpacing It: Phoenix, Denver and Las Vegas Offer a Glimpse of the Future",
+      "description": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use.",
+      "url": "https://triplepundit.com/2026/urban-water-conservation-drought-phoenix-denver-las-vegas/",
+      "publishedAt": "2026-05-01T21:27:50",
+      "content": "Amid water shortages and policy negotiations, cities in the Colorado River Basin turned to demand management to reduce water use."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TotalEnergies to Build $300 Million Solar Project in the Philippines",
+      "description": "French energy giant TotalEnergies and renewable energy developer Nextnorth announced they have closed financing and",
+      "url": "https://www.esgtoday.com/totalenergies-to-build-300-million-solar-project-in-the-philippines/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-to-build-300-million-solar-project-in-the-philippines",
+      "publishedAt": "2026-05-04T15:12:35",
+      "content": "French energy giant TotalEnergies and renewable energy developer Nextnorth announced they have closed financing and"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "CIP Launches New European Renewable Energy Platform Following Ørsted Onshore Acquisition",
       "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Perigus Energy, its new European",
       "url": "https://www.esgtoday.com/cip-launches-new-european-renewable-energy-platform-following-orsted-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-new-european-renewable-energy-platform-following-orsted-acquisition",
@@ -48,80 +59,80 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "Solaria Raises €300 Million to Build Out Renewables, Storage, Data Center Infrastructure Platform",
-      "description": "Clean energy developer Solaria Energia announced that it has raised €300 million (USD$350 million) through",
-      "url": "https://www.esgtoday.com/solaria-raises-e300-million-to-build-out-renewables-storage-data-center-infrastructure-platform/?utm_source=rss&utm_medium=rss&utm_campaign=solaria-raises-e300-million-to-build-out-renewables-storage-data-center-infrastructure-platform",
-      "publishedAt": "2026-05-01T09:18:06",
-      "content": "Clean energy developer Solaria Energia announced that it has raised €300 million (USD$350 million) through"
+      "author": "New York Times",
+      "title": "Soil at D.C. Golf Course Where East Wing Debris Was Dumped Contains Toxic Metals",
+      "description": "The National Park Service said the dump of debris, between the fourth and ninth holes, does not exceed environmental limits. Opponents disagree.",
+      "url": "https://www.nytimes.com/2026/05/04/climate/east-potomac-golf-debris-toxic.html",
+      "publishedAt": "2026-05-04T22:48:03",
+      "content": "The National Park Service said the dump of debris, between the fourth and ninth holes, does not exceed environmental limits. Opponents disagree."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Octopus Invests $500 Million in U.S. Reforestation-Based Carbon Removal Projects",
-      "description": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new",
-      "url": "https://www.esgtoday.com/octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-invests-500-million-in-u-s-reforestation-based-carbon-removal-projects",
-      "publishedAt": "2026-04-30T15:44:02",
-      "content": "Nature-based solutions company Living Carbon and renewable energy investor Octopus Energy Generation announced a new"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "With Fertilizer Pollution on the Rise, Iowa Will Invest $100 Million in Water Treatment",
-      "description": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov.",
-      "url": "https://insideclimatenews.org/news/01052026/iowa-water-treatment-from-fertilizer-pollution/",
-      "publishedAt": "2026-05-01T23:04:11",
-      "content": "DES MOINES, Iowa—In a press conference at the state capitol on Friday, Gov."
+      "title": "ADB Launches Financing Initiative to Scale Critical Minerals Supply Chains in Asia",
+      "description": "The Asian Development Bank (ADB) announced the launch of the Critical Minerals-to-Manufacturing Financing Partnership Facility,",
+      "url": "https://www.esgtoday.com/adb-launches-financing-initiative-to-scale-critical-mineral-supply-chains-in-asia/?utm_source=rss&utm_medium=rss&utm_campaign=adb-launches-financing-initiative-to-scale-critical-mineral-supply-chains-in-asia",
+      "publishedAt": "2026-05-04T16:05:28",
+      "content": "The Asian Development Bank (ADB) announced the launch of the Critical Minerals-to-Manufacturing Financing Partnership Facility,"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "NYC Pension Funds Say BlackRock, Fidelity not Aligned with Climate Expectations",
-      "description": "New York City’s pension funds reported that asset managers BlackRock and Fidelity remain “insufficiently aligned”",
-      "url": "https://www.esgtoday.com/nyc-pension-funds-say-blackrock-fidelity-not-aligned-with-climate-expectations/?utm_source=rss&utm_medium=rss&utm_campaign=nyc-pension-funds-say-blackrock-fidelity-not-aligned-with-climate-expectations",
-      "publishedAt": "2026-04-30T15:02:01",
-      "content": "New York City’s pension funds reported that asset managers BlackRock and Fidelity remain “insufficiently aligned”"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ERM Appoints Louise Pearce as Global Leader of Sustainability and Risk",
-      "description": "Sustainability advisory firm ERM has appointed Louise Pearce as its new Global Leader of Sustainability",
-      "url": "https://www.esgtoday.com/erm-appoints-louise-pearce-as-global-leader-of-sustainability-and-risk/?utm_source=rss&utm_medium=rss&utm_campaign=erm-appoints-louise-pearce-as-global-leader-of-sustainability-and-risk",
-      "publishedAt": "2026-04-30T14:02:40",
-      "content": "Sustainability advisory firm ERM has appointed Louise Pearce as its new Global Leader of Sustainability"
+      "title": "EU Commission Says Simplification of EUDR Deforestation Law will Cut Costs for Companies by 75%",
+      "description": "The European Commission announced today the release of its simplification review of the EU Deforestation",
+      "url": "https://www.esgtoday.com/eu-commission-says-simplification-of-eudr-deforestation-law-will-cut-costs-for-companies-by-75/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-says-simplification-of-eudr-deforestation-law-will-cut-costs-for-companies-by-75",
+      "publishedAt": "2026-05-04T14:33:55",
+      "content": "The European Commission announced today the release of its simplification review of the EU Deforestation"
     },
     {
       "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "California Leverages EPEAT To Advance Net-Zero Goals Through Sustainable Procurement",
-      "description": "California shows how EPEAT-enabled procurement cuts emissions, saves taxpayers $7.5 million, and advances net-zero goals in a new case study from GEC.",
-      "url": "https://csrwire.com/press-release/california-leverages-epeat-advance-net-zero-goals-through-sustainable-procurement/",
-      "publishedAt": "2026-04-28T09:02:00",
-      "content": "California shows how EPEAT-enabled procurement cuts emissions, saves taxpayers $7.5 million, and advances net-zero goals in a new case study from GEC."
+      "title": "Diagnostics, Vet Visits, Giving Pets a Voice: Jay Mazelsky & Jay Price",
+      "description": "Dogs and cats can't talk yet - but these two guests are helping them do just that. If you want to understand where pet health is headed over the next decade - this is the table for you.",
+      "url": "https://csrwire.com/press-release/diagnostics-vet-visits-giving-pets-voice-jay-mazelsky-jay-price/",
+      "publishedAt": "2026-05-04T13:35:00",
+      "content": "Dogs and cats can't talk yet - but these two guests are helping them do just that. If you want to understand where pet health is headed over the next decade - this is the table for you."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "How We Tracked the Lithium Rush",
-      "description": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U.",
-      "url": "https://insideclimatenews.org/news/03052026/america-lithium-rush-data/",
-      "publishedAt": "2026-05-03T08:50:00",
-      "content": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U."
+      "author": "ESG Today",
+      "title": "IBM Launches GHG Emissions Calculation Solution for Spreadsheet Users",
+      "description": "IBM announced the launch of IBM Envizi Emissions Calculations in Excel, a new solution designed",
+      "url": "https://www.esgtoday.com/ibm-launches-ghg-emissions-calculation-solution-for-spreadsheet-users/?utm_source=rss&utm_medium=rss&utm_campaign=ibm-launches-ghg-emissions-calculation-solution-for-spreadsheet-users",
+      "publishedAt": "2026-05-04T11:37:54",
+      "content": "IBM announced the launch of IBM Envizi Emissions Calculations in Excel, a new solution designed"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Saplings in prisons and bogs on military ranges: Labour’s plans for nature-friendly state land",
+      "description": "Exclusive: Minister says proposals show government’s ambition, as it faces unprecedented pressure from GreensTree nurseries could be built at prisons, and military ranges could be turned into heath...",
+      "url": "https://www.theguardian.com/environment/2026/may/04/prisons-military-ranges-labour-plans-nature-friendly-land",
+      "publishedAt": "2026-05-04T11:09:31",
+      "content": "Exclusive: Minister says proposals show government’s ambition, as it faces unprecedented pressure from GreensTree nurseries could be built at prisons, and military ranges could be turned into heath..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Arcadia Acquires Engie Impact to Create Unified Energy Intelligence Platform",
+      "description": "Energy management solutions provider Arcadia announced the acquisition of power company Engie’s Utility Expense and",
+      "url": "https://www.esgtoday.com/arcadia-acquires-engie-impact-to-create-unified-energy-intelligence-platform/?utm_source=rss&utm_medium=rss&utm_campaign=arcadia-acquires-engie-impact-to-create-unified-energy-intelligence-platform",
+      "publishedAt": "2026-05-04T09:09:16",
+      "content": "Energy management solutions provider Arcadia announced the acquisition of power company Engie’s Utility Expense and"
     },
     {
       "source": {
@@ -139,6 +150,127 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
+      "title": "Country diary: Newts in the pond, commotion in the house | Mark Cocker",
+      "description": "Buxton, Derbyshire: A glimpse of gloop in the water, a hasty net purchase, and it was confirmed – palmate newts have moved in.",
+      "url": "https://www.theguardian.com/environment/2026/may/05/country-diary-newts-in-the-pond-commotion-in-the-house",
+      "publishedAt": "2026-05-05T04:30:42",
+      "content": "Buxton, Derbyshire: A glimpse of gloop in the water, a hasty net purchase, and it was confirmed – palmate newts have moved in."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The man who blew up a nuclear power station and disappeared",
+      "description": "In December 1982, South African Rodney Wilkinson walked four bombs into Koeberg power station – the crown jewel of the apartheid state – pulled the pins and then left on his bicycle. How did he do ...",
+      "url": "https://www.theguardian.com/world/2026/may/05/the-man-who-blew-up-a-nuclear-power-station-koeberg-south-africa",
+      "publishedAt": "2026-05-05T04:00:42",
+      "content": "In December 1982, South African Rodney Wilkinson walked four bombs into Koeberg power station – the crown jewel of the apartheid state – pulled the pins and then left on his bicycle. How did he do ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
+      "description": "Exclusive: ‘Fish sludge’ in coastal waters now has nutrient levels equivalent to those in untreated effluent of country the size of Australia, report findsNorwegian fish farms are filling fjords an...",
+      "url": "https://www.theguardian.com/world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
+      "publishedAt": "2026-05-04T22:01:34",
+      "content": "Exclusive: ‘Fish sludge’ in coastal waters now has nutrient levels equivalent to those in untreated effluent of country the size of Australia, report findsNorwegian fish farms are filling fjords an..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Colorado Snowstorm Could Be Its Biggest All Year",
+      "description": "Snow in May is not rare in the Rocky Mountains. But this year, any snow at all is unusual.",
+      "url": "https://www.nytimes.com/2026/05/04/weather/colorado-snow-forecast.html",
+      "publishedAt": "2026-05-04T20:51:20",
+      "content": "Snow in May is not rare in the Rocky Mountains. But this year, any snow at all is unusual."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Do Spinning Wind Turbines Really Mess With Radar Systems?",
+      "description": "As Pentagon officials delay approval of wind farms, scientific studies show that they can distort radar systems, but the problem is manageable, researchers say.",
+      "url": "https://www.nytimes.com/2026/05/04/climate/wind-turbines-radar-systems.html",
+      "publishedAt": "2026-05-04T18:22:43",
+      "content": "As Pentagon officials delay approval of wind farms, scientific studies show that they can distort radar systems, but the problem is manageable, researchers say."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "In Venice, an Ocean-Inspired Exhibition Takes Visitors Under the Sea",
+      "description": "Inside a former convent on an island, immersive artworks invite visitors to “stretch their sense of self to include the vastness of the ocean.”",
+      "url": "https://www.nytimes.com/2026/05/04/arts/design/venice-biennale-whales-ocean-exhibition.html",
+      "publishedAt": "2026-05-04T17:30:12",
+      "content": "Inside a former convent on an island, immersive artworks invite visitors to “stretch their sense of self to include the vastness of the ocean.”"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Reform government could cause Truss-style chaos, says renewables industry",
+      "description": "Lobbyist Tara Singh says stripping projects of subsidy contracts would undermine investor confidence in UKBritain could be beset by levels of economic chaos last seen under Liz Truss if a Reform UK...",
+      "url": "https://www.theguardian.com/environment/2026/may/04/reform-uk-government-truss-renewable-energy-policy",
+      "publishedAt": "2026-05-04T13:00:23",
+      "content": "Lobbyist Tara Singh says stripping projects of subsidy contracts would undermine investor confidence in UKBritain could be beset by levels of economic chaos last seen under Liz Truss if a Reform UK..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fixing methane mega-leaks could boost energy stock amid crisis, report says",
+      "description": "International Energy Agency analysis shows methane leaks remained at near-record highs in 2025Methane emissions from the energy sector remained at near record levels in 2025, the International Ener...",
+      "url": "https://www.theguardian.com/environment/2026/may/04/fixing-mega-leaks-of-methane-would-hugely-boost-energy-stock-amid-crisis-report-says",
+      "publishedAt": "2026-05-04T08:50:29",
+      "content": "International Energy Agency analysis shows methane leaks remained at near-record highs in 2025Methane emissions from the energy sector remained at near record levels in 2025, the International Ener..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Flooding in Chicago Is Getting Worse. Here’s Why.",
+      "description": "In a little-noticed memo early last year, Illinois scientists made a dire prediction.",
+      "url": "https://insideclimatenews.org/news/04052026/chicago-flooding-climate-change/",
+      "publishedAt": "2026-05-04T08:50:00",
+      "content": "In a little-noticed memo early last year, Illinois scientists made a dire prediction."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How We Tracked the Lithium Rush",
+      "description": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U.",
+      "url": "https://insideclimatenews.org/news/03052026/america-lithium-rush-data/",
+      "publishedAt": "2026-05-03T08:50:00",
+      "content": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How We’re Building a Cleaner, More Efficient Energy Supply | Cisco FY25 Purpose Report",
+      "description": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply.",
+      "url": "https://csrwire.com/press-release/how-were-building-cleaner-more-efficient-energy-supply-cisco-fy25-purpose-report/",
+      "publishedAt": "2026-04-29T08:05:00",
+      "content": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
       "title": "‘Living library’: inside the marine biobanks racing to protect ocean species from extinction",
       "description": "Australia’s biobanks store everything from seeds of native plants to the cells and tissue of threatened animal speciesIn the mudflats of Swan Bay, Victoria, royal spoonbills sweep their paddle-shap...",
       "url": "https://www.theguardian.com/environment/2026/may/04/marine-biobanks-protect-ocean-species",
@@ -147,14 +279,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Driving Electric in Costa Rica Is Surprisingly Doable",
-      "description": "The charging network is spotty, but it’s a small country.",
-      "url": "https://www.nytimes.com/2026/05/03/business/costa-rica-electric-vehicle-road-trip.html",
-      "publishedAt": "2026-05-03T19:24:12",
-      "content": "The charging network is spotty, but it’s a small country."
+      "author": "The Guardian",
+      "title": "Reform UK council backs release of beavers amid party row over rewilding",
+      "description": "Councillors in Leicestershire support move in efforts to reduce flooding as Reform faces divisions on nature policyA Reform UK council has backed the release of wild beavers into the countryside, d...",
+      "url": "https://www.theguardian.com/politics/2026/may/03/reform-uk-leicestershire-council-backs-release-wild-beavers-row-rewilding",
+      "publishedAt": "2026-05-03T10:50:35",
+      "content": "Councillors in Leicestershire support move in efforts to reduce flooding as Reform faces divisions on nature policyA Reform UK council has backed the release of wild beavers into the countryside, d..."
     },
     {
       "source": {
@@ -202,17 +334,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "In Permissive Amsterdam, Ads for Fossil Fuels or Meat Are Now Verboden",
-      "description": "The Dutch city has outlawed advertising that promotes lifestyles linked to high carbon emissions, which is a driver of climate change. It’s a first for a world capital.",
-      "url": "https://www.nytimes.com/2026/05/01/climate/in-permissive-amsterdam-ads-for-fossil-fuels-or-meat-are-now-verboden.html",
-      "publishedAt": "2026-05-01T13:23:35",
-      "content": "The Dutch city has outlawed advertising that promotes lifestyles linked to high carbon emissions, which is a driver of climate change. It’s a first for a world capital."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -235,105 +356,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Boeing Buys 20,000-Ton Portfolio of Biochar, ERW Carbon Removals",
-      "description": "Carbon removal marketplace Supercritical announced a new agreement with Boeing for the purchase of 20,000",
-      "url": "https://www.esgtoday.com/boeing-buys-20000-ton-portfolio-of-biochar-erw-carbon-removals/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-buys-20000-ton-portfolio-of-biochar-erw-carbon-removals",
-      "publishedAt": "2026-05-01T08:34:57",
-      "content": "Carbon removal marketplace Supercritical announced a new agreement with Boeing for the purchase of 20,000"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How We’re Building a Cleaner, More Efficient Energy Supply | Cisco FY25 Purpose Report",
-      "description": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply.",
-      "url": "https://csrwire.com/press-release/how-were-building-cleaner-more-efficient-energy-supply-cisco-fy25-purpose-report/",
-      "publishedAt": "2026-04-29T08:05:00",
-      "content": "Cisco has long believed that sustainability action can spur innovation and build a more resilient energy supply."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Rescuers release humpback whale that was stranded off German coast",
-      "description": "Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survivalRescuers have released a young humpback whale that became a national sensation after it...",
-      "url": "https://www.theguardian.com/environment/2026/may/02/humpback-whale-rescue-release-stranded-germany-baltic-coast",
-      "publishedAt": "2026-05-02T11:38:52",
-      "content": "Calf was transported by water-filled barge in operation deemed ‘inadvisable’ because of low chance of survivalRescuers have released a young humpback whale that became a national sensation after it..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "To give young people wings: The Lost Words duo reunite for book of birds",
-      "description": "Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and endangered speciesWhen the artist Jackie Morris collaborat...",
-      "url": "https://www.theguardian.com/environment/2026/may/02/the-lost-words-authors-jackie-morris-robert-macfarlane-reunite-book-of-birds",
-      "publishedAt": "2026-05-02T11:00:23",
-      "content": "Jackie Morris and Robert Macfarlane give the Guardian exclusive extracts as they aim to open eyes to the wonder of Britain’s declining and endangered speciesWhen the artist Jackie Morris collaborat..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The farm is mourning Moss, 14 years old and alert to the end | Andrea Meanwell",
-      "description": "Tebay, Cumbria: While new life begins up on our hills, down at the farmstead I say goodbye to a dear companionLambing is still in full swing here, and each evening I start my last rounds at 8.30pm,...",
-      "url": "https://www.theguardian.com/environment/2026/may/02/country-diary-the-farm-is-mourning-moss-14-years-old-and-alert-to-the-end",
-      "publishedAt": "2026-05-02T04:30:15",
-      "content": "Tebay, Cumbria: While new life begins up on our hills, down at the farmstead I say goodbye to a dear companionLambing is still in full swing here, and each evening I start my last rounds at 8.30pm,..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Is this the real face of Anne Boleyn?",
-      "description": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
-      "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-01T23:01:44",
-      "content": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Is this actually what Anne Boleyn looked like?",
-      "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be.",
-      "url": "https://www.bbc.com/news/videos/c3d2e581k7do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-01T14:44:02",
-      "content": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Utility Bills Are Likely to Be Higher This Summer. Here’s What You Can Do.",
-      "description": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked.",
-      "url": "https://www.nytimes.com/2026/05/01/your-money/electricity-costs-summer.html",
-      "publishedAt": "2026-05-01T13:00:05",
-      "content": "The average bill is forecast to rise 8.5 percent. There are simple ways to make sure you’re not overpaying, like getting your air-conditioning checked."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "After Prison, a Financial Titan Plots an Unlikely Comeback",
-      "description": "Bill McGlashan served time for trying to buy his son’s way into college during the Varsity Blues scandal. He hopes his new venture will restore his name — and save the planet.",
-      "url": "https://www.nytimes.com/2026/05/01/business/after-prison-a-financial-titan-plots-an-unlikely-comeback.html",
-      "publishedAt": "2026-05-01T09:00:10",
-      "content": "Bill McGlashan served time for trying to buy his son’s way into college during the Varsity Blues scandal. He hopes his new venture will restore his name — and save the planet."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -342,17 +364,6 @@
       "url": "https://triplepundit.com/2026/usda-forest-service-reorganization-public-lands-lumber-industry/",
       "publishedAt": "2026-04-30T22:18:11",
       "content": "The U."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Scotiabank, RBC Drop Financed Emissions Goals",
-      "description": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce",
-      "url": "https://www.esgtoday.com/scotiabank-rbc-drop-financed-emissions-goals/?utm_source=rss&utm_medium=rss&utm_campaign=scotiabank-rbc-drop-financed-emissions-goals",
-      "publishedAt": "2026-04-30T13:20:34",
-      "content": "Canadian banks Scotiabank and RBC revealed that they have retired their 2030 targets to reduce"
     },
     {
       "source": {
@@ -419,17 +430,6 @@
       "url": "https://triplepundit.com/2026/paraguay-carbon-credit-compliance-market-article-6/",
       "publishedAt": "2026-04-28T13:00:00",
       "content": "The global compliance carbon market is opening a big financial opportunity, and Paraguay is prepared to make the most of it. TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AEG and Pizza City Fest Donate $10,000 to the Culinary Careers Program During Fourth Annual Pizza City Fest at L.A. LIVE",
-      "description": "AEG’s L.",
-      "url": "https://csrwire.com/press-release/aeg-and-pizza-city-fest-donate-10000-culinary-careers-program-during-fourth-annual-pizza-city/",
-      "publishedAt": "2026-04-28T10:00:00",
-      "content": "AEG’s L."
     }
   ]
 }
