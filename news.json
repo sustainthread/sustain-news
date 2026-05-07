@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 33,
   "articles": [
     {
       "source": {
@@ -10,8 +10,19 @@
       "title": "More Sustainable Fashion Brand Offers This May 2026",
       "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-04-30T02:00:45",
+      "publishedAt": "2026-05-05T02:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Pandora Introduces Carbon Footprint Labelling for Lab Grown Diamonds",
+      "description": "Jewelry designer and retailer Pandora announced today that it has added carbon footprint labelling for",
+      "url": "https://www.esgtoday.com/pandora-introduces-carbon-footprint-labelling-for-lab-grown-diamonds/?utm_source=rss&utm_medium=rss&utm_campaign=pandora-introduces-carbon-footprint-labelling-for-lab-grown-diamonds",
+      "publishedAt": "2026-05-06T14:45:16",
+      "content": "Jewelry designer and retailer Pandora announced today that it has added carbon footprint labelling for"
     },
     {
       "source": {
@@ -26,39 +37,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Peter Thiel Leads $140 Million Capital Raise for Panthalassa to Power AI Computing Using Ocean Waves",
-      "description": "Clean energy and ocean technology company Panthalassa announced that it has raised $140 million in",
-      "url": "https://www.esgtoday.com/peter-thiel-leads-140-million-capital-raise-for-panthalassa-to-power-ai-computing-using-ocean-waves/?utm_source=rss&utm_medium=rss&utm_campaign=peter-thiel-leads-140-million-capital-raise-for-panthalassa-to-power-ai-computing-using-ocean-waves",
-      "publishedAt": "2026-05-05T09:04:29",
-      "content": "Clean energy and ocean technology company Panthalassa announced that it has raised $140 million in"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Two Thirds of Investors Plan to Increase Allocation to Sustainable Investments: Morgan Stanley Survey",
-      "description": "More than 90% of individual investors reported that they are interested in sustainable investing, increasing",
-      "url": "https://www.esgtoday.com/investor-interest-in-sustainable-investing-increases-over-last-year-with-performance-as-top-driver-morgan-stanley-survey/?utm_source=rss&utm_medium=rss&utm_campaign=investor-interest-in-sustainable-investing-increases-over-last-year-with-performance-as-top-driver-morgan-stanley-survey",
-      "publishedAt": "2026-05-05T11:47:29",
-      "content": "More than 90% of individual investors reported that they are interested in sustainable investing, increasing"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TotalEnergies to Build $300 Million Solar Project in the Philippines",
-      "description": "French energy giant TotalEnergies and renewable energy developer Nextnorth announced they have closed financing and",
-      "url": "https://www.esgtoday.com/totalenergies-to-build-300-million-solar-project-in-the-philippines/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-to-build-300-million-solar-project-in-the-philippines",
-      "publishedAt": "2026-05-04T15:12:35",
-      "content": "French energy giant TotalEnergies and renewable energy developer Nextnorth announced they have closed financing and"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -70,36 +48,201 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "A Climate Activist Wants to Run California. Coal Helped Fuel His Wealth.",
-      "description": "Questions linger about the finances of Tom Steyer, who has emerged as a leading contender in the California governor’s race.",
-      "url": "https://www.nytimes.com/2026/05/05/us/tom-steyer-california-governor-coal.html",
-      "publishedAt": "2026-05-05T14:49:40",
-      "content": "Questions linger about the finances of Tom Steyer, who has emerged as a leading contender in the California governor’s race."
+      "author": "ESG Today",
+      "title": "AI Governance Is Becoming a Supply Chain Risk — Not Just an ESG Issue",
+      "description": "Guest post by: Simon Jaehnig, President and Chief Strategy & Innovation Officer (CSIO), IntegrityNext For",
+      "url": "https://www.esgtoday.com/ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue",
+      "publishedAt": "2026-05-07T07:10:33",
+      "content": "Guest post by: Simon Jaehnig, President and Chief Strategy & Innovation Officer (CSIO), IntegrityNext For"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "The Guardian",
-      "title": "As household bills soar, is it time for a ‘working-class climate agenda’?",
-      "description": "Group that worked with AOC and Bernie Sanders seeks to counter claim that climate policy is politically toxicAmericans do not care about the climate crisis, only economic issues: that’s the message...",
-      "url": "https://www.theguardian.com/us-news/2026/may/05/climate-crisis-working-class-economy",
-      "publishedAt": "2026-05-05T11:30:38",
-      "content": "Group that worked with AOC and Bernie Sanders seeks to counter claim that climate policy is politically toxicAmericans do not care about the climate crisis, only economic issues: that’s the message..."
+      "author": "New York Times",
+      "title": "Why Is Gas So Much More Expensive in Some States Than Others?",
+      "description": "Shipping, taxes, competition and environmental regulations all play a part in the cost of gasoline. That can lead to stark differences in pump prices.",
+      "url": "https://www.nytimes.com/2026/05/06/business/energy-environment/gasoline-prices-states-iran-war.html",
+      "publishedAt": "2026-05-06T17:26:33",
+      "content": "Shipping, taxes, competition and environmental regulations all play a part in the cost of gasoline. That can lead to stark differences in pump prices."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Ameresco, HASI Launch $1.8 Billion Biofuels Platform",
-      "description": "Energy solutions provider Ameresco and sustainable infrastructure investor HA Sustainable Infrastructure Capital (HASI) announced the",
-      "url": "https://www.esgtoday.com/ameresco-hasi-launch-1-8-billion-biofuels-platform/?utm_source=rss&utm_medium=rss&utm_campaign=ameresco-hasi-launch-1-8-billion-biofuels-platform",
-      "publishedAt": "2026-05-05T13:34:10",
-      "content": "Energy solutions provider Ameresco and sustainable infrastructure investor HA Sustainable Infrastructure Capital (HASI) announced the"
+      "title": "Moment Energy Raises $40 Million to Power Data Centers, Industry with Used EV Batteries",
+      "description": "Cleantech energy company Moment Energy announced that it has raised $40 million in a Series",
+      "url": "https://www.esgtoday.com/moment-energy-raises-40-million-to-power-data-centers-industry-with-used-ev-batteries/?utm_source=rss&utm_medium=rss&utm_campaign=moment-energy-raises-40-million-to-power-data-centers-industry-with-used-ev-batteries",
+      "publishedAt": "2026-05-06T15:26:25",
+      "content": "Cleantech energy company Moment Energy announced that it has raised $40 million in a Series"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "U.S. Sues New York Times Over Alleged DEI-Based Discrimination Against White Male Employee",
+      "description": "U.S. federal agency The Equal Employment Opportunity Commission (EEOC) announced that it has filed a",
+      "url": "https://www.esgtoday.com/u-s-sues-new-york-times-over-alleged-dei-based-discrimination/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sues-new-york-times-over-alleged-dei-based-discrimination",
+      "publishedAt": "2026-05-06T13:58:51",
+      "content": "U.S. federal agency The Equal Employment Opportunity Commission (EEOC) announced that it has filed a"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Massive Alaska megatsunami was second largest ever recorded",
+      "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-06T12:00:25",
+      "content": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Signs Deal to Deploy Energy, Emissions-Saving HVAC Technology Across Global Building Network",
+      "description": "Amazon and cooling and dehumidification technology company Transaera announced a new agreement to deploy Transaera’s",
+      "url": "https://www.esgtoday.com/amazon-signs-deal-to-deploy-energy-emissions-saving-hvac-technology-across-global-building-network/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-signs-deal-to-deploy-energy-emissions-saving-hvac-technology-across-global-building-network",
+      "publishedAt": "2026-05-06T11:46:11",
+      "content": "Amazon and cooling and dehumidification technology company Transaera announced a new agreement to deploy Transaera’s"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Parliament SFDR Draft Proposes Tougher ESG Fund Labelling Rules",
+      "description": "The European Parliament may push for increased disclosure and investment requirements for financial products under",
+      "url": "https://www.esgtoday.com/eu-parliament-sfdr-draft-proposes-tougher-esg-fund-labelling-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-sfdr-draft-proposes-tougher-esg-fund-labelling-rules",
+      "publishedAt": "2026-05-06T10:42:28",
+      "content": "The European Parliament may push for increased disclosure and investment requirements for financial products under"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Sparking Curiosity: 2,000 Kids From PSEG Families Visit Locations for Hands-On Learning During Take Our Kids To Work Day",
+      "description": "From bucket trucks to safety demos, Take Our Kids to Work Day gave more than 2,000 children ages 6 to 12 a closer look at how PSEG delivers safe, reliable energy and takes care of communities every...",
+      "url": "https://csrwire.com/press-release/sparking-curiosity-2000-kids-pseg-families-visit-locations-hands-learning-during-take-our-kids/",
+      "publishedAt": "2026-05-06T10:00:00",
+      "content": "From bucket trucks to safety demos, Take Our Kids to Work Day gave more than 2,000 children ages 6 to 12 a closer look at how PSEG delivers safe, reliable energy and takes care of communities every..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Aberdeen Appoints Kate McGrath as Head of ESG for Fixed Income",
+      "description": "Aberdeen Investments announced the appointment of Kate McGrath as its new Head of ESG, Fixed",
+      "url": "https://www.esgtoday.com/aberdeen-appoints-kate-mcgrath-as-head-of-esg-for-fixed-income/?utm_source=rss&utm_medium=rss&utm_campaign=aberdeen-appoints-kate-mcgrath-as-head-of-esg-for-fixed-income",
+      "publishedAt": "2026-05-06T09:20:02",
+      "content": "Aberdeen Investments announced the appointment of Kate McGrath as its new Head of ESG, Fixed"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Comcast Business Helps Michigan Small Businesses Scale With Technology and Opportunity Through Next Big Idea Pitch Competition",
+      "description": "From reliable connectivity to advanced business solutions, Comcast Business is committed to helping Michigan’s small businesses start strong, scale smarter, and grow with confidence.",
+      "url": "https://csrwire.com/press-release/comcast-business-helps-michigan-small-businesses-scale-technology-and-opportunity-through-next/",
+      "publishedAt": "2026-05-06T09:00:00",
+      "content": "From reliable connectivity to advanced business solutions, Comcast Business is committed to helping Michigan’s small businesses start strong, scale smarter, and grow with confidence."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Remembering a woman who gave so much to this village | Nicola Chester",
+      "description": "Inkpen, Berkshire: There is far less birdsong now than in Lillian Watts’s day, but it is down to her that there is any at allLillian Watts’s bench has fallen into disrepair, so instead I sit on Art...",
+      "url": "https://www.theguardian.com/environment/2026/may/07/country-diary-remembering-a-woman-who-gave-so-much-to-this-village",
+      "publishedAt": "2026-05-07T04:30:38",
+      "content": "Inkpen, Berkshire: There is far less birdsong now than in Lillian Watts’s day, but it is down to her that there is any at allLillian Watts’s bench has fallen into disrepair, so instead I sit on Art..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rewilding giants: captive elephants rehomed in Europe’s first sanctuary",
+      "description": "Julie, once a circus elephant, and Kariba, from a Belgian zoo, are to be moved to a former ranch in PortugalEurope’s first large-scale elephant sanctuary, which is opening to offer a more natural e...",
+      "url": "https://www.theguardian.com/world/2026/may/07/captive-elephants-rehomed-europe-first-sanctuary",
+      "publishedAt": "2026-05-07T04:01:38",
+      "content": "Julie, once a circus elephant, and Kariba, from a Belgian zoo, are to be moved to a former ranch in PortugalEurope’s first large-scale elephant sanctuary, which is opening to offer a more natural e..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "100 years on Earth: celebrating David Attenborough’s birthday – podcast",
+      "description": "To celebrate Sir David Attenborough’s centenary, Madeleine Finlay catches up with natural history writer Patrick Barkham, who has met the celebrated presenter. They explore how the natural world ha...",
+      "url": "https://www.theguardian.com/science/audio/2026/may/07/100-years-on-earth-celebrating-david-attenborough-birthday-podcast",
+      "publishedAt": "2026-05-07T04:00:39",
+      "content": "To celebrate Sir David Attenborough’s centenary, Madeleine Finlay catches up with natural history writer Patrick Barkham, who has met the celebrated presenter. They explore how the natural world ha..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Tame the water or let it flow? New Zealand grapples with how to protect its braided rivers",
+      "description": "Intervention for farming and flood risk changes the unique systems as communities grapple with how to live alongside the vital waterwaysWhen British settlers started building Christchurch city 170 ...",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/07/tame-the-water-or-let-it-flow-new-zealand-grapples-with-how-to-protect-its-braided-rivers",
+      "publishedAt": "2026-05-06T23:32:05",
+      "content": "Intervention for farming and flood risk changes the unique systems as communities grapple with how to live alongside the vital waterwaysWhen British settlers started building Christchurch city 170 ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Colorado Snowstorm In May Could Be Its Biggest This Season",
+      "description": "A snowstorm hitting the Rocky Mountains this week could end up being the biggest of the season, forecasters said. More than 10 inches fell in Boulder.",
+      "url": "https://www.nytimes.com/2026/05/05/weather/colorado-snow-ski-snowpack.html",
+      "publishedAt": "2026-05-06T18:43:56",
+      "content": "A snowstorm hitting the Rocky Mountains this week could end up being the biggest of the season, forecasters said. More than 10 inches fell in Boulder."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Weather Service Races to Rehire as Storm Season Arrives",
+      "description": "After deep cuts last year, the agency is hiring hundreds. But fears linger that it isn’t equipped for imminent tornado and hurricane threats.",
+      "url": "https://www.nytimes.com/2026/05/06/climate/weather-service-staff-storms.html",
+      "publishedAt": "2026-05-06T18:07:29",
+      "content": "After deep cuts last year, the agency is hiring hundreds. But fears linger that it isn’t equipped for imminent tornado and hurricane threats."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Norwegian government attacked over decision to reopen North Sea gasfields",
+      "description": "Approval for exploration in 70 new areas prompts fierce backlash from fossil fuel opponents  The Norwegian government has been heavily criticised for approving plans to reopen three North Sea gasfi...",
+      "url": "https://www.theguardian.com/business/2026/may/06/norwegian-government-rebuked-over-decision-to-reopen-north-sea-gas-fields",
+      "publishedAt": "2026-05-06T15:25:36",
+      "content": "Approval for exploration in 70 new areas prompts fierce backlash from fossil fuel opponents  The Norwegian government has been heavily criticised for approving plans to reopen three North Sea gasfi..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Renewables Are Gaining on Fossil Fuels, IRENA Report Finds",
+      "description": "Sources like wind and solar can now deliver continuous power, according to a new report. And, they’re often a bargain compared with fossil fuels.",
+      "url": "https://www.nytimes.com/2026/05/06/climate/irena-renewables-energy-cost.html",
+      "publishedAt": "2026-05-06T09:48:48",
+      "content": "Sources like wind and solar can now deliver continuous power, according to a new report. And, they’re often a bargain compared with fossil fuels."
     },
     {
       "source": {
@@ -136,61 +279,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Barocal Raises $10 Million to Cut Data Center Cooling, Refrigeration Emissions",
-      "description": "Materials science startup Barocal announced that it has raised $10 million in a Seed funding",
-      "url": "https://www.esgtoday.com/barocal-raises-10-million-to-cut-data-center-cooling-refrigeration-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=barocal-raises-10-million-to-cut-data-center-cooling-refrigeration-emissions",
-      "publishedAt": "2026-05-05T12:55:17",
-      "content": "Materials science startup Barocal announced that it has raised $10 million in a Seed funding"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
-      "description": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvestA new trade deal with the EU could lead to restrictions on the use of the controversial we...",
-      "url": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-      "publishedAt": "2026-05-06T05:00:03",
-      "content": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvestA new trade deal with the EU could lead to restrictions on the use of the controversial we..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Gibraltar dumping all of its raw sewage into Mediterranean",
-      "description": "Wastewater from nearly 40,000 people and businesses pumped straight into sea as territory still has no treatment plantRaw sewage from nearly 40,000 people and businesses is being pumped straight in...",
-      "url": "https://www.theguardian.com/world/2026/may/06/uk-territory-gibraltar-dumps-raw-sewage-mediterranean",
-      "publishedAt": "2026-05-06T05:00:03",
-      "content": "Wastewater from nearly 40,000 people and businesses pumped straight into sea as territory still has no treatment plantRaw sewage from nearly 40,000 people and businesses is being pumped straight in..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Colorado Snowstorm In May Could Be Its Biggest This Season",
-      "description": "A snowstorm hitting the Rocky Mountains this week could end up being the biggest all season, forecasters said.",
-      "url": "https://www.nytimes.com/2026/05/05/weather/colorado-snow-ski-snowpack.html",
-      "publishedAt": "2026-05-05T22:39:57",
-      "content": "A snowstorm hitting the Rocky Mountains this week could end up being the biggest all season, forecasters said."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Ford Says an Affordable Electric Pickup Truck is Still Coming Next Year",
-      "description": "Ford Motor has written off $20 billion in electric vehicle investments but says it is forging ahead with an electric pickup that will sell for $30,000 next year.",
-      "url": "https://www.nytimes.com/2026/05/05/business/ford-motor-electric-pickup-truck.html",
-      "publishedAt": "2026-05-05T13:00:06",
-      "content": "Ford Motor has written off $20 billion in electric vehicle investments but says it is forging ahead with an electric pickup that will sell for $30,000 next year."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -199,28 +287,6 @@
       "url": "https://www.nytimes.com/2026/05/04/climate/east-potomac-golf-debris-toxic.html",
       "publishedAt": "2026-05-04T22:48:03",
       "content": "The National Park Service said the dump of debris, between the fourth and ninth holes, does not exceed environmental limits. Opponents disagree."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ADB Launches Financing Initiative to Scale Critical Minerals Supply Chains in Asia",
-      "description": "The Asian Development Bank (ADB) announced the launch of the Critical Minerals-to-Manufacturing Financing Partnership Facility,",
-      "url": "https://www.esgtoday.com/adb-launches-financing-initiative-to-scale-critical-mineral-supply-chains-in-asia/?utm_source=rss&utm_medium=rss&utm_campaign=adb-launches-financing-initiative-to-scale-critical-mineral-supply-chains-in-asia",
-      "publishedAt": "2026-05-04T16:05:28",
-      "content": "The Asian Development Bank (ADB) announced the launch of the Critical Minerals-to-Manufacturing Financing Partnership Facility,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Commission Says Simplification of EUDR Deforestation Law will Cut Costs for Companies by 75%",
-      "description": "The European Commission announced today the release of its simplification review of the EU Deforestation",
-      "url": "https://www.esgtoday.com/eu-commission-says-simplification-of-eudr-deforestation-law-will-cut-costs-for-companies-by-75/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-says-simplification-of-eudr-deforestation-law-will-cut-costs-for-companies-by-75",
-      "publishedAt": "2026-05-04T14:33:55",
-      "content": "The European Commission announced today the release of its simplification review of the EU Deforestation"
     },
     {
       "source": {
@@ -235,14 +301,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "Saplings in prisons and bogs on military ranges: Labour’s plans for nature-friendly state land",
-      "description": "Exclusive: Minister says proposals show government’s ambition, as it faces unprecedented pressure from GreensTree nurseries could be built at prisons, and military ranges could be turned into heath...",
-      "url": "https://www.theguardian.com/environment/2026/may/04/prisons-military-ranges-labour-plans-nature-friendly-land",
-      "publishedAt": "2026-05-04T11:09:31",
-      "content": "Exclusive: Minister says proposals show government’s ambition, as it faces unprecedented pressure from GreensTree nurseries could be built at prisons, and military ranges could be turned into heath..."
+      "author": "Inside Climate News",
+      "title": "Flooding in Chicago Is Getting Worse. Here’s Why.",
+      "description": "This story was originally published by the Chicago Sun-Times.",
+      "url": "https://insideclimatenews.org/news/04052026/chicago-flooding-climate-change/",
+      "publishedAt": "2026-05-04T08:50:00",
+      "content": "This story was originally published by the Chicago Sun-Times."
     },
     {
       "source": {
@@ -254,61 +320,6 @@
       "url": "https://insideclimatenews.org/news/03052026/america-lithium-rush-data/",
       "publishedAt": "2026-05-03T08:50:00",
       "content": "There’s a global rush for new sources of lithium to power the green-energy transition, including a major push for mining the critical metal in the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Norwegian fish farms polluting fjords with waste likened to ‘raw sewage of millions of people’",
-      "description": "Exclusive: ‘Fish sludge’ in coastal waters now has nutrient levels equivalent to those in untreated effluent of country the size of Australia, report findsNorwegian fish farms are filling fjords an...",
-      "url": "https://www.theguardian.com/world/2026/may/04/norwegian-fish-farms-polluting-fjords-with-waste-likened-to-raw-sewage-of-millions-of-people",
-      "publishedAt": "2026-05-04T22:01:34",
-      "content": "Exclusive: ‘Fish sludge’ in coastal waters now has nutrient levels equivalent to those in untreated effluent of country the size of Australia, report findsNorwegian fish farms are filling fjords an..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Flooding in Chicago Is Getting Worse. Here’s Why.",
-      "description": "In a little-noticed memo early last year, Illinois scientists made a dire prediction.",
-      "url": "https://insideclimatenews.org/news/04052026/chicago-flooding-climate-change/",
-      "publishedAt": "2026-05-04T08:50:00",
-      "content": "In a little-noticed memo early last year, Illinois scientists made a dire prediction."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "What Is Fast Fashion and Why Is It So Bad?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/what-is-fast-fashion/",
-      "publishedAt": "2026-05-03T23:00:03",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "What the US Could Learn About Mining on Indigenous Peoples’ Ancestral Lands",
-      "description": "In the U.",
-      "url": "https://insideclimatenews.org/news/03052026/global-indigenous-rights/",
-      "publishedAt": "2026-05-03T08:55:00",
-      "content": "In the U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Mining the Metal of the Future",
-      "description": "Today, just one lithium mine operates in the U.",
-      "url": "https://insideclimatenews.org/news/03052026/icn-sunday-morning-lithium-mining-future/",
-      "publishedAt": "2026-05-03T08:45:00",
-      "content": "Today, just one lithium mine operates in the U."
     },
     {
       "source": {
@@ -353,39 +364,6 @@
       "url": "https://csrwire.com/press-release/independent-scientific-review-consolidates-knowledge-tire-wear-emissions-finds-understanding/",
       "publishedAt": "2026-04-30T09:00:00",
       "content": "Third \"State of Knowledge\" (SoK) paper on tire wear emissions concludes that, while the understanding of tire wear emissions has advanced, current data to quantify human health impacts attributable..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "For Generations To Come: Ancestry Publishes 2025 Impact Report",
-      "description": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ...",
-      "url": "https://csrwire.com/press-release/generations-come-ancestry-publishes-2025-impact-report/",
-      "publishedAt": "2026-04-29T10:00:00",
-      "content": "Ancestry, the global leader in family history, published its 2025 Impact Report, detailing the company’s ongoing commitment to enhancing its products and leveraging its resources to build a better ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Ray’s Expertise Reflected in Arizona Governor’s Final Energy Report",
-      "description": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ...",
-      "url": "https://csrwire.com/press-release/rays-expertise-reflected-arizona-governors-final-energy-report/",
-      "publishedAt": "2026-04-29T09:40:00",
-      "content": "Following months of strategic collaboration, the Arizona Energy Promise Task Force has released its final report to Governor Katie Hobbs, outlining 31 consensus-driven recommendations to modernize ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Program Delivers Path to 1.6 Million tCO2e Reduction for Consumer Goods Manufacturers",
-      "description": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers.",
-      "url": "https://csrwire.com/press-release/program-delivers-path-16-million-tco2e-reduction-consumer-goods-manufacturers/",
-      "publishedAt": "2026-04-29T09:00:00",
-      "content": "Cascale’s MCAP program celebrates the graduation of 52 manufacturers advancing measurable emissions reductions across supply chains; Everlane lauds suppliers."
     }
   ]
 }
