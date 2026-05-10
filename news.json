@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 36,
   "articles": [
     {
       "source": {
@@ -73,33 +73,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
-      "description": "Promises to cut emissions and use more fuel-efficient planes fail to stop rise, with Ryanair’s carbon footprint 50% up on 2019Emissions from flying in Europe have now passed pre-pandemic levels, wi...",
-      "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
-      "publishedAt": "2026-05-08T10:30:25",
-      "content": "Promises to cut emissions and use more fuel-efficient planes fail to stop rise, with Ryanair’s carbon footprint 50% up on 2019Emissions from flying in Europe have now passed pre-pandemic levels, wi..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Our cities are choked by cars – here’s how experts would fix them",
-      "description": "Turning parking bays into green spaces and prioritising cyclists may be the fastest routes to improving urban lifeClean air, safer streets and a stable climate are among the reasons doctors and env...",
-      "url": "https://www.theguardian.com/environment/2026/may/08/cities-cars-experts-green-spaces-cyclists",
-      "publishedAt": "2026-05-08T10:00:25",
-      "content": "Turning parking bays into green spaces and prioritising cyclists may be the fastest routes to improving urban lifeClean air, safer streets and a stable climate are among the reasons doctors and env..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How Climate Change Makes Your Allergies Worse",
-      "description": "It’s not in your head.",
-      "url": "https://insideclimatenews.org/news/08052026/pollen-allergies-climate-change/",
-      "publishedAt": "2026-05-08T09:00:00",
-      "content": "It’s not in your head."
+      "title": "‘A long road ahead’: could community car-sharing help UK hit climate targets?",
+      "description": "East Midlands electric car club helps residents and cuts emissions – but the need for a volunteer-led scheme reflects a much wider problemIn the aftermath of the Covid pandemic Miriam Stoate, a reg...",
+      "url": "https://www.theguardian.com/environment/2026/may/10/a-long-road-ahead-could-community-car-sharing-help-uk-hit-climate-targets",
+      "publishedAt": "2026-05-10T06:00:17",
+      "content": "East Midlands electric car club helps residents and cuts emissions – but the need for a volunteer-led scheme reflects a much wider problemIn the aftermath of the Covid pandemic Miriam Stoate, a reg..."
     },
     {
       "source": {
@@ -136,14 +114,36 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "BP plans to sell shares in flagship carbon projects as it pulls back from green agenda",
-      "description": "Oil firm seeks to reduce stake in carbon capture and storage projects in north-east of England after schemes fail to win over shareholdersBP plans to sell stakes in two flagship carbon capture and ...",
-      "url": "https://www.theguardian.com/business/2026/may/07/bp-sell-shares-carbon-projects-green-agenda",
-      "publishedAt": "2026-05-07T15:35:36",
-      "content": "Oil firm seeks to reduce stake in carbon capture and storage projects in north-east of England after schemes fail to win over shareholdersBP plans to sell stakes in two flagship carbon capture and ..."
+      "author": "Inside Climate News",
+      "title": "How Climate Change Makes Your Allergies Worse",
+      "description": "It’s not in your head.",
+      "url": "https://insideclimatenews.org/news/08052026/pollen-allergies-climate-change/",
+      "publishedAt": "2026-05-08T09:00:00",
+      "content": "It’s not in your head."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Smog, Lies and Pineapples: How LA Cleaned up Its Air and What’s Left to Do",
+      "description": "As a child growing up in Southern California, Ann Carlson remembers mountains obscured by haze and yellowish brown air that stung her eyes and made her lungs ache. It was just “the environment,” he...",
+      "url": "https://insideclimatenews.org/news/09052026/los-angeles-smog-history/",
+      "publishedAt": "2026-05-09T08:55:00",
+      "content": "As a child growing up in Southern California, Ann Carlson remembers mountains obscured by haze and yellowish brown air that stung her eyes and made her lungs ache. It was just “the environment,” he..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Inside the Indigenous Fight to Save Alaska’s Bristol Bay",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with Alannah Hurley, executive director of the United Tribes of Bris...",
+      "url": "https://insideclimatenews.org/news/09052026/alaska-tribes-fight-to-save-bristol-bay-from-mining/",
+      "publishedAt": "2026-05-09T08:50:00",
+      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with Alannah Hurley, executive director of the United Tribes of Bris..."
     },
     {
       "source": {
@@ -155,6 +155,39 @@
       "url": "https://goodonyou.eco/the-ultimate-guide-to-ethical-wedding-outfits/",
       "publishedAt": "2026-05-07T00:00:18",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "12 More Ethical and Sustainable Sandals for Summer",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-sandals-for-summer/",
+      "publishedAt": "2026-05-06T00:00:03",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Google developers significantly misstate carbon emissions of proposed UK datacentres",
+      "description": "Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar errorDevelopers working for Google have significantly misstated how much car...",
+      "url": "https://www.theguardian.com/technology/2026/may/09/google-developers-significantly-misstate-carbon-emissions-of-proposed-uk-datacentres",
+      "publishedAt": "2026-05-09T16:00:01",
+      "content": "Emissions understated by factor of five in Essex plans for tech giant, while Greystoke’s Lincolnshire plans show similar errorDevelopers working for Google have significantly misstated how much car..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New Jersey Leads the Nation in Superfund Sites as EPA Funding Cuts and Staff Reductions Threaten Cleanups",
+      "description": "New Jersey is home to nearly 9 percent of the nation’s Superfund sites—more than any other state.",
+      "url": "https://insideclimatenews.org/news/09052026/epa-cuts-threaten-new-jersey-superfund-sites-cleanup/",
+      "publishedAt": "2026-05-09T09:00:00",
+      "content": "New Jersey is home to nearly 9 percent of the nation’s Superfund sites—more than any other state."
     },
     {
       "source": {
@@ -188,72 +221,6 @@
       "url": "https://www.esgtoday.com/reel-raises-e15-million-to-improve-economics-of-energy-transition-for-buyers-producers/?utm_source=rss&utm_medium=rss&utm_campaign=reel-raises-e15-million-to-improve-economics-of-energy-transition-for-buyers-producers",
       "publishedAt": "2026-05-08T08:20:25",
       "content": "Electricity supplier and trader Reel announced today that it has raised €15 million (USD$17.6 million)"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "12 More Ethical and Sustainable Sandals for Summer",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ethical-sandals-for-summer/",
-      "publishedAt": "2026-05-06T00:00:03",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A terrible time for a tractor breakdown | Colin Chappell",
-      "description": "Brigg, Lincolnshire: We work these vehicles hard and they will have problems, but today was really not the day for a steaming bonnetThere’s never a good time for a tractor to break down, but this w...",
-      "url": "https://www.theguardian.com/environment/2026/may/09/country-diary-a-terrible-time-for-a-tractor-breakdown",
-      "publishedAt": "2026-05-09T04:30:47",
-      "content": "Brigg, Lincolnshire: We work these vehicles hard and they will have problems, but today was really not the day for a steaming bonnetThere’s never a good time for a tractor to break down, but this w..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
-      "description": "The slick, captured in satellite images near Kharg Island in the Persian Gulf, has raised concerns about the condition of Iran’s oil infrastructure.",
-      "url": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
-      "publishedAt": "2026-05-08T22:30:12",
-      "content": "The slick, captured in satellite images near Kharg Island in the Persian Gulf, has raised concerns about the condition of Iran’s oil infrastructure."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "David Attenborough, a Voice of Nature, Turns 100",
-      "description": "Pictures and striking scenes from the making of perhaps the world’s most celebrated naturalist.",
-      "url": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
-      "publishedAt": "2026-05-08T22:12:45",
-      "content": "Pictures and striking scenes from the making of perhaps the world’s most celebrated naturalist."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "She Tried to Help Schools Build Healthier Playgrounds. Then Her E.P.A. Grant Was Canceled.",
-      "description": "Kirsten Beyer was assessing the benefits of improving school playgrounds in Milwaukee. Then her E.P.A. grant was canceled.",
-      "url": "https://www.nytimes.com/2026/05/08/science/school-playgrounds-environment.html",
-      "publishedAt": "2026-05-08T14:00:07",
-      "content": "Kirsten Beyer was assessing the benefits of improving school playgrounds in Milwaukee. Then her E.P.A. grant was canceled."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
-      "description": "Findings come after third-hottest April on record globally and amid fears of more brutal European summer weatherEconomic inequality adds more than 100,000 deaths to the vast toll from heat and cold...",
-      "url": "https://www.theguardian.com/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
-      "publishedAt": "2026-05-08T09:29:38",
-      "content": "Findings come after third-hottest April on record globally and amid fears of more brutal European summer weatherEconomic inequality adds more than 100,000 deaths to the vast toll from heat and cold..."
     },
     {
       "source": {
@@ -334,25 +301,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "AI Governance Is Becoming a Supply Chain Risk — Not Just an ESG Issue",
-      "description": "Guest post by: Simon Jaehnig, President and Chief Strategy & Innovation Officer (CSIO), IntegrityNext For",
-      "url": "https://www.esgtoday.com/ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue",
-      "publishedAt": "2026-05-07T07:10:33",
-      "content": "Guest post by: Simon Jaehnig, President and Chief Strategy & Innovation Officer (CSIO), IntegrityNext For"
+      "author": "The Guardian",
+      "title": "Country diary: A terrible time for a tractor breakdown | Colin Chappell",
+      "description": "Brigg, Lincolnshire: We work these vehicles hard and they will have problems, but today was really not the day for a steaming bonnetThere’s never a good time for a tractor to break down, but this w...",
+      "url": "https://www.theguardian.com/environment/2026/may/09/country-diary-a-terrible-time-for-a-tractor-breakdown",
+      "publishedAt": "2026-05-09T04:30:47",
+      "content": "Brigg, Lincolnshire: We work these vehicles hard and they will have problems, but today was really not the day for a steaming bonnetThere’s never a good time for a tractor to break down, but this w..."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "New York Times"
       },
-      "author": "BBC",
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
-      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-06T12:00:25",
-      "content": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves."
+      "author": "New York Times",
+      "title": "Oil Slick Is Detected Off Kharg Island in the Persian Gulf",
+      "description": "The slick, captured in satellite images near Kharg Island in the Persian Gulf, has raised concerns about the condition of Iran’s oil infrastructure.",
+      "url": "https://www.nytimes.com/2026/05/08/climate/iran-kharg-oil-spill-hormuz.html",
+      "publishedAt": "2026-05-08T22:30:12",
+      "content": "The slick, captured in satellite images near Kharg Island in the Persian Gulf, has raised concerns about the condition of Iran’s oil infrastructure."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "David Attenborough, a Voice of Nature, Turns 100",
+      "description": "Pictures and striking scenes from the making of perhaps the world’s most celebrated naturalist.",
+      "url": "https://www.nytimes.com/2026/05/08/arts/television/david-attenborough-100-birthday.html",
+      "publishedAt": "2026-05-08T22:12:45",
+      "content": "Pictures and striking scenes from the making of perhaps the world’s most celebrated naturalist."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
+      "description": "Findings come after third-hottest April on record globally and amid fears of more brutal European summer weatherEconomic inequality adds more than 100,000 deaths to the vast toll from heat and cold...",
+      "url": "https://www.theguardian.com/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
+      "publishedAt": "2026-05-08T09:29:38",
+      "content": "Findings come after third-hottest April on record globally and amid fears of more brutal European summer weatherEconomic inequality adds more than 100,000 deaths to the vast toll from heat and cold..."
     },
     {
       "source": {
@@ -386,6 +375,28 @@
       "url": "https://insideclimatenews.org/news/07052026/duke-energy-north-carolina-enbridge-pipeline-opposition/",
       "publishedAt": "2026-05-07T09:00:00",
       "content": "SILER CITY, N."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "AI Governance Is Becoming a Supply Chain Risk — Not Just an ESG Issue",
+      "description": "Guest post by: Simon Jaehnig, President and Chief Strategy & Innovation Officer (CSIO), IntegrityNext For",
+      "url": "https://www.esgtoday.com/ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue/?utm_source=rss&utm_medium=rss&utm_campaign=ai-governance-is-becoming-a-supply-chain-risk-not-just-an-esg-issue",
+      "publishedAt": "2026-05-07T07:10:33",
+      "content": "Guest post by: Simon Jaehnig, President and Chief Strategy & Innovation Officer (CSIO), IntegrityNext For"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Massive Alaska megatsunami was second largest ever recorded",
+      "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-06T12:00:25",
+      "content": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves."
     }
   ]
 }
