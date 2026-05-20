@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 42,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Temasek Likely to Miss 2030 Portfolio Decarbonization Goals, Remains Committed to Net Zero by 2050: CEO",
+      "description": "Singapore-based investment company Temasek is likely to miss its 2030 portfolio decarbonization targets, according to",
+      "url": "https://www.esgtoday.com/temasek-likely-to-miss-2030-portfolio-decarbonization-goals-remains-committed-to-net-zero-by-2050-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=temasek-likely-to-miss-2030-portfolio-decarbonization-goals-remains-committed-to-net-zero-by-2050-ceo",
+      "publishedAt": "2026-05-19T11:13:02",
+      "content": "Singapore-based investment company Temasek is likely to miss its 2030 portfolio decarbonization targets, according to"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Sustainable Bond Issuance Rebounds in Q1 2026, Still Down from Prior Year: Moody’s",
+      "description": "Global issuance of labelled sustainable bonds – including green, social, sustainability, sustainability-linked, and transition bonds",
+      "url": "https://www.esgtoday.com/sustainable-bond-volumes-rebound-in-q1-2026-still-down-from-prior-year-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=sustainable-bond-volumes-rebound-in-q1-2026-still-down-from-prior-year-moodys",
+      "publishedAt": "2026-05-19T15:07:23",
+      "content": "Global issuance of labelled sustainable bonds – including green, social, sustainability, sustainability-linked, and transition bonds"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -10,30 +32,63 @@
       "title": "More Sustainable Fashion Brand Offers This May 2026",
       "description": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-05-13T02:00:45",
+      "publishedAt": "2026-05-19T02:00:45",
       "content": "Every week we publish offers and discounts from highly rated brands that have been assessed by our rigorous ratings system."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Crux Secures $500 Million to Grow U.S. Clean Energy Financing Platform",
-      "description": "Fintech startup Crux announced that it has closed a $500 million debt financing facility with",
-      "url": "https://www.esgtoday.com/crux-secures-500-million-to-grow-u-s-clean-energy-infrastructure-financing-platform/?utm_source=rss&utm_medium=rss&utm_campaign=crux-secures-500-million-to-grow-u-s-clean-energy-infrastructure-financing-platform",
-      "publishedAt": "2026-05-15T14:47:19",
-      "content": "Fintech startup Crux announced that it has closed a $500 million debt financing facility with"
+      "author": "Inside Climate News",
+      "title": "New Zealand Moves to Ban Tort Liability for Greenhouse Gas Emissions and Climate Damage",
+      "description": "New Zealand’s government has announced that it plans to amend the country’s signature climate law to prohibit liability arising from climate change damages, a controversial move that critics say wo...",
+      "url": "https://insideclimatenews.org/news/19052026/new-zealand-amends-climate-law-protects-polluters/",
+      "publishedAt": "2026-05-19T08:55:00",
+      "content": "New Zealand’s government has announced that it plans to amend the country’s signature climate law to prohibit liability arising from climate change damages, a controversial move that critics say wo..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Australia Proposes Removing Smaller Companies from Sustainability, Financial Reporting Requirements",
-      "description": "Australia’s government has proposed significant changes to its corporate reporting rules, including raising the threshold",
-      "url": "https://www.esgtoday.com/australia-proposes-removing-smaller-companies-from-sustainability-financial-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=australia-proposes-removing-smaller-companies-from-sustainability-financial-reporting-requirements",
-      "publishedAt": "2026-05-18T10:22:03",
-      "content": "Australia’s government has proposed significant changes to its corporate reporting rules, including raising the threshold"
+      "title": "ISS STOXX Appoints Julia Leske as Head of Sustainability Business for APAC",
+      "description": "ISS STOXX Sustainability, the sustainable investment-focused business of ISS STOXX, announced the appointment of Julia",
+      "url": "https://www.esgtoday.com/iss-stoxx-appoints-julia-leske-as-head-of-sustainability-business-for-apac/?utm_source=rss&utm_medium=rss&utm_campaign=iss-stoxx-appoints-julia-leske-as-head-of-sustainability-business-for-apac",
+      "publishedAt": "2026-05-19T16:16:36",
+      "content": "ISS STOXX Sustainability, the sustainable investment-focused business of ISS STOXX, announced the appointment of Julia"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CIP, BII Launch $300 Million India-Focused Clean Energy Platform",
+      "description": "UK government-backed British International Investment (BII) and energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP)",
+      "url": "https://www.esgtoday.com/cip-bii-launch-300-million-india-focused-clean-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=cip-bii-launch-300-million-india-focused-clean-energy-platform",
+      "publishedAt": "2026-05-19T14:19:53",
+      "content": "UK government-backed British International Investment (BII) and energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP)"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Blackbaud Releases 2025 Impact Report Highlighting Responsible AI Progress, Sustainability Gains, and Global Impact at Scale",
+      "description": "Blackbaud (NASDAQ: BLKB), the world's leading provider of AI-powered solutions for social impact, today released its 2025 Impact Report, outlining the company’s environmental, social, and governanc...",
+      "url": "https://csrwire.com/press-release/blackbaud-releases-2025-impact-report-highlighting-responsible-ai-progress-sustainability/",
+      "publishedAt": "2026-05-19T11:00:00",
+      "content": "Blackbaud (NASDAQ: BLKB), the world's leading provider of AI-powered solutions for social impact, today released its 2025 Impact Report, outlining the company’s environmental, social, and governanc..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Orcas could be casualty in Carney’s push for pipeline, environmental groups fear",
+      "description": "Rush to develop fossil fuel infrastructure in Canada collides with laws meant to protect endangered speciesEnvironmental groups in Canada fear endangered orcas could become a casualty of Mark Carne...",
+      "url": "https://www.theguardian.com/world/2026/may/19/canada-orcas-oil-pipeline-mark-carney",
+      "publishedAt": "2026-05-19T11:00:02",
+      "content": "Rush to develop fossil fuel infrastructure in Canada collides with laws meant to protect endangered speciesEnvironmental groups in Canada fear endangered orcas could become a casualty of Mark Carne..."
     },
     {
       "source": {
@@ -51,11 +106,11 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "The Ultimate Guide to Buying a More Sustainable Suit",
-      "description": "Buying the right suit can be challenging even if you have a good understanding of fit and fabric—and then there’s sustainability to think about, too.",
-      "url": "https://goodonyou.eco/how-to-buy-a-sustainable-suit/",
-      "publishedAt": "2026-05-13T00:14:25",
-      "content": "Buying the right suit can be challenging even if you have a good understanding of fit and fabric—and then there’s sustainability to think about, too."
+      "title": "5 More Sustainable Men’s Dress Shoes for Formal Occasions",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-mens-dress-shoes/",
+      "publishedAt": "2026-05-19T00:00:45",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -70,25 +125,91 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Triple Pundit"
       },
-      "author": "CSRWire",
-      "title": "Beyond Carbon: Why Asia’s Energy Transition Must Also Be a Just Transition",
-      "description": "At the 2026 IWBI Social Sustainability Summit in Singapore, one message came through clearly: the future of sustainable finance in Asia will not be defined by carbon alone.",
-      "url": "https://csrwire.com/press-release/beyond-carbon-why-asias-energy-transition-must-also-be-just-transition/",
-      "publishedAt": "2026-05-15T14:30:00",
-      "content": "At the 2026 IWBI Social Sustainability Summit in Singapore, one message came through clearly: the future of sustainable finance in Asia will not be defined by carbon alone."
+      "author": "Triple Pundit",
+      "title": "Paris Has Successfully Cut Noise Pollution, but Urban Birds Still Can’t Sing At Their Natural Pitch",
+      "description": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates.",
+      "url": "https://triplepundit.com/2026/noise-pollution-reduction-songbird-conservation-paris/",
+      "publishedAt": "2026-05-15T13:00:00",
+      "content": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Sunraycer Secures Over $900 Million to Build Texas Solar and Storage Portfolio",
-      "description": "Renewable energy developer Sunraycer Renewables announced that it has secured $901 million in financing to",
-      "url": "https://www.esgtoday.com/sunraycer-secures-over-900-million-to-build-texas-solar-and-storage-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=sunraycer-secures-over-900-million-to-build-texas-solar-and-storage-portfolio",
-      "publishedAt": "2026-05-15T12:34:25",
-      "content": "Renewable energy developer Sunraycer Renewables announced that it has secured $901 million in financing to"
+      "title": "Ford’s New BESS Unit Signs 5-Year Energy Storage Deal with EDF",
+      "description": "Ford Energy, the new battery energy storage systems (BESS) business of Ford Motor Company, and",
+      "url": "https://www.esgtoday.com/fords-new-bess-unit-signs-5-year-energy-storage-deal-with-edf/?utm_source=rss&utm_medium=rss&utm_campaign=fords-new-bess-unit-signs-5-year-energy-storage-deal-with-edf",
+      "publishedAt": "2026-05-20T08:31:51",
+      "content": "Ford Energy, the new battery energy storage systems (BESS) business of Ford Motor Company, and"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK should set maximum working temperature rules, advisers say",
+      "description": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says.",
+      "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-19T23:40:12",
+      "content": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "DaVita Sets Bold 2030 Community Care Commitments After Exceeding Prior Five-Year ESG Goals",
+      "description": "Kidney care leader launches its next chapter of measurable impact for patients, teammates and communities.",
+      "url": "https://csrwire.com/press-release/davita-sets-bold-2030-community-care-commitments-after-exceeding-prior-five-year-esg-goals/",
+      "publishedAt": "2026-05-19T11:40:00",
+      "content": "Kidney care leader launches its next chapter of measurable impact for patients, teammates and communities."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "New Study by Panasonic Electric Works Co., Ltd. Shows Workplaces With WELL Certification Significantly Outperform Non-Certified Spaces in Driving Employee Well-Being and EngagementNew Study by Panasonic Electric Works Co., Ltd. Shows Workplaces with WELL",
+      "description": "The International WELL Building Institute (IWBI) and Panasonic Electric Works Co.",
+      "url": "https://csrwire.com/press-release/new-study-panasonic-electric-works-co-ltd-shows-workplaces-well-certification-significantly/",
+      "publishedAt": "2026-05-19T11:15:00",
+      "content": "The International WELL Building Institute (IWBI) and Panasonic Electric Works Co."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy Arkansas Connects Classroom Learning to Real-World Careers",
+      "description": "Classrooms came to life outside the school walls as students from CrossPointe Preparatory School visited Entergy Arkansas’s Searcy service center for a hands-on look at how electricity powers their...",
+      "url": "https://csrwire.com/press-release/entergy-arkansas-connects-classroom-learning-real-world-careers/",
+      "publishedAt": "2026-05-19T10:00:00",
+      "content": "Classrooms came to life outside the school walls as students from CrossPointe Preparatory School visited Entergy Arkansas’s Searcy service center for a hands-on look at how electricity powers their..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "GridCARE Raises $64 Million to Squeeze More Power out of Grids",
+      "description": "Grid intelligence startup GridCARE announced that it has raised $64 million in a Series A",
+      "url": "https://www.esgtoday.com/gridcare-raises-64-million-to-squeeze-more-power-out-of-grids/?utm_source=rss&utm_medium=rss&utm_campaign=gridcare-raises-64-million-to-squeeze-more-power-out-of-grids",
+      "publishedAt": "2026-05-19T09:53:12",
+      "content": "Grid intelligence startup GridCARE announced that it has raised $64 million in a Series A"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Corpus Christi Leaders Believe Data Center Plans May Be Behind Delays to Emergency Water Supply",
+      "description": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations.",
+      "url": "https://insideclimatenews.org/news/19052026/corpus-christi-emergency-water-supply-delays/",
+      "publishedAt": "2026-05-19T09:00:00",
+      "content": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations."
     },
     {
       "source": {
@@ -103,36 +224,113 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "HSBC Launches $4 Billion Facility to Help China Clean Tech Companies Scale Internationally",
-      "description": "HSBC announced today the launch of a new $4 billion Sustainability and Transition Credit Facility,",
-      "url": "https://www.esgtoday.com/hsbc-launches-4-billion-facility-to-help-china-clean-tech-companies-scale-internationally/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-launches-4-billion-facility-to-help-china-clean-tech-companies-scale-internationally",
-      "publishedAt": "2026-05-18T12:00:11",
-      "content": "HSBC announced today the launch of a new $4 billion Sustainability and Transition Credit Facility,"
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Pants and Trousers",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-sustainable-pants/",
+      "publishedAt": "2026-05-14T00:00:23",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "New York Times"
       },
-      "author": "Triple Pundit",
-      "title": "Paris Has Successfully Cut Noise Pollution, but Urban Birds Still Can’t Sing At Their Natural Pitch",
-      "description": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates.",
-      "url": "https://triplepundit.com/2026/noise-pollution-reduction-songbird-conservation-paris/",
-      "publishedAt": "2026-05-15T13:00:00",
-      "content": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates."
+      "author": "New York Times",
+      "title": "The Quest for Clean Hydrogen Moves Underground",
+      "description": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet.",
+      "url": "https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html",
+      "publishedAt": "2026-05-20T07:28:18",
+      "content": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rainforests pushed to breaking point by new demands for resources, report says",
+      "description": "Need for minerals, biofuels and pulp adding to pressures from ranching, monocrops, oil and logging, analysis findsThe growing extraction of rainforest resources is pushing the Amazon and similar bi...",
+      "url": "https://www.theguardian.com/environment/2026/may/20/rainforests-pushed-to-breaking-point-by-new-demands-for-resources-report-says",
+      "publishedAt": "2026-05-20T07:00:26",
+      "content": "Need for minerals, biofuels and pulp adding to pressures from ranching, monocrops, oil and logging, analysis findsThe growing extraction of rainforest resources is pushing the Amazon and similar bi..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Plantwatch: how goat’s rue inspired super drug for everything from diabetes to obesity",
+      "description": "Galegine compound in plant formed blueprint for metformin drug, but without the toxic side-effectsGoat’s rue or French lilac, Galega officinalis, is a wild plant and often grown in gardens for its ...",
+      "url": "https://www.theguardian.com/science/2026/may/20/plantwatch-how-goats-rue-inspired-super-drug-for-everything-from-diabetes-to-obesity",
+      "publishedAt": "2026-05-20T05:00:24",
+      "content": "Galegine compound in plant formed blueprint for metformin drug, but without the toxic side-effectsGoat’s rue or French lilac, Galega officinalis, is a wild plant and often grown in gardens for its ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Wildfire Crews Race to Keep Fierce California Blaze From Former Nuclear Reactor Site",
+      "description": "WEST HILLS, Calif.",
+      "url": "https://insideclimatenews.org/news/19052026/california-sandy-fire-approaches-former-nuclear-reactor-site/",
+      "publishedAt": "2026-05-20T01:10:36",
+      "content": "WEST HILLS, Calif."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Fire in the ‘Galapagos of North America’ Risks Species Found Nowhere Else",
+      "description": "An unrelenting wildfire has swallowed nearly a third of Santa Rosa Island, a small strip of land off the coast of California that is largely uninhabited by people but abundant with wildlife and pla...",
+      "url": "https://insideclimatenews.org/news/19052026/todays-climate-wildfire-california-santa-rosa-island-species-risk/",
+      "publishedAt": "2026-05-19T23:58:12",
+      "content": "An unrelenting wildfire has swallowed nearly a third of Santa Rosa Island, a small strip of land off the coast of California that is largely uninhabited by people but abundant with wildlife and pla..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Fish and Wildlife Service Clears a Weedkiller, Saying It Won’t Cause Extinction",
+      "description": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans.",
+      "url": "https://www.nytimes.com/2026/05/19/climate/epa-atrazine-endangered-species-maha.html",
+      "publishedAt": "2026-05-19T23:03:26",
+      "content": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The New ‘Gold Rush’ of Geothermal Energy",
+      "description": "A new wave of start-ups are trying to harvest emissions-free energy from inside the Earth, but the industry still faces significant challenges.",
+      "url": "https://www.nytimes.com/2026/05/19/climate/the-new-gold-rush-of-geothermal-energy.html",
+      "publishedAt": "2026-05-19T19:16:39",
+      "content": "A new wave of start-ups are trying to harvest emissions-free energy from inside the Earth, but the industry still faces significant challenges."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Compostable Fashion Collections Are Trendy, But Can They Scale?",
+      "description": "A handful of brands now promise clothes and shoes that return to the earth.",
+      "url": "https://goodonyou.eco/compostable-fashion-is-trending-but-can-it-scale/",
+      "publishedAt": "2026-05-19T15:07:31",
+      "content": "A handful of brands now promise clothes and shoes that return to the earth."
     },
     {
       "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Trellis Impact 26, Where Innovation Powers Sustainable Business",
-      "description": "We’re excited to be a partner at Trellis Impact 26, taking place June 23–25 in San Francisco. Trellis Impact brings together 3,500+ leaders powering the future of sustainable business,",
-      "url": "https://csrwire.com/press-release/trellis-impact-26-where-innovation-powers-sustainable-business/",
-      "publishedAt": "2026-05-14T13:00:00",
-      "content": "We’re excited to be a partner at Trellis Impact 26, taking place June 23–25 in San Francisco. Trellis Impact brings together 3,500+ leaders powering the future of sustainable business,"
+      "title": "PSEG Foundation Continues Legacy of Supporting Communities and Invites New Jersey and Long Island Nonprofits To Apply for Neighborhood Partners Program Grants",
+      "description": "The PSEG Foundation continues its legacy of building thriving communities by inviting New Jersey and Long Island based nonprofits to apply for its 2026 Neighborhood Partners Program (NPP).",
+      "url": "https://csrwire.com/press-release/pseg-foundation-continues-legacy-supporting-communities-and-invites-new-jersey-and-long-island/",
+      "publishedAt": "2026-05-19T08:30:00",
+      "content": "The PSEG Foundation continues its legacy of building thriving communities by inviting New Jersey and Long Island based nonprofits to apply for its 2026 Neighborhood Partners Program (NPP)."
     },
     {
       "source": {
@@ -169,17 +367,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "NextEra Acquires Dominion to Create U.S. Electricity Giant",
-      "description": "U.S. electricity and energy infrastructure giants NextEra and Dominion Energy announced a merger agreement on",
-      "url": "https://www.esgtoday.com/nextera-acquires-dominion-for-67-billion-to-create-u-s-electricity-giant/?utm_source=rss&utm_medium=rss&utm_campaign=nextera-acquires-dominion-for-67-billion-to-create-u-s-electricity-giant",
-      "publishedAt": "2026-05-18T13:15:39",
-      "content": "U.S. electricity and energy infrastructure giants NextEra and Dominion Energy announced a merger agreement on"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -199,39 +386,6 @@
       "url": "https://csrwire.com/press-release/delivering-faster-care-through-point-care-testing/",
       "publishedAt": "2026-05-18T11:00:00",
       "content": "Access to basic medical care remains out of reach for many people across the United States due to cost, transportation challenges, and limited time away from work."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Crew Carbon Raises $25 Million for Technology Combining Wastewater Treatment, Carbon Removal",
-      "description": "Water-tech startup Crew Carbon announced that it has raised $25 million in a Series A",
-      "url": "https://www.esgtoday.com/crew-carbon-raises-25-million-for-technology-combining-wastewater-treatment-carbon-removal/?utm_source=rss&utm_medium=rss&utm_campaign=crew-carbon-raises-25-million-for-technology-combining-wastewater-treatment-carbon-removal",
-      "publishedAt": "2026-05-18T10:49:37",
-      "content": "Water-tech startup Crew Carbon announced that it has raised $25 million in a Series A"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Declare climate crisis a global public health emergency, experts tell WHO",
-      "description": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dyingThe climate crisis should be declared a global public health emergency by the W...",
-      "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
-      "publishedAt": "2026-05-16T04:00:00",
-      "content": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dyingThe climate crisis should be declared a global public health emergency by the W..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Pants and Trousers",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-sustainable-pants/",
-      "publishedAt": "2026-05-14T00:00:23",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -279,28 +433,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Ten people. Eight weeks. Three thousand feet through the ice.",
-      "description": "Here’s the story of the expedition’s most ambitious project.",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/ten-people-eight-weeks-three-thousand-feet-through-the-ice",
-      "publishedAt": "2026-05-18T19:03:42",
-      "content": "Here’s the story of the expedition’s most ambitious project."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Quest for Clean Hydrogen Moves Underground",
-      "description": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet.",
-      "url": "https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html",
-      "publishedAt": "2026-05-18T14:10:10",
-      "content": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -309,39 +441,6 @@
       "url": "https://www.theguardian.com/environment/2026/may/18/baby-gibbon-animals-poaching-thailand-illegal-pet-trade-aoe",
       "publishedAt": "2026-05-18T10:00:54",
       "content": "Rising demand for exotic pets is pushing many gibbon species to extinction, with their strong family bonds making them especially vulnerable to the brutal tradeIt is a cool morning in Thailand’s hi..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "When Tornado Weather Hits, These Scientists Break Out the Colored Pencils",
-      "description": "With a battery of modern technology at their fingertips, meteorologists often turn first to an old-fashioned tracking technique.",
-      "url": "https://www.nytimes.com/2026/05/18/weather/nws-storm-prediction-center-maps-forecast.html",
-      "publishedAt": "2026-05-18T09:00:37",
-      "content": "With a battery of modern technology at their fingertips, meteorologists often turn first to an old-fashioned tracking technique."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Sea Level Rise and Sunny-Day Flooding Can’t Stop a Building Boom on the Jersey Shore",
-      "description": "ASBURY PARK, N.",
-      "url": "https://insideclimatenews.org/news/18052026/new-jersey-sea-level-rise-housing-developments/",
-      "publishedAt": "2026-05-18T09:00:00",
-      "content": "ASBURY PARK, N."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "World Health Organization Must Prioritize Workers, Experts Say",
-      "description": "Every year, hundreds of millions of people around the world suffer from workplace injuries or illnesses, and nearly 3 million die from job-related accidents or exposures. Climate change is making m...",
-      "url": "https://insideclimatenews.org/news/16052026/world-health-organization-worker-safety/",
-      "publishedAt": "2026-05-16T09:00:00",
-      "content": "Every year, hundreds of millions of people around the world suffer from workplace injuries or illnesses, and nearly 3 million die from job-related accidents or exposures. Climate change is making m..."
     },
     {
       "source": {
@@ -356,17 +455,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A bug bacchanalia on an old lime tree | Kate Blincoe",
-      "description": "Caistor St Edmund, Norfolk: Firebugs congregate in large numbers to feast and mate – and this is the first time we’ve known their revelry on the farmAt this time of year the farm is a popular spot,...",
-      "url": "https://www.theguardian.com/environment/2026/may/18/country-diary-a-bug-bacchanalia-on-an-old-lime-tree",
-      "publishedAt": "2026-05-18T04:30:58",
-      "content": "Caistor St Edmund, Norfolk: Firebugs congregate in large numbers to feast and mate – and this is the first time we’ve known their revelry on the farmAt this time of year the farm is a popular spot,..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -375,72 +463,6 @@
       "url": "https://www.bbc.com/news/articles/c707jlxwx38o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-18T01:11:02",
       "content": "The proposed changes come after a cow named Beau Vine got approved for a waste removal licence."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Platner’s Energy Plan Prioritizes Lowering Costs and Taking on Big Oil and the ‘Oligarchy’",
-      "description": "Graham Platner, the presumptive Democratic nominee for U.",
-      "url": "https://insideclimatenews.org/news/17052026/maine-senate-candidate-energy-plan-to-reduce-consumer-costs/",
-      "publishedAt": "2026-05-17T09:00:00",
-      "content": "Graham Platner, the presumptive Democratic nominee for U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "What to Expect as El Niño Approaches",
-      "description": "Scientists said this week that a developing El Niño is likely to amplify heatwaves, droughts and floods this year.",
-      "url": "https://insideclimatenews.org/news/17052026/icn-sunday-morning-looming-el-nino/",
-      "publishedAt": "2026-05-17T08:50:00",
-      "content": "Scientists said this week that a developing El Niño is likely to amplify heatwaves, droughts and floods this year."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fire and ‘sheer volume’: how Britain’s 6m-vape problem is putting recycling under strain",
-      "description": "Despite the ban on disposables, waste professionals say the mountain of discarded devices is a £1bn-a-year issue It is 2pm and Ana, 47, has just started the afternoon shift at the Suez recycling pl...",
-      "url": "https://www.theguardian.com/society/2026/may/17/disposable-vapes-suez-uk",
-      "publishedAt": "2026-05-17T08:00:33",
-      "content": "Despite the ban on disposables, waste professionals say the mountain of discarded devices is a £1bn-a-year issue It is 2pm and Ana, 47, has just started the afternoon shift at the Suez recycling pl..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Timmy the whale confirmed dead by Danish authorities",
-      "description": "Humpback had been found deceased on Friday after rescue attempt criticised as ‘pure animal cruelty’Timmy the whale has been confirmed dead by Danish authorities two weeks after the beached humpback...",
-      "url": "https://www.theguardian.com/environment/2026/may/16/timmy-the-whale-confirmed-dead-by-danish-authorities",
-      "publishedAt": "2026-05-16T17:22:22",
-      "content": "Humpback had been found deceased on Friday after rescue attempt criticised as ‘pure animal cruelty’Timmy the whale has been confirmed dead by Danish authorities two weeks after the beached humpback..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Xfinity and Comcast Business High-Speed Internet Now Available to More Than 2,100 Previously Unserved Homes and Businesses in Central Indiana",
-      "description": "Together with the Indiana Broadband Office, Comcast announced the completion of construction to connect more than 2,100 new homes and businesses in counties across Central Indiana to high-speed Int...",
-      "url": "https://csrwire.com/press-release/xfinity-and-comcast-business-high-speed-internet-now-available-more-2100-previously-unserved/",
-      "publishedAt": "2026-05-15T09:00:00",
-      "content": "Together with the Indiana Broadband Office, Comcast announced the completion of construction to connect more than 2,100 new homes and businesses in counties across Central Indiana to high-speed Int..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Henkel: A Legacy in Motion",
-      "description": "Henkel’s legacy began in 1876, with Fritz Henkel, a young man with a bold idea to revolutionize the way the world would do laundry forever.",
-      "url": "https://csrwire.com/press-release/henkel-legacy-motion/",
-      "publishedAt": "2026-05-14T15:05:00",
-      "content": "Henkel’s legacy began in 1876, with Fritz Henkel, a young man with a bold idea to revolutionize the way the world would do laundry forever."
     }
   ]
 }
