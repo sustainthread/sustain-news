@@ -1,7 +1,40 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "SBTi Broadens Focus from Climate Target Setting to Implementation",
+      "description": "The Science Based Targets initiative (SBTi), one of the key organizations focused on aligning corporate",
+      "url": "https://www.esgtoday.com/sbti-broadens-focus-from-climate-target-setting-to-implementation/?utm_source=rss&utm_medium=rss&utm_campaign=sbti-broadens-focus-from-climate-target-setting-to-implementation",
+      "publishedAt": "2026-05-21T10:52:31",
+      "content": "The Science Based Targets initiative (SBTi), one of the key organizations focused on aligning corporate"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "HSCB Backs Circular Economy Investment Platform Circulate Capital",
+      "description": "Singapore-based investment manager Circulate Capital announced a new green loan facility agreement with HSBC, aimed",
+      "url": "https://www.esgtoday.com/hscb-backs-circular-economy-investment-platform-circulate-capital/?utm_source=rss&utm_medium=rss&utm_campaign=hscb-backs-circular-economy-investment-platform-circulate-capital",
+      "publishedAt": "2026-05-22T07:01:37",
+      "content": "Singapore-based investment manager Circulate Capital announced a new green loan facility agreement with HSBC, aimed"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Duke University Plans a Data Center It Says Will Boost ‘Environmental Responsibility and Sustainability’",
+      "description": "DURHAM, N.",
+      "url": "https://insideclimatenews.org/news/21052026/duke-university-durham-data-center/",
+      "publishedAt": "2026-05-21T08:55:00",
+      "content": "DURHAM, N."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -37,28 +70,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Rachel Reeves to protect ‘critical’ clean energy projects from legal challenges",
-      "description": "Chancellor’s planning shake-up in England and Wales would ‘reduce exposure from judicial review on all but human rights grounds’Rachel Reeves is poised to fast-track clean energy projects in Englan...",
-      "url": "https://www.theguardian.com/politics/2026/may/20/rachel-reeves-protect-clean-energy-projects-legal-challenges-environment",
-      "publishedAt": "2026-05-20T15:56:56",
-      "content": "Chancellor’s planning shake-up in England and Wales would ‘reduce exposure from judicial review on all but human rights grounds’Rachel Reeves is poised to fast-track clean energy projects in Englan..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ISS STOXX Appoints Julia Leske as Head of Sustainability Business for APAC",
-      "description": "ISS STOXX Sustainability, the sustainable investment-focused business of ISS STOXX, announced the appointment of Julia",
-      "url": "https://www.esgtoday.com/iss-stoxx-appoints-julia-leske-as-head-of-sustainability-business-for-apac/?utm_source=rss&utm_medium=rss&utm_campaign=iss-stoxx-appoints-julia-leske-as-head-of-sustainability-business-for-apac",
-      "publishedAt": "2026-05-19T16:16:36",
-      "content": "ISS STOXX Sustainability, the sustainable investment-focused business of ISS STOXX, announced the appointment of Julia"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -73,22 +84,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Google Exec Confirms 2030 Carbon Free Energy Commitment Remains in Place Despite AI Buildout",
-      "description": "Google’s goal to run its business 24/7 on carbon-free energy with local clean energy matching",
-      "url": "https://www.esgtoday.com/google-exec-confirms-2030-carbon-free-energy-commitment-remains-in-place-despite-ai-buildout/?utm_source=rss&utm_medium=rss&utm_campaign=google-exec-confirms-2030-carbon-free-energy-commitment-remains-in-place-despite-ai-buildout",
-      "publishedAt": "2026-05-20T11:37:57",
-      "content": "Google’s goal to run its business 24/7 on carbon-free energy with local clean energy matching"
+      "title": "Singapore, World Bank Partner to Scale National Carbon Markets",
+      "description": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of",
+      "url": "https://www.esgtoday.com/singapore-world-bank-partner-to-scale-national-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-world-bank-partner-to-scale-national-carbon-markets",
+      "publishedAt": "2026-05-21T13:53:28",
+      "content": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "Europe’s Green-Energy Future Has a Reindeer Problem",
-      "description": "In northern Norway, Sami people fear a copper mine will disrupt their traditional lifestyles.",
-      "url": "https://www.nytimes.com/2026/05/20/science/europe-green-energy-indigenous.html",
-      "publishedAt": "2026-05-20T18:25:56",
-      "content": "In northern Norway, Sami people fear a copper mine will disrupt their traditional lifestyles."
+      "author": "Triple Pundit",
+      "title": "Paris Has Successfully Cut Noise Pollution, but Urban Birds Still Can’t Sing At Their Natural Pitch",
+      "description": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates.",
+      "url": "https://triplepundit.com/2026/noise-pollution-reduction-songbird-conservation-paris/",
+      "publishedAt": "2026-05-15T13:00:00",
+      "content": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CIP Launches €1.5 Billion Bioenergy Fund",
+      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund",
+      "url": "https://www.esgtoday.com/cip-launches-e1-5-billion-bioenergy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-e1-5-billion-bioenergy-fund",
+      "publishedAt": "2026-05-21T14:29:53",
+      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "NACDA Unveils New Collaboration With SPORTx at ASU and GoDaddy To Promote Student-Athlete Innovation and Entrepreneurship",
+      "description": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed...",
+      "url": "https://csrwire.com/press-release/nacda-unveils-new-collaboration-sportx-asu-and-godaddy-promote-student-athlete-innovation-and/",
+      "publishedAt": "2026-05-21T13:35:00",
+      "content": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed..."
     },
     {
       "source": {
@@ -125,17 +158,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft Signs First Major Carbon Removal Deal Since Reportedly Pausing Purchases",
-      "description": "Green energy producer BioCirc and Microsoft announced a new 7-year agreement, with Microsoft to offtake",
-      "url": "https://www.esgtoday.com/microsoft-announces-first-major-carbon-removal-deal-since-reportedly-exiting-the-market/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-announces-first-major-carbon-removal-deal-since-reportedly-exiting-the-market",
-      "publishedAt": "2026-05-20T09:23:38",
-      "content": "Green energy producer BioCirc and Microsoft announced a new 7-year agreement, with Microsoft to offtake"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -147,14 +169,69 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Guardian"
       },
-      "author": "Triple Pundit",
-      "title": "Paris Has Successfully Cut Noise Pollution, but Urban Birds Still Can’t Sing At Their Natural Pitch",
-      "description": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates.",
-      "url": "https://triplepundit.com/2026/noise-pollution-reduction-songbird-conservation-paris/",
-      "publishedAt": "2026-05-15T13:00:00",
-      "content": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates."
+      "author": "The Guardian",
+      "title": "Sea foam may look sinister but it is mostly harmless and natural",
+      "description": "Phenomenon, often seen around Britain’s coast at this time of year, is caused by a combination of algae and weatherAt this time of year a sinister-looking substance can often be sighted around Brit...",
+      "url": "https://www.theguardian.com/news/2026/may/22/sea-foam-may-look-sinister-mostly-harmless-natural",
+      "publishedAt": "2026-05-22T05:00:50",
+      "content": "Phenomenon, often seen around Britain’s coast at this time of year, is caused by a combination of algae and weatherAt this time of year a sinister-looking substance can often be sighted around Brit..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Violence, precision and a free lunch – welcome to the weird world of pollination | Phil Gates",
+      "description": "Willington, County Durham: On a fine May morning, there’s no better time to look at the stunning array of ways that bees and flowers have co-evolved to interact“It is a truth universally acknowledg...",
+      "url": "https://www.theguardian.com/environment/2026/may/22/country-diary-violence-precision-and-a-free-lunch-welcome-to-the-weird-world-of-pollination",
+      "publishedAt": "2026-05-22T04:30:48",
+      "content": "Willington, County Durham: On a fine May morning, there’s no better time to look at the stunning array of ways that bees and flowers have co-evolved to interact“It is a truth universally acknowledg..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A Strong El Niño Could Be Coming. Countries Are Already Preparing.",
+      "description": "Experts say a powerful El Niño weather pattern could be forming, which could put serious strain on a planet that is already dangerously heating up.",
+      "url": "https://www.nytimes.com/2026/05/21/climate/el-nino-weather-patterns-climate-change.html",
+      "publishedAt": "2026-05-21T19:50:05",
+      "content": "Experts say a powerful El Niño weather pattern could be forming, which could put serious strain on a planet that is already dangerously heating up."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "When Humans Went Away, the Wildlife Strayed",
+      "description": "When people disappeared from the landscape, as they did during the pandemic, wild animals changed how they used space and resources, scientists found.",
+      "url": "https://www.nytimes.com/2026/05/21/science/anthropause-animals-pandemic.html",
+      "publishedAt": "2026-05-21T18:00:08",
+      "content": "When people disappeared from the landscape, as they did during the pandemic, wild animals changed how they used space and resources, scientists found."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "NextEra Energy to Join the Offshore Wind Club, But Does It Matter?",
+      "description": "A utility megamerger announced this week would mean that the largest offshore wind project in the United States would be owned by the same company that already is the nation’s leading developer of ...",
+      "url": "https://insideclimatenews.org/news/21052026/inside-clean-energy-nextera-dominion-merger-offshore-wind/",
+      "publishedAt": "2026-05-21T13:00:00",
+      "content": "A utility megamerger announced this week would mean that the largest offshore wind project in the United States would be owned by the same company that already is the nation’s leading developer of ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mary Kay Ash: The Legacy Innovator Who Empowered Women To Become Entrepreneurs",
+      "description": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash.",
+      "url": "https://csrwire.com/press-release/mary-kay-ash-legacy-innovator-who-empowered-women-become-entrepreneurs/",
+      "publishedAt": "2026-05-21T08:00:00",
+      "content": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash."
     },
     {
       "source": {
@@ -166,17 +243,6 @@
       "url": "https://insideclimatenews.org/news/20052026/corpus-christi-postpones-water-emergency/",
       "publishedAt": "2026-05-20T22:46:24",
       "content": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "San Francisco turns to AI to save whales from ship strikes as deaths soar",
-      "description": "Climate change is pushing starving grey whales to San Francisco Bay, where ship strikes led to 40% of 21 deathsFerries, cargo ships and tankers cut through choppy waters in the San Francisco Bay on...",
-      "url": "https://www.theguardian.com/environment/2026/may/20/san-francisco-bay-ai-whales",
-      "publishedAt": "2026-05-20T18:43:41",
-      "content": "Climate change is pushing starving grey whales to San Francisco Bay, where ship strikes led to 40% of 21 deathsFerries, cargo ships and tankers cut through choppy waters in the San Francisco Bay on..."
     },
     {
       "source": {
@@ -199,72 +265,6 @@
       "url": "https://csrwire.com/press-release/powering-businesses-power-america-coffeehouses-coast-coast/",
       "publishedAt": "2026-05-20T09:00:00",
       "content": "A good coffee shop does more than serve caffeine."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
-      "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
-      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-21T06:00:32",
-      "content": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The decline of the Thwaites Glacier could affect tens of millions worldwide.",
-      "description": "A collapse would sharply accelerate sea level rise in coastal cities.",
-      "url": "https://www.nytimes.com/live/2025/climate/antarctica-thwaites-glacier/the-decline-of-the-thwaites-glacier-could-affect-tens-of-millions-worldwide",
-      "publishedAt": "2026-05-20T17:26:37",
-      "content": "A collapse would sharply accelerate sea level rise in coastal cities."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Fish and Wildlife Service Clears a Weedkiller, Saying It Won’t Cause Extinction",
-      "description": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans.",
-      "url": "https://www.nytimes.com/2026/05/19/climate/epa-atrazine-endangered-species-maha.html",
-      "publishedAt": "2026-05-20T16:04:40",
-      "content": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Six ways to keep your home and yourself cool in hot weather",
-      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
-      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-20T09:23:43",
-      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The English community that brought its river back from the brink: ‘If we can get it right here, we can do it everywhere’",
-      "description": "For 150 years, the Mease had been altered by human hands, which destroyed habitats.",
-      "url": "https://www.theguardian.com/environment/2026/may/20/english-community-brought-river-back-from-brink-mease",
-      "publishedAt": "2026-05-20T09:00:32",
-      "content": "For 150 years, the Mease had been altered by human hands, which destroyed habitats."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Ford’s New BESS Unit Signs 5-Year Energy Storage Deal with EDF",
-      "description": "Ford Energy, the new battery energy storage systems (BESS) business of Ford Motor Company, and",
-      "url": "https://www.esgtoday.com/fords-new-bess-unit-signs-5-year-energy-storage-deal-with-edf/?utm_source=rss&utm_medium=rss&utm_campaign=fords-new-bess-unit-signs-5-year-energy-storage-deal-with-edf",
-      "publishedAt": "2026-05-20T08:31:51",
-      "content": "Ford Energy, the new battery energy storage systems (BESS) business of Ford Motor Company, and"
     },
     {
       "source": {
@@ -312,25 +312,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "PSEG Foundation Continues Legacy of Supporting Communities and Invites New Jersey and Long Island Nonprofits To Apply for Neighborhood Partners Program Grants",
-      "description": "The PSEG Foundation continues its legacy of building thriving communities by inviting New Jersey and Long Island based nonprofits to apply for its 2026 Neighborhood Partners Program (NPP).",
-      "url": "https://csrwire.com/press-release/pseg-foundation-continues-legacy-supporting-communities-and-invites-new-jersey-and-long-island/",
-      "publishedAt": "2026-05-19T08:30:00",
-      "content": "The PSEG Foundation continues its legacy of building thriving communities by inviting New Jersey and Long Island based nonprofits to apply for its 2026 Neighborhood Partners Program (NPP)."
+      "author": "New York Times",
+      "title": "Fish and Wildlife Service Clears a Weedkiller, Saying It Won’t Cause Extinction",
+      "description": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans.",
+      "url": "https://www.nytimes.com/2026/05/19/climate/epa-atrazine-endangered-species-maha.html",
+      "publishedAt": "2026-05-20T16:04:40",
+      "content": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Agentic AI Foundation Adds 43 New Members as Enterprise and Government Adoption of Open Agent Standards Accelerates",
-      "description": "This quarter, the Agentic AI Foundation (AAIF) adds 4 new Gold Members – F5, GoDaddy, Stripe, and TRON – along with 27 Silver Members and 12 Associate Members spanning enterprise technology, roboti...",
-      "url": "https://csrwire.com/press-release/agentic-ai-foundation-adds-43-new-members-enterprise-and-government-adoption-open-agent/",
-      "publishedAt": "2026-05-18T15:35:00",
-      "content": "This quarter, the Agentic AI Foundation (AAIF) adds 4 new Gold Members – F5, GoDaddy, Stripe, and TRON – along with 27 Silver Members and 12 Associate Members spanning enterprise technology, roboti..."
+      "author": "BBC",
+      "title": "Six ways to keep your home and yourself cool in hot weather",
+      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-20T09:23:43",
+      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
     },
     {
       "source": {
@@ -345,39 +345,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Wildfire Crews Race to Keep Fierce California Blaze From Former Nuclear Reactor Site",
-      "description": "WEST HILLS, Calif.",
-      "url": "https://insideclimatenews.org/news/19052026/california-sandy-fire-approaches-former-nuclear-reactor-site/",
-      "publishedAt": "2026-05-20T01:10:36",
-      "content": "WEST HILLS, Calif."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Fire in the ‘Galapagos of North America’ Risks Species Found Nowhere Else",
-      "description": "An unrelenting wildfire has swallowed nearly a third of Santa Rosa Island, a small strip of land off the coast of California that is largely uninhabited by people but abundant with wildlife and pla...",
-      "url": "https://insideclimatenews.org/news/19052026/todays-climate-wildfire-california-santa-rosa-island-species-risk/",
-      "publishedAt": "2026-05-19T23:58:12",
-      "content": "An unrelenting wildfire has swallowed nearly a third of Santa Rosa Island, a small strip of land off the coast of California that is largely uninhabited by people but abundant with wildlife and pla..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The New ‘Gold Rush’ of Geothermal Energy",
-      "description": "A new wave of start-ups are trying to harvest emissions-free energy from inside the Earth, but the industry still faces significant challenges.",
-      "url": "https://www.nytimes.com/2026/05/19/climate/the-new-gold-rush-of-geothermal-energy.html",
-      "publishedAt": "2026-05-19T19:16:39",
-      "content": "A new wave of start-ups are trying to harvest emissions-free energy from inside the Earth, but the industry still faces significant challenges."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -386,17 +353,6 @@
       "url": "https://goodonyou.eco/compostable-fashion-is-trending-but-can-it-scale/",
       "publishedAt": "2026-05-19T15:07:31",
       "content": "A handful of brands now promise clothes and shoes that return to the earth."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Europe's oldest science park could be redeveloped",
-      "description": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces.",
-      "url": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-19T05:16:57",
-      "content": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces."
     }
   ]
 }
