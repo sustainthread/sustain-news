@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 34,
   "articles": [
     {
       "source": {
@@ -23,17 +23,6 @@
       "url": "https://www.esgtoday.com/hscb-backs-circular-economy-investment-platform-circulate-capital/?utm_source=rss&utm_medium=rss&utm_campaign=hscb-backs-circular-economy-investment-platform-circulate-capital",
       "publishedAt": "2026-05-22T07:01:37",
       "content": "Singapore-based investment manager Circulate Capital announced a new green loan facility agreement with HSBC, aimed"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Duke University Plans a Data Center It Says Will Boost ‘Environmental Responsibility and Sustainability’",
-      "description": "DURHAM, N.",
-      "url": "https://insideclimatenews.org/news/21052026/duke-university-durham-data-center/",
-      "publishedAt": "2026-05-21T08:55:00",
-      "content": "DURHAM, N."
     },
     {
       "source": {
@@ -81,6 +70,39 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
+      "description": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
+      "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-22T14:28:43",
+      "content": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "A Lifeline or ‘Dystopian’?: Schools Open Parking Lots for Homeless Students and Families",
+      "description": "As family homelessness hits record highs, a few school districts are beginning to offer parking lots as safe sites for students and their families to sleep at night. Some families prefer the option...",
+      "url": "https://triplepundit.com/2026/family-homelessness-k-12-students-san-diego-california/",
+      "publishedAt": "2026-05-22T13:00:00",
+      "content": "As family homelessness hits record highs, a few school districts are beginning to offer parking lots as safe sites for students and their families to sleep at night. Some families prefer the option..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "From Guide to Senior TPM: Meet Deidre Murzynski",
+      "description": "Meet Deidre Murzynski, a Senior Technical Program Manager (TPM) and 17-year veteran at GoDaddy.",
+      "url": "https://csrwire.com/press-release/guide-senior-tpm-meet-deidre-murzynski/",
+      "publishedAt": "2026-05-22T09:00:00",
+      "content": "Meet Deidre Murzynski, a Senior Technical Program Manager (TPM) and 17-year veteran at GoDaddy."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -89,39 +111,6 @@
       "url": "https://www.esgtoday.com/singapore-world-bank-partner-to-scale-national-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-world-bank-partner-to-scale-national-carbon-markets",
       "publishedAt": "2026-05-21T13:53:28",
       "content": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Paris Has Successfully Cut Noise Pollution, but Urban Birds Still Can’t Sing At Their Natural Pitch",
-      "description": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates.",
-      "url": "https://triplepundit.com/2026/noise-pollution-reduction-songbird-conservation-paris/",
-      "publishedAt": "2026-05-15T13:00:00",
-      "content": "Even in quieter cities, noise pollution forces birds to sing at higher pitches, diminishing their ability to defend territory and attract mates."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CIP Launches €1.5 Billion Bioenergy Fund",
-      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund",
-      "url": "https://www.esgtoday.com/cip-launches-e1-5-billion-bioenergy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-e1-5-billion-bioenergy-fund",
-      "publishedAt": "2026-05-21T14:29:53",
-      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "NACDA Unveils New Collaboration With SPORTx at ASU and GoDaddy To Promote Student-Athlete Innovation and Entrepreneurship",
-      "description": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed...",
-      "url": "https://csrwire.com/press-release/nacda-unveils-new-collaboration-sportx-asu-and-godaddy-promote-student-athlete-innovation-and/",
-      "publishedAt": "2026-05-21T13:35:00",
-      "content": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed..."
     },
     {
       "source": {
@@ -166,6 +155,116 @@
       "url": "https://goodonyou.eco/sustainable-mens-dress-shoes/",
       "publishedAt": "2026-05-19T00:00:45",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘There is no great master plan’: anxiety as UK homes, roads and railways sink into the sea",
+      "description": "Increasing coastal erosion has hit communities’ livelihoods and put lifestyles under threatThe remains of the road linking two towns in south Devon lie crumbled on the foreshore in a mess of tarmac...",
+      "url": "https://www.theguardian.com/environment/2026/may/23/uk-homes-roads-railways-sink-into-the-sea",
+      "publishedAt": "2026-05-23T06:00:20",
+      "content": "Increasing coastal erosion has hit communities’ livelihoods and put lifestyles under threatThe remains of the road linking two towns in south Devon lie crumbled on the foreshore in a mess of tarmac..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The space race to create gym equipment for future astronauts",
+      "description": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+      "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-22T23:42:07",
+      "content": "Scientists are attempting to build exercise equipment to be used on future space flights."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How to keep cool at your summer festivals",
+      "description": "As the summer festival season kicks off, temperatures are set to soar this bank holiday weekend.",
+      "url": "https://www.bbc.com/news/articles/clypzp9drq0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-22T23:40:30",
+      "content": "As the summer festival season kicks off, temperatures are set to soar this bank holiday weekend."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Wildfire Grows Near Ex-Nuclear Site, California County Sets Up Radiation Air Monitors",
+      "description": "With a Southern California wildfire only growing in size, firefighters in Ventura County have increased response efforts near a former nuclear reactor and rocket testing site. The Sandy Fire’s roug...",
+      "url": "https://insideclimatenews.org/news/22052026/california-wildfire-grows-near-ex-nuclear-site/",
+      "publishedAt": "2026-05-22T23:13:05",
+      "content": "With a Southern California wildfire only growing in size, firefighters in Ventura County have increased response efforts near a former nuclear reactor and rocket testing site. The Sandy Fire’s roug..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Brazilian Supreme Court Makes Way for the ‘Grain Train’",
+      "description": "A nearly 600-mile railway that would cut through the heart of the Amazon rainforest got one step closer to reality Thursday when the Brazilian Supreme Court ruled that a national park could be resi...",
+      "url": "https://insideclimatenews.org/news/22052026/brazil-supreme-court-greenlights-amazon-grain-train/",
+      "publishedAt": "2026-05-22T21:54:26",
+      "content": "A nearly 600-mile railway that would cut through the heart of the Amazon rainforest got one step closer to reality Thursday when the Brazilian Supreme Court ruled that a national park could be resi..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CIP Launches €1.5 Billion Bioenergy Fund",
+      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund",
+      "url": "https://www.esgtoday.com/cip-launches-e1-5-billion-bioenergy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-e1-5-billion-bioenergy-fund",
+      "publishedAt": "2026-05-21T14:29:53",
+      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "NACDA Unveils New Collaboration With SPORTx at ASU and GoDaddy To Promote Student-Athlete Innovation and Entrepreneurship",
+      "description": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed...",
+      "url": "https://csrwire.com/press-release/nacda-unveils-new-collaboration-sportx-asu-and-godaddy-promote-student-athlete-innovation-and/",
+      "publishedAt": "2026-05-21T13:35:00",
+      "content": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mary Kay Ash: The Legacy Innovator Who Empowered Women To Become Entrepreneurs",
+      "description": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash.",
+      "url": "https://csrwire.com/press-release/mary-kay-ash-legacy-innovator-who-empowered-women-become-entrepreneurs/",
+      "publishedAt": "2026-05-21T08:00:00",
+      "content": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Power of Collaboration – Building a Circular Future in Memphis",
+      "description": "Imagine a world where \"waste\" doesn't exist, and the things we use every day get a new lease on life.",
+      "url": "https://csrwire.com/press-release/power-collaboration-building-circular-future-memphis/",
+      "publishedAt": "2026-05-20T11:00:00",
+      "content": "Imagine a world where \"waste\" doesn't exist, and the things we use every day get a new lease on life."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Powering the Businesses That Power America: Coffeehouses Coast to Coast",
+      "description": "A good coffee shop does more than serve caffeine.",
+      "url": "https://csrwire.com/press-release/powering-businesses-power-america-coffeehouses-coast-coast/",
+      "publishedAt": "2026-05-20T09:00:00",
+      "content": "A good coffee shop does more than serve caffeine."
     },
     {
       "source": {
@@ -224,47 +323,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Mary Kay Ash: The Legacy Innovator Who Empowered Women To Become Entrepreneurs",
-      "description": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash.",
-      "url": "https://csrwire.com/press-release/mary-kay-ash-legacy-innovator-who-empowered-women-become-entrepreneurs/",
-      "publishedAt": "2026-05-21T08:00:00",
-      "content": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash."
+      "author": "New York Times",
+      "title": "Fish and Wildlife Service Clears a Weedkiller, Saying It Won’t Cause Extinction",
+      "description": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans.",
+      "url": "https://www.nytimes.com/2026/05/19/climate/epa-atrazine-endangered-species-maha.html",
+      "publishedAt": "2026-05-20T16:04:40",
+      "content": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "BBC"
       },
-      "author": "Inside Climate News",
-      "title": "Corpus Christi Postpones Water Emergency to December as ‘Super El Niño’ Offers an End to Drought",
-      "description": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations.",
-      "url": "https://insideclimatenews.org/news/20052026/corpus-christi-postpones-water-emergency/",
-      "publishedAt": "2026-05-20T22:46:24",
-      "content": "This story was produced in partnership by Inside Climate News and the Texas Newsroom, the state’s network of public radio stations."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Power of Collaboration – Building a Circular Future in Memphis",
-      "description": "Imagine a world where \"waste\" doesn't exist, and the things we use every day get a new lease on life.",
-      "url": "https://csrwire.com/press-release/power-collaboration-building-circular-future-memphis/",
-      "publishedAt": "2026-05-20T11:00:00",
-      "content": "Imagine a world where \"waste\" doesn't exist, and the things we use every day get a new lease on life."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Powering the Businesses That Power America: Coffeehouses Coast to Coast",
-      "description": "A good coffee shop does more than serve caffeine.",
-      "url": "https://csrwire.com/press-release/powering-businesses-power-america-coffeehouses-coast-coast/",
-      "publishedAt": "2026-05-20T09:00:00",
-      "content": "A good coffee shop does more than serve caffeine."
+      "author": "BBC",
+      "title": "Six ways to keep your home and yourself cool in hot weather",
+      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-20T09:23:43",
+      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
     },
     {
       "source": {
@@ -298,61 +375,6 @@
       "url": "https://csrwire.com/press-release/new-study-panasonic-electric-works-co-ltd-shows-workplaces-well-certification-significantly/",
       "publishedAt": "2026-05-19T11:15:00",
       "content": "The International WELL Building Institute (IWBI) and Panasonic Electric Works Co."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Arkansas Connects Classroom Learning to Real-World Careers",
-      "description": "Classrooms came to life outside the school walls as students from CrossPointe Preparatory School visited Entergy Arkansas’s Searcy service center for a hands-on look at how electricity powers their...",
-      "url": "https://csrwire.com/press-release/entergy-arkansas-connects-classroom-learning-real-world-careers/",
-      "publishedAt": "2026-05-19T10:00:00",
-      "content": "Classrooms came to life outside the school walls as students from CrossPointe Preparatory School visited Entergy Arkansas’s Searcy service center for a hands-on look at how electricity powers their..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Fish and Wildlife Service Clears a Weedkiller, Saying It Won’t Cause Extinction",
-      "description": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans.",
-      "url": "https://www.nytimes.com/2026/05/19/climate/epa-atrazine-endangered-species-maha.html",
-      "publishedAt": "2026-05-20T16:04:40",
-      "content": "The finding effectively paves the way for continued use of atrazine, a widely used herbicide that has been linked to birth defects and cancer in humans."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Six ways to keep your home and yourself cool in hot weather",
-      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
-      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-20T09:23:43",
-      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Quest for Clean Hydrogen Moves Underground",
-      "description": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet.",
-      "url": "https://www.nytimes.com/2026/05/17/climate/geologic-hydrogen-clean-energy-underground.html",
-      "publishedAt": "2026-05-20T07:28:18",
-      "content": "The dream of clean hydrogen has tantalized energy experts for years, but producing it has been tough. Many start-ups think the answer could lie beneath our feet."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Compostable Fashion Collections Are Trendy, But Can They Scale?",
-      "description": "A handful of brands now promise clothes and shoes that return to the earth.",
-      "url": "https://goodonyou.eco/compostable-fashion-is-trending-but-can-it-scale/",
-      "publishedAt": "2026-05-19T15:07:31",
-      "content": "A handful of brands now promise clothes and shoes that return to the earth."
     }
   ]
 }
