@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 27,
   "articles": [
     {
       "source": {
@@ -37,17 +37,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Can Concrete Molds Revive Coral Reefs Ruined by Bombs and Climate Change?",
-      "description": "In a devastated section of the Coral Triangle in the Pacific Ocean, a conservation group is trying to build an artificial reef.",
-      "url": "https://www.nytimes.com/2026/05/24/world/asia/can-concrete-molds-revive-coral-reefs-ruined-by-bombs-and-climate-change.html",
-      "publishedAt": "2026-05-24T06:41:10",
-      "content": "In a devastated section of the Coral Triangle in the Pacific Ocean, a conservation group is trying to build an artificial reef."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -59,25 +48,36 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Blackbaud Releases 2025 Impact Report Highlighting Responsible AI Progress, Sustainability Gains, and Global Impact at Scale",
-      "description": "Blackbaud (NASDAQ: BLKB), the world's leading provider of AI-powered solutions for social impact, today released its 2025 Impact Report, outlining the company’s environmental, social, and governanc...",
-      "url": "https://csrwire.com/press-release/blackbaud-releases-2025-impact-report-highlighting-responsible-ai-progress-sustainability/",
-      "publishedAt": "2026-05-19T11:00:00",
-      "content": "Blackbaud (NASDAQ: BLKB), the world's leading provider of AI-powered solutions for social impact, today released its 2025 Impact Report, outlining the company’s environmental, social, and governanc..."
+      "author": "New York Times",
+      "title": "Twenty Years After His Film, Al Gore Tweaks the Climate Script",
+      "description": "Mr. Gore is still giving the slide show that “An Inconvenient Truth” was built around, but with changes that reflect a shift in the discussion of climate change.",
+      "url": "https://www.nytimes.com/2026/05/25/climate/al-gore-an-inconvenient-truth.html",
+      "publishedAt": "2026-05-25T09:02:08",
+      "content": "Mr. Gore is still giving the slide show that “An Inconvenient Truth” was built around, but with changes that reflect a shift in the discussion of climate change."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Singapore, World Bank Partner to Scale National Carbon Markets",
-      "description": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of",
-      "url": "https://www.esgtoday.com/singapore-world-bank-partner-to-scale-national-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-world-bank-partner-to-scale-national-carbon-markets",
-      "publishedAt": "2026-05-21T13:53:28",
-      "content": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of"
+      "author": "The Guardian",
+      "title": "River Wye granted rights in UK first that could help in fight against pollution",
+      "description": "Charter to be adopted along river’s entire catchment from Cambrian mountains to Chepstow and Bristol ChannelThe entire catchment of the River Wye has been formally recognised as a living ecosystem ...",
+      "url": "https://www.theguardian.com/environment/2026/may/24/river-wye-formally-recognised-living-ecosystem-intrinsic-rights",
+      "publishedAt": "2026-05-24T13:27:37",
+      "content": "Charter to be adopted along river’s entire catchment from Cambrian mountains to Chepstow and Bristol ChannelThe entire catchment of the River Wye has been formally recognised as a living ecosystem ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Could nature itself hold the solution to climate change?",
+      "description": "Technological interventions face huge financial or practical challenges, but there is another wayIn 2019, my scientific research was nearly brought to an early end when my team and I published the ...",
+      "url": "https://www.theguardian.com/books/2026/may/24/could-nature-itself-hold-the-solution-to-climate-change",
+      "publishedAt": "2026-05-24T11:00:56",
+      "content": "Technological interventions face huge financial or practical challenges, but there is another wayIn 2019, my scientific research was nearly brought to an early end when my team and I published the ..."
     },
     {
       "source": {
@@ -92,58 +92,91 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ESG Today: Week in Review",
-      "description": "This week in ESG news: Google confirms “moonshot” clean energy goal remains in place despite",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-262/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-262",
-      "publishedAt": "2026-05-24T07:44:24",
-      "content": "This week in ESG news: Google confirms “moonshot” clean energy goal remains in place despite"
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "This US island is home to flora found nowhere else. Now, a wildfire threatens extinction",
-      "description": "Firefighters are racing to douse flames on California’s Santa Rosa Island as experts express concern for unique habitatOn the south-eastern corner of Santa Rosa Island lies a grove of a few thousan...",
-      "url": "https://www.theguardian.com/us-news/2026/may/23/santa-rosa-island-wildfire",
-      "publishedAt": "2026-05-23T13:00:28",
-      "content": "Firefighters are racing to douse flames on California’s Santa Rosa Island as experts express concern for unique habitatOn the south-eastern corner of Santa Rosa Island lies a grove of a few thousan..."
+      "title": "Parts of England expected to hit 35C in ‘unprecedented’ May heatwave",
+      "description": "Monday predicted to be hottest May day on record by large margin, as UK braces for ‘super El Niño’ summerTemperatures are expected to hit 35C in parts of England on Monday, in an “unprecedented” Ma...",
+      "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-weather-35c-england-unprecedented-may-heatwave",
+      "publishedAt": "2026-05-25T09:22:14",
+      "content": "Monday predicted to be hottest May day on record by large margin, as UK braces for ‘super El Niño’ summerTemperatures are expected to hit 35C in parts of England on Monday, in an “unprecedented” Ma..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "How ‘Sentinel Gardens’ Help Spot Dangerous Bugs Abroad",
-      "description": "Scientists have planted American trees in China, Korea and elsewhere to attract hungry insects. Their hope is to identify the most damaging bugs before they cross the ocean.",
-      "url": "https://www.nytimes.com/2026/05/23/climate/sentinel-gardens-invasive-species-bugs-trees.html",
-      "publishedAt": "2026-05-23T12:33:51",
-      "content": "Scientists have planted American trees in China, Korea and elsewhere to attract hungry insects. Their hope is to identify the most damaging bugs before they cross the ocean."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Young country diary: Helping a butterfly into its new phase of life | Ottoline",
-      "description": "Cambridgeshire: It was nearly ready to fly but it was partly out of its chrysalis and partly still in itOn Sunday morning, I was pottering in the garden wondering what to do. I saw a flapping comin...",
-      "url": "https://www.theguardian.com/environment/2026/may/23/young-country-diary-helping-a-butterfly-into-its-new-phase-of-life",
-      "publishedAt": "2026-05-23T10:00:25",
-      "content": "Cambridgeshire: It was nearly ready to fly but it was partly out of its chrysalis and partly still in itOn Sunday morning, I was pottering in the garden wondering what to do. I saw a flapping comin..."
+      "title": "One of Madagascar’s Oldest Sacred Trees Is Slowly Dying",
+      "description": "In a forest in Madagascar, the demise of a centuries-old baobab points to the fraying of a fragile ecosystem.",
+      "url": "https://www.nytimes.com/2026/05/25/world/africa/baobab-tree-dying-madagascar-africa.html",
+      "publishedAt": "2026-05-25T09:04:16",
+      "content": "In a forest in Madagascar, the demise of a centuries-old baobab points to the fraying of a fragile ecosystem."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Six Months After Oil Spilled Into California Tributary, Families Worry the Cleanup Was Never Finished",
-      "description": "SANTA PAULA, Calif.",
-      "url": "https://insideclimatenews.org/news/23052026/california-oil-spill-cleanup-worries-residents/",
-      "publishedAt": "2026-05-23T09:00:00",
-      "content": "SANTA PAULA, Calif."
+      "title": "In Florida, an Agricultural Town in Need of an Economic Boost Eyes Hyperscale Data Centers",
+      "description": "INDIANTOWN, Fla.",
+      "url": "https://insideclimatenews.org/news/25052026/florida-indiantown-hyperscale-data-center-proposals/",
+      "publishedAt": "2026-05-25T09:00:00",
+      "content": "INDIANTOWN, Fla."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "USDA Extends Pause on Loans for Controversial Digesters That Turn Manure Into Biogas",
+      "description": "The federal government’s pause on new loans for anaerobic digesters, the controversial method of converting animal manure from large-scale feeding operations into biogas, will now extend through th...",
+      "url": "https://insideclimatenews.org/news/25052026/usda-biogas-digester-loan-pause/",
+      "publishedAt": "2026-05-25T08:55:00",
+      "content": "The federal government’s pause on new loans for anaerobic digesters, the controversial method of converting animal manure from large-scale feeding operations into biogas, will now extend through th..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weather tracker: flash floods in New York and a heat dome in Europe",
+      "description": "Rain overwhelms sewer system in parts of US city, while temperatures in France break May recordNew York City saw flash flooding on Wednesday, as large parts of Brooklyn and Queens received about 2i...",
+      "url": "https://www.theguardian.com/environment/2026/may/25/weather-tracker-flash-floods-new-york-heat-dome-europe",
+      "publishedAt": "2026-05-25T08:08:23",
+      "content": "Rain overwhelms sewer system in parts of US city, while temperatures in France break May recordNew York City saw flash flooding on Wednesday, as large parts of Brooklyn and Queens received about 2i..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Half of UK adults say they spend less than three hours a week outside in nature",
+      "description": "Most people have joyful memories of playing outside as children – and now wildlife charities are urging people to ‘rewild their inner child’Climbing trees, squelching in mud, paddling in ponds or m...",
+      "url": "https://www.theguardian.com/environment/2026/may/25/half-of-uk-adults-say-they-spend-less-than-three-hours-a-week-outside-in-nature",
+      "publishedAt": "2026-05-25T05:00:19",
+      "content": "Most people have joyful memories of playing outside as children – and now wildlife charities are urging people to ‘rewild their inner child’Climbing trees, squelching in mud, paddling in ponds or m..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: One turn inland, and the valley opens up before me | John Gilbey",
+      "description": "Talybont, Ceredigion: On a crisp, post-rain morning, I take a walk among bright hawthorn blossom and the glittering pools of Cors FochnoOn the edge of Talybont, the small cemetery, kempt and cared ...",
+      "url": "https://www.theguardian.com/environment/2026/may/25/country-diary-one-turn-inland-and-the-valley-opens-up-before-me",
+      "publishedAt": "2026-05-25T04:30:15",
+      "content": "Talybont, Ceredigion: On a crisp, post-rain morning, I take a walk among bright hawthorn blossom and the glittering pools of Cors FochnoOn the edge of Talybont, the small cemetery, kempt and cared ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How Wine, Truffles and Honey Could Help Europe Fight Wildfires",
+      "description": "Countries are learning that the finer things in life sometimes have a serendipitous side benefit.",
+      "url": "https://www.nytimes.com/2026/05/25/world/europe/wine-truffles-firefighting-climate-change.html",
+      "publishedAt": "2026-05-25T04:01:17",
+      "content": "Countries are learning that the finer things in life sometimes have a serendipitous side benefit."
     },
     {
       "source": {
@@ -158,47 +191,14 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "A Lifeline or ‘Dystopian’?: Schools Open Parking Lots for Homeless Students and Families",
-      "description": "As family homelessness hits record highs, a few school districts are beginning to offer parking lots as safe sites for students and their families to sleep at night. Some families prefer the option...",
-      "url": "https://triplepundit.com/2026/family-homelessness-k-12-students-san-diego-california/",
-      "publishedAt": "2026-05-22T13:00:00",
-      "content": "As family homelessness hits record highs, a few school districts are beginning to offer parking lots as safe sites for students and their families to sleep at night. Some families prefer the option..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "From Guide to Senior TPM: Meet Deidre Murzynski",
-      "description": "Meet Deidre Murzynski, a Senior Technical Program Manager (TPM) and 17-year veteran at GoDaddy.",
-      "url": "https://csrwire.com/press-release/guide-senior-tpm-meet-deidre-murzynski/",
-      "publishedAt": "2026-05-22T09:00:00",
-      "content": "Meet Deidre Murzynski, a Senior Technical Program Manager (TPM) and 17-year veteran at GoDaddy."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "CIP Launches €1.5 Billion Bioenergy Fund",
-      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund",
-      "url": "https://www.esgtoday.com/cip-launches-e1-5-billion-bioenergy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-e1-5-billion-bioenergy-fund",
-      "publishedAt": "2026-05-21T14:29:53",
-      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "NACDA Unveils New Collaboration With SPORTx at ASU and GoDaddy To Promote Student-Athlete Innovation and Entrepreneurship",
-      "description": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed...",
-      "url": "https://csrwire.com/press-release/nacda-unveils-new-collaboration-sportx-asu-and-godaddy-promote-student-athlete-innovation-and/",
-      "publishedAt": "2026-05-21T13:35:00",
-      "content": "The National Association of Collegiate Directors of Athletics today announced a new collaboration with SPORTx at Arizona State University and GoDaddy that lays the foundation for student-athlete ed..."
+      "title": "Singapore, World Bank Partner to Scale National Carbon Markets",
+      "description": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of",
+      "url": "https://www.esgtoday.com/singapore-world-bank-partner-to-scale-national-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-world-bank-partner-to-scale-national-carbon-markets",
+      "publishedAt": "2026-05-21T13:53:28",
+      "content": "Singapore’s National Climate Change Secretariat (NCCS) and the World Bank Group announced the launch of"
     },
     {
       "source": {
@@ -224,25 +224,36 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "Reimagining Connection to Nature Through Japanese Philosophy of Satoyama",
-      "description": "A truly healthy environment nurtures both human body and mind.",
-      "url": "https://csrwire.com/press-release/reimagining-connection-nature-through-japanese-philosophy-satoyama/",
-      "publishedAt": "2026-05-20T13:15:00",
-      "content": "A truly healthy environment nurtures both human body and mind."
+      "author": "Inside Climate News",
+      "title": "Malnourished Gray Whales of the Eastern North Pacific Are in ‘Serious Trouble’",
+      "description": "SEATTLE—Exceptionally skinny gray whales—enfeebled by starvation and mangled by blunt-force trauma—are washing up this spring along the coast of Washington state in numbers that alarm marine-mammal...",
+      "url": "https://insideclimatenews.org/news/24052026/pacific-gray-whales-threatened-by-warming-waters/",
+      "publishedAt": "2026-05-24T09:00:00",
+      "content": "SEATTLE—Exceptionally skinny gray whales—enfeebled by starvation and mangled by blunt-force trauma—are washing up this spring along the coast of Washington state in numbers that alarm marine-mammal..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "‘There is no great master plan’: anxiety as UK homes, roads and railways sink into the sea",
-      "description": "Increasing coastal erosion has hit communities’ livelihoods and put lifestyles under threatThe remains of the road linking two towns in south Devon lie crumbled on the foreshore in a mess of tarmac...",
-      "url": "https://www.theguardian.com/environment/2026/may/23/uk-homes-roads-railways-sink-into-the-sea",
-      "publishedAt": "2026-05-23T06:00:20",
-      "content": "Increasing coastal erosion has hit communities’ livelihoods and put lifestyles under threatThe remains of the road linking two towns in south Devon lie crumbled on the foreshore in a mess of tarmac..."
+      "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: Google confirms “moonshot” clean energy goal remains in place despite",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-262/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-262",
+      "publishedAt": "2026-05-24T07:44:24",
+      "content": "This week in ESG news: Google confirms “moonshot” clean energy goal remains in place despite"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Six Months After Oil Spilled Into California Tributary, Families Worry the Cleanup Was Never Finished",
+      "description": "SANTA PAULA, Calif.",
+      "url": "https://insideclimatenews.org/news/23052026/california-oil-spill-cleanup-worries-residents/",
+      "publishedAt": "2026-05-23T09:00:00",
+      "content": "SANTA PAULA, Calif."
     },
     {
       "source": {
@@ -268,80 +279,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "As Wildfire Grows Near Ex-Nuclear Site, California County Sets Up Radiation Air Monitors",
-      "description": "With a Southern California wildfire only growing in size, firefighters in Ventura County have increased response efforts near a former nuclear reactor and rocket testing site. The Sandy Fire’s roug...",
-      "url": "https://insideclimatenews.org/news/22052026/california-wildfire-grows-near-ex-nuclear-site/",
-      "publishedAt": "2026-05-22T23:13:05",
-      "content": "With a Southern California wildfire only growing in size, firefighters in Ventura County have increased response efforts near a former nuclear reactor and rocket testing site. The Sandy Fire’s roug..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Brazilian Supreme Court Makes Way for the ‘Grain Train’",
-      "description": "A nearly 600-mile railway that would cut through the heart of the Amazon rainforest got one step closer to reality Thursday when the Brazilian Supreme Court ruled that a national park could be resi...",
-      "url": "https://insideclimatenews.org/news/22052026/brazil-supreme-court-greenlights-amazon-grain-train/",
-      "publishedAt": "2026-05-22T21:54:26",
-      "content": "A nearly 600-mile railway that would cut through the heart of the Amazon rainforest got one step closer to reality Thursday when the Brazilian Supreme Court ruled that a national park could be resi..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sea foam may look sinister but it is mostly harmless and natural",
-      "description": "Phenomenon, often seen around Britain’s coast at this time of year, is caused by a combination of algae and weatherAt this time of year a sinister-looking substance can often be sighted around Brit...",
-      "url": "https://www.theguardian.com/news/2026/may/22/sea-foam-may-look-sinister-mostly-harmless-natural",
-      "publishedAt": "2026-05-22T05:00:50",
-      "content": "Phenomenon, often seen around Britain’s coast at this time of year, is caused by a combination of algae and weatherAt this time of year a sinister-looking substance can often be sighted around Brit..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Strong El Niño Could Be Coming. Countries Are Already Preparing.",
-      "description": "Experts say a powerful El Niño weather pattern could be forming, which could put serious strain on a planet that is already dangerously heating up.",
-      "url": "https://www.nytimes.com/2026/05/21/climate/el-nino-weather-patterns-climate-change.html",
-      "publishedAt": "2026-05-21T19:50:05",
-      "content": "Experts say a powerful El Niño weather pattern could be forming, which could put serious strain on a planet that is already dangerously heating up."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mary Kay Ash: The Legacy Innovator Who Empowered Women To Become Entrepreneurs",
-      "description": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash.",
-      "url": "https://csrwire.com/press-release/mary-kay-ash-legacy-innovator-who-empowered-women-become-entrepreneurs/",
-      "publishedAt": "2026-05-21T08:00:00",
-      "content": "Every year in May, we celebrate the life of a woman whose vision reshaped not only the beauty industry, but the very idea of what entrepreneurship could look like for millions of women: Mary Kay Ash."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Power of Collaboration – Building a Circular Future in Memphis",
-      "description": "Imagine a world where \"waste\" doesn't exist, and the things we use every day get a new lease on life.",
-      "url": "https://csrwire.com/press-release/power-collaboration-building-circular-future-memphis/",
-      "publishedAt": "2026-05-20T11:00:00",
-      "content": "Imagine a world where \"waste\" doesn't exist, and the things we use every day get a new lease on life."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Powering the Businesses That Power America: Coffeehouses Coast to Coast",
-      "description": "A good coffee shop does more than serve caffeine.",
-      "url": "https://csrwire.com/press-release/powering-businesses-power-america-coffeehouses-coast-coast/",
-      "publishedAt": "2026-05-20T09:00:00",
-      "content": "A good coffee shop does more than serve caffeine."
+      "author": "ESG Today",
+      "title": "CIP Launches €1.5 Billion Bioenergy Fund",
+      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund",
+      "url": "https://www.esgtoday.com/cip-launches-e1-5-billion-bioenergy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-launches-e1-5-billion-bioenergy-fund",
+      "publishedAt": "2026-05-21T14:29:53",
+      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the launch of Advanced Bioenergy Fund"
     },
     {
       "source": {
@@ -353,28 +298,6 @@
       "url": "https://www.bbc.com/news/articles/cm2p1j4y0kro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-19T23:40:12",
       "content": "Successive governments have failed to prepare the UK for extreme heat, the climate watchdog says."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "DaVita Sets Bold 2030 Community Care Commitments After Exceeding Prior Five-Year ESG Goals",
-      "description": "Kidney care leader launches its next chapter of measurable impact for patients, teammates and communities.",
-      "url": "https://csrwire.com/press-release/davita-sets-bold-2030-community-care-commitments-after-exceeding-prior-five-year-esg-goals/",
-      "publishedAt": "2026-05-19T11:40:00",
-      "content": "Kidney care leader launches its next chapter of measurable impact for patients, teammates and communities."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Study by Panasonic Electric Works Co., Ltd. Shows Workplaces With WELL Certification Significantly Outperform Non-Certified Spaces in Driving Employee Well-Being and EngagementNew Study by Panasonic Electric Works Co., Ltd. Shows Workplaces with WELL",
-      "description": "The International WELL Building Institute (IWBI) and Panasonic Electric Works Co.",
-      "url": "https://csrwire.com/press-release/new-study-panasonic-electric-works-co-ltd-shows-workplaces-well-certification-significantly/",
-      "publishedAt": "2026-05-19T11:15:00",
-      "content": "The International WELL Building Institute (IWBI) and Panasonic Electric Works Co."
     }
   ]
 }
