@@ -1,29 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 30,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "McDonald’s to Miss 2030 Value Chain Decarbonization Goal, Remains Committed to Net Zero by 2050",
-      "description": "McDonald’s revealed significant progress in its operational climate and sustainability goals, but acknowledged that it",
-      "url": "https://www.esgtoday.com/mcdonalds-to-miss-2030-value-chain-decarbonization-goal-remains-committed-to-net-zero-by-2050/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-to-miss-2030-value-chain-decarbonization-goal-remains-committed-to-net-zero-by-2050",
-      "publishedAt": "2026-05-27T14:28:41",
-      "content": "McDonald’s revealed significant progress in its operational climate and sustainability goals, but acknowledged that it"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mike Hower’s Debut Book Helps Companies Navigate Greenwashing, Greenhushing, and Sustainability Communication Risk",
-      "description": "Hower Impact, a boutique sustainability communication and reporting consultancy, announced today that its founder, Mike Hower, has released his new book, Sustainability Storytelling: Communicate Tr...",
-      "url": "https://csrwire.com/press-release/mike-howers-debut-book-helps-companies-navigate-greenwashing-greenhushing-and-sustainability/",
-      "publishedAt": "2026-05-28T06:00:00",
-      "content": "Hower Impact, a boutique sustainability communication and reporting consultancy, announced today that its founder, Mike Hower, has released his new book, Sustainability Storytelling: Communicate Tr..."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -34,6 +12,39 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-05-26T02:00:45",
       "content": "Feature image: The Summer House."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "World Environment Day 2026: Real estate adapts to climate change",
+      "description": "From rising temperatures and flooding concerns, industry experts discuss how climate change is reshaping planning and long-term priorities across India’s property sector",
+      "url": "https://www.thehindu.com/real-estate/world-environment-day-2026-real-estate-adapts-to-climate-change/article71033071.ece",
+      "publishedAt": "2026-05-30T02:27:13",
+      "content": "From rising temperatures and flooding concerns, industry experts discuss how climate change is reshaping planning and long-term priorities across India’s property sector"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets",
+      "description": "A PAC representing wind and solar energy interests spent $1.",
+      "url": "https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html",
+      "publishedAt": "2026-05-29T19:47:14",
+      "content": "A PAC representing wind and solar energy interests spent $1."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Caudal Energy Raises $5.6 Million to Generate Power from Marine Mammal-Inspired Tidal Tech",
+      "description": "UK-based clean energy startup Caudal Energy announced that it has raised £4.3 million (USD$5.6 million)",
+      "url": "https://www.esgtoday.com/caudal-energy-raises-5-6-million-to-generate-power-from-marine-mammal-inspired-tidal-energy-tech/?utm_source=rss&utm_medium=rss&utm_campaign=caudal-energy-raises-5-6-million-to-generate-power-from-marine-mammal-inspired-tidal-energy-tech",
+      "publishedAt": "2026-05-29T13:23:34",
+      "content": "UK-based clean energy startup Caudal Energy announced that it has raised £4.3 million (USD$5.6 million)"
     },
     {
       "source": {
@@ -59,14 +70,47 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Raising the Bar on Sustainable Innovation",
-      "description": "When it comes to product development, real time decisions require real time data– and when it comes to environmental data, that often means curating thousands of data sets into legible analysis for...",
-      "url": "https://csrwire.com/press-release/raising-bar-sustainable-innovation/",
-      "publishedAt": "2026-05-27T09:00:00",
-      "content": "When it comes to product development, real time decisions require real time data– and when it comes to environmental data, that often means curating thousands of data sets into legible analysis for..."
+      "author": "ESG Today",
+      "title": "New York Governor Signs Law Pushing Back State Climate Goals",
+      "description": "New York Governor Kathy Hochul signed New York’s 2027 budget on Thursday, following approval by",
+      "url": "https://www.esgtoday.com/new-york-governor-hochul-signs-budget-pushing-back-state-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-governor-hochul-signs-budget-pushing-back-state-climate-goals",
+      "publishedAt": "2026-05-29T11:07:46",
+      "content": "New York Governor Kathy Hochul signed New York’s 2027 budget on Thursday, following approval by"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "As Climate Change Extends Europe’s Heat Season, Schools Bake",
+      "description": "Classrooms can be particularly vulnerable amid climate change, as the hottest times of the year increasingly overlap with the academic calendar.",
+      "url": "https://www.nytimes.com/2026/05/30/climate/europe-heat-wave-schools.html",
+      "publishedAt": "2026-05-30T04:00:03",
+      "content": "Classrooms can be particularly vulnerable amid climate change, as the hottest times of the year increasingly overlap with the academic calendar."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "S.E.C. Proposes to Kill Climate Change Disclosure Rule",
+      "description": "The regulation would have required all publicly traded companies to disclose whether they faced significant risks from climate change and its effects.",
+      "url": "https://www.nytimes.com/2026/05/29/climate/sec-climate-disclosure-rule.html",
+      "publishedAt": "2026-05-29T15:54:51",
+      "content": "The regulation would have required all publicly traded companies to disclose whether they faced significant risks from climate change and its effects."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Federal Wetlands’ Protections Falter, Washington State Scientists Turn to AI as a Conservation Tool",
+      "description": "As the United States limits what can be considered a wetland, and qualify for federal conservation measures, many Washington state residents are trying to protect more of them for water management,...",
+      "url": "https://insideclimatenews.org/news/29052026/washington-wetland-intrinsic-potential-tool/",
+      "publishedAt": "2026-05-29T08:55:00",
+      "content": "As the United States limits what can be considered a wetland, and qualify for federal conservation measures, many Washington state residents are trying to protect more of them for water management,..."
     },
     {
       "source": {
@@ -92,14 +136,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "Rafe Pomerance, the Paul Revere of Climate Change, Dies at 79",
-      "description": "An environmental lobbyist and activist, he was a pivotal figure in drawing public attention and political support to the existential issue.",
-      "url": "https://www.nytimes.com/2026/05/24/science/rafe-pomerance-dead.html",
-      "publishedAt": "2026-05-24T23:02:38",
-      "content": "An environmental lobbyist and activist, he was a pivotal figure in drawing public attention and political support to the existential issue."
+      "author": "ESG Today",
+      "title": "P2 Science Raises $23 Million to Produce Green Chemicals for Beauty, Personal Care Sectors",
+      "description": "Biotechnology and green chemistry company P2 Science announced that it has raised $23 million in",
+      "url": "https://www.esgtoday.com/p2-science-raises-23-million-to-produce-green-chemicals-for-beauty-personal-care-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=p2-science-raises-23-million-to-produce-green-chemicals-for-beauty-personal-care-sectors",
+      "publishedAt": "2026-05-28T08:18:54",
+      "content": "Biotechnology and green chemistry company P2 Science announced that it has raised $23 million in"
     },
     {
       "source": {
@@ -114,28 +158,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Europe’s Heat Wave Has the ‘Fingerprints of Climate Change All Over It’",
-      "description": "An unusually early heat wave in Europe, new technology to save whales and more climate news.",
-      "url": "https://www.nytimes.com/2026/05/28/climate/europe-heat-wave-climate-change.html",
-      "publishedAt": "2026-05-28T23:22:50",
-      "content": "An unusually early heat wave in Europe, new technology to save whales and more climate news."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "P2 Science Raises $23 Million to Produce Green Chemicals for Beauty, Personal Care Sectors",
-      "description": "Biotechnology and green chemistry company P2 Science announced that it has raised $23 million in",
-      "url": "https://www.esgtoday.com/p2-science-raises-23-million-to-produce-green-chemicals-for-beauty-personal-care-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=p2-science-raises-23-million-to-produce-green-chemicals-for-beauty-personal-care-sectors",
-      "publishedAt": "2026-05-28T08:18:54",
-      "content": "Biotechnology and green chemistry company P2 Science announced that it has raised $23 million in"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -144,6 +166,17 @@
       "url": "https://goodonyou.eco/material-guide-viscose-sustainability/",
       "publishedAt": "2026-05-28T00:00:52",
       "content": "Viscose, also known as rayon, is one of the most popular materials in the fashion industry."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "DigitalBridge Acquires Electrification Infrastructure Investor ArcLight for $1 Billion",
+      "description": "Digital infrastructure-focused asset manager DigitalBridge announced the acquisition of electrification infrastructure-focused investor ArcLight Capital Partners,",
+      "url": "https://www.esgtoday.com/digitalbridge-acquires-electrification-focused-investor-arclight-for-1-billion/?utm_source=rss&utm_medium=rss&utm_campaign=digitalbridge-acquires-electrification-focused-investor-arclight-for-1-billion",
+      "publishedAt": "2026-05-29T09:25:15",
+      "content": "Digital infrastructure-focused asset manager DigitalBridge announced the acquisition of electrification infrastructure-focused investor ArcLight Capital Partners,"
     },
     {
       "source": {
@@ -158,14 +191,58 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "New York Leads in Controlling Heat-Trapping Methane. That Could Change.",
-      "description": "An overhaul of the state’s 2019 climate law proposed by Gov. Kathy Hochul would alter how the potent greenhouse gas is measured.",
-      "url": "https://www.nytimes.com/2026/05/26/nyregion/new-york-hochul-methane-climate-law.html",
-      "publishedAt": "2026-05-26T07:00:05",
-      "content": "An overhaul of the state’s 2019 climate law proposed by Gov. Kathy Hochul would alter how the potent greenhouse gas is measured."
+      "author": "The Guardian",
+      "title": "‘Nature’s soap opera’: how a wildlife artist’s nestboxes became a YouTube hit",
+      "description": "The births, fledgling flights and even first dates on Robert Fuller’s site are about to hit a million global subscribersHaving enjoyed setting up bird boxes with his father as a child, the wildlife...",
+      "url": "https://www.theguardian.com/environment/2026/may/30/wildlife-artist-robert-fuller-nestboxes-youtube",
+      "publishedAt": "2026-05-30T05:00:12",
+      "content": "The births, fledgling flights and even first dates on Robert Fuller’s site are about to hit a million global subscribersHaving enjoyed setting up bird boxes with his father as a child, the wildlife..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Scientists Outplant Experimental ‘Flonduran’ Corals in Florida’s Dry Tortugas National Park",
+      "description": "Nearly three dozen young lab-grown elkhorn corals were outplanted onto reefs in Florida’s Dry Tortugas National Park this spring, including a group of “Flondurans,” marking the first time this expe...",
+      "url": "https://insideclimatenews.org/news/29052026/researchers-cross-breed-threatened-corals-in-dry-tortugas-national-park/",
+      "publishedAt": "2026-05-29T22:41:56",
+      "content": "Nearly three dozen young lab-grown elkhorn corals were outplanted onto reefs in Florida’s Dry Tortugas National Park this spring, including a group of “Flondurans,” marking the first time this expe..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘It’s an obsession’: one man and his family on a mission to save Europe’s glutinous snail",
+      "description": "Ian Hughes is boosting one of the continent’s most at-risk species with science, his sons and some homemade T-shirtsIan Hughes and his son, Ben, are driving through the hills of north Wales with an...",
+      "url": "https://www.theguardian.com/environment/2026/may/29/ian-hughes-conservation-glutinous-snail",
+      "publishedAt": "2026-05-29T12:40:17",
+      "content": "Ian Hughes is boosting one of the continent’s most at-risk species with science, his sons and some homemade T-shirtsIan Hughes and his son, Ben, are driving through the hills of north Wales with an..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Exploding rocket casts doubts over Nasa's Moon plans",
+      "description": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.",
+      "url": "https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-05-29T10:38:46",
+      "content": "Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weather tracker: deadly May heatwave shatters records across Europe",
+      "description": "Temperatures across parts of continent around 10-15C above average for this time of year, while thunderstorms strike eastern AustraliaEurope has experienced an exceptional heatwave this week, with ...",
+      "url": "https://www.theguardian.com/environment/2026/may/29/weather-tracker-deadly-may-heatwave-shatters-records-across-europe",
+      "publishedAt": "2026-05-29T09:47:11",
+      "content": "Temperatures across parts of continent around 10-15C above average for this time of year, while thunderstorms strike eastern AustraliaEurope has experienced an exceptional heatwave this week, with ..."
     },
     {
       "source": {
@@ -180,17 +257,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI Evolves Works With WELL Program To Expand Alignment Pathways for Products and Services",
-      "description": "The International WELL Building Institute (IWBI) today announced a significant evolution of its Works with WELL program, introducing expanded alignment pathways and a redesigned platform experience...",
-      "url": "https://csrwire.com/press-release/iwbi-evolves-works-well-program-expand-alignment-pathways-products-and-services/",
-      "publishedAt": "2026-05-28T14:00:00",
-      "content": "The International WELL Building Institute (IWBI) today announced a significant evolution of its Works with WELL program, introducing expanded alignment pathways and a redesigned platform experience..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -202,28 +268,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Comcast and El Centro de la Raza Open Lift Zone in Federal Way to Help South King County Families Build Digital Skills",
-      "description": "Comcast launched its newest Lift Zone this month in partnership with El Centro de la Raza to advance digital skills and training opportunities for families in South King County.",
-      "url": "https://csrwire.com/press-release/comcast-and-el-centro-de-la-raza-open-lift-zone-federal-way-help-south-king-county-families/",
-      "publishedAt": "2026-05-28T11:00:00",
-      "content": "Comcast launched its newest Lift Zone this month in partnership with El Centro de la Raza to advance digital skills and training opportunities for families in South King County."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How I Got Here: Jim Dausch",
-      "description": "In the #HowIGotHere series, you’ll read about the career paths of some of the world-renowned leaders at Yum! Brands.",
-      "url": "https://csrwire.com/press-release/how-i-got-here-jim-dausch/",
-      "publishedAt": "2026-05-28T10:00:00",
-      "content": "In the #HowIGotHere series, you’ll read about the career paths of some of the world-renowned leaders at Yum! Brands."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -232,39 +276,6 @@
       "url": "https://www.esgtoday.com/californias-sb-253-just-made-your-carbon-data-a-cfo-problem/?utm_source=rss&utm_medium=rss&utm_campaign=californias-sb-253-just-made-your-carbon-data-a-cfo-problem",
       "publishedAt": "2026-05-28T09:34:41",
       "content": "Guest post by: Rachel Delacour, Founder and CEO of Sweep Here’s the question your CFO"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "At a Critical Moment for Business, SB’26 San Diego Calls Leaders to “All Rise”",
-      "description": "Brand leaders, innovators, and sustainability practitioners from Walmart, Amazon, Target, Levi’s, Henkle, Oatly, General Mills, Disneyland and hundreds more are set to convene June 8-10 at the 20th...",
-      "url": "https://csrwire.com/press-release/critical-moment-business-sb26-san-diego-calls-leaders-all-rise/",
-      "publishedAt": "2026-05-27T14:00:00",
-      "content": "Brand leaders, innovators, and sustainability practitioners from Walmart, Amazon, Target, Levi’s, Henkle, Oatly, General Mills, Disneyland and hundreds more are set to convene June 8-10 at the 20th..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "D-CRBN Raises $20 Million to Turn CO2 into Clean Fuels, Materials",
-      "description": "Climate technology company D-CRBN announced that it has raised €17.5 million (USD$20.3 million) in a",
-      "url": "https://www.esgtoday.com/d-crbn-raises-20-million-to-turn-co2-into-clean-fuels-materials/?utm_source=rss&utm_medium=rss&utm_campaign=d-crbn-raises-20-million-to-turn-co2-into-clean-fuels-materials",
-      "publishedAt": "2026-05-27T13:29:34",
-      "content": "Climate technology company D-CRBN announced that it has raised €17.5 million (USD$20.3 million) in a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon, Google, Meta, Microsoft Back Initiative to Invest, Test, and Scale Cleantech Solutions in Data Centers",
-      "description": "Environmental impact-focused investment platform Elemental Impact, alongside tech giants Amazon, Google, Meta, and Microsoft, announced",
-      "url": "https://www.esgtoday.com/amazon-google-meta-microsoft-back-initiative-to-invest-test-and-scale-cleantech-solutions-in-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-google-meta-microsoft-back-initiative-to-invest-test-and-scale-cleantech-solutions-in-data-centers",
-      "publishedAt": "2026-05-27T12:42:29",
-      "content": "Environmental impact-focused investment platform Elemental Impact, alongside tech giants Amazon, Google, Meta, and Microsoft, announced"
     },
     {
       "source": {
@@ -290,72 +301,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘They’re a private company, run for profit!’: fury in Kent at South East Water’s outages",
-      "description": "Water company blames increased demand in extreme heat, but customers want answers about lack of storage reservoirs“Spitting, fuming, angry and powerless” is how Pat Prestage describes her emotions ...",
-      "url": "https://www.theguardian.com/environment/2026/may/28/anger-kent-south-east-water-outages",
-      "publishedAt": "2026-05-28T17:01:53",
-      "content": "Water company blames increased demand in extreme heat, but customers want answers about lack of storage reservoirs“Spitting, fuming, angry and powerless” is how Pat Prestage describes her emotions ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Mosquitoes can become attracted to insect repellant, study suggests",
-      "description": "The insect may learn to associate the chemical Deet with a ‘blood meal’, researchers sayIt is a spray used worldwide to protect humans from mosquito bites, but now research suggests Deet can become...",
-      "url": "https://www.theguardian.com/environment/2026/may/28/deet-mosquito-spray-attract-insects-study-malaria-zika",
-      "publishedAt": "2026-05-28T15:22:55",
-      "content": "The insect may learn to associate the chemical Deet with a ‘blood meal’, researchers sayIt is a spray used worldwide to protect humans from mosquito bites, but now research suggests Deet can become..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Jill’s 40-Year Journey With Taco Bell",
-      "description": "When the small oil and gas company Jill worked for in Newport Beach went out of business, she spotted a newspaper ad for a job at Taco Bell Corporate.",
-      "url": "https://csrwire.com/press-release/jills-40-year-journey-taco-bell/",
-      "publishedAt": "2026-05-27T12:00:00",
-      "content": "When the small oil and gas company Jill worked for in Newport Beach went out of business, she spotted a newspaper ad for a job at Taco Bell Corporate."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Monumental Public-Private Initiative Forms to Permanently Close America’s Protein Gap",
-      "description": "On the eve of World Hunger Day, a broad-based coalition of farmers, protein producers, hunger advocates and others announce the Coalition to Close the Protein Gap.",
-      "url": "https://csrwire.com/press-release/monumental-public-private-initiative-forms-permanently-close-americas-protein-gap/",
-      "publishedAt": "2026-05-27T11:40:00",
-      "content": "On the eve of World Hunger Day, a broad-based coalition of farmers, protein producers, hunger advocates and others announce the Coalition to Close the Protein Gap."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Delivering History: FedEx Brings Millions of Years of the Past to the Present",
-      "description": "At FedEx, our network connects people and possibilities across the globe every single day. But some of our most remarkable deliveries don't just bridge miles—they bridge millions of years.",
-      "url": "https://csrwire.com/press-release/delivering-history-fedex-brings-millions-years-past-present/",
-      "publishedAt": "2026-05-27T11:00:00",
-      "content": "At FedEx, our network connects people and possibilities across the globe every single day. But some of our most remarkable deliveries don't just bridge miles—they bridge millions of years."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "To Walk Is To Create",
-      "description": "Movement is one of the WELL Standard’s 10 central pillars that offers over four dozen strategies for integrating movement into workplace design and programming to support health and well-being thro...",
-      "url": "https://csrwire.com/press-release/walk-create/",
-      "publishedAt": "2026-05-27T09:00:00",
-      "content": "Movement is one of the WELL Standard’s 10 central pillars that offers over four dozen strategies for integrating movement into workplace design and programming to support health and well-being thro..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -378,17 +323,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Hunting a ‘Frankenfish’ With a Bow and Arrow",
-      "description": "Invasive snakeheads are proliferating in waterways from New York to Florida. Wildlife officials around the Chesapeake Bay are recommending a solution: high-powered compound bows.",
-      "url": "https://www.nytimes.com/2026/05/27/climate/hunting-a-frankenfish-with-a-bow-and-arrow.html",
-      "publishedAt": "2026-05-27T09:00:32",
-      "content": "Invasive snakeheads are proliferating in waterways from New York to Florida. Wildlife officials around the Chesapeake Bay are recommending a solution: high-powered compound bows."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -397,50 +331,6 @@
       "url": "https://insideclimatenews.org/news/27052026/venezuela-lake-maracaibo-oil-production-environmental-impacts/",
       "publishedAt": "2026-05-27T09:00:00",
       "content": "There is a joke Mónica Godoy Molero likes to make with her family: if you swim in Venezuela’s Lake Maracaibo after an oil spill, you’ll sprout a third eye.  It helps to have a twisted sense of humo..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Forecasters Predict Below-Average Hurricane Season, Advise Against Complacency",
-      "description": "Forecasters are calling for below-average activity this hurricane season, which begins Monday, June 1.",
-      "url": "https://insideclimatenews.org/news/27052026/mild-hurricane-season-forecast-experts-still-urge-preparedness/",
-      "publishedAt": "2026-05-27T08:55:00",
-      "content": "Forecasters are calling for below-average activity this hurricane season, which begins Monday, June 1."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "description": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
-      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-26T20:25:50",
-      "content": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
-      "description": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
-      "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-05-22T14:28:43",
-      "content": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "A Lifeline or ‘Dystopian’?: Schools Open Parking Lots for Homeless Students and Families",
-      "description": "As family homelessness hits record highs, a few school districts are beginning to offer parking lots as safe sites for students and their families to sleep at night. Some families prefer the option...",
-      "url": "https://triplepundit.com/2026/family-homelessness-k-12-students-san-diego-california/",
-      "publishedAt": "2026-05-22T13:00:00",
-      "content": "As family homelessness hits record highs, a few school districts are beginning to offer parking lots as safe sites for students and their families to sleep at night. Some families prefer the option..."
     }
   ]
 }
