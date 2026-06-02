@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 31,
   "articles": [
     {
       "source": {
@@ -15,6 +15,28 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "UK’s growing green economy worth more than £100bn a year, research finds",
+      "description": "Net zero industry accounts for more than a million jobs and benefits whole  country, according to CBI EconomicsMore than a million jobs, higher wages, nearly half a trillion pounds in investment in...",
+      "url": "https://www.theguardian.com/environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero",
+      "publishedAt": "2026-06-01T23:01:31",
+      "content": "Net zero industry accounts for more than a million jobs and benefits whole  country, according to CBI EconomicsMore than a million jobs, higher wages, nearly half a trillion pounds in investment in..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "UBS Appoints Alexander Seidler as Head of Sustainability and Climate Risk",
+      "description": "UBS has appointed as Alexander Seidler as Head Sustainability and Climate Risk, with responsibility for",
+      "url": "https://www.esgtoday.com/ubs-appoints-alexander-seidler-as-head-of-sustainability-and-climate-risk/?utm_source=rss&utm_medium=rss&utm_campaign=ubs-appoints-alexander-seidler-as-head-of-sustainability-and-climate-risk",
+      "publishedAt": "2026-06-01T13:29:11",
+      "content": "UBS has appointed as Alexander Seidler as Head Sustainability and Climate Risk, with responsibility for"
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -23,6 +45,17 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-05-31T22:00:45",
       "content": "Feature image: The Summer House."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Eurazeo’s Impact Buyout Fund Acquires Circular Economy Platform T1A",
+      "description": "France-based investment firm Eurazeo announced that it has acquired a majority stake in Denmark-based T1A",
+      "url": "https://www.esgtoday.com/eurazeos-impact-buyout-fund-acquires-circular-economy-platform-t1a/?utm_source=rss&utm_medium=rss&utm_campaign=eurazeos-impact-buyout-fund-acquires-circular-economy-platform-t1a",
+      "publishedAt": "2026-06-01T15:20:14",
+      "content": "France-based investment firm Eurazeo announced that it has acquired a majority stake in Denmark-based T1A"
     },
     {
       "source": {
@@ -37,14 +70,36 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Mike Hower’s Debut Book Helps Companies Navigate Greenwashing, Greenhushing, and Sustainability Communication Risk",
-      "description": "Hower Impact, a boutique sustainability communication and reporting consultancy, announced today that its founder, Mike Hower, has released his new book, Sustainability Storytelling: Communicate Tr...",
-      "url": "https://csrwire.com/press-release/mike-howers-debut-book-helps-companies-navigate-greenwashing-greenhushing-and-sustainability/",
-      "publishedAt": "2026-05-28T06:00:00",
-      "content": "Hower Impact, a boutique sustainability communication and reporting consultancy, announced today that its founder, Mike Hower, has released his new book, Sustainability Storytelling: Communicate Tr..."
+      "author": "ESG Today",
+      "title": "Rabobank Appoints Dries Lagerberg as New Chief Sustainability Officer",
+      "description": "Netherlands-based cooperative bank Rabobank announced the appointment of Dries Lagerberg as its new Chief Sustainability",
+      "url": "https://www.esgtoday.com/rabobank-appoints-dries-lagerberg-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=rabobank-appoints-dries-lagerberg-as-new-chief-sustainability-officer",
+      "publishedAt": "2026-06-02T08:13:10",
+      "content": "Netherlands-based cooperative bank Rabobank announced the appointment of Dries Lagerberg as its new Chief Sustainability"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Gigascale Capital Launches $250 Million Early-Stage Climate Tech Fund",
+      "description": "Climate-focused VC investor Gigascale Capital announced the launch of Gigascale Capital Fund I, a new",
+      "url": "https://www.esgtoday.com/gigascale-capital-launches-250-million-early-stage-climate-tech-fund/?utm_source=rss&utm_medium=rss&utm_campaign=gigascale-capital-launches-250-million-early-stage-climate-tech-fund",
+      "publishedAt": "2026-06-01T17:24:30",
+      "content": "Climate-focused VC investor Gigascale Capital announced the launch of Gigascale Capital Fund I, a new"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "China’s New Green Bond Offering Draws $9 Billion Order Book",
+      "description": "China’s Ministry of Finance (MOF) announced the completion of a new green bond offering, the",
+      "url": "https://www.esgtoday.com/china-draws-9-billion-order-book-for-new-green-bond-offering/?utm_source=rss&utm_medium=rss&utm_campaign=china-draws-9-billion-order-book-for-new-green-bond-offering",
+      "publishedAt": "2026-06-01T11:34:58",
+      "content": "China’s Ministry of Finance (MOF) announced the completion of a new green bond offering, the"
     },
     {
       "source": {
@@ -59,25 +114,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "The Guardian",
-      "title": "The enigmatic summer phenomenon shining from the edge of space",
-      "description": "With no recorded sightings before 1885, noctilucent clouds have been linked to volcanoes, pollution or climate changeAs summer arrives in the northern hemisphere, so do the noctilucent clouds – hop...",
-      "url": "https://www.theguardian.com/news/2026/jun/01/enigmatic-summer-phenomenon-noctilucent-clouds",
-      "publishedAt": "2026-06-01T05:00:08",
-      "content": "With no recorded sightings before 1885, noctilucent clouds have been linked to volcanoes, pollution or climate changeAs summer arrives in the northern hemisphere, so do the noctilucent clouds – hop..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Caudal Energy Raises $5.6 Million to Generate Power from Marine Mammal-Inspired Tidal Tech",
-      "description": "UK-based clean energy startup Caudal Energy announced that it has raised £4.3 million (USD$5.6 million)",
-      "url": "https://www.esgtoday.com/caudal-energy-raises-5-6-million-to-generate-power-from-marine-mammal-inspired-tidal-energy-tech/?utm_source=rss&utm_medium=rss&utm_campaign=caudal-energy-raises-5-6-million-to-generate-power-from-marine-mammal-inspired-tidal-energy-tech",
-      "publishedAt": "2026-05-29T13:23:34",
-      "content": "UK-based clean energy startup Caudal Energy announced that it has raised £4.3 million (USD$5.6 million)"
+      "author": "New York Times",
+      "title": "A Clean Energy PAC Helped Beat Chip Roy, and Now It Has New Targets",
+      "description": "A PAC representing wind and solar energy interests spent $1.",
+      "url": "https://www.nytimes.com/2026/05/29/climate/clean-energy-pac-chip-roy.html",
+      "publishedAt": "2026-05-29T19:47:14",
+      "content": "A PAC representing wind and solar energy interests spent $1."
     },
     {
       "source": {
@@ -106,33 +150,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "SEC Launches Formal Process to Rescind Corporate Climate Reporting Rules",
-      "description": "The U.S. Securities and Exchange Commission (SEC) announced on Friday that it has formally proposed the",
-      "url": "https://www.esgtoday.com/sec-launches-formal-process-to-rescind-corporate-climate-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=sec-launches-formal-process-to-rescind-corporate-climate-reporting-rules",
-      "publishedAt": "2026-05-30T18:46:35",
-      "content": "The U.S. Securities and Exchange Commission (SEC) announced on Friday that it has formally proposed the"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "New York Governor Signs Law Pushing Back State Climate Goals",
-      "description": "New York Governor Kathy Hochul signed New York’s 2027 budget on Thursday, following approval by",
-      "url": "https://www.esgtoday.com/new-york-governor-hochul-signs-budget-pushing-back-state-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=new-york-governor-hochul-signs-budget-pushing-back-state-climate-goals",
-      "publishedAt": "2026-05-29T11:07:46",
-      "content": "New York Governor Kathy Hochul signed New York’s 2027 budget on Thursday, following approval by"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
       "title": "ESG Today: Week in Review",
       "description": "This week in ESG news: IFRS, GRI collaborate to align sustainability reporting standards; SEC launches",
       "url": "https://www.esgtoday.com/esg-today-week-in-review-263/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-263",
       "publishedAt": "2026-05-31T08:55:56",
       "content": "This week in ESG news: IFRS, GRI collaborate to align sustainability reporting standards; SEC launches"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Logging Project Near Yellowstone Could Threaten Wildlife Habitat and Tourist-Dependent Businesses",
+      "description": "A proposed federal logging project in the forests bordering Yellowstone National Park is drawing growing concern from local residents, business owners and conservation advocates who fear it could h...",
+      "url": "https://insideclimatenews.org/news/01062026/forest-service-logging-project-near-yellowstone-draws-concerns/",
+      "publishedAt": "2026-06-01T21:49:08",
+      "content": "A proposed federal logging project in the forests bordering Yellowstone National Park is drawing growing concern from local residents, business owners and conservation advocates who fear it could h..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Rio Tinto Commissions $1.5 Billion Low Carbon Aluminum Project in Canada",
+      "description": "Global mining and metals company Rio Tinto announced the start of commissioning of a $1.5",
+      "url": "https://www.esgtoday.com/rio-tinto-commissions-1-5-billion-low-carbon-aluminum-project-in-canada/?utm_source=rss&utm_medium=rss&utm_campaign=rio-tinto-commissions-1-5-billion-low-carbon-aluminum-project-in-canada",
+      "publishedAt": "2026-06-01T14:12:38",
+      "content": "Global mining and metals company Rio Tinto announced the start of commissioning of a $1.5"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Signs 140 MW U.S. Solar Deal with Avangrid",
+      "description": "Spanish multinational energy company Iberdrola’s U.S. subsidiary Avangrid announced that it has signed a Power",
+      "url": "https://www.esgtoday.com/microsoft-signs-140-mw-u-s-solar-deal-with-avangrid/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-140-mw-u-s-solar-deal-with-avangrid",
+      "publishedAt": "2026-06-01T12:57:19",
+      "content": "Spanish multinational energy company Iberdrola’s U.S. subsidiary Avangrid announced that it has signed a Power"
     },
     {
       "source": {
@@ -144,28 +199,6 @@
       "url": "https://www.nytimes.com/2026/05/30/climate/europe-heat-wave-schools.html",
       "publishedAt": "2026-05-30T04:00:04",
       "content": "Classrooms can be particularly vulnerable amid climate change, as the hottest times of the year increasingly overlap with the academic calendar."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "From Compliance to Leadership: How WELL Supports ESRS and Advances Social Sustainability",
-      "description": "Social sustainability is not yet universally central in practice.",
-      "url": "https://csrwire.com/press-release/compliance-leadership-how-well-supports-esrs-and-advances-social-sustainability/",
-      "publishedAt": "2026-05-29T10:00:00",
-      "content": "Social sustainability is not yet universally central in practice."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Sustainable Fund Flows Return to Positive Territory, Driven by Rebound in Europe: Morningstar",
-      "description": "Global sustainable investment funds returned to positive net flows in the first quarter of 2026,",
-      "url": "https://www.esgtoday.com/sustainable-fund-flows-return-to-positive-territory-driven-by-rebound-in-europe-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=sustainable-fund-flows-return-to-positive-territory-driven-by-rebound-in-europe-morningstar",
-      "publishedAt": "2026-05-28T12:45:50",
-      "content": "Global sustainable investment funds returned to positive net flows in the first quarter of 2026,"
     },
     {
       "source": {
@@ -188,6 +221,72 @@
       "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-au-and-nz/",
       "publishedAt": "2026-05-27T00:00:52",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In New Jersey, Sherrill Agrees to Delay Protections Against Sea Level Rise",
+      "description": "After months of complaints from business and political leaders about new coastal management rules, New Jersey Gov.",
+      "url": "https://insideclimatenews.org/news/02062026/new-jersey-delays-sea-level-rise-protections/",
+      "publishedAt": "2026-06-02T08:55:00",
+      "content": "After months of complaints from business and political leaders about new coastal management rules, New Jersey Gov."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Show us some fin’: citizen scientists take to the seas for first of its kind dolphin census",
+      "description": "From cliff sides, coastal lookouts, kayaks or boats, people counted every dolphin they saw for at least 15 minutes to aid research into NSW’s populationsFollow our Australia news live blog for late...",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/02/dolphin-census-nsw-australia",
+      "publishedAt": "2026-06-02T01:00:33",
+      "content": "From cliff sides, coastal lookouts, kayaks or boats, people counted every dolphin they saw for at least 15 minutes to aid research into NSW’s populationsFollow our Australia news live blog for late..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "DOE Restarts Home Efficiency Rebates, and Electrification Is the Biggest Loser",
+      "description": "Federal energy efficiency rebate programs will no longer cover a switch from fossil fuels to electricity for heating, according to long-awaited guidance from the Department of Energy. The departmen...",
+      "url": "https://insideclimatenews.org/news/01062026/energy-department-restarts-home-efficiency-rebates/",
+      "publishedAt": "2026-06-01T22:31:26",
+      "content": "Federal energy efficiency rebate programs will no longer cover a switch from fossil fuels to electricity for heating, according to long-awaited guidance from the Department of Energy. The departmen..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "I.R.A. Rebates for Appliance Swaps Could Be Phased Out",
+      "description": "New guidance from the Energy Department would prevent people from receiving rebates after making such swaps.",
+      "url": "https://www.nytimes.com/2026/06/01/climate/energy-rebates-home-appliances.html",
+      "publishedAt": "2026-06-01T21:33:30",
+      "content": "New guidance from the Energy Department would prevent people from receiving rebates after making such swaps."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "2025 Wildfires Were the Costliest Ever, Researchers Say",
+      "description": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses.",
+      "url": "https://www.nytimes.com/2026/05/31/climate/2025-wildfire-damage.html",
+      "publishedAt": "2026-06-01T18:28:31",
+      "content": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Hold your nerve and trust nature’: birds, bats and butterflies rebound at Somerset rewilding farm",
+      "description": "Letting nature take over at a former dairy farm has resulted in a surge of species in just three yearsThree years of rewilding on a former dairy farm in east Somerset have led to the number of reco...",
+      "url": "https://www.theguardian.com/environment/2026/jun/01/nature-birds-bats-butterflies-rebound-heal-rewilding-somerset-farm",
+      "publishedAt": "2026-06-01T12:55:44",
+      "content": "Letting nature take over at a former dairy farm has resulted in a surge of species in just three yearsThree years of rewilding on a former dairy farm in east Somerset have led to the number of reco..."
     },
     {
       "source": {
@@ -224,83 +323,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A celebration of life on the edge | Susie White",
-      "description": "Chelsea, London: I find myself moved by this garden that highlights the ‘edgelands’, those unprotected and modest places where nature can thriveParakeets screech and planes rumble overhead, but my ...",
-      "url": "https://www.theguardian.com/environment/2026/jun/01/country-diary-a-celebration-of-life-on-the-edge",
-      "publishedAt": "2026-06-01T04:30:07",
-      "content": "Chelsea, London: I find myself moved by this garden that highlights the ‘edgelands’, those unprotected and modest places where nature can thriveParakeets screech and planes rumble overhead, but my ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "2025 Wildfires Were the Costliest Ever, Researchers Say",
-      "description": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses.",
-      "url": "https://www.nytimes.com/2026/05/31/climate/2025-wildfire-damage.html",
-      "publishedAt": "2026-05-31T23:01:04",
-      "content": "Severe, hard-to-control blazes in densely populated areas like Los Angeles drove the year’s record losses."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘It’s a great healer’: why being outdoors in nature means so much to us",
-      "description": "Many of those who love spending time in Britain’s green places say it is awe-inspiring, calming and therapeuticAs a recent study revealed almost half of UK adults now spend less than three hours a ...",
-      "url": "https://www.theguardian.com/environment/2026/may/31/why-being-outdoors-in-nature-means-so-much-to-us",
-      "publishedAt": "2026-05-31T10:00:44",
-      "content": "Many of those who love spending time in Britain’s green places say it is awe-inspiring, calming and therapeuticAs a recent study revealed almost half of UK adults now spend less than three hours a ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Okefenokee’s Bid for International Recognition",
-      "description": "A vast swamp in southeast Georgia, the Okefenokee National Wildlife Refuge is an environmental wonderland: a protected wilderness of blackwater channels, peat and dense wetland forests, supporting ...",
-      "url": "https://insideclimatenews.org/news/31052026/icn-sunday-morning-okefenokee-unesco-recognition/",
-      "publishedAt": "2026-05-31T08:45:00",
-      "content": "A vast swamp in southeast Georgia, the Okefenokee National Wildlife Refuge is an environmental wonderland: a protected wilderness of blackwater channels, peat and dense wetland forests, supporting ..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "In Southern Colorado Water Is Precious. That’s Why Farmers Are Growing Rye",
-      "description": "Rye is having something of a renaissance in the San Luis Valley, thanks to its remarkable drought-tolerance, and two women behind the Rye Resurgence Project.TriplePundit",
-      "url": "https://triplepundit.com/2026/southern-colorado-san-luis-valley-rye-resurgence-water/",
-      "publishedAt": "2026-05-29T13:00:00",
-      "content": "Rye is having something of a renaissance in the San Luis Valley, thanks to its remarkable drought-tolerance, and two women behind the Rye Resurgence Project.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "At a Critical Moment for Business, SB’26 San Diego Calls Leaders to “All Rise”",
-      "description": "Brand leaders, innovators, and sustainability practitioners from Walmart, Amazon, Target, Levi’s, Henkle, Oatly, General Mills, Disneyland and hundreds more are set to convene June 8-10 at the 20th...",
-      "url": "https://csrwire.com/press-release/critical-moment-business-sb26-san-diego-calls-leaders-all-rise/",
-      "publishedAt": "2026-05-27T14:00:00",
-      "content": "Brand leaders, innovators, and sustainability practitioners from Walmart, Amazon, Target, Levi’s, Henkle, Oatly, General Mills, Disneyland and hundreds more are set to convene June 8-10 at the 20th..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘This is a tragedy’: swimming snakes open new front in battle with Balearic lizards",
-      "description": "The insatiable horseshoe whip snake has become an existential threat to the Ibiza wall lizardIrrefutable proof of what Spanish researchers and wildlife experts had long suspected, and long feared, ...",
-      "url": "https://www.theguardian.com/environment/2026/may/31/swimming-horseshoe-whip-snake-threat-ibiza-wall-lizard",
-      "publishedAt": "2026-05-31T10:26:46",
-      "content": "The insatiable horseshoe whip snake has become an existential threat to the Ibiza wall lizardIrrefutable proof of what Spanish researchers and wildlife experts had long suspected, and long feared, ..."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -312,17 +334,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The household battery revolution that could change energy bills … and the world",
-      "description": "Australia is pioneering a revolution in home renewables and battery use, proving what is possible with the right policiesThe timing was rich with symbolism. As intense heatwaves pummelled Europe an...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/may/31/cheaper-energy-bills-battery-revolution-climate-crisis",
-      "publishedAt": "2026-05-31T00:00:33",
-      "content": "Australia is pioneering a revolution in home renewables and battery use, proving what is possible with the right policiesThe timing was rich with symbolism. As intense heatwaves pummelled Europe an..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -331,138 +342,6 @@
       "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-05-30T23:03:12",
       "content": "A newly discovered species raises hope that some native British habitats could be restored."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The 2026 World Cup Will Feature a Villainous Player: Extreme Heat",
-      "description": "Sávio Bortolini Pimentel just missed getting on the roster to represent his national team, Brazil, at the 1994 FIFA World Cup in the United States.",
-      "url": "https://insideclimatenews.org/news/30052026/fifa-world-cup-extreme-heat/",
-      "publishedAt": "2026-05-30T09:00:00",
-      "content": "Sávio Bortolini Pimentel just missed getting on the roster to represent his national team, Brazil, at the 1994 FIFA World Cup in the United States."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Air Monitors Used in California Tank Crisis Were Inadequate in the Past, Leaving Returning Residents Uneasy",
-      "description": "GARDEN GROVE, Calif.",
-      "url": "https://insideclimatenews.org/news/30052026/california-tank-crisis-air-monitoring/",
-      "publishedAt": "2026-05-30T08:55:00",
-      "content": "GARDEN GROVE, Calif."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "As Seas Rise, Louisiana Faces a Choice: Plan for Movement or Let Crisis Decide",
-      "description": "The shoreline of Louisiana has never been still or fixed, though recent generations have treated it as such.",
-      "url": "https://insideclimatenews.org/news/30052026/louisiana-sea-level-rise-climate-migration/",
-      "publishedAt": "2026-05-30T08:50:00",
-      "content": "The shoreline of Louisiana has never been still or fixed, though recent generations have treated it as such."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "DigitalBridge Acquires Electrification Infrastructure Investor ArcLight for $1 Billion",
-      "description": "Digital infrastructure-focused asset manager DigitalBridge announced the acquisition of electrification infrastructure-focused investor ArcLight Capital Partners,",
-      "url": "https://www.esgtoday.com/digitalbridge-acquires-electrification-focused-investor-arclight-for-1-billion/?utm_source=rss&utm_medium=rss&utm_campaign=digitalbridge-acquires-electrification-focused-investor-arclight-for-1-billion",
-      "publishedAt": "2026-05-29T09:25:15",
-      "content": "Digital infrastructure-focused asset manager DigitalBridge announced the acquisition of electrification infrastructure-focused investor ArcLight Capital Partners,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Thea Energy Raises $100 Million to Scale Fusion Power Plant Technology",
-      "description": "New Jersey-based fusion startup Thea Energy announced that it has raised $100 million in Series",
-      "url": "https://www.esgtoday.com/thea-energy-raises-100-million-to-build-fusion-power-plants/?utm_source=rss&utm_medium=rss&utm_campaign=thea-energy-raises-100-million-to-build-fusion-power-plants",
-      "publishedAt": "2026-05-28T14:44:11",
-      "content": "New Jersey-based fusion startup Thea Energy announced that it has raised $100 million in Series"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI Evolves Works With WELL Program To Expand Alignment Pathways for Products and Services",
-      "description": "The International WELL Building Institute (IWBI) today announced a significant evolution of its Works with WELL program, introducing expanded alignment pathways and a redesigned platform experience...",
-      "url": "https://csrwire.com/press-release/iwbi-evolves-works-well-program-expand-alignment-pathways-products-and-services/",
-      "publishedAt": "2026-05-28T14:00:00",
-      "content": "The International WELL Building Institute (IWBI) today announced a significant evolution of its Works with WELL program, introducing expanded alignment pathways and a redesigned platform experience..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Fusion Startup Focused Energy Raises Record $240 Million",
-      "description": "Germany-based laser fusion company Focused Energy announced that it has raised $240 million in a",
-      "url": "https://www.esgtoday.com/fusion-startup-focused-energy-raises-record-240-million/?utm_source=rss&utm_medium=rss&utm_campaign=fusion-startup-focused-energy-raises-record-240-million",
-      "publishedAt": "2026-05-28T13:58:49",
-      "content": "Germany-based laser fusion company Focused Energy announced that it has raised $240 million in a"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Comcast and El Centro de la Raza Open Lift Zone in Federal Way to Help South King County Families Build Digital Skills",
-      "description": "Comcast launched its newest Lift Zone this month in partnership with El Centro de la Raza to advance digital skills and training opportunities for families in South King County.",
-      "url": "https://csrwire.com/press-release/comcast-and-el-centro-de-la-raza-open-lift-zone-federal-way-help-south-king-county-families/",
-      "publishedAt": "2026-05-28T11:00:00",
-      "content": "Comcast launched its newest Lift Zone this month in partnership with El Centro de la Raza to advance digital skills and training opportunities for families in South King County."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How I Got Here: Jim Dausch",
-      "description": "In the #HowIGotHere series, you’ll read about the career paths of some of the world-renowned leaders at Yum! Brands.",
-      "url": "https://csrwire.com/press-release/how-i-got-here-jim-dausch/",
-      "publishedAt": "2026-05-28T10:00:00",
-      "content": "In the #HowIGotHere series, you’ll read about the career paths of some of the world-renowned leaders at Yum! Brands."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Jill’s 40-Year Journey With Taco Bell",
-      "description": "When the small oil and gas company Jill worked for in Newport Beach went out of business, she spotted a newspaper ad for a job at Taco Bell Corporate.",
-      "url": "https://csrwire.com/press-release/jills-40-year-journey-taco-bell/",
-      "publishedAt": "2026-05-27T12:00:00",
-      "content": "When the small oil and gas company Jill worked for in Newport Beach went out of business, she spotted a newspaper ad for a job at Taco Bell Corporate."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Monumental Public-Private Initiative Forms to Permanently Close America’s Protein Gap",
-      "description": "On the eve of World Hunger Day, a broad-based coalition of farmers, protein producers, hunger advocates and others announce the Coalition to Close the Protein Gap.",
-      "url": "https://csrwire.com/press-release/monumental-public-private-initiative-forms-permanently-close-americas-protein-gap/",
-      "publishedAt": "2026-05-27T11:40:00",
-      "content": "On the eve of World Hunger Day, a broad-based coalition of farmers, protein producers, hunger advocates and others announce the Coalition to Close the Protein Gap."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Delivering History: FedEx Brings Millions of Years of the Past to the Present",
-      "description": "At FedEx, our network connects people and possibilities across the globe every single day. But some of our most remarkable deliveries don't just bridge miles—they bridge millions of years.",
-      "url": "https://csrwire.com/press-release/delivering-history-fedex-brings-millions-years-past-present/",
-      "publishedAt": "2026-05-27T11:00:00",
-      "content": "At FedEx, our network connects people and possibilities across the globe every single day. But some of our most remarkable deliveries don't just bridge miles—they bridge millions of years."
     }
   ]
 }
