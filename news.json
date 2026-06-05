@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 30,
+  "totalResults": 34,
   "articles": [
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Canada’s Former Environment Minister Quits Over Climate Backtracking by Carney Government",
-      "description": "Canadian Parliament member and former Minister of Environment and Climate Change Steven Guilbeault announced plans",
-      "url": "https://www.esgtoday.com/canadas-former-environment-minister-quits-over-climate-backtracking-by-carney-government/?utm_source=rss&utm_medium=rss&utm_campaign=canadas-former-environment-minister-quits-over-climate-backtracking-by-carney-government",
-      "publishedAt": "2026-06-03T11:25:07",
-      "content": "Canadian Parliament member and former Minister of Environment and Climate Change Steven Guilbeault announced plans"
+      "title": "ISO Launches Net Zero Transition Planning Standard for Financial Institutions",
+      "description": "The International Organization for Standardization (ISO) announced the launch of “ISO 32212, Sustainable finance —",
+      "url": "https://www.esgtoday.com/iso-launches-net-zero-transition-planning-standard-for-financial-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=iso-launches-net-zero-transition-planning-standard-for-financial-institutions",
+      "publishedAt": "2026-06-04T10:44:27",
+      "content": "The International Organization for Standardization (ISO) announced the launch of “ISO 32212, Sustainable finance —"
     },
     {
       "source": {
@@ -26,25 +26,58 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "Goldman Sachs Raises $3 Billion for Energy Transition, Digital, Transport and Circular Economy-Focused Infrastructure Fund",
-      "description": "Goldman Sachs Alternatives announced that it has raised over $3 billion at the first close",
-      "url": "https://www.esgtoday.com/goldman-sachs-raises-3-billion-for-energy-transition-digital-transport-and-circular-economy-focused-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-raises-3-billion-for-energy-transition-digital-transport-and-circular-economy-focused-infrastructure-fund",
-      "publishedAt": "2026-06-03T12:58:55",
-      "content": "Goldman Sachs Alternatives announced that it has raised over $3 billion at the first close"
+      "author": "New York Times",
+      "title": "How One Company Plans to Mine the Bottom of the Sea",
+      "description": "A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news.",
+      "url": "https://www.nytimes.com/2026/06/04/climate/deep-sea-mining-metals-company.html",
+      "publishedAt": "2026-06-04T20:30:11",
+      "content": "A look at the quest to mine the bottom of the ocean for valuable minerals, the connection between light pollution and allergies and more climate news."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Corporate Foundation Funds Nature-Based Climate Solutions, from Minnesota Peatlands to the Czech Countryside",
+      "description": "The Everpure Foundation is focused on nature-based solutions as a way to invest in both climate mitigation and community resilience.TriplePundit",
+      "url": "https://triplepundit.com/2026/everpure-foundation-nature-based-solutions/",
+      "publishedAt": "2026-06-04T19:02:38",
+      "content": "The Everpure Foundation is focused on nature-based solutions as a way to invest in both climate mitigation and community resilience.TriplePundit"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "SLR Acquires Natural Capital Advisory Firm Anchor Environmental Consultants",
-      "description": "UK-based sustainability-focused consulting firm SLR announced the acquisition of specialist marine and natural capital consultancy",
-      "url": "https://www.esgtoday.com/slr-acquires-natural-capital-advisory-firm-anchor-environmental-consultants/?utm_source=rss&utm_medium=rss&utm_campaign=slr-acquires-natural-capital-advisory-firm-anchor-environmental-consultants",
-      "publishedAt": "2026-06-02T14:20:07",
-      "content": "UK-based sustainability-focused consulting firm SLR announced the acquisition of specialist marine and natural capital consultancy"
+      "title": "Bain Appoints Harry Morrison as Head of Sustainability Practice for EMEA",
+      "description": "Global consultancy Bain & Company announced the appointment of Harry Morrison as Head of Sustainability Practice",
+      "url": "https://www.esgtoday.com/bain-appoints-harry-morrison-as-head-of-sustainability-practice-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-harry-morrison-as-head-of-sustainability-practice-for-emea",
+      "publishedAt": "2026-06-04T13:07:39",
+      "content": "Global consultancy Bain & Company announced the appointment of Harry Morrison as Head of Sustainability Practice"
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "World Environment Day 2026: Real estate adapts to climate change",
+      "description": "From rising temperatures and flooding concerns, industry experts discuss how climate change is reshaping planning and long-term priorities across India’s property sector",
+      "url": "https://www.thehindu.com/real-estate/world-environment-day-2026-real-estate-adapts-to-climate-change/article71033071.ece",
+      "publishedAt": "2026-05-30T02:27:13",
+      "content": "From rising temperatures and flooding concerns, industry experts discuss how climate change is reshaping planning and long-term priorities across India’s property sector"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Urban Light Pollution Might Be Worsening Allergies",
+      "description": "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
+      "url": "https://www.nytimes.com/2026/06/04/climate/urban-light-pollution-pollen-allergies.html",
+      "publishedAt": "2026-06-04T20:12:17",
+      "content": "Light pollution prompts plants to shed pollen longer and stronger, according to new research."
     },
     {
       "source": {
@@ -73,44 +106,165 @@
         "name": "The Hindu"
       },
       "author": "The Hindu",
-      "title": "World Environment Day 2026: Real estate adapts to climate change",
-      "description": "From rising temperatures and flooding concerns, industry experts discuss how climate change is reshaping planning and long-term priorities across India’s property sector",
-      "url": "https://www.thehindu.com/real-estate/world-environment-day-2026-real-estate-adapts-to-climate-change/article71033071.ece",
-      "publishedAt": "2026-05-30T02:27:13",
-      "content": "From rising temperatures and flooding concerns, industry experts discuss how climate change is reshaping planning and long-term priorities across India’s property sector"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Urban Light Pollution Might Be Worsening Allergies",
-      "description": "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
-      "url": "https://www.nytimes.com/2026/06/04/climate/urban-light-pollution-pollen-allergies.html",
-      "publishedAt": "2026-06-04T09:00:47",
-      "content": "Light pollution prompts plants to shed pollen longer and stronger, according to new research."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Deloitte Appoints Smruti Naik-Jones as Chief Sustainability Officer for EMEA",
-      "description": "Global professional services firm Deloitte has appointed Smruti Naik-Jones as Chief Sustainability Officer for its",
-      "url": "https://www.esgtoday.com/deloitte-appoints-smruti-naik-jones-as-chief-sustainability-officer-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-appoints-smruti-naik-jones-as-chief-sustainability-officer-for-emea",
-      "publishedAt": "2026-06-03T09:17:43",
-      "content": "Global professional services firm Deloitte has appointed Smruti Naik-Jones as Chief Sustainability Officer for its"
+      "title": "World Environment Day | At the end of the world in Antarctica",
+      "description": "At a time when Mount Everest’s trash crisis is making news, the frozen continent must be protected so that unchecked tourist numbers do not adversely affect its fragile ecosystem",
+      "url": "https://www.thehindu.com/life-and-style/travel/antarctica-world-environment-day-unchecked-tourism-frozen-continent/article71064683.ece",
+      "publishedAt": "2026-06-05T08:49:09",
+      "content": "At a time when Mount Everest’s trash crisis is making news, the frozen continent must be protected so that unchecked tourist numbers do not adversely affect its fragile ecosystem"
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival",
-      "description": "Global report provides an alternative to climate breakdown, political extremism and economic tensions• ‘Happiness is not just about GDP’: ambitious plan or utopia?Humanity can raise living standard...",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival",
-      "publishedAt": "2026-06-04T06:00:28",
-      "content": "Global report provides an alternative to climate breakdown, political extremism and economic tensions• ‘Happiness is not just about GDP’: ambitious plan or utopia?Humanity can raise living standard..."
+      "title": "How the insatiable thirst of datacenters is leaving communities across the US high and dry",
+      "description": "In this week’s newsletter: Utah’s gargantuan Stratos development is the latest battleground in the AI-driven fight for water, energy, and our environmental future• Don’t get Down to Earth delivered...",
+      "url": "https://www.theguardian.com/environment/2026/jun/04/how-the-insatiable-thirst-of-datacenters-is-leaving-communities-across-the-us-high-and-dry",
+      "publishedAt": "2026-06-05T06:00:28",
+      "content": "In this week’s newsletter: Utah’s gargantuan Stratos development is the latest battleground in the AI-driven fight for water, energy, and our environmental future• Don’t get Down to Earth delivered..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Funding India’s climate future, the trillion-dollar question’",
+      "description": "India’s bottleneck is not funding, but the institutional architecture needed to move it where it is needed",
+      "url": "https://www.thehindu.com/opinion/lead/funding-indias-climate-future-the-trillion-dollar-question/article71062224.ece",
+      "publishedAt": "2026-06-05T03:06:55",
+      "content": "India’s bottleneck is not funding, but the institutional architecture needed to move it where it is needed"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-04T23:11:15",
+      "content": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "ARPA-H Honored for Driving Breakthrough Innovation in Healthy Indoor Air",
+      "description": "The Asthma and Allergy Foundation of America (AAFA), the International Facility Management Association (IFMA) and the International WELL Building Institute (IWBI) today honored the Advanced Researc...",
+      "url": "https://csrwire.com/press-release/arpa-h-honored-driving-breakthrough-innovation-healthy-indoor-air/",
+      "publishedAt": "2026-06-04T15:50:00",
+      "content": "The Asthma and Allergy Foundation of America (AAFA), the International Facility Management Association (IFMA) and the International WELL Building Institute (IWBI) today honored the Advanced Researc..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report",
+      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued",
+      "url": "https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report",
+      "publishedAt": "2026-06-04T15:31:42",
+      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Elanco Animal Health Commits to Supporting U.S. Livestock Producers and Pet Owners in Fight Against New World Screwworm",
+      "description": "Company offers portfolio of treatment options and expert guidance following first confirmed case in the United States",
+      "url": "https://csrwire.com/press-release/elanco-animal-health-commits-supporting-us-livestock-producers-and-pet-owners-fight-against/",
+      "publishedAt": "2026-06-04T11:45:00",
+      "content": "Company offers portfolio of treatment options and expert guidance following first confirmed case in the United States"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco: How Connectivity Is Shaping the Future of Healthcare",
+      "description": "What if the future of surgery didn’t begin in an operating room, but in a fully connected digital sandbox?",
+      "url": "https://csrwire.com/press-release/cisco-how-connectivity-shaping-future-healthcare/",
+      "publishedAt": "2026-06-04T09:05:00",
+      "content": "What if the future of surgery didn’t begin in an operating room, but in a fully connected digital sandbox?"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Linen Dresses That Deliver On Style and Comfort",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-linen-dresses/",
+      "publishedAt": "2026-06-01T04:47:39",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Get set for a painted lady summer: big year for orange butterflies in Britain",
+      "description": "Migrant insects have been seen in large numbers along east coast thanks to heatwave and benign southerly windsIf you’ve spotted a pale orange butterfly dashing at frenetic pace through streets, fie...",
+      "url": "https://www.theguardian.com/environment/2026/jun/05/painted-lady-summer-orange-butterflies-britain",
+      "publishedAt": "2026-06-05T07:00:28",
+      "content": "Migrant insects have been seen in large numbers along east coast thanks to heatwave and benign southerly windsIf you’ve spotted a pale orange butterfly dashing at frenetic pace through streets, fie..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The ‘queen of trees’ is holding a secret | Elizabeth-Jane Burnett",
+      "description": "Eggesford Forest, Devon: I thought I was alone in admiring a towering beech in the chilly wood, but I was notI breathe in the bluebells as a blackcap sings. At the crescendo, a flash of yellow brea...",
+      "url": "https://www.theguardian.com/environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
+      "publishedAt": "2026-06-05T04:30:25",
+      "content": "Eggesford Forest, Devon: I thought I was alone in admiring a towering beech in the chilly wood, but I was notI breathe in the bluebells as a blackcap sings. At the crescendo, a flash of yellow brea..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New York State Gets One Step Closer to a Data Center Moratorium",
+      "description": "The New York Legislature passed a one-year moratorium Thursday night on data center permits, the latest sign of pushback amid a nationwide rush to build the power-hungry facilities.  New York would...",
+      "url": "https://insideclimatenews.org/news/04062026/new-york-data-center-moratorium-bill/",
+      "publishedAt": "2026-06-05T00:59:30",
+      "content": "The New York Legislature passed a one-year moratorium Thursday night on data center permits, the latest sign of pushback amid a nationwide rush to build the power-hungry facilities.  New York would..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘They surprise me every time’: bees can use tools to solve problems, study finds",
+      "description": "Insects join list of species capable of solving simple ‘box-and-banana’ problem that demonstrates basic intelligenceBumblebees can use tools to solve a problem, according to experiments that demons...",
+      "url": "https://www.theguardian.com/environment/2026/jun/04/bees-use-tools-to-solve-problems-study-finds",
+      "publishedAt": "2026-06-04T18:00:12",
+      "content": "Insects join list of species capable of solving simple ‘box-and-banana’ problem that demonstrates basic intelligenceBumblebees can use tools to solve a problem, according to experiments that demons..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Energy Demand Rises, More States Turn to Virtual Power Plants",
+      "description": "An executive order in Massachusetts and a regulatory commission action in Minnesota are among the big moves this year that highlight the growing role of virtual power plants in grid management. A v...",
+      "url": "https://insideclimatenews.org/news/04062026/inside-clean-energy-virtual-power-plants-role-in-transition-away-from-fossil-fuels/",
+      "publishedAt": "2026-06-04T13:00:00",
+      "content": "An executive order in Massachusetts and a regulatory commission action in Minnesota are among the big moves this year that highlight the growing role of virtual power plants in grid management. A v..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PSEG: Protecting Ospreys and Power Reliability on Petty’s Island",
+      "description": "When an osprey pair built a nest atop an energized electrical pole on Petty’s Island in Pennsauken, New Jersey, it created both a safety risk for the birds and a potential reliability concern for c...",
+      "url": "https://csrwire.com/press-release/pseg-protecting-ospreys-and-power-reliability-pettys-island/",
+      "publishedAt": "2026-06-04T09:00:00",
+      "content": "When an osprey pair built a nest atop an energized electrical pole on Petty’s Island in Pennsauken, New Jersey, it created both a safety risk for the birds and a potential reliability concern for c..."
     },
     {
       "source": {
@@ -122,17 +276,6 @@
       "url": "https://www.esgtoday.com/gigaton-raises-26-million-to-slash-emissions-across-cement-steel-glass-chemicals-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=gigaton-raises-26-million-to-slash-emissions-across-cement-steel-glass-chemicals-sectors",
       "publishedAt": "2026-06-03T14:54:30",
       "content": "Industrial automation startup Gigaton announced that it has raised $26 million in a Series A"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs “Bring Your Own Capacity” Agreement with Voltus to Unlock 100 MW from Grid",
-      "description": "Distributed energy resource (DER) platform Voltus and Google announced a new three-year agreement with Google,",
-      "url": "https://www.esgtoday.com/google-signs-bring-your-own-capacity-agreement-with-voltus-to-unlock-100-mw-from-grid/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-bring-your-own-capacity-agreement-with-voltus-to-unlock-100-mw-from-grid",
-      "publishedAt": "2026-06-03T12:23:13",
-      "content": "Distributed energy resource (DER) platform Voltus and Google announced a new three-year agreement with Google,"
     },
     {
       "source": {
@@ -150,11 +293,22 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "More Sustainable Linen Dresses That Deliver On Style and Comfort",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-linen-dresses/",
-      "publishedAt": "2026-06-01T04:47:39",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "title": "Why You Need to Know the Difference Between Compostable and Biodegradable",
+      "description": "It’s easy to assume that just because a product—or its packaging—is labelled as biodegradable, it’s a sustainable option.",
+      "url": "https://goodonyou.eco/compostable-vs-biodegradable/",
+      "publishedAt": "2026-06-03T03:26:16",
+      "content": "It’s easy to assume that just because a product—or its packaging—is labelled as biodegradable, it’s a sustainable option."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Designing for Well-Being: Why Healthy Materials Matter More Than Ever",
+      "description": "Designers hold the power to shape how people experience the world around them.",
+      "url": "https://csrwire.com/press-release/designing-well-being-why-healthy-materials-matter-more-ever/",
+      "publishedAt": "2026-06-02T12:15:00",
+      "content": "Designers hold the power to shape how people experience the world around them."
     },
     {
       "source": {
@@ -169,25 +323,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Beating the heat: study explores the search for cool during heatwaves",
-      "description": "Smartphone data shows how we seek refuge in extreme heat, and why social inequalities leave some vulnerableHeatwaves are now an increasingly expected part of summer for many. But how people stay co...",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/beating-heat-study-explores-search-cool-heatwaves",
-      "publishedAt": "2026-06-04T05:00:27",
-      "content": "Smartphone data shows how we seek refuge in extreme heat, and why social inequalities leave some vulnerableHeatwaves are now an increasingly expected part of summer for many. But how people stay co..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A close-up view of a shimmering beauty | Sara Hudston",
-      "description": "Bridport, Dorset: The female in my garden has been a glittering presence of late, but soon she will return to the river to breedThe beautiful demoiselle (Calopteryx virgo) is aptly named. This love...",
-      "url": "https://www.theguardian.com/environment/2026/jun/04/country-diary-a-close-up-view-of-a-shimmering-beauty",
-      "publishedAt": "2026-06-04T04:30:25",
-      "content": "Bridport, Dorset: The female in my garden has been a glittering presence of late, but soon she will return to the river to breedThe beautiful demoiselle (Calopteryx virgo) is aptly named. This love..."
+      "author": "BBC",
+      "title": "Failing sea defences 'disaster' for nature reserve",
+      "description": "An internationally important nature reserve in Hampshire is under threat from failing flood defences.",
+      "url": "https://www.bbc.com/news/articles/c0q2kk4ek8qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-04T05:17:47",
+      "content": "An internationally important nature reserve in Hampshire is under threat from failing flood defences."
     },
     {
       "source": {
@@ -213,94 +356,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "​Why is Europe still not ready for extreme heat?",
-      "description": "​The first heatwaves of the season reveal how ​ill-prepared governments across the continent are to protect people from increasingly dangerous temperatures• Don’t get This Is Europe delivered to yo...",
-      "url": "https://www.theguardian.com/world/2026/jun/03/why-is-europe-still-not-ready-for-extreme-heat",
-      "publishedAt": "2026-06-03T14:25:26",
-      "content": "​The first heatwaves of the season reveal how ​ill-prepared governments across the continent are to protect people from increasingly dangerous temperatures• Don’t get This Is Europe delivered to yo..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Why You Need to Know the Difference Between Compostable and Biodegradable",
-      "description": "It’s easy to assume that just because a product—or its packaging—is labelled as biodegradable, it’s a sustainable option.",
-      "url": "https://goodonyou.eco/compostable-vs-biodegradable/",
-      "publishedAt": "2026-06-03T03:26:16",
-      "content": "It’s easy to assume that just because a product—or its packaging—is labelled as biodegradable, it’s a sustainable option."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Spiro Raises $215 Million to Scale e-Mobility Platform Across Africa",
-      "description": "Nairobi-based electric mobility platform Spiro announced that it has raised $215 million in an equity",
-      "url": "https://www.esgtoday.com/spiro-raises-215-million-to-scale-e-mobility-platform-across-africa/?utm_source=rss&utm_medium=rss&utm_campaign=spiro-raises-215-million-to-scale-e-mobility-platform-across-africa",
-      "publishedAt": "2026-06-02T15:12:50",
-      "content": "Nairobi-based electric mobility platform Spiro announced that it has raised $215 million in an equity"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Designing for Well-Being: Why Healthy Materials Matter More Than Ever",
-      "description": "Designers hold the power to shape how people experience the world around them.",
-      "url": "https://csrwire.com/press-release/designing-well-being-why-healthy-materials-matter-more-ever/",
-      "publishedAt": "2026-06-02T12:15:00",
-      "content": "Designers hold the power to shape how people experience the world around them."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Infrastructure in Motion: The Ray and Kia Georgia Partner to Stabilize West Point Test Track",
-      "description": "The Ray team is proud to highlight its recent collaboration with Kia Georgia at their West Point manufacturing facility, where The Ray's Natural Capital program oversaw the installation of 14 acres...",
-      "url": "https://csrwire.com/press-release/infrastructure-motion-ray-and-kia-georgia-partner-stabilize-west-point-test-track/",
-      "publishedAt": "2026-06-02T09:40:00",
-      "content": "The Ray team is proud to highlight its recent collaboration with Kia Georgia at their West Point manufacturing facility, where The Ray's Natural Capital program oversaw the installation of 14 acres..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How PSEG Foundation Is Supporting New Jersey Families Through Trusted Community Partnerships",
-      "description": "Across New Jersey, thousands of families rely on local nonprofits every day for meals, transportation, shelter and other essential support.",
-      "url": "https://csrwire.com/press-release/how-pseg-foundation-supporting-new-jersey-families-through-trusted-community-partnerships/",
-      "publishedAt": "2026-06-02T09:00:00",
-      "content": "Across New Jersey, thousands of families rely on local nonprofits every day for meals, transportation, shelter and other essential support."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco | Scaling the Digital Future: Why AI and Skills Investments Matter for Business and Society",
-      "description": "AI is no longer just a technology wave; it is the operating system of our modern economy.",
-      "url": "https://csrwire.com/press-release/cisco-scaling-digital-future-why-ai-and-skills-investments-matter-business-and-society/",
-      "publishedAt": "2026-06-02T08:05:00",
-      "content": "AI is no longer just a technology wave; it is the operating system of our modern economy."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How I Got Here: Ranjith Roy",
-      "description": "In the #HowIGotHere series, you’ll read about the career paths of some of the world-renowned leaders at Yum! Brands. Learn more about Ranjith Roy, Chief Financial Officer at Yum! Brands.",
-      "url": "https://csrwire.com/press-release/how-i-got-here-ranjith-roy/",
-      "publishedAt": "2026-06-01T10:00:00",
-      "content": "In the #HowIGotHere series, you’ll read about the career paths of some of the world-renowned leaders at Yum! Brands. Learn more about Ranjith Roy, Chief Financial Officer at Yum! Brands."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -309,17 +364,6 @@
       "url": "https://insideclimatenews.org/news/03062026/princeton-iowa-contaminated-drinking-water/",
       "publishedAt": "2026-06-03T09:00:00",
       "content": "PRINCETON, Iowa—From the beginning, the new well was a headache."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
-      "description": "Bank of England says updated imagery will celebrate native wildlife while bolstering anti-counterfeit featuresPuffins, dolphins and bumblebees are among the wildlife that could feature on new bankn...",
-      "url": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist",
-      "publishedAt": "2026-06-02T23:01:35",
-      "content": "Bank of England says updated imagery will celebrate native wildlife while bolstering anti-counterfeit featuresPuffins, dolphins and bumblebees are among the wildlife that could feature on new bankn..."
     },
     {
       "source": {
