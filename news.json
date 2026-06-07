@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 23,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ISO Launches Net Zero Transition Planning Standard for Financial Institutions",
-      "description": "The International Organization for Standardization (ISO) announced the launch of “ISO 32212, Sustainable finance —",
-      "url": "https://www.esgtoday.com/iso-launches-net-zero-transition-planning-standard-for-financial-institutions/?utm_source=rss&utm_medium=rss&utm_campaign=iso-launches-net-zero-transition-planning-standard-for-financial-institutions",
-      "publishedAt": "2026-06-04T10:44:27",
-      "content": "The International Organization for Standardization (ISO) announced the launch of “ISO 32212, Sustainable finance —"
-    },
     {
       "source": {
         "name": "Good On You"
@@ -70,17 +59,6 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Corporate Foundation Funds Nature-Based Climate Solutions, from Minnesota Peatlands to the Czech Countryside",
-      "description": "The Everpure Foundation is focused on nature-based solutions as a way to invest in both climate mitigation and community resilience.TriplePundit",
-      "url": "https://triplepundit.com/2026/everpure-foundation-nature-based-solutions/",
-      "publishedAt": "2026-06-04T19:02:38",
-      "content": "The Everpure Foundation is focused on nature-based solutions as a way to invest in both climate mitigation and community resilience.TriplePundit"
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -89,6 +67,17 @@
       "url": "https://www.esgtoday.com/bain-appoints-harry-morrison-as-head-of-sustainability-practice-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-harry-morrison-as-head-of-sustainability-practice-for-emea",
       "publishedAt": "2026-06-04T13:07:39",
       "content": "Global consultancy Bain & Company announced the appointment of Harry Morrison as Head of Sustainability Practice"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Urban Light Pollution Might Be Worsening Allergies",
+      "description": "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
+      "url": "https://www.nytimes.com/2026/06/04/climate/urban-light-pollution-pollen-allergies.html",
+      "publishedAt": "2026-06-04T20:12:18",
+      "content": "Light pollution prompts plants to shed pollen longer and stronger, according to new research."
     },
     {
       "source": {
@@ -103,25 +92,58 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Good On You"
       },
-      "author": "New York Times",
-      "title": "Urban Light Pollution Might Be Worsening Allergies",
-      "description": "Light pollution prompts plants to shed pollen longer and stronger, according to new research.",
-      "url": "https://www.nytimes.com/2026/06/04/climate/urban-light-pollution-pollen-allergies.html",
-      "publishedAt": "2026-06-04T20:12:17",
-      "content": "Light pollution prompts plants to shed pollen longer and stronger, according to new research."
+      "author": "Good On You",
+      "title": "More Sustainable Linen Dresses That Deliver On Style and Comfort",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-linen-dresses/",
+      "publishedAt": "2026-06-01T04:47:39",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "CNH and TIM Invest Around R$ 77 Million To Bring Connectivity to Rural Regions in Brazil",
-      "description": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately...",
-      "url": "https://csrwire.com/press-release/cnh-and-tim-invest-around-r-77-million-bring-connectivity-rural-regions-brazil/",
-      "publishedAt": "2026-06-05T16:00:00",
-      "content": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately..."
+      "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: Goldman Sachs raises $3 billion for energy transition, circular economy,",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-264/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-264",
+      "publishedAt": "2026-06-07T07:12:21",
+      "content": "This week in ESG news: Goldman Sachs raises $3 billion for energy transition, circular economy,"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fisher with a mission: first woman to chair Grayling Society wants to protect ‘lady of the stream’",
+      "description": "Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ graylingWith its iridescent pink scales and elegant dorsal fin, the grayling is known to an...",
+      "url": "https://www.theguardian.com/environment/2026/jun/07/fisher-mission-first-woman-chair-grayling-society-protect-rivers",
+      "publishedAt": "2026-06-07T07:00:27",
+      "content": "Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ graylingWith its iridescent pink scales and elegant dorsal fin, the grayling is known to an..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Arizona, Nevada Agree to Trade for Desalinated Pacific Ocean Water",
+      "description": "A decade-old treatment plant in San Diego County, Calif., could leave more water in the Colorado River for states facing severe shortages.",
+      "url": "https://www.nytimes.com/2026/06/03/climate/arizona-nevada-san-diego-water.html",
+      "publishedAt": "2026-06-06T20:34:50",
+      "content": "A decade-old treatment plant in San Diego County, Calif., could leave more water in the Colorado River for states facing severe shortages."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Drought and floods drove them from their homes. But hunger and poverty have followed them to a Mogadishu camp",
+      "description": "More than 6.",
+      "url": "https://www.theguardian.com/global-development/2026/jun/06/somalia-drought-floods-hunger-displaced-camps-war-aid",
+      "publishedAt": "2026-06-06T13:00:05",
+      "content": "More than 6."
     },
     {
       "source": {
@@ -136,14 +158,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Linen Dresses That Deliver On Style and Comfort",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-linen-dresses/",
-      "publishedAt": "2026-06-01T04:47:39",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "BBC",
+      "title": "Mangrove forests are healing after decades of human destruction",
+      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
+      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-04T23:11:15",
+      "content": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report",
+      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued",
+      "url": "https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report",
+      "publishedAt": "2026-06-04T15:31:42",
+      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A plough, a haybale – who would live in a house like this? | Nicola Chester",
+      "description": "Hungerford, Berkshire: In a nearby farm, ever-resourceful birds and bees are getting creative with where they build their nestsThere are some unusual nesting spots being utilised in the farm and st...",
+      "url": "https://www.theguardian.com/environment/2026/jun/06/country-diary-a-plough-a-haybale-who-would-live-in-a-house-like-this",
+      "publishedAt": "2026-06-06T07:00:04",
+      "content": "Hungerford, Berkshire: In a nearby farm, ever-resourceful birds and bees are getting creative with where they build their nestsThere are some unusual nesting spots being utilised in the farm and st..."
     },
     {
       "source": {
@@ -199,149 +243,6 @@
       "url": "https://insideclimatenews.org/news/05062026/blm-grazing-rules-eliminate-tribal-buffalo/",
       "publishedAt": "2026-06-05T09:00:00",
       "content": "SEATTLE—Tribal bison were on an extraordinary roll before the second term of President Donald J."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A ‘Reforestation Pipeline’ in New Mexico Trains Seedlings to Survive in Burn Scars",
-      "description": "Four years after the Calf Canyon/Hermits Peak Fire burned 341,471 acres in northern New Mexico, the massive burn scar from the most destructive blaze in state history still holds vast stretches of ...",
-      "url": "https://insideclimatenews.org/news/05062026/new-mexico-pine-tree-reforestation/",
-      "publishedAt": "2026-06-05T08:55:00",
-      "content": "Four years after the Calf Canyon/Hermits Peak Fire burned 341,471 acres in northern New Mexico, the massive burn scar from the most destructive blaze in state history still holds vast stretches of ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Georgia Power Rates Dip, But the Savings Aren’t Likely to Last",
-      "description": "Georgia’s two largest utility proceedings of the year were settled last month between Georgia regulators and Georgia Power.",
-      "url": "https://insideclimatenews.org/news/05062026/georgia-power-rates-dip-but-utility-could-profit/",
-      "publishedAt": "2026-06-05T08:50:00",
-      "content": "Georgia’s two largest utility proceedings of the year were settled last month between Georgia regulators and Georgia Power."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
-      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T23:11:15",
-      "content": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "ARPA-H Honored for Driving Breakthrough Innovation in Healthy Indoor Air",
-      "description": "The Asthma and Allergy Foundation of America (AAFA), the International Facility Management Association (IFMA) and the International WELL Building Institute (IWBI) today honored the Advanced Researc...",
-      "url": "https://csrwire.com/press-release/arpa-h-honored-driving-breakthrough-innovation-healthy-indoor-air/",
-      "publishedAt": "2026-06-04T15:50:00",
-      "content": "The Asthma and Allergy Foundation of America (AAFA), the International Facility Management Association (IFMA) and the International WELL Building Institute (IWBI) today honored the Advanced Researc..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report",
-      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued",
-      "url": "https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report",
-      "publishedAt": "2026-06-04T15:31:42",
-      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Elanco Animal Health Commits to Supporting U.S. Livestock Producers and Pet Owners in Fight Against New World Screwworm",
-      "description": "Company offers portfolio of treatment options and expert guidance following first confirmed case in the United States",
-      "url": "https://csrwire.com/press-release/elanco-animal-health-commits-supporting-us-livestock-producers-and-pet-owners-fight-against/",
-      "publishedAt": "2026-06-04T11:45:00",
-      "content": "Company offers portfolio of treatment options and expert guidance following first confirmed case in the United States"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco: How Connectivity Is Shaping the Future of Healthcare",
-      "description": "What if the future of surgery didn’t begin in an operating room, but in a fully connected digital sandbox?",
-      "url": "https://csrwire.com/press-release/cisco-how-connectivity-shaping-future-healthcare/",
-      "publishedAt": "2026-06-04T09:05:00",
-      "content": "What if the future of surgery didn’t begin in an operating room, but in a fully connected digital sandbox?"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG: Protecting Ospreys and Power Reliability on Petty’s Island",
-      "description": "When an osprey pair built a nest atop an energized electrical pole on Petty’s Island in Pennsauken, New Jersey, it created both a safety risk for the birds and a potential reliability concern for c...",
-      "url": "https://csrwire.com/press-release/pseg-protecting-ospreys-and-power-reliability-pettys-island/",
-      "publishedAt": "2026-06-04T09:00:00",
-      "content": "When an osprey pair built a nest atop an energized electrical pole on Petty’s Island in Pennsauken, New Jersey, it created both a safety risk for the birds and a potential reliability concern for c..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Technical Spotlight: Biological Engineering in the Highway Right-of-Way",
-      "description": "October marked the successful completion of the first year of the Sorghum Roadside Trials on The Ray, a pilot project proving how specialized, resilient cereal crops can solve legacy infrastructure...",
-      "url": "https://csrwire.com/press-release/technical-spotlight-biological-engineering-highway-right-way/",
-      "publishedAt": "2026-06-03T09:40:00",
-      "content": "October marked the successful completion of the first year of the Sorghum Roadside Trials on The Ray, a pilot project proving how specialized, resilient cereal crops can solve legacy infrastructure..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Get set for a painted lady summer: big year for orange butterflies in Britain",
-      "description": "Migrant insects have been seen in large numbers along east coast thanks to heatwave and benign southerly windsIf you’ve spotted a pale orange butterfly dashing at frenetic pace through streets, fie...",
-      "url": "https://www.theguardian.com/environment/2026/jun/05/painted-lady-summer-orange-butterflies-britain",
-      "publishedAt": "2026-06-05T07:00:28",
-      "content": "Migrant insects have been seen in large numbers along east coast thanks to heatwave and benign southerly windsIf you’ve spotted a pale orange butterfly dashing at frenetic pace through streets, fie..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The ‘queen of trees’ is holding a secret | Elizabeth-Jane Burnett",
-      "description": "Eggesford Forest, Devon: I thought I was alone in admiring a towering beech in the chilly wood, but I was notI breathe in the bluebells as a blackcap sings. At the crescendo, a flash of yellow brea...",
-      "url": "https://www.theguardian.com/environment/2026/jun/05/country-diary-the-queen-of-trees-is-holding-a-secret",
-      "publishedAt": "2026-06-05T04:30:25",
-      "content": "Eggesford Forest, Devon: I thought I was alone in admiring a towering beech in the chilly wood, but I was notI breathe in the bluebells as a blackcap sings. At the crescendo, a flash of yellow brea..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Failing sea defences 'disaster' for nature reserve",
-      "description": "An internationally important nature reserve in Hampshire is under threat from failing flood defences.",
-      "url": "https://www.bbc.com/news/articles/c0q2kk4ek8qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T05:17:47",
-      "content": "An internationally important nature reserve in Hampshire is under threat from failing flood defences."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Arizona, Nevada Agree to Trade for Desalinated Pacific Ocean Water",
-      "description": "A decade-old treatment plant in San Diego County, Calif., could leave more water in the Colorado River for states facing severe shortages.",
-      "url": "https://www.nytimes.com/2026/06/03/climate/arizona-nevada-san-diego-water.html",
-      "publishedAt": "2026-06-03T22:52:45",
-      "content": "A decade-old treatment plant in San Diego County, Calif., could leave more water in the Colorado River for states facing severe shortages."
     },
     {
       "source": {
