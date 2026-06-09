@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 36,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CDP Adds New Ocean Category to Sustainability Reporting Platform",
+      "description": "Environmental sustainability reporting platform CDP announced the expansion of its disclosure system to incorporate ocean data,",
+      "url": "https://www.esgtoday.com/cdp-adds-new-ocean-category-to-sustainability-reporting-platform/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-adds-new-ocean-category-to-sustainability-reporting-platform",
+      "publishedAt": "2026-06-09T07:47:43",
+      "content": "Environmental sustainability reporting platform CDP announced the expansion of its disclosure system to incorporate ocean data,"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -37,6 +48,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock Appoints Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions",
+      "description": "Investment giant BlackRock announced today the appointment of Louise Kooy-Henckel as Global Head of Sustainable",
+      "url": "https://www.esgtoday.com/blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions",
+      "publishedAt": "2026-06-09T07:47:23",
+      "content": "Investment giant BlackRock announced today the appointment of Louise Kooy-Henckel as Global Head of Sustainable"
+    },
+    {
+      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
@@ -45,6 +67,28 @@
       "url": "https://www.thehindu.com/life-and-style/travel/antarctica-world-environment-day-unchecked-tourism-frozen-continent/article71064683.ece",
       "publishedAt": "2026-06-05T13:12:45",
       "content": "At a time when Mount Everest’s trash crisis is making news, travelling with companies committed to conservation and sustainability can make a big difference in the frozen continent"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Christian leaders alarmed by climate crisis raise questions over GB News owner’s £28m church donations",
+      "description": "Exclusive: Sir Paul Marshall’s climate views and those broadcast on GB News said to be ‘in direct opposition’ to those of  Church of EnglandThe co-owner of GB News, a British TV channel accused of ...",
+      "url": "https://www.theguardian.com/environment/2026/jun/09/christian-leaders-alarmed-by-climate-crisis-raise-questions-over-gb-news-owners-28m-church-donations",
+      "publishedAt": "2026-06-09T06:00:46",
+      "content": "Exclusive: Sir Paul Marshall’s climate views and those broadcast on GB News said to be ‘in direct opposition’ to those of  Church of EnglandThe co-owner of GB News, a British TV channel accused of ..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "17 More Sustainable White Shirts You’ll Keep For Years",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-white-dress-shirts/",
+      "publishedAt": "2026-06-09T03:00:28",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -117,22 +161,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Bain Appoints Harry Morrison as Head of Sustainability Practice for EMEA",
-      "description": "Global consultancy Bain & Company announced the appointment of Harry Morrison as Head of Sustainability Practice",
-      "url": "https://www.esgtoday.com/bain-appoints-harry-morrison-as-head-of-sustainability-practice-for-emea/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-harry-morrison-as-head-of-sustainability-practice-for-emea",
-      "publishedAt": "2026-06-04T13:07:39",
-      "content": "Global consultancy Bain & Company announced the appointment of Harry Morrison as Head of Sustainability Practice"
+      "title": "Alphabet’s Waymo to Repurpose Used EV Batteries for Grid Storage",
+      "description": "Alphabet-owned autonomous driving technology company Waymo and energy storage developer B2U Storage Solutions announced a",
+      "url": "https://www.esgtoday.com/alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage/?utm_source=rss&utm_medium=rss&utm_campaign=alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage",
+      "publishedAt": "2026-06-08T11:42:37",
+      "content": "Alphabet-owned autonomous driving technology company Waymo and energy storage developer B2U Storage Solutions announced a"
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "TD Signs 10-Year Carbon Removal Deal with Deep Sky",
-      "description": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal",
-      "url": "https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/?utm_source=rss&utm_medium=rss&utm_campaign=td-signs-10-year-carbon-removal-deal-with-deep-sky",
-      "publishedAt": "2026-06-08T07:57:58",
-      "content": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal"
+      "author": "CSRWire",
+      "title": "Medtronic Receives FDA Clearance for Nellcor™ Pulse Oximetry System With Nell-EQ™ Intelligent Processor, a New Technology Designed To Improve Reliability Across Diverse Patients and Conditions",
+      "description": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p...",
+      "url": "https://csrwire.com/press-release/medtronic-receives-fda-clearance-nellcortm-pulse-oximetry-system-nell-eqtm-intelligent/",
+      "publishedAt": "2026-06-08T11:35:00",
+      "content": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "PSEG Keeps Care Running: How Holy Name Upgraded Hospital Energy Systems",
+      "description": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock.",
+      "url": "https://csrwire.com/press-release/pseg-keeps-care-running-how-holy-name-upgraded-hospital-energy-systems/",
+      "publishedAt": "2026-06-08T10:00:00",
+      "content": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Ask Nature Podcast Episode 2: Robin Wall Kimmerer",
+      "description": "Robin Wall Kimmerer, author of Braiding Sweetgrass is featured in this week's Ask Nature Podcast.",
+      "url": "https://csrwire.com/press-release/ask-nature-podcast-episode-2-robin-wall-kimmerer/",
+      "publishedAt": "2026-06-08T09:40:00",
+      "content": "Robin Wall Kimmerer, author of Braiding Sweetgrass is featured in this week's Ask Nature Podcast."
     },
     {
       "source": {
@@ -150,22 +216,55 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Elusive gull drifts thousands of kilometres off course to Australia, turning birdwatching into ‘extreme sport’",
-      "description": "‘Twitchers’ rush to coastal Western Australia to see black-headed gull, which usually flies between Europe and AsiaGet our breaking news email, free app or daily news podcastA lone seabird has caus...",
-      "url": "https://www.theguardian.com/environment/2026/jun/08/elusive-gull-drifts-thousands-of-kilometres-off-course-to-australia-turning-birdwatching-into-extreme-sport",
-      "publishedAt": "2026-06-08T09:37:14",
-      "content": "‘Twitchers’ rush to coastal Western Australia to see black-headed gull, which usually flies between Europe and AsiaGet our breaking news email, free app or daily news podcastA lone seabird has caus..."
+      "title": "World’s largest banks pledged $906bn to fossil fuel companies in ‘unfathomable’ increase in 2025, report finds",
+      "description": "JPMorgan Chase leads 65 banks making decisions incompatible with restraining rising temperatures, researchers sayThe world’s largest banks committed $906bn in financing to the fossil fuel industry ...",
+      "url": "https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025",
+      "publishedAt": "2026-06-09T08:00:48",
+      "content": "JPMorgan Chase leads 65 banks making decisions incompatible with restraining rising temperatures, researchers sayThe world’s largest banks committed $906bn in financing to the fossil fuel industry ..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Giving guitarfish a chance: one man’s mission to persuade fishers to farm giant snails instead",
-      "description": "Marine biologist Issah Seidu has found a way for Ghana’s fishing communities to earn a living – and help protect the ancient and critically endangered fish speciesGuitarfish are an odd-looking and ...",
-      "url": "https://www.theguardian.com/environment/2026/jun/08/ghana-endangered-guitarfish-sharks-rays-fins-conservation-snail-farming",
-      "publishedAt": "2026-06-08T09:00:04",
-      "content": "Marine biologist Issah Seidu has found a way for Ghana’s fishing communities to earn a living – and help protect the ancient and critically endangered fish speciesGuitarfish are an odd-looking and ..."
+      "title": "Country diary: Ladybirds and wasps are the unsung heroes of the farm | Colin Chappell",
+      "description": "Brigg, Lincolnshire: With harvest approaching, we’re putting the glorious long evenings to good use, and both humans and insects are working hard to protect the cropsThere’s something magical about...",
+      "url": "https://www.theguardian.com/environment/2026/jun/09/country-diary-ladybirds-and-wasps-are-the-unsung-heroes-of-the-farm",
+      "publishedAt": "2026-06-09T04:30:44",
+      "content": "Brigg, Lincolnshire: With harvest approaching, we’re putting the glorious long evenings to good use, and both humans and insects are working hard to protect the cropsThere’s something magical about..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Diver captures rare footage of great white shark in the Mediterranean Sea – video",
+      "description": "Footage captured by a diver shows a rare sighting of a great white shark in the Mediterranean Sea, spotted between Tunisia and Sicily.",
+      "url": "https://www.theguardian.com/environment/video/2026/jun/08/rare-footage-great-white-shark-mediterranean-sea-video",
+      "publishedAt": "2026-06-08T14:19:30",
+      "content": "Footage captured by a diver shows a rare sighting of a great white shark in the Mediterranean Sea, spotted between Tunisia and Sicily."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Searching for Shade When It’s 125 Degrees",
+      "description": "Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding.",
+      "url": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
+      "publishedAt": "2026-06-08T11:46:07",
+      "content": "Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Elusive gull drifts thousands of kilometres off course to Australia, turning birdwatching into ‘extreme sport’",
+      "description": "‘Twitchers’ rush to coastal Western Australia to see black-headed gull, which usually flies between Europe and AsiaFollow our Australia news live blog for latest updatesGet our breaking news email,...",
+      "url": "https://www.theguardian.com/environment/2026/jun/08/elusive-gull-drifts-thousands-of-kilometres-off-course-to-australia-turning-birdwatching-into-extreme-sport",
+      "publishedAt": "2026-06-08T09:37:14",
+      "content": "‘Twitchers’ rush to coastal Western Australia to see black-headed gull, which usually flies between Europe and AsiaFollow our Australia news live blog for latest updatesGet our breaking news email,..."
     },
     {
       "source": {
@@ -180,6 +279,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TD Signs 10-Year Carbon Removal Deal with Deep Sky",
+      "description": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal",
+      "url": "https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/?utm_source=rss&utm_medium=rss&utm_campaign=td-signs-10-year-carbon-removal-deal-with-deep-sky",
+      "publishedAt": "2026-06-08T07:57:58",
+      "content": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal"
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -188,61 +298,6 @@
       "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-08T06:09:53",
       "content": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Trees growing out of trees – the more I look, the more I find them | Merryn Glover",
-      "description": "Badenoch, Cairngorms: It started with a tiny Scots pine growing out of a huge old birch, but soon I find more examples of this strange magicThe sight pulls me up short. It looks like something out ...",
-      "url": "https://www.theguardian.com/environment/2026/jun/08/country-diary-trees-growing-out-of-trees-the-more-i-look-the-more-i-find-them",
-      "publishedAt": "2026-06-08T04:30:16",
-      "content": "Badenoch, Cairngorms: It started with a tiny Scots pine growing out of a huge old birch, but soon I find more examples of this strange magicThe sight pulls me up short. It looks like something out ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Searching for Shade When It’s 125 Degrees",
-      "description": "Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding.",
-      "url": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
-      "publishedAt": "2026-06-08T04:01:23",
-      "content": "Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "CNH and TIM Invest Around R$ 77 Million To Bring Connectivity to Rural Regions in Brazil",
-      "description": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately...",
-      "url": "https://csrwire.com/press-release/cnh-and-tim-invest-around-r-77-million-bring-connectivity-rural-regions-brazil/",
-      "publishedAt": "2026-06-05T16:00:00",
-      "content": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "JPMorgan Signs Carbon Removal, Financing Deal with Charm Industrial",
-      "description": "Climate solutions provider Charm Industrial announced a new carbon offtake removal deal with JPMorganChase, its",
-      "url": "https://www.esgtoday.com/jpmorgan-signs-carbon-removal-financing-deal-with-charm-industrial/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-signs-carbon-removal-financing-deal-with-charm-industrial",
-      "publishedAt": "2026-06-05T09:10:25",
-      "content": "Climate solutions provider Charm Industrial announced a new carbon offtake removal deal with JPMorganChase, its"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Mass Sloth Deaths in Florida Show Why the Wildlife Trade Is a Pandemic Risk",
-      "description": "When pathologists cut open dead sloths from a planned Florida tourist attraction, they found a plethora of pathogens.",
-      "url": "https://insideclimatenews.org/news/07062026/florida-sloth-deaths-highlight-wildlife-trade-disease-risk/",
-      "publishedAt": "2026-06-07T09:00:00",
-      "content": "When pathologists cut open dead sloths from a planned Florida tourist attraction, they found a plethora of pathogens."
     },
     {
       "source": {
@@ -279,58 +334,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Fisher with a mission: first woman to chair Grayling Society wants to protect ‘lady of the stream’",
-      "description": "Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ graylingWith its iridescent pink scales and elegant dorsal fin, the grayling is known to an...",
-      "url": "https://www.theguardian.com/environment/2026/jun/07/fisher-mission-first-woman-chair-grayling-society-protect-rivers",
-      "publishedAt": "2026-06-07T07:00:27",
-      "content": "Marnie Lovejoy hopes to inspire other women to fish, protect England’s rivers and lift up the ‘beautiful’ graylingWith its iridescent pink scales and elegant dorsal fin, the grayling is known to an..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A plough, a haybale – who would live in a house like this? | Nicola Chester",
-      "description": "Hungerford, Berkshire: In a nearby farm, ever-resourceful birds and bees are getting creative with where they build their nestsThere are some unusual nesting spots being utilised in the farm and st...",
-      "url": "https://www.theguardian.com/environment/2026/jun/06/country-diary-a-plough-a-haybale-who-would-live-in-a-house-like-this",
-      "publishedAt": "2026-06-06T07:00:04",
-      "content": "Hungerford, Berkshire: In a nearby farm, ever-resourceful birds and bees are getting creative with where they build their nestsThere are some unusual nesting spots being utilised in the farm and st..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How the ‘Picasso of ponds’ went from shaping golf courses to making freshwater homes for wildlife",
-      "description": "Shaun Hancox has created scores of ponds for rewilding projects across Britain – and he says there’s a lot more to it than digging a holeHe is known as “the Picasso of ponds” but the tableaux being...",
-      "url": "https://www.theguardian.com/environment/2026/jun/06/picasso-of-ponds-wildlife-rewilding-habitats",
-      "publishedAt": "2026-06-06T07:00:03",
-      "content": "Shaun Hancox has created scores of ponds for rewilding projects across Britain – and he says there’s a lot more to it than digging a holeHe is known as “the Picasso of ponds” but the tableaux being..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Laboring Under Delhi’s Harsh Heat, Workers Must Choose Health or Wages",
-      "description": "Severe heat waves have been hitting India since April, forcing many of the country’s essential workers to make tough decisions.",
-      "url": "https://www.nytimes.com/2026/06/06/world/asia/india-heat-workers-health-income.html",
-      "publishedAt": "2026-06-06T04:01:18",
-      "content": "Severe heat waves have been hitting India since April, forcing many of the country’s essential workers to make tough decisions."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-      "description": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
-      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-05T21:35:55",
-      "content": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard."
+      "author": "CSRWire",
+      "title": "CNH and TIM Invest Around R$ 77 Million To Bring Connectivity to Rural Regions in Brazil",
+      "description": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately...",
+      "url": "https://csrwire.com/press-release/cnh-and-tim-invest-around-r-77-million-bring-connectivity-rural-regions-brazil/",
+      "publishedAt": "2026-06-05T16:00:00",
+      "content": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately..."
     },
     {
       "source": {
@@ -367,17 +378,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "NBIM Calls on EU to Allow Companies to Meet ESRS and ISSB Requirements in a Single Report",
-      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued",
-      "url": "https://www.esgtoday.com/nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-calls-on-eu-to-allow-companies-to-meet-esrs-and-issb-requirements-in-a-single-report",
-      "publishedAt": "2026-06-04T15:31:42",
-      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund issued"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -386,39 +386,6 @@
       "url": "https://csrwire.com/press-release/elanco-animal-health-commits-supporting-us-livestock-producers-and-pet-owners-fight-against/",
       "publishedAt": "2026-06-04T11:45:00",
       "content": "Company offers portfolio of treatment options and expert guidance following first confirmed case in the United States"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco: How Connectivity Is Shaping the Future of Healthcare",
-      "description": "What if the future of surgery didn’t begin in an operating room, but in a fully connected digital sandbox?",
-      "url": "https://csrwire.com/press-release/cisco-how-connectivity-shaping-future-healthcare/",
-      "publishedAt": "2026-06-04T09:05:00",
-      "content": "What if the future of surgery didn’t begin in an operating room, but in a fully connected digital sandbox?"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG: Protecting Ospreys and Power Reliability on Petty’s Island",
-      "description": "When an osprey pair built a nest atop an energized electrical pole on Petty’s Island in Pennsauken, New Jersey, it created both a safety risk for the birds and a potential reliability concern for c...",
-      "url": "https://csrwire.com/press-release/pseg-protecting-ospreys-and-power-reliability-pettys-island/",
-      "publishedAt": "2026-06-04T09:00:00",
-      "content": "When an osprey pair built a nest atop an energized electrical pole on Petty’s Island in Pennsauken, New Jersey, it created both a safety risk for the birds and a potential reliability concern for c..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Technical Spotlight: Biological Engineering in the Highway Right-of-Way",
-      "description": "October marked the successful completion of the first year of the Sorghum Roadside Trials on The Ray, a pilot project proving how specialized, resilient cereal crops can solve legacy infrastructure...",
-      "url": "https://csrwire.com/press-release/technical-spotlight-biological-engineering-highway-right-way/",
-      "publishedAt": "2026-06-03T09:40:00",
-      "content": "October marked the successful completion of the first year of the Sorghum Roadside Trials on The Ray, a pilot project proving how specialized, resilient cereal crops can solve legacy infrastructure..."
     },
     {
       "source": {
