@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 44,
   "articles": [
     {
       "source": {
@@ -8,10 +8,10 @@
       },
       "author": "ESG Today",
       "title": "Omnibus Cuts Non-EU Companies in the Scope of CSRD from 10,000 to 1,200: EFRAG",
-      "description": "The number of companies remaining in the scope of the EU’S Corporate Sustainability Reporting Directive",
+      "description": "The number of non-EU companies remaining in the scope of the EU’S Corporate Sustainability Reporting",
       "url": "https://www.esgtoday.com/omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag/?utm_source=rss&utm_medium=rss&utm_campaign=omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag",
       "publishedAt": "2026-06-10T07:23:55",
-      "content": "The number of companies remaining in the scope of the EU’S Corporate Sustainability Reporting Directive"
+      "content": "The number of non-EU companies remaining in the scope of the EU’S Corporate Sustainability Reporting"
     },
     {
       "source": {
@@ -26,25 +26,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Good On You"
       },
-      "author": "The Guardian",
-      "title": "More than half of clean energy schemes needed for Labour’s 2030 target offered grid connection",
-      "description": "The 700 projects include wind and solar farms, battery storage, gas and hydro plansMore than half the renewable energy projects needed to meet the government’s clean power targets by 2030 are now a...",
-      "url": "https://www.theguardian.com/environment/2026/jun/10/labour-renewable-energy-projects-halfway-long-delay",
-      "publishedAt": "2026-06-10T06:00:14",
-      "content": "The 700 projects include wind and solar farms, battery storage, gas and hydro plansMore than half the renewable energy projects needed to meet the government’s clean power targets by 2030 are now a..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "UK Proposes Dropping TCFD-Based Climate Reporting for Investment Products",
-      "description": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial",
-      "url": "https://www.esgtoday.com/uk-proposes-dropping-tcfd-based-climate-reporting-for-investment-products/?utm_source=rss&utm_medium=rss&utm_campaign=uk-proposes-dropping-tcfd-based-climate-reporting-for-investment-products",
-      "publishedAt": "2026-06-08T07:04:27",
-      "content": "The Financial Conduct Authority (FCA), the UK’s conduct regulator for financial services firms and financial"
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This June 2026",
+      "description": "Feature image: The Summer House.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-06-09T22:00:45",
+      "content": "Feature image: The Summer House."
     },
     {
       "source": {
@@ -59,14 +48,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This June 2026",
-      "description": "Feature image: The Summer House.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-06-06T22:00:45",
-      "content": "Feature image: The Summer House."
+      "author": "ESG Today",
+      "title": "Brookfield, Mitsubishi Launch New European Renewable Energy Platform",
+      "description": "Japan-based leasing and asset-finance company Mitsubishi HC Capital and global investment firm Brookfield Asset Management",
+      "url": "https://www.esgtoday.com/brookfield-mitsubishi-launch-new-european-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-mitsubishi-launch-new-european-renewable-energy-platform",
+      "publishedAt": "2026-06-11T09:24:02",
+      "content": "Japan-based leasing and asset-finance company Mitsubishi HC Capital and global investment firm Brookfield Asset Management"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Biochar’s Triple Win: Healthier Soils, Improved Crops, and Decarbonization",
+      "description": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar.",
+      "url": "https://csrwire.com/press-release/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization/",
+      "publishedAt": "2026-06-10T09:05:00",
+      "content": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar."
     },
     {
       "source": {
@@ -81,17 +81,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Super-rich’s assets cause outsized amount of climate harm, study says",
-      "description": "Greenpeace calculates that wealthiest contribute nearly $1tn of damage a year with ownership-based emissionsUltra-wealthy people zooming across the world on their private jets, lounging on yachts a...",
-      "url": "https://www.theguardian.com/environment/2026/jun/10/super-rich-assets-outsized-amount-climate-harm-study",
-      "publishedAt": "2026-06-10T05:00:11",
-      "content": "Greenpeace calculates that wealthiest contribute nearly $1tn of damage a year with ownership-based emissionsUltra-wealthy people zooming across the world on their private jets, lounging on yachts a..."
-    },
-    {
-      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
@@ -100,6 +89,39 @@
       "url": "https://www.thehindu.com/life-and-style/travel/antarctica-world-environment-day-unchecked-tourism-frozen-continent/article71064683.ece",
       "publishedAt": "2026-06-05T13:12:45",
       "content": "At a time when Mount Everest’s trash crisis is making news, travelling with companies committed to conservation and sustainability can make a big difference in the frozen continent"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens",
+      "description": "Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations downMillions of homes are at risk from climate-related subsidence, according toan ana...",
+      "url": "https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence",
+      "publishedAt": "2026-06-11T05:00:07",
+      "content": "Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations downMillions of homes are at risk from climate-related subsidence, according toan ana..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
+      "description": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen regionTemperatures in the Antarctic climbed above 15C this month, shattering the pre...",
+      "url": "https://www.theguardian.com/environment/2026/jun/10/record-winter-temperatures-in-antarctic-raise-fears-over-speed-of-climate-breakdown",
+      "publishedAt": "2026-06-10T18:32:16",
+      "content": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen regionTemperatures in the Antarctic climbed above 15C this month, shattering the pre..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Google Signs Record SAF Deal with American Airlines",
+      "description": "American Airlines and Google announced a new agreement for the purchase of sustainable aviation fuel",
+      "url": "https://www.esgtoday.com/google-signs-largest-ever-corporate-saf-deal-with-american-airlines/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-largest-ever-corporate-saf-deal-with-american-airlines",
+      "publishedAt": "2026-06-10T13:25:36",
+      "content": "American Airlines and Google announced a new agreement for the purchase of sustainable aviation fuel"
     },
     {
       "source": {
@@ -125,28 +147,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BlackRock Appoints Louise Kooy-Henckel as Global Head of Sustainable and Transition Solutions",
-      "description": "Investment giant BlackRock announced the appointment of Louise Kooy-Henckel as Global Head of Sustainable and",
-      "url": "https://www.esgtoday.com/blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-appoints-louise-kooy-henckel-as-global-head-of-sustainable-and-transition-solutions",
-      "publishedAt": "2026-06-09T07:47:23",
-      "content": "Investment giant BlackRock announced the appointment of Louise Kooy-Henckel as Global Head of Sustainable and"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Christian leaders alarmed by climate crisis raise questions over GB News owner’s £28m church donations",
-      "description": "Exclusive: Sir Paul Marshall’s climate views and those broadcast on GB News said to be ‘in direct opposition’ to those of  Church of EnglandThe co-owner of GB News, a British TV channel accused of ...",
-      "url": "https://www.theguardian.com/environment/2026/jun/09/christian-leaders-alarmed-by-climate-crisis-raise-questions-over-gb-news-owners-28m-church-donations",
-      "publishedAt": "2026-06-09T06:00:46",
-      "content": "Exclusive: Sir Paul Marshall’s climate views and those broadcast on GB News said to be ‘in direct opposition’ to those of  Church of EnglandThe co-owner of GB News, a British TV channel accused of ..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -154,28 +154,6 @@
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/sustainable-white-dress-shirts/",
       "publishedAt": "2026-06-09T03:00:28",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Troubled by Spreading Landfill Pollution, a Long Island Community Demands Action",
-      "description": "BROOKHAVEN, N.",
-      "url": "https://insideclimatenews.org/news/08062026/new-york-brookhaven-landfill-pollution/",
-      "publishedAt": "2026-06-08T09:00:00",
-      "content": "BROOKHAVEN, N."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to Ethical and Sustainable Menswear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-menswear/",
-      "publishedAt": "2026-06-08T00:00:11",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
@@ -191,6 +169,182 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Lee Raymond, Who Created Global Oil Behemoth Exxon Mobil, Dies at 87",
+      "description": "He oversaw Exxon’s acquisition of a rival, cut costs relentlessly and denied the scientific consensus on climate change.",
+      "url": "https://www.nytimes.com/2026/06/10/business/lee-raymond-dead.html",
+      "publishedAt": "2026-06-11T02:12:59",
+      "content": "He oversaw Exxon’s acquisition of a rival, cut costs relentlessly and denied the scientific consensus on climate change."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "What Are You Wearing? The Ultimate Clothing Material Guide",
+      "description": "If you’re wondering where to start when prioritising fabrics to buy, or aren’t sure how some of the most popular materials today rank for their sustainability, then bookmark this guide that explain...",
+      "url": "https://goodonyou.eco/ultimate-clothing-material-guide/",
+      "publishedAt": "2026-06-11T00:00:20",
+      "content": "If you’re wondering where to start when prioritising fabrics to buy, or aren’t sure how some of the most popular materials today rank for their sustainability, then bookmark this guide that explain..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Indonesia Landslides Devastated Endangered Orangutans, Study Finds",
+      "description": "More than 5 percent of the species is estimated to have been lost when a climate-fueled storm unleashed torrents of water, mud and debris.",
+      "url": "https://www.nytimes.com/2026/06/10/climate/indonesia-floods-organgutans.html",
+      "publishedAt": "2026-06-10T17:48:13",
+      "content": "More than 5 percent of the species is estimated to have been lost when a climate-fueled storm unleashed torrents of water, mud and debris."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
+      "description": "Critically endangered Tapanuli orangutan population falls after heavy rain and landslides, fuelled by climate crisis, in North SumatraExtreme rainfall and landslides fuelled by the climate crisis k...",
+      "url": "https://www.theguardian.com/world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
+      "publishedAt": "2026-06-10T16:18:05",
+      "content": "Critically endangered Tapanuli orangutan population falls after heavy rain and landslides, fuelled by climate crisis, in North SumatraExtreme rainfall and landslides fuelled by the climate crisis k..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "3M Innovates To Help the Automotive Industry Navigate What’s Ahead",
+      "description": "The automotive industry is under pressure from every direction.",
+      "url": "https://csrwire.com/press-release/3m-innovates-help-automotive-industry-navigate-whats-ahead/",
+      "publishedAt": "2026-06-10T15:35:00",
+      "content": "The automotive industry is under pressure from every direction."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Societe Generale Invests €100 Million in Ardian’s Nature-Based Solutions Fund",
+      "description": "Private markets investor Ardian announced the launch of a new nature-based solutions (NBS) equity partnership",
+      "url": "https://www.esgtoday.com/ardian-launches-new-nature-based-solutions-fund-with-e100-million-investment-by-societe-generale/?utm_source=rss&utm_medium=rss&utm_campaign=ardian-launches-new-nature-based-solutions-fund-with-e100-million-investment-by-societe-generale",
+      "publishedAt": "2026-06-10T14:17:18",
+      "content": "Private markets investor Ardian announced the launch of a new nature-based solutions (NBS) equity partnership"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Airbus, Technip, Safran and Tereos to Develop Large-Scale SAF Production Facility in France",
+      "description": "Airbus, engineering and technology company Technip Energies, aerospace group Safran, and bioethanol producer Tereos announced",
+      "url": "https://www.esgtoday.com/airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france",
+      "publishedAt": "2026-06-10T11:33:31",
+      "content": "Airbus, engineering and technology company Technip Energies, aerospace group Safran, and bioethanol producer Tereos announced"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to Ethical and Sustainable Menswear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-menswear/",
+      "publishedAt": "2026-06-08T00:00:11",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Millions Across the Midwest and Northeast Face Severe Storms on Thursday",
+      "description": "More than 100 million people from Texas to New England live in areas that could face dangerous weather on Thursday.",
+      "url": "https://www.nytimes.com/2026/06/11/weather/chicago-new-york-northeast-storms-minnesota.html",
+      "publishedAt": "2026-06-11T09:30:02",
+      "content": "More than 100 million people from Texas to New England live in areas that could face dangerous weather on Thursday."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Biscayne Bay Is Slowly Becoming the Ocean",
+      "description": "In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend the first two years of their lives. A few mile...",
+      "url": "https://insideclimatenews.org/news/11062026/miami-biscayne-bay-sea-level-rise-threatens-sharks-and-aquifer/",
+      "publishedAt": "2026-06-11T09:00:00",
+      "content": "In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend the first two years of their lives. A few mile..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Old Well Gushed Waste, Not Oil, in a Small West Texas Town",
+      "description": "GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April.",
+      "url": "https://insideclimatenews.org/news/11062026/texas-oil-well-leaks-million-of-gallons-of-toxic-wastewater/",
+      "publishedAt": "2026-06-11T08:55:00",
+      "content": "GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A tiny orchid with mighty powers of deception | Oliver Southall",
+      "description": "Wolstonbury Hill, West Sussex: The fly orchid looks like no fly I’ve ever seen – its target insect is a wasp.",
+      "url": "https://www.theguardian.com/environment/2026/jun/11/country-diary-a-tiny-orchid-with-mighty-powers-of-deception",
+      "publishedAt": "2026-06-11T04:30:06",
+      "content": "Wolstonbury Hill, West Sussex: The fly orchid looks like no fly I’ve ever seen – its target insect is a wasp."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "On the Historic Route From Selma to Montgomery, an AI Cloud Looms",
+      "description": "HAYNEVILLE, Ala.",
+      "url": "https://insideclimatenews.org/news/10062026/rural-alabama-community-opposes-hyperscale-data-center/",
+      "publishedAt": "2026-06-11T00:54:32",
+      "content": "HAYNEVILLE, Ala."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Across Ecosystems, Dead Organisms Help Shape the Living World",
+      "description": "Death casts a shadow over life, not only for people but also other animals, plants and entire ecosystems.",
+      "url": "https://insideclimatenews.org/news/10062026/dead-trees-and-coral-shape-ecosystems/",
+      "publishedAt": "2026-06-10T18:31:17",
+      "content": "Death casts a shadow over life, not only for people but also other animals, plants and entire ecosystems."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "North Carolina Sues Chemical Company for Polluting a Nearby Creek",
+      "description": "DURHAM, N.",
+      "url": "https://insideclimatenews.org/news/10062026/north-carolina-sues-brenntag-for-water-contamination/",
+      "publishedAt": "2026-06-10T16:50:17",
+      "content": "DURHAM, N."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Connected Equipment is Protecting Louisiana’s Drivers",
+      "description": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana.",
+      "url": "https://csrwire.com/press-release/connected-equipment-protecting-louisianas-drivers/",
+      "publishedAt": "2026-06-10T09:40:00",
+      "content": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -199,6 +353,17 @@
       "url": "https://insideclimatenews.org/news/10062026/diane-wilson-formosa-plastics-taipei-shareholder-meeting/",
       "publishedAt": "2026-06-10T09:00:00",
       "content": "The Resistance, Part 2: Three Gulf Coast environmentalists confront Formosa Plastics Corp."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Urbaneer and Well Living Lab Announce the Home Innovation Lab",
+      "description": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo...",
+      "url": "https://csrwire.com/press-release/urbaneer-and-well-living-lab-announce-home-innovation-lab/",
+      "publishedAt": "2026-06-10T08:50:00",
+      "content": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo..."
     },
     {
       "source": {
@@ -216,33 +381,11 @@
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
-      "title": "Cities are rehearsing for deadly heat. Will it help when disaster comes?",
+      "title": "Cities Are Rehearsing For Deadly Heat. Will It Help When Disaster Comes?",
       "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit",
       "url": "https://triplepundit.com/2026/extreme-heat-emergency-response-disaster-preparedness-paris-barcelona/",
       "publishedAt": "2026-06-09T20:39:36",
       "content": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Movement to Stop Data Centers",
-      "description": "What to know about the local backlash against the booming data center industry, the era of me-first energy and more climate news.",
-      "url": "https://www.nytimes.com/2026/06/09/climate/data-center-bans.html",
-      "publishedAt": "2026-06-09T19:20:15",
-      "content": "What to know about the local backlash against the booming data center industry, the era of me-first energy and more climate news."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "This LA neighborhood is choked by smog. The solution: a network of sensors on offices, homes and bags",
-      "description": "Pacoima is hemmed in by highways and heavy industry, and its residents are fighting pollution with hyperlocal air quality monitoringJose Luis Salas looks up at the ladder. “Are you ready?” he asks ...",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/pacoima-pollution-air-sensors-monitoring",
-      "publishedAt": "2026-06-09T13:00:52",
-      "content": "Pacoima is hemmed in by highways and heavy industry, and its residents are fighting pollution with hyperlocal air quality monitoringJose Luis Salas looks up at the ladder. “Are you ready?” he asks ..."
     },
     {
       "source": {
@@ -257,36 +400,36 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Country diary: A late-night nightingale serenade | Nic Wilson",
-      "description": "Strawberry Hill, Bedfordshire: After an evening round the campfire, we head into the wonderfully, chaotically alive scrub, to hear the headline act“Now I walk in beauty / Beauty is before me”. Earl...",
-      "url": "https://www.theguardian.com/environment/2026/jun/10/country-diary-a-late-night-nightingale-serenade",
-      "publishedAt": "2026-06-10T04:30:10",
-      "content": "Strawberry Hill, Bedfordshire: After an evening round the campfire, we head into the wonderfully, chaotically alive scrub, to hear the headline act“Now I walk in beauty / Beauty is before me”. Earl..."
+      "author": "CSRWire",
+      "title": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
+      "description": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
+      "url": "https://csrwire.com/press-release/rmi-all-minerals-standard-achieves-full-lme-recognition-worlds-largest-industrial-metal/",
+      "publishedAt": "2026-06-09T08:30:00",
+      "content": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag",
-      "description": "The carmaker will follow Tesla in making components for large batteries used by electric utilities, data centers and other businesses to handle fluctuations in power supply and demand.",
-      "url": "https://www.nytimes.com/2026/06/09/business/energy-environment/general-motors-storage-batteries-electric-vehicles.html",
-      "publishedAt": "2026-06-09T23:29:08",
-      "content": "The carmaker will follow Tesla in making components for large batteries used by electric utilities, data centers and other businesses to handle fluctuations in power supply and demand."
+      "author": "CSRWire",
+      "title": "Medtronic Receives FDA Clearance for Nellcor™ Pulse Oximetry System With Nell-EQ™ Intelligent Processor, a New Technology Designed To Improve Reliability Across Diverse Patients and Conditions",
+      "description": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p...",
+      "url": "https://csrwire.com/press-release/medtronic-receives-fda-clearance-nellcortm-pulse-oximetry-system-nell-eqtm-intelligent/",
+      "publishedAt": "2026-06-08T11:35:00",
+      "content": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Cattle in England to get tuberculosis vaccine from 2030 as badger cull to end",
-      "description": "Targeted vaccination and improved testing planned as part of drive to eradicate disease by 2038Cattle will be vaccinated against tuberculosis from 2030 as a “gamechanging” part of a new strategy to...",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/10/cattle-tuberculosis-vaccine-badger-cull-england",
-      "publishedAt": "2026-06-09T23:01:04",
-      "content": "Targeted vaccination and improved testing planned as part of drive to eradicate disease by 2038Cattle will be vaccinated against tuberculosis from 2030 as a “gamechanging” part of a new strategy to..."
+      "author": "CSRWire",
+      "title": "PSEG Keeps Care Running: How Holy Name Upgraded Hospital Energy Systems",
+      "description": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock.",
+      "url": "https://csrwire.com/press-release/pseg-keeps-care-running-how-holy-name-upgraded-hospital-energy-systems/",
+      "publishedAt": "2026-06-08T10:00:00",
+      "content": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock."
     },
     {
       "source": {
@@ -323,83 +466,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
-      "description": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
-      "url": "https://csrwire.com/press-release/rmi-all-minerals-standard-achieves-full-lme-recognition-worlds-largest-industrial-metal/",
-      "publishedAt": "2026-06-09T08:30:00",
-      "content": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Alphabet’s Waymo to Repurpose Used EV Batteries for Grid Storage",
-      "description": "Alphabet-owned autonomous driving technology company Waymo and energy storage developer B2U Storage Solutions announced a",
-      "url": "https://www.esgtoday.com/alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage/?utm_source=rss&utm_medium=rss&utm_campaign=alphabets-waymo-to-repurpose-used-ev-batteries-for-grid-storage",
-      "publishedAt": "2026-06-08T11:42:37",
-      "content": "Alphabet-owned autonomous driving technology company Waymo and energy storage developer B2U Storage Solutions announced a"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Medtronic Receives FDA Clearance for Nellcor™ Pulse Oximetry System With Nell-EQ™ Intelligent Processor, a New Technology Designed To Improve Reliability Across Diverse Patients and Conditions",
-      "description": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p...",
-      "url": "https://csrwire.com/press-release/medtronic-receives-fda-clearance-nellcortm-pulse-oximetry-system-nell-eqtm-intelligent/",
-      "publishedAt": "2026-06-08T11:35:00",
-      "content": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG Keeps Care Running: How Holy Name Upgraded Hospital Energy Systems",
-      "description": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock.",
-      "url": "https://csrwire.com/press-release/pseg-keeps-care-running-how-holy-name-upgraded-hospital-energy-systems/",
-      "publishedAt": "2026-06-08T10:00:00",
-      "content": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ask Nature Podcast Episode 2: Robin Wall Kimmerer",
-      "description": "Robin Wall Kimmerer, author of Braiding Sweetgrass is featured in this week's Ask Nature Podcast.",
-      "url": "https://csrwire.com/press-release/ask-nature-podcast-episode-2-robin-wall-kimmerer/",
-      "publishedAt": "2026-06-08T09:40:00",
-      "content": "Robin Wall Kimmerer, author of Braiding Sweetgrass is featured in this week's Ask Nature Podcast."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TD Signs 10-Year Carbon Removal Deal with Deep Sky",
-      "description": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal",
-      "url": "https://www.esgtoday.com/td-signs-10-year-carbon-removal-deal-with-deep-sky/?utm_source=rss&utm_medium=rss&utm_campaign=td-signs-10-year-carbon-removal-deal-with-deep-sky",
-      "publishedAt": "2026-06-08T07:57:58",
-      "content": "Canada-based carbon removal project developer Deep Sky announced today a new 10-year carbon dioxide removal"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Wildfires Are Reversing Years of US Air Quality Gains, Study Finds",
-      "description": "Wildfires have worsened ozone levels across the United States so much over the last decade that they have reversed around four years of progress, a new study has found.  Surface ozone levels, or sm...",
-      "url": "https://insideclimatenews.org/news/09062026/wildfires-reset-air-quality-progress/",
-      "publishedAt": "2026-06-09T08:55:00",
-      "content": "Wildfires have worsened ozone levels across the United States so much over the last decade that they have reversed around four years of progress, a new study has found.  Surface ozone levels, or sm..."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -414,44 +480,11 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-      "description": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
-      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-08T06:09:53",
-      "content": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "CNH and TIM Invest Around R$ 77 Million To Bring Connectivity to Rural Regions in Brazil",
-      "description": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately...",
-      "url": "https://csrwire.com/press-release/cnh-and-tim-invest-around-r-77-million-bring-connectivity-rural-regions-brazil/",
-      "publishedAt": "2026-06-05T16:00:00",
-      "content": "CNH, a global leader in agricultural and construction equipment and technology, and TIM, the leading company in agribusiness connectivity with 100% 4G coverage nationwide, will invest approximately..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
       "title": "Mangrove forests are healing after decades of human destruction",
       "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
       "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-04T23:11:15",
       "content": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "ARPA-H Honored for Driving Breakthrough Innovation in Healthy Indoor Air",
-      "description": "The Asthma and Allergy Foundation of America (AAFA), the International Facility Management Association (IFMA) and the International WELL Building Institute (IWBI) today honored the Advanced Researc...",
-      "url": "https://csrwire.com/press-release/arpa-h-honored-driving-breakthrough-innovation-healthy-indoor-air/",
-      "publishedAt": "2026-06-04T15:50:00",
-      "content": "The Asthma and Allergy Foundation of America (AAFA), the International Facility Management Association (IFMA) and the International WELL Building Institute (IWBI) today honored the Advanced Researc..."
     }
   ]
 }
