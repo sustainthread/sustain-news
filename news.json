@@ -1,28 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 49,
   "articles": [
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Omnibus Cuts Non-EU Companies in the Scope of CSRD from 10,000 to 1,200: EFRAG",
-      "description": "The number of non-EU companies remaining in the scope of the EU’S Corporate Sustainability Reporting",
-      "url": "https://www.esgtoday.com/omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag/?utm_source=rss&utm_medium=rss&utm_campaign=omnibus-cuts-non-eu-companies-in-the-scope-of-csrd-from-10000-to-1200-efrag",
-      "publishedAt": "2026-06-10T07:23:55",
-      "content": "The number of non-EU companies remaining in the scope of the EU’S Corporate Sustainability Reporting"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CDP Adds New Ocean Category to Sustainability Reporting Platform",
-      "description": "Environmental sustainability reporting platform CDP announced the expansion of its disclosure system to incorporate ocean data,",
-      "url": "https://www.esgtoday.com/cdp-adds-new-ocean-category-to-sustainability-reporting-platform/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-adds-new-ocean-category-to-sustainability-reporting-platform",
-      "publishedAt": "2026-06-09T07:47:43",
-      "content": "Environmental sustainability reporting platform CDP announced the expansion of its disclosure system to incorporate ocean data,"
+      "title": "SBTi Releases Finalized New Corporate Net Zero Standard",
+      "description": "The Science Based Targets initiative (SBTi) announced the release of Corporate Net-Zero Standard Version 2.0,",
+      "url": "https://www.esgtoday.com/sbti-releases-finalized-new-corporate-net-zero-standard/?utm_source=rss&utm_medium=rss&utm_campaign=sbti-releases-finalized-new-corporate-net-zero-standard",
+      "publishedAt": "2026-06-11T11:55:23",
+      "content": "The Science Based Targets initiative (SBTi) announced the release of Corporate Net-Zero Standard Version 2.0,"
     },
     {
       "source": {
@@ -40,11 +29,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Cushman & Wakefield Appoints Stephanie Greene as Chief Sustainability Officer",
-      "description": "Global commercial real estate firm Cushman & Wakefield announced the appointment of Stephanie Greene as",
-      "url": "https://www.esgtoday.com/cushman-wakefield-appoints-stephanie-greene-as-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=cushman-wakefield-appoints-stephanie-greene-as-chief-sustainability-officer",
-      "publishedAt": "2026-06-10T07:42:00",
-      "content": "Global commercial real estate firm Cushman & Wakefield announced the appointment of Stephanie Greene as"
+      "title": "DHL Invests €160 Million in Decarbonization, Infrastructure in France",
+      "description": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France",
+      "url": "https://www.esgtoday.com/dhl-invests-e160-million-in-decarbonization-infrastructure-in-france/?utm_source=rss&utm_medium=rss&utm_campaign=dhl-invests-e160-million-in-decarbonization-infrastructure-in-france",
+      "publishedAt": "2026-06-11T15:16:17",
+      "content": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France"
     },
     {
       "source": {
@@ -73,11 +62,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Italy’s €23 Billion Plan to Support Renewable Energy Buildout Approved by EU",
-      "description": "The European Commission announced that it has approved a €23 billion state aid program by",
-      "url": "https://www.esgtoday.com/italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu/?utm_source=rss&utm_medium=rss&utm_campaign=italys-e23-billion-plan-to-support-renewable-energy-production-approved-by-eu",
-      "publishedAt": "2026-06-09T15:46:59",
-      "content": "The European Commission announced that it has approved a €23 billion state aid program by"
+      "title": "CDP Splits into 2 Entities, Announces Significant Investment by Permira",
+      "description": "Climate research provider and environmental disclosure platform CDP announced today a new significant investment by",
+      "url": "https://www.esgtoday.com/cdp-splits-into-2-entities-announces-significant-investment-by-permira/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-splits-into-2-entities-announces-significant-investment-by-permira",
+      "publishedAt": "2026-06-11T13:06:08",
+      "content": "Climate research provider and environmental disclosure platform CDP announced today a new significant investment by"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Loyola University Chicago’s Blueprint for Responsible Technology Procurement",
+      "description": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices.",
+      "url": "https://csrwire.com/press-release/loyola-university-chicagos-blueprint-responsible-technology-procurement/",
+      "publishedAt": "2026-06-11T12:30:00",
+      "content": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Despite Record Renewable Growth, China Is Still Betting on Coal",
+      "description": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National...",
+      "url": "https://insideclimatenews.org/news/12062026/china-coal-power-generation-grows/",
+      "publishedAt": "2026-06-12T09:00:00",
+      "content": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Northern Trust Launches New Climate-Focused UCITS Equity Funds",
+      "description": "Global investment manager Northern Trust Asset Management (NTAM) announced the launch of two new actively",
+      "url": "https://www.esgtoday.com/northern-trust-launches-new-climate-focused-ucits-equity-funds/?utm_source=rss&utm_medium=rss&utm_campaign=northern-trust-launches-new-climate-focused-ucits-equity-funds",
+      "publishedAt": "2026-06-11T13:30:02",
+      "content": "Global investment manager Northern Trust Asset Management (NTAM) announced the launch of two new actively"
     },
     {
       "source": {
@@ -92,25 +114,102 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "New York Times"
       },
-      "author": "The Guardian",
-      "title": "Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens",
-      "description": "Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations downMillions of homes are at risk from climate-related subsidence, according toan ana...",
-      "url": "https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence",
-      "publishedAt": "2026-06-11T05:00:07",
-      "content": "Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations downMillions of homes are at risk from climate-related subsidence, according toan ana..."
+      "author": "New York Times",
+      "title": "How Should Democrats Talk About Climate Change?",
+      "description": "A big new milestone for solar power, a shift in Democratic messaging and more climate news.",
+      "url": "https://www.nytimes.com/2026/06/11/climate/democrats-climate-change.html",
+      "publishedAt": "2026-06-11T19:28:09",
+      "content": "A big new milestone for solar power, a shift in Democratic messaging and more climate news."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Signs ERW Carbon Removal Deal in India with Alt Carbon",
+      "description": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,",
+      "url": "https://www.esgtoday.com/microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon",
+      "publishedAt": "2026-06-12T09:03:22",
+      "content": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Our Top Brands for More Sustainable Wedding Guest Outfits",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-wedding-guest-outfits/",
+      "publishedAt": "2026-06-10T00:00:53",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "NOAA Issues El Nino Advisory",
+      "description": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes.",
+      "url": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
+      "publishedAt": "2026-06-12T07:59:19",
+      "content": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
-      "description": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen regionTemperatures in the Antarctic climbed above 15C this month, shattering the pre...",
-      "url": "https://www.theguardian.com/environment/2026/jun/10/record-winter-temperatures-in-antarctic-raise-fears-over-speed-of-climate-breakdown",
-      "publishedAt": "2026-06-10T18:32:16",
-      "content": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen regionTemperatures in the Antarctic climbed above 15C this month, shattering the pre..."
+      "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
+      "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
+      "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
+      "publishedAt": "2026-06-12T05:00:36",
+      "content": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "America’s Re-Industrialization Hits a Speed Bump",
+      "description": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit",
+      "url": "https://triplepundit.com/2026/inola-oklahoma-aluminum-plant-trump-mazzei/",
+      "publishedAt": "2026-06-11T19:06:03",
+      "content": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers",
+      "description": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling",
+      "url": "https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers",
+      "publishedAt": "2026-06-11T14:19:03",
+      "content": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH Partners With Pidthong Lang Phra Foundation To Advance Rural Development in Thailand",
+      "description": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives.",
+      "url": "https://csrwire.com/press-release/cnh-partners-pidthong-lang-phra-foundation-advance-rural-development-thailand/",
+      "publishedAt": "2026-06-11T12:00:00",
+      "content": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Tetra Pak® Unveils Next-Level Efficiency, Convenience and Shelf Impact With the New 48 oz Size Tetra Brik® Aseptic Edge Carton",
+      "description": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin...",
+      "url": "https://csrwire.com/press-release/tetra-pakr-unveils-next-level-efficiency-convenience-and-shelf-impact-new-48-oz-size-tetra/",
+      "publishedAt": "2026-06-11T10:00:00",
+      "content": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin..."
     },
     {
       "source": {
@@ -128,28 +227,6 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "Our Top Brands for More Sustainable Wedding Guest Outfits",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-wedding-guest-outfits/",
-      "publishedAt": "2026-06-10T00:00:53",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Driven by Steel Production, China’s Belt and Road Construction Carries a Heavy Climate Cost",
-      "description": "China’s Belt and Road Initiative, the world’s largest ongoing infrastructure program, has a substantial climate impact.",
-      "url": "https://insideclimatenews.org/news/09062026/china-belt-and-road-steel-production/",
-      "publishedAt": "2026-06-09T22:01:37",
-      "content": "China’s Belt and Road Initiative, the world’s largest ongoing infrastructure program, has a substantial climate impact."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
       "title": "17 More Sustainable White Shirts You’ll Keep For Years",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/sustainable-white-dress-shirts/",
@@ -158,25 +235,135 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "Good On You"
       },
-      "author": "Triple Pundit",
-      "title": "Corporate Foundation Funds Nature-Based Climate Solutions, from Minnesota Peatlands to the Czech Countryside",
-      "description": "The Everpure Foundation is focused on nature-based solutions as a way to invest in both climate mitigation and community resilience.TriplePundit",
-      "url": "https://triplepundit.com/2026/everpure-foundation-nature-based-solutions/",
-      "publishedAt": "2026-06-04T19:02:38",
-      "content": "The Everpure Foundation is focused on nature-based solutions as a way to invest in both climate mitigation and community resilience.TriplePundit"
+      "author": "Good On You",
+      "title": "The Ultimate Guide to Ethical and Sustainable Menswear",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-menswear/",
+      "publishedAt": "2026-06-08T00:00:11",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Lee Raymond, Who Created Global Oil Behemoth Exxon Mobil, Dies at 87",
-      "description": "He oversaw Exxon’s acquisition of a rival, cut costs relentlessly and denied the scientific consensus on climate change.",
-      "url": "https://www.nytimes.com/2026/06/10/business/lee-raymond-dead.html",
-      "publishedAt": "2026-06-11T02:12:59",
-      "content": "He oversaw Exxon’s acquisition of a rival, cut costs relentlessly and denied the scientific consensus on climate change."
+      "title": "She Used A.I. to Create Better Forecasts for Extreme Weather. Then Her Funding Was Cut.",
+      "description": "Amy McGovern was the director of an A.I. institute dedicated to weather forecasting — until the National Science Foundation ended its funding.",
+      "url": "https://www.nytimes.com/2026/06/12/science/lost-science-ai-weather-forecasting.html",
+      "publishedAt": "2026-06-12T09:00:04",
+      "content": "Amy McGovern was the director of an A.I. institute dedicated to weather forecasting — until the National Science Foundation ended its funding."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The underwater wonders I saw on my once-in-a-lifetime trip to the Galápagos",
+      "description": "In this week’s newsletter: Joining a research team on the Darwin and Wolf Islands off the Ecuadorian coast revealed how critically endangered species are reacting to their rapidly changing ocean en...",
+      "url": "https://www.theguardian.com/environment/2026/jun/12/darwin-and-wolf-islands-galapagos-wildlife-science-expedition",
+      "publishedAt": "2026-06-12T06:00:37",
+      "content": "In this week’s newsletter: Joining a research team on the Darwin and Wolf Islands off the Ecuadorian coast revealed how critically endangered species are reacting to their rapidly changing ocean en..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The grisly beauty of an otter postmortem | Gwyneth Lewis",
+      "description": "Cardiff: I still remember my first otter sighting, on a bog in the mid-90s.",
+      "url": "https://www.theguardian.com/environment/2026/jun/12/country-diary-the-grisly-beauty-of-an-otter-postmortem",
+      "publishedAt": "2026-06-12T04:30:34",
+      "content": "Cardiff: I still remember my first otter sighting, on a bog in the mid-90s."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System",
+      "description": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b...",
+      "url": "https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/",
+      "publishedAt": "2026-06-11T22:44:55",
+      "content": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
+      "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
+      "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
+      "publishedAt": "2026-06-11T21:30:26",
+      "content": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Scientists reveal surprising mechanism behind Venus flytrap’s rapid snap",
+      "description": "Intricate tests show hair-trigger detection causes cells on outer surface of leaf to soften, prompting closureThe Venus flytrap is one of nature’s most impressive predators, luring insects with the...",
+      "url": "https://www.theguardian.com/science/2026/jun/11/venus-flytrap-rapid-snap-mechanism",
+      "publishedAt": "2026-06-11T18:00:22",
+      "content": "Intricate tests show hair-trigger detection causes cells on outer surface of leaf to soften, prompting closureThe Venus flytrap is one of nature’s most impressive predators, luring insects with the..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Scientists Measure Earth’s Vast Underground Fungal Webs",
+      "description": "With machine learning and a high-resolution imaging robot, scientists measured and mapped the extent of Earth’s carbon circulatory system.",
+      "url": "https://www.nytimes.com/2026/06/11/science/ecology-mycorrhizal-fungus.html",
+      "publishedAt": "2026-06-11T18:00:09",
+      "content": "With machine learning and a high-resolution imaging robot, scientists measured and mapped the extent of Earth’s carbon circulatory system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pennsylvania Activists Urge Lawmakers to Help Curb Soaring Electric Bills",
+      "description": "Advocates for lower electricity prices in Pennsylvania said Wednesday their goals can be achieved by requiring large-load users like data centers to supply their own power rather than taking it fro...",
+      "url": "https://insideclimatenews.org/news/11062026/pennsylvania-electric-bills-driven-by-data-center-development/",
+      "publishedAt": "2026-06-11T17:31:07",
+      "content": "Advocates for lower electricity prices in Pennsylvania said Wednesday their goals can be achieved by requiring large-load users like data centers to supply their own power rather than taking it fro..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What is El Niño and why could it mean record temperatures?",
+      "description": "Global temperatures are expected to rise in the coming months as El Niño begins.",
+      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T13:32:26",
+      "content": "Global temperatures are expected to rise in the coming months as El Niño begins."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T13:26:24",
+      "content": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Six ways to keep your home and yourself cool in hot weather",
+      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T10:32:09",
+      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
     },
     {
       "source": {
@@ -202,17 +389,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
-      "description": "Critically endangered Tapanuli orangutan population falls after heavy rain and landslides, fuelled by climate crisis, in North SumatraExtreme rainfall and landslides fuelled by the climate crisis k...",
-      "url": "https://www.theguardian.com/world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
-      "publishedAt": "2026-06-10T16:18:05",
-      "content": "Critically endangered Tapanuli orangutan population falls after heavy rain and landslides, fuelled by climate crisis, in North SumatraExtreme rainfall and landslides fuelled by the climate crisis k..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -235,36 +411,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Airbus, Technip, Safran and Tereos to Develop Large-Scale SAF Production Facility in France",
-      "description": "Airbus, engineering and technology company Technip Energies, aerospace group Safran, and bioethanol producer Tereos announced",
-      "url": "https://www.esgtoday.com/airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-technip-safran-and-tereos-to-develop-large-scale-saf-production-facility-in-france",
-      "publishedAt": "2026-06-10T11:33:31",
-      "content": "Airbus, engineering and technology company Technip Energies, aerospace group Safran, and bioethanol producer Tereos announced"
+      "author": "CSRWire",
+      "title": "Connected Equipment is Protecting Louisiana’s Drivers",
+      "description": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana.",
+      "url": "https://csrwire.com/press-release/connected-equipment-protecting-louisianas-drivers/",
+      "publishedAt": "2026-06-10T09:40:00",
+      "content": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to Ethical and Sustainable Menswear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-menswear/",
-      "publishedAt": "2026-06-08T00:00:11",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "Urbaneer and Well Living Lab Announce the Home Innovation Lab",
+      "description": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo...",
+      "url": "https://csrwire.com/press-release/urbaneer-and-well-living-lab-announce-home-innovation-lab/",
+      "publishedAt": "2026-06-10T08:50:00",
+      "content": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "Millions Across the Midwest and Northeast Face Severe Storms on Thursday",
-      "description": "More than 100 million people from Texas to New England live in areas that could face dangerous weather on Thursday.",
-      "url": "https://www.nytimes.com/2026/06/11/weather/chicago-new-york-northeast-storms-minnesota.html",
-      "publishedAt": "2026-06-11T09:30:02",
-      "content": "More than 100 million people from Texas to New England live in areas that could face dangerous weather on Thursday."
+      "author": "Triple Pundit",
+      "title": "Cities Are Rehearsing For Deadly Heat. Will It Help When Disaster Comes?",
+      "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit",
+      "url": "https://triplepundit.com/2026/extreme-heat-emergency-response-disaster-preparedness-paris-barcelona/",
+      "publishedAt": "2026-06-09T20:39:36",
+      "content": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit"
     },
     {
       "source": {
@@ -287,17 +463,6 @@
       "url": "https://insideclimatenews.org/news/11062026/texas-oil-well-leaks-million-of-gallons-of-toxic-wastewater/",
       "publishedAt": "2026-06-11T08:55:00",
       "content": "GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A tiny orchid with mighty powers of deception | Oliver Southall",
-      "description": "Wolstonbury Hill, West Sussex: The fly orchid looks like no fly I’ve ever seen – its target insect is a wasp.",
-      "url": "https://www.theguardian.com/environment/2026/jun/11/country-diary-a-tiny-orchid-with-mighty-powers-of-deception",
-      "publishedAt": "2026-06-11T04:30:06",
-      "content": "Wolstonbury Hill, West Sussex: The fly orchid looks like no fly I’ve ever seen – its target insect is a wasp."
     },
     {
       "source": {
@@ -334,105 +499,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Connected Equipment is Protecting Louisiana’s Drivers",
-      "description": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana.",
-      "url": "https://csrwire.com/press-release/connected-equipment-protecting-louisianas-drivers/",
-      "publishedAt": "2026-06-10T09:40:00",
-      "content": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Why an Activist From Texas Crossed the World to Confront Asia’s Biggest Petrochemical Company",
-      "description": "The Resistance, Part 2: Three Gulf Coast environmentalists confront Formosa Plastics Corp.",
-      "url": "https://insideclimatenews.org/news/10062026/diane-wilson-formosa-plastics-taipei-shareholder-meeting/",
-      "publishedAt": "2026-06-10T09:00:00",
-      "content": "The Resistance, Part 2: Three Gulf Coast environmentalists confront Formosa Plastics Corp."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Urbaneer and Well Living Lab Announce the Home Innovation Lab",
-      "description": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo...",
-      "url": "https://csrwire.com/press-release/urbaneer-and-well-living-lab-announce-home-innovation-lab/",
-      "publishedAt": "2026-06-10T08:50:00",
-      "content": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Bycatch has ‘shocking’ toll on British marine life, first-ever analysis reveals",
-      "description": "Conservationists say cherished creatures such as whales, dolphins and seabirds are being killed in large numbers by fishing tackleThousands of Britain’s most charismatic and protected marine wildli...",
-      "url": "https://www.theguardian.com/environment/2026/jun/10/bycatch-toll-british-marine-life-analysis",
-      "publishedAt": "2026-06-10T04:00:12",
-      "content": "Conservationists say cherished creatures such as whales, dolphins and seabirds are being killed in large numbers by fishing tackleThousands of Britain’s most charismatic and protected marine wildli..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Cities Are Rehearsing For Deadly Heat. Will It Help When Disaster Comes?",
-      "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit",
-      "url": "https://triplepundit.com/2026/extreme-heat-emergency-response-disaster-preparedness-paris-barcelona/",
-      "publishedAt": "2026-06-09T20:39:36",
-      "content": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Redefining Rural Road Safety",
-      "description": "The Ray recently submitted a joint response with Abley to the USDOT’s ROUTES Initiative Request for Information (RFI).",
-      "url": "https://csrwire.com/press-release/redefining-rural-road-safety/",
-      "publishedAt": "2026-06-09T09:40:00",
-      "content": "The Ray recently submitted a joint response with Abley to the USDOT’s ROUTES Initiative Request for Information (RFI)."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
-      "description": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
-      "url": "https://csrwire.com/press-release/rmi-all-minerals-standard-achieves-full-lme-recognition-worlds-largest-industrial-metal/",
-      "publishedAt": "2026-06-09T08:30:00",
-      "content": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Medtronic Receives FDA Clearance for Nellcor™ Pulse Oximetry System With Nell-EQ™ Intelligent Processor, a New Technology Designed To Improve Reliability Across Diverse Patients and Conditions",
-      "description": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p...",
-      "url": "https://csrwire.com/press-release/medtronic-receives-fda-clearance-nellcortm-pulse-oximetry-system-nell-eqtm-intelligent/",
-      "publishedAt": "2026-06-08T11:35:00",
-      "content": "The Nell-EQ™ intelligent processor is a new pulse oximetry processing technology designed to support more consistent and reliable oxygen saturation (SpO₂) and pulse rate monitoring across diverse p..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG Keeps Care Running: How Holy Name Upgraded Hospital Energy Systems",
-      "description": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock.",
-      "url": "https://csrwire.com/press-release/pseg-keeps-care-running-how-holy-name-upgraded-hospital-energy-systems/",
-      "publishedAt": "2026-06-08T10:00:00",
-      "content": "At a hospital, there’s no room for downtime. Every system, including heating, cooling and lighting, has to work seamlessly to support patient care around the clock."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -455,36 +521,25 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "What is El Niño and why could it mean record temperatures?",
-      "description": "Global temperatures are expected to rise in the coming months as El Niño begins.",
-      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-09T14:50:57",
-      "content": "Global temperatures are expected to rise in the coming months as El Niño begins."
+      "author": "CSRWire",
+      "title": "Redefining Rural Road Safety",
+      "description": "The Ray recently submitted a joint response with Abley to the USDOT’s ROUTES Initiative Request for Information (RFI).",
+      "url": "https://csrwire.com/press-release/redefining-rural-road-safety/",
+      "publishedAt": "2026-06-09T09:40:00",
+      "content": "The Ray recently submitted a joint response with Abley to the USDOT’s ROUTES Initiative Request for Information (RFI)."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Searching for Shade When It’s 125 Degrees",
-      "description": "Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding.",
-      "url": "https://www.nytimes.com/2026/06/08/world/asia/pakistan-heat-wave.html",
-      "publishedAt": "2026-06-08T11:46:07",
-      "content": "Every season brings a new struggle for people in Dadu District, Pakistan, an area prone to sandstorms, drought and flooding."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Mangrove forests are healing after decades of human destruction",
-      "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
-      "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-04T23:11:15",
-      "content": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate."
+      "author": "CSRWire",
+      "title": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
+      "description": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange",
+      "url": "https://csrwire.com/press-release/rmi-all-minerals-standard-achieves-full-lme-recognition-worlds-largest-industrial-metal/",
+      "publishedAt": "2026-06-09T08:30:00",
+      "content": "RMI All Minerals Standard Achieves Full LME Recognition for the World’s Largest Industrial Metal Exchange"
     }
   ]
 }
