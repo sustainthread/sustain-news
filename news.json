@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 44,
   "articles": [
     {
       "source": {
@@ -26,14 +26,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "The Climate Change Culprits Not Addressed by Global Policy",
-      "description": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits.",
-      "url": "https://insideclimatenews.org/news/12062026/global-warming-overlooked-pollutants/",
-      "publishedAt": "2026-06-12T22:58:18",
-      "content": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits."
+      "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: SBTi releases new flagship corporate net zero standard; CDP splits,",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-265/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-265",
+      "publishedAt": "2026-06-14T08:10:08",
+      "content": "This week in ESG news: SBTi releases new flagship corporate net zero standard; CDP splits,"
     },
     {
       "source": {
@@ -48,14 +48,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Brookfield, Mitsubishi Launch New European Renewable Energy Platform",
-      "description": "Japan-based leasing and asset-finance company Mitsubishi HC Capital and global investment firm Brookfield Asset Management",
-      "url": "https://www.esgtoday.com/brookfield-mitsubishi-launch-new-european-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-mitsubishi-launch-new-european-renewable-energy-platform",
-      "publishedAt": "2026-06-11T09:24:02",
-      "content": "Japan-based leasing and asset-finance company Mitsubishi HC Capital and global investment firm Brookfield Asset Management"
+      "author": "Inside Climate News",
+      "title": "The Climate Change Culprits Not Addressed by Global Policy",
+      "description": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits.",
+      "url": "https://insideclimatenews.org/news/12062026/global-warming-overlooked-pollutants/",
+      "publishedAt": "2026-06-12T22:58:18",
+      "content": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits."
     },
     {
       "source": {
@@ -67,17 +67,6 @@
       "url": "https://csrwire.com/press-release/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization/",
       "publishedAt": "2026-06-10T09:05:00",
       "content": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Despite Record Renewable Growth, China Is Still Betting on Coal",
-      "description": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National...",
-      "url": "https://insideclimatenews.org/news/12062026/china-coal-power-generation-grows/",
-      "publishedAt": "2026-06-12T09:00:00",
-      "content": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National..."
     },
     {
       "source": {
@@ -100,6 +89,17 @@
       "url": "https://csrwire.com/press-release/loyola-university-chicagos-blueprint-responsible-technology-procurement/",
       "publishedAt": "2026-06-11T12:30:00",
       "content": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Despite Record Renewable Growth, China Is Still Betting on Coal",
+      "description": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National...",
+      "url": "https://insideclimatenews.org/news/12062026/china-coal-power-generation-grows/",
+      "publishedAt": "2026-06-12T09:00:00",
+      "content": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National..."
     },
     {
       "source": {
@@ -136,17 +136,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Cypress Creek Secures $3.5 Billion to Build One of the Largest Solar & Storage Projects in U.S.",
-      "description": "Renewables developer and power producer Cypress Creek Energy announced that it has secured $3.5 billion",
-      "url": "https://www.esgtoday.com/cypress-creek-secures-3-5-billion-to-build-one-of-the-largest-solar-storage-projects-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-creek-secures-3-5-billion-to-build-one-of-the-largest-solar-storage-projects-in-u-s",
-      "publishedAt": "2026-06-12T13:23:28",
-      "content": "Renewables developer and power producer Cypress Creek Energy announced that it has secured $3.5 billion"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -177,6 +166,127 @@
       "url": "https://goodonyou.eco/ultimate-guide-menswear/",
       "publishedAt": "2026-06-08T00:00:11",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The Scientific Quest for Perfect World Cup Pitch",
+      "description": "Every match must be played on natural grass that gives players as consistent a surface as possible, no matter the venue. Cue the years of sod studies.",
+      "url": "https://www.nytimes.com/2026/06/13/science/world-cup-grass-pitch.html",
+      "publishedAt": "2026-06-13T13:32:31",
+      "content": "Every match must be played on natural grass that gives players as consistent a surface as possible, no matter the venue. Cue the years of sod studies."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?",
+      "description": "The starry night sky has always anchored humanity’s sense of place in a vast universe.",
+      "url": "https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/",
+      "publishedAt": "2026-06-13T09:00:00",
+      "content": "The starry night sky has always anchored humanity’s sense of place in a vast universe."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "‘Their Breath Was Captured in the Tree’",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with botanist and author Beronda Montgomery. When plant biologist Be...",
+      "url": "https://insideclimatenews.org/news/13062026/beronda-montgomery-americas-black-botanical-legacy/",
+      "publishedAt": "2026-06-13T08:50:00",
+      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with botanist and author Beronda Montgomery. When plant biologist Be..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Cypress Creek Secures $3.5 Billion to Build One of the Largest Solar & Storage Projects in U.S.",
+      "description": "Renewables developer and power producer Cypress Creek Energy announced that it has secured $3.5 billion",
+      "url": "https://www.esgtoday.com/cypress-creek-secures-3-5-billion-to-build-one-of-the-largest-solar-storage-projects-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-creek-secures-3-5-billion-to-build-one-of-the-largest-solar-storage-projects-in-u-s",
+      "publishedAt": "2026-06-12T13:23:28",
+      "content": "Renewables developer and power producer Cypress Creek Energy announced that it has secured $3.5 billion"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "NOAA Issues El Nino Advisory",
+      "description": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes.",
+      "url": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
+      "publishedAt": "2026-06-12T07:59:20",
+      "content": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
+      "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
+      "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
+      "publishedAt": "2026-06-12T05:00:36",
+      "content": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "America’s Re-Industrialization Hits a Speed Bump",
+      "description": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit",
+      "url": "https://triplepundit.com/2026/inola-oklahoma-aluminum-plant-trump-mazzei/",
+      "publishedAt": "2026-06-11T19:06:03",
+      "content": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers",
+      "description": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling",
+      "url": "https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers",
+      "publishedAt": "2026-06-11T14:19:03",
+      "content": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH Partners With Pidthong Lang Phra Foundation To Advance Rural Development in Thailand",
+      "description": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives.",
+      "url": "https://csrwire.com/press-release/cnh-partners-pidthong-lang-phra-foundation-advance-rural-development-thailand/",
+      "publishedAt": "2026-06-11T12:00:00",
+      "content": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Tetra Pak® Unveils Next-Level Efficiency, Convenience and Shelf Impact With the New 48 oz Size Tetra Brik® Aseptic Edge Carton",
+      "description": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin...",
+      "url": "https://csrwire.com/press-release/tetra-pakr-unveils-next-level-efficiency-convenience-and-shelf-impact-new-48-oz-size-tetra/",
+      "publishedAt": "2026-06-11T10:00:00",
+      "content": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles",
+      "description": "“Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope.",
+      "url": "https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/",
+      "publishedAt": "2026-06-13T08:55:00",
+      "content": "“Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope."
     },
     {
       "source": {
@@ -257,69 +367,47 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Inside Climate News"
       },
-      "author": "New York Times",
-      "title": "NOAA Issues El Nino Advisory",
-      "description": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes.",
-      "url": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
-      "publishedAt": "2026-06-12T07:59:20",
-      "content": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
+      "author": "Inside Climate News",
+      "title": "Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System",
+      "description": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b...",
+      "url": "https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/",
+      "publishedAt": "2026-06-11T22:44:55",
+      "content": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
-      "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
-      "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
-      "publishedAt": "2026-06-12T05:00:36",
-      "content": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu..."
+      "author": "BBC",
+      "title": "What is El Niño and why could it mean record temperatures?",
+      "description": "Global temperatures are expected to rise in the coming months as El Niño begins.",
+      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T13:32:26",
+      "content": "Global temperatures are expected to rise in the coming months as El Niño begins."
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "BBC"
       },
-      "author": "Triple Pundit",
-      "title": "America’s Re-Industrialization Hits a Speed Bump",
-      "description": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit",
-      "url": "https://triplepundit.com/2026/inola-oklahoma-aluminum-plant-trump-mazzei/",
-      "publishedAt": "2026-06-11T19:06:03",
-      "content": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit"
+      "author": "BBC",
+      "title": "El Niño under way and threatens weather extremes, scientists say",
+      "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T13:26:24",
+      "content": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "BBC"
       },
-      "author": "ESG Today",
-      "title": "Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers",
-      "description": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling",
-      "url": "https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers",
-      "publishedAt": "2026-06-11T14:19:03",
-      "content": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "CNH Partners With Pidthong Lang Phra Foundation To Advance Rural Development in Thailand",
-      "description": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives.",
-      "url": "https://csrwire.com/press-release/cnh-partners-pidthong-lang-phra-foundation-advance-rural-development-thailand/",
-      "publishedAt": "2026-06-11T12:00:00",
-      "content": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Tetra Pak® Unveils Next-Level Efficiency, Convenience and Shelf Impact With the New 48 oz Size Tetra Brik® Aseptic Edge Carton",
-      "description": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin...",
-      "url": "https://csrwire.com/press-release/tetra-pakr-unveils-next-level-efficiency-convenience-and-shelf-impact-new-48-oz-size-tetra/",
-      "publishedAt": "2026-06-11T10:00:00",
-      "content": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin..."
+      "author": "BBC",
+      "title": "Six ways to keep your home and yourself cool in hot weather",
+      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
+      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-11T10:32:09",
+      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
     },
     {
       "source": {
@@ -375,83 +463,6 @@
       "url": "https://csrwire.com/press-release/urbaneer-and-well-living-lab-announce-home-innovation-lab/",
       "publishedAt": "2026-06-10T08:50:00",
       "content": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System",
-      "description": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b...",
-      "url": "https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/",
-      "publishedAt": "2026-06-11T22:44:55",
-      "content": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Pennsylvania Activists Urge Lawmakers to Help Curb Soaring Electric Bills",
-      "description": "Advocates for lower electricity prices in Pennsylvania said Wednesday their goals can be achieved by requiring large-load users like data centers to supply their own power rather than taking it fro...",
-      "url": "https://insideclimatenews.org/news/11062026/pennsylvania-electric-bills-driven-by-data-center-development/",
-      "publishedAt": "2026-06-11T17:31:07",
-      "content": "Advocates for lower electricity prices in Pennsylvania said Wednesday their goals can be achieved by requiring large-load users like data centers to supply their own power rather than taking it fro..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What is El Niño and why could it mean record temperatures?",
-      "description": "Global temperatures are expected to rise in the coming months as El Niño begins.",
-      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T13:32:26",
-      "content": "Global temperatures are expected to rise in the coming months as El Niño begins."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T13:26:24",
-      "content": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Six ways to keep your home and yourself cool in hot weather",
-      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
-      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T10:32:09",
-      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Biscayne Bay Is Slowly Becoming the Ocean",
-      "description": "In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend the first two years of their lives. A few mile...",
-      "url": "https://insideclimatenews.org/news/11062026/miami-biscayne-bay-sea-level-rise-threatens-sharks-and-aquifer/",
-      "publishedAt": "2026-06-11T09:00:00",
-      "content": "In the shadow of Miami’s skyline, in water churned daily by boats and jet skis, juvenile great hammerhead sharks—a critically endangered species—spend the first two years of their lives. A few mile..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "An Old Well Gushed Waste, Not Oil, in a Small West Texas Town",
-      "description": "GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April.",
-      "url": "https://insideclimatenews.org/news/11062026/texas-oil-well-leaks-million-of-gallons-of-toxic-wastewater/",
-      "publishedAt": "2026-06-11T08:55:00",
-      "content": "GRANDFALLS, Texas—An old oil well sprang back to life under the parking lot of the First Baptist Church of Grandfalls in April."
     },
     {
       "source": {
