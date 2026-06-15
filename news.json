@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 27,
   "articles": [
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "SBTi Releases Finalized New Corporate Net Zero Standard",
-      "description": "The Science Based Targets initiative (SBTi) announced the release of Corporate Net-Zero Standard Version 2.0,",
-      "url": "https://www.esgtoday.com/sbti-releases-finalized-new-corporate-net-zero-standard/?utm_source=rss&utm_medium=rss&utm_campaign=sbti-releases-finalized-new-corporate-net-zero-standard",
-      "publishedAt": "2026-06-11T11:55:23",
-      "content": "The Science Based Targets initiative (SBTi) announced the release of Corporate Net-Zero Standard Version 2.0,"
+      "author": "Inside Climate News",
+      "title": "Microsoft’s Clean Energy Reversal Collides with Virginia’s Climate Goals",
+      "description": "One of the world’s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the company’s...",
+      "url": "https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/",
+      "publishedAt": "2026-06-15T09:00:00",
+      "content": "One of the world’s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the company’s..."
     },
     {
       "source": {
@@ -19,10 +19,21 @@
       },
       "author": "Good On You",
       "title": "More Sustainable Fashion Brand Offers This June 2026",
-      "description": "Feature image: The Summer House.",
+      "description": "Feature image: Harvest & Mill.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-06-09T22:00:45",
-      "content": "Feature image: The Summer House."
+      "publishedAt": "2026-06-13T22:00:45",
+      "content": "Feature image: Harvest & Mill."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "S&P Global Launches Solution to Screen Portfolios for UN Global Compact Alignment",
+      "description": "S&P Global’s sustainability-focused business unit S&P Global Sustainable1 announced the launch of its new United",
+      "url": "https://www.esgtoday.com/sp-global-launches-solution-to-screen-portfolios-for-un-global-compact-alignment/?utm_source=rss&utm_medium=rss&utm_campaign=sp-global-launches-solution-to-screen-portfolios-for-un-global-compact-alignment",
+      "publishedAt": "2026-06-15T11:13:24",
+      "content": "S&P Global’s sustainability-focused business unit S&P Global Sustainable1 announced the launch of its new United"
     },
     {
       "source": {
@@ -37,17 +48,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "DHL Invests €160 Million in Decarbonization, Infrastructure in France",
-      "description": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France",
-      "url": "https://www.esgtoday.com/dhl-invests-e160-million-in-decarbonization-infrastructure-in-france/?utm_source=rss&utm_medium=rss&utm_campaign=dhl-invests-e160-million-in-decarbonization-infrastructure-in-france",
-      "publishedAt": "2026-06-11T15:16:17",
-      "content": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France"
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -59,47 +59,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Biochar’s Triple Win: Healthier Soils, Improved Crops, and Decarbonization",
-      "description": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar.",
-      "url": "https://csrwire.com/press-release/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization/",
-      "publishedAt": "2026-06-10T09:05:00",
-      "content": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "CDP Splits into 2 Entities, Announces Significant Investment by Permira",
-      "description": "Climate research provider and environmental disclosure platform CDP announced today a new significant investment by",
-      "url": "https://www.esgtoday.com/cdp-splits-into-2-entities-announces-significant-investment-by-permira/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-splits-into-2-entities-announces-significant-investment-by-permira",
-      "publishedAt": "2026-06-11T13:06:08",
-      "content": "Climate research provider and environmental disclosure platform CDP announced today a new significant investment by"
+      "title": "DHL Invests €160 Million in Decarbonization, Infrastructure in France",
+      "description": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France",
+      "url": "https://www.esgtoday.com/dhl-invests-e160-million-in-decarbonization-infrastructure-in-france/?utm_source=rss&utm_medium=rss&utm_campaign=dhl-invests-e160-million-in-decarbonization-infrastructure-in-france",
+      "publishedAt": "2026-06-11T15:16:17",
+      "content": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France"
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Good On You"
       },
-      "author": "CSRWire",
-      "title": "Loyola University Chicago’s Blueprint for Responsible Technology Procurement",
-      "description": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices.",
-      "url": "https://csrwire.com/press-release/loyola-university-chicagos-blueprint-responsible-technology-procurement/",
-      "publishedAt": "2026-06-11T12:30:00",
-      "content": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Despite Record Renewable Growth, China Is Still Betting on Coal",
-      "description": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National...",
-      "url": "https://insideclimatenews.org/news/12062026/china-coal-power-generation-grows/",
-      "publishedAt": "2026-06-12T09:00:00",
-      "content": "China’s coal power output rose in early 2026, fueling concerns that last year’s drop in power-sector emissions may be temporary despite record growth in renewable energy. Data from China’s National..."
+      "author": "Good On You",
+      "title": "10 More Ethical and Sustainable Denim Brands From the US",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-denim-brands-made-in-the-us/",
+      "publishedAt": "2026-06-15T00:00:04",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -114,25 +92,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI President and CEO Rachel Hodgdon to Deliver Keynote on the Future of Healthy Indoor Air at Indoor Air 2026 in Singapore",
-      "description": "At the 19th International Conference of the International Society of Indoor Air Quality and Climate, Indoor Air 2026, IWBI President and CEO Rachel Hodgdon will deliver a keynote outlining why indo...",
-      "url": "https://csrwire.com/press-release/iwbi-president-and-ceo-rachel-hodgdon-deliver-keynote-future-healthy-indoor-air-indoor-air/",
-      "publishedAt": "2026-06-12T09:50:00",
-      "content": "At the 19th International Conference of the International Society of Indoor Air Quality and Climate, Indoor Air 2026, IWBI President and CEO Rachel Hodgdon will deliver a keynote outlining why indo..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Microsoft Signs ERW Carbon Removal Deal in India with Alt Carbon",
-      "description": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,",
-      "url": "https://www.esgtoday.com/microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon",
-      "publishedAt": "2026-06-12T09:03:22",
-      "content": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,"
+      "title": "EU Member States Agree to Expand CBAM Carbon Import Tax to Downstream Products",
+      "description": "The European Council announced an agreement by EU member states on a series of proposed",
+      "url": "https://www.esgtoday.com/eu-member-states-agree-to-expand-cbam-carbon-import-tax-to-downstream-products/?utm_source=rss&utm_medium=rss&utm_campaign=eu-member-states-agree-to-expand-cbam-carbon-import-tax-to-downstream-products",
+      "publishedAt": "2026-06-15T10:01:53",
+      "content": "The European Council announced an agreement by EU member states on a series of proposed"
     },
     {
       "source": {
@@ -158,36 +125,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "New York Times"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to Ethical and Sustainable Menswear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-menswear/",
-      "publishedAt": "2026-06-08T00:00:11",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "New York Times",
+      "title": "Tensions Are Rising Between States That Rely on the Colorado River",
+      "description": "A prolonged drought means the nation’s largest reservoirs are dwindling, and litigation over access to water could lie ahead.",
+      "url": "https://www.nytimes.com/2026/06/15/climate/colorado-river-drought-states.html",
+      "publishedAt": "2026-06-15T11:27:56",
+      "content": "A prolonged drought means the nation’s largest reservoirs are dwindling, and litigation over access to water could lie ahead."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "The Scientific Quest for Perfect World Cup Pitch",
-      "description": "Every match must be played on natural grass that gives players as consistent a surface as possible, no matter the venue. Cue the years of sod studies.",
-      "url": "https://www.nytimes.com/2026/06/13/science/world-cup-grass-pitch.html",
-      "publishedAt": "2026-06-13T13:32:31",
-      "content": "Every match must be played on natural grass that gives players as consistent a surface as possible, no matter the venue. Cue the years of sod studies."
+      "title": "In Alabama, Opposition to Renewable Solar Energy Joins a Data Center Battle",
+      "description": "Tuesday’s runoff for a slot on the Alabama Public Service Commission has a familiar ring to it, with talk of data centers and electricity costs.",
+      "url": "https://www.nytimes.com/2026/06/15/us/elections/alabama-election-data-centers-solar-power.html",
+      "publishedAt": "2026-06-15T09:02:11",
+      "content": "Tuesday’s runoff for a slot on the Alabama Public Service Commission has a familiar ring to it, with talk of data centers and electricity costs."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Guardian"
       },
-      "author": "Inside Climate News",
-      "title": "A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?",
-      "description": "The starry night sky has always anchored humanity’s sense of place in a vast universe.",
-      "url": "https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/",
-      "publishedAt": "2026-06-13T09:00:00",
-      "content": "The starry night sky has always anchored humanity’s sense of place in a vast universe."
+      "author": "The Guardian",
+      "title": "Weather tracker: Saharan heat to send temperatures soaring across Europe",
+      "description": "Heatwave conditions build over much of continent, while mild start to winter continues in parts of AustraliaHot weather is expected across Europe this week as heatwave conditions build over large s...",
+      "url": "https://www.theguardian.com/environment/2026/jun/15/weather-tracker-sahara-heatwave-temperatures-europe-australia",
+      "publishedAt": "2026-06-15T08:34:19",
+      "content": "Heatwave conditions build over much of continent, while mild start to winter continues in parts of AustraliaHot weather is expected across Europe this week as heatwave conditions build over large s..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Our island’s wandering wallabies come at a cost | Tim Earl",
+      "description": "Ballaugh, Isle of Man: As I discover, spotting one of these marsupials isn’t hard.",
+      "url": "https://www.theguardian.com/environment/2026/jun/15/country-diary-our-islands-wandering-wallabies-come-at-a-cost",
+      "publishedAt": "2026-06-15T04:30:02",
+      "content": "Ballaugh, Isle of Man: As I discover, spotting one of these marsupials isn’t hard."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People start connecting the dots’: why an investment fund is rewilding a North Yorkshire estate",
+      "description": "Rebalance Earth is investing in Broughton Sanctuary to generate financial, environmental and social returnsFrom a high point on the hill, the North Yorkshire landscape unrolls below. The moorland a...",
+      "url": "https://www.theguardian.com/environment/2026/jun/14/why-investment-fund-rewilding-north-yorkshire-estate-rebalance-earth",
+      "publishedAt": "2026-06-14T11:00:41",
+      "content": "Rebalance Earth is investing in Broughton Sanctuary to generate financial, environmental and social returnsFrom a high point on the hill, the North Yorkshire landscape unrolls below. The moorland a..."
     },
     {
       "source": {
@@ -213,69 +202,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "NOAA Issues El Nino Advisory",
-      "description": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes.",
-      "url": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
-      "publishedAt": "2026-06-12T07:59:20",
-      "content": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
-      "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
-      "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
-      "publishedAt": "2026-06-12T05:00:36",
-      "content": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "America’s Re-Industrialization Hits a Speed Bump",
-      "description": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit",
-      "url": "https://triplepundit.com/2026/inola-oklahoma-aluminum-plant-trump-mazzei/",
-      "publishedAt": "2026-06-11T19:06:03",
-      "content": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit"
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers",
-      "description": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling",
-      "url": "https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers",
-      "publishedAt": "2026-06-11T14:19:03",
-      "content": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling"
+      "title": "Microsoft Signs ERW Carbon Removal Deal in India with Alt Carbon",
+      "description": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,",
+      "url": "https://www.esgtoday.com/microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon",
+      "publishedAt": "2026-06-12T09:03:22",
+      "content": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,"
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "CNH Partners With Pidthong Lang Phra Foundation To Advance Rural Development in Thailand",
-      "description": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives.",
-      "url": "https://csrwire.com/press-release/cnh-partners-pidthong-lang-phra-foundation-advance-rural-development-thailand/",
-      "publishedAt": "2026-06-11T12:00:00",
-      "content": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives."
+      "author": "Inside Climate News",
+      "title": "Pandemic Roulette",
+      "description": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never...",
+      "url": "https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/",
+      "publishedAt": "2026-06-14T08:50:00",
+      "content": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never..."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "Tetra Pak® Unveils Next-Level Efficiency, Convenience and Shelf Impact With the New 48 oz Size Tetra Brik® Aseptic Edge Carton",
-      "description": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin...",
-      "url": "https://csrwire.com/press-release/tetra-pakr-unveils-next-level-efficiency-convenience-and-shelf-impact-new-48-oz-size-tetra/",
-      "publishedAt": "2026-06-11T10:00:00",
-      "content": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin..."
+      "author": "Inside Climate News",
+      "title": "A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?",
+      "description": "The starry night sky has always anchored humanity’s sense of place in a vast universe.",
+      "url": "https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/",
+      "publishedAt": "2026-06-13T09:00:00",
+      "content": "The starry night sky has always anchored humanity’s sense of place in a vast universe."
     },
     {
       "source": {
@@ -293,28 +249,6 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Tropical heron spotted in UK for first time as more exotic birds arrive to thrill birdwatchers",
-      "description": "Appearance of a western reef heron in north Wales is unlikely to be the last, as heating temperatures mean species can survive Britain’s winter, say expertsIt is a tropical bird typically encounter...",
-      "url": "https://www.theguardian.com/environment/2026/jun/13/tropical-heron-spotted-first-time-uk-aoe",
-      "publishedAt": "2026-06-13T07:00:08",
-      "content": "Appearance of a western reef heron in north Wales is unlikely to be the last, as heating temperatures mean species can survive Britain’s winter, say expertsIt is a tropical bird typically encounter..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: It’s a painted lady summer, the stuff of lepidopterists’ legend | Phil Gates",
-      "description": "Wolsingham, Weardale: These stunning butterflies are here in incredible numbers this year, yet what’s most remarkable is their multigenerational migrationThere’s a painted lady basking on the footp...",
-      "url": "https://www.theguardian.com/environment/2026/jun/13/country-diary-its-a-painted-lady-summer-the-stuff-of-lepidopterists-legend",
-      "publishedAt": "2026-06-13T04:30:04",
-      "content": "Wolsingham, Weardale: These stunning butterflies are here in incredible numbers this year, yet what’s most remarkable is their multigenerational migrationThere’s a painted lady basking on the footp..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "Trees may store less planet-heating carbon than hoped, study suggests",
       "description": "Photosynthesis does not always result in wood growth, a key factor in carbon dioxide sequestrationTrees may not be able to store as much planet-heating carbon as hoped, a study suggests, with resea...",
       "url": "https://www.theguardian.com/environment/2026/jun/13/trees-store-less-carbon-than-thought-study",
@@ -326,88 +260,22 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Days of Dangerous Heat Is Expected in the Pacific Northwest",
-      "description": "Portland could climb near 100 degrees this weekend, forecasters said. Little relief is expected until next week.",
-      "url": "https://www.nytimes.com/2026/06/12/weather/portland-seattle-heat-wave.html",
-      "publishedAt": "2026-06-12T19:50:55",
-      "content": "Portland could climb near 100 degrees this weekend, forecasters said. Little relief is expected until next week."
+      "title": "NOAA Issues El Nino Advisory",
+      "description": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes.",
+      "url": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
+      "publishedAt": "2026-06-12T07:59:20",
+      "content": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "Hoover Dam Approaches a Hydropower Cliff",
-      "description": "Some day in the next 12 months—maybe in late August, maybe not until next spring— Lake Mead will drop below the critical threshold of 1,035 feet above sea level. That is the water-level elevation a...",
-      "url": "https://insideclimatenews.org/news/12062026/hoover-dam-approaches-a-hydropower-cliff/",
-      "publishedAt": "2026-06-12T16:33:42",
-      "content": "Some day in the next 12 months—maybe in late August, maybe not until next spring— Lake Mead will drop below the critical threshold of 1,035 feet above sea level. That is the water-level elevation a..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
-      "description": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’Antarctica’s west coast is missing an area of winter sea ice...",
-      "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
-      "publishedAt": "2026-06-12T15:00:48",
-      "content": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’Antarctica’s west coast is missing an area of winter sea ice..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Renewable Groups Ask Courts to End Pentagon’s ‘Total Halt’ of Wind Power",
-      "description": "More than 100 planned wind farms in 21 states are now stalled indefinitely as the Pentagon delays military reviews once seen as routine.",
-      "url": "https://www.nytimes.com/2026/06/12/climate/wind-power-lawsuit-pentagon-trump.html",
-      "publishedAt": "2026-06-12T13:42:12",
-      "content": "More than 100 planned wind farms in 21 states are now stalled indefinitely as the Pentagon delays military reviews once seen as routine."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Threads of Earth’s Underground Fungal Networks Are Long Enough to Reach Beyond the Solar System",
-      "description": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b...",
-      "url": "https://insideclimatenews.org/news/11062026/earths-massive-underground-fungal-networks/",
-      "publishedAt": "2026-06-11T22:44:55",
-      "content": "Hidden underground around the world lie 110 quadrillion kilometers of arbuscular mycorrhizal fungal networks—webs of ultra-thin threads that, if connected in a single line, would stretch almost a b..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What is El Niño and why could it mean record temperatures?",
-      "description": "Global temperatures are expected to rise in the coming months as El Niño begins.",
-      "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T13:32:26",
-      "content": "Global temperatures are expected to rise in the coming months as El Niño begins."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "El Niño under way and threatens weather extremes, scientists say",
-      "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
-      "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T13:26:24",
-      "content": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Six ways to keep your home and yourself cool in hot weather",
-      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
-      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-11T10:32:09",
-      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
+      "author": "ESG Today",
+      "title": "Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers",
+      "description": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling",
+      "url": "https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers",
+      "publishedAt": "2026-06-11T14:19:03",
+      "content": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling"
     },
     {
       "source": {
@@ -430,61 +298,6 @@
       "url": "https://www.nytimes.com/2026/06/10/climate/indonesia-floods-organgutans.html",
       "publishedAt": "2026-06-10T17:48:13",
       "content": "More than 5 percent of the species is estimated to have been lost when a climate-fueled storm unleashed torrents of water, mud and debris."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "3M Innovates To Help the Automotive Industry Navigate What’s Ahead",
-      "description": "The automotive industry is under pressure from every direction.",
-      "url": "https://csrwire.com/press-release/3m-innovates-help-automotive-industry-navigate-whats-ahead/",
-      "publishedAt": "2026-06-10T15:35:00",
-      "content": "The automotive industry is under pressure from every direction."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Connected Equipment is Protecting Louisiana’s Drivers",
-      "description": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana.",
-      "url": "https://csrwire.com/press-release/connected-equipment-protecting-louisianas-drivers/",
-      "publishedAt": "2026-06-10T09:40:00",
-      "content": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Urbaneer and Well Living Lab Announce the Home Innovation Lab",
-      "description": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo...",
-      "url": "https://csrwire.com/press-release/urbaneer-and-well-living-lab-announce-home-innovation-lab/",
-      "publishedAt": "2026-06-10T08:50:00",
-      "content": "Urbaneer and the Well Living Lab recently hosted a networking event showcasing plans for the Home Innovation Lab (HIL), an innovative residential home designed to demonstrate how research, technolo..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Cities Are Rehearsing For Deadly Heat. Will It Help When Disaster Comes?",
-      "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit",
-      "url": "https://triplepundit.com/2026/extreme-heat-emergency-response-disaster-preparedness-paris-barcelona/",
-      "publishedAt": "2026-06-09T20:39:36",
-      "content": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Redefining Rural Road Safety",
-      "description": "The Ray recently submitted a joint response with Abley to the USDOT’s ROUTES Initiative Request for Information (RFI).",
-      "url": "https://csrwire.com/press-release/redefining-rural-road-safety/",
-      "publishedAt": "2026-06-09T09:40:00",
-      "content": "The Ray recently submitted a joint response with Abley to the USDOT’s ROUTES Initiative Request for Information (RFI)."
     }
   ]
 }
