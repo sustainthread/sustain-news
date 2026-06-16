@@ -1,13 +1,24 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 38,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Workiva Launches Agentic AI Sustainability Reporting Solution",
+      "description": "Business data and reporting solutions provider Workiva announced the launch of Workiva Sustainability Disclosure Agent,",
+      "url": "https://www.esgtoday.com/workiva-launches-agentic-ai-sustainability-reporting-solution/?utm_source=rss&utm_medium=rss&utm_campaign=workiva-launches-agentic-ai-sustainability-reporting-solution",
+      "publishedAt": "2026-06-15T12:11:33",
+      "content": "Business data and reporting solutions provider Workiva announced the launch of Workiva Sustainability Disclosure Agent,"
+    },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Microsoft’s Clean Energy Reversal Collides with Virginia’s Climate Goals",
+      "title": "Microsoft’s Clean Energy Reversal Collides With Virginia’s Climate Goals",
       "description": "One of the world’s most profitable technology companies could be abandoning an ambitious clean-energy goal in Virginia as it races to build electricity-hungry data centers. Several of the company’s...",
       "url": "https://insideclimatenews.org/news/15062026/microsoft-backpedals-on-climate-promises/",
       "publishedAt": "2026-06-15T09:00:00",
@@ -48,25 +59,80 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "The Climate Change Culprits Not Addressed by Global Policy",
-      "description": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits.",
-      "url": "https://insideclimatenews.org/news/12062026/global-warming-overlooked-pollutants/",
-      "publishedAt": "2026-06-12T22:58:18",
-      "content": "Record-high global temperatures aren’t driven only by well-known greenhouse gas culprits."
+      "author": "CSRWire",
+      "title": "Biochar’s Triple Win: Healthier Soils, Improved Crops, and Decarbonization",
+      "description": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar.",
+      "url": "https://csrwire.com/press-release/biochars-triple-win-healthier-soils-improved-crops-and-decarbonization/",
+      "publishedAt": "2026-06-10T09:05:00",
+      "content": "We often think of agricultural waste, such as crop residues, forestry byproducts, or even manure, as an end-of-the-line byproduct. But what if it were actually a valuable resource? Enter Biochar."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "DHL Invests €160 Million in Decarbonization, Infrastructure in France",
-      "description": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France",
-      "url": "https://www.esgtoday.com/dhl-invests-e160-million-in-decarbonization-infrastructure-in-france/?utm_source=rss&utm_medium=rss&utm_campaign=dhl-invests-e160-million-in-decarbonization-infrastructure-in-france",
-      "publishedAt": "2026-06-11T15:16:17",
-      "content": "Logistics giant DHL Group announced plans to invest approximately €160 million (USD$186 million) in France"
+      "title": "P&G’s First Chief Sustainability Officer Virginie Helias Retires",
+      "description": "Virginie Helias, who has led sustainability efforts at consumer brands giant Procter & Gamble (P&G)",
+      "url": "https://www.esgtoday.com/pgs-first-chief-sustainability-officer-virginie-helias-retires/?utm_source=rss&utm_medium=rss&utm_campaign=pgs-first-chief-sustainability-officer-virginie-helias-retires",
+      "publishedAt": "2026-06-15T14:31:44",
+      "content": "Virginie Helias, who has led sustainability efforts at consumer brands giant Procter & Gamble (P&G)"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "NYC Comptroller Launches Search for Asset Managers After Predecessor Recommended Dropping BlackRock Over Climate Concerns",
+      "description": "New York City Comptroller Mark Levine announced that the City’s five public pension systems have launched",
+      "url": "https://www.esgtoday.com/nyc-comptroller-launches-search-for-asset-managers-after-predecessor-recommended-dropping-blackrock-over-climate-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=nyc-comptroller-launches-search-for-asset-managers-after-predecessor-recommended-dropping-blackrock-over-climate-concerns",
+      "publishedAt": "2026-06-15T13:14:38",
+      "content": "New York City Comptroller Mark Levine announced that the City’s five public pension systems have launched"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Half of world’s children exposed to at least three climate hazards, Unicef says",
+      "description": "Almost every child, including those from high-income countries, is now exposed to at least one hazardHalf of the world’s children are exposed to at least three overlapping climate hazards threateni...",
+      "url": "https://www.theguardian.com/environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says",
+      "publishedAt": "2026-06-16T05:00:46",
+      "content": "Almost every child, including those from high-income countries, is now exposed to at least one hazardHalf of the world’s children are exposed to at least three overlapping climate hazards threateni..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Ethical and Sustainable Shoes",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-sustainable-shoes-2/",
+      "publishedAt": "2026-06-16T00:00:03",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Algae Is Turning the Reflecting Pool Green. Again.",
+      "description": "Algal blooms have hit the site, between the Lincoln Memorial and the Washington Monument, after a $14.2 million repair project.",
+      "url": "https://www.nytimes.com/2026/06/15/climate/reflecting-pool-algae-green.html",
+      "publishedAt": "2026-06-15T21:29:29",
+      "content": "Algal blooms have hit the site, between the Lincoln Memorial and the Washington Monument, after a $14.2 million repair project."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Loyola University Chicago’s Blueprint for Responsible Technology Procurement",
+      "description": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices.",
+      "url": "https://csrwire.com/press-release/loyola-university-chicagos-blueprint-responsible-technology-procurement/",
+      "publishedAt": "2026-06-11T12:30:00",
+      "content": "New case study highlights how EPEAT registered technology purchases supported carbon neutrality, reduced emissions, and strengthened circular procurement practices."
     },
     {
       "source": {
@@ -84,22 +150,33 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Northern Trust Launches New Climate-Focused UCITS Equity Funds",
-      "description": "Global investment manager Northern Trust Asset Management (NTAM) announced the launch of two new actively",
-      "url": "https://www.esgtoday.com/northern-trust-launches-new-climate-focused-ucits-equity-funds/?utm_source=rss&utm_medium=rss&utm_campaign=northern-trust-launches-new-climate-focused-ucits-equity-funds",
-      "publishedAt": "2026-06-11T13:30:02",
-      "content": "Global investment manager Northern Trust Asset Management (NTAM) announced the launch of two new actively"
+      "title": "Microsoft-Backed SAF Producer Twelve Launches First U.S. Plant to Make Jet Fuel from CO2",
+      "description": "Carbon transformation-focused cleantech company Twelve announced the launch of AirPlant One, the first commercial-scale facility",
+      "url": "https://www.esgtoday.com/microsoft-backed-saf-producer-twelve-launches-first-u-s-plant-to-make-jet-fuel-from-co2/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-backed-saf-producer-twelve-launches-first-u-s-plant-to-make-jet-fuel-from-co2",
+      "publishedAt": "2026-06-16T09:57:17",
+      "content": "Carbon transformation-focused cleantech company Twelve announced the launch of AirPlant One, the first commercial-scale facility"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EU Member States Agree to Expand CBAM Carbon Import Tax to Downstream Products",
-      "description": "The European Council announced an agreement by EU member states on a series of proposed",
-      "url": "https://www.esgtoday.com/eu-member-states-agree-to-expand-cbam-carbon-import-tax-to-downstream-products/?utm_source=rss&utm_medium=rss&utm_campaign=eu-member-states-agree-to-expand-cbam-carbon-import-tax-to-downstream-products",
-      "publishedAt": "2026-06-15T10:01:53",
-      "content": "The European Council announced an agreement by EU member states on a series of proposed"
+      "title": "New Forests Launches A$1 Billion Global Natural Capital Fund",
+      "description": "Nature-based real assets-focused investment manager New Forests announced today the launch of its Global Landscape",
+      "url": "https://www.esgtoday.com/new-forests-launches-a1-billion-global-natural-capital-fund/?utm_source=rss&utm_medium=rss&utm_campaign=new-forests-launches-a1-billion-global-natural-capital-fund",
+      "publishedAt": "2026-06-15T15:11:00",
+      "content": "Nature-based real assets-focused investment manager New Forests announced today the launch of its Global Landscape"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "United Nations Federal Credit Union Publishes 2025 Impact Report",
+      "description": "The United Nations Federal Credit Union, UNFCU, announced the release of its 2025 Impact Report.",
+      "url": "https://csrwire.com/press-release/united-nations-federal-credit-union-publishes-2025-impact-report/",
+      "publishedAt": "2026-06-15T12:40:00",
+      "content": "The United Nations Federal Credit Union, UNFCU, announced the release of its 2025 Impact Report."
     },
     {
       "source": {
@@ -114,14 +191,69 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "New York Times"
       },
-      "author": "Good On You",
-      "title": "17 More Sustainable White Shirts You’ll Keep For Years",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-white-dress-shirts/",
-      "publishedAt": "2026-06-09T03:00:28",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "New York Times",
+      "title": "Gas Prices May Remain High Despite US-Iran Deal",
+      "description": "The preliminary agreement may not have an immediate effect on prices at the pump. Damaged infrastructure and risky transport could keep costs up.",
+      "url": "https://www.nytimes.com/2026/06/16/business/energy-environment/us-iran-deal-gas-prices.html",
+      "publishedAt": "2026-06-16T09:00:28",
+      "content": "The preliminary agreement may not have an immediate effect on prices at the pump. Damaged infrastructure and risky transport could keep costs up."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Months After a Jet Fuel Leak, No Agency Tested Waters Downstream of Piscataway Creek. So Community Groups Are Doing It Themselves.",
+      "description": "In the five months after jet fuel started leaking from Joint Base Andrews into Piscataway Creek, no agency tested the water or sediment some 20 miles downstream, where the creek empties into the Po...",
+      "url": "https://insideclimatenews.org/news/16062026/joint-base-andrews-piscataway-creek-fuel-leak-water-testing/",
+      "publishedAt": "2026-06-16T09:00:00",
+      "content": "In the five months after jet fuel started leaking from Joint Base Andrews into Piscataway Creek, no agency tested the water or sediment some 20 miles downstream, where the creek empties into the Po..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "AI could help win ‘race against extinction’ of vital plants, say botanists",
+      "description": "Tech is helping to identify and save new specimens and could open ‘genomic goldmine’ of fungi dataThe rise of AI and digitisation could be a turning point in the “race against extinction” faced by ...",
+      "url": "https://www.theguardian.com/environment/2026/jun/16/ai-could-help-win-race-against-extinction-of-vital-plants-say-botanists",
+      "publishedAt": "2026-06-16T06:00:48",
+      "content": "Tech is helping to identify and save new specimens and could open ‘genomic goldmine’ of fungi dataThe rise of AI and digitisation could be a turning point in the “race against extinction” faced by ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The bat that weighs the same as a teaspoon of salt – and the biologist who rediscovered it",
+      "description": "The short-tailed roundleaf bat was feared extinct until scientist Iroro Tanshi found one in Afi sanctuary in Nigeria, and set out to protect the only confirmed roosting colonyJust after sunrise, a ...",
+      "url": "https://www.theguardian.com/environment/2026/jun/16/iroro-tanshi-biologist-rediscovered-short-tailed-roundleaf-bat-teaspoon-salt-aoe",
+      "publishedAt": "2026-06-16T06:00:48",
+      "content": "The short-tailed roundleaf bat was feared extinct until scientist Iroro Tanshi found one in Afi sanctuary in Nigeria, and set out to protect the only confirmed roosting colonyJust after sunrise, a ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Backlash against ‘short-termist’ UK plans to weaken EV sales targets",
+      "description": "Charging industry and electric vehicle manufacturers say measure could cost jobs and harm UK automotive sector The UK government’s plans to further weaken electric car targets have provoked a furio...",
+      "url": "https://www.theguardian.com/environment/2026/jun/15/backlash-uk-plans-weaken-ev-sales-targets-electric-vehicle-manufacturers-automotive-sector",
+      "publishedAt": "2026-06-15T16:05:57",
+      "content": "Charging industry and electric vehicle manufacturers say measure could cost jobs and harm UK automotive sector The UK government’s plans to further weaken electric car targets have provoked a furio..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis",
+      "description": "The pace of the recovery will depend on how confident companies are that the deal between the United States and Iran will hold and be extended.",
+      "url": "https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html",
+      "publishedAt": "2026-06-15T15:52:15",
+      "content": "The pace of the recovery will depend on how confident companies are that the deal between the United States and Iran will hold and be extended."
     },
     {
       "source": {
@@ -131,7 +263,7 @@
       "title": "Tensions Are Rising Between States That Rely on the Colorado River",
       "description": "A prolonged drought means the nation’s largest reservoirs are dwindling, and litigation over access to water could lie ahead.",
       "url": "https://www.nytimes.com/2026/06/15/climate/colorado-river-drought-states.html",
-      "publishedAt": "2026-06-15T11:27:56",
+      "publishedAt": "2026-06-15T15:17:07",
       "content": "A prolonged drought means the nation’s largest reservoirs are dwindling, and litigation over access to water could lie ahead."
     },
     {
@@ -139,44 +271,55 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "In Alabama, Opposition to Renewable Solar Energy Joins a Data Center Battle",
-      "description": "Tuesday’s runoff for a slot on the Alabama Public Service Commission has a familiar ring to it, with talk of data centers and electricity costs.",
-      "url": "https://www.nytimes.com/2026/06/15/us/elections/alabama-election-data-centers-solar-power.html",
-      "publishedAt": "2026-06-15T09:02:11",
-      "content": "Tuesday’s runoff for a slot on the Alabama Public Service Commission has a familiar ring to it, with talk of data centers and electricity costs."
+      "title": "Hazardous Temperatures Forecast for Many World Cup Games",
+      "description": "Many of the tournament’s host cities risk hitting dangerous heat levels this year, raising questions about the safety of players and fans.",
+      "url": "https://www.nytimes.com/2026/06/11/climate/world-cup-heat.html",
+      "publishedAt": "2026-06-15T15:05:00",
+      "content": "Many of the tournament’s host cities risk hitting dangerous heat levels this year, raising questions about the safety of players and fans."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Weather tracker: Saharan heat to send temperatures soaring across Europe",
-      "description": "Heatwave conditions build over much of continent, while mild start to winter continues in parts of AustraliaHot weather is expected across Europe this week as heatwave conditions build over large s...",
-      "url": "https://www.theguardian.com/environment/2026/jun/15/weather-tracker-sahara-heatwave-temperatures-europe-australia",
-      "publishedAt": "2026-06-15T08:34:19",
-      "content": "Heatwave conditions build over much of continent, while mild start to winter continues in parts of AustraliaHot weather is expected across Europe this week as heatwave conditions build over large s..."
+      "author": "ESG Today",
+      "title": "EU Member States Agree to Expand CBAM Carbon Import Tax to Downstream Products",
+      "description": "The European Council announced an agreement by EU member states on a series of proposed",
+      "url": "https://www.esgtoday.com/eu-member-states-agree-to-expand-cbam-carbon-import-tax-to-downstream-products/?utm_source=rss&utm_medium=rss&utm_campaign=eu-member-states-agree-to-expand-cbam-carbon-import-tax-to-downstream-products",
+      "publishedAt": "2026-06-15T10:01:53",
+      "content": "The European Council announced an agreement by EU member states on a series of proposed"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Country diary: Our island’s wandering wallabies come at a cost | Tim Earl",
-      "description": "Ballaugh, Isle of Man: As I discover, spotting one of these marsupials isn’t hard.",
-      "url": "https://www.theguardian.com/environment/2026/jun/15/country-diary-our-islands-wandering-wallabies-come-at-a-cost",
-      "publishedAt": "2026-06-15T04:30:02",
-      "content": "Ballaugh, Isle of Man: As I discover, spotting one of these marsupials isn’t hard."
+      "author": "CSRWire",
+      "title": "Ask Nature Podcast Episode 3: Tristan Gooley, Author and Natural Navigator",
+      "description": "Tristan Gooley, author and natural navigator, is featured in this week's Ask Nature Podcast.",
+      "url": "https://csrwire.com/press-release/ask-nature-podcast-episode-3-tristan-gooley-author-and-natural-navigator/",
+      "publishedAt": "2026-06-15T09:40:00",
+      "content": "Tristan Gooley, author and natural navigator, is featured in this week's Ask Nature Podcast."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "‘People start connecting the dots’: why an investment fund is rewilding a North Yorkshire estate",
-      "description": "Rebalance Earth is investing in Broughton Sanctuary to generate financial, environmental and social returnsFrom a high point on the hill, the North Yorkshire landscape unrolls below. The moorland a...",
-      "url": "https://www.theguardian.com/environment/2026/jun/14/why-investment-fund-rewilding-north-yorkshire-estate-rebalance-earth",
-      "publishedAt": "2026-06-14T11:00:41",
-      "content": "Rebalance Earth is investing in Broughton Sanctuary to generate financial, environmental and social returnsFrom a high point on the hill, the North Yorkshire landscape unrolls below. The moorland a..."
+      "author": "CSRWire",
+      "title": "IWBI President and CEO Rachel Hodgdon to Deliver Keynote on the Future of Healthy Indoor Air at Indoor Air 2026 in Singapore",
+      "description": "At the 19th International Conference of the International Society of Indoor Air Quality and Climate, Indoor Air 2026, IWBI President and CEO Rachel Hodgdon will deliver a keynote outlining why indo...",
+      "url": "https://csrwire.com/press-release/iwbi-president-and-ceo-rachel-hodgdon-deliver-keynote-future-healthy-indoor-air-indoor-air/",
+      "publishedAt": "2026-06-12T09:50:00",
+      "content": "At the 19th International Conference of the International Society of Indoor Air Quality and Climate, Indoor Air 2026, IWBI President and CEO Rachel Hodgdon will deliver a keynote outlining why indo..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pandemic Roulette",
+      "description": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never...",
+      "url": "https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/",
+      "publishedAt": "2026-06-14T08:50:00",
+      "content": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never..."
     },
     {
       "source": {
@@ -202,80 +345,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Triple Pundit"
       },
-      "author": "ESG Today",
-      "title": "Microsoft Signs ERW Carbon Removal Deal in India with Alt Carbon",
-      "description": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,",
-      "url": "https://www.esgtoday.com/microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-erw-carbon-removal-deal-in-india-with-alt-carbon",
-      "publishedAt": "2026-06-12T09:03:22",
-      "content": "India-based climate tech startup Alt Carbon and Microsoft announced a new multi-year carbon removal deal,"
+      "author": "Triple Pundit",
+      "title": "America’s Re-Industrialization Hits a Speed Bump",
+      "description": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit",
+      "url": "https://triplepundit.com/2026/inola-oklahoma-aluminum-plant-trump-mazzei/",
+      "publishedAt": "2026-06-11T19:06:03",
+      "content": "Planning for the United States' first new aluminum plant in almost 50 years is underway in Oklahoma, but local opposition is mounting. TriplePundit"
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Pandemic Roulette",
-      "description": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never...",
-      "url": "https://insideclimatenews.org/news/14062026/icn-sunday-morning-pandemic-roulette/",
-      "publishedAt": "2026-06-14T08:50:00",
-      "content": "Billions of live animals move through the legal and illegal wildlife trade, a massive industry a former CDC epidemiologist described as “pandemic roulette.” Traded animals move to places they never..."
+      "author": "CSRWire",
+      "title": "CNH Partners With Pidthong Lang Phra Foundation To Advance Rural Development in Thailand",
+      "description": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives.",
+      "url": "https://csrwire.com/press-release/cnh-partners-pidthong-lang-phra-foundation-advance-rural-development-thailand/",
+      "publishedAt": "2026-06-11T12:00:00",
+      "content": "Under this three-year cooperative framework, CNH provides agricultural equipment—including tractors, front blades, ploughs and harrows, to support community-led development initiatives."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "A Commercial Space Race Prompts a Thorny Question: Who Owns the Sky?",
-      "description": "The starry night sky has always anchored humanity’s sense of place in a vast universe.",
-      "url": "https://insideclimatenews.org/news/13062026/commercial-satellite-space-race-pollution/",
-      "publishedAt": "2026-06-13T09:00:00",
-      "content": "The starry night sky has always anchored humanity’s sense of place in a vast universe."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Massive Volunteer Network in Florida Works to Save Endangered Sea Turtles",
-      "description": "“Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope.",
-      "url": "https://insideclimatenews.org/news/13062026/florida-volunteers-work-to-save-endangered-sea-turtles/",
-      "publishedAt": "2026-06-13T08:55:00",
-      "content": "“Pull! Pull!” shouts Scott Dexter, chanting the cadence for eight men gripping a rope."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Trees may store less planet-heating carbon than hoped, study suggests",
-      "description": "Photosynthesis does not always result in wood growth, a key factor in carbon dioxide sequestrationTrees may not be able to store as much planet-heating carbon as hoped, a study suggests, with resea...",
-      "url": "https://www.theguardian.com/environment/2026/jun/13/trees-store-less-carbon-than-thought-study",
-      "publishedAt": "2026-06-13T04:00:04",
-      "content": "Photosynthesis does not always result in wood growth, a key factor in carbon dioxide sequestrationTrees may not be able to store as much planet-heating carbon as hoped, a study suggests, with resea..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "NOAA Issues El Nino Advisory",
-      "description": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes.",
-      "url": "https://www.nytimes.com/2026/06/11/climate/el-nino-noaa.html",
-      "publishedAt": "2026-06-12T07:59:20",
-      "content": "The global weather pattern threatens to worsen floods and heat waves already intensifying due to climate change. But it may also mean fewer hurricanes."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon Launches Carbon Credit Sourcing Service for UK Suppliers, Enterprise Customers",
-      "description": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling",
-      "url": "https://www.esgtoday.com/amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-carbon-credit-sourcing-service-for-uk-suppliers-enterprise-customers",
-      "publishedAt": "2026-06-11T14:19:03",
-      "content": "Amazon announced the expansion of its carbon credit service to the UK, aimed at enabling"
+      "author": "CSRWire",
+      "title": "Tetra Pak® Unveils Next-Level Efficiency, Convenience and Shelf Impact With the New 48 oz Size Tetra Brik® Aseptic Edge Carton",
+      "description": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin...",
+      "url": "https://csrwire.com/press-release/tetra-pakr-unveils-next-level-efficiency-convenience-and-shelf-impact-new-48-oz-size-tetra/",
+      "publishedAt": "2026-06-11T10:00:00",
+      "content": "Originally designed to meet the accelerated growth needs of the premium dairy segment, this new offering also serves the juice, plant-based and ready-to-drink coffee beverage categories by combinin..."
     },
     {
       "source": {
@@ -290,14 +389,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Indonesia Landslides Devastated Endangered Orangutans, Study Finds",
-      "description": "More than 5 percent of the species is estimated to have been lost when a climate-fueled storm unleashed torrents of water, mud and debris.",
-      "url": "https://www.nytimes.com/2026/06/10/climate/indonesia-floods-organgutans.html",
-      "publishedAt": "2026-06-10T17:48:13",
-      "content": "More than 5 percent of the species is estimated to have been lost when a climate-fueled storm unleashed torrents of water, mud and debris."
+      "author": "CSRWire",
+      "title": "3M Innovates To Help the Automotive Industry Navigate What’s Ahead",
+      "description": "The automotive industry is under pressure from every direction.",
+      "url": "https://csrwire.com/press-release/3m-innovates-help-automotive-industry-navigate-whats-ahead/",
+      "publishedAt": "2026-06-10T15:35:00",
+      "content": "The automotive industry is under pressure from every direction."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Connected Equipment is Protecting Louisiana’s Drivers",
+      "description": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana.",
+      "url": "https://csrwire.com/press-release/connected-equipment-protecting-louisianas-drivers/",
+      "publishedAt": "2026-06-10T09:40:00",
+      "content": "The Ray has released a new ArcGIS StoryMap case study, Digital Work Zone Safety: Connected Equipment in Louisiana."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Cities Are Rehearsing For Deadly Heat. Will It Help When Disaster Comes?",
+      "description": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit",
+      "url": "https://triplepundit.com/2026/extreme-heat-emergency-response-disaster-preparedness-paris-barcelona/",
+      "publishedAt": "2026-06-09T20:39:36",
+      "content": "As heat waves grow longer and deadlier, cities around the world are using drills and tabletop exercises to expose weaknesses before a real emergency strikes.TriplePundit"
     }
   ]
 }
