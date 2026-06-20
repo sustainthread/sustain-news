@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 24,
   "articles": [
     {
       "source": {
@@ -40,6 +40,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Equinor Drops Renewable Energy Goal: “Seen for Several Years We Won’t Reach that Target”",
+      "description": "Norway-based energy company Equinor has retired its target to reach 10 – 12 GW of",
+      "url": "https://www.esgtoday.com/equinor-drops-renewable-energy-goals-seen-for-several-years-we-wont-reach-that-target/?utm_source=rss&utm_medium=rss&utm_campaign=equinor-drops-renewable-energy-goals-seen-for-several-years-we-wont-reach-that-target",
+      "publishedAt": "2026-06-19T10:27:24",
+      "content": "Norway-based energy company Equinor has retired its target to reach 10 – 12 GW of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "BoE Integrates Net Zero Transition Risk into Collateral Framework",
       "description": "The Bank of England (BoE) issued a new Market Notice outlining changes to its collateral",
       "url": "https://www.esgtoday.com/boe-integrates-net-zero-transition-risk-into-collateral-framework/?utm_source=rss&utm_medium=rss&utm_campaign=boe-integrates-net-zero-transition-risk-into-collateral-framework",
@@ -48,14 +59,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Kenvue, Maker of Neutrogena®, Aveeno®, OGX®, and Zyrtec®, Beats 2025 Packaging Goal, Demonstrates Continued Progress With More Sustainable Innovation",
-      "description": "Kenvue released its 2025 Healthy Lives Mission Report today, the Company's third annual report, with an update on its sustainability strategy, goals, and commitments.",
-      "url": "https://csrwire.com/press-release/kenvue-maker-neutrogenar-aveenor-ogxr-and-zyrtecr-beats-2025-packaging-goal-demonstrates/",
-      "publishedAt": "2026-06-16T10:00:00",
-      "content": "Kenvue released its 2025 Healthy Lives Mission Report today, the Company's third annual report, with an update on its sustainability strategy, goals, and commitments."
+      "author": "New York Times",
+      "title": "Is Climate Change Supercharging El Niño?",
+      "description": "As a new, potentially record-breaking El Niño begins, researchers are vigorously debating whether climate change is driving the phenomenon’s intensity.",
+      "url": "https://www.nytimes.com/2026/06/19/climate/climate-change-el-nino.html",
+      "publishedAt": "2026-06-19T15:52:14",
+      "content": "As a new, potentially record-breaking El Niño begins, researchers are vigorously debating whether climate change is driving the phenomenon’s intensity."
     },
     {
       "source": {
@@ -81,17 +92,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Is Climate Change Supercharging El Niño?",
-      "description": "As a new, potentially record-breaking El Niño begins, researchers are vigorously debating whether climate change is driving the phenomenon’s intensity.",
-      "url": "https://www.nytimes.com/2026/06/19/climate/is-climate-change-supercharging-el-nino-scientists-dont-agree.html",
-      "publishedAt": "2026-06-19T09:00:47",
-      "content": "As a new, potentially record-breaking El Niño begins, researchers are vigorously debating whether climate change is driving the phenomenon’s intensity."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -100,17 +100,6 @@
       "url": "https://insideclimatenews.org/news/18062026/latest-un-climate-talks-marked-by-sidestepping-stalling/",
       "publishedAt": "2026-06-18T20:22:51",
       "content": "The United States did not send a federal government delegation to the latest round of high-level global climate negotiations in Bonn, Germany, but the current administration’s foreign and economic ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Shifting Politics of Climate Change",
-      "description": "A new poll suggests Republicans may be more movable on climate change than previously thought, plus more climate news.",
-      "url": "https://www.nytimes.com/2026/06/18/climate/the-shifting-politics-of-climate-change.html",
-      "publishedAt": "2026-06-18T18:36:02",
-      "content": "A new poll suggests Republicans may be more movable on climate change than previously thought, plus more climate news."
     },
     {
       "source": {
@@ -128,44 +117,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "How the world’s voracious appetite for shrimp is destroying Ecuador’s mangroves",
-      "description": "As demand soars, the country’s mangrove forests and the livelihoods of shellfish gatherers are under threat from encroaching farms and unchecked pollutionAt low tide, Johana Carolina Cruz Potes ste...",
-      "url": "https://www.theguardian.com/global-development/2026/jun/19/world-appetite-shrimp-destroying-ecuador-mangroves",
-      "publishedAt": "2026-06-19T10:00:29",
-      "content": "As demand soars, the country’s mangrove forests and the livelihoods of shellfish gatherers are under threat from encroaching farms and unchecked pollutionAt low tide, Johana Carolina Cruz Potes ste..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "My trip to meet the scientists trying to refreeze the Arctic",
-      "description": "In this week’s newsletter: The melting of the Arctic’s summer sea ice is the most visible upshot of the climate crisis.",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/scientists-refreeze-arctic-melting-sea-ice",
-      "publishedAt": "2026-06-19T06:00:26",
-      "content": "In this week’s newsletter: The melting of the Arctic’s summer sea ice is the most visible upshot of the climate crisis."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: These oysters are destined – we hope – for great things | Claire Stares",
-      "description": "Portsmouth, Hampshire: A huge conservation effort is under way to restore native oysters to the Solent, and I was on hand to help give them a pre-release spa dayNative oysters (Ostrea edulis) have ...",
-      "url": "https://www.theguardian.com/environment/2026/jun/19/country-diary-these-oysters-are-destined-we-hope-for-great-things",
-      "publishedAt": "2026-06-19T04:30:22",
-      "content": "Portsmouth, Hampshire: A huge conservation effort is under way to restore native oysters to the Solent, and I was on hand to help give them a pre-release spa dayNative oysters (Ostrea edulis) have ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Clean Fuel Startup Kvasir Raises €10 Million to Decarbonize Marine Transport",
-      "description": "Danish biofuel startup Kvasir Technologies announced today that it has raised €10 million (USD$11.1 million)",
-      "url": "https://www.esgtoday.com/clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport/?utm_source=rss&utm_medium=rss&utm_campaign=clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport",
-      "publishedAt": "2026-06-18T11:01:42",
-      "content": "Danish biofuel startup Kvasir Technologies announced today that it has raised €10 million (USD$11.1 million)"
+      "title": "Can we electrify the world? Ambition moves from nerdish backwater to centre stage",
+      "description": "Apart from effort to electrify, there were geopolitical tensions around climate science and the 1.",
+      "url": "https://www.theguardian.com/environment/2026/jun/20/electrification-takes-centre-stage-bonn-climate-talks",
+      "publishedAt": "2026-06-20T04:00:51",
+      "content": "Apart from effort to electrify, there were geopolitical tensions around climate science and the 1."
     },
     {
       "source": {
@@ -177,17 +133,6 @@
       "url": "https://www.esgtoday.com/vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology/?utm_source=rss&utm_medium=rss&utm_campaign=vertoro-raises-20-million-to-scale-plant-based-clean-fuel-technology",
       "publishedAt": "2026-06-18T07:40:35",
       "content": "Climate technology startup Vertoro announced today that it has secured €17 million (USD$19.7 million) in its"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "British Airways Signs SAF Purchase Deal Avoiding Nearly 200,000 Tonnes of Carbon Emissions",
-      "description": "Biofuels producer EcoCeres announced a new multi-year sustainable aviation fuel (SAF) transaction with British Airways,",
-      "url": "https://www.esgtoday.com/british-airways-signs-saf-purchase-deal-avoiding-nearly-200000-tonnes-of-carbon-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=british-airways-signs-saf-purchase-deal-avoiding-nearly-200000-tonnes-of-carbon-emissions",
-      "publishedAt": "2026-06-17T15:12:59",
-      "content": "Biofuels producer EcoCeres announced a new multi-year sustainable aviation fuel (SAF) transaction with British Airways,"
     },
     {
       "source": {
@@ -221,6 +166,39 @@
       "url": "https://goodonyou.eco/sustainable-denim-brands-made-in-the-us/",
       "publishedAt": "2026-06-15T00:00:04",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Kidney cancer rates near Pfas factory in Lancashire a ‘major source of concern’",
+      "description": "Experts cast doubt on conclusion of government-funded study of factory emitting forever chemicals near BlackpoolQuestions have been raised about the conclusions drawn by a government-funded study i...",
+      "url": "https://www.theguardian.com/environment/2026/jun/19/factory-forever-chemicals-kidney-cancer-blackpool",
+      "publishedAt": "2026-06-19T13:42:25",
+      "content": "Experts cast doubt on conclusion of government-funded study of factory emitting forever chemicals near BlackpoolQuestions have been raised about the conclusions drawn by a government-funded study i..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "My trip to meet the scientists trying to refreeze the Arctic",
+      "description": "In this week’s newsletter: The melting of the Arctic’s summer sea ice is the most visible upshot of the climate crisis.",
+      "url": "https://www.theguardian.com/environment/2026/jun/19/scientists-refreeze-arctic-melting-sea-ice",
+      "publishedAt": "2026-06-19T06:00:26",
+      "content": "In this week’s newsletter: The melting of the Arctic’s summer sea ice is the most visible upshot of the climate crisis."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Clean Fuel Startup Kvasir Raises €10 Million to Decarbonize Marine Transport",
+      "description": "Danish biofuel startup Kvasir Technologies announced today that it has raised €10 million (USD$11.1 million)",
+      "url": "https://www.esgtoday.com/clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport/?utm_source=rss&utm_medium=rss&utm_campaign=clean-fuel-startup-kvasir-raises-e10-million-to-decarbonize-marine-transport",
+      "publishedAt": "2026-06-18T11:01:42",
+      "content": "Danish biofuel startup Kvasir Technologies announced today that it has raised €10 million (USD$11.1 million)"
     },
     {
       "source": {
@@ -279,72 +257,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ask Nature Podcast Episode 4: Julia Watson",
-      "description": "Julia Watson, landscape architect, author and teacher, is featured in this week's Ask Nature Podcast.",
-      "url": "https://csrwire.com/press-release/ask-nature-podcast-episode-4-julia-watson/",
-      "publishedAt": "2026-06-18T09:40:00",
-      "content": "Julia Watson, landscape architect, author and teacher, is featured in this week's Ask Nature Podcast."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Building a World-Class Employee Experience | Cisco FY25 Purpose Report",
-      "description": "The world of work is changing faster than ever, but our greatest strength remains our Cisconians.",
-      "url": "https://csrwire.com/press-release/building-world-class-employee-experience-cisco-fy25-purpose-report/",
-      "publishedAt": "2026-06-18T09:05:00",
-      "content": "The world of work is changing faster than ever, but our greatest strength remains our Cisconians."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Home Field Advantage: Seizing Philadelphia’s Greatest Moments",
-      "description": "Philadelphia holds a unique place in the American story.",
-      "url": "https://csrwire.com/press-release/home-field-advantage-seizing-philadelphias-greatest-moments/",
-      "publishedAt": "2026-06-17T12:30:00",
-      "content": "Philadelphia holds a unique place in the American story."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "FedEx & Heart to Heart: Strengthening Disaster Response",
-      "description": "When we think of disaster relief, we often picture the immediate aftermath: delivering critical supplies and life-saving aid to affected communities.",
-      "url": "https://csrwire.com/press-release/fedex-heart-heart-strengthening-disaster-response/",
-      "publishedAt": "2026-06-17T11:00:00",
-      "content": "When we think of disaster relief, we often picture the immediate aftermath: delivering critical supplies and life-saving aid to affected communities."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Skills-Based Volunteering for the AI Era: Inside Cisco’s First Tech for Social Good Hackathon",
-      "description": "Many nonprofits know they need to embrace AI, and most are already feeling the pressure to move faster than their resources allow.",
-      "url": "https://csrwire.com/press-release/skills-based-volunteering-ai-era-inside-ciscos-first-tech-social-good-hackathon/",
-      "publishedAt": "2026-06-16T13:05:00",
-      "content": "Many nonprofits know they need to embrace AI, and most are already feeling the pressure to move faster than their resources allow."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "A ‘Reforestation Pipeline’ in New Mexico Trains Seedlings to Survive in Burn Scars",
-      "description": "Increasing heat and drought are killing young pines planted on ground scorched by wildfires. Can seeds from the toughest trees grown in boot camp nurseries better endure?TriplePundit",
-      "url": "https://triplepundit.com/2026/reforestation-calf-canyon-hermits-peak-wildfire-new-mexico/",
-      "publishedAt": "2026-06-16T13:00:00",
-      "content": "Increasing heat and drought are killing young pines planted on ground scorched by wildfires. Can seeds from the toughest trees grown in boot camp nurseries better endure?TriplePundit"
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -353,39 +265,6 @@
       "url": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-17T23:11:29",
       "content": "The structure consisted of two posts that lined up with the solstices 5,000 years ago."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Tensions Are Rising Among States That Rely on the Colorado River",
-      "description": "A prolonged drought means the nation’s largest reservoirs are dwindling, and litigation over access to water could lie ahead.",
-      "url": "https://www.nytimes.com/2026/06/15/climate/colorado-river-drought-states.html",
-      "publishedAt": "2026-06-16T12:34:15",
-      "content": "A prolonged drought means the nation’s largest reservoirs are dwindling, and litigation over access to water could lie ahead."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "United Nations Federal Credit Union Publishes 2025 Impact Report",
-      "description": "The United Nations Federal Credit Union, UNFCU, announced the release of its 2025 Impact Report.",
-      "url": "https://csrwire.com/press-release/united-nations-federal-credit-union-publishes-2025-impact-report/",
-      "publishedAt": "2026-06-15T12:40:00",
-      "content": "The United Nations Federal Credit Union, UNFCU, announced the release of its 2025 Impact Report."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ask Nature Podcast Episode 3: Tristan Gooley, Author and Natural Navigator",
-      "description": "Tristan Gooley, author and natural navigator, is featured in this week's Ask Nature Podcast.",
-      "url": "https://csrwire.com/press-release/ask-nature-podcast-episode-3-tristan-gooley-author-and-natural-navigator/",
-      "publishedAt": "2026-06-15T09:40:00",
-      "content": "Tristan Gooley, author and natural navigator, is featured in this week's Ask Nature Podcast."
     }
   ]
 }
