@@ -1,7 +1,40 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 32,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weakening UK net zero policy would damage economy, chief climate adviser says",
+      "description": "Climate Change Committee chair Nigel Topping says U-turns damage investor confidence and disrupt businessesWeakening the UK’s net zero policy would disrupt business and damage the economy, the UK’s...",
+      "url": "https://www.theguardian.com/environment/2026/jun/24/weakening-net-zero-policy-damage-economy-climate-change-committee",
+      "publishedAt": "2026-06-23T23:01:29",
+      "content": "Climate Change Committee chair Nigel Topping says U-turns damage investor confidence and disrupt businessesWeakening the UK’s net zero policy would disrupt business and damage the economy, the UK’s..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Sonowal launches five initiatives at VOC Port to advance green, digital and educational goals",
+      "description": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme",
+      "url": "https://www.thehindu.com/news/national/sonowal-launches-five-initiatives-at-voc-port-to-advance-green-digital-and-educational-goals/article71137396.ece",
+      "publishedAt": "2026-06-23T13:35:04",
+      "content": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This June 2026",
+      "description": "Feature image: Harvest & Mill.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-06-22T22:00:45",
+      "content": "Feature image: Harvest & Mill."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -15,25 +48,36 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This June 2026",
-      "description": "Feature image: Harvest & Mill.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-06-17T22:00:45",
-      "content": "Feature image: Harvest & Mill."
+      "author": "ESG Today",
+      "title": "EBA Simplifies ESG Reporting for Banks, Extends Disclosure Requirements to Smaller Institutions for First Time",
+      "description": "EU banking supervisor The European Banking Authority (EBA) announced the publication of its finalized draft",
+      "url": "https://www.esgtoday.com/eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time/?utm_source=rss&utm_medium=rss&utm_campaign=eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time",
+      "publishedAt": "2026-06-23T11:10:28",
+      "content": "EU banking supervisor The European Banking Authority (EBA) announced the publication of its finalized draft"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Climate Change News"
       },
-      "author": "Good On You",
-      "title": "56 More Affordable Sustainable Fashion Brands",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/affordable-sustainable-fashion-brands/",
-      "publishedAt": "2026-06-17T00:00:15",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Climate Change News",
+      "title": "Bonn climate talks end in “gridlock” on adaptation and emissions-cutting",
+      "description": "Splits between developed and developing countries over finance and science held back progress on key areas of climate action, leaving disappointment and much work for COP31\nThe post Bonn climate ta...",
+      "url": "https://www.climatechangenews.com/2026/06/18/bonn-climate-talks-end-in-gridlock-on-adaptation-and-emissions-cutting-work/",
+      "publishedAt": "2026-06-18T22:58:14",
+      "content": "Splits between developed and developing countries over finance and science held back progress on key areas of climate action, leaving disappointment and much work for COP31\nThe post Bonn climate ta..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Hard-right figures take aim at Ed Miliband and UK net zero policies at ‘anti-woke Davos’",
+      "description": "Kemi Badenoch, who joined US anti-abortion activists and European far-right parties at ARC, described energy secretary as a ‘villain’Britain’s net zero policies and the energy secretary, Ed Miliban...",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/populist-and-rightwing-figures-take-aim-at-ed-miliband-and-uk-net-zero-policies-at-anti-woke-davos",
+      "publishedAt": "2026-06-23T18:45:57",
+      "content": "Kemi Badenoch, who joined US anti-abortion activists and European far-right parties at ARC, described energy secretary as a ‘villain’Britain’s net zero policies and the energy secretary, Ed Miliban..."
     },
     {
       "source": {
@@ -59,25 +103,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Climate Change News"
       },
-      "author": "The Guardian",
-      "title": "Ed Miliband to say UK must stick to net zero targets to deliver jobs and growth",
-      "description": "Energy secretary expected to argue that UK clean economy is booming as private sector pledges over £100bn of investmentEd Miliband is to say that the UK must stick to net zero targets to deliver jo...",
-      "url": "https://www.theguardian.com/environment/2026/jun/23/ed-miliband-uk-must-stick-net-zero-targets-deliver-jobs-growth",
-      "publishedAt": "2026-06-23T07:00:34",
-      "content": "Energy secretary expected to argue that UK clean economy is booming as private sector pledges over £100bn of investmentEd Miliband is to say that the UK must stick to net zero targets to deliver jo..."
+      "author": "Climate Change News",
+      "title": "UN asks AI companies to reveal full environmental impacts",
+      "description": "UN chief António Guterres says big AI firms should disclose the emissions, water and energy use of their data centres amid community opposition\nThe post UN asks AI companies to reveal full environm...",
+      "url": "https://www.climatechangenews.com/2026/06/23/un-ai-firms-to-reveal-full-environmental-impacts-data-centres-water-energy/",
+      "publishedAt": "2026-06-23T17:18:44",
+      "content": "UN chief António Guterres says big AI firms should disclose the emissions, water and energy use of their data centres amid community opposition\nThe post UN asks AI companies to reveal full environm..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "Equinor Drops Renewable Energy Goal: “Seen for Several Years We Won’t Reach that Target”",
-      "description": "Norway-based energy company Equinor has retired its target to reach 10 – 12 GW of",
-      "url": "https://www.esgtoday.com/equinor-drops-renewable-energy-goals-seen-for-several-years-we-wont-reach-that-target/?utm_source=rss&utm_medium=rss&utm_campaign=equinor-drops-renewable-energy-goals-seen-for-several-years-we-wont-reach-that-target",
-      "publishedAt": "2026-06-19T10:27:24",
-      "content": "Norway-based energy company Equinor has retired its target to reach 10 – 12 GW of"
+      "author": "Climate Change News",
+      "title": "China’s coal-chemicals boom risks repeating the mistakes of the past",
+      "description": "By reviving the problematic industry in the name of energy security, China runs the risk of higher emissions, stranded assets and setting back its ambitions as a clean energy leader\nThe post China’...",
+      "url": "https://www.climatechangenews.com/2026/06/22/chinas-coal-chemicals-boom-risks-repeating-the-mistakes-of-the-past/",
+      "publishedAt": "2026-06-22T21:02:01",
+      "content": "By reviving the problematic industry in the name of energy security, China runs the risk of higher emissions, stranded assets and setting back its ambitions as a clean energy leader\nThe post China’..."
     },
     {
       "source": {
@@ -103,69 +147,47 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "Environmental Defenders Remain Among World’s Most Targeted Activists",
-      "description": "Environmental and Indigenous rights defenders remained among the world’s most targeted human rights advocates in 2025, despite landmark rulings by international courts affirming governments’ obliga...",
-      "url": "https://insideclimatenews.org/news/22062026/environmental-defenders-are-increasingly-targeted/",
-      "publishedAt": "2026-06-22T09:00:00",
-      "content": "Environmental and Indigenous rights defenders remained among the world’s most targeted human rights advocates in 2025, despite landmark rulings by international courts affirming governments’ obliga..."
+      "author": "ESG Today",
+      "title": "Amazon Achieves Water Positive Goal in India Ahead of 2027 Target",
+      "description": "Amazon announced that it has become water positive in India, achieving its goal of returning",
+      "url": "https://www.esgtoday.com/amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target",
+      "publishedAt": "2026-06-24T08:25:25",
+      "content": "Amazon announced that it has become water positive in India, achieving its goal of returning"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Is Climate Change Supercharging El Niño?",
-      "description": "As a new, potentially record-breaking El Niño begins, researchers are vigorously debating whether climate change is driving the phenomenon’s intensity.",
-      "url": "https://www.nytimes.com/2026/06/19/climate/climate-change-el-nino.html",
-      "publishedAt": "2026-06-22T02:05:11",
-      "content": "As a new, potentially record-breaking El Niño begins, researchers are vigorously debating whether climate change is driving the phenomenon’s intensity."
+      "author": "The Guardian",
+      "title": "Adidas, Uniqlo and Calvin Klein ads in UK banned over ‘recycled’ clothing claims",
+      "description": "UK regulator has increased its scrutiny of fashion retailers over potentially misleading environmental statementsAds for Calvin Klein, Adidas and Uniqlo promoting “recycled” clothing and shoes have...",
+      "url": "https://www.theguardian.com/business/2026/jun/24/adidas-uniqlo-calvin-klein-ads-banned-asa-uk-recycled",
+      "publishedAt": "2026-06-23T23:01:28",
+      "content": "UK regulator has increased its scrutiny of fashion retailers over potentially misleading environmental statementsAds for Calvin Klein, Adidas and Uniqlo promoting “recycled” clothing and shoes have..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "ESG Today: Week in Review",
-      "description": "This week in ESG news: ISO releases proposed net zero standard; EQT signs record sustainability-linked",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-266/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-266",
-      "publishedAt": "2026-06-21T07:50:44",
-      "content": "This week in ESG news: ISO releases proposed net zero standard; EQT signs record sustainability-linked"
+      "title": "LEGO Launches Solar Project to Provide 100% of Electricity for Denmark Headquarters",
+      "description": "The LEGO Group announced the launch of construction of its largest solar park to date",
+      "url": "https://www.esgtoday.com/lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters/?utm_source=rss&utm_medium=rss&utm_campaign=lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters",
+      "publishedAt": "2026-06-23T12:10:08",
+      "content": "The LEGO Group announced the launch of construction of its largest solar park to date"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Daimler, KEYOU Plan Hydrogen Combustion-Powered Truck Launch in 2027",
-      "description": "Global truck manufacturer Daimler Truck and Munich-based hydrogen engine technology company KEYOU and announced today",
-      "url": "https://www.esgtoday.com/daimler-plans-hydrogen-combustion-powered-truck-launch-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=daimler-plans-hydrogen-combustion-powered-truck-launch-in-2027",
-      "publishedAt": "2026-06-23T07:46:50",
-      "content": "Global truck manufacturer Daimler Truck and Munich-based hydrogen engine technology company KEYOU and announced today"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI CEO Rachel Hodgdon To Speak at Aspen Ideas: Health on the Critical Role of Healthy Buildings in Advancing Public Health",
-      "description": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI), will join leading experts in public health, architecture and healthy buildings",
-      "url": "https://csrwire.com/press-release/iwbi-ceo-rachel-hodgdon-speak-aspen-ideas-health-critical-role-healthy-buildings-advancing/",
-      "publishedAt": "2026-06-22T14:45:00",
-      "content": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI), will join leading experts in public health, architecture and healthy buildings"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Ray Directs National Strategy for Transportation Digital Infrastructure",
-      "description": "The Ray has delivered a comprehensive formal response to the U.",
-      "url": "https://csrwire.com/press-release/ray-directs-national-strategy-transportation-digital-infrastructure/",
-      "publishedAt": "2026-06-22T09:40:00",
-      "content": "The Ray has delivered a comprehensive formal response to the U."
+      "title": "Isometric Raises $40 Million to Expand Industrial Certification Platform Beyond Carbon Removal",
+      "description": "Industrial certification provider Isometric announced that it has raised $40 million in a Series A",
+      "url": "https://www.esgtoday.com/isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets",
+      "publishedAt": "2026-06-23T11:45:44",
+      "content": "Industrial certification provider Isometric announced that it has raised $40 million in a Series A"
     },
     {
       "source": {
@@ -183,121 +205,132 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Europe heatwave live: UK temperatures forecast to reach 38C; French PM to hold crisis meeting after heat deaths",
-      "description": "Temperatures could smash June record in England and Wales set in 1976; red alerts in France after 19 heat deathsTwo children found dead in car in France as heatwave hits EuropeItaly’s health minist...",
-      "url": "https://www.theguardian.com/world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting",
-      "publishedAt": "2026-06-23T08:23:08",
-      "content": "Temperatures could smash June record in England and Wales set in 1976; red alerts in France after 19 heat deathsTwo children found dead in car in France as heatwave hits EuropeItaly’s health minist..."
+      "title": "Could mountains be key to unlocking hydrogen’s potential?",
+      "description": "Researchers assessed likelihood gas was produced during creation of Alps, Pyrenees and Baetic mountainsHydrogen gas is anticipated to play a central role in phasing out fossil fuels, particularly i...",
+      "url": "https://www.theguardian.com/science/2026/jun/24/mountains-unlock-hydrogen-gas-study",
+      "publishedAt": "2026-06-24T05:00:37",
+      "content": "Researchers assessed likelihood gas was produced during creation of Alps, Pyrenees and Baetic mountainsHydrogen gas is anticipated to play a central role in phasing out fossil fuels, particularly i..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Remembering summer 1976: how the historic heatwave has become our new normal",
-      "description": "Half a century on, Britain braces for temperatures up to 40C as global heating brings yet more extreme weatherThe summer of 1976 is seared into national memory as one of record heat. Harvests faile...",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/23/heatwave-1976-extreme-heat-climate-crisis-new-normal",
-      "publishedAt": "2026-06-23T05:01:31",
-      "content": "Half a century on, Britain braces for temperatures up to 40C as global heating brings yet more extreme weatherThe summer of 1976 is seared into national memory as one of record heat. Harvests faile..."
+      "title": "Country diary: This ‘secret’ island takes me back to Swallows and Amazons | Amy-Jane Beer",
+      "description": "Horsey Island, Hamford Water, Essex: It’s the setting for one of Arthur Ransome’s wonderful books, and today it’s farmed by a single family with innovation and careYou need two permissions to acces...",
+      "url": "https://www.theguardian.com/environment/2026/jun/24/country-diary-this-secret-island-takes-me-back-to-swallows-and-amazons",
+      "publishedAt": "2026-06-24T04:30:35",
+      "content": "Horsey Island, Hamford Water, Essex: It’s the setting for one of Arthur Ransome’s wonderful books, and today it’s farmed by a single family with innovation and careYou need two permissions to acces..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: Birds of a feather in a noisy argument | Mary Montague",
-      "description": "Queen’s University, Belfast: The corvids in the branches above me spring a surprise – there’s a black crow among themThe rain hurries me to shelter at the woods’ edge, but I’m scarcely under the br...",
-      "url": "https://www.theguardian.com/environment/2026/jun/23/country-diary-birds-of-a-feather-in-a-noisy-argument",
-      "publishedAt": "2026-06-23T04:30:30",
-      "content": "Queen’s University, Belfast: The corvids in the branches above me spring a surprise – there’s a black crow among themThe rain hurries me to shelter at the woods’ edge, but I’m scarcely under the br..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Piglet, it’s a purple, psychedelic shapeshifter! The wild new creature prowling Winnie-the-Pooh’s wood",
-      "description": "Is it an alien? A dinosaur? Is it going to kill us all? Our writer hits Ashdown Forest for the Big One Hundred celebrations – and finds its magic enchanting new generationsThe rolling idyll of heat...",
-      "url": "https://www.theguardian.com/stage/2026/jun/23/piglet-purple-psychedelic-shapeshifter-winnie-the-poohs-wood-ashdown-forest",
-      "publishedAt": "2026-06-23T04:00:32",
-      "content": "Is it an alien? A dinosaur? Is it going to kill us all? Our writer hits Ashdown Forest for the Big One Hundred celebrations – and finds its magic enchanting new generationsThe rolling idyll of heat..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A thousand years old and 20 storeys high: tracking down Taiwan’s tallest trees",
-      "description": "The country’s biggest tree – named Heaven Sword of the Da’an River – is a carbon-storing behemoth hosting whole neighbourhoods of wildlife.",
-      "url": "https://www.theguardian.com/environment/2026/jun/23/taiwan-giant-trees-tested-climate-crisis-threat-heaven-sword-of-the-daan-river-aoe",
-      "publishedAt": "2026-06-23T04:00:30",
-      "content": "The country’s biggest tree – named Heaven Sword of the Da’an River – is a carbon-storing behemoth hosting whole neighbourhoods of wildlife."
+      "title": "Different sperm whale ‘dialects’ detected on separate sides of the Mediterranean",
+      "description": "Matriarchal groups in east and west exhibit distinct click patterns, used to form social structuresFrom “Howdy” to “G’day”, English – like other languages – is rich in dialects. Now researchers hav...",
+      "url": "https://www.theguardian.com/environment/2026/jun/24/sperm-whale-dialects-detected-mediterranean",
+      "publishedAt": "2026-06-24T04:00:36",
+      "content": "Matriarchal groups in east and west exhibit distinct click patterns, used to form social structuresFrom “Howdy” to “G’day”, English – like other languages – is rich in dialects. Now researchers hav..."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Australia's coal and gas exports violate our human rights, group says in new UN case",
-      "description": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens.",
-      "url": "https://www.bbc.com/news/articles/cn8q5nx6jw6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T03:55:00",
-      "content": "The group says that it is unlawful for Australia to continue approving fossil fuel exports without protecting its citizens."
+      "title": "Hundreds of schools plan closures ahead of red heat alerts",
+      "description": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T02:26:39",
+      "content": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The UK's summers are getting hotter - but how prepared are we?",
+      "description": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
+      "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T23:46:03",
+      "content": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+      "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T16:27:17",
+      "content": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "What is the Heat Dome Causing Europe’s Record Temperatures?",
-      "description": "Heat domes happen all over the world, and the one over Europe this week is locking in days of near-record highs across Britain, Spain and France.",
-      "url": "https://www.nytimes.com/2026/06/22/weather/europe-heat-dome.html",
-      "publishedAt": "2026-06-22T17:16:46",
-      "content": "Heat domes happen all over the world, and the one over Europe this week is locking in days of near-record highs across Britain, Spain and France."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Emotional and horrific’: volunteers ‘live’ as Somerset animals to study wildlife risks",
-      "description": "People trained to experience world as otters, salmon and other River Tone creatures for pioneering researchWhat does a kestrel make of the dog sniffing in the long grass below? Why does an exhauste...",
-      "url": "https://www.theguardian.com/environment/2026/jun/22/volunteers-somerset-animals-study-wildlife-risks",
-      "publishedAt": "2026-06-22T14:48:59",
-      "content": "People trained to experience world as otters, salmon and other River Tone creatures for pioneering researchWhat does a kestrel make of the dog sniffing in the long grass below? Why does an exhauste..."
+      "title": "Energy Dept. Promises $17.5 Billion in Loans for Nuclear Power",
+      "description": "The federal government wants to help utilities buy large components for up to 10 large nuclear reactors. It’s unclear which, if any, companies might participate.",
+      "url": "https://www.nytimes.com/2026/06/23/climate/trump-energy-nuclear-loans.html",
+      "publishedAt": "2026-06-23T15:19:36",
+      "content": "The federal government wants to help utilities buy large components for up to 10 large nuclear reactors. It’s unclear which, if any, companies might participate."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "What are UV levels and how can you protect yourself?",
-      "description": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer.",
-      "url": "https://www.bbc.com/news/articles/ckmg1572e8ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T13:43:26",
-      "content": "Some UV exposure is essential for our wellbeing, but too much is damaging and can cause skin cancer."
+      "title": "From cool-down spots to chalk on windows - how Europe is coping with the heat",
+      "description": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
+      "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T14:19:21",
+      "content": "People across the continent are taking measures to cope with the searing temperatures gripping Europe."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Six ways to keep your home and yourself cool in hot weather",
-      "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
-      "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-22T11:13:44",
-      "content": "Six simple things you can do to help keep your house cool when temperatures rise."
+      "title": "Spider which uses spring trap to capture prey discovered in Australia",
+      "description": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
+      "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-23T10:05:53",
+      "content": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "New York Times"
       },
-      "author": "Inside Climate News",
-      "title": "How a Tiny Texas River Agency Plans to Build the Largest Desalination Plant in the Country",
-      "description": "This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations.",
-      "url": "https://insideclimatenews.org/news/22062026/nueces-river-authority-plans-to-build-nations-largest-desalination-plant/",
-      "publishedAt": "2026-06-22T09:05:00",
-      "content": "This story was produced in partnership with the Texas Newsroom, the state’s network of public radio stations."
+      "author": "New York Times",
+      "title": "Europe Created Heat-Wave Protections. Now Comes the ‘Crash Test.’",
+      "description": "Searing temperatures in Western Europe are drawing comparisons to 2003, when a deadly heat wave sparked a reckoning.",
+      "url": "https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-protective-measures.html",
+      "publishedAt": "2026-06-23T09:02:13",
+      "content": "Searing temperatures in Western Europe are drawing comparisons to 2003, when a deadly heat wave sparked a reckoning."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Daimler, KEYOU Plan Hydrogen Combustion-Powered Truck Launch in 2027",
+      "description": "Global truck manufacturer Daimler Truck and Munich-based hydrogen engine technology company KEYOU announced today a",
+      "url": "https://www.esgtoday.com/daimler-plans-hydrogen-combustion-powered-truck-launch-in-2027/?utm_source=rss&utm_medium=rss&utm_campaign=daimler-plans-hydrogen-combustion-powered-truck-launch-in-2027",
+      "publishedAt": "2026-06-23T07:46:50",
+      "content": "Global truck manufacturer Daimler Truck and Munich-based hydrogen engine technology company KEYOU announced today a"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Alternatives to SHEIN: 31 Better Brands You’ll Love",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/alternatives-to-shein/",
+      "publishedAt": "2026-06-23T03:00:49",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -312,135 +345,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Climate Change News"
       },
-      "author": "Inside Climate News",
-      "title": "The Water Is Rising in Chesapeake Bay. Can Tangier Island Be Saved?",
-      "description": "TANGIER, Va.",
-      "url": "https://insideclimatenews.org/news/22062026/chesapeake-bay-tangier-island-sea-level-rise/",
-      "publishedAt": "2026-06-22T08:55:00",
-      "content": "TANGIER, Va."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Danone, Mars Back New €150 Million Nature-Based Solutions Fund",
-      "description": "Impact investment platform Livelihoods announced the launch of its fourth fund, Livelihoods Carbon Fund 4",
-      "url": "https://www.esgtoday.com/danone-mars-back-new-e150-million-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=danone-mars-back-new-e150-million-nature-based-solutions-fund",
-      "publishedAt": "2026-06-22T07:24:51",
-      "content": "Impact investment platform Livelihoods announced the launch of its fourth fund, Livelihoods Carbon Fund 4"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "El Niño Is Here and Will Have ‘Big Consequences’ for Global Weather",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Kevin Trenberth.",
-      "url": "https://insideclimatenews.org/news/20062026/el-nino-could-bring-strong-storms-and-increase-wildfire-risks/",
-      "publishedAt": "2026-06-20T08:55:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Kevin Trenberth."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Search for Super Reefs",
-      "description": "The world has already lost more than half of its coral reefs, and most of what remains is at risk of disappearing in the next 25 years.",
-      "url": "https://insideclimatenews.org/news/21062026/icn-sunday-morning-super-reefs/",
-      "publishedAt": "2026-06-21T08:50:00",
-      "content": "The world has already lost more than half of its coral reefs, and most of what remains is at risk of disappearing in the next 25 years."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Planning for Life After Coal Cost a Montana County Commissioner His Seat",
-      "description": "Robert Pancratz couldn’t believe it.",
-      "url": "https://insideclimatenews.org/news/20062026/montana-musselshell-county-fiscal-future/",
-      "publishedAt": "2026-06-20T09:00:00",
-      "content": "Robert Pancratz couldn’t believe it."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Elanco To Launch Elanco Ventures With $25 Million Multi-Year Commitment To Accelerate Innovation in Animal Health",
-      "description": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced plans to establish Elanco Ventures, a dedicated corporate venture capital (CVC) platform designed to support, invest and advance innov...",
-      "url": "https://csrwire.com/press-release/elanco-launch-elanco-ventures-25-million-multi-year-commitment-accelerate-innovation-animal/",
-      "publishedAt": "2026-06-19T09:00:00",
-      "content": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced plans to establish Elanco Ventures, a dedicated corporate venture capital (CVC) platform designed to support, invest and advance innov..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ask Nature Podcast Episode 4: Julia Watson",
-      "description": "Julia Watson, landscape architect, author and teacher, is featured in this week's Ask Nature Podcast.",
-      "url": "https://csrwire.com/press-release/ask-nature-podcast-episode-4-julia-watson/",
-      "publishedAt": "2026-06-18T09:40:00",
-      "content": "Julia Watson, landscape architect, author and teacher, is featured in this week's Ask Nature Podcast."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Building a World-Class Employee Experience | Cisco FY25 Purpose Report",
-      "description": "The world of work is changing faster than ever, but our greatest strength remains our Cisconians.",
-      "url": "https://csrwire.com/press-release/building-world-class-employee-experience-cisco-fy25-purpose-report/",
-      "publishedAt": "2026-06-18T09:05:00",
-      "content": "The world of work is changing faster than ever, but our greatest strength remains our Cisconians."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Home Field Advantage: Seizing Philadelphia’s Greatest Moments",
-      "description": "Philadelphia holds a unique place in the American story.",
-      "url": "https://csrwire.com/press-release/home-field-advantage-seizing-philadelphias-greatest-moments/",
-      "publishedAt": "2026-06-17T12:30:00",
-      "content": "Philadelphia holds a unique place in the American story."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "FedEx & Heart to Heart: Strengthening Disaster Response",
-      "description": "When we think of disaster relief, we often picture the immediate aftermath: delivering critical supplies and life-saving aid to affected communities.",
-      "url": "https://csrwire.com/press-release/fedex-heart-heart-strengthening-disaster-response/",
-      "publishedAt": "2026-06-17T11:00:00",
-      "content": "When we think of disaster relief, we often picture the immediate aftermath: delivering critical supplies and life-saving aid to affected communities."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Skills-Based Volunteering for the AI Era: Inside Cisco’s First Tech for Social Good Hackathon",
-      "description": "Many nonprofits know they need to embrace AI, and most are already feeling the pressure to move faster than their resources allow.",
-      "url": "https://csrwire.com/press-release/skills-based-volunteering-ai-era-inside-ciscos-first-tech-social-good-hackathon/",
-      "publishedAt": "2026-06-16T13:05:00",
-      "content": "Many nonprofits know they need to embrace AI, and most are already feeling the pressure to move faster than their resources allow."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "A ‘Reforestation Pipeline’ in New Mexico Trains Seedlings to Survive in Burn Scars",
-      "description": "Increasing heat and drought are killing young pines planted on ground scorched by wildfires. Can seeds from the toughest trees grown in boot camp nurseries better endure?TriplePundit",
-      "url": "https://triplepundit.com/2026/reforestation-calf-canyon-hermits-peak-wildfire-new-mexico/",
-      "publishedAt": "2026-06-16T13:00:00",
-      "content": "Increasing heat and drought are killing young pines planted on ground scorched by wildfires. Can seeds from the toughest trees grown in boot camp nurseries better endure?TriplePundit"
+      "author": "Climate Change News",
+      "title": "Mombasa ocean summit drives progress on marine protection, but threats persist",
+      "description": "At the 11th Our Ocean conference in Kenya, its founder John Kerry says the ocean must become central to climate solutions and needs to be looked after\nThe post Mombasa ocean summit drives progress ...",
+      "url": "https://www.climatechangenews.com/2026/06/19/mombasa-ocean-summit-progress-marine-protection-funding-barriers-persist/",
+      "publishedAt": "2026-06-19T11:51:18",
+      "content": "At the 11th Our Ocean conference in Kenya, its founder John Kerry says the ocean must become central to climate solutions and needs to be looked after\nThe post Mombasa ocean summit drives progress ..."
     }
   ]
 }
