@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 42,
   "articles": [
     {
       "source": {
-        "name": "Good On You"
+        "name": "Climate Change News"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This June 2026",
-      "description": "Feature image: Harvest & Mill.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-06-22T22:00:45",
-      "content": "Feature image: Harvest & Mill."
+      "author": "Climate Change News",
+      "title": "Can the circular economy win over big business?",
+      "description": "Policymakers and businesses are turning to the circular economy in a bid to increase self-reliance and reduce environmental impacts\nThe post Can the circular economy win over big business? appeared...",
+      "url": "https://www.climatechangenews.com/2026/06/25/can-the-circular-economy-win-over-big-business/",
+      "publishedAt": "2026-06-25T11:49:13",
+      "content": "Policymakers and businesses are turning to the circular economy in a bid to increase self-reliance and reduce environmental impacts\nThe post Can the circular economy win over big business? appeared..."
     },
     {
       "source": {
@@ -23,6 +23,17 @@
       "url": "https://www.thehindu.com/news/national/sonowal-launches-five-initiatives-at-voc-port-to-advance-green-digital-and-educational-goals/article71137396.ece",
       "publishedAt": "2026-06-23T13:35:04",
       "content": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This June 2026",
+      "description": "Feature image: Harvest & Mill.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-06-22T22:00:45",
+      "content": "Feature image: Harvest & Mill."
     },
     {
       "source": {
@@ -51,11 +62,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EBA Simplifies ESG Reporting for Banks, Extends Disclosure Requirements to Smaller Institutions for First Time",
-      "description": "EU banking supervisor The European Banking Authority (EBA) announced the publication of its finalized draft",
-      "url": "https://www.esgtoday.com/eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time/?utm_source=rss&utm_medium=rss&utm_campaign=eba-simplifies-esg-reporting-for-banks-extends-disclosure-requirements-to-smaller-institutions-for-first-time",
-      "publishedAt": "2026-06-23T11:10:28",
-      "content": "EU banking supervisor The European Banking Authority (EBA) announced the publication of its finalized draft"
+      "title": "Tesla, Sunrun, Renew Home to Turn U.S. Homes into Massive Distributed Power Plant",
+      "description": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced",
+      "url": "https://www.esgtoday.com/tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant",
+      "publishedAt": "2026-06-25T13:16:02",
+      "content": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "California Pushes Back Deadline for First Corporate Climate Reports to November",
+      "description": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s",
+      "url": "https://www.esgtoday.com/california-pushes-back-deadline-for-first-corporate-climate-reports-to-november/?utm_source=rss&utm_medium=rss&utm_campaign=california-pushes-back-deadline-for-first-corporate-climate-reports-to-november",
+      "publishedAt": "2026-06-25T11:31:12",
+      "content": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "European heatwave is worst ever and impossible without climate crisis, scientists say",
+      "description": "Study also finds high humidity means people in hundreds of cities are enduring their worst ever heat stressThe heatwave scorching western Europe is the most severe and widespread ever and is only p...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
+      "publishedAt": "2026-06-26T04:00:09",
+      "content": "Study also finds high humidity means people in hundreds of cities are enduring their worst ever heat stressThe heatwave scorching western Europe is the most severe and widespread ever and is only p..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "French court rules Total must revise climate plan to account for all emissions",
+      "description": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap...",
+      "url": "https://www.climatechangenews.com/2026/06/26/fossil-fuel-firm-total-must-account-total-emissions-french-court-lawsuit/",
+      "publishedAt": "2026-06-26T01:21:59",
+      "content": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap..."
     },
     {
       "source": {
@@ -92,39 +136,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Stegra Completes $1.6 Billion Capital Raise to Build Largest Green Steel Plant in Europe",
-      "description": "Swedish green iron and steel maker Stegra announced that it has closed a €1.4 billion",
-      "url": "https://www.esgtoday.com/stegra-completes-1-6-billion-capital-raise-to-build-largest-green-steel-plant-in-europe/?utm_source=rss&utm_medium=rss&utm_campaign=stegra-completes-1-6-billion-capital-raise-to-build-largest-green-steel-plant-in-europe",
-      "publishedAt": "2026-06-24T09:58:01",
-      "content": "Swedish green iron and steel maker Stegra announced that it has closed a €1.4 billion"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Hot Mess and Acid’s Reign: the romcom and queer cabaret spotlighting climate crisis",
-      "description": "A blooming new wave of musical theatre is exploring the plight of the planet with a playful and hopeful approachEarth is a single woman with a lot to give; Humanity is a charismatic bad boy who tur...",
-      "url": "https://www.theguardian.com/stage/2026/jun/25/hot-mess-acids-reign-romcom-cabaret-climate-crisis",
-      "publishedAt": "2026-06-25T08:02:37",
-      "content": "A blooming new wave of musical theatre is exploring the plight of the planet with a playful and hopeful approachEarth is a single woman with a lot to give; Humanity is a charismatic bad boy who tur..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say",
-      "description": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat...",
-      "url": "https://www.climatechangenews.com/2026/06/24/ministers-say-cop31-open-to-reflecting-santa-marta-conference-climate-talks/",
-      "publishedAt": "2026-06-24T10:07:49",
-      "content": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -136,14 +147,47 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Hits Water Positive Target 5 Years Ahead of 2030 Goal",
+      "description": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”",
+      "url": "https://www.esgtoday.com/microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal",
+      "publishedAt": "2026-06-25T14:48:38",
+      "content": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Water Has a Financing Problem. Blue Bonds Can Fix It.",
+      "description": "Guest post by: Emma Miller, Senior Director for Sustainability and Social Impact at Xylem As",
+      "url": "https://www.esgtoday.com/water-has-a-financing-problem-blue-bonds-can-fix-it/?utm_source=rss&utm_medium=rss&utm_campaign=water-has-a-financing-problem-blue-bonds-can-fix-it",
+      "publishedAt": "2026-06-25T08:58:20",
+      "content": "Guest post by: Emma Miller, Senior Director for Sustainability and Social Impact at Xylem As"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Material Guide: Can Polyurethane Ever Be Sustainable?",
+      "description": "Polyurethane (PU) is often used as a fabric coating to improve durability and has been touted as an alternative to animal-derived leather—but it is a plastic, and it has serious implications for th...",
+      "url": "https://goodonyou.eco/is-polyurethane-sustainable/",
+      "publishedAt": "2026-06-25T02:11:19",
+      "content": "Polyurethane (PU) is often used as a fabric coating to improve durability and has been touted as an alternative to animal-derived leather—but it is a plastic, and it has serious implications for th..."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "China’s coal-chemicals boom risks repeating the mistakes of the past",
-      "description": "By reviving the problematic industry in the name of energy security, China runs the risk of higher emissions, stranded assets and setting back its ambitions as a clean energy leader\nThe post China’...",
-      "url": "https://www.climatechangenews.com/2026/06/22/chinas-coal-chemicals-boom-risks-repeating-the-mistakes-of-the-past/",
-      "publishedAt": "2026-06-22T21:02:01",
-      "content": "By reviving the problematic industry in the name of energy security, China runs the risk of higher emissions, stranded assets and setting back its ambitions as a clean energy leader\nThe post China’..."
+      "title": "COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say",
+      "description": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat...",
+      "url": "https://www.climatechangenews.com/2026/06/24/ministers-say-cop31-open-to-reflecting-santa-marta-conference-climate-talks/",
+      "publishedAt": "2026-06-24T10:07:49",
+      "content": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat..."
     },
     {
       "source": {
@@ -169,14 +213,124 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Migrating swifts loyally return every year to nests in buildings, study finds",
+      "description": "Conservationists emphasise importance of protecting nesting sites used by ‘strongly faithful’ red-listed speciesMigratory swifts loyally return every year to their nests in buildings, according to ...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/migrating-swifts-loyally-return-every-year-nests-buildings-study-finds",
+      "publishedAt": "2026-06-26T05:00:10",
+      "content": "Conservationists emphasise importance of protecting nesting sites used by ‘strongly faithful’ red-listed speciesMigratory swifts loyally return every year to their nests in buildings, according to ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Chemours Celebrates World Refrigeration Day: Cool Intelligence in Action",
+      "description": "Every year on June 26, Chemours joins the global community in celebrating World Refrigeration Day, recognizing the technologies and expertise that support our modern world.",
+      "url": "https://csrwire.com/press-release/chemours-celebrates-world-refrigeration-day-cool-intelligence-action/",
+      "publishedAt": "2026-06-25T12:20:00",
+      "content": "Every year on June 26, Chemours joins the global community in celebrating World Refrigeration Day, recognizing the technologies and expertise that support our modern world."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Wesco Announces 2026 Wesco Cares Champion of the Year and Celebrates Annual Day of Caring",
+      "description": "Wesco hosted its annual Day of Caring events for employees at locations around the globe, reinforcing the company’s commitment to giving back to the communities where employees live and work.",
+      "url": "https://csrwire.com/press-release/wesco-announces-2026-wesco-cares-champion-year-and-celebrates-annual-day-caring/",
+      "publishedAt": "2026-06-25T11:00:00",
+      "content": "Wesco hosted its annual Day of Caring events for employees at locations around the globe, reinforcing the company’s commitment to giving back to the communities where employees live and work."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Slough is like an experiment’: Europe’s largest datacentre hub leaves town sweltering",
+      "description": "Emerging research suggests datacentres create a heat island effect, pushing up temperatures in the immediate vicinity by as much as 9C The community living next to the largest datacentre park in Eu...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering",
+      "publishedAt": "2026-06-26T07:00:12",
+      "content": "Emerging research suggests datacentres create a heat island effect, pushing up temperatures in the immediate vicinity by as much as 9C The community living next to the largest datacentre park in Eu..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
+      "description": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signaturesA scientist who decoded the dictionary that a bird uses to communicate has won a $100...",
+      "url": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
+      "publishedAt": "2026-06-26T06:53:54",
+      "content": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signaturesA scientist who decoded the dictionary that a bird uses to communicate has won a $100..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Shark bites are down globally – so why are they going up in Australia? It’s complicated",
+      "description": "In this week’s newsletter: Opinions are divided on how to mitigate risk, and whether it’s sharks or humans themselves who are the problem.",
+      "url": "https://www.theguardian.com/environment/2026/jun/25/down-to-earth-shark-bites-australia-europe-heat-records",
+      "publishedAt": "2026-06-26T06:00:11",
+      "content": "In this week’s newsletter: Opinions are divided on how to mitigate risk, and whether it’s sharks or humans themselves who are the problem."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fossil fuel price surges can lead to worse air quality, study finds",
+      "description": "Researchers find increases in toxic chemical in the air in some areas as people switch to cheaper wood burningNew research shows that the unreliability of fossil fuel supply chains and consequentia...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/fossil-fuel-price-surges-worse-air-quality-study-pollutionwatch",
+      "publishedAt": "2026-06-26T05:00:09",
+      "content": "Researchers find increases in toxic chemical in the air in some areas as people switch to cheaper wood burningNew research shows that the unreliability of fossil fuel supply chains and consequentia..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Even in a heatwave, haymaking is a race against time | Nicola Chester",
+      "description": "Inkpen, Berkshire: Mow, tedder, rake and bale – it all has to be done before the next rainfall, which is increasingly hard to predictWith the weather set fair and a heatwave under way, all around a...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/country-diary-even-in-a-heatwave-haymaking-is-a-race-against-time",
+      "publishedAt": "2026-06-26T04:30:08",
+      "content": "Inkpen, Berkshire: Mow, tedder, rake and bale – it all has to be done before the next rainfall, which is increasingly hard to predictWith the weather set fair and a heatwave under way, all around a..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "As Nigeria rails at loss and damage “mirage”, fund boss assures money is coming",
+      "description": "Ibrahima Cheikh Diong, CEO of the loss and damage fund, said he hopes to start spending this year, as pressure mounts for disbursements\nThe post As Nigeria rails at loss and damage “mirage”, fund b...",
+      "url": "https://www.climatechangenews.com/2026/06/25/as-nigeria-rails-at-loss-and-damage-mirage-fund-boss-assures-money-is-coming/",
+      "publishedAt": "2026-06-25T17:52:25",
+      "content": "Ibrahima Cheikh Diong, CEO of the loss and damage fund, said he hopes to start spending this year, as pressure mounts for disbursements\nThe post As Nigeria rails at loss and damage “mirage”, fund b..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
+      "description": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.",
+      "url": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
+      "publishedAt": "2026-06-25T16:33:54",
+      "content": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EU Member States Propose Dropping Exclusion of Fossil Fuel Companies from New SFDR Transition Fund Category",
-      "description": "The European Council announced an agreement by EU member states on its negotiating position on",
-      "url": "https://www.esgtoday.com/eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category/?utm_source=rss&utm_medium=rss&utm_campaign=eu-member-states-propose-dropping-exclusion-of-fossil-fuel-companies-from-new-sfdr-transition-fund-category",
-      "publishedAt": "2026-06-24T13:30:10",
-      "content": "The European Council announced an agreement by EU member states on its negotiating position on"
+      "title": "Climeworks Signs 450,000 Tons of Carbon Removal Agreements",
+      "description": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service,",
+      "url": "https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-signs-450000-tons-of-carbon-removal-agreements",
+      "publishedAt": "2026-06-25T08:39:38",
+      "content": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service,"
     },
     {
       "source": {
@@ -191,116 +345,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Walmart Signs its First Long-term Nuclear Power Purchase Agreement",
-      "description": "Retail giant Walmart announced that it has signed long-term nuclear power purchase agreement (PPA) with",
-      "url": "https://www.esgtoday.com/walmart-signs-its-first-long-term-nuclear-power-purchase-agreement/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-signs-its-first-long-term-nuclear-power-purchase-agreement",
-      "publishedAt": "2026-06-24T10:45:39",
-      "content": "Retail giant Walmart announced that it has signed long-term nuclear power purchase agreement (PPA) with"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Deadly Heat Scorches Europe",
-      "description": "",
-      "url": "https://www.nytimes.com/live/2026/06/25/weather/europe-heat-wave-uk-france/heres-the-latest",
-      "publishedAt": "2026-06-25T08:38:42",
-      "content": ""
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "To Escape the Heat, Parisians Jump into an Old Industrial Canal",
-      "description": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways.",
-      "url": "https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html",
-      "publishedAt": "2026-06-25T08:17:40",
-      "content": "Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Bright and bohemian, this moth could be a David Hockney | Paul Evans",
-      "description": "The Marches, Shropshire: Scarlet tiger moths are on the wing at our allotment, taking advantage of the sunny days – and our human activityThe jackdaw takes three hops and is airborne, swinging into...",
-      "url": "https://www.theguardian.com/environment/2026/jun/25/country-diary-bright-and-bohemian-this-moth-could-be-a-david-hockney",
-      "publishedAt": "2026-06-25T04:30:04",
-      "content": "The Marches, Shropshire: Scarlet tiger moths are on the wing at our allotment, taking advantage of the sunny days – and our human activityThe jackdaw takes three hops and is airborne, swinging into..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK sees hottest June day on record as 36.1C recorded in Hampshire",
-      "description": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon.",
-      "url": "https://www.bbc.co.uk/news/articles/c30y619glveo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-25T02:25:26",
-      "content": "Heat records were broken when temperatures soared across southern England on Wednesday afternoon."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Wildfire Risk in Utah and Across the West Is the Highest It’s Been All Year",
-      "description": "Critical conditions are expected through the weekend across Utah, Arizona, Nevada and elsewhere.",
-      "url": "https://www.nytimes.com/2026/06/24/weather/utah-wildfires-colorado-smoke.html",
-      "publishedAt": "2026-06-24T22:12:59",
-      "content": "Critical conditions are expected through the weekend across Utah, Arizona, Nevada and elsewhere."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "EU, UK lead push for electrification as “powerful weapon” against fossil fuels",
-      "description": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati...",
-      "url": "https://www.climatechangenews.com/2026/06/24/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels/",
-      "publishedAt": "2026-06-24T18:36:07",
-      "content": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why this heatwave feels worse than the last one",
-      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains",
-      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T12:24:39",
-      "content": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Carspreading’ could lead to extra 2,600 crash deaths a year by 2040, study finds",
-      "description": "Analysis shows cars in Europe have grown longer, taller and wider every year since 2000Cars have grown 1.",
-      "url": "https://www.theguardian.com/environment/2026/jun/24/carspreading-vehicle-size-crash-deaths-study",
-      "publishedAt": "2026-06-24T10:11:57",
-      "content": "Analysis shows cars in Europe have grown longer, taller and wider every year since 2000Cars have grown 1."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon Achieves Water Positive Goal in India Ahead of 2027 Target",
-      "description": "Amazon announced that it has become water positive in India, achieving its goal of returning",
-      "url": "https://www.esgtoday.com/amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-achieves-water-positive-goal-in-india-ahead-of-2027-target",
-      "publishedAt": "2026-06-24T08:25:25",
-      "content": "Amazon announced that it has become water positive in India, achieving its goal of returning"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -309,28 +353,6 @@
       "url": "https://csrwire.com/press-release/mary-kay-extends-winning-streak-fourth-year-1-global-direct-selling-beauty/",
       "publishedAt": "2026-06-24T08:00:00",
       "content": "Mary Kay Inc."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "LEGO Launches Solar Project to Provide 100% of Electricity for Denmark Headquarters",
-      "description": "The LEGO Group announced the launch of construction of its largest solar park to date",
-      "url": "https://www.esgtoday.com/lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters/?utm_source=rss&utm_medium=rss&utm_campaign=lego-launches-solar-park-to-provide-100-of-electricity-for-denmark-headquarters",
-      "publishedAt": "2026-06-23T12:10:08",
-      "content": "The LEGO Group announced the launch of construction of its largest solar park to date"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Isometric Raises $40 Million to Expand Industrial Certification Platform Beyond Carbon Removal",
-      "description": "Industrial certification provider Isometric announced that it has raised $40 million in a Series A",
-      "url": "https://www.esgtoday.com/isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-raises-40-million-to-expand-industrial-certification-platform-beyond-carbon-markets",
-      "publishedAt": "2026-06-23T11:45:44",
-      "content": "Industrial certification provider Isometric announced that it has raised $40 million in a Series A"
     },
     {
       "source": {
@@ -367,36 +389,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Climate Change News"
       },
-      "author": "CSRWire",
-      "title": "IWBI CEO Rachel Hodgdon To Speak at Aspen Ideas: Health on the Critical Role of Healthy Buildings in Advancing Public Health",
-      "description": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI), will join leading experts in public health, architecture and healthy buildings",
-      "url": "https://csrwire.com/press-release/iwbi-ceo-rachel-hodgdon-speak-aspen-ideas-health-critical-role-healthy-buildings-advancing/",
-      "publishedAt": "2026-06-22T14:45:00",
-      "content": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI), will join leading experts in public health, architecture and healthy buildings"
+      "author": "Climate Change News",
+      "title": "EU, UK lead push for electrification as “powerful weapon” against fossil fuels",
+      "description": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati...",
+      "url": "https://www.climatechangenews.com/2026/06/24/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels/",
+      "publishedAt": "2026-06-24T18:36:07",
+      "content": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati..."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "The Ray Directs National Strategy for Transportation Digital Infrastructure",
-      "description": "The Ray has delivered a comprehensive formal response to the U.",
-      "url": "https://csrwire.com/press-release/ray-directs-national-strategy-transportation-digital-infrastructure/",
-      "publishedAt": "2026-06-22T09:40:00",
-      "content": "The Ray has delivered a comprehensive formal response to the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Different sperm whale ‘dialects’ detected on separate sides of the Mediterranean",
-      "description": "Matriarchal groups in east and west exhibit distinct click patterns, used to form social structuresFrom “Howdy” to “G’day”, English – like other languages – is rich in dialects. Now researchers hav...",
-      "url": "https://www.theguardian.com/environment/2026/jun/24/sperm-whale-dialects-detected-mediterranean",
-      "publishedAt": "2026-06-24T04:00:36",
-      "content": "Matriarchal groups in east and west exhibit distinct click patterns, used to form social structuresFrom “Howdy” to “G’day”, English – like other languages – is rich in dialects. Now researchers hav..."
+      "author": "BBC",
+      "title": "Why this heatwave feels worse than the last one",
+      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T12:24:39",
+      "content": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains."
     },
     {
       "source": {
@@ -436,17 +447,6 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Energy Dept. Promises $17.5 Billion in Loans for Nuclear Power",
-      "description": "The federal government wants to help utilities buy large components for up to 10 large nuclear reactors. It’s unclear which, if any, companies might participate.",
-      "url": "https://www.nytimes.com/2026/06/23/climate/trump-energy-nuclear-loans.html",
-      "publishedAt": "2026-06-23T15:19:36",
-      "content": "The federal government wants to help utilities buy large components for up to 10 large nuclear reactors. It’s unclear which, if any, companies might participate."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
       "title": "Europe Created Heat-Wave Protections. Now Comes the ‘Crash Test.’",
       "description": "Searing temperatures in Western Europe are drawing comparisons to 2003, when a deadly heat wave sparked a reckoning.",
       "url": "https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-protective-measures.html",
@@ -455,36 +455,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Alternatives to SHEIN: 31 Better Brands You’ll Love",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/alternatives-to-shein/",
-      "publishedAt": "2026-06-23T03:00:49",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "California Needs Water and Clean Power. It Might Have a Fix for Both.",
-      "description": "A pilot program is building solar panels over irrigation canals to generate electricity. As a bonus, the shade prevents water from evaporating.",
-      "url": "https://www.nytimes.com/2026/06/22/climate/california-canals-solar-panels-water-nexus.html",
-      "publishedAt": "2026-06-22T09:00:23",
-      "content": "A pilot program is building solar panels over irrigation canals to generate electricity. As a bonus, the shade prevents water from evaporating."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Elanco To Launch Elanco Ventures With $25 Million Multi-Year Commitment To Accelerate Innovation in Animal Health",
-      "description": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced plans to establish Elanco Ventures, a dedicated corporate venture capital (CVC) platform designed to support, invest and advance innov...",
-      "url": "https://csrwire.com/press-release/elanco-launch-elanco-ventures-25-million-multi-year-commitment-accelerate-innovation-animal/",
-      "publishedAt": "2026-06-19T09:00:00",
-      "content": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced plans to establish Elanco Ventures, a dedicated corporate venture capital (CVC) platform designed to support, invest and advance innov..."
+      "title": "IWBI CEO Rachel Hodgdon To Speak at Aspen Ideas: Health on the Critical Role of Healthy Buildings in Advancing Public Health",
+      "description": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI), will join leading experts in public health, architecture and healthy buildings",
+      "url": "https://csrwire.com/press-release/iwbi-ceo-rachel-hodgdon-speak-aspen-ideas-health-critical-role-healthy-buildings-advancing/",
+      "publishedAt": "2026-06-22T14:45:00",
+      "content": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI), will join leading experts in public health, architecture and healthy buildings"
     }
   ]
 }
