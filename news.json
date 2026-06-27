@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 46,
   "articles": [
     {
       "source": {
@@ -12,17 +12,6 @@
       "url": "https://www.climatechangenews.com/2026/06/25/can-the-circular-economy-win-over-big-business/",
       "publishedAt": "2026-06-25T11:49:13",
       "content": "Policymakers and businesses are turning to the circular economy in a bid to increase self-reliance and reduce environmental impacts\nThe post Can the circular economy win over big business? appeared..."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Sonowal launches five initiatives at VOC Port to advance green, digital and educational goals",
-      "description": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme",
-      "url": "https://www.thehindu.com/news/national/sonowal-launches-five-initiatives-at-voc-port-to-advance-green-digital-and-educational-goals/article71137396.ece",
-      "publishedAt": "2026-06-23T13:35:04",
-      "content": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme"
     },
     {
       "source": {
@@ -48,14 +37,47 @@
     },
     {
       "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Sonowal launches five initiatives at VOC Port to advance green, digital and educational goals",
+      "description": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme",
+      "url": "https://www.thehindu.com/news/national/sonowal-launches-five-initiatives-at-voc-port-to-advance-green-digital-and-educational-goals/article71137396.ece",
+      "publishedAt": "2026-06-23T13:35:04",
+      "content": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme"
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Google, Energy Dome Launch Energy Storage Project to Enable 24/7 Clean Energy Access",
-      "description": "Google and energy storage startup Energy Dome announced an agreement to construct a 23 MW/200",
-      "url": "https://www.esgtoday.com/google-energy-dome-launch-energy-storage-project-to-enable-24-7-clean-energy-access/?utm_source=rss&utm_medium=rss&utm_campaign=google-energy-dome-launch-energy-storage-project-to-enable-24-7-clean-energy-access",
-      "publishedAt": "2026-06-24T14:56:10",
-      "content": "Google and energy storage startup Energy Dome announced an agreement to construct a 23 MW/200"
+      "title": "Carbon Credit Ratings Provider BeZero Acquires Climate Analytics Platform Cedar",
+      "description": "Carbon credit ratings agency BeZero Carbon announced the acquisition of AI-powered climate data startup Cedar,",
+      "url": "https://www.esgtoday.com/carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar",
+      "publishedAt": "2026-06-26T13:01:40",
+      "content": "Carbon credit ratings agency BeZero Carbon announced the acquisition of AI-powered climate data startup Cedar,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Ballard Acquires Green Hydrogen Power Solutions Provider GeoPura",
+      "description": "Canadian hydrogen fuel cell developer Ballard announced the acquisition of green hydrogen solutions provider GeoPura,",
+      "url": "https://www.esgtoday.com/ballard-acquires-green-hydrogen-power-solutions-provider-geopura/?utm_source=rss&utm_medium=rss&utm_campaign=ballard-acquires-green-hydrogen-power-solutions-provider-geopura",
+      "publishedAt": "2026-06-26T10:53:26",
+      "content": "Canadian hydrogen fuel cell developer Ballard announced the acquisition of green hydrogen solutions provider GeoPura,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Paris Court Orders TotalEnergies to Address Climate Risks from Customers’ Use of its Products",
+      "description": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from",
+      "url": "https://www.esgtoday.com/paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products/?utm_source=rss&utm_medium=rss&utm_campaign=paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products",
+      "publishedAt": "2026-06-26T10:04:47",
+      "content": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from"
     },
     {
       "source": {
@@ -70,6 +92,28 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Breaking it down: how to limit the environmental impact of your body after death",
+      "description": "From cardboard coffins and natural burials to water-based cremation, Australians are increasingly open to alternative farewells – but the key is to planChange by degrees offers life hacks and susta...",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/27/environmental-funeral-sustainable-coffins-natural-burial-body-after-death",
+      "publishedAt": "2026-06-27T00:00:25",
+      "content": "From cardboard coffins and natural burials to water-based cremation, Australians are increasingly open to alternative farewells – but the key is to planChange by degrees offers life hacks and susta..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Climate adaptation in Africa needs investment, not imported solutions",
+      "description": "Across Africa, communities have implemented vital climate adaptation measures - but these need investment to scale\nThe post Climate adaptation in Africa needs investment, not imported solutions app...",
+      "url": "https://www.climatechangenews.com/2026/06/26/climate-adaptation-in-africa-needs-investment-not-imported-solutions/",
+      "publishedAt": "2026-06-26T14:26:06",
+      "content": "Across Africa, communities have implemented vital climate adaptation measures - but these need investment to scale\nThe post Climate adaptation in Africa needs investment, not imported solutions app..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -78,39 +122,6 @@
       "url": "https://www.esgtoday.com/california-pushes-back-deadline-for-first-corporate-climate-reports-to-november/?utm_source=rss&utm_medium=rss&utm_campaign=california-pushes-back-deadline-for-first-corporate-climate-reports-to-november",
       "publishedAt": "2026-06-25T11:31:12",
       "content": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "European heatwave is worst ever and impossible without climate crisis, scientists say",
-      "description": "Study also finds high humidity means people in hundreds of cities are enduring their worst ever heat stressThe heatwave scorching western Europe is the most severe and widespread ever and is only p...",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
-      "publishedAt": "2026-06-26T04:00:09",
-      "content": "Study also finds high humidity means people in hundreds of cities are enduring their worst ever heat stressThe heatwave scorching western Europe is the most severe and widespread ever and is only p..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "French court rules Total must revise climate plan to account for all emissions",
-      "description": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap...",
-      "url": "https://www.climatechangenews.com/2026/06/26/fossil-fuel-firm-total-must-account-total-emissions-french-court-lawsuit/",
-      "publishedAt": "2026-06-26T01:21:59",
-      "content": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Gap Appoints Levi Strauss CSO as New Chief Sustainability Officer",
-      "description": "Apparel retail company Gap Inc. announced the appointment of Jeffrey Hogue as its new Chief",
-      "url": "https://www.esgtoday.com/gap-appoints-levi-strauss-cso-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=gap-appoints-levi-strauss-cso-as-new-chief-sustainability-officer",
-      "publishedAt": "2026-06-24T16:19:52",
-      "content": "Apparel retail company Gap Inc. announced the appointment of Jeffrey Hogue as its new Chief"
     },
     {
       "source": {
@@ -128,11 +139,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "MSCI Acquires Climate Risk Data Provider First Street",
-      "description": "Investment data and research provider MSCI announced on Wednesday the acquisition of climate risk financial",
-      "url": "https://www.esgtoday.com/msci-acquires-climate-risk-data-provider-first-street/?utm_source=rss&utm_medium=rss&utm_campaign=msci-acquires-climate-risk-data-provider-first-street",
-      "publishedAt": "2026-06-24T14:29:50",
-      "content": "Investment data and research provider MSCI announced on Wednesday the acquisition of climate risk financial"
+      "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
+      "description": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment",
+      "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
+      "publishedAt": "2026-06-26T13:54:54",
+      "content": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "French court rules Total must revise climate plan to account for all emissions",
+      "description": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap...",
+      "url": "https://www.climatechangenews.com/2026/06/26/fossil-fuel-firm-total-must-account-total-emissions-french-court-lawsuit/",
+      "publishedAt": "2026-06-26T01:21:59",
+      "content": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Material Guide: Can Polyurethane Ever Be Sustainable?",
+      "description": "Polyurethane (PU) is often used as a fabric coating to improve durability and has been touted as an alternative to animal-derived leather—but it is a plastic, and it has serious implications for th...",
+      "url": "https://goodonyou.eco/is-polyurethane-sustainable/",
+      "publishedAt": "2026-06-25T02:11:19",
+      "content": "Polyurethane (PU) is often used as a fabric coating to improve durability and has been touted as an alternative to animal-derived leather—but it is a plastic, and it has serious implications for th..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say",
+      "description": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat...",
+      "url": "https://www.climatechangenews.com/2026/06/24/ministers-say-cop31-open-to-reflecting-santa-marta-conference-climate-talks/",
+      "publishedAt": "2026-06-24T10:07:49",
+      "content": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat..."
     },
     {
       "source": {
@@ -144,6 +188,39 @@
       "url": "https://csrwire.com/press-release/k4ggwa-and-cnh-brand-new-holland-launch-innovation-call-accelerate-land-restoration-across/",
       "publishedAt": "2026-06-23T11:25:00",
       "content": "The Knowledge for Great Green Wall Action (K4GGWA) programme, in partnership with New Holland has launched the K4GGWA Innovation Facility’s fifth call for innovation, seeking innovative tools and t..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Heat Wave Takes Toll on Europe’s Infrastructure, Too",
+      "description": "The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists.",
+      "url": "https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html",
+      "publishedAt": "2026-06-27T04:00:07",
+      "content": "The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Future generations being failed if more trees not planted, experts say",
+      "description": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets.",
+      "url": "https://www.bbc.co.uk/news/articles/c70yj76n4dko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-26T21:07:57",
+      "content": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "MSMEs in Tamil Nadu, Gujarat lack action plans to mitigate climate change impact",
+      "description": "",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/msmes-in-tamil-nadu-gujarat-lack-action-plans-to-mitigate-climate-change-impact/article71150873.ece",
+      "publishedAt": "2026-06-26T15:03:47",
+      "content": ""
     },
     {
       "source": {
@@ -172,28 +249,6 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "Material Guide: Can Polyurethane Ever Be Sustainable?",
-      "description": "Polyurethane (PU) is often used as a fabric coating to improve durability and has been touted as an alternative to animal-derived leather—but it is a plastic, and it has serious implications for th...",
-      "url": "https://goodonyou.eco/is-polyurethane-sustainable/",
-      "publishedAt": "2026-06-25T02:11:19",
-      "content": "Polyurethane (PU) is often used as a fabric coating to improve durability and has been touted as an alternative to animal-derived leather—but it is a plastic, and it has serious implications for th..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say",
-      "description": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat...",
-      "url": "https://www.climatechangenews.com/2026/06/24/ministers-say-cop31-open-to-reflecting-santa-marta-conference-climate-talks/",
-      "publishedAt": "2026-06-24T10:07:49",
-      "content": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
       "title": "22 Sustainable Gender Neutral Brands and Gender Inclusive Clothing for Every Body",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/sustainable-gender-neutral-unisex-clothing/",
@@ -202,14 +257,113 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "The Guardian"
       },
-      "author": "Climate Change News",
-      "title": "UN asks AI companies to reveal full environmental impacts",
-      "description": "UN chief António Guterres says big AI firms should disclose the emissions, water and energy use of their data centres amid community opposition\nThe post UN asks AI companies to reveal full environm...",
-      "url": "https://www.climatechangenews.com/2026/06/23/un-ai-firms-to-reveal-full-environmental-impacts-data-centres-water-energy/",
-      "publishedAt": "2026-06-23T17:18:44",
-      "content": "UN chief António Guterres says big AI firms should disclose the emissions, water and energy use of their data centres amid community opposition\nThe post UN asks AI companies to reveal full environm..."
+      "author": "The Guardian",
+      "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
+      "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsSwiss glaciers are set to lose an enormous amount of ice due to the h...",
+      "url": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
+      "publishedAt": "2026-06-27T02:50:42",
+      "content": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsSwiss glaciers are set to lose an enormous amount of ice due to the h..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Weekend to bring cooldown after record-breaking heatwave",
+      "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday.",
+      "url": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-27T00:21:33",
+      "content": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Europe's deadly heatwave breaks German record and halts public events",
+      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-26T18:14:36",
+      "content": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
+      "description": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
+      "url": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
+      "publishedAt": "2026-06-26T18:05:07",
+      "content": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Gregg Phillips Leaving FEMA",
+      "description": "Gregg Phillips was in charge of the emergency response agency’s largest division and had come under scrutiny for a series of bizarre claims.",
+      "url": "https://www.nytimes.com/2026/06/26/climate/gregg-phillips-fema-waffle-house.html",
+      "publishedAt": "2026-06-26T17:20:06",
+      "content": "Gregg Phillips was in charge of the emergency response agency’s largest division and had come under scrutiny for a series of bizarre claims."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
+      "description": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four to...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+      "publishedAt": "2026-06-26T17:04:30",
+      "content": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four to..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+      "description": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europe is the worst ever, with the combination of he...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
+      "publishedAt": "2026-06-26T15:00:14",
+      "content": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europe is the worst ever, with the combination of he..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Europe’s Scorching Heat Is Gradually Moving East",
+      "description": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over.",
+      "url": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
+      "publishedAt": "2026-06-26T11:49:01",
+      "content": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
+      "description": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge techA marine biology expedition in international waters off the coast of Brazil has discovered 31 new specie...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
+      "publishedAt": "2026-06-26T11:06:37",
+      "content": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge techA marine biology expedition in international waters off the coast of Brazil has discovered 31 new specie..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "First major hydropower projects in Great Britain in 40 years given go-ahead",
+      "description": "Three pumped storage hydroelectric power station sites in Scotland on list of 16 long-duration electricity storage plansBusiness live – latest updatesGreat Britain’s first new major hydropower proj...",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/first-hydropower-projects-in-great-britain-in-40-years-given-go-ahead",
+      "publishedAt": "2026-06-26T09:18:47",
+      "content": "Three pumped storage hydroelectric power station sites in Scotland on list of 16 long-duration electricity storage plansBusiness live – latest updatesGreat Britain’s first new major hydropower proj..."
     },
     {
       "source": {
@@ -246,6 +400,17 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Live from LCAW – Raw diplomacy: Can new mineral alliances deliver a just energy transition?",
+      "description": "This event is co-hosted by the Business and Human Rights Resource Centre, Chatham House, Climate Home News and the Natural Resource Governance Institute.\nThe post Live from LCAW – Raw diplomacy: Ca...",
+      "url": "https://www.climatechangenews.com/2026/06/24/live-from-lcaw-raw-diplomacy-can-new-mineral-alliances-deliver-a-just-energy-transition/",
+      "publishedAt": "2026-06-24T13:22:57",
+      "content": "This event is co-hosted by the Business and Human Rights Resource Centre, Chatham House, Climate Home News and the Natural Resource Governance Institute.\nThe post Live from LCAW – Raw diplomacy: Ca..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -254,50 +419,6 @@
       "url": "https://www.theguardian.com/environment/2026/jun/26/slough-is-like-an-experiment-europes-largest-datacentre-hub-leaves-town-sweltering",
       "publishedAt": "2026-06-26T07:00:12",
       "content": "Emerging research suggests datacentres create a heat island effect, pushing up temperatures in the immediate vicinity by as much as 9C The community living next to the largest datacentre park in Eu..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A little bird told her: scientist wins $100,000 prize for decoding birdsong",
-      "description": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signaturesA scientist who decoded the dictionary that a bird uses to communicate has won a $100...",
-      "url": "https://www.theguardian.com/science/2026/jun/26/human-animal-communication-step-closer-scientist-wins-prize-for-decoding-birdsong",
-      "publishedAt": "2026-06-26T06:53:54",
-      "content": "Julie Elie worked out how zebra finches announce who they are, what they are doing and use individual signaturesA scientist who decoded the dictionary that a bird uses to communicate has won a $100..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Shark bites are down globally – so why are they going up in Australia? It’s complicated",
-      "description": "In this week’s newsletter: Opinions are divided on how to mitigate risk, and whether it’s sharks or humans themselves who are the problem.",
-      "url": "https://www.theguardian.com/environment/2026/jun/25/down-to-earth-shark-bites-australia-europe-heat-records",
-      "publishedAt": "2026-06-26T06:00:11",
-      "content": "In this week’s newsletter: Opinions are divided on how to mitigate risk, and whether it’s sharks or humans themselves who are the problem."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fossil fuel price surges can lead to worse air quality, study finds",
-      "description": "Researchers find increases in toxic chemical in the air in some areas as people switch to cheaper wood burningNew research shows that the unreliability of fossil fuel supply chains and consequentia...",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/fossil-fuel-price-surges-worse-air-quality-study-pollutionwatch",
-      "publishedAt": "2026-06-26T05:00:09",
-      "content": "Researchers find increases in toxic chemical in the air in some areas as people switch to cheaper wood burningNew research shows that the unreliability of fossil fuel supply chains and consequentia..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Even in a heatwave, haymaking is a race against time | Nicola Chester",
-      "description": "Inkpen, Berkshire: Mow, tedder, rake and bale – it all has to be done before the next rainfall, which is increasingly hard to predictWith the weather set fair and a heatwave under way, all around a...",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/country-diary-even-in-a-heatwave-haymaking-is-a-race-against-time",
-      "publishedAt": "2026-06-26T04:30:08",
-      "content": "Inkpen, Berkshire: Mow, tedder, rake and bale – it all has to be done before the next rainfall, which is increasingly hard to predictWith the weather set fair and a heatwave under way, all around a..."
     },
     {
       "source": {
@@ -312,36 +433,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Deadly Heat Wave in Europe Continues to Smash Temperature Records",
-      "description": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.",
-      "url": "https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html",
-      "publishedAt": "2026-06-25T16:33:54",
-      "content": "The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Climeworks Signs 450,000 Tons of Carbon Removal Agreements",
-      "description": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service,",
-      "url": "https://www.esgtoday.com/climeworks-signs-450000-tons-of-carbon-removal-agreements/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-signs-450000-tons-of-carbon-removal-agreements",
-      "publishedAt": "2026-06-25T08:39:38",
-      "content": "Zurich-based Carbon removal solutions provider Climeworks announced that its carbon dioxide removal (CDR) portfolio service,"
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "Live from LCAW – Raw diplomacy: Can new mineral alliances deliver a just energy transition?",
-      "description": "This event is co-hosted by the Business and Human Rights Resource Centre, Chatham House, Climate Home News and the Natural Resource Governance Institute.\nThe post Live from LCAW – Raw diplomacy: Ca...",
-      "url": "https://www.climatechangenews.com/2026/06/24/live-from-lcaw-raw-diplomacy-can-new-mineral-alliances-deliver-a-just-energy-transition/",
-      "publishedAt": "2026-06-24T13:22:57",
-      "content": "This event is co-hosted by the Business and Human Rights Resource Centre, Chatham House, Climate Home News and the Natural Resource Governance Institute.\nThe post Live from LCAW – Raw diplomacy: Ca..."
+      "title": "EU, UK lead push for electrification as “powerful weapon” against fossil fuels",
+      "description": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati...",
+      "url": "https://www.climatechangenews.com/2026/06/24/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels/",
+      "publishedAt": "2026-06-24T18:36:07",
+      "content": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Why this heatwave feels worse than the last one",
+      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-24T12:24:39",
+      "content": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains."
     },
     {
       "source": {
@@ -386,72 +496,6 @@
       "url": "https://csrwire.com/press-release/cisco-and-generation-are-scaling-ai-powered-pathways-employment/",
       "publishedAt": "2026-06-23T09:05:00",
       "content": "As AI reshapes industries and redefines how work gets done, the question of who benefits and who gets left behind has become one of the more pressing challenges to solve in economic mobility."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "EU, UK lead push for electrification as “powerful weapon” against fossil fuels",
-      "description": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati...",
-      "url": "https://www.climatechangenews.com/2026/06/24/governments-rally-behind-electrification-push-as-powerful-weapon-against-fossil-fuels/",
-      "publishedAt": "2026-06-24T18:36:07",
-      "content": "A group of dozens of countries seeks to build momentum for a COP31 pledge to electrify 35% of global energy use by 2035 as an alternative to fossil fuels\nThe post EU, UK lead push for electrificati..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why this heatwave feels worse than the last one",
-      "description": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3vyzly206no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T12:24:39",
-      "content": "A combination of factors is making this heatwave more uncomfortable than some we have had in the past, as Simon King explains."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hundreds of schools plan closures ahead of red heat alerts",
-      "description": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-24T02:26:39",
-      "content": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The UK's summers are getting hotter - but how prepared are we?",
-      "description": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c9d2xl3555xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T23:46:03",
-      "content": "Based on current trends parts of the UK are set to see 40C summers regularly within a couple of decades."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-      "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
-      "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-23T16:27:17",
-      "content": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Europe Created Heat-Wave Protections. Now Comes the ‘Crash Test.’",
-      "description": "Searing temperatures in Western Europe are drawing comparisons to 2003, when a deadly heat wave sparked a reckoning.",
-      "url": "https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-protective-measures.html",
-      "publishedAt": "2026-06-23T09:02:13",
-      "content": "Searing temperatures in Western Europe are drawing comparisons to 2003, when a deadly heat wave sparked a reckoning."
     },
     {
       "source": {
