@@ -1,7 +1,40 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 34,
   "articles": [
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "63 Clothing Brands from the USA Making More Ethical and Sustainable Fashion",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-us/",
+      "publishedAt": "2026-06-29T00:00:55",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This June 2026",
+      "description": "Feature image: Harvest & Mill.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-06-27T22:00:45",
+      "content": "Feature image: Harvest & Mill."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Clarity AI Launches Asset-Level Climate Risk Assessment Solution for Banks, Investors",
+      "description": "Sustainability data and analytics company Clarity AI announced the announced the availability of its asset-level",
+      "url": "https://www.esgtoday.com/clarity-ai-launches-asset-level-climate-risk-assessment-solution-for-banks-investors/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-asset-level-climate-risk-assessment-solution-for-banks-investors",
+      "publishedAt": "2026-06-29T08:58:41",
+      "content": "Sustainability data and analytics company Clarity AI announced the announced the availability of its asset-level"
+    },
     {
       "source": {
         "name": "Climate Change News"
@@ -15,28 +48,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This June 2026",
-      "description": "Feature image: Harvest & Mill.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-06-22T22:00:45",
-      "content": "Feature image: Harvest & Mill."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "18 More Sustainable Fashion and Beauty Brands From Japan to Know About",
-      "description": "Some of the most creative and important designers in recent fashion history hail from Japan, so we’re excited to bring you this round-up of the region’s top-rated more sustainable brands. More ethi...",
-      "url": "https://goodonyou.eco/more-sustainable-brands-from-japan/",
-      "publishedAt": "2026-06-22T03:45:54",
-      "content": "Some of the most creative and important designers in recent fashion history hail from Japan, so we’re excited to bring you this round-up of the region’s top-rated more sustainable brands. More ethi..."
-    },
-    {
-      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
@@ -45,17 +56,6 @@
       "url": "https://www.thehindu.com/news/national/sonowal-launches-five-initiatives-at-voc-port-to-advance-green-digital-and-educational-goals/article71137396.ece",
       "publishedAt": "2026-06-23T13:35:04",
       "content": "Projects include PortGPT app, sustainability report, maritime logistics partnership and Kendriya Vidyalaya programme"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Tesla, Sunrun, Renew Home to Turn U.S. Homes into Massive Distributed Power Plant",
-      "description": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced",
-      "url": "https://www.esgtoday.com/tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant",
-      "publishedAt": "2026-06-25T13:16:02",
-      "content": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced"
     },
     {
       "source": {
@@ -84,33 +84,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Paris Court Orders TotalEnergies to Address Climate Risks from Customers’ Use of its Products",
-      "description": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from",
-      "url": "https://www.esgtoday.com/paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products/?utm_source=rss&utm_medium=rss&utm_campaign=paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products",
-      "publishedAt": "2026-06-26T10:04:47",
-      "content": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "California Pushes Back Deadline for First Corporate Climate Reports to November",
-      "description": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s",
-      "url": "https://www.esgtoday.com/california-pushes-back-deadline-for-first-corporate-climate-reports-to-november/?utm_source=rss&utm_medium=rss&utm_campaign=california-pushes-back-deadline-for-first-corporate-climate-reports-to-november",
-      "publishedAt": "2026-06-25T11:31:12",
-      "content": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Breaking it down: how to limit the environmental impact of your body after death",
-      "description": "From cardboard coffins and natural burials to water-based cremation, Australians are increasingly open to alternative farewells – but the key is to planChange by degrees offers life hacks and susta...",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/27/environmental-funeral-sustainable-coffins-natural-burial-body-after-death",
-      "publishedAt": "2026-06-27T00:00:25",
-      "content": "From cardboard coffins and natural burials to water-based cremation, Australians are increasingly open to alternative farewells – but the key is to planChange by degrees offers life hacks and susta..."
+      "title": "Tesla, Sunrun, Renew Home to Turn U.S. Homes into Massive Distributed Power Plant",
+      "description": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced",
+      "url": "https://www.esgtoday.com/tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant",
+      "publishedAt": "2026-06-25T13:16:02",
+      "content": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced"
     },
     {
       "source": {
@@ -125,14 +103,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "ESG Today"
       },
-      "author": "Climate Change News",
-      "title": "French court rules Total must revise climate plan to account for all emissions",
-      "description": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap...",
-      "url": "https://www.climatechangenews.com/2026/06/26/fossil-fuel-firm-total-must-account-total-emissions-french-court-lawsuit/",
-      "publishedAt": "2026-06-26T01:21:59",
-      "content": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap..."
+      "author": "ESG Today",
+      "title": "Paris Court Orders TotalEnergies to Address Climate Risks from Customers’ Use of its Products",
+      "description": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from",
+      "url": "https://www.esgtoday.com/paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products/?utm_source=rss&utm_medium=rss&utm_campaign=paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products",
+      "publishedAt": "2026-06-26T10:04:47",
+      "content": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from"
     },
     {
       "source": {
@@ -150,6 +128,28 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Eiffel Launches €1 Billion Impact Debt Fund",
+      "description": "Paris-based asset manager Eiffel Investment Group announced the launch of Eiffel Impact Debt III, the",
+      "url": "https://www.esgtoday.com/eiffel-launches-e1-billion-impact-debt-fund/?utm_source=rss&utm_medium=rss&utm_campaign=eiffel-launches-e1-billion-impact-debt-fund",
+      "publishedAt": "2026-06-29T09:54:24",
+      "content": "Paris-based asset manager Eiffel Investment Group announced the launch of Eiffel Impact Debt III, the"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Park strife: Delhi’s historic polo club becomes a battlefield for the city’s fate",
+      "description": "Opposition is mounting to the government’s requisition of two of the last green spaces in India’s overheated capital For decades, the social highlight of winters in Delhi for the “beautiful people”...",
+      "url": "https://www.theguardian.com/global-development/2026/jun/29/park-strife-delhis-historic-polo-club-becomes-a-battlefield-for-the-citys-fate",
+      "publishedAt": "2026-06-29T09:00:40",
+      "content": "Opposition is mounting to the government’s requisition of two of the last green spaces in India’s overheated capital For decades, the social highlight of winters in Delhi for the “beautiful people”..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
       "description": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment",
       "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
@@ -158,14 +158,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "Microsoft Hits Water Positive Target 5 Years Ahead of 2030 Goal",
-      "description": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”",
-      "url": "https://www.esgtoday.com/microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal",
-      "publishedAt": "2026-06-25T14:48:38",
-      "content": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”"
+      "author": "Climate Change News",
+      "title": "French court rules Total must revise climate plan to account for all emissions",
+      "description": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap...",
+      "url": "https://www.climatechangenews.com/2026/06/26/fossil-fuel-firm-total-must-account-total-emissions-french-court-lawsuit/",
+      "publishedAt": "2026-06-26T01:21:59",
+      "content": "Oil and gas giant TotalEnergies has been given six months by a court to publish a more robust climate plan\nThe post French court rules Total must revise climate plan to account for all emissions ap..."
     },
     {
       "source": {
@@ -180,17 +180,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 presidency ‘open’ to reflecting Santa Marta in UN climate process, ministers say",
-      "description": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat...",
-      "url": "https://www.climatechangenews.com/2026/06/24/ministers-say-cop31-open-to-reflecting-santa-marta-conference-climate-talks/",
-      "publishedAt": "2026-06-24T10:07:49",
-      "content": "The two co-hosts want the gathering of over 60 governments in Colombia to be reflected in the official UNFCCC climate process\nThe post COP31 presidency ‘open’ to reflecting Santa Marta in UN climat..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -199,6 +188,94 @@
       "url": "https://goodonyou.eco/sustainable-gender-neutral-unisex-clothing/",
       "publishedAt": "2026-06-24T00:00:02",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "We need no-go mining zones for the energy transition to be just: Here’s how it could work",
+      "description": "As rising demand for critical minerals is compounding threats to fragile ecosystems, NGOs have mapped out areas that should be off-limits to mining \nThe post We need no-go mining zones for the ener...",
+      "url": "https://www.climatechangenews.com/2026/06/29/we-need-no-go-mining-zones-for-the-energy-transition-to-be-just-heres-how-it-could-work/",
+      "publishedAt": "2026-06-29T09:19:50",
+      "content": "As rising demand for critical minerals is compounding threats to fragile ecosystems, NGOs have mapped out areas that should be off-limits to mining \nThe post We need no-go mining zones for the ener..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Full Strawberry Moon set to light up night sky",
+      "description": "The first full Moon of summer will rise across UK skies this week",
+      "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T09:11:53",
+      "content": "The first full Moon of summer will rise across UK skies this week"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "First dinosaur bone from Antarctica found in a drawer",
+      "description": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur.",
+      "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T05:10:46",
+      "content": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: There’s no blackbird song like the one on my street | Josie George",
+      "description": "Stoke-on-Trent, Staffordshire: With summer’s great silence coming, we must enjoy the birdsong while we can – as I have done with my local conifer croonerI have two summer earworms right now. The fi...",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/country-diary-theres-no-blackbird-song-like-the-one-on-my-street",
+      "publishedAt": "2026-06-29T04:30:28",
+      "content": "Stoke-on-Trent, Staffordshire: With summer’s great silence coming, we must enjoy the birdsong while we can – as I have done with my local conifer croonerI have two summer earworms right now. The fi..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘We’re up against forces that have all the money in the world’: Erin Brockovich on her battle against AI datacentres",
+      "description": "In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water.",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/were-up-against-forces-that-have-all-the-money-in-the-world-erin-brockovich-on-her-battle-against-ai-datacentres",
+      "publishedAt": "2026-06-29T04:00:28",
+      "content": "In 1993, she squeezed a $333m settlement from a Californian energy company in a scandal over contaminated water."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Three firefighters die battling huge wildfires on Colorado-Utah border",
+      "description": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8l7mpmdggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-28T16:33:50",
+      "content": "A number of blazes have been raging across Utah and Colorado, leading both governors to declare states of emergency."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Heat Wave Takes Toll on Europe’s Infrastructure, Too",
+      "description": "The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists.",
+      "url": "https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html",
+      "publishedAt": "2026-06-27T04:00:08",
+      "content": "The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Hits Water Positive Target 5 Years Ahead of 2030 Goal",
+      "description": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”",
+      "url": "https://www.esgtoday.com/microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal",
+      "publishedAt": "2026-06-25T14:48:38",
+      "content": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”"
     },
     {
       "source": {
@@ -249,39 +326,6 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Young country diary: Our outdoor learning highlight – making a den in the woods",
-      "description": "Edinburgh: As we are visually impaired, we love to appreciate the sounds and smell of the woodland.",
-      "url": "https://www.theguardian.com/environment/2026/jun/27/young-country-diary-our-outdoor-learning-highlight-making-a-den-in-the-woods",
-      "publishedAt": "2026-06-27T10:00:01",
-      "content": "Edinburgh: As we are visually impaired, we love to appreciate the sounds and smell of the woodland."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Heat Wave Takes Toll on Europe’s Infrastructure, Too",
-      "description": "The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists.",
-      "url": "https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html",
-      "publishedAt": "2026-06-27T04:00:08",
-      "content": "The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Future generations being failed if more trees not planted, experts say",
-      "description": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yj76n4dko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-26T21:07:57",
-      "content": "Statistics show the number of trees being planted is increasing, but conservationists say it is not meeting targets."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
       "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsEurope heatwave: latest updatesSwiss glaciers are set to lose an enor...",
       "url": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
@@ -320,39 +364,6 @@
       "url": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
       "publishedAt": "2026-06-26T11:49:01",
       "content": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Chock full of incredible animals’: marine expedition uncovers 31 new species in two weeks",
-      "description": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge techA marine biology expedition in international waters off the coast of Brazil has discovered 31 new specie...",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/marine-expedition-uncovers-31-new-species-two-weeks-brazil",
-      "publishedAt": "2026-06-26T11:06:37",
-      "content": "Experts worked in ocean midwater off Brazil at near-record speeds thanks to cutting-edge techA marine biology expedition in international waters off the coast of Brazil has discovered 31 new specie..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "First major hydropower projects in Great Britain in 40 years given go-ahead",
-      "description": "Three pumped storage hydroelectric power station sites in Scotland on list of 16 long-duration electricity storage plansBusiness live – latest updatesGreat Britain’s first new major hydropower proj...",
-      "url": "https://www.theguardian.com/environment/2026/jun/26/first-hydropower-projects-in-great-britain-in-40-years-given-go-ahead",
-      "publishedAt": "2026-06-26T09:18:47",
-      "content": "Three pumped storage hydroelectric power station sites in Scotland on list of 16 long-duration electricity storage plansBusiness live – latest updatesGreat Britain’s first new major hydropower proj..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "As Nigeria rails at loss and damage “mirage”, fund boss assures money is coming",
-      "description": "Ibrahima Cheikh Diong, CEO of the loss and damage fund, said he hopes to start spending this year, as pressure mounts for disbursements\nThe post As Nigeria rails at loss and damage “mirage”, fund b...",
-      "url": "https://www.climatechangenews.com/2026/06/25/as-nigeria-rails-at-loss-and-damage-mirage-fund-boss-assures-money-is-coming/",
-      "publishedAt": "2026-06-25T17:52:25",
-      "content": "Ibrahima Cheikh Diong, CEO of the loss and damage fund, said he hopes to start spending this year, as pressure mounts for disbursements\nThe post As Nigeria rails at loss and damage “mirage”, fund b..."
     },
     {
       "source": {
