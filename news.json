@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
@@ -18,11 +18,11 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This June 2026",
-      "description": "Feature image: Harvest & Mill.",
+      "title": "More Sustainable Fashion Brand Offers This July 2026",
+      "description": "Feature image: Terra Thread.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-06-27T22:00:45",
-      "content": "Feature image: Harvest & Mill."
+      "content": "Feature image: Terra Thread."
     },
     {
       "source": {
@@ -62,55 +62,77 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Amazon Invests in Sustainable Aviation Fuel Producer GranBio",
+      "description": "Amazon announced a new investment in biofuels-focused biotechnology company GranBio, aimed at accelerating the development",
+      "url": "https://www.esgtoday.com/amazon-invests-in-sustainable-aviation-fuel-producer-granbio/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-invests-in-sustainable-aviation-fuel-producer-granbio",
+      "publishedAt": "2026-06-29T15:15:39",
+      "content": "Amazon announced a new investment in biofuels-focused biotechnology company GranBio, aimed at accelerating the development"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The 50-Year-Old Conservation Law With a 99% Success Rate",
+      "description": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered...",
+      "url": "https://triplepundit.com/2026/endangered-species-act-99-percent-success-rate-conservation/",
+      "publishedAt": "2026-06-29T12:00:00",
+      "content": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "McDonald’s Appoints Suheily Natal Davis as Chief Sustainability, Social Impact & Inclusion Officer",
+      "description": "McDonald’s has appointed Suheily Natal Davis as its new Chief Sustainability, Social Impact & Inclusion",
+      "url": "https://www.esgtoday.com/mcdonalds-appoints-suheily-natal-davis-as-chief-sustainability-social-impact-inclusion-officer/?utm_source=rss&utm_medium=rss&utm_campaign=mcdonalds-appoints-suheily-natal-davis-as-chief-sustainability-social-impact-inclusion-officer",
+      "publishedAt": "2026-06-29T11:28:12",
+      "content": "McDonald’s has appointed Suheily Natal Davis as its new Chief Sustainability, Social Impact & Inclusion"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Compliant farmers could face fewer inspections under new pollution proposals",
+      "description": "The latest draft Nutrients Action Policy caused controversy when it was initially launched last year.",
+      "url": "https://www.bbc.co.uk/news/articles/cewq8jvekqgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T12:00:04",
+      "content": "The latest draft Nutrients Action Policy caused controversy when it was initially launched last year."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘It’s open green space versus construction’: Delhi’s historic polo club and the battle for the city’s future",
+      "description": "The government’s requisition of a historic green space has ignited a fierce debate about air quality and heat stress in India’s scorching capitalFor decades, the social highlight of winters in Delh...",
+      "url": "https://www.theguardian.com/global-development/2026/jun/29/park-strife-delhis-historic-polo-club-becomes-a-battlefield-for-the-citys-fate",
+      "publishedAt": "2026-06-29T09:00:40",
+      "content": "The government’s requisition of a historic green space has ignited a fierce debate about air quality and heat stress in India’s scorching capitalFor decades, the social highlight of winters in Delh..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ISSB to Allow Use of TNFD Metrics to Meet Nature-Related Disclosure Requirements",
+      "description": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) has proposed allowing companies to use Taskforce",
+      "url": "https://www.esgtoday.com/issb-to-allow-use-of-tnfd-metrics-to-meet-nature-related-disclosure-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-to-allow-use-of-tnfd-metrics-to-meet-nature-related-disclosure-requirements",
+      "publishedAt": "2026-06-29T14:57:23",
+      "content": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) has proposed allowing companies to use Taskforce"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Carbon Credit Ratings Provider BeZero Acquires Climate Analytics Platform Cedar",
       "description": "Carbon credit ratings agency BeZero Carbon announced the acquisition of AI-powered climate data startup Cedar,",
       "url": "https://www.esgtoday.com/carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar/?utm_source=rss&utm_medium=rss&utm_campaign=carbon-credit-ratings-provider-bezero-acquires-sustainability-data-platform-cedar",
       "publishedAt": "2026-06-26T13:01:40",
       "content": "Carbon credit ratings agency BeZero Carbon announced the acquisition of AI-powered climate data startup Cedar,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Ballard Acquires Green Hydrogen Power Solutions Provider GeoPura",
-      "description": "Canadian hydrogen fuel cell developer Ballard announced the acquisition of green hydrogen solutions provider GeoPura,",
-      "url": "https://www.esgtoday.com/ballard-acquires-green-hydrogen-power-solutions-provider-geopura/?utm_source=rss&utm_medium=rss&utm_campaign=ballard-acquires-green-hydrogen-power-solutions-provider-geopura",
-      "publishedAt": "2026-06-26T10:53:26",
-      "content": "Canadian hydrogen fuel cell developer Ballard announced the acquisition of green hydrogen solutions provider GeoPura,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Tesla, Sunrun, Renew Home to Turn U.S. Homes into Massive Distributed Power Plant",
-      "description": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced",
-      "url": "https://www.esgtoday.com/tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=tesla-sunrun-renew-home-to-turn-u-s-homes-into-massive-distributed-power-plant",
-      "publishedAt": "2026-06-25T13:16:02",
-      "content": "Tesla, residential clean energy provider Sunrun and Google-backed home energy management company Renew Home announced"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Climate adaptation in Africa needs investment, not imported solutions",
-      "description": "Across Africa, communities have implemented vital climate adaptation measures - but these need investment to scale\nThe post Climate adaptation in Africa needs investment, not imported solutions app...",
-      "url": "https://www.climatechangenews.com/2026/06/26/climate-adaptation-in-africa-needs-investment-not-imported-solutions/",
-      "publishedAt": "2026-06-26T14:26:06",
-      "content": "Across Africa, communities have implemented vital climate adaptation measures - but these need investment to scale\nThe post Climate adaptation in Africa needs investment, not imported solutions app..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Paris Court Orders TotalEnergies to Address Climate Risks from Customers’ Use of its Products",
-      "description": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from",
-      "url": "https://www.esgtoday.com/paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products/?utm_source=rss&utm_medium=rss&utm_campaign=paris-court-orders-totalenergies-to-address-climate-risks-from-customers-use-of-its-products",
-      "publishedAt": "2026-06-26T10:04:47",
-      "content": "French energy giant TotalEnergies must identify and disclose measures to address climate risks resulting from"
     },
     {
       "source": {
@@ -125,6 +147,50 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "K4GGWA and CNH Brand New Holland Launch Innovation Call to Accelerate Land Restoration Across the Great Green Wall",
+      "description": "The Knowledge for Great Green Wall Action (K4GGWA) programme, in partnership with New Holland has launched the K4GGWA Innovation Facility’s fifth call for innovation, seeking innovative tools and t...",
+      "url": "https://csrwire.com/press-release/k4ggwa-and-cnh-brand-new-holland-launch-innovation-call-accelerate-land-restoration-across/",
+      "publishedAt": "2026-06-23T11:25:00",
+      "content": "The Knowledge for Great Green Wall Action (K4GGWA) programme, in partnership with New Holland has launched the K4GGWA Innovation Facility’s fifth call for innovation, seeking innovative tools and t..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Return of the Range Rider",
+      "description": "The rapid development of once-wild spaces is spurring growing pains for people and animals across the globe.",
+      "url": "https://triplepundit.com/2026/range-rider-human-wildlife-conflict-management-blackfoot-valley-montana/",
+      "publishedAt": "2026-06-29T12:00:00",
+      "content": "The rapid development of once-wild spaces is spurring growing pains for people and animals across the globe."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Special Delivery: FedEx Helps Harbor Seal Walnut Find a New Home",
+      "description": "FedEx is known for delivering packages around the world—but this month, the company delivered something far more unique.",
+      "url": "https://csrwire.com/press-release/special-delivery-fedex-helps-harbor-seal-walnut-find-new-home/",
+      "publishedAt": "2026-06-29T11:00:00",
+      "content": "FedEx is known for delivering packages around the world—but this month, the company delivered something far more unique."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "China Unveils Goal to Grow Non-Fossil Energy to 50% of Power Generation by 2030",
+      "description": "China’s National Development and Reform Commission and the National Energy Administration announced a series of",
+      "url": "https://www.esgtoday.com/china-sets-goal-to-grow-non-fossil-energy-to-half-of-power-generation-by-2030/?utm_source=rss&utm_medium=rss&utm_campaign=china-sets-goal-to-grow-non-fossil-energy-to-half-of-power-generation-by-2030",
+      "publishedAt": "2026-06-29T10:37:24",
+      "content": "China’s National Development and Reform Commission and the National Energy Administration announced a series of"
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -136,25 +202,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Park strife: Delhi’s historic polo club becomes a battlefield for the city’s fate",
-      "description": "Opposition is mounting to the government’s requisition of two of the last green spaces in India’s overheated capital For decades, the social highlight of winters in Delhi for the “beautiful people”...",
-      "url": "https://www.theguardian.com/global-development/2026/jun/29/park-strife-delhis-historic-polo-club-becomes-a-battlefield-for-the-citys-fate",
-      "publishedAt": "2026-06-29T09:00:40",
-      "content": "Opposition is mounting to the government’s requisition of two of the last green spaces in India’s overheated capital For decades, the social highlight of winters in Delhi for the “beautiful people”..."
+      "author": "CSRWire",
+      "title": "AskNature Podcast #5 – Baratunde Thurston",
+      "description": "This week's AskNature Podcast features author and host, Baratunde Thurston.",
+      "url": "https://csrwire.com/press-release/asknature-podcast-5-baratunde-thurston/",
+      "publishedAt": "2026-06-29T09:40:00",
+      "content": "This week's AskNature Podcast features author and host, Baratunde Thurston."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
-      "description": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment",
-      "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
-      "publishedAt": "2026-06-26T13:54:54",
-      "content": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment"
+      "author": "Climate Change News",
+      "title": "Climate adaptation in Africa needs investment, not imported solutions",
+      "description": "Across Africa, communities have implemented vital climate adaptation measures - but these need investment to scale\nThe post Climate adaptation in Africa needs investment, not imported solutions app...",
+      "url": "https://www.climatechangenews.com/2026/06/26/climate-adaptation-in-africa-needs-investment-not-imported-solutions/",
+      "publishedAt": "2026-06-26T14:26:06",
+      "content": "Across Africa, communities have implemented vital climate adaptation measures - but these need investment to scale\nThe post Climate adaptation in Africa needs investment, not imported solutions app..."
     },
     {
       "source": {
@@ -183,11 +249,121 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "22 Sustainable Gender Neutral Brands and Gender Inclusive Clothing for Every Body",
+      "title": "21 Sustainable Gender Neutral Brands and Gender Inclusive Clothing for Every Body",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/sustainable-gender-neutral-unisex-clothing/",
       "publishedAt": "2026-06-24T00:00:02",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cost to rewire Great Britain’s electricity network could reach £90bn in 2030s",
+      "description": "Energy system operator says sum needed to deliver clean power targets while meeting rising demand is up by 50%The cost of rewiring Great Britain’s electricity networks through the 2030s is now 50% ...",
+      "url": "https://www.theguardian.com/business/2026/jun/30/great-britain-electricity-network-90bn-pounds-2030s",
+      "publishedAt": "2026-06-30T06:00:42",
+      "content": "Energy system operator says sum needed to deliver clean power targets while meeting rising demand is up by 50%The cost of rewiring Great Britain’s electricity networks through the 2030s is now 50% ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Complete mess' as drinks could rise by 50p under new bottle return plan, experts say",
+      "description": "Shoppers could face higher drink prices and reduced choice under a new recycling scheme, industry leaders say.",
+      "url": "https://www.bbc.co.uk/news/articles/cp8ry5p08x7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-30T05:11:42",
+      "content": "Shoppers could face higher drink prices and reduced choice under a new recycling scheme, industry leaders say."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: This is as wild and remote as Britain gets – a trip to St Kilda | Nigel Brown",
+      "description": "Outer Hebrides: It’s nearly 100 years since anyone lived on this hostile archipelago, though their ‘village’ remains – as does an astonishing wealth of wildlife Dawn on a deep-rolling ocean, and I ...",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/26/country-diary-this-is-as-wild-and-remote-as-britain-gets-a-trip-to-st-kilda",
+      "publishedAt": "2026-06-30T04:30:03",
+      "content": "Outer Hebrides: It’s nearly 100 years since anyone lived on this hostile archipelago, though their ‘village’ remains – as does an astonishing wealth of wildlife Dawn on a deep-rolling ocean, and I ..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Best-Rated Brands From Q2? Stylish, Affordable Swimwear and Dreamy Bridal Gowns",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/the-best-scoring-brands-from-q2-2026/",
+      "publishedAt": "2026-06-30T03:36:53",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "See Day-by-Day Forecast as Heat Wave Engulfs U.S. Ahead of the July 4 Weekend",
+      "description": "Dangerous heat is expected across much of the country through the Fourth of July weekend.",
+      "url": "https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html",
+      "publishedAt": "2026-06-30T01:13:40",
+      "content": "Dangerous heat is expected across much of the country through the Fourth of July weekend."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say",
+      "description": "First estimates published by the national health agency listed hundreds more deaths per day compared with the daily death rate in previous months.",
+      "url": "https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html",
+      "publishedAt": "2026-06-29T20:06:46",
+      "content": "First estimates published by the national health agency listed hundreds more deaths per day compared with the daily death rate in previous months."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Aerial video shows extent of deadly flash flooding in Kentucky",
+      "description": "At least four people are dead, with 60 water rescues and evacuations carried out across the state.",
+      "url": "https://www.bbc.co.uk/news/videos/c5yzd666r6ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T14:18:11",
+      "content": "At least four people are dead, with 60 water rescues and evacuations carried out across the state."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Literally growing the future’: volunteers help save Scottish rainforest by collecting 11m seeds",
+      "description": "Teams painstakingly combed endangered Atlantic habitat over several years, helping to grow 8m native treesA small band of volunteers has helped to grow nearly 8m native trees in Scotland, crucial t...",
+      "url": "https://www.theguardian.com/environment/2026/jun/29/growing-the-future-volunteers-help-save-scottish-rainforest-collecting-seeds",
+      "publishedAt": "2026-06-29T14:06:46",
+      "content": "Teams painstakingly combed endangered Atlantic habitat over several years, helping to grow 8m native treesA small band of volunteers has helped to grow nearly 8m native trees in Scotland, crucial t..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Keep an eye out for tonight's Strawberry Moon",
+      "description": "The Strawberry Moon is set to rise in UK skies tonight, marking the first full Moon of the summer season.",
+      "url": "https://www.bbc.co.uk/news/videos/c872rry4nl1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T13:51:13",
+      "content": "The Strawberry Moon is set to rise in UK skies tonight, marking the first full Moon of the summer season."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Full Strawberry Moon to light up the night sky tonight",
+      "description": "The first full Moon of summer will rise across UK skies this week",
+      "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-06-29T10:33:12",
+      "content": "The first full Moon of summer will rise across UK skies this week"
     },
     {
       "source": {
@@ -202,14 +378,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Full Strawberry Moon set to light up night sky",
-      "description": "The first full Moon of summer will rise across UK skies this week",
-      "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-29T09:11:53",
-      "content": "The first full Moon of summer will rise across UK skies this week"
+      "author": "ESG Today",
+      "title": "Mirova Appoints Léa Dunand-Chatellet as CEO",
+      "description": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment",
+      "url": "https://www.esgtoday.com/mirova-appoints-lea-dunand-chatellet-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=mirova-appoints-lea-dunand-chatellet-as-ceo",
+      "publishedAt": "2026-06-26T13:54:54",
+      "content": "Mirova, the sustainable investment-focused arm of Natixis Investment Managers (Natixis IM), announced today the appointment"
     },
     {
       "source": {
@@ -221,17 +397,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cdep67jnn9zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-06-29T05:10:46",
       "content": "The fossil, collected in Antarctica in 1985, is part of the tail of a beast called a Titanosaur."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: There’s no blackbird song like the one on my street | Josie George",
-      "description": "Stoke-on-Trent, Staffordshire: With summer’s great silence coming, we must enjoy the birdsong while we can – as I have done with my local conifer croonerI have two summer earworms right now. The fi...",
-      "url": "https://www.theguardian.com/environment/2026/jun/29/country-diary-theres-no-blackbird-song-like-the-one-on-my-street",
-      "publishedAt": "2026-06-29T04:30:28",
-      "content": "Stoke-on-Trent, Staffordshire: With summer’s great silence coming, we must enjoy the birdsong while we can – as I have done with my local conifer croonerI have two summer earworms right now. The fi..."
     },
     {
       "source": {
@@ -268,102 +433,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Microsoft Hits Water Positive Target 5 Years Ahead of 2030 Goal",
-      "description": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”",
-      "url": "https://www.esgtoday.com/microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-hits-water-positive-target-5-years-ahead-of-2030-goal",
-      "publishedAt": "2026-06-25T14:48:38",
-      "content": "Microsoft revealed a series of water-related sustainability milestones, including announcing that it became “water positive”"
+      "author": "CSRWire",
+      "title": "Chemours Celebrates World Refrigeration Day: Cool Intelligence in Action",
+      "description": "Every year on June 26, Chemours joins the global community in celebrating World Refrigeration Day, recognizing the technologies and expertise that support our modern world.",
+      "url": "https://csrwire.com/press-release/chemours-celebrates-world-refrigeration-day-cool-intelligence-action/",
+      "publishedAt": "2026-06-25T12:20:00",
+      "content": "Every year on June 26, Chemours joins the global community in celebrating World Refrigeration Day, recognizing the technologies and expertise that support our modern world."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "I hear my son crying beneath the rubble, says Venezuela earthquake survivor",
-      "description": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4zz90wk7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-28T03:15:06",
-      "content": "Andreina Valerio says she fears for her son, who is trapped with her partner and in-laws beneath a collapsed building."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Could legal 'personhood' help save Lough Neagh?",
-      "description": "Rights of Nature could give Lough Neagh the same status as a person, entitled to the same protections.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7vy307xlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T23:01:27",
-      "content": "Rights of Nature could give Lough Neagh the same status as a person, entitled to the same protections."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The last continent: how deadly bird flu travelled the world before landing on a remote Australian beach",
-      "description": "The H5N1 virus has now reached every continent on the planet.",
-      "url": "https://www.theguardian.com/world/2026/jun/28/bird-flu-travelled-world-remote-australian-beach",
-      "publishedAt": "2026-06-27T20:00:14",
-      "content": "The H5N1 virus has now reached every continent on the planet."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Europe's deadly heatwave breaks German record and halts public events",
-      "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-27T16:51:17",
-      "content": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
-      "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsEurope heatwave: latest updatesSwiss glaciers are set to lose an enor...",
-      "url": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
-      "publishedAt": "2026-06-27T02:50:42",
-      "content": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsEurope heatwave: latest updatesSwiss glaciers are set to lose an enor..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "In Europe, Tesla Sales Are Rising Despite Views on Elon Musk",
-      "description": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive.",
-      "url": "https://www.nytimes.com/2026/06/26/business/tesla-elon-musk-europe.html",
-      "publishedAt": "2026-06-26T18:05:07",
-      "content": "Price cuts and low-interest-rate loans are luring buyers, including people offended by the company’s chief executive."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Gregg Phillips Leaving FEMA",
-      "description": "Gregg Phillips was in charge of the emergency response agency’s largest division and had come under scrutiny for a series of bizarre claims.",
-      "url": "https://www.nytimes.com/2026/06/26/climate/gregg-phillips-fema-waffle-house.html",
-      "publishedAt": "2026-06-26T17:20:06",
-      "content": "Gregg Phillips was in charge of the emergency response agency’s largest division and had come under scrutiny for a series of bizarre claims."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Europe’s Scorching Heat Is Gradually Moving East",
-      "description": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over.",
-      "url": "https://www.nytimes.com/2026/06/26/weather/europe-heat-wave-temperatures.html",
-      "publishedAt": "2026-06-26T11:49:01",
-      "content": "Parts of Spain, France and other countries are seeing slight relief, but the record-breaking heat wave is far from over."
+      "author": "CSRWire",
+      "title": "Wesco Announces 2026 Wesco Cares Champion of the Year and Celebrates Annual Day of Caring",
+      "description": "Wesco hosted its annual Day of Caring events for employees at locations around the globe, reinforcing the company’s commitment to giving back to the communities where employees live and work.",
+      "url": "https://csrwire.com/press-release/wesco-announces-2026-wesco-cares-champion-year-and-celebrates-annual-day-caring/",
+      "publishedAt": "2026-06-25T11:00:00",
+      "content": "Wesco hosted its annual Day of Caring events for employees at locations around the globe, reinforcing the company’s commitment to giving back to the communities where employees live and work."
     },
     {
       "source": {
@@ -375,6 +463,39 @@
       "url": "https://www.climatechangenews.com/2026/06/24/live-from-lcaw-raw-diplomacy-can-new-mineral-alliances-deliver-a-just-energy-transition/",
       "publishedAt": "2026-06-24T13:22:57",
       "content": "This event is co-hosted by the Business and Human Rights Resource Centre, Chatham House, Climate Home News and the Natural Resource Governance Institute.\nThe post Live from LCAW – Raw diplomacy: Ca..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mary Kay Extends Winning Streak With Fourth Year As #1 in Global Direct Selling Beauty",
+      "description": "Mary Kay Inc.",
+      "url": "https://csrwire.com/press-release/mary-kay-extends-winning-streak-fourth-year-1-global-direct-selling-beauty/",
+      "publishedAt": "2026-06-24T08:00:00",
+      "content": "Mary Kay Inc."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "For More Than a Decade, Entergy Earns the Civic 50 Honor for Its Commitment to Communities",
+      "description": "Entergy has been named a 2026 honoree of The Civic 50, an annual recognition by Points of Light that identifies the nation’s most community-minded companies.",
+      "url": "https://csrwire.com/press-release/more-decade-entergy-earns-civic-50-honor-its-commitment-communities/",
+      "publishedAt": "2026-06-23T10:40:00",
+      "content": "Entergy has been named a 2026 honoree of The Civic 50, an annual recognition by Points of Light that identifies the nation’s most community-minded companies."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "LA Kings’ Black, Silver & Bold Program Concludes 2025 -26 Season, Expanding Access and Driving Measurable Impact in Youth Hockey",
+      "description": "On Wednesday, June 17, 2026, AEG’s LA Kings concluded the 2025–26 season of Black, Silver & Bold, a year-long initiative focused on expanding access, advancing development, and fostering inclusion ...",
+      "url": "https://csrwire.com/press-release/la-kings-black-silver-bold-program-concludes-2025-26-season-expanding-access-and-driving/",
+      "publishedAt": "2026-06-23T10:00:00",
+      "content": "On Wednesday, June 17, 2026, AEG’s LA Kings concluded the 2025–26 season of Black, Silver & Bold, a year-long initiative focused on expanding access, advancing development, and fostering inclusion ..."
     }
   ]
 }
