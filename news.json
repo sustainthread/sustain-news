@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 50,
+  "totalResults": 46,
   "articles": [
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Living Our Purpose: MetLife Publishes Latest Sustainability Report",
-      "description": "MetLife released its 2025 Sustainability Report, showcasing how the company is creating long-term value for customers, employees, communities and shareholders while advancing its purpose: Always wi...",
-      "url": "https://csrwire.com/press-release/living-our-purpose-metlife-publishes-latest-sustainability-report/",
-      "publishedAt": "2026-06-30T09:00:00",
-      "content": "MetLife released its 2025 Sustainability Report, showcasing how the company is creating long-term value for customers, employees, communities and shareholders while advancing its purpose: Always wi..."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,14 +15,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "World Bank’s climate work can endure without finance target, experts say",
-      "description": "Even though the global lender has ditched a headline goal for its financing with climate benefits, it has decided to continue its climate action plan in the face of US pressure \nThe post World Bank...",
-      "url": "https://www.climatechangenews.com/2026/07/02/world-banks-climate-work-can-endure-without-finance-target-experts-say/",
-      "publishedAt": "2026-07-02T10:23:13",
-      "content": "Even though the global lender has ditched a headline goal for its financing with climate benefits, it has decided to continue its climate action plan in the face of US pressure \nThe post World Bank..."
+      "author": "CSRWire",
+      "title": "Living Our Purpose: MetLife Publishes Latest Sustainability Report",
+      "description": "MetLife released its 2025 Sustainability Report, showcasing how the company is creating long-term value for customers, employees, communities and shareholders while advancing its purpose: Always wi...",
+      "url": "https://csrwire.com/press-release/living-our-purpose-metlife-publishes-latest-sustainability-report/",
+      "publishedAt": "2026-06-30T09:00:00",
+      "content": "MetLife released its 2025 Sustainability Report, showcasing how the company is creating long-term value for customers, employees, communities and shareholders while advancing its purpose: Always wi..."
     },
     {
       "source": {
@@ -56,6 +45,17 @@
       "url": "https://www.climatechangenews.com/2026/07/03/billions-unlocked-as-green-climate-fund-agrees-to-spend-more-and-save-less/",
       "publishedAt": "2026-07-03T08:25:38",
       "content": "The board of the UN's flagship climate fund has agreed to allowed management to invest more of its money in projects in developing nations and keep less in reserve\nThe post Billions unlocked as Gre..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "World Bank’s climate work can endure without finance target, experts say",
+      "description": "Even though the global lender has ditched a headline goal for its financing with climate benefits, it has decided to continue its climate action plan in the face of US pressure \nThe post World Bank...",
+      "url": "https://www.climatechangenews.com/2026/07/02/world-banks-climate-work-can-endure-without-finance-target-experts-say/",
+      "publishedAt": "2026-07-02T10:23:13",
+      "content": "Even though the global lender has ditched a headline goal for its financing with climate benefits, it has decided to continue its climate action plan in the face of US pressure \nThe post World Bank..."
     },
     {
       "source": {
@@ -92,6 +92,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "RGREEN INVEST Raises €500 Million for European Energy Transition Infrastructure Fund",
+      "description": "Paris-based sustainable infrastructure investment firm RGREEN INVEST announced that it has raised nearly €500 million",
+      "url": "https://www.esgtoday.com/rgreen-invest-raises-e500-million-for-european-energy-transition-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=rgreen-invest-raises-e500-million-for-european-energy-transition-infrastructure-fund",
+      "publishedAt": "2026-07-01T14:04:03",
+      "content": "Paris-based sustainable infrastructure investment firm RGREEN INVEST announced that it has raised nearly €500 million"
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -106,11 +117,55 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "RGREEN INVEST Raises €500 Million for European Energy Transition Infrastructure Fund",
-      "description": "Paris-based sustainable infrastructure investment firm RGREEN INVEST announced that it has raised nearly €500 million",
-      "url": "https://www.esgtoday.com/rgreen-invest-raises-e500-million-for-european-energy-transition-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=rgreen-invest-raises-e500-million-for-european-energy-transition-infrastructure-fund",
-      "publishedAt": "2026-07-01T14:04:03",
-      "content": "Paris-based sustainable infrastructure investment firm RGREEN INVEST announced that it has raised nearly €500 million"
+      "title": "CDP Appoints Beth Thoren as CEO of New CDP Foundation",
+      "description": "Climate research provider and environmental disclosure platform CDP announced the appointment of Beth Thoren as CEO of the CDP Foundation,",
+      "url": "https://www.esgtoday.com/cdp-appoints-beth-thoren-as-ceo-of-new-cdp-foundation/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-appoints-beth-thoren-as-ceo-of-new-cdp-foundation",
+      "publishedAt": "2026-07-01T15:19:53",
+      "content": "Climate research provider and environmental disclosure platform CDP announced the appointment of Beth Thoren as CEO of the CDP Foundation,"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
+      "description": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
+      "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T06:21:35",
+      "content": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Turbines turning from wind to sustainable products",
+      "description": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives.",
+      "url": "https://www.bbc.co.uk/news/articles/cewqzrkvwvqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T05:06:44",
+      "content": "Thousands of tonnes of non-recyclable wind turbine blades are coming to the end of their lives."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The fight against green ‘waste’: how a Victorian community came together to create garden gold",
+      "description": "Kitchen scraps and garden waste can be a valuable resource.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/04/kitchen-scraps-garden-cuttings-green-waste-compost-victoria",
+      "publishedAt": "2026-07-04T00:00:42",
+      "content": "Kitchen scraps and garden waste can be a valuable resource."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue",
+      "description": "And why the most patriotic approach to the Reflecting Pool may be to let the algae take over.",
+      "url": "https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html",
+      "publishedAt": "2026-07-03T09:03:12",
+      "content": "And why the most patriotic approach to the Reflecting Pool may be to let the algae take over."
     },
     {
       "source": {
@@ -125,14 +180,25 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The 50-Year-Old Conservation Law With a 99% Success Rate",
+      "description": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered...",
+      "url": "https://triplepundit.com/2026/endangered-species-act-99-percent-success-rate-conservation/",
+      "publishedAt": "2026-06-29T12:00:00",
+      "content": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "CDP Appoints Beth Thoren as CEO of New CDP Foundation",
-      "description": "Climate research provider and environmental disclosure platform CDP announced the appointment of Beth Thoren as CEO of the CDP Foundation,",
-      "url": "https://www.esgtoday.com/cdp-appoints-beth-thoren-as-ceo-of-new-cdp-foundation/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-appoints-beth-thoren-as-ceo-of-new-cdp-foundation",
-      "publishedAt": "2026-07-01T15:19:53",
-      "content": "Climate research provider and environmental disclosure platform CDP announced the appointment of Beth Thoren as CEO of the CDP Foundation,"
+      "title": "Crédit Agricole Launches Asia Pacific ESG-Linked Trade Finance Solution",
+      "description": "Crédit Agricole CIB announced the launch of Smart Platform Assisted SustainablE (SPASE), a new AI-powered",
+      "url": "https://www.esgtoday.com/credit-agricole-launches-asia-pacific-esg-trade-finance-solution/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-launches-asia-pacific-esg-trade-finance-solution",
+      "publishedAt": "2026-07-02T08:34:27",
+      "content": "Crédit Agricole CIB announced the launch of Smart Platform Assisted SustainablE (SPASE), a new AI-powered"
     },
     {
       "source": {
@@ -158,14 +224,80 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Guardian"
       },
-      "author": "Triple Pundit",
-      "title": "The 50-Year-Old Conservation Law With a 99% Success Rate",
-      "description": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered...",
-      "url": "https://triplepundit.com/2026/endangered-species-act-99-percent-success-rate-conservation/",
-      "publishedAt": "2026-06-29T12:00:00",
-      "content": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered..."
+      "author": "The Guardian",
+      "title": "Hunting the tardigrade: one small step in sequencing DNA of all life on Earth",
+      "description": "As this year’s invertebrate of the year competition launches, we join scientists studying last year’s winnerNominate your invertebrate of the yearWitek Morek is closely inspecting an old brick-and-...",
+      "url": "https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year",
+      "publishedAt": "2026-07-04T05:00:06",
+      "content": "As this year’s invertebrate of the year competition launches, we join scientists studying last year’s winnerNominate your invertebrate of the yearWitek Morek is closely inspecting an old brick-and-..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK temperatures forecast to exceed 30C as another heatwave imminent",
+      "description": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-04T00:23:47",
+      "content": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Record-breaking temps in US as 4th July holiday begins",
+      "description": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
+      "url": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T17:10:24",
+      "content": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Deaths in France surged 30% during hottest week of record June heatwave",
+      "description": "Public health authority says 2,025 excess deaths probably an underestimate and that it expects toll to rise furtherThe number of deaths recorded in France surged by nearly 30% during the hottest we...",
+      "url": "https://www.theguardian.com/world/2026/jul/03/deaths-france-surged-hottest-week-record-heatwave-june",
+      "publishedAt": "2026-07-03T16:52:43",
+      "content": "Public health authority says 2,025 excess deaths probably an underestimate and that it expects toll to rise furtherThe number of deaths recorded in France surged by nearly 30% during the hottest we..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "To Stay Cool, Wear Flowing Robes and Throw Water Around? Yes, Says Science.",
+      "description": "Throughout history, people have come up with surprising ways to beat the heat that actually work.",
+      "url": "https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html",
+      "publishedAt": "2026-07-03T14:56:04",
+      "content": "Throughout history, people have come up with surprising ways to beat the heat that actually work."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nasa launches mission to save falling space telescope",
+      "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T10:28:17",
+      "content": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Scotland's first gull ranger wants to boost their image",
+      "description": "Eyemouth's gull ranger hopes for a more harmonious existence between gulls and humans.",
+      "url": "https://www.bbc.co.uk/news/videos/cy9r1z3p4d0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-03T09:53:04",
+      "content": "Eyemouth's gull ranger hopes for a more harmonious existence between gulls and humans."
     },
     {
       "source": {
@@ -177,17 +309,6 @@
       "url": "https://www.nytimes.com/2026/07/02/climate/fireworks-effects-washington-smoke-dogs.html",
       "publishedAt": "2026-07-02T17:55:28",
       "content": "Organizers want the July 4 fireworks in the nation’s capital to break the world record. But the fun will also come with air pollution and possibly headaches for pet owners and zoo keepers."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Defra breached law when it let farmers use bee-killing pesticide, watchdog says",
-      "description": "Office for Environmental Protection finds failures by department when it granted emergency authorisation in 2023 and 2024The UK government breached environmental law on several occasions when grant...",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/defra-breached-law-farmers-bee-killing-pesticide-watchdog",
-      "publishedAt": "2026-07-02T17:10:14",
-      "content": "Office for Environmental Protection finds failures by department when it granted emergency authorisation in 2023 and 2024The UK government breached environmental law on several occasions when grant..."
     },
     {
       "source": {
@@ -260,11 +381,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Crédit Agricole Launches Asia Pacific ESG-Linked Trade Finance Solution",
-      "description": "Crédit Agricole CIB announced the launch of Smart Platform Assisted SustainablE (SPASE), a new AI-powered",
-      "url": "https://www.esgtoday.com/credit-agricole-launches-asia-pacific-esg-trade-finance-solution/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-launches-asia-pacific-esg-trade-finance-solution",
-      "publishedAt": "2026-07-02T08:34:27",
-      "content": "Crédit Agricole CIB announced the launch of Smart Platform Assisted SustainablE (SPASE), a new AI-powered"
+      "title": "Impact Fund Denmark Raises $760 Million for Blended Finance SDG Fund",
+      "description": "Danish development finance institution Impact Fund Denmark announced the final close of SDG Fund II,",
+      "url": "https://www.esgtoday.com/impact-fund-denmark-raises-760-million-for-blended-finance-sdg-fund/?utm_source=rss&utm_medium=rss&utm_campaign=impact-fund-denmark-raises-760-million-for-blended-finance-sdg-fund",
+      "publishedAt": "2026-07-01T14:50:44",
+      "content": "Danish development finance institution Impact Fund Denmark announced the final close of SDG Fund II,"
     },
     {
       "source": {
@@ -276,17 +397,6 @@
       "url": "https://triplepundit.com/2026/pg-oatly-lundberg-family-farms-regenerative-agriculture/",
       "publishedAt": "2026-06-30T18:19:41",
       "content": "Given the climate-fighting power of regenerative agriculture, a growing segment of farmers, land managers, and consumer goods companies are working to integrate more of these practices into the way..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Blistering Heat Expected to Persist Into the Fourth of July",
-      "description": "While relief could come to the Great Lakes and the far Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot.",
-      "url": "https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html",
-      "publishedAt": "2026-07-03T08:39:51",
-      "content": "While relief could come to the Great Lakes and the far Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot."
     },
     {
       "source": {
@@ -315,28 +425,6 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Ruined utopias: the afterlife of the Amazon’s forgotten company towns – in pictures",
-      "description": "For decades, foreign firms established settlements in the Brazilian Amazon to support extractive activities, only to eventually abandon the buildings and workers. The remains show human resilience ...",
-      "url": "https://www.theguardian.com/environment/gallery/2026/jul/03/brazil-ruined-utopias-afterlife-amazon-forgotten-company-towns",
-      "publishedAt": "2026-07-03T06:00:22",
-      "content": "For decades, foreign firms established settlements in the Brazilian Amazon to support extractive activities, only to eventually abandon the buildings and workers. The remains show human resilience ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Weatherwatch: How thunder is made",
-      "description": "Sound of thunder varies depending on distance of listener from lightning as atmosphere muffles and absorbs sound A bolt of lightning heats the air almost instantly to as high as 30,000C, causing ex...",
-      "url": "https://www.theguardian.com/news/2026/jul/03/weatherwatch-how-thunder-is-made",
-      "publishedAt": "2026-07-03T05:00:19",
-      "content": "Sound of thunder varies depending on distance of listener from lightning as atmosphere muffles and absorbs sound A bolt of lightning heats the air almost instantly to as high as 30,000C, causing ex..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "Listen to Britain’s dawn chorus of 1976: the dramatic loss of birdsong in 50 years",
       "description": "Guardian recreates audio landscape of past filled by loud morning symphony before 73m wild birds were lostImagine a deafening abundance of birdsong so loud it wakes your children at dawn; the chirr...",
       "url": "https://www.theguardian.com/environment/2026/jul/03/dawn-chorus-uk-birdsong-50-years-audio-landscape",
@@ -359,17 +447,6 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "How Heat Affects the Brain",
-      "description": "A growing body of research has shown that our brains work differently when temperatures spike.",
-      "url": "https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html",
-      "publishedAt": "2026-07-02T23:21:42",
-      "content": "A growing body of research has shown that our brains work differently when temperatures spike."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
       "title": "See How Europe’s Heat Waves Melted the Alps’ Glaciers",
       "description": "The snowfall from last winter disappeared a month sooner than usual, after two early hot spells. Huge volumes of exposed ice are now starting to vanish.",
       "url": "https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html",
@@ -381,55 +458,11 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Heat Wave Survival Tips From a Death Valley Ranger, Volcano Hiking Guide and Forest Firefighter",
-      "description": "We asked people whose jobs require them to routinely face temperatures over 100 degrees for their coping strategies. Start with water.",
-      "url": "https://www.nytimes.com/2026/07/02/travel/heat-wave-tips-experts-jobs.html",
-      "publishedAt": "2026-07-02T18:25:58",
-      "content": "We asked people whose jobs require them to routinely face temperatures over 100 degrees for their coping strategies. Start with water."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "As seas rise, American history could be washed away",
-      "description": "In Jamestown, Virginia, one of the most important places in American history is in a race against time from rising watersSean Romo stops digging the moment he sees a faint line emerge in the sandy ...",
-      "url": "https://www.theguardian.com/environment/2026/jul/02/sea-level-rise-jamestown-virginia",
-      "publishedAt": "2026-07-02T18:00:06",
-      "content": "In Jamestown, Virginia, one of the most important places in American history is in a race against time from rising watersSean Romo stops digging the moment he sees a faint line emerge in the sandy ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Could a heatwave hit Taylor Swift's wedding?",
-      "description": "Simon King reports on the dangerous heat threatening North America.",
-      "url": "https://www.bbc.co.uk/news/videos/c75ykqwgwl5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T17:00:53",
-      "content": "Simon King reports on the dangerous heat threatening North America."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Extreme heat and high humidity hitting north-eastern US",
-      "description": "Some areas may reach record temperatures over the long weekend.",
-      "url": "https://www.bbc.co.uk/weather/videos/cjdg81ejk9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-02T16:31:29",
-      "content": "Some areas may reach record temperatures over the long weekend."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Impact Fund Denmark Raises $760 Million for Blended Finance SDG Fund",
-      "description": "Danish development finance institution Impact Fund Denmark announced the final close of SDG Fund II,",
-      "url": "https://www.esgtoday.com/impact-fund-denmark-raises-760-million-for-blended-finance-sdg-fund/?utm_source=rss&utm_medium=rss&utm_campaign=impact-fund-denmark-raises-760-million-for-blended-finance-sdg-fund",
-      "publishedAt": "2026-07-01T14:50:44",
-      "content": "Danish development finance institution Impact Fund Denmark announced the final close of SDG Fund II,"
+      "title": "A Wildlife Regulator’s Family Business Had a Permit to Renew. She Stepped In.",
+      "description": "Jenifer Chatfield, a top official at the Interior Department, faces scrutiny from ethics experts for actions that could help her family’s business.",
+      "url": "https://www.nytimes.com/2026/07/01/climate/interior-department-ethics-chatfield.html",
+      "publishedAt": "2026-07-01T17:09:39",
+      "content": "Jenifer Chatfield, a top official at the Interior Department, faces scrutiny from ethics experts for actions that could help her family’s business."
     },
     {
       "source": {
@@ -452,83 +485,6 @@
       "url": "https://csrwire.com/press-release/five-leading-organizations-unite-launch-healthy-schools-healthy-kids-summit/",
       "publishedAt": "2026-06-30T15:30:00",
       "content": "Five leading national organizations announced today they are joining forces to convene the Healthy Schools for Healthy Kids Summit, a first-of-its-kind national gathering focused on advancing a hea..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Wildlife Regulator’s Family Business Had a Permit to Renew. She Stepped In.",
-      "description": "Jenifer Chatfield, a top official at the Interior Department, faces scrutiny from ethics experts for actions that could help her family’s business.",
-      "url": "https://www.nytimes.com/2026/07/01/climate/interior-department-ethics-chatfield.html",
-      "publishedAt": "2026-07-01T17:09:39",
-      "content": "Jenifer Chatfield, a top official at the Interior Department, faces scrutiny from ethics experts for actions that could help her family’s business."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Dangerous heatwave to hit US ahead of holiday weekend",
-      "description": "North America will bake in extreme temperatures amid celebrations for the United States' 250th birthday.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2j8kd0dk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T10:45:49",
-      "content": "North America will bake in extreme temperatures amid celebrations for the United States' 250th birthday."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Farming worries after India records driest June in over a decade",
-      "description": "Weaker monsoon rains are likely to impact farm output but the government says it has enough grain stocks to deal with any shortages.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzk5rqyr4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-01T07:15:15",
-      "content": "Weaker monsoon rains are likely to impact farm output but the government says it has enough grain stocks to deal with any shortages."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Potentially dangerous heatwave to sweep across the eastern United States",
-      "description": "A heatwave developing across the eastern United States will bring daytime heat, high humidity and stifling overnight temperatures as Ben Rich explains.",
-      "url": "https://www.bbc.co.uk/weather/videos/crel0wll091o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T15:42:00",
-      "content": "A heatwave developing across the eastern United States will bring daytime heat, high humidity and stifling overnight temperatures as Ben Rich explains."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "With extreme heat now a public health crisis, local data can save lives",
-      "description": "The impacts of extreme heat vary widely across countries and cities, and approaches tailored using data can target solutions at vulnerable groups\nThe post With extreme heat now a public health cris...",
-      "url": "https://www.climatechangenews.com/2026/06/30/with-extreme-heat-now-a-public-health-crisis-local-data-can-save-lives/",
-      "publishedAt": "2026-06-30T13:43:58",
-      "content": "The impacts of extreme heat vary widely across countries and cities, and approaches tailored using data can target solutions at vulnerable groups\nThe post With extreme heat now a public health cris..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
-      "description": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
-      "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T11:20:44",
-      "content": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Full Strawberry Moon captured over the UK in stunning photos",
-      "description": "Skygazers captured stunning photos of the first full Moon of summer shining bright above the UK",
-      "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-06-30T09:33:21",
-      "content": "Skygazers captured stunning photos of the first full Moon of summer shining bright above the UK"
     },
     {
       "source": {
