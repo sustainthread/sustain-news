@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 35,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "European Commission Adopts Finalized Corporate Sustainability Reporting Standards",
+      "description": "The European Commission announced on Friday the adoption of the finalized revised European Sustainability Reporting",
+      "url": "https://www.esgtoday.com/european-commission-adopts-finalized-corporate-sustainability-reporting-standards/?utm_source=rss&utm_medium=rss&utm_campaign=european-commission-adopts-finalized-corporate-sustainability-reporting-standards",
+      "publishedAt": "2026-07-06T10:03:51",
+      "content": "The European Commission announced on Friday the adoption of the finalized revised European Sustainability Reporting"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -12,17 +23,6 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-07-05T22:00:45",
       "content": "Feature image: Terra Thread."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Living Our Purpose: MetLife Publishes Latest Sustainability Report",
-      "description": "MetLife released its 2025 Sustainability Report, showcasing how the company is creating long-term value for customers, employees, communities and shareholders while advancing its purpose: Always wi...",
-      "url": "https://csrwire.com/press-release/living-our-purpose-metlife-publishes-latest-sustainability-report/",
-      "publishedAt": "2026-06-30T09:00:00",
-      "content": "MetLife released its 2025 Sustainability Report, showcasing how the company is creating long-term value for customers, employees, communities and shareholders while advancing its purpose: Always wi..."
     },
     {
       "source": {
@@ -73,11 +73,77 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "British Solar Renewables Signs $174 Million Financing Deal with Eiffel",
+      "description": "UK-based renewable energy producer British Solar Renewables (BSR) announced that it has secured up to",
+      "url": "https://www.esgtoday.com/british-solar-renewables-signs-174-million-financing-deal-with-eiffel/?utm_source=rss&utm_medium=rss&utm_campaign=british-solar-renewables-signs-174-million-financing-deal-with-eiffel",
+      "publishedAt": "2026-07-07T09:12:55",
+      "content": "UK-based renewable energy producer British Solar Renewables (BSR) announced that it has secured up to"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Textile-to-Textile Recycling: the Answer to Fashion’s Waste Problem or a Big Distraction?",
+      "description": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem.",
+      "url": "https://goodonyou.eco/is-textile-to-textile-recycling-the-answer-to-fashions-waste-problem/",
+      "publishedAt": "2026-07-07T00:54:47",
+      "content": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "KKR, SK Launch $1.3 Billion Renewable Energy Platform in South Korea",
       "description": "Alternative asset manager KKR and South Korean industrial conglomerate SK Group announced the launch of",
       "url": "https://www.esgtoday.com/kkr-sk-launch-1-3-billion-renewable-energy-platform-in-south-korea/?utm_source=rss&utm_medium=rss&utm_campaign=kkr-sk-launch-1-3-billion-renewable-energy-platform-in-south-korea",
       "publishedAt": "2026-07-02T12:54:44",
       "content": "Alternative asset manager KKR and South Korean industrial conglomerate SK Group announced the launch of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Starbucks “Actively Reassessing” 2030 Climate Goal",
+      "description": "Coffee retailing giant Starbucks revealed in its 2025 Impact Report that it is “actively reassessing”",
+      "url": "https://www.esgtoday.com/starbucks-actively-reassessing-value-chain-emissions-reduction-goal/?utm_source=rss&utm_medium=rss&utm_campaign=starbucks-actively-reassessing-value-chain-emissions-reduction-goal",
+      "publishedAt": "2026-07-06T14:53:28",
+      "content": "Coffee retailing giant Starbucks revealed in its 2025 Impact Report that it is “actively reassessing”"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Deutsche Bank Invests in Sustainable Aviation Fuel with Lufthansa",
+      "description": "Deutsche Bank announced a new agreement with Lufthansa group to invest in the deployment of",
+      "url": "https://www.esgtoday.com/deutsche-bank-invests-in-sustainable-aviation-fuel-with-lufthansa/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-invests-in-sustainable-aviation-fuel-with-lufthansa",
+      "publishedAt": "2026-07-06T12:43:35",
+      "content": "Deutsche Bank announced a new agreement with Lufthansa group to invest in the deployment of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Climentum Launches New Climate Tech Venture Fund with €60 Million First Close",
+      "description": "Climate tech-focused venture capital firm Climentum Capital announced the launch of Climentum Capital Fund II,",
+      "url": "https://www.esgtoday.com/climentum-launches-new-climate-tech-venture-fund-with-e60-million-first-close/?utm_source=rss&utm_medium=rss&utm_campaign=climentum-launches-new-climate-tech-venture-fund-with-e60-million-first-close",
+      "publishedAt": "2026-07-06T11:02:22",
+      "content": "Climate tech-focused venture capital firm Climentum Capital announced the launch of Climentum Capital Fund II,"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "18 More Sustainable Alternatives to Massimo Dutti",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
+      "publishedAt": "2026-07-07T03:18:03",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -114,14 +180,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "CDP Appoints Beth Thoren as CEO of New CDP Foundation",
-      "description": "Climate research provider and environmental disclosure platform CDP announced the appointment of Beth Thoren as CEO of the CDP Foundation,",
-      "url": "https://www.esgtoday.com/cdp-appoints-beth-thoren-as-ceo-of-new-cdp-foundation/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-appoints-beth-thoren-as-ceo-of-new-cdp-foundation",
-      "publishedAt": "2026-07-01T15:19:53",
-      "content": "Climate research provider and environmental disclosure platform CDP announced the appointment of Beth Thoren as CEO of the CDP Foundation,"
+      "author": "New York Times",
+      "title": "I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.",
+      "description": "The native plant movement says that we can combat environmental disaster from our own backyards. Is it really so simple?",
+      "url": "https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html",
+      "publishedAt": "2026-07-07T09:02:42",
+      "content": "The native plant movement says that we can combat environmental disaster from our own backyards. Is it really so simple?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sun stoppers: seven ways to keep your home cool this summer",
+      "description": "You can keep temperatures down without the cost – or environmental price – of air conditioning.",
+      "url": "https://www.theguardian.com/money/2026/jul/07/uk-heatwave-keep-home-cool-summer-shutters-blinds-temperature-air-conditioning",
+      "publishedAt": "2026-07-07T06:00:32",
+      "content": "You can keep temperatures down without the cost – or environmental price – of air conditioning."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fuel on the fire: why oil companies are profiting as the world gets dangerously hot",
+      "description": "The scientific consensus is that burning fossil fuels drives the climate crisis, yet the world’s biggest oil companies are planning to increase productionAs the world swelters in ever more dangerou...",
+      "url": "https://www.theguardian.com/environment/2026/jul/07/big-oil-companies-profiting-fossil-fuel-global-climate-change",
+      "publishedAt": "2026-07-07T06:00:31",
+      "content": "The scientific consensus is that burning fossil fuels drives the climate crisis, yet the world’s biggest oil companies are planning to increase productionAs the world swelters in ever more dangerou..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "A supercharged El Niño is coming – are we ready?",
+      "description": "We need to urgently build resilience to more extreme weather and rising seas, protecting nature as an ally in adapting to climate impacts\nThe post A supercharged El Niño is coming – are we ready? a...",
+      "url": "https://www.climatechangenews.com/2026/07/06/a-supercharged-el-nino-is-coming-are-we-ready/",
+      "publishedAt": "2026-07-06T12:10:50",
+      "content": "We need to urgently build resilience to more extreme weather and rising seas, protecting nature as an ally in adapting to climate impacts\nThe post A supercharged El Niño is coming – are we ready? a..."
     },
     {
       "source": {
@@ -147,25 +246,91 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "Most Companies Still Struggle to Quantify Impact of Sustainability Risks and Opportunities: KPMG Survey",
-      "description": "A significant majority of executives report that they have a strong understanding of their companies’",
-      "url": "https://www.esgtoday.com/majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey/?utm_source=rss&utm_medium=rss&utm_campaign=majority-of-companies-still-struggle-to-quantify-impact-of-sustainability-risks-and-opportunities-kpmg-survey",
-      "publishedAt": "2026-07-02T10:46:56",
-      "content": "A significant majority of executives report that they have a strong understanding of their companies’"
+      "author": "Climate Change News",
+      "title": "Can giant batteries unlock Africa’s green industrial future?",
+      "description": "Battery energy storage systems (BESS) could drive clean tech manufacturing in Africa but shortfalls in finance and data are still limiting deployment at scale\nThe post Can giant batteries unlock Af...",
+      "url": "https://www.climatechangenews.com/2026/07/01/can-giant-batteries-unlock-africas-green-industrial-future/",
+      "publishedAt": "2026-07-01T06:00:00",
+      "content": "Battery energy storage systems (BESS) could drive clean tech manufacturing in Africa but shortfalls in finance and data are still limiting deployment at scale\nThe post Can giant batteries unlock Af..."
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "New York Times"
       },
-      "author": "Triple Pundit",
-      "title": "The 50-Year-Old Conservation Law With a 99% Success Rate",
-      "description": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered...",
-      "url": "https://triplepundit.com/2026/endangered-species-act-99-percent-success-rate-conservation/",
-      "publishedAt": "2026-06-29T12:00:00",
-      "content": "The Endangered Species Act was signed over 50 years ago, and the vast majority of the thousands of plants and animals it has protected still exist today. Though the legislation is widely considered..."
+      "author": "New York Times",
+      "title": "Inside the United States’ Billion-Dollar Blind Spot: Hail",
+      "description": "Scientists have never quite understood how hail works. Meet the storm chasers trying to change that.",
+      "url": "https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html",
+      "publishedAt": "2026-07-07T09:00:23",
+      "content": "Scientists have never quite understood how hail works. Meet the storm chasers trying to change that."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Death Toll From Oppressive Heat in New Jersey May Be as High as 29",
+      "description": "In New York City, emergency rooms last week logged the highest number of patients treated for heat-related illnesses in years.",
+      "url": "https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html",
+      "publishedAt": "2026-07-07T01:00:30",
+      "content": "In New York City, emergency rooms last week logged the highest number of patients treated for heat-related illnesses in years."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "How to Dress More Sustainably During a Heatwave",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/how-to-dress-sustainably-in-a-heatwave/",
+      "publishedAt": "2026-07-07T00:48:13",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Heat Waves Are Taking a Big Toll on Chickens",
+      "description": "The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll.",
+      "url": "https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html",
+      "publishedAt": "2026-07-06T18:39:08",
+      "content": "The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Will this heatwave feel as hot and sticky as the last one?",
+      "description": "The UK's next heatwave is here, but will it feel as hot and sticky as the last one?",
+      "url": "https://www.bbc.co.uk/news/videos/c2lyyqzvl28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T18:08:23",
+      "content": "The UK's next heatwave is here, but will it feel as hot and sticky as the last one?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Farmers 'vindicated' after judge's ruling on pylon firm accessing land",
+      "description": "Groups representing landowners claimed they were \"frightened\" by agents turning up on their farms.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyy08zg2no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T15:26:56",
+      "content": "Groups representing landowners claimed they were \"frightened\" by agents turning up on their farms."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "description": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-06T13:08:23",
+      "content": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region."
     },
     {
       "source": {
@@ -180,28 +345,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Can giant batteries unlock Africa’s green industrial future?",
-      "description": "Battery energy storage systems (BESS) could drive clean tech manufacturing in Africa but shortfalls in finance and data are still limiting deployment at scale\nThe post Can giant batteries unlock Af...",
-      "url": "https://www.climatechangenews.com/2026/07/01/can-giant-batteries-unlock-africas-green-industrial-future/",
-      "publishedAt": "2026-07-01T06:00:00",
-      "content": "Battery energy storage systems (BESS) could drive clean tech manufacturing in Africa but shortfalls in finance and data are still limiting deployment at scale\nThe post Can giant batteries unlock Af..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Is Louis Vuitton Ethical or Sustainable?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-louis-vuitton/",
-      "publishedAt": "2026-07-01T00:00:25",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -210,50 +353,6 @@
       "url": "https://goodonyou.eco/sustainable-flats/",
       "publishedAt": "2026-07-06T02:00:11",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-      "description": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-06T00:20:20",
-      "content": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "July Fourth Heat Wave Forecast: Latest Updates",
-      "description": "The Midwest will get a break but temperatures for much of the East Coast will again climb above 100 degrees. Stay indoors as much as possible, experts said.",
-      "url": "https://www.nytimes.com/2026/07/04/weather/july-fourth-heat-wave-updates.html",
-      "publishedAt": "2026-07-05T18:04:41",
-      "content": "The Midwest will get a break but temperatures for much of the East Coast will again climb above 100 degrees. Stay indoors as much as possible, experts said."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Crédit Agricole Launches Asia Pacific ESG-Linked Trade Finance Solution",
-      "description": "Crédit Agricole CIB announced the launch of Smart Platform Assisted SustainablE (SPASE), a new AI-powered",
-      "url": "https://www.esgtoday.com/credit-agricole-launches-asia-pacific-esg-trade-finance-solution/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-launches-asia-pacific-esg-trade-finance-solution",
-      "publishedAt": "2026-07-02T08:34:27",
-      "content": "Crédit Agricole CIB announced the launch of Smart Platform Assisted SustainablE (SPASE), a new AI-powered"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Rooted in Nature: How Three CPG Companies Are Scaling Regenerative Practices",
-      "description": "Given the climate-fighting power of regenerative agriculture, a growing segment of farmers, land managers, and consumer goods companies are working to integrate more of these practices into the way...",
-      "url": "https://triplepundit.com/2026/pg-oatly-lundberg-family-farms-regenerative-agriculture/",
-      "publishedAt": "2026-06-30T18:19:41",
-      "content": "Given the climate-fighting power of regenerative agriculture, a growing segment of farmers, land managers, and consumer goods companies are working to integrate more of these practices into the way..."
     },
     {
       "source": {
@@ -279,83 +378,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Birdsong data from Merlin ID app to help global biodiversity project",
-      "description": "Cornell Lab for Ornithology plans data linkup between app and population monitoring on eBird platformThe Merlin bird ID app will allow users to feed real-time bird identifications into one of the w...",
-      "url": "https://www.theguardian.com/environment/2026/jul/04/merlin-app-birdsong-identification-ebird-biodiversity-conservation",
-      "publishedAt": "2026-07-04T11:00:13",
-      "content": "Cornell Lab for Ornithology plans data linkup between app and population monitoring on eBird platformThe Merlin bird ID app will allow users to feed real-time bird identifications into one of the w..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Hunting the tardigrade: one small step in sequencing DNA of all life on Earth",
-      "description": "As this year’s invertebrate of the year competition launches, we join scientists studying last year’s winnerNominate your invertebrate of the yearWitek Morek is closely inspecting an old brick-and-...",
-      "url": "https://www.theguardian.com/environment/2026/jul/04/hunting-tardigrade-sequencing-dna-life-earth-invertebrate-year",
-      "publishedAt": "2026-07-04T05:00:06",
-      "content": "As this year’s invertebrate of the year competition launches, we join scientists studying last year’s winnerNominate your invertebrate of the yearWitek Morek is closely inspecting an old brick-and-..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Record-breaking temps in US as 4th July holiday begins",
-      "description": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T17:10:24",
-      "content": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "To Stay Cool, Wear Flowing Robes and Throw Water Around? Yes, Says Science.",
-      "description": "Throughout history, people have come up with surprising ways to beat the heat that actually work.",
-      "url": "https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html",
-      "publishedAt": "2026-07-03T14:56:04",
-      "content": "Throughout history, people have come up with surprising ways to beat the heat that actually work."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nasa launches mission to save falling space telescope",
-      "description": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
-      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-03T10:28:17",
-      "content": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Bombs Bursting in Air Means Hours of Smoke and Confused Dogs in D.C.",
-      "description": "Organizers want the July 4 fireworks in the nation’s capital to break the world record. But the fun will also come with air pollution and possibly headaches for pet owners and zoo keepers.",
-      "url": "https://www.nytimes.com/2026/07/02/climate/fireworks-effects-washington-smoke-dogs.html",
-      "publishedAt": "2026-07-02T17:55:28",
-      "content": "Organizers want the July 4 fireworks in the nation’s capital to break the world record. But the fun will also come with air pollution and possibly headaches for pet owners and zoo keepers."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Making the Invisible Visible: Indoor Air as Inclusion",
-      "description": "“Imagine a health crisis that affects virtually everyone in the country, yet remains invisible.”",
-      "url": "https://csrwire.com/press-release/making-invisible-visible-indoor-air-inclusion/",
-      "publishedAt": "2026-07-02T16:00:00",
-      "content": "“Imagine a health crisis that affects virtually everyone in the country, yet remains invisible.”"
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -364,94 +386,6 @@
       "url": "https://www.esgtoday.com/eu-regulators-propose-eu-taxonomy-simplification-measures/?utm_source=rss&utm_medium=rss&utm_campaign=eu-regulators-propose-eu-taxonomy-simplification-measures",
       "publishedAt": "2026-07-02T15:24:21",
       "content": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) each announced the release"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A Message From PNC’s CCRO to Our Stakeholders",
-      "description": "PNC’s investment in and collaboration with our employees, communities, customers, and shareholders directly reflect the strength and character of our company. When our communities thrive, we thrive.",
-      "url": "https://csrwire.com/press-release/message-pncs-ccro-our-stakeholders/",
-      "publishedAt": "2026-07-02T12:15:00",
-      "content": "PNC’s investment in and collaboration with our employees, communities, customers, and shareholders directly reflect the strength and character of our company. When our communities thrive, we thrive."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon Signs 2 Million Ton Nature-Based Carbon Removal Deal",
-      "description": "Amazon announced a multi-year agreement to purchase nearly 2 million tonnes of carbon removal credits",
-      "url": "https://www.esgtoday.com/amazon-signs-2-million-ton-nature-based-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-signs-2-million-ton-nature-based-carbon-removal-deal",
-      "publishedAt": "2026-07-02T12:09:29",
-      "content": "Amazon announced a multi-year agreement to purchase nearly 2 million tonnes of carbon removal credits"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco Partners With College Board To Launch AP Cybersecurity and Expand Career-Connected Learning",
-      "description": "Cybersecurity professionals have become essential to protecting our society’s critical infrastructure.",
-      "url": "https://csrwire.com/press-release/cisco-partners-college-board-launch-ap-cybersecurity-and-expand-career-connected-learning/",
-      "publishedAt": "2026-07-02T10:15:00",
-      "content": "Cybersecurity professionals have become essential to protecting our society’s critical infrastructure."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Brookfield Backs Bloom Energy with $25 Billion to Power AI Infrastructure with Fuel Cells",
-      "description": "Brookfield Asset Management and fuel cell technology provider Bloom Energy announced a major expansion in",
-      "url": "https://www.esgtoday.com/brookfield-backs-bloom-energy-with-25-billion-to-power-ai-infrastructure-with-fuel-cells/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-backs-bloom-energy-with-25-billion-to-power-ai-infrastructure-with-fuel-cells",
-      "publishedAt": "2026-07-02T09:55:53",
-      "content": "Brookfield Asset Management and fuel cell technology provider Bloom Energy announced a major expansion in"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Mary Kay Is Transforming Beauty by Balancing Legacy, Innovation, and Purpose",
-      "description": "Transformation is often framed as a clean break – a bold leap from past to future. But in reality, the most powerful transformations do not come from departing from your heritage.",
-      "url": "https://csrwire.com/press-release/how-mary-kay-transforming-beauty-balancing-legacy-innovation-and-purpose/",
-      "publishedAt": "2026-07-01T08:00:00",
-      "content": "Transformation is often framed as a clean break – a bold leap from past to future. But in reality, the most powerful transformations do not come from departing from your heritage."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Five Leading Organizations Unite To Launch Healthy Schools for Healthy Kids Summit",
-      "description": "Five leading national organizations announced today they are joining forces to convene the Healthy Schools for Healthy Kids Summit, a first-of-its-kind national gathering focused on advancing a hea...",
-      "url": "https://csrwire.com/press-release/five-leading-organizations-unite-launch-healthy-schools-healthy-kids-summit/",
-      "publishedAt": "2026-06-30T15:30:00",
-      "content": "Five leading national organizations announced today they are joining forces to convene the Healthy Schools for Healthy Kids Summit, a first-of-its-kind national gathering focused on advancing a hea..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The Return of the Range Rider",
-      "description": "The rapid development of once-wild spaces is spurring growing pains for people and animals across the globe.",
-      "url": "https://triplepundit.com/2026/range-rider-human-wildlife-conflict-management-blackfoot-valley-montana/",
-      "publishedAt": "2026-06-29T12:00:00",
-      "content": "The rapid development of once-wild spaces is spurring growing pains for people and animals across the globe."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Special Delivery: FedEx Helps Harbor Seal Walnut Find a New Home",
-      "description": "FedEx is known for delivering packages around the world—but this month, the company delivered something far more unique.",
-      "url": "https://csrwire.com/press-release/special-delivery-fedex-helps-harbor-seal-walnut-find-new-home/",
-      "publishedAt": "2026-06-29T11:00:00",
-      "content": "FedEx is known for delivering packages around the world—but this month, the company delivered something far more unique."
     }
   ]
 }
