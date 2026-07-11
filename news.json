@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
@@ -48,14 +48,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Quinbrook Raises $780 Million for Clean Energy Infrastructure Fund",
-      "description": "Energy transition-focused investor Quinbrook Infrastructure Partners announced today the final close of its Quinbrook Renewables",
-      "url": "https://www.esgtoday.com/quinbrook-raises-780-million-for-clean-energy-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=quinbrook-raises-780-million-for-clean-energy-infrastructure-fund",
-      "publishedAt": "2026-07-08T13:31:18",
-      "content": "Energy transition-focused investor Quinbrook Infrastructure Partners announced today the final close of its Quinbrook Renewables"
+      "author": "The Guardian",
+      "title": "Days of salted codfish and cabbage leaves are over: how climate crisis is shaping Tour de France’s future",
+      "description": "Heatwaves have long been part of the Tour but temperatures now are pushing the riders to limit of human enduranceThe Tour de France and the heat of the midday sun are old bedfellows, going back lon...",
+      "url": "https://www.theguardian.com/sport/2026/jul/11/salted-codfish-cabbage-climate-crisis-tour-de-france-future",
+      "publishedAt": "2026-07-11T07:00:42",
+      "content": "Heatwaves have long been part of the Tour but temperatures now are pushing the riders to limit of human enduranceThe Tour de France and the heat of the midday sun are old bedfellows, going back lon..."
     },
     {
       "source": {
@@ -67,6 +67,28 @@
       "url": "https://www.esgtoday.com/fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai/?utm_source=rss&utm_medium=rss&utm_campaign=fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai",
       "publishedAt": "2026-07-09T15:08:43",
       "content": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "India looks to untapped graphite riches for slice of critical minerals boom",
+      "description": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ...",
+      "url": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
+      "publishedAt": "2026-07-09T05:00:00",
+      "content": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Textile-to-Textile Recycling: the Answer to Fashion’s Waste Problem or a Big Distraction?",
+      "description": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem.",
+      "url": "https://goodonyou.eco/is-textile-to-textile-recycling-the-answer-to-fashions-waste-problem/",
+      "publishedAt": "2026-07-07T00:54:47",
+      "content": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem."
     },
     {
       "source": {
@@ -92,36 +114,58 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "The Hindu"
       },
-      "author": "Climate Change News",
-      "title": "India looks to untapped graphite riches for slice of critical minerals boom",
-      "description": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ...",
-      "url": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
-      "publishedAt": "2026-07-09T05:00:00",
-      "content": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ..."
+      "author": "The Hindu",
+      "title": "Why India’s sustainability education must move from theory to practice",
+      "description": "When we make climate literacy the foundation of education, we are actually making an investment in social infrastructure.",
+      "url": "https://www.thehindu.com/education/why-indias-sustainability-education-must-move-from-theory-to-practice/article71160602.ece",
+      "publishedAt": "2026-07-05T05:32:22",
+      "content": "When we make climate literacy the foundation of education, we are actually making an investment in social infrastructure."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Honoring National Lineworker Appreciation Day",
+      "description": "On July 10, we honor our crews who are committed to powering our communities safely for National Lineworker Appreciation Day.",
+      "url": "https://csrwire.com/press-release/honoring-national-lineworker-appreciation-day/",
+      "publishedAt": "2026-07-10T22:00:00",
+      "content": "On July 10, we honor our crews who are committed to powering our communities safely for National Lineworker Appreciation Day."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "TenneT Germany Raises €3.5 Billion in Largest-Ever Corporate EuGB-Aligned Green Bond Offering",
-      "description": "TenneT Germany, the largest electricity transmission system operator in Germany, announced that it has raised",
-      "url": "https://www.esgtoday.com/tennet-germany-raises-e3-5-billion-in-inaugural-eugb-aligned-green-bond-offering/?utm_source=rss&utm_medium=rss&utm_campaign=tennet-germany-raises-e3-5-billion-in-inaugural-eugb-aligned-green-bond-offering",
-      "publishedAt": "2026-07-08T14:24:03",
-      "content": "TenneT Germany, the largest electricity transmission system operator in Germany, announced that it has raised"
+      "title": "EQT Acquires U.S. Energy and AI Infrastructure Platform Copia Power from Carlyle",
+      "description": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and",
+      "url": "https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/?utm_source=rss&utm_medium=rss&utm_campaign=eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle",
+      "publishedAt": "2026-07-10T12:07:41",
+      "content": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "Textile-to-Textile Recycling: the Answer to Fashion’s Waste Problem or a Big Distraction?",
-      "description": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem.",
-      "url": "https://goodonyou.eco/is-textile-to-textile-recycling-the-answer-to-fashions-waste-problem/",
-      "publishedAt": "2026-07-07T00:54:47",
-      "content": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem."
+      "author": "CSRWire",
+      "title": "Comcast NBCUniversal Marks America’s 250th With A Year of Service and Volunteerism",
+      "description": "As the United States approaches its 250th anniversary, Comcast NBCUniversal is celebrating this historic milestone with a renewed commitment to service.",
+      "url": "https://csrwire.com/press-release/comcast-nbcuniversal-marks-americas-250th-year-service-and-volunteerism/",
+      "publishedAt": "2026-07-10T10:00:00",
+      "content": "As the United States approaches its 250th anniversary, Comcast NBCUniversal is celebrating this historic milestone with a renewed commitment to service."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Swift nest reportedly thrown in skip during house renovations in South Tyneside",
+      "description": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractorSwift chicks are feared to have been thrown into a skip during house renovations...",
+      "url": "https://www.theguardian.com/environment/2026/jul/10/swift-nest-reportedly-thrown-in-skip-during-house-renovations-in-south-tyneside",
+      "publishedAt": "2026-07-10T08:00:15",
+      "content": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractorSwift chicks are feared to have been thrown into a skip during house renovations..."
     },
     {
       "source": {
@@ -136,25 +180,146 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "Good On You"
       },
-      "author": "The Hindu",
-      "title": "Why India’s sustainability education must move from theory to practice",
-      "description": "When we make climate literacy the foundation of education, we are actually making an investment in social infrastructure.",
-      "url": "https://www.thehindu.com/education/why-indias-sustainability-education-must-move-from-theory-to-practice/article71160602.ece",
-      "publishedAt": "2026-07-05T05:32:22",
-      "content": "When we make climate literacy the foundation of education, we are actually making an investment in social infrastructure."
+      "author": "Good On You",
+      "title": "18 More Sustainable Alternatives to Massimo Dutti",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
+      "publishedAt": "2026-07-07T03:18:03",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Swift nest reportedly thrown in skip during house renovations in South Tyneside",
-      "description": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractorSwift chicks are feared to have been thrown into a skip during house renovations...",
-      "url": "https://www.theguardian.com/environment/2026/jul/10/swift-nest-reportedly-thrown-in-skip-during-house-renovations-in-south-tyneside",
-      "publishedAt": "2026-07-10T08:00:15",
-      "content": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractorSwift chicks are feared to have been thrown into a skip during house renovations..."
+      "author": "BBC",
+      "title": "Cooler for some this weekend but heatwave continues",
+      "description": "The sizzling heat continues into next week despite a drop in temperatures over the weekend.",
+      "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T03:59:23",
+      "content": "The sizzling heat continues into next week despite a drop in temperatures over the weekend."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Flooding in Missouri Prompts State of Emergency and at Least 100 Rescues",
+      "description": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell overnight in the southeastern part of the state. More storms are in the forecast.",
+      "url": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
+      "publishedAt": "2026-07-11T00:02:45",
+      "content": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell overnight in the southeastern part of the state. More storms are in the forecast."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "description": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "publishedAt": "2026-07-10T22:25:16",
+      "content": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
+      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T21:30:57",
+      "content": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Helping one of Britain's rarest butterflies",
+      "description": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyezwg89n3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T20:14:46",
+      "content": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "He Wanted to Track Microplastics in the Sea. The E.P.A. Fired Him.",
+      "description": "The official urged requiring a fish farm to monitor for the tiny plastic particles. The E.P.A. said he had taken steps to embarrass the agency.",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html",
+      "publishedAt": "2026-07-10T19:54:15",
+      "content": "The official urged requiring a fish farm to monitor for the tiny plastic particles. The E.P.A. said he had taken steps to embarrass the agency."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How can you help wildlife during hot weather?",
+      "description": "Sophia Herod has some tips for helping animals that might visit your garden or neighbourhood.",
+      "url": "https://www.bbc.co.uk/news/videos/c7vyp6lqv9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T16:00:54",
+      "content": "Sophia Herod has some tips for helping animals that might visit your garden or neighbourhood."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Boxy forms and odd lights: US declassifies more UFO files",
+      "description": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
+      "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T15:28:17",
+      "content": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds",
+      "description": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.",
+      "url": "https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html",
+      "publishedAt": "2026-07-10T15:12:17",
+      "content": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
+      "description": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
+      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T13:53:11",
+      "content": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
+      "description": "See how the powerful storm is expected to move across east Asia on Saturday.",
+      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T13:40:19",
+      "content": "See how the powerful storm is expected to move across east Asia on Saturday."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Struggling pig farmers say £2m support package 'not enough'",
+      "description": "Farmers welcome the Scottish government funding but say it's not enough to stop them losing about £1m a month",
+      "url": "https://www.bbc.co.uk/news/articles/cn94rl1wj0ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T13:30:31",
+      "content": "Farmers welcome the Scottish government funding but say it's not enough to stop them losing about £1m a month"
     },
     {
       "source": {
@@ -191,14 +356,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "18 More Sustainable Alternatives to Massimo Dutti",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
-      "publishedAt": "2026-07-07T03:18:03",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "Chemours’ Fayetteville Works and Chambers Works Recognized at Tandem Global Conference",
+      "description": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong...",
+      "url": "https://csrwire.com/press-release/chemours-fayetteville-works-and-chambers-works-recognized-tandem-global-conference/",
+      "publishedAt": "2026-07-09T08:00:00",
+      "content": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Quaise Energy Raises $134 Million to Build First-Ever Superhot Geothermal Power Plant",
+      "description": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the",
+      "url": "https://www.esgtoday.com/quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant",
+      "publishedAt": "2026-07-08T14:51:30",
+      "content": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the"
     },
     {
       "source": {
@@ -224,61 +400,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK bakes in 35C highs as heatwave to continue next week",
-      "description": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
-      "url": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-09T23:08:58",
-      "content": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Advanced Recycling Hits a Rough Patch",
-      "description": "In the past weeks, two sites in the United States have halted operations.",
-      "url": "https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html",
-      "publishedAt": "2026-07-09T21:02:39",
-      "content": "In the past weeks, two sites in the United States have halted operations."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents",
-      "description": "The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction.",
-      "url": "https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html",
-      "publishedAt": "2026-07-09T18:47:34",
-      "content": "The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why does hot weather put me in such a bad mood?",
-      "description": "Not everyone experiences heat the same way, and studies show aggression, violence and road rage increase on hotter daysRecently, my husband and I embarked on what should have been a pleasant spring...",
-      "url": "https://www.theguardian.com/wellness/2026/jul/09/why-hot-weather-affects-mood",
-      "publishedAt": "2026-07-09T16:00:56",
-      "content": "Not everyone experiences heat the same way, and studies show aggression, violence and road rage increase on hotter daysRecently, my husband and I embarked on what should have been a pleasant spring..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Viral squeaky frog now at risk of extinction",
-      "description": "A squeaky frog that became an internet sensation is added to a global list of species at risk of extinction.",
-      "url": "https://www.bbc.co.uk/news/articles/cq819y09g2lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-09T13:08:00",
-      "content": "A squeaky frog that became an internet sensation is added to a global list of species at risk of extinction."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -301,61 +422,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK heatwave spreads north and west as further heat health alerts issued",
-      "description": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976.",
-      "url": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-09T10:54:20",
-      "content": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Chemours’ Fayetteville Works and Chambers Works Recognized at Tandem Global Conference",
-      "description": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong...",
-      "url": "https://csrwire.com/press-release/chemours-fayetteville-works-and-chambers-works-recognized-tandem-global-conference/",
-      "publishedAt": "2026-07-09T08:00:00",
-      "content": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How beachgoers are turning snaps into science",
-      "description": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-09T05:06:11",
-      "content": "Scientists hope to learn more about the impact of climate change on coasts through people's photos."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Quaise Energy Raises $134 Million to Build First-Ever Superhot Geothermal Power Plant",
-      "description": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the",
-      "url": "https://www.esgtoday.com/quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant",
-      "publishedAt": "2026-07-08T14:51:30",
-      "content": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google, McKinsey, Tencent Sign Large-Scale Nature-Based Carbon Removal Deals",
-      "description": "Singapore-based nature-based solutions project developer Thryve.Earth announced that it has signed a series of long-term",
-      "url": "https://www.esgtoday.com/google-mckinsey-tencent-sign-large-scale-nature-based-carbon-removal-deals/?utm_source=rss&utm_medium=rss&utm_campaign=google-mckinsey-tencent-sign-large-scale-nature-based-carbon-removal-deals",
-      "publishedAt": "2026-07-08T12:19:22",
-      "content": "Singapore-based nature-based solutions project developer Thryve.Earth announced that it has signed a series of long-term"
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -375,61 +441,6 @@
       "url": "https://csrwire.com/press-release/enhancing-roadway-safety-deploying-pi-litr-impact-detection-technology/",
       "publishedAt": "2026-07-07T09:40:00",
       "content": "Following a highly successful one-year pilot on The Ray, Georgia Department of Transportation is officially expanding the Pi-lit® system across Metro Atlanta, North Georgia, and the Georgia Coast."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Western Europe Had Its Hottest June on Record",
-      "description": "An unusually early heat wave smashed records across France, Britain and Spain. Temperatures in some areas are starting to soar again.",
-      "url": "https://www.nytimes.com/2026/07/08/climate/western-europe-hottest-june.html",
-      "publishedAt": "2026-07-09T02:00:09",
-      "content": "An unusually early heat wave smashed records across France, Britain and Spain. Temperatures in some areas are starting to soar again."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Spread of Seafloor Directly Observed for the First Time",
-      "description": "The spread of the ocean floor, as tectonic plates spread apart, is known but hard to observe. Scientists have now documented the process in action.",
-      "url": "https://www.nytimes.com/2026/07/08/science/oceans-geology-seafloor.html",
-      "publishedAt": "2026-07-08T18:28:03",
-      "content": "The spread of the ocean floor, as tectonic plates spread apart, is known but hard to observe. Scientists have now documented the process in action."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
-      "description": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T18:27:40",
-      "content": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Hotter Seas in Britain and Europe Threaten Marine Life",
-      "description": "Higher sea temperatures have followed scorching weather across Europe, prompting Britain’s weather service to declare a “severe” marine heat wave.",
-      "url": "https://www.nytimes.com/2026/07/08/world/europe/marine-heat-wave-uk.html",
-      "publishedAt": "2026-07-08T16:10:18",
-      "content": "Higher sea temperatures have followed scorching weather across Europe, prompting Britain’s weather service to declare a “severe” marine heat wave."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Extreme' marine heatwave expected for parts of UK",
-      "description": "Scientists fear that high sea temperatures could have wide-ranging consequences for marine life.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg888vpz4do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-08T14:47:11",
-      "content": "Scientists fear that high sea temperatures could have wide-ranging consequences for marine life."
     },
     {
       "source": {
