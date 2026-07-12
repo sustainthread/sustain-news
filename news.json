@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 43,
   "articles": [
     {
       "source": {
@@ -51,11 +51,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Days of salted codfish and cabbage leaves are over: how climate crisis is shaping Tour de France’s future",
-      "description": "Heatwaves have long been part of the Tour but temperatures now are pushing the riders to limit of human enduranceThe Tour de France and the heat of the midday sun are old bedfellows, going back lon...",
-      "url": "https://www.theguardian.com/sport/2026/jul/11/salted-codfish-cabbage-climate-crisis-tour-de-france-future",
-      "publishedAt": "2026-07-11T07:00:42",
-      "content": "Heatwaves have long been part of the Tour but temperatures now are pushing the riders to limit of human enduranceThe Tour de France and the heat of the midday sun are old bedfellows, going back lon..."
+      "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
+      "description": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boomMicrosoft, Amazon and Google’s collective carbon emissions have increased by nearly a fifth in th...",
+      "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
+      "publishedAt": "2026-07-11T11:00:49",
+      "content": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boomMicrosoft, Amazon and Google’s collective carbon emissions have increased by nearly a fifth in th..."
     },
     {
       "source": {
@@ -70,17 +70,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "India looks to untapped graphite riches for slice of critical minerals boom",
-      "description": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ...",
-      "url": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
-      "publishedAt": "2026-07-09T05:00:00",
-      "content": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -89,17 +78,6 @@
       "url": "https://goodonyou.eco/is-textile-to-textile-recycling-the-answer-to-fashions-waste-problem/",
       "publishedAt": "2026-07-07T00:54:47",
       "content": "The industry has poured multimillion-dollar deals into textile-to-textile recycling, betting it can close the loop on fashion’s waste problem."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Pollutionwatch: How harmful ozone builds up near ground in heatwaves",
-      "description": "Concentrations of gas were continuously raised in Europe during June hot spell, with potentially deadly effectsWidespread air pollution was a feature of June’s record-breaking heat across western E...",
-      "url": "https://www.theguardian.com/environment/2026/jul/10/pollutionwatch-ozone-air-pollution-heatwaves-europe",
-      "publishedAt": "2026-07-10T05:00:12",
-      "content": "Concentrations of gas were continuously raised in Europe during June hot spell, with potentially deadly effectsWidespread air pollution was a feature of June’s record-breaking heat across western E..."
     },
     {
       "source": {
@@ -114,14 +92,146 @@
     },
     {
       "source": {
-        "name": "The Hindu"
+        "name": "Climate Change News"
       },
-      "author": "The Hindu",
-      "title": "Why India’s sustainability education must move from theory to practice",
-      "description": "When we make climate literacy the foundation of education, we are actually making an investment in social infrastructure.",
-      "url": "https://www.thehindu.com/education/why-indias-sustainability-education-must-move-from-theory-to-practice/article71160602.ece",
-      "publishedAt": "2026-07-05T05:32:22",
-      "content": "When we make climate literacy the foundation of education, we are actually making an investment in social infrastructure."
+      "author": "Climate Change News",
+      "title": "India looks to untapped graphite riches for slice of critical minerals boom",
+      "description": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ...",
+      "url": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
+      "publishedAt": "2026-07-09T05:00:00",
+      "content": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "RSPB buys 'magical' 96-hectare landscape to reconnect habitats",
+      "description": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx78nk7g25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T12:01:34",
+      "content": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Indigenous Fashion and Beauty Brands to Know",
+      "description": "Shopping from Indigenous-owned brands is a great way to support local communities, individual makers, and to help uphold traditional techniques and crafts that are at risk of being lost in the face...",
+      "url": "https://goodonyou.eco/more-sustainable-indigenous-fashion-beauty-brands/",
+      "publishedAt": "2026-07-08T02:27:01",
+      "content": "Shopping from Indigenous-owned brands is a great way to support local communities, individual makers, and to help uphold traditional techniques and crafts that are at risk of being lost in the face..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "18 More Sustainable Alternatives to Massimo Dutti",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
+      "publishedAt": "2026-07-07T03:18:03",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-12T07:39:45",
+      "content": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The South African trailblazers seeking to change how wildlife documentaries are made",
+      "description": "National Geographic explorers create dive lab after finding too few black film-makers telling African wildlife storiesWhen Pragna Parsotam-Kok and Noel Kok made a wildlife series for South African ...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jul/12/south-africa-documentaries-nature-environment-wildlife-conservation-trust-national-geographic",
+      "publishedAt": "2026-07-12T05:00:10",
+      "content": "National Geographic explorers create dive lab after finding too few black film-makers telling African wildlife storiesWhen Pragna Parsotam-Kok and Noel Kok made a wildlife series for South African ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
+      "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T23:58:40",
+      "content": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fastest spider in the world? This huge, hairy-legged Australian arachnid may be the quickest on the planet",
+      "description": "A brown huntsman is the quickest of more than 250 species analysed by scientists in the UK and GermanyIf arachnophobes were not frightened enough by the horrific ability of Australia’s huntsman spi...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
+      "publishedAt": "2026-07-11T15:02:21",
+      "content": "A brown huntsman is the quickest of more than 250 species analysed by scientists in the UK and GermanyIf arachnophobes were not frightened enough by the horrific ability of Australia’s huntsman spi..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "In the Hamptons, Even the Chicken Tenders Are Living Fancy",
+      "description": "It’s summer on the South Fork. Care for some nuggets and caviar?",
+      "url": "https://www.nytimes.com/2026/07/11/nyregion/hamptons-chicken-tenders.html",
+      "publishedAt": "2026-07-11T13:27:23",
+      "content": "It’s summer on the South Fork. Care for some nuggets and caviar?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Every time the rain falls, the fear comes back’: life in Lagos under the constant threat of floods",
+      "description": "As Nigeria braces for another season of devastating rains, people affected describe the mental toll of repeatedly rebuilding their livesMurky water first tore down a perimeter fence, then bubbled i...",
+      "url": "https://www.theguardian.com/global-development/2026/jul/11/every-time-the-rain-falls-the-fear-comes-back-life-in-lagos-under-the-constant-threat-of-floods",
+      "publishedAt": "2026-07-11T11:00:48",
+      "content": "As Nigeria braces for another season of devastating rains, people affected describe the mental toll of repeatedly rebuilding their livesMurky water first tore down a perimeter fence, then bubbled i..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Heatwave to stretch into second week despite cooler air for some this weekend",
+      "description": "The sizzling heat continues into next week despite a drop in temperatures over the weekend.",
+      "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T10:41:15",
+      "content": "The sizzling heat continues into next week despite a drop in temperatures over the weekend."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T08:23:45",
+      "content": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Flooding in Missouri Prompts State of Emergency and at Least 100 Rescues",
+      "description": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell in the southeastern part of the state. More storms are in the forecast.",
+      "url": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
+      "publishedAt": "2026-07-11T08:23:38",
+      "content": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell in the southeastern part of the state. More storms are in the forecast."
     },
     {
       "source": {
@@ -158,58 +268,58 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Airbus Partners with MTU to Develop Hydrogen-Powered Aircraft Engine",
+      "description": "Aerospace giant Airbus and aircraft engine manufacturer MTU Aero Engines announced the launch of a",
+      "url": "https://www.esgtoday.com/airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine",
+      "publishedAt": "2026-07-09T10:10:24",
+      "content": "Aerospace giant Airbus and aircraft engine manufacturer MTU Aero Engines announced the launch of a"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TotalEnergies Divests its Distributed Solar Business in Europe to Focus on Utility-Scale Renewables",
+      "description": "French energy giant TotalEnergies announced today that it has divested its distributed solar generation activities",
+      "url": "https://www.esgtoday.com/totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables",
+      "publishedAt": "2026-07-09T09:33:30",
+      "content": "French energy giant TotalEnergies announced today that it has divested its distributed solar generation activities"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "More Efficient and Functional Workplaces Start With Smart Building Data",
+      "description": "Smart buildings are no longer just about connected devices, sensors, and automation.",
+      "url": "https://csrwire.com/press-release/more-efficient-and-functional-workplaces-start-smart-building-data/",
+      "publishedAt": "2026-07-09T09:05:00",
+      "content": "Smart buildings are no longer just about connected devices, sensors, and automation."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Chemours’ Fayetteville Works and Chambers Works Recognized at Tandem Global Conference",
+      "description": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong...",
+      "url": "https://csrwire.com/press-release/chemours-fayetteville-works-and-chambers-works-recognized-tandem-global-conference/",
+      "publishedAt": "2026-07-09T08:00:00",
+      "content": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Swift nest reportedly thrown in skip during house renovations in South Tyneside",
-      "description": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractorSwift chicks are feared to have been thrown into a skip during house renovations...",
-      "url": "https://www.theguardian.com/environment/2026/jul/10/swift-nest-reportedly-thrown-in-skip-during-house-renovations-in-south-tyneside",
-      "publishedAt": "2026-07-10T08:00:15",
-      "content": "Conservationists fear more nests may have been destroyed during work on Jarrow houses by council-appointed contractorSwift chicks are feared to have been thrown into a skip during house renovations..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Indigenous Fashion and Beauty Brands to Know",
-      "description": "Shopping from Indigenous-owned brands is a great way to support local communities, individual makers, and to help uphold traditional techniques and crafts that are at risk of being lost in the face...",
-      "url": "https://goodonyou.eco/more-sustainable-indigenous-fashion-beauty-brands/",
-      "publishedAt": "2026-07-08T02:27:01",
-      "content": "Shopping from Indigenous-owned brands is a great way to support local communities, individual makers, and to help uphold traditional techniques and crafts that are at risk of being lost in the face..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "18 More Sustainable Alternatives to Massimo Dutti",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
-      "publishedAt": "2026-07-07T03:18:03",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Cooler for some this weekend but heatwave continues",
-      "description": "The sizzling heat continues into next week despite a drop in temperatures over the weekend.",
-      "url": "https://www.bbc.co.uk/weather/articles/c621kp4y701o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T03:59:23",
-      "content": "The sizzling heat continues into next week despite a drop in temperatures over the weekend."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Flooding in Missouri Prompts State of Emergency and at Least 100 Rescues",
-      "description": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell overnight in the southeastern part of the state. More storms are in the forecast.",
-      "url": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
-      "publishedAt": "2026-07-11T00:02:45",
-      "content": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell overnight in the southeastern part of the state. More storms are in the forecast."
+      "title": "‘Children were calling for their mummies’: UK pupils struggle in 40C-plus classrooms",
+      "description": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st...",
+      "url": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
+      "publishedAt": "2026-07-11T06:00:41",
+      "content": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st..."
     },
     {
       "source": {
@@ -219,19 +329,8 @@
       "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
       "description": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
       "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "publishedAt": "2026-07-10T22:25:16",
+      "publishedAt": "2026-07-10T22:25:17",
       "content": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "description": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T21:30:57",
-      "content": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago."
     },
     {
       "source": {
@@ -290,83 +389,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "description": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T13:53:11",
-      "content": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-      "description": "See how the powerful storm is expected to move across east Asia on Saturday.",
-      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T13:40:19",
-      "content": "See how the powerful storm is expected to move across east Asia on Saturday."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Struggling pig farmers say £2m support package 'not enough'",
-      "description": "Farmers welcome the Scottish government funding but say it's not enough to stop them losing about £1m a month",
-      "url": "https://www.bbc.co.uk/news/articles/cn94rl1wj0ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T13:30:31",
-      "content": "Farmers welcome the Scottish government funding but say it's not enough to stop them losing about £1m a month"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Airbus Partners with MTU to Develop Hydrogen-Powered Aircraft Engine",
-      "description": "Aerospace giant Airbus and aircraft engine manufacturer MTU Aero Engines announced the launch of a",
-      "url": "https://www.esgtoday.com/airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine/?utm_source=rss&utm_medium=rss&utm_campaign=airbus-partners-with-mtu-to-develop-hydrogen-powered-aircraft-engine",
-      "publishedAt": "2026-07-09T10:10:24",
-      "content": "Aerospace giant Airbus and aircraft engine manufacturer MTU Aero Engines announced the launch of a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TotalEnergies Divests its Distributed Solar Business in Europe to Focus on Utility-Scale Renewables",
-      "description": "French energy giant TotalEnergies announced today that it has divested its distributed solar generation activities",
-      "url": "https://www.esgtoday.com/totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-divests-its-distributed-solar-business-in-europe-to-focus-on-utility-scale-renewables",
-      "publishedAt": "2026-07-09T09:33:30",
-      "content": "French energy giant TotalEnergies announced today that it has divested its distributed solar generation activities"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "More Efficient and Functional Workplaces Start With Smart Building Data",
-      "description": "Smart buildings are no longer just about connected devices, sensors, and automation.",
-      "url": "https://csrwire.com/press-release/more-efficient-and-functional-workplaces-start-smart-building-data/",
-      "publishedAt": "2026-07-09T09:05:00",
-      "content": "Smart buildings are no longer just about connected devices, sensors, and automation."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Chemours’ Fayetteville Works and Chambers Works Recognized at Tandem Global Conference",
-      "description": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong...",
-      "url": "https://csrwire.com/press-release/chemours-fayetteville-works-and-chambers-works-recognized-tandem-global-conference/",
-      "publishedAt": "2026-07-09T08:00:00",
-      "content": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -375,50 +397,6 @@
       "url": "https://www.esgtoday.com/quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant",
       "publishedAt": "2026-07-08T14:51:30",
       "content": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I just want to know if it has caused my cancer’: life in the shadow of Lancashire Pfas factory",
-      "description": "People in Thornton-Cleveleys want answers on the impact of widespread contamination around the chemical plant“Everything I wanted was finally coming to fruition. A house, a change of job and gettin...",
-      "url": "https://www.theguardian.com/environment/2026/jul/10/lancashire-pfas-factory-impact-contamination-forever-chemicals",
-      "publishedAt": "2026-07-10T06:00:13",
-      "content": "People in Thornton-Cleveleys want answers on the impact of widespread contamination around the chemical plant“Everything I wanted was finally coming to fruition. A house, a change of job and gettin..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: I thought I was poking a hedgehog’s nest. I was wrong | Claire Stares",
-      "description": "Langstone, Hampshire: Tree bumblebees are generally placid, but they’re not keen on someone prodding their home with the end of a bamboo caneLast summer, one by one, all our visiting hedgehogs fell...",
-      "url": "https://www.theguardian.com/environment/2026/jul/10/country-diary-i-thought-i-was-poking-a-hedgehogs-nest-i-was-wrong",
-      "publishedAt": "2026-07-10T04:30:10",
-      "content": "Langstone, Hampshire: Tree bumblebees are generally placid, but they’re not keen on someone prodding their home with the end of a bamboo caneLast summer, one by one, all our visiting hedgehogs fell..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Experimental bathtub: the remote lake island trying wave power to boost energy security",
-      "description": "Researchers on Beaver Island, in Lake Michigan, are trying to find a more reliable form of power using local resourcesBeaver Island sits in the middle of the northernmost end of Lake Michigan, abou...",
-      "url": "https://www.theguardian.com/environment/2026/jul/09/remote-island-wave-power-energy-security-beaver-island-lake-michigan",
-      "publishedAt": "2026-07-09T13:00:01",
-      "content": "Researchers on Beaver Island, in Lake Michigan, are trying to find a more reliable form of power using local resourcesBeaver Island sits in the middle of the northernmost end of Lake Michigan, abou..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Species’ ingenious survival strategies no match for human destruction, red list reveals",
-      "description": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by miningLife has colonised every corner of the planet by evolving ingenious survival strategies bu...",
-      "url": "https://www.theguardian.com/environment/2026/jul/09/species-ingenious-survival-strategies-no-match-human-destruction-red-list",
-      "publishedAt": "2026-07-09T12:20:09",
-      "content": "Newly endangered animals include desert frogs and snails in extreme ocean depths, both threatened by miningLife has colonised every corner of the planet by evolving ingenious survival strategies bu..."
     },
     {
       "source": {
