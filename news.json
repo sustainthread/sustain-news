@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 44,
   "articles": [
     {
       "source": {
@@ -40,6 +40,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "ESG Today: Week in Review",
+      "description": "This week in ESG news: EU Commission adopts finalized CSRD and voluntary sustainability reporting standards;",
+      "url": "https://www.esgtoday.com/esg-today-week-in-review-269/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-269",
+      "publishedAt": "2026-07-12T08:28:20",
+      "content": "This week in ESG news: EU Commission adopts finalized CSRD and voluntary sustainability reporting standards;"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "EthiFinance, ESG Book Merge to Form European Sustainability and Credit Rating “Champion”",
       "description": "Sustainable finance-focused ratings and research provider EthiFinance and sustainability data and technology company ESG Book",
       "url": "https://www.esgtoday.com/ethifinance-esg-book-merge-to-form-european-sustainability-and-credit-rating-champion/?utm_source=rss&utm_medium=rss&utm_campaign=ethifinance-esg-book-merge-to-form-european-sustainability-and-credit-rating-champion",
@@ -59,17 +70,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Fleek Raises $25 Million to Scale Second-Hand Fashion Market with AI",
-      "description": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series",
-      "url": "https://www.esgtoday.com/fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai/?utm_source=rss&utm_medium=rss&utm_campaign=fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai",
-      "publishedAt": "2026-07-09T15:08:43",
-      "content": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -81,14 +81,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "ESG Today"
       },
-      "author": "Climate Change News",
-      "title": "The loss and damage fund needs far more finance to deliver climate justice",
-      "description": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del...",
-      "url": "https://www.climatechangenews.com/2026/07/09/the-loss-and-damage-fund-needs-far-more-finance-to-deliver-climate-justice/",
-      "publishedAt": "2026-07-09T09:11:34",
-      "content": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del..."
+      "author": "ESG Today",
+      "title": "Fleek Raises $25 Million to Scale Second-Hand Fashion Market with AI",
+      "description": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series",
+      "url": "https://www.esgtoday.com/fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai/?utm_source=rss&utm_medium=rss&utm_campaign=fleek-raises-25-million-to-help-scale-the-second-hand-fashion-market-with-ai",
+      "publishedAt": "2026-07-09T15:08:43",
+      "content": "Circular fashion marketplace startup Fleek announced that it has raised $25 million in a Series"
     },
     {
       "source": {
@@ -103,14 +103,25 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "RSPB buys 'magical' 96-hectare landscape to reconnect habitats",
-      "description": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx78nk7g25o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-11T12:01:34",
-      "content": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats."
+      "author": "The Guardian",
+      "title": "June heatwave killed up to 440 people a day in England and Wales, data suggests",
+      "description": "Extreme temperatures in May and June led to about 2,700 lost lives in total with climate crisis adding 3C to 4C The heatwave that affected England and Wales in June killed about 440 people a day du...",
+      "url": "https://www.theguardian.com/environment/2026/jul/13/june-heatwave-killed-440-people-a-day-england-wales-data-suggests-climate-crisis",
+      "publishedAt": "2026-07-13T05:00:38",
+      "content": "Extreme temperatures in May and June led to about 2,700 lost lives in total with climate crisis adding 3C to 4C The heatwave that affected England and Wales in June killed about 440 people a day du..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "The loss and damage fund needs far more finance to deliver climate justice",
+      "description": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del...",
+      "url": "https://www.climatechangenews.com/2026/07/09/the-loss-and-damage-fund-needs-far-more-finance-to-deliver-climate-justice/",
+      "publishedAt": "2026-07-09T09:11:34",
+      "content": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del..."
     },
     {
       "source": {
@@ -133,6 +144,116 @@
       "url": "https://goodonyou.eco/sustainable-alternatives-to-massimo-dutti/",
       "publishedAt": "2026-07-07T03:18:03",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Housing or Flood Protection? In Brooklyn, Housing Is Winning.",
+      "description": "A towering apartment development has been approved for the waterfront, even though some residents would have preferred parkland.",
+      "url": "https://www.nytimes.com/2026/07/13/nyregion/brooklyn-housing-development-flooding.html",
+      "publishedAt": "2026-07-13T07:00:10",
+      "content": "A towering apartment development has been approved for the waterfront, even though some residents would have preferred parkland."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Phacelia is the most useful plant – I always have a packet for my garden | Susie White",
+      "description": "Allendale, Northumberland: Farmers use it as cover crop, and I sow it into bare soil – but not before I’ve had a close look at its stunning detailsCupped by bristly sepals, the five-petalled flower...",
+      "url": "https://www.theguardian.com/environment/2026/jul/13/country-diary-phacelia-is-the-most-useful-plant-i-always-have-a-packet-for-my-garden",
+      "publishedAt": "2026-07-13T04:30:37",
+      "content": "Allendale, Northumberland: Farmers use it as cover crop, and I sow it into bare soil – but not before I’ve had a close look at its stunning detailsCupped by bristly sepals, the five-petalled flower..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘No matter how bad, it is always fixable’: how Bea Elton cleans up the houses – and lives – of desperate people",
+      "description": "She has built an unlikely career in mould, maggots and excrement, cleaning for those who most need it.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/13/bea-elton-cleans-houses-cleaning",
+      "publishedAt": "2026-07-13T04:00:38",
+      "content": "She has built an unlikely career in mould, maggots and excrement, cleaning for those who most need it."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+      "description": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+      "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-13T03:36:09",
+      "content": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes",
+      "description": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.",
+      "url": "https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html",
+      "publishedAt": "2026-07-12T15:31:34",
+      "content": "Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Britain’s biggest community solar farm forced to shut over grid overload fears",
+      "description": "Timing of Devon switchoff ‘could not be worse’, says board, as members face an estimated £2m in lost revenue Britain’s biggest community solar project has been forced to shut for the duration of it...",
+      "url": "https://www.theguardian.com/environment/2026/jul/12/solar-farm-forced-to-shut-derril-water-biggest-grid-overload-fears",
+      "publishedAt": "2026-07-12T14:00:20",
+      "content": "Timing of Devon switchoff ‘could not be worse’, says board, as members face an estimated £2m in lost revenue Britain’s biggest community solar project has been forced to shut for the duration of it..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "RSPB buys 'magical' 96-hectare landscape to reconnect habitats",
+      "description": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx78nk7g25o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-11T12:01:34",
+      "content": "The move will help conservationists in Gallt-y-bere to protect internationally important habitats."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Honoring National Lineworker Appreciation Day",
+      "description": "On July 10, we honor our crews who are committed to powering our communities safely for National Lineworker Appreciation Day.",
+      "url": "https://csrwire.com/press-release/honoring-national-lineworker-appreciation-day/",
+      "publishedAt": "2026-07-10T22:00:00",
+      "content": "On July 10, we honor our crews who are committed to powering our communities safely for National Lineworker Appreciation Day."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EQT Acquires U.S. Energy and AI Infrastructure Platform Copia Power from Carlyle",
+      "description": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and",
+      "url": "https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/?utm_source=rss&utm_medium=rss&utm_campaign=eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle",
+      "publishedAt": "2026-07-10T12:07:41",
+      "content": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Comcast NBCUniversal Marks America’s 250th With A Year of Service and Volunteerism",
+      "description": "As the United States approaches its 250th anniversary, Comcast NBCUniversal is celebrating this historic milestone with a renewed commitment to service.",
+      "url": "https://csrwire.com/press-release/comcast-nbcuniversal-marks-americas-250th-year-service-and-volunteerism/",
+      "publishedAt": "2026-07-10T10:00:00",
+      "content": "As the United States approaches its 250th anniversary, Comcast NBCUniversal is celebrating this historic milestone with a renewed commitment to service."
     },
     {
       "source": {
@@ -166,17 +287,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-07-11T23:58:40",
       "content": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Fastest spider in the world? This huge, hairy-legged Australian arachnid may be the quickest on the planet",
-      "description": "A brown huntsman is the quickest of more than 250 species analysed by scientists in the UK and GermanyIf arachnophobes were not frightened enough by the horrific ability of Australia’s huntsman spi...",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/09/fastest-spider-on-the-planet-brown-huntsman",
-      "publishedAt": "2026-07-11T15:02:21",
-      "content": "A brown huntsman is the quickest of more than 250 species analysed by scientists in the UK and GermanyIf arachnophobes were not frightened enough by the horrific ability of Australia’s huntsman spi..."
     },
     {
       "source": {
@@ -227,44 +337,44 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Flooding in Missouri Prompts State of Emergency and at Least 100 Rescues",
-      "description": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell in the southeastern part of the state. More storms are in the forecast.",
-      "url": "https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html",
-      "publishedAt": "2026-07-11T08:23:38",
-      "content": "Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell in the southeastern part of the state. More storms are in the forecast."
+      "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
+      "description": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
+      "publishedAt": "2026-07-10T22:25:17",
+      "content": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Honoring National Lineworker Appreciation Day",
-      "description": "On July 10, we honor our crews who are committed to powering our communities safely for National Lineworker Appreciation Day.",
-      "url": "https://csrwire.com/press-release/honoring-national-lineworker-appreciation-day/",
-      "publishedAt": "2026-07-10T22:00:00",
-      "content": "On July 10, we honor our crews who are committed to powering our communities safely for National Lineworker Appreciation Day."
+      "author": "BBC",
+      "title": "Helping one of Britain's rarest butterflies",
+      "description": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary.",
+      "url": "https://www.bbc.co.uk/news/videos/cwyezwg89n3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T20:14:46",
+      "content": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "EQT Acquires U.S. Energy and AI Infrastructure Platform Copia Power from Carlyle",
-      "description": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and",
-      "url": "https://www.esgtoday.com/eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle/?utm_source=rss&utm_medium=rss&utm_campaign=eqt-acquires-u-s-energy-and-ai-infrastructure-platform-copia-power-from-carlyle",
-      "publishedAt": "2026-07-10T12:07:41",
-      "content": "Private equity and venture capital investor EQT Group announced the acquisition of U.S. power and"
+      "author": "New York Times",
+      "title": "He Wanted to Track Microplastics in the Sea. The E.P.A. Fired Him.",
+      "description": "The official urged requiring a fish farm to monitor for the tiny plastic particles. The E.P.A. said he had taken steps to embarrass the agency.",
+      "url": "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html",
+      "publishedAt": "2026-07-10T19:54:15",
+      "content": "The official urged requiring a fish farm to monitor for the tiny plastic particles. The E.P.A. said he had taken steps to embarrass the agency."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Comcast NBCUniversal Marks America’s 250th With A Year of Service and Volunteerism",
-      "description": "As the United States approaches its 250th anniversary, Comcast NBCUniversal is celebrating this historic milestone with a renewed commitment to service.",
-      "url": "https://csrwire.com/press-release/comcast-nbcuniversal-marks-americas-250th-year-service-and-volunteerism/",
-      "publishedAt": "2026-07-10T10:00:00",
-      "content": "As the United States approaches its 250th anniversary, Comcast NBCUniversal is celebrating this historic milestone with a renewed commitment to service."
+      "author": "BBC",
+      "title": "How can you help wildlife during hot weather?",
+      "description": "Sophia Herod has some tips for helping animals that might visit your garden or neighbourhood.",
+      "url": "https://www.bbc.co.uk/news/videos/c7vyp6lqv9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-10T16:00:54",
+      "content": "Sophia Herod has some tips for helping animals that might visit your garden or neighbourhood."
     },
     {
       "source": {
@@ -309,94 +419,6 @@
       "url": "https://csrwire.com/press-release/chemours-fayetteville-works-and-chambers-works-recognized-tandem-global-conference/",
       "publishedAt": "2026-07-09T08:00:00",
       "content": "At the Tandem Global Conference—where professionals from around the world gather to advance corporate action for nature—Chemours’ Fayetteville Works and Chambers Works were recognized for their ong..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Children were calling for their mummies’: UK pupils struggle in 40C-plus classrooms",
-      "description": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st...",
-      "url": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
-      "publishedAt": "2026-07-11T06:00:41",
-      "content": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry",
-      "description": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
-      "publishedAt": "2026-07-10T22:25:17",
-      "content": "A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Helping one of Britain's rarest butterflies",
-      "description": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary.",
-      "url": "https://www.bbc.co.uk/news/videos/cwyezwg89n3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T20:14:46",
-      "content": "For more than 30 years, Paul Dunn has been working to revive the fortunes of the high brown fritillary."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "He Wanted to Track Microplastics in the Sea. The E.P.A. Fired Him.",
-      "description": "The official urged requiring a fish farm to monitor for the tiny plastic particles. The E.P.A. said he had taken steps to embarrass the agency.",
-      "url": "https://www.nytimes.com/2026/07/10/climate/fish-farm-microplastics-maha-epa-firing.html",
-      "publishedAt": "2026-07-10T19:54:15",
-      "content": "The official urged requiring a fish farm to monitor for the tiny plastic particles. The E.P.A. said he had taken steps to embarrass the agency."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How can you help wildlife during hot weather?",
-      "description": "Sophia Herod has some tips for helping animals that might visit your garden or neighbourhood.",
-      "url": "https://www.bbc.co.uk/news/videos/c7vyp6lqv9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T16:00:54",
-      "content": "Sophia Herod has some tips for helping animals that might visit your garden or neighbourhood."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Boxy forms and odd lights: US declassifies more UFO files",
-      "description": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis.",
-      "url": "https://www.bbc.co.uk/news/videos/c8x2zez8qwzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-10T15:28:17",
-      "content": "The US government published a fourth instalment of unresolved cases, promising to release more files on a rolling basis."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds",
-      "description": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.",
-      "url": "https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html",
-      "publishedAt": "2026-07-10T15:12:17",
-      "content": "An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Quaise Energy Raises $134 Million to Build First-Ever Superhot Geothermal Power Plant",
-      "description": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the",
-      "url": "https://www.esgtoday.com/quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant/?utm_source=rss&utm_medium=rss&utm_campaign=quaise-energy-raises-134-million-to-build-first-ever-superhot-geothermal-power-plant",
-      "publishedAt": "2026-07-08T14:51:30",
-      "content": "Geothermal energy technology company Quaise Energy announced that it has raised $134 million at the"
     },
     {
       "source": {
@@ -463,17 +485,6 @@
       "url": "https://csrwire.com/press-release/asknature-podcast-6-gamelihle-sibanda/",
       "publishedAt": "2026-07-06T09:40:00",
       "content": "This week's AskNature Podcast features engineer and biomimic Gamelihle (Gama) Sibanda."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Next Chapter of AI Is an Infrastructure Story",
-      "description": "As AI adoption accelerates, we are beginning to confront questions that extend beyond computing power alone.",
-      "url": "https://csrwire.com/press-release/next-chapter-ai-infrastructure-story/",
-      "publishedAt": "2026-07-06T08:00:00",
-      "content": "As AI adoption accelerates, we are beginning to confront questions that extend beyond computing power alone."
     }
   ]
 }
