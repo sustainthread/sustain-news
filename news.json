@@ -1,28 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 27,
+  "totalResults": 36,
   "articles": [
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Microsoft’s Carbon Footprint Jumps 25% as AI Buildout Challenges Climate Goals",
-      "description": "Microsoft released its 2026 Environmental Sustainability Report, revealing a significant jump in the tech giant’s",
-      "url": "https://www.esgtoday.com/microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=microsofts-carbon-footprint-jumps-25-as-ai-buildout-challenges-climate-goals",
-      "publishedAt": "2026-07-13T13:54:33",
-      "content": "Microsoft released its 2026 Environmental Sustainability Report, revealing a significant jump in the tech giant’s"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Shell Sells 80% of its Renewable Energy Portfolio to BlackRock-Backed Aditya Birla Renewables",
-      "description": "Shell and India-based industrial conglomerate Aditya Birla Group’s clean energy solutions subsidiary Aditya Birla Renewables",
-      "url": "https://www.esgtoday.com/shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=shell-sells-80-of-its-renewable-energy-portfolio-to-blackrock-backed-aditya-birla-renewables",
-      "publishedAt": "2026-07-14T10:02:52",
-      "content": "Shell and India-based industrial conglomerate Aditya Birla Group’s clean energy solutions subsidiary Aditya Birla Renewables"
+      "author": "CSRWire",
+      "title": "CNH Expands Sustainable Environment Solution (SES) Program to Prevent Stubble Burning and Promote Environment Conservation in South India",
+      "description": "CNH, a global leader in agriculture and construction equipment, announced the launch of its CSR initiative, Sustainable Environment Solution, across key agricultural regions in South India.",
+      "url": "https://csrwire.com/press-release/cnh-expands-sustainable-environment-solution-ses-program-prevent-stubble-burning-and-promote/",
+      "publishedAt": "2026-07-15T08:00:00",
+      "content": "CNH, a global leader in agriculture and construction equipment, announced the launch of its CSR initiative, Sustainable Environment Solution, across key agricultural regions in South India."
     },
     {
       "source": {
@@ -40,11 +29,44 @@
         "name": "Good On You"
       },
       "author": "Good On You",
+      "title": "46 More Sustainable Fashion and Beauty Brands From the UK",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-uk/",
+      "publishedAt": "2026-07-15T00:00:43",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
       "title": "More Sustainable Fashion Brand Offers This July 2026",
       "description": "Feature image: Terra Thread.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-07-08T22:00:45",
+      "publishedAt": "2026-07-13T22:00:45",
       "content": "Feature image: Terra Thread."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
+      "description": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant",
+      "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
+      "publishedAt": "2026-07-15T10:35:50",
+      "content": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "The Rise of the Climate Consumer",
+      "description": "Guest post by: Tim Newell, Founder and CEO, GreenFi Forget Washington. The Most Powerful Force",
+      "url": "https://www.esgtoday.com/the-rise-of-the-climate-consumer/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-the-climate-consumer",
+      "publishedAt": "2026-07-15T09:39:10",
+      "content": "Guest post by: Tim Newell, Founder and CEO, GreenFi Forget Washington. The Most Powerful Force"
     },
     {
       "source": {
@@ -62,11 +84,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "CalSTRS Invests $2 Billion to Anchor Nuveen Sustainable Infrastructure Fund",
+      "description": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers’ Retirement System",
+      "url": "https://www.esgtoday.com/calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund",
+      "publishedAt": "2026-07-15T15:12:08",
+      "content": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers’ Retirement System"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Canada Wildfire Air Pollution and Heat Wave Combo Pose Heightened Health Risks",
+      "description": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards.",
+      "url": "https://www.nytimes.com/article/heat-air-pollution-climate.html",
+      "publishedAt": "2026-07-15T21:24:38",
+      "content": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Deloitte Launches New Framework to Measure Value of Sustainability Investments",
       "description": "Global professional services firm Deloitte announced the launch of Sustainability Fusion, a new framework and toolset",
       "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments",
       "publishedAt": "2026-07-14T14:37:43",
       "content": "Global professional services firm Deloitte announced the launch of Sustainability Fusion, a new framework and toolset"
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Climate Philanthropists Enable Local Communities to Own Their Futures",
+      "description": "Though they work in different areas, the Honnold Foundation and Blue Ventures share the same conviction: Local communities should be empowered to envision, design and own investments in a more sust...",
+      "url": "https://triplepundit.com/2026/climate-philanthropists-enable-local-communities-to-own-their-futures/",
+      "publishedAt": "2026-07-13T17:03:54",
+      "content": "Though they work in different areas, the Honnold Foundation and Blue Ventures share the same conviction: Local communities should be empowered to envision, design and own investments in a more sust..."
     },
     {
       "source": {
@@ -81,28 +136,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "OMV Secures €450 Million EIB Backing to Build One of Europe’s Largest Green Hydrogen Projects",
-      "description": "Vienna-based integrated chemicals, fuels and energy company OMV announced today a new €450 million (USD$514",
-      "url": "https://www.esgtoday.com/omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects/?utm_source=rss&utm_medium=rss&utm_campaign=omv-secures-e450-million-eib-backing-to-build-one-of-europes-largest-green-hydrogen-projects",
-      "publishedAt": "2026-07-13T15:17:35",
-      "content": "Vienna-based integrated chemicals, fuels and energy company OMV announced today a new €450 million (USD$514"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Most UK media reports on June heatwave failed to mention climate crisis",
-      "description": "Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heatingMost of the UK media stories about the record-breaking heatwave that struck in June faile...",
-      "url": "https://www.theguardian.com/environment/2026/jul/14/most-coverage-june-heatwave-did-not-mention-climate-crisis",
-      "publishedAt": "2026-07-14T05:00:21",
-      "content": "Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heatingMost of the UK media stories about the record-breaking heatwave that struck in June faile..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -114,36 +147,102 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "India looks to untapped graphite riches for slice of critical minerals boom",
-      "description": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ...",
-      "url": "https://www.climatechangenews.com/2026/07/09/india-looks-to-untapped-graphite-riches-for-slice-of-critical-minerals-boom/",
-      "publishedAt": "2026-07-09T05:00:00",
-      "content": "Clean energy demand for battery-grade graphite is surging, but India faces hurdles as it positions itself to compete with China's grip on the supply chain\nThe post India looks to untapped graphite ..."
+      "author": "CSRWire",
+      "title": "America at 250, Whirlpool at 115: The Only American-Owned Kitchen and Laundry Appliance Company Celebrates a Century of Manufacturing, Jobs, and Homegrown Innovation",
+      "description": "As America celebrates its 250th anniversary, Whirlpool Corporation is marking its own milestone: 115 years as the only remaining American-owned major kitchen and laundry appliance manufacturer base...",
+      "url": "https://csrwire.com/press-release/america-250-whirlpool-115-only-american-owned-kitchen-and-laundry-appliance-company-celebrates/",
+      "publishedAt": "2026-07-15T15:00:00",
+      "content": "As America celebrates its 250th anniversary, Whirlpool Corporation is marking its own milestone: 115 years as the only remaining American-owned major kitchen and laundry appliance manufacturer base..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Aetna Provider Survey Reveals Increased Payer Trust and Tangible Benefits of Digital Tools To Improve Patient Outcomes",
+      "description": "Aetna®, a CVS Health® company (NYSE: CVS) today announced findings from the second Aetna Provider Survey.",
+      "url": "https://csrwire.com/press-release/aetna-provider-survey-reveals-increased-payer-trust-and-tangible-benefits-digital-tools/",
+      "publishedAt": "2026-07-15T14:45:00",
+      "content": "Aetna®, a CVS Health® company (NYSE: CVS) today announced findings from the second Aetna Provider Survey."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "DAC Carbon Removal Provider Airhive Acquires Competitor Carbyon",
-      "description": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC",
-      "url": "https://www.esgtoday.com/dac-carbon-removal-provider-airhive-acquires-competitor-carbyon/?utm_source=rss&utm_medium=rss&utm_campaign=dac-carbon-removal-provider-airhive-acquires-competitor-carbyon",
-      "publishedAt": "2026-07-14T15:11:28",
-      "content": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC"
+      "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
+      "description": "The European Commission announced that it has sent letters to all 27 EU member states, opening",
+      "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
+      "publishedAt": "2026-07-15T13:48:46",
+      "content": "The European Commission announced that it has sent letters to all 27 EU member states, opening"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The battle over peat: why do some gardeners still insist on using it?",
+      "description": "Peat bogs are essential to the environment, holding twice as much carbon as all the world’s forests.",
+      "url": "https://www.theguardian.com/environment/2026/jul/15/peatlands-carbon-horticulture-peat-free-planting",
+      "publishedAt": "2026-07-15T12:00:08",
+      "content": "Peat bogs are essential to the environment, holding twice as much carbon as all the world’s forests."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EU Approves France’s €63 Billion Offshore Wind Plan",
-      "description": "The European Commission announced that it has approved a €63 billion state aid program by",
-      "url": "https://www.esgtoday.com/eu-approves-frances-e63-billion-offshore-wind-plan/?utm_source=rss&utm_medium=rss&utm_campaign=eu-approves-frances-e63-billion-offshore-wind-plan",
-      "publishedAt": "2026-07-14T10:38:11",
-      "content": "The European Commission announced that it has approved a €63 billion state aid program by"
+      "title": "BlackRock’s GIP Acquires Commercial Solar Platform Summit Ridge",
+      "description": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and",
+      "url": "https://www.esgtoday.com/blackrocks-gip-acquires-commercial-solar-platform-summit-ridge/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-acquires-commercial-solar-platform-summit-ridge",
+      "publishedAt": "2026-07-15T11:15:59",
+      "content": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "WeWork Pursues WELL Coworking Rating Across Its Global Portfolio, Setting the Benchmark for Health and Well-Being Throughout the Flexible Workspace Industry",
+      "description": "WeWork has committed to pursuing the WELL Coworking Rating globally, an evidence-based roadmap for advancing health, well-being and workplace experience across the flexible office market. The initi...",
+      "url": "https://csrwire.com/press-release/wework-pursues-well-coworking-rating-across-its-global-portfolio-setting-benchmark-health-and/",
+      "publishedAt": "2026-07-15T11:00:00",
+      "content": "WeWork has committed to pursuing the WELL Coworking Rating globally, an evidence-based roadmap for advancing health, well-being and workplace experience across the flexible office market. The initi..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Laura Brown: “All The Cool Girls” Own Their Domain | GoDaddy School of Hustle with Angie K.",
+      "description": "Angie K. is joined by Laura Brown, co-author of “All The Cool Girls Get Fired” to discuss how career changes can be the perfect opportunity to pursue the idea you've always dreamed of.",
+      "url": "https://csrwire.com/press-release/laura-brown-all-cool-girls-own-their-domain-godaddy-school-hustle-angie-k/",
+      "publishedAt": "2026-07-15T10:00:00",
+      "content": "Angie K. is joined by Laura Brown, co-author of “All The Cool Girls Get Fired” to discuss how career changes can be the perfect opportunity to pursue the idea you've always dreamed of."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Journey, Not the Stops: Real Life Lessons From Mary Kay’s Executive Tara Eustace on Building Confidence",
+      "description": "What does the journey to self-confidence really look like behind the scenes? Confidence doesn’t always arrive fully formed.",
+      "url": "https://csrwire.com/press-release/journey-not-stops-real-life-lessons-mary-kays-executive-tara-eustace-building-confidence/",
+      "publishedAt": "2026-07-15T08:00:00",
+      "content": "What does the journey to self-confidence really look like behind the scenes? Confidence doesn’t always arrive fully formed."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A Letter from Wesco Chairman, President and CEO",
+      "description": "At Wesco, sustainability is integral to how we operate, grow and create long-term value.",
+      "url": "https://csrwire.com/press-release/letter-wesco-chairman-president-and-ceo/",
+      "publishedAt": "2026-07-13T16:30:00",
+      "content": "At Wesco, sustainability is integral to how we operate, grow and create long-term value."
     },
     {
       "source": {
@@ -155,6 +254,105 @@
       "url": "https://www.climatechangenews.com/2026/07/09/the-loss-and-damage-fund-needs-far-more-finance-to-deliver-climate-justice/",
       "publishedAt": "2026-07-09T09:11:34",
       "content": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How birds are coping in the heatwave",
+      "description": "Birds are unable to sweat but they keep cool by seeking shade and bathingAs we humans sweltered in the record-breaking late June heatwave, we might not have spared much thought on how birds were co...",
+      "url": "https://www.theguardian.com/news/2026/jul/16/how-birds-are-coping-in-the-heatwave",
+      "publishedAt": "2026-07-16T05:00:16",
+      "content": "Birds are unable to sweat but they keep cool by seeking shade and bathingAs we humans sweltered in the record-breaking late June heatwave, we might not have spared much thought on how birds were co..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T23:02:49",
+      "content": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Door-to-Door Search for Grapevines Sold at Costco Begins in California’s Santa Clara County",
+      "description": "Officials in Santa Clara County began knocking on doors on Monday to collect potentially infested plants sold at some Costco stores.",
+      "url": "https://www.nytimes.com/2026/07/15/us/california-costco-plants-recall.html",
+      "publishedAt": "2026-07-15T22:30:28",
+      "content": "Officials in Santa Clara County began knocking on doors on Monday to collect potentially infested plants sold at some Costco stores."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "As Europe’s heatwaves get more dangerous, here are four ways we can protect ourselves and others",
+      "description": "In the newsletter: From avoiding flights to checking on vulnerable neighbours, there are steps we can all take to fight the effects of extreme heat• Don’t get Down to Earth delivered to your inbox?...",
+      "url": "https://www.theguardian.com/environment/2026/jul/09/as-europes-heatwaves-get-more-dangerous-here-are-four-ways-we-can-all-help-cut-the-risk",
+      "publishedAt": "2026-07-15T11:03:07",
+      "content": "In the newsletter: From avoiding flights to checking on vulnerable neighbours, there are steps we can all take to fight the effects of extreme heat• Don’t get Down to Earth delivered to your inbox?..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-15T08:06:00",
+      "content": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'I looked into the river and saw all these dead fish'",
+      "description": "There have been 50,000 fish killed in Northern Ireland because of water pollution since 2020.",
+      "url": "https://www.bbc.co.uk/news/articles/cgev4yg9d13o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-14T23:01:40",
+      "content": "There have been 50,000 fish killed in Northern Ireland because of water pollution since 2020."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "In Photos: On the Road with a Montana Range Rider Who Tracks Predators on Horseback",
+      "description": "Range riders are reemerging in the western U.",
+      "url": "https://triplepundit.com/2026/range-rider-blackfoot-valley-montana-human-wildlife-conflict/",
+      "publishedAt": "2026-07-14T21:20:10",
+      "content": "Range riders are reemerging in the western U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy Texas Delivers Weatherization and Cooling Upgrades To Help Cut Costs on Summer Energy Bills",
+      "description": "As part of Entergy Texas’ CoolSaver program, our energy efficiency team partnered with local contractors to provide no‑cost A/C tune-ups for customers in the Orange and Dayton areas.",
+      "url": "https://csrwire.com/press-release/entergy-texas-delivers-weatherization-and-cooling-upgrades-help-cut-costs-summer-energy-bills/",
+      "publishedAt": "2026-07-14T16:45:00",
+      "content": "As part of Entergy Texas’ CoolSaver program, our energy efficiency team partnered with local contractors to provide no‑cost A/C tune-ups for customers in the Orange and Dayton areas."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "DAC Carbon Removal Provider Airhive Acquires Competitor Carbyon",
+      "description": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC",
+      "url": "https://www.esgtoday.com/dac-carbon-removal-provider-airhive-acquires-competitor-carbyon/?utm_source=rss&utm_medium=rss&utm_campaign=dac-carbon-removal-provider-airhive-acquires-competitor-carbyon",
+      "publishedAt": "2026-07-14T15:11:28",
+      "content": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC"
     },
     {
       "source": {
@@ -188,105 +386,6 @@
       "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
       "publishedAt": "2026-07-15T00:39:01",
       "content": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
-      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T00:11:32",
-      "content": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "After record heat, could the Atlantic make Britain's weather even more extreme?",
-      "description": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK",
-      "url": "https://www.bbc.co.uk/news/articles/c992e8g10nmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-14T23:08:13",
-      "content": "As temperatures rise, scientists are investigating whether a changing Atlantic could bring more volatile weather to the UK"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
-      "description": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residentsSeven Britons are among 12 foreign nationals killed in wildfires in southern Spain, auth...",
-      "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
-      "publishedAt": "2026-07-14T22:38:04",
-      "content": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residentsSeven Britons are among 12 foreign nationals killed in wildfires in southern Spain, auth..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Millions in Canada swelter as heatwave continues to move east",
-      "description": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yzyep6z63o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-14T21:39:06",
-      "content": "High temperatures are expected to continue for Canada, as well as for parts of the US Midwest and Northeast, into Wednesday."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
-      "description": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024.",
-      "url": "https://www.bbc.co.uk/news/videos/ckg8gymjv7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-14T17:11:03",
-      "content": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: New ISS crew blasts off from Kazakhstan",
-      "description": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission.",
-      "url": "https://www.bbc.co.uk/news/videos/ckg4gjwz20qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-14T15:50:33",
-      "content": "The Soyuz spacecraft will carry Nasa astronaut Anil Menon and cosmonauts Pyotr Dubrov and Anna Kikina to the ISS for an eight-month mission."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Hephae Raises $17.8 Million for Technology Enabling Access to Deeper, Hotter Geothermal Energy",
-      "description": "Geothermal technology startup Hephae Energy Technology announced that it has raised $17.8 million in a",
-      "url": "https://www.esgtoday.com/hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy/?utm_source=rss&utm_medium=rss&utm_campaign=hephae-raises-17-8-million-for-technology-enabling-access-to-deeper-hotter-geothermal-energy",
-      "publishedAt": "2026-07-13T14:46:11",
-      "content": "Geothermal technology startup Hephae Energy Technology announced that it has raised $17.8 million in a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Alpiq Acquires Battery Storage Developer Harmony Energy",
-      "description": "Swiss electricity producer and energy services provider Alpiq announced that it is has acquired a",
-      "url": "https://www.esgtoday.com/alpiq-acquires-battery-storage-developer-harmony-energy/?utm_source=rss&utm_medium=rss&utm_campaign=alpiq-acquires-battery-storage-developer-harmony-energy",
-      "publishedAt": "2026-07-13T14:15:25",
-      "content": "Swiss electricity producer and energy services provider Alpiq announced that it is has acquired a"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Giving nature a say: why Scottish marine scientists appointed the ocean to their board",
-      "description": "As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the ocean a trusteeIn a boardroom in an office building in ...",
-      "url": "https://www.theguardian.com/global-development/2026/jul/14/scottish-marine-scientists-ocean-board-trustees",
-      "publishedAt": "2026-07-14T06:00:23",
-      "content": "As the rights of nature are increasingly being recognised, the Scottish Association for Marine Science is the latest organisation to make the ocean a trusteeIn a boardroom in an office building in ..."
     },
     {
       "source": {
