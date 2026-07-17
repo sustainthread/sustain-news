@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 38,
   "articles": [
     {
       "source": {
@@ -18,11 +18,22 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Korea Expands Mandatory Sustainability Reporting to More Companies",
-      "description": "Korea’s Financial Services Commission (FSC) announced the release of its finalized roadmap for sustainability (ESG)",
-      "url": "https://www.esgtoday.com/korea-significantly-expands-mandatory-sustainability-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=korea-significantly-expands-mandatory-sustainability-reporting-requirements",
-      "publishedAt": "2026-07-14T12:56:17",
-      "content": "Korea’s Financial Services Commission (FSC) announced the release of its finalized roadmap for sustainability (ESG)"
+      "title": "Green Climate Fund Unlocks Additional $4 Billion for Climate Investments",
+      "description": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that",
+      "url": "https://www.esgtoday.com/green-climate-fund-unlocks-additional-4-billion-for-climate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=green-climate-fund-unlocks-additional-4-billion-for-climate-investments",
+      "publishedAt": "2026-07-16T13:52:28",
+      "content": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This July 2026",
+      "description": "Feature image: Terra Thread.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-07-15T22:00:45",
+      "content": "Feature image: Terra Thread."
     },
     {
       "source": {
@@ -37,36 +48,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This July 2026",
-      "description": "Feature image: Terra Thread.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-07-13T22:00:45",
-      "content": "Feature image: Terra Thread."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Google Signs Massive Clean Energy Deal with Largest Solar Project in U.S.",
-      "description": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant",
-      "url": "https://www.esgtoday.com/google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-massive-clean-energy-deal-with-largest-solar-project-in-u-s",
-      "publishedAt": "2026-07-15T10:35:50",
-      "content": "Google announced a new partnership with renewables developer Cypress Creek Energy, with the tech giant"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "The Rise of the Climate Consumer",
-      "description": "Guest post by: Tim Newell, Founder and CEO, GreenFi Forget Washington. The Most Powerful Force",
-      "url": "https://www.esgtoday.com/the-rise-of-the-climate-consumer/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-the-climate-consumer",
-      "publishedAt": "2026-07-15T09:39:10",
-      "content": "Guest post by: Tim Newell, Founder and CEO, GreenFi Forget Washington. The Most Powerful Force"
+      "title": "Lululemon Backs Textile Recycling Tech Startup Syntetica",
+      "description": "Circular textile technology startup Syntetica announced that it has raised $30 million in a Series",
+      "url": "https://www.esgtoday.com/lululemon-backs-textile-recycling-tech-startup-syntetica/?utm_source=rss&utm_medium=rss&utm_campaign=lululemon-backs-textile-recycling-tech-startup-syntetica",
+      "publishedAt": "2026-07-16T15:11:21",
+      "content": "Circular textile technology startup Syntetica announced that it has raised $30 million in a Series"
     },
     {
       "source": {
@@ -84,6 +73,39 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Rize Raises $31 Million to Tackle Climate Impact of Rice Farming",
+      "description": "Agri-tech startup Rize announced today that it has raised $31 million in a Series B",
+      "url": "https://www.esgtoday.com/rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming/?utm_source=rss&utm_medium=rss&utm_campaign=rize-raises-31-million-to-tackle-the-climate-impact-of-rice-farming",
+      "publishedAt": "2026-07-16T11:19:44",
+      "content": "Agri-tech startup Rize announced today that it has raised $31 million in a Series B"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Climate Tech Funding Surges on Data Center Demand for Power: Report",
+      "description": "Venture capital investment in climate technology grew significantly in the first half of 2026, rising",
+      "url": "https://www.esgtoday.com/climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report/?utm_source=rss&utm_medium=rss&utm_campaign=climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report",
+      "publishedAt": "2026-07-16T10:44:49",
+      "content": "Venture capital investment in climate technology grew significantly in the first half of 2026, rising"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Climate Change Contributes to a Smokier World",
+      "description": "Higher temperatures and drought conditions are contributing to more intense wildfires and extending the summer fire season in North America.",
+      "url": "https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-climate-change.html",
+      "publishedAt": "2026-07-16T21:34:17",
+      "content": "Higher temperatures and drought conditions are contributing to more intense wildfires and extending the summer fire season in North America."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "CalSTRS Invests $2 Billion to Anchor Nuveen Sustainable Infrastructure Fund",
       "description": "Global investment manager Nuveen announced a strategic partnership with the California State Teachers’ Retirement System",
       "url": "https://www.esgtoday.com/calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=calstrs-invests-2-billion-to-anchor-nuveen-sustainable-infrastructure-fund",
@@ -92,25 +114,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Good On You"
       },
-      "author": "New York Times",
-      "title": "Canada Wildfire Air Pollution and Heat Wave Combo Pose Heightened Health Risks",
-      "description": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards.",
-      "url": "https://www.nytimes.com/article/heat-air-pollution-climate.html",
-      "publishedAt": "2026-07-15T21:24:38",
-      "content": "Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Deloitte Launches New Framework to Measure Value of Sustainability Investments",
-      "description": "Global professional services firm Deloitte announced the launch of Sustainability Fusion, a new framework and toolset",
-      "url": "https://www.esgtoday.com/deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-launches-new-solution-to-enable-companies-to-measure-value-of-sustainability-investments",
-      "publishedAt": "2026-07-14T14:37:43",
-      "content": "Global professional services firm Deloitte announced the launch of Sustainability Fusion, a new framework and toolset"
+      "author": "Good On You",
+      "title": "22 Size Inclusive and Affordable More Sustainable Brands You Need to Know",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/size-inclusive-affordable-brands/",
+      "publishedAt": "2026-07-16T00:00:34",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -128,11 +139,77 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
-      "description": "Annual State of the UK Climate analysis finds last four years in UK are in top five hottest on recordThe UK’s climatic extremes are becoming increasingly normal, a report has found, with last year ...",
-      "url": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
-      "publishedAt": "2026-07-14T23:01:38",
-      "content": "Annual State of the UK Climate analysis finds last four years in UK are in top five hottest on recordThe UK’s climatic extremes are becoming increasingly normal, a report has found, with last year ..."
+      "title": "‘Forever chemicals’ – the national cancer scandal brewing in a Lancashire town",
+      "description": "In this week’s newsletter: residents living near a chemical factory are the latest community concerned about the health and environmental impact of Pfas contamination• Don’t get Down to Earth deliv...",
+      "url": "https://www.theguardian.com/environment/2026/jul/16/down-to-earth-lancashire-pfas-contamination-forever-chemicals",
+      "publishedAt": "2026-07-17T06:00:03",
+      "content": "In this week’s newsletter: residents living near a chemical factory are the latest community concerned about the health and environmental impact of Pfas contamination• Don’t get Down to Earth deliv..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch: What we know about newly discovered monkey species",
+      "description": "New monkey species hailed as 'amazing discovery' by conservationist.",
+      "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T14:50:05",
+      "content": "New monkey species hailed as 'amazing discovery' by conservationist."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Walmart, General Mills Partner with ADM to Help U.S. Farmers Adopt Regenerative Agriculture Practices",
+      "description": "Walmart, General Mills, global agriculture company ADM announced a new strategic collaboration to accelerate regenerative",
+      "url": "https://www.esgtoday.com/walmart-general-mills-partner-with-adm-to-help-farmers-adopt-regenerative-agriculture-practices/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-general-mills-partner-with-adm-to-help-farmers-adopt-regenerative-agriculture-practices",
+      "publishedAt": "2026-07-16T14:20:06",
+      "content": "Walmart, General Mills, global agriculture company ADM announced a new strategic collaboration to accelerate regenerative"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BP Sells Energy Technology Venture Portfolio to Verdane",
+      "description": "Energy giant BP announced an agreement to sell the majority of the portfolio of its",
+      "url": "https://www.esgtoday.com/bp-sells-energy-technology-venture-portfolio-to-verdane/?utm_source=rss&utm_medium=rss&utm_campaign=bp-sells-energy-technology-venture-portfolio-to-verdane",
+      "publishedAt": "2026-07-16T12:34:05",
+      "content": "Energy giant BP announced an agreement to sell the majority of the portfolio of its"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Extreme weather in the UK is the 'new normal'",
+      "description": "Sarah Keith-Lucas details five things you need to know about how the UK climate has changed.",
+      "url": "https://www.bbc.co.uk/news/videos/cp8e1jm1delo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T12:02:49",
+      "content": "Sarah Keith-Lucas details five things you need to know about how the UK climate has changed."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Real-World Skills for Real World Challenges: AI-Led Updates Across Cisco Certification Portfolio",
+      "description": "Advances in technology continue to make increased demands on networking and technology professionals.",
+      "url": "https://csrwire.com/press-release/real-world-skills-real-world-challenges-ai-led-updates-across-cisco-certification-portfolio/",
+      "publishedAt": "2026-07-16T10:00:00",
+      "content": "Advances in technology continue to make increased demands on networking and technology professionals."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy Arkansas Hosts Bill Assistance, Customer Care Events in July",
+      "description": "Entergy Arkansas will host a series of in-person customer care events across the state beginning Tuesday, July 7, to connect customers with valuable resources like financial assistance for energy b...",
+      "url": "https://csrwire.com/press-release/entergy-arkansas-hosts-bill-assistance-customer-care-events-july/",
+      "publishedAt": "2026-07-16T08:00:00",
+      "content": "Entergy Arkansas will host a series of in-person customer care events across the state beginning Tuesday, July 7, to connect customers with valuable resources like financial assistance for energy b..."
     },
     {
       "source": {
@@ -144,6 +221,116 @@
       "url": "https://goodonyou.eco/the-ultimate-guide-to-sustainable-sneakers/",
       "publishedAt": "2026-07-14T00:00:22",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "As the UK and Europe battle deadly wildfires, what lessons can Australia offer?",
+      "description": "Knowledge learned over more than a century in Australia is being tested by worsening fires.",
+      "url": "https://www.theguardian.com/world/2026/jul/17/as-the-uk-and-europe-battle-deadly-wildfires-what-lessons-can-australia-offer",
+      "publishedAt": "2026-07-17T04:00:58",
+      "content": "Knowledge learned over more than a century in Australia is being tested by worsening fires."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK heatwave approaches two-week mark",
+      "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days.",
+      "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T23:28:21",
+      "content": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Canada’s Wildfires Are Burning Through the Night",
+      "description": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.",
+      "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
+      "publishedAt": "2026-07-16T22:08:16",
+      "content": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Burning Houses to Save Houses",
+      "description": "We visited researchers seeking ways to make homes safer. They set a lot of fires.",
+      "url": "https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html",
+      "publishedAt": "2026-07-16T19:35:39",
+      "content": "We visited researchers seeking ways to make homes safer. They set a lot of fires."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Buzz off: this pop-up screen shelter provides a safe retreat from bugs and mosquitoes",
+      "description": "I tried repellents, mesh hats and natural remedies, but this inexpensive screen tent beats them all to keep insects outThis $380 foldable kayak fits in my Prius and goes from backseat to lake in 10...",
+      "url": "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent",
+      "publishedAt": "2026-07-16T19:15:46",
+      "content": "I tried repellents, mesh hats and natural remedies, but this inexpensive screen tent beats them all to keep insects outThis $380 foldable kayak fits in my Prius and goes from backseat to lake in 10..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Mamdani Urges New Yorkers to Stay Indoors Because of Wildfire Smoke",
+      "description": "“Every New Yorker should take precautions,” Mayor Zohran Mamdani said. Gov. Kathy Hochul also issued a statewide air quality advisory.",
+      "url": "https://www.nytimes.com/2026/07/16/us/mamdani-nyc-wildfire-smoke-aqi.html",
+      "publishedAt": "2026-07-16T16:53:20",
+      "content": "“Every New Yorker should take precautions,” Mayor Zohran Mamdani said. Gov. Kathy Hochul also issued a statewide air quality advisory."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "When will it rain again in the UK?",
+      "description": "July has been very dry so when will it rain again in the UK?",
+      "url": "https://www.bbc.co.uk/news/videos/clyeydp5vg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T16:13:27",
+      "content": "July has been very dry so when will it rain again in the UK?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What to know about the Canadian and US wildfires and their impact",
+      "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T16:08:40",
+      "content": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "description": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
+      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-16T12:44:26",
+      "content": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Africa can lead the Age of Electrification",
+      "description": "The electrification agenda presents both an extraordinary opportunity for Africa and an immense challenge for the continent\nThe post Africa can lead the Age of Electrification appeared first on Cli...",
+      "url": "https://www.climatechangenews.com/2026/07/16/africa-can-lead-the-age-of-electrification/",
+      "publishedAt": "2026-07-16T09:52:53",
+      "content": "The electrification agenda presents both an extraordinary opportunity for Africa and an immense challenge for the continent\nThe post Africa can lead the Age of Electrification appeared first on Cli..."
     },
     {
       "source": {
@@ -177,17 +364,6 @@
       "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
       "publishedAt": "2026-07-15T13:48:46",
       "content": "The European Commission announced that it has sent letters to all 27 EU member states, opening"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The battle over peat: why do some gardeners still insist on using it?",
-      "description": "Peat bogs are essential to the environment, holding twice as much carbon as all the world’s forests.",
-      "url": "https://www.theguardian.com/environment/2026/jul/15/peatlands-carbon-horticulture-peat-free-planting",
-      "publishedAt": "2026-07-15T12:00:08",
-      "content": "Peat bogs are essential to the environment, holding twice as much carbon as all the world’s forests."
     },
     {
       "source": {
@@ -235,94 +411,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A Letter from Wesco Chairman, President and CEO",
-      "description": "At Wesco, sustainability is integral to how we operate, grow and create long-term value.",
-      "url": "https://csrwire.com/press-release/letter-wesco-chairman-president-and-ceo/",
-      "publishedAt": "2026-07-13T16:30:00",
-      "content": "At Wesco, sustainability is integral to how we operate, grow and create long-term value."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "The loss and damage fund needs far more finance to deliver climate justice",
-      "description": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del...",
-      "url": "https://www.climatechangenews.com/2026/07/09/the-loss-and-damage-fund-needs-far-more-finance-to-deliver-climate-justice/",
-      "publishedAt": "2026-07-09T09:11:34",
-      "content": "The fledgling fund must also help vulnerable communities take action to recover from disasters by giving them direct access to grants\nThe post The loss and damage fund needs far more finance to del..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How birds are coping in the heatwave",
-      "description": "Birds are unable to sweat but they keep cool by seeking shade and bathingAs we humans sweltered in the record-breaking late June heatwave, we might not have spared much thought on how birds were co...",
-      "url": "https://www.theguardian.com/news/2026/jul/16/how-birds-are-coping-in-the-heatwave",
-      "publishedAt": "2026-07-16T05:00:16",
-      "content": "Birds are unable to sweat but they keep cool by seeking shade and bathingAs we humans sweltered in the record-breaking late June heatwave, we might not have spared much thought on how birds were co..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-      "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
-      "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T23:02:49",
-      "content": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Door-to-Door Search for Grapevines Sold at Costco Begins in California’s Santa Clara County",
-      "description": "Officials in Santa Clara County began knocking on doors on Monday to collect potentially infested plants sold at some Costco stores.",
-      "url": "https://www.nytimes.com/2026/07/15/us/california-costco-plants-recall.html",
-      "publishedAt": "2026-07-15T22:30:28",
-      "content": "Officials in Santa Clara County began knocking on doors on Monday to collect potentially infested plants sold at some Costco stores."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "As Europe’s heatwaves get more dangerous, here are four ways we can protect ourselves and others",
-      "description": "In the newsletter: From avoiding flights to checking on vulnerable neighbours, there are steps we can all take to fight the effects of extreme heat• Don’t get Down to Earth delivered to your inbox?...",
-      "url": "https://www.theguardian.com/environment/2026/jul/09/as-europes-heatwaves-get-more-dangerous-here-are-four-ways-we-can-all-help-cut-the-risk",
-      "publishedAt": "2026-07-15T11:03:07",
-      "content": "In the newsletter: From avoiding flights to checking on vulnerable neighbours, there are steps we can all take to fight the effects of extreme heat• Don’t get Down to Earth delivered to your inbox?..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
-      "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T08:06:00",
-      "content": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'I looked into the river and saw all these dead fish'",
-      "description": "There have been 50,000 fish killed in Northern Ireland because of water pollution since 2020.",
-      "url": "https://www.bbc.co.uk/news/articles/cgev4yg9d13o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-14T23:01:40",
-      "content": "There have been 50,000 fish killed in Northern Ireland because of water pollution since 2020."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -331,72 +419,6 @@
       "url": "https://triplepundit.com/2026/range-rider-blackfoot-valley-montana-human-wildlife-conflict/",
       "publishedAt": "2026-07-14T21:20:10",
       "content": "Range riders are reemerging in the western U."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Texas Delivers Weatherization and Cooling Upgrades To Help Cut Costs on Summer Energy Bills",
-      "description": "As part of Entergy Texas’ CoolSaver program, our energy efficiency team partnered with local contractors to provide no‑cost A/C tune-ups for customers in the Orange and Dayton areas.",
-      "url": "https://csrwire.com/press-release/entergy-texas-delivers-weatherization-and-cooling-upgrades-help-cut-costs-summer-energy-bills/",
-      "publishedAt": "2026-07-14T16:45:00",
-      "content": "As part of Entergy Texas’ CoolSaver program, our energy efficiency team partnered with local contractors to provide no‑cost A/C tune-ups for customers in the Orange and Dayton areas."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "DAC Carbon Removal Provider Airhive Acquires Competitor Carbyon",
-      "description": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC",
-      "url": "https://www.esgtoday.com/dac-carbon-removal-provider-airhive-acquires-competitor-carbyon/?utm_source=rss&utm_medium=rss&utm_campaign=dac-carbon-removal-provider-airhive-acquires-competitor-carbyon",
-      "publishedAt": "2026-07-14T15:11:28",
-      "content": "UK-based direct air capture (DAC) technology company Airhive announced that it has acquired Dutch DAC"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hosepipe ban in force for millions of households - is your area affected?",
-      "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T05:08:23",
-      "content": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "To drill or not to drill? Andy Burnham faces North Sea oil dilemma",
-      "description": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5350rp3z2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-15T05:06:34",
-      "content": "Burnham, who is expected to become the UK's next prime minister, has been handed a letter from the oil and gas industry calling for his support."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Data Centers to Add Billions in Power Costs in 13 States",
-      "description": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
-      "url": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
-      "publishedAt": "2026-07-15T00:39:01",
-      "content": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Top Rated Fashion Brands Using Vegan Plastic-Free Materials",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/vegan-plastic-free-fashion/",
-      "publishedAt": "2026-07-14T00:00:14",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     }
   ]
 }
