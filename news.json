@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Good On You"
       },
-      "author": "CSRWire",
-      "title": "CNH Expands Sustainable Environment Solution (SES) Program to Prevent Stubble Burning and Promote Environment Conservation in South India",
-      "description": "CNH, a global leader in agriculture and construction equipment, announced the launch of its CSR initiative, Sustainable Environment Solution, across key agricultural regions in South India.",
-      "url": "https://csrwire.com/press-release/cnh-expands-sustainable-environment-solution-ses-program-prevent-stubble-burning-and-promote/",
-      "publishedAt": "2026-07-15T08:00:00",
-      "content": "CNH, a global leader in agriculture and construction equipment, announced the launch of its CSR initiative, Sustainable Environment Solution, across key agricultural regions in South India."
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This July 2026",
+      "description": "Feature image: Terra Thread.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-07-15T22:00:45",
+      "content": "Feature image: Terra Thread."
     },
     {
       "source": {
@@ -23,17 +23,6 @@
       "url": "https://www.esgtoday.com/green-climate-fund-unlocks-additional-4-billion-for-climate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=green-climate-fund-unlocks-additional-4-billion-for-climate-investments",
       "publishedAt": "2026-07-16T13:52:28",
       "content": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This July 2026",
-      "description": "Feature image: Terra Thread.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-07-15T22:00:45",
-      "content": "Feature image: Terra Thread."
     },
     {
       "source": {
@@ -70,6 +59,28 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Climate Change Contributes to Rising Share of Wildfire Smoke Deaths",
+      "description": "Wildfire smoke is linked to tens of thousands of deaths a year, a number that is rising with climate change.",
+      "url": "https://www.nytimes.com/2026/07/17/climate/smoke-air-quality-deaths.html",
+      "publishedAt": "2026-07-17T17:37:20",
+      "content": "Wildfire smoke is linked to tens of thousands of deaths a year, a number that is rising with climate change."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How Companies Have Abandoned Their Climate Goals and Let Themselves Off the Hook",
+      "description": "Big business made big promises about saving the planet. Following through hasn’t been easy.",
+      "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
+      "publishedAt": "2026-07-17T16:31:40",
+      "content": "Big business made big promises about saving the planet. Following through hasn’t been easy."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -89,17 +100,6 @@
       "url": "https://www.esgtoday.com/climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report/?utm_source=rss&utm_medium=rss&utm_campaign=climate-tech-funding-surges-in-h1-2026-on-growing-data-center-demand-for-low-carbon-power-report",
       "publishedAt": "2026-07-16T10:44:49",
       "content": "Venture capital investment in climate technology grew significantly in the first half of 2026, rising"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Climate Change Contributes to a Smokier World",
-      "description": "Higher temperatures and drought conditions are contributing to more intense wildfires and extending the summer fire season in North America.",
-      "url": "https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-climate-change.html",
-      "publishedAt": "2026-07-16T21:34:17",
-      "content": "Higher temperatures and drought conditions are contributing to more intense wildfires and extending the summer fire season in North America."
     },
     {
       "source": {
@@ -125,14 +125,201 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Guardian"
       },
-      "author": "Triple Pundit",
-      "title": "Climate Philanthropists Enable Local Communities to Own Their Futures",
-      "description": "Though they work in different areas, the Honnold Foundation and Blue Ventures share the same conviction: Local communities should be empowered to envision, design and own investments in a more sust...",
-      "url": "https://triplepundit.com/2026/climate-philanthropists-enable-local-communities-to-own-their-futures/",
-      "publishedAt": "2026-07-13T17:03:54",
-      "content": "Though they work in different areas, the Honnold Foundation and Blue Ventures share the same conviction: Local communities should be empowered to envision, design and own investments in a more sust..."
+      "author": "The Guardian",
+      "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+      "description": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just beco...",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+      "publishedAt": "2026-07-18T05:00:50",
+      "content": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just beco..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
+      "description": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market\nThe post Most “zombie credits” locked out of new UN carbon mark...",
+      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
+      "publishedAt": "2026-07-17T16:38:23",
+      "content": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market\nThe post Most “zombie credits” locked out of new UN carbon mark..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Delta Signs 5-Year Deal with Shell to Expand SAF Supply and Infrastructure at U.S. Airports",
+      "description": "Delta Air Lines announced a new agreement with Shell Aviation, aimed at expanding its use",
+      "url": "https://www.esgtoday.com/delta-signs-5-year-deal-with-shell-to-expand-saf-supply-and-infrastructure-at-u-s-airports/?utm_source=rss&utm_medium=rss&utm_campaign=delta-signs-5-year-deal-with-shell-to-expand-saf-supply-and-infrastructure-at-u-s-airports",
+      "publishedAt": "2026-07-17T10:31:23",
+      "content": "Delta Air Lines announced a new agreement with Shell Aviation, aimed at expanding its use"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Deutsche Bank, World Bank Launch $1 Billion Platform to Expand Access to Trade Finance in Emerging Markets",
+      "description": "Deutsche Bank and the World Bank Group’s Multilateral Investment Guarantee Agency (MIGA) announced the launch",
+      "url": "https://www.esgtoday.com/deutsche-bank-world-bank-launch-1-billion-platform-to-expand-access-to-trade-finance-in-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-world-bank-launch-1-billion-platform-to-expand-access-to-trade-finance-in-emerging-markets",
+      "publishedAt": "2026-07-17T09:09:53",
+      "content": "Deutsche Bank and the World Bank Group’s Multilateral Investment Guarantee Agency (MIGA) announced the launch"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Sneakers",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/the-ultimate-guide-to-sustainable-sneakers/",
+      "publishedAt": "2026-07-14T00:00:22",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
+      "description": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+      "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T07:05:19",
+      "content": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Breeding ferrets is a wonderfully chaotic business | Michael White",
+      "description": "Cranbrook, Kent: Right now the young are hellbent on seeking adventure, much to the dismay of their mothersProgression through the country year here is not marked by numbers on paper or buzzing pho...",
+      "url": "https://www.theguardian.com/environment/2026/jul/18/country-diary-breeding-ferrets-is-a-wonderfully-chaotic-business",
+      "publishedAt": "2026-07-18T04:30:48",
+      "content": "Cranbrook, Kent: Right now the young are hellbent on seeking adventure, much to the dismay of their mothersProgression through the country year here is not marked by numbers on paper or buzzing pho..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Second half of summer to bring chances for rain but heatwave threat persists",
+      "description": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c07rex9p7x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-18T01:05:29",
+      "content": "Forecasts suggest the weather could turn more changeable during late July and August but the risk of heatwaves remains."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Taking Out the Trash: These Old Ladies Are Cleaning Up Cape Cod",
+      "description": "The Old Ladies Against Underwater Garbage estimate they’ve removed 6,000 pounds of refuse from ponds on Cape Cod. “There’s no better feeling,” one said.",
+      "url": "https://www.nytimes.com/2026/07/17/climate/old-ladies-diving-for-trash.html",
+      "publishedAt": "2026-07-18T00:54:45",
+      "content": "The Old Ladies Against Underwater Garbage estimate they’ve removed 6,000 pounds of refuse from ponds on Cape Cod. “There’s no better feeling,” one said."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What this desert city can teach the world about tackling heat deaths",
+      "description": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths.",
+      "url": "https://www.bbc.co.uk/news/articles/cgl3lnpxy6no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T23:56:08",
+      "content": "Maricopa County in Arizona has some of the hottest temperatures, but it has reduced the number of heat-related deaths."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What to know about the Canadian and US wildfires and their impact",
+      "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T23:50:29",
+      "content": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "On Fire. Again.",
+      "description": "There were orange skies in 2023, 2025 and now again in 2026.",
+      "url": "https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html",
+      "publishedAt": "2026-07-17T21:28:47",
+      "content": "There were orange skies in 2023, 2025 and now again in 2026."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "EU proposes slowing down cuts to carbon emissions for businesses",
+      "description": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgv0zd497zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T18:34:04",
+      "content": "Under the proposals, the EU plans to relax its emissions trading system to give companies more time to reduce their carbon output."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Perseid meteors to light up night sky in one of the year's most active showers",
+      "description": "The Perseid meteor shower will light up the night sky over the next five weeks.",
+      "url": "https://www.bbc.co.uk/weather/articles/c7vg667m4y5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T15:59:21",
+      "content": "The Perseid meteor shower will light up the night sky over the next five weeks."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK heatwave hits two-week mark",
+      "description": "It is the longest dry spell in 30 years for parts of England as the UK heatwave reaches 14 days.",
+      "url": "https://www.bbc.co.uk/news/videos/cly9zk1wrw9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-17T15:18:17",
+      "content": "It is the longest dry spell in 30 years for parts of England as the UK heatwave reaches 14 days."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The rising cost of Australian ski resorts: ‘It was like throwing $100 bills out the window as we drove up the mountain’",
+      "description": "Australia experienced a boom in beginner-friendly skiing in the 1980s and 1990s.",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/18/the-rising-cost-of-australian-ski-resorts-it-was-like-throwing-100-bills-out-the-window-as-we-drove-up-the-mountain",
+      "publishedAt": "2026-07-17T15:00:35",
+      "content": "Australia experienced a boom in beginner-friendly skiing in the 1980s and 1990s."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Southern Water fined £7m after illegally dumping sewage off Kent coast",
+      "description": "Firm pleaded guilty to 13 offences over discharges at Margate and Broadstairs wastewater pumping stationsSouthern Water has been fined more than £7m after illegally dumping sewage off the Kent coas...",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/southern-water-fined-7m-dumping-sewage-kent-coast",
+      "publishedAt": "2026-07-17T14:56:01",
+      "content": "Firm pleaded guilty to 13 offences over discharges at Margate and Broadstairs wastewater pumping stationsSouthern Water has been fined more than £7m after illegally dumping sewage off the Kent coas..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
+      "description": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Phil...",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/biodiversity-fears-flowerhorn-cichlids-philippines-lake",
+      "publishedAt": "2026-07-17T14:00:31",
+      "content": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Phil..."
     },
     {
       "source": {
@@ -144,17 +331,6 @@
       "url": "https://www.theguardian.com/environment/2026/jul/16/down-to-earth-lancashire-pfas-contamination-forever-chemicals",
       "publishedAt": "2026-07-17T06:00:03",
       "content": "In this week’s newsletter: residents living near a chemical factory are the latest community concerned about the health and environmental impact of Pfas contamination• Don’t get Down to Earth deliv..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: What we know about newly discovered monkey species",
-      "description": "New monkey species hailed as 'amazing discovery' by conservationist.",
-      "url": "https://www.bbc.co.uk/news/videos/cx25glwll79o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T14:50:05",
-      "content": "New monkey species hailed as 'amazing discovery' by conservationist."
     },
     {
       "source": {
@@ -180,47 +356,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Extreme weather in the UK is the 'new normal'",
-      "description": "Sarah Keith-Lucas details five things you need to know about how the UK climate has changed.",
-      "url": "https://www.bbc.co.uk/news/videos/cp8e1jm1delo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T12:02:49",
-      "content": "Sarah Keith-Lucas details five things you need to know about how the UK climate has changed."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Real-World Skills for Real World Challenges: AI-Led Updates Across Cisco Certification Portfolio",
-      "description": "Advances in technology continue to make increased demands on networking and technology professionals.",
-      "url": "https://csrwire.com/press-release/real-world-skills-real-world-challenges-ai-led-updates-across-cisco-certification-portfolio/",
-      "publishedAt": "2026-07-16T10:00:00",
-      "content": "Advances in technology continue to make increased demands on networking and technology professionals."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Arkansas Hosts Bill Assistance, Customer Care Events in July",
-      "description": "Entergy Arkansas will host a series of in-person customer care events across the state beginning Tuesday, July 7, to connect customers with valuable resources like financial assistance for energy b...",
-      "url": "https://csrwire.com/press-release/entergy-arkansas-hosts-bill-assistance-customer-care-events-july/",
-      "publishedAt": "2026-07-16T08:00:00",
-      "content": "Entergy Arkansas will host a series of in-person customer care events across the state beginning Tuesday, July 7, to connect customers with valuable resources like financial assistance for energy b..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Sneakers",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/the-ultimate-guide-to-sustainable-sneakers/",
-      "publishedAt": "2026-07-14T00:00:22",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
+      "description": "The European Commission announced that it has sent letters to all 27 EU member states, opening",
+      "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
+      "publishedAt": "2026-07-15T13:48:46",
+      "content": "The European Commission announced that it has sent letters to all 27 EU member states, opening"
     },
     {
       "source": {
@@ -235,94 +378,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK heatwave approaches two-week mark",
-      "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days.",
-      "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T23:28:21",
-      "content": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Canada’s Wildfires Are Burning Through the Night",
-      "description": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.",
-      "url": "https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html",
-      "publishedAt": "2026-07-16T22:08:16",
-      "content": "As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Burning Houses to Save Houses",
-      "description": "We visited researchers seeking ways to make homes safer. They set a lot of fires.",
-      "url": "https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html",
-      "publishedAt": "2026-07-16T19:35:39",
-      "content": "We visited researchers seeking ways to make homes safer. They set a lot of fires."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Buzz off: this pop-up screen shelter provides a safe retreat from bugs and mosquitoes",
-      "description": "I tried repellents, mesh hats and natural remedies, but this inexpensive screen tent beats them all to keep insects outThis $380 foldable kayak fits in my Prius and goes from backseat to lake in 10...",
-      "url": "https://www.theguardian.com/thefilter-us/2026/jul/16/alvantor-pop-up-screen-tent",
-      "publishedAt": "2026-07-16T19:15:46",
-      "content": "I tried repellents, mesh hats and natural remedies, but this inexpensive screen tent beats them all to keep insects outThis $380 foldable kayak fits in my Prius and goes from backseat to lake in 10..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Mamdani Urges New Yorkers to Stay Indoors Because of Wildfire Smoke",
-      "description": "“Every New Yorker should take precautions,” Mayor Zohran Mamdani said. Gov. Kathy Hochul also issued a statewide air quality advisory.",
-      "url": "https://www.nytimes.com/2026/07/16/us/mamdani-nyc-wildfire-smoke-aqi.html",
-      "publishedAt": "2026-07-16T16:53:20",
-      "content": "“Every New Yorker should take precautions,” Mayor Zohran Mamdani said. Gov. Kathy Hochul also issued a statewide air quality advisory."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "When will it rain again in the UK?",
-      "description": "July has been very dry so when will it rain again in the UK?",
-      "url": "https://www.bbc.co.uk/news/videos/clyeydp5vg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T16:13:27",
-      "content": "July has been very dry so when will it rain again in the UK?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What to know about the Canadian and US wildfires and their impact",
-      "description": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke.",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywdl9ne3yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T16:08:40",
-      "content": "Wildfires in Ontario have blanketed US and Canadian cities with dangerous smoke."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "description": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-16T12:44:26",
-      "content": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -331,94 +386,6 @@
       "url": "https://www.climatechangenews.com/2026/07/16/africa-can-lead-the-age-of-electrification/",
       "publishedAt": "2026-07-16T09:52:53",
       "content": "The electrification agenda presents both an extraordinary opportunity for Africa and an immense challenge for the continent\nThe post Africa can lead the Age of Electrification appeared first on Cli..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "America at 250, Whirlpool at 115: The Only American-Owned Kitchen and Laundry Appliance Company Celebrates a Century of Manufacturing, Jobs, and Homegrown Innovation",
-      "description": "As America celebrates its 250th anniversary, Whirlpool Corporation is marking its own milestone: 115 years as the only remaining American-owned major kitchen and laundry appliance manufacturer base...",
-      "url": "https://csrwire.com/press-release/america-250-whirlpool-115-only-american-owned-kitchen-and-laundry-appliance-company-celebrates/",
-      "publishedAt": "2026-07-15T15:00:00",
-      "content": "As America celebrates its 250th anniversary, Whirlpool Corporation is marking its own milestone: 115 years as the only remaining American-owned major kitchen and laundry appliance manufacturer base..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Aetna Provider Survey Reveals Increased Payer Trust and Tangible Benefits of Digital Tools To Improve Patient Outcomes",
-      "description": "Aetna®, a CVS Health® company (NYSE: CVS) today announced findings from the second Aetna Provider Survey.",
-      "url": "https://csrwire.com/press-release/aetna-provider-survey-reveals-increased-payer-trust-and-tangible-benefits-digital-tools/",
-      "publishedAt": "2026-07-15T14:45:00",
-      "content": "Aetna®, a CVS Health® company (NYSE: CVS) today announced findings from the second Aetna Provider Survey."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Commission Launches Legal Action Against All 27 Member States for Failing to Implement Zero Emission Building Law",
-      "description": "The European Commission announced that it has sent letters to all 27 EU member states, opening",
-      "url": "https://www.esgtoday.com/eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-legal-action-against-all-member-states-for-failing-to-implement-zero-emission-building-law",
-      "publishedAt": "2026-07-15T13:48:46",
-      "content": "The European Commission announced that it has sent letters to all 27 EU member states, opening"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BlackRock’s GIP Acquires Commercial Solar Platform Summit Ridge",
-      "description": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and",
-      "url": "https://www.esgtoday.com/blackrocks-gip-acquires-commercial-solar-platform-summit-ridge/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-gip-acquires-commercial-solar-platform-summit-ridge",
-      "publishedAt": "2026-07-15T11:15:59",
-      "content": "BlackRock’s infrastructure investment unit Global Infrastructure Partners (GIP) announced the acquisition of a majority and"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "WeWork Pursues WELL Coworking Rating Across Its Global Portfolio, Setting the Benchmark for Health and Well-Being Throughout the Flexible Workspace Industry",
-      "description": "WeWork has committed to pursuing the WELL Coworking Rating globally, an evidence-based roadmap for advancing health, well-being and workplace experience across the flexible office market. The initi...",
-      "url": "https://csrwire.com/press-release/wework-pursues-well-coworking-rating-across-its-global-portfolio-setting-benchmark-health-and/",
-      "publishedAt": "2026-07-15T11:00:00",
-      "content": "WeWork has committed to pursuing the WELL Coworking Rating globally, an evidence-based roadmap for advancing health, well-being and workplace experience across the flexible office market. The initi..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Laura Brown: “All The Cool Girls” Own Their Domain | GoDaddy School of Hustle with Angie K.",
-      "description": "Angie K. is joined by Laura Brown, co-author of “All The Cool Girls Get Fired” to discuss how career changes can be the perfect opportunity to pursue the idea you've always dreamed of.",
-      "url": "https://csrwire.com/press-release/laura-brown-all-cool-girls-own-their-domain-godaddy-school-hustle-angie-k/",
-      "publishedAt": "2026-07-15T10:00:00",
-      "content": "Angie K. is joined by Laura Brown, co-author of “All The Cool Girls Get Fired” to discuss how career changes can be the perfect opportunity to pursue the idea you've always dreamed of."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Journey, Not the Stops: Real Life Lessons From Mary Kay’s Executive Tara Eustace on Building Confidence",
-      "description": "What does the journey to self-confidence really look like behind the scenes? Confidence doesn’t always arrive fully formed.",
-      "url": "https://csrwire.com/press-release/journey-not-stops-real-life-lessons-mary-kays-executive-tara-eustace-building-confidence/",
-      "publishedAt": "2026-07-15T08:00:00",
-      "content": "What does the journey to self-confidence really look like behind the scenes? Confidence doesn’t always arrive fully formed."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "In Photos: On the Road with a Montana Range Rider Who Tracks Predators on Horseback",
-      "description": "Range riders are reemerging in the western U.",
-      "url": "https://triplepundit.com/2026/range-rider-blackfoot-valley-montana-human-wildlife-conflict/",
-      "publishedAt": "2026-07-14T21:20:10",
-      "content": "Range riders are reemerging in the western U."
     }
   ]
 }
