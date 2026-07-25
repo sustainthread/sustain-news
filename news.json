@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 29,
   "articles": [
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Will new UK PM’s green measures at home cause climate finance pain overseas?",
+      "description": "Andy Burnham cuts bus fares and household electricity tax in a boost for climate action - some of it paid for by switching the UK's contribution to a new global forest fund from a grant to a loan\nT...",
+      "url": "https://www.climatechangenews.com/2026/07/22/will-new-uk-pms-green-measures-at-home-cause-climate-finance-pain-overseas/",
+      "publishedAt": "2026-07-22T13:21:25",
+      "content": "Andy Burnham cuts bus fares and household electricity tax in a boost for climate action - some of it paid for by switching the UK's contribution to a new global forest fund from a grant to a loan\nT..."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -12,17 +23,6 @@
       "url": "https://www.esgtoday.com/blackrock-temaseks-decarbonization-partners-leads-87-million-round-in-sustainability-solutions-provider-asuene/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-temaseks-decarbonization-partners-leads-87-million-round-in-sustainability-solutions-provider-asuene",
       "publishedAt": "2026-07-23T11:08:38",
       "content": "Tokyo-based sustainability solutions platform Asuene announced that it has raised $87 million in a Series"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Will new UK PM’s green measures at home cause climate finance pain overseas?",
-      "description": "Andy Burnham will cut bus fares and household electricity tax in a boost for UK climate action - but this will be funded partly by switching international climate finance from grants to loans\nThe p...",
-      "url": "https://www.climatechangenews.com/2026/07/22/will-new-uk-pms-green-measures-at-home-cause-climate-finance-pain-overseas/",
-      "publishedAt": "2026-07-22T13:21:25",
-      "content": "Andy Burnham will cut bus fares and household electricity tax in a boost for UK climate action - but this will be funded partly by switching international climate finance from grants to loans\nThe p..."
     },
     {
       "source": {
@@ -40,22 +40,22 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "EcoVadis Opens its Sustainable Supply Chain Networking Platform to all Suppliers",
+      "description": "Business sustainability ratings and solutions provider EcoVadis announced the expansion of its peer-to-peer sustainable supply",
+      "url": "https://www.esgtoday.com/ecovadis-opens-its-sustainable-supply-chain-networking-platform-to-all-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-opens-its-sustainable-supply-chain-networking-platform-to-all-suppliers",
+      "publishedAt": "2026-07-24T10:38:32",
+      "content": "Business sustainability ratings and solutions provider EcoVadis announced the expansion of its peer-to-peer sustainable supply"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Eurodia Raises $20 Million to Scale Up Industrial Decarbonization Solutions",
       "description": "Industrial technology company Eurodia Industrie announced that it has raised €18 million ($20 million) through",
       "url": "https://www.esgtoday.com/eurodia-raises-20-million-to-scale-up-industrial-decarbonization-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=eurodia-raises-20-million-to-scale-up-industrial-decarbonization-solutions",
       "publishedAt": "2026-07-22T14:12:41",
       "content": "Industrial technology company Eurodia Industrie announced that it has raised €18 million ($20 million) through"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Legal logging and soaring saplings: the ‘green islands’ bucking the deforestation trend in central America",
-      "description": "In Guatemala’s Maya biosphere reserve local people are making a living from trees at the same time as increasing forest cover, showing nature is best protected by those who depend on itThe low rumb...",
-      "url": "https://www.theguardian.com/environment/2026/jul/23/guatemala-small-communities-restorative-forestation-aoe",
-      "publishedAt": "2026-07-23T10:00:41",
-      "content": "In Guatemala’s Maya biosphere reserve local people are making a living from trees at the same time as increasing forest cover, showing nature is best protected by those who depend on itThe low rumb..."
     },
     {
       "source": {
@@ -67,28 +67,6 @@
       "url": "https://www.nytimes.com/2026/07/21/climate/methane-natural-gas-leaks-flaring.html",
       "publishedAt": "2026-07-22T21:26:21",
       "content": "The companies knew they were releasing more of the greenhouse gas than they publicly reported, according to industry files cited by the Center for Climate Integrity, an activist organization."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Pictet Raises Over $250 Million for Environmental Solutions Fund",
-      "description": "Swiss wealth and asset management firm Pictet announced that its alternative investment unit Pictet Alternative",
-      "url": "https://www.esgtoday.com/pictet-raises-over-250-million-for-environmental-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=pictet-raises-over-250-million-for-environmental-solutions-fund",
-      "publishedAt": "2026-07-22T10:59:43",
-      "content": "Swiss wealth and asset management firm Pictet announced that its alternative investment unit Pictet Alternative"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Asuene Acquires Supply Chain Carbon Management Platform Secaro",
-      "description": "Tokyo-based sustainability solutions provider Asuene announced today the acquisition of supply chain carbon management platform",
-      "url": "https://www.esgtoday.com/asuene-acquires-supply-chain-carbon-management-platform-secaro/?utm_source=rss&utm_medium=rss&utm_campaign=asuene-acquires-supply-chain-carbon-management-platform-secaro",
-      "publishedAt": "2026-07-23T12:29:19",
-      "content": "Tokyo-based sustainability solutions provider Asuene announced today the acquisition of supply chain carbon management platform"
     },
     {
       "source": {
@@ -106,11 +84,132 @@
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Illinois Changes Tack on Data Centers",
-      "description": "At the Aspen Ideas climate conference, Gov. JB Pritzker spoke about disincentivizing data centers instead of providing financial incentives.",
-      "url": "https://www.nytimes.com/2026/07/23/climate/data-centers-pritzker.html",
-      "publishedAt": "2026-07-23T19:51:54",
-      "content": "At the Aspen Ideas climate conference, Gov. JB Pritzker spoke about disincentivizing data centers instead of providing financial incentives."
+      "title": "Mamdani Commits $43 Million to Jump-Start Effort to Stop N.Y.C. Flooding",
+      "description": "The money will go to an agency responsible for addressing the effects of climate change in the city, including the operation of flood gates.",
+      "url": "https://www.nytimes.com/2026/07/24/nyregion/nyc-climate-change-mamdani.html",
+      "publishedAt": "2026-07-24T14:00:07",
+      "content": "The money will go to an agency responsible for addressing the effects of climate change in the city, including the operation of flood gates."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock Launches New Offering to Help Institutional Investors Build, Manage Impact Portfolios",
+      "description": "BlackRock announced a collaboration with impact investing specialist Phenix Capital Group’s advisory arm PCG Impact,",
+      "url": "https://www.esgtoday.com/blackrock-phenix-launch-new-impact-investment-offering-for-professional-investors/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-phenix-launch-new-impact-investment-offering-for-professional-investors",
+      "publishedAt": "2026-07-24T09:55:38",
+      "content": "BlackRock announced a collaboration with impact investing specialist Phenix Capital Group’s advisory arm PCG Impact,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Asuene Acquires Supply Chain Carbon Management Platform Secaro",
+      "description": "Tokyo-based sustainability solutions provider Asuene announced today the acquisition of supply chain carbon management platform",
+      "url": "https://www.esgtoday.com/asuene-acquires-supply-chain-carbon-management-platform-secaro/?utm_source=rss&utm_medium=rss&utm_campaign=asuene-acquires-supply-chain-carbon-management-platform-secaro",
+      "publishedAt": "2026-07-23T12:29:19",
+      "content": "Tokyo-based sustainability solutions provider Asuene announced today the acquisition of supply chain carbon management platform"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Ethical and Sustainable Children’s Clothing Brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-childrens-clothing-brands-2/",
+      "publishedAt": "2026-07-20T04:00:25",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
+      "description": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T06:14:54",
+      "content": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Without us, they are doomed’: volunteers save fish from French rivers drying up in heatwaves",
+      "description": "Fish being moved to oxygenated flowing water further downstream as water levels drop across countryAlong the Odet River in Brittany, fisher Mathieu Le Bouter and a dozen volunteers are catching hun...",
+      "url": "https://www.theguardian.com/world/2026/jul/25/france-rivers-heatwaves-water-levels-drop",
+      "publishedAt": "2026-07-25T06:00:35",
+      "content": "Fish being moved to oxygenated flowing water further downstream as water levels drop across countryAlong the Odet River in Brittany, fisher Mathieu Le Bouter and a dozen volunteers are catching hun..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch: SpaceX's successful test flight and splashdown for Starship",
+      "description": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch.",
+      "url": "https://www.bbc.co.uk/news/articles/czxqnwzqqw8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T00:41:50",
+      "content": "The megarocket pulls off a soft splashdown in the Indian Ocean an hour after launch."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Are BuzzBallz actually recyclable?",
+      "description": "BuzzBallz cannot be recycled as the metal lid and plastic body are attached, say experts.",
+      "url": "https://www.bbc.co.uk/news/videos/c20e45g0ynqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T22:03:36",
+      "content": "BuzzBallz cannot be recycled as the metal lid and plastic body are attached, say experts."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Buck Moon' set to light up sky",
+      "description": "July's full Moon is set to be a special one - Sophia Herod explains why.",
+      "url": "https://www.bbc.co.uk/news/videos/cqjxdzvk1deo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T16:48:48",
+      "content": "July's full Moon is set to be a special one - Sophia Herod explains why."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Rain returns for some parts of the UK",
+      "description": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?",
+      "url": "https://www.bbc.co.uk/news/videos/c4gj0040xjjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T16:12:53",
+      "content": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
+      "description": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.",
+      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html",
+      "publishedAt": "2026-07-24T16:10:17",
+      "content": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+      "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-24T14:59:24",
+      "content": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
     },
     {
       "source": {
@@ -136,138 +235,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Ethical and Sustainable Children’s Clothing Brands",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ethical-childrens-clothing-brands-2/",
-      "publishedAt": "2026-07-20T04:00:25",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How Companies Have Abandoned Their Climate Goals and Let Themselves Off the Hook",
-      "description": "Big business made big promises about saving the planet. Following through hasn’t been easy.",
-      "url": "https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html",
-      "publishedAt": "2026-07-17T16:31:40",
-      "content": "Big business made big promises about saving the planet. Following through hasn’t been easy."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "France orders evacuation of peninsula as hundreds flee wildfires by boat",
-      "description": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T07:59:28",
-      "content": "The fire has raged in the region for several days with officials on Friday morning saying it had continued to progress overnight."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Experience: I hunt for missing hikers in remote mountains",
-      "description": "Since I started doing search and rescue five years ago, I have found seven survivors.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jul/24/experience-i-hunt-missing-hikers-remote-mountains-taiwan",
-      "publishedAt": "2026-07-24T04:00:03",
-      "content": "Since I started doing search and rescue five years ago, I have found seven survivors."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Heatwave anxiety can make you feel 'incredibly helpless' - here's how to manage it",
-      "description": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study.",
-      "url": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T00:05:55",
-      "content": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
-      "description": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T23:55:29",
-      "content": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Can you be fined for using a hosepipe?",
-      "description": "Ben Rich looks at what is and isn't allowed during a hosepipe ban.",
-      "url": "https://www.bbc.co.uk/news/videos/cvg9l035jxxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T15:39:11",
-      "content": "Ben Rich looks at what is and isn't allowed during a hosepipe ban."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hosepipe ban in force as drought threatens - is your area affected?",
-      "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T14:01:05",
-      "content": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wildfires and record dry conditions trigger drought in parts of Wales",
-      "description": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves.",
-      "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T14:00:51",
-      "content": "Wales has seen about 5% of the average rainfall for July, after a series of back-to-back heatwaves."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Dunes Sagebrush Lizard Stripped of Endangered Status by Judge",
-      "description": "The dunes sagebrush lizard, found only in the oil-rich Permian Basin, was classified as endangered two years ago.",
-      "url": "https://www.nytimes.com/2026/07/22/climate/dunes-sagebrush-lizard-trump.html",
-      "publishedAt": "2026-07-23T12:36:18",
-      "content": "The dunes sagebrush lizard, found only in the oil-rich Permian Basin, was classified as endangered two years ago."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "When can you see the Perseid meteor shower?",
-      "description": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers.",
-      "url": "https://www.bbc.co.uk/news/videos/cr5965695nyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T10:06:15",
-      "content": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Weatherwatch: How increased Arctic shipping affects cloud formation",
-      "description": "Shipping routes opened by climate change mean more industrial pollutants in the airThe gradual reduction in Arctic ice has started to open up new shipping routes, with marine traffic increasing by ...",
-      "url": "https://www.theguardian.com/news/2026/jul/23/weatherwatch-increased-arctic-shipping-affects-cloud-formation",
-      "publishedAt": "2026-07-23T05:00:35",
-      "content": "Shipping routes opened by climate change mean more industrial pollutants in the airThe gradual reduction in Arctic ice has started to open up new shipping routes, with marine traffic increasing by ..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -290,14 +257,58 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "California to Limit Initial Scope 3 Reporting to Key Categories After Cost, Data Concerns",
-      "description": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s",
-      "url": "https://www.esgtoday.com/california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns/?utm_source=rss&utm_medium=rss&utm_campaign=california-to-limit-initial-scope-3-reporting-to-key-categories-after-cost-data-concerns",
-      "publishedAt": "2026-07-22T10:21:54",
-      "content": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s"
+      "author": "The Guardian",
+      "title": "Country diary: A fragrant walk among the sweet stranglehold of honeysuckle | Phil Gates",
+      "description": "Deerness Valley, County Durham: For all its beauty, there is something sinister about honeysuckle, a vegetable boa constrictor lurking in the floraAn early morning walk before the heat of the day b...",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/country-diary-a-fragrant-walk-among-the-sweet-stranglehold-of-honeysuckle",
+      "publishedAt": "2026-07-24T04:30:03",
+      "content": "Deerness Valley, County Durham: For all its beauty, there is something sinister about honeysuckle, a vegetable boa constrictor lurking in the floraAn early morning walk before the heat of the day b..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rare heron seen at Somerset estate where river has been allowed to run free",
+      "description": "Black-crowned night heron one of many species thriving at Holnicote Estate where river ‘reset’ has transformed area into lush oasisA rare black-crowned night heron has been spotted on an estate in ...",
+      "url": "https://www.theguardian.com/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset",
+      "publishedAt": "2026-07-24T04:00:04",
+      "content": "Black-crowned night heron one of many species thriving at Holnicote Estate where river ‘reset’ has transformed area into lush oasisA rare black-crowned night heron has been spotted on an estate in ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
+      "description": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has force...",
+      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+      "publishedAt": "2026-07-24T00:16:02",
+      "content": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has force..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
+      "description": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple",
+      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-23T23:55:29",
+      "content": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Dunes Sagebrush Lizard Stripped of Endangered Status by Judge",
+      "description": "The dunes sagebrush lizard, found only in the oil-rich Permian Basin, was classified as endangered two years ago.",
+      "url": "https://www.nytimes.com/2026/07/22/climate/dunes-sagebrush-lizard-trump.html",
+      "publishedAt": "2026-07-23T12:36:18",
+      "content": "The dunes sagebrush lizard, found only in the oil-rich Permian Basin, was classified as endangered two years ago."
     },
     {
       "source": {
@@ -309,72 +320,6 @@
       "url": "https://www.climatechangenews.com/2026/07/21/energy-transition-policymaking-must-evolve-to-fit-an-age-of-rupture/",
       "publishedAt": "2026-07-21T14:50:51",
       "content": "Economic competitiveness, energy security and green industrialisation are driving real-world change - but will this damage our collective mission for a fair green shift?\nThe post Energy transition ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The eyebright paradox: a sunny healer and tiny parasitic thief | Paul Evans",
-      "description": "The Marches, Shropshire: Eyebrights are ancient herbs used to cure eye problems, but they also penetrate grass roots to siphon off water and nutrients A sight for sore eyes. Eyebrights flower in th...",
-      "url": "https://www.theguardian.com/environment/2026/jul/23/country-diary-the-eyebright-paradox-a-sunny-healer-and-tiny-parasitic-thief",
-      "publishedAt": "2026-07-23T04:30:34",
-      "content": "The Marches, Shropshire: Eyebrights are ancient herbs used to cure eye problems, but they also penetrate grass roots to siphon off water and nutrients A sight for sore eyes. Eyebrights flower in th..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "One billion plastic pellets spilled into River Tyne after two ships collide",
-      "description": "Up to 25 tonnes of nurdles, the raw material for plastic manufacturing, have spread further than initially fearedApproximately a billion tiny plastic nurdles have entered the River Tyne after a “de...",
-      "url": "https://www.theguardian.com/environment/2026/jul/22/billion-plastic-pellets-nurdles-spilled-uk-river-ships-collide",
-      "publishedAt": "2026-07-22T16:14:57",
-      "content": "Up to 25 tonnes of nurdles, the raw material for plastic manufacturing, have spread further than initially fearedApproximately a billion tiny plastic nurdles have entered the River Tyne after a “de..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Weekender Bags and Travel Accessories From Top Rated Brands",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/travel-bags-and-accessories/",
-      "publishedAt": "2026-07-22T00:30:03",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Allegations of harms at China-backed transition minerals projects rise",
-      "description": "The growing number of recorded abuses linked to Chinese mineral projects come as a new mediation mechanism between Chinese firms and affected communities gets underway \nThe post Allegations of harm...",
-      "url": "https://www.climatechangenews.com/2026/07/22/allegations-of-harms-at-china-backed-transition-minerals-projects-rise/",
-      "publishedAt": "2026-07-22T00:01:00",
-      "content": "The growing number of recorded abuses linked to Chinese mineral projects come as a new mediation mechanism between Chinese firms and affected communities gets underway \nThe post Allegations of harm..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Extreme heat costing India’s poorest workers 2% of GDP, survey finds",
-      "description": "India's informal workers are estimated to be losing $78 billion in wages per year because of productivity declines and illness caused by intensifying heat\nThe post Extreme heat costing India’s poor...",
-      "url": "https://www.climatechangenews.com/2026/07/21/extreme-heat-costing-india-poor-workers-2-gdp-survey-finds/",
-      "publishedAt": "2026-07-21T08:30:03",
-      "content": "India's informal workers are estimated to be losing $78 billion in wages per year because of productivity declines and illness caused by intensifying heat\nThe post Extreme heat costing India’s poor..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Most “zombie credits” locked out of new UN carbon market after China and India snub",
-      "description": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market\nThe post Most “zombie credits” locked out of new UN carbon mark...",
-      "url": "https://www.climatechangenews.com/2026/07/17/most-zombie-credits-locked-out-of-new-un-carbon-market-after-china-and-india-snub/",
-      "publishedAt": "2026-07-17T16:38:23",
-      "content": "Fears of a flood of environmentally-dubious carbon credits have faded, with most old projects not able to transition to new UN market\nThe post Most “zombie credits” locked out of new UN carbon mark..."
     }
   ]
 }
