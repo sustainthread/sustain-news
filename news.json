@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 29,
+  "totalResults": 36,
   "articles": [
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Will new UK PM’s green measures at home cause climate finance pain overseas?",
-      "description": "Andy Burnham cuts bus fares and household electricity tax in a boost for climate action - some of it paid for by switching the UK's contribution to a new global forest fund from a grant to a loan\nT...",
-      "url": "https://www.climatechangenews.com/2026/07/22/will-new-uk-pms-green-measures-at-home-cause-climate-finance-pain-overseas/",
-      "publishedAt": "2026-07-22T13:21:25",
-      "content": "Andy Burnham cuts bus fares and household electricity tax in a boost for climate action - some of it paid for by switching the UK's contribution to a new global forest fund from a grant to a loan\nT..."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -59,6 +48,28 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Sustainability Trends Are Changing the Way We Design Our Kitchens",
+      "description": "Caesarstone's ICON™ collection features a dazzling array of designs for today's modern kitchens, which are made with ~85% recycled materials, including recycled industrial glass.",
+      "url": "https://csrwire.com/press-release/how-sustainability-trends-are-changing-way-we-design-our-kitchens/",
+      "publishedAt": "2026-07-23T12:30:00",
+      "content": "Caesarstone's ICON™ collection features a dazzling array of designs for today's modern kitchens, which are made with ~85% recycled materials, including recycled industrial glass."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Water bosses’ pay rises despite bonus ban and public fury over bills and pollution",
+      "description": "Exclusive: Eight companies expect to be covered by the ban for 2025-26, the Guardian can revealWater company bosses’ total pay rose over the past year despite a government bonus ban and public outr...",
+      "url": "https://www.theguardian.com/business/2026/jul/24/water-bosses-pay-rises-bonus-ban-sewage",
+      "publishedAt": "2026-07-24T17:09:50",
+      "content": "Exclusive: Eight companies expect to be covered by the ban for 2025-26, the Guardian can revealWater company bosses’ total pay rose over the past year despite a government bonus ban and public outr..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -67,39 +78,6 @@
       "url": "https://www.nytimes.com/2026/07/21/climate/methane-natural-gas-leaks-flaring.html",
       "publishedAt": "2026-07-22T21:26:21",
       "content": "The companies knew they were releasing more of the greenhouse gas than they publicly reported, according to industry files cited by the Center for Climate Integrity, an activist organization."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Is Gap Sustainable?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-gap/",
-      "publishedAt": "2026-07-23T00:00:33",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Mamdani Commits $43 Million to Jump-Start Effort to Stop N.Y.C. Flooding",
-      "description": "The money will go to an agency responsible for addressing the effects of climate change in the city, including the operation of flood gates.",
-      "url": "https://www.nytimes.com/2026/07/24/nyregion/nyc-climate-change-mamdani.html",
-      "publishedAt": "2026-07-24T14:00:07",
-      "content": "The money will go to an agency responsible for addressing the effects of climate change in the city, including the operation of flood gates."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BlackRock Launches New Offering to Help Institutional Investors Build, Manage Impact Portfolios",
-      "description": "BlackRock announced a collaboration with impact investing specialist Phenix Capital Group’s advisory arm PCG Impact,",
-      "url": "https://www.esgtoday.com/blackrock-phenix-launch-new-impact-investment-offering-for-professional-investors/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-phenix-launch-new-impact-investment-offering-for-professional-investors",
-      "publishedAt": "2026-07-24T09:55:38",
-      "content": "BlackRock announced a collaboration with impact investing specialist Phenix Capital Group’s advisory arm PCG Impact,"
     },
     {
       "source": {
@@ -117,6 +95,17 @@
         "name": "Good On You"
       },
       "author": "Good On You",
+      "title": "Is Gap Sustainable?",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/how-ethical-is-gap/",
+      "publishedAt": "2026-07-23T00:00:33",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
       "title": "The Ultimate Guide to More Ethical and Sustainable Children’s Clothing Brands",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/ethical-childrens-clothing-brands-2/",
@@ -128,22 +117,154 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
-      "description": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
-      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-25T06:14:54",
-      "content": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts."
+      "title": "'It's like having an amusement park and not opening it' - algae closures take toll",
+      "description": "There are currently 245 algae blooms across water systems in Northern Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T07:01:30",
+      "content": "There are currently 245 algae blooms across water systems in Northern Ireland."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How to see July's full Buck Moon as it rises in the night sky",
+      "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week.",
+      "url": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-26T00:03:08",
+      "content": "July's full Moon, know as the Buck Moon, is set to light up the night sky next week."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘Without us, they are doomed’: volunteers save fish from French rivers drying up in heatwaves",
-      "description": "Fish being moved to oxygenated flowing water further downstream as water levels drop across countryAlong the Odet River in Brittany, fisher Mathieu Le Bouter and a dozen volunteers are catching hun...",
-      "url": "https://www.theguardian.com/world/2026/jul/25/france-rivers-heatwaves-water-levels-drop",
-      "publishedAt": "2026-07-25T06:00:35",
-      "content": "Fish being moved to oxygenated flowing water further downstream as water levels drop across countryAlong the Odet River in Brittany, fisher Mathieu Le Bouter and a dozen volunteers are catching hun..."
+      "title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
+      "description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their ...",
+      "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+      "publishedAt": "2026-07-25T22:08:37",
+      "content": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What to Know About the Wildfires Raging in Western Europe",
+      "description": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/europe-fires-france-spain-what-to-know.html",
+      "publishedAt": "2026-07-25T21:47:57",
+      "content": "Huge blazes have forced tens of thousands of residents and vacationers in France and Spain to evacuate."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Mega datacentre planned for outer Melbourne will be six times bigger than a large shopping centre",
+      "description": "More than 3,600 people sign petition for careful assessment of proposed AI hub, now a flashpoint for national debate on datacentre boomFollow our Australia news live blog for latest updatesGet our ...",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/26/mega-datacentre-planned-for-outer-melbourne-will-be-almost-six-times-the-size-of-chadstone-shopping-centre",
+      "publishedAt": "2026-07-25T20:00:53",
+      "content": "More than 3,600 people sign petition for careful assessment of proposed AI hub, now a flashpoint for national debate on datacentre boomFollow our Australia news live blog for latest updatesGet our ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Conditions for European Wildfires Created by Summer of Extremes",
+      "description": "The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers.",
+      "url": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html",
+      "publishedAt": "2026-07-25T18:29:11",
+      "content": "The wildfires are scorching parts of France and Spain that had already faced unusually hot and dry summers."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: A jellyfish party around our surfboards | Jess",
+      "description": "North Devon: The cool water was full of them – and we found out later that one of them, the compass jellyfish, should be avoidedOn a scorching hot day, my friend and I went surfing at my local beac...",
+      "url": "https://www.theguardian.com/environment/2026/jul/25/young-country-diary-a-jellyfish-party-around-our-surfboards",
+      "publishedAt": "2026-07-25T10:00:40",
+      "content": "North Devon: The cool water was full of them – and we found out later that one of them, the compass jellyfish, should be avoidedOn a scorching hot day, my friend and I went surfing at my local beac..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock Launches New Offering to Help Institutional Investors Build, Manage Impact Portfolios",
+      "description": "BlackRock announced a collaboration with impact investing specialist Phenix Capital Group’s advisory arm PCG Impact,",
+      "url": "https://www.esgtoday.com/blackrock-phenix-launch-new-impact-investment-offering-for-professional-investors/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-phenix-launch-new-impact-investment-offering-for-professional-investors",
+      "publishedAt": "2026-07-24T09:55:38",
+      "content": "BlackRock announced a collaboration with impact investing specialist Phenix Capital Group’s advisory arm PCG Impact,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Ray Deploys Natural Capital at WSDOT’S Scatter Creek Site",
+      "description": "The Ray has collaborated with the Washington State Department of Transportation to demonstrate how active transit corridors can simultaneously deliver value for the ecosystem and public infrastruct...",
+      "url": "https://csrwire.com/press-release/ray-deploys-natural-capital-wsdots-scatter-creek-site/",
+      "publishedAt": "2026-07-24T09:40:00",
+      "content": "The Ray has collaborated with the Washington State Department of Transportation to demonstrate how active transit corridors can simultaneously deliver value for the ecosystem and public infrastruct..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Rio Tinto Signs Deal to Replace Coal in Refineries with “Bio Pellets”",
+      "description": "Global mining and metals company Rio Tinto announced today that it has signed a five-year",
+      "url": "https://www.esgtoday.com/rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets/?utm_source=rss&utm_medium=rss&utm_campaign=rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets",
+      "publishedAt": "2026-07-23T12:53:50",
+      "content": "Global mining and metals company Rio Tinto announced today that it has signed a five-year"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Brookfield Acquires Battery Storage Giant Aypa from BlackStone",
+      "description": "Brookfield Asset Management announced today an agreement to acquire Aypa Power, the largest standalone battery",
+      "url": "https://www.esgtoday.com/brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation",
+      "publishedAt": "2026-07-23T09:34:14",
+      "content": "Brookfield Asset Management announced today an agreement to acquire Aypa Power, the largest standalone battery"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Powering the Businesses That Power America: Made for Summer",
+      "description": "Some businesses become part of the season itself.",
+      "url": "https://csrwire.com/press-release/powering-businesses-power-america-made-summer/",
+      "publishedAt": "2026-07-23T09:00:00",
+      "content": "Some businesses become part of the season itself."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Yum! Brands Celebrates the Power of Skills To Feed Brighter Futures",
+      "description": "In 2014, a Sri Lankan delegate proposed dedicating a day for developing vocational skills for the world’s youth to the United Nations General Assembly. It was eventually passed and is celebrated an...",
+      "url": "https://csrwire.com/press-release/yum-brands-celebrates-power-skills-feed-brighter-futures/",
+      "publishedAt": "2026-07-23T09:00:00",
+      "content": "In 2014, a Sri Lankan delegate proposed dedicating a day for developing vocational skills for the world’s youth to the United Nations General Assembly. It was eventually passed and is celebrated an..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
+      "description": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+      "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-25T06:14:54",
+      "content": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts."
     },
     {
       "source": {
@@ -180,94 +301,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Rain returns for some parts of the UK",
-      "description": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?",
-      "url": "https://www.bbc.co.uk/news/videos/c4gj0040xjjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T16:12:53",
-      "content": "Rain is returning for some of us this weekend – but is it enough for places that have seen little or now rain for weeks?"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Faced With Heat and Wildfires, France Turns to Spain to Learn How to Cope",
-      "description": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.",
-      "url": "https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html",
-      "publishedAt": "2026-07-24T16:10:17",
-      "content": "A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-      "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
-      "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-24T14:59:24",
-      "content": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Rio Tinto Signs Deal to Replace Coal in Refineries with “Bio Pellets”",
-      "description": "Global mining and metals company Rio Tinto announced today that it has signed a five-year",
-      "url": "https://www.esgtoday.com/rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets/?utm_source=rss&utm_medium=rss&utm_campaign=rio-tinto-signs-deal-to-replace-coal-in-refineries-with-bio-pellets",
-      "publishedAt": "2026-07-23T12:53:50",
-      "content": "Global mining and metals company Rio Tinto announced today that it has signed a five-year"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Brookfield Acquires Battery Storage Giant Aypa from BlackStone",
-      "description": "Brookfield Asset Management announced today an agreement to acquire Aypa Power, the largest standalone battery",
-      "url": "https://www.esgtoday.com/brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-acquires-battery-storage-giant-aypa-from-blackstone-at-7-billion-valuation",
-      "publishedAt": "2026-07-23T09:34:14",
-      "content": "Brookfield Asset Management announced today an agreement to acquire Aypa Power, the largest standalone battery"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Iberdrola Acquires Finland’s Largest Electricity Distribution Company at €5 Billion Valuation",
-      "description": "Global energy and electricity provider Iberdrola announced the acquisition of an 80% stake in Caruna,",
-      "url": "https://www.esgtoday.com/iberdrola-acquires-finlands-largest-electricity-distribution-company-at-e5-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=iberdrola-acquires-finlands-largest-electricity-distribution-company-at-e5-billion-valuation",
-      "publishedAt": "2026-07-22T13:33:13",
-      "content": "Global energy and electricity provider Iberdrola announced the acquisition of an 80% stake in Caruna,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Transition VC Launches $150 Million Venture Fund to Invest Across India Energy Transition Value Chain",
-      "description": "India-based venture capital investor Transition VC announced the launch of Fund II, its second fund",
-      "url": "https://www.esgtoday.com/transition-vc-launches-150-million-venture-fund-to-invest-across-india-energy-transition-value-chain/?utm_source=rss&utm_medium=rss&utm_campaign=transition-vc-launches-150-million-venture-fund-to-invest-across-india-energy-transition-value-chain",
-      "publishedAt": "2026-07-22T12:40:46",
-      "content": "India-based venture capital investor Transition VC announced the launch of Fund II, its second fund"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A fragrant walk among the sweet stranglehold of honeysuckle | Phil Gates",
-      "description": "Deerness Valley, County Durham: For all its beauty, there is something sinister about honeysuckle, a vegetable boa constrictor lurking in the floraAn early morning walk before the heat of the day b...",
-      "url": "https://www.theguardian.com/environment/2026/jul/24/country-diary-a-fragrant-walk-among-the-sweet-stranglehold-of-honeysuckle",
-      "publishedAt": "2026-07-24T04:30:03",
-      "content": "Deerness Valley, County Durham: For all its beauty, there is something sinister about honeysuckle, a vegetable boa constrictor lurking in the floraAn early morning walk before the heat of the day b..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -276,28 +309,6 @@
       "url": "https://www.theguardian.com/environment/2026/jul/24/rare-night-heron-somerset-holnicote-river-reset",
       "publishedAt": "2026-07-24T04:00:04",
       "content": "Black-crowned night heron one of many species thriving at Holnicote Estate where river ‘reset’ has transformed area into lush oasisA rare black-crowned night heron has been spotted on an estate in ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-      "description": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has force...",
-      "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-      "publishedAt": "2026-07-24T00:16:02",
-      "content": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has force..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Scientists find the secret of birdsong's 'spectacular diversity'",
-      "description": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4eg5dpyzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-23T23:55:29",
-      "content": "A scientific study has revealed the acoustic secret that connects all birdsong - and it is surprisingly simple"
     },
     {
       "source": {
@@ -312,14 +323,80 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "Energy transition policymaking must evolve to fit an age of rupture",
-      "description": "Economic competitiveness, energy security and green industrialisation are driving real-world change - but will this damage our collective mission for a fair green shift?\nThe post Energy transition ...",
-      "url": "https://www.climatechangenews.com/2026/07/21/energy-transition-policymaking-must-evolve-to-fit-an-age-of-rupture/",
-      "publishedAt": "2026-07-21T14:50:51",
-      "content": "Economic competitiveness, energy security and green industrialisation are driving real-world change - but will this damage our collective mission for a fair green shift?\nThe post Energy transition ..."
+      "author": "CSRWire",
+      "title": "21 Years of Impact: How the Mary Kay Ash Foundation® Is Powering a National Movement To End Violence Against Women",
+      "description": "For more than two decades, the Mary Kay Ash Foundation® has helped shape the national response to violence against women through its 21-year commitment as Presenting Sponsor of the Conference on Cr...",
+      "url": "https://csrwire.com/press-release/21-years-impact-how-mary-kay-ash-foundationr-powering-national-movement-end-violence-against/",
+      "publishedAt": "2026-07-23T08:00:00",
+      "content": "For more than two decades, the Mary Kay Ash Foundation® has helped shape the national response to violence against women through its 21-year commitment as Presenting Sponsor of the Conference on Cr..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Credelio Quattro™ Kills Ticks(1) Faster(2) Than Simparica Trio® and NexGard® Plus",
+      "description": "When it comes to killing ticks, veterinarians and pet owners want it done fast.",
+      "url": "https://csrwire.com/press-release/credelio-quattrotm-kills-ticks1-faster2-simparica-trior-and-nexgardr-plus/",
+      "publishedAt": "2026-07-22T15:05:00",
+      "content": "When it comes to killing ticks, veterinarians and pet owners want it done fast."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Iberdrola Acquires Finland’s Largest Electricity Distribution Company at €5 Billion Valuation",
+      "description": "Global energy and electricity provider Iberdrola announced the acquisition of an 80% stake in Caruna,",
+      "url": "https://www.esgtoday.com/iberdrola-acquires-finlands-largest-electricity-distribution-company-at-e5-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=iberdrola-acquires-finlands-largest-electricity-distribution-company-at-e5-billion-valuation",
+      "publishedAt": "2026-07-22T13:33:13",
+      "content": "Global energy and electricity provider Iberdrola announced the acquisition of an 80% stake in Caruna,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "From Gadgets to Good: Memphis E-Waste Collection",
+      "description": "Do you have unused cellphones, a dusty laptop, or e-reader tucked away in your attic and drawers? According to recent data, you aren’t alone.",
+      "url": "https://csrwire.com/press-release/gadgets-good-memphis-e-waste-collection/",
+      "publishedAt": "2026-07-22T11:00:00",
+      "content": "Do you have unused cellphones, a dusty laptop, or e-reader tucked away in your attic and drawers? According to recent data, you aren’t alone."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Corp. Teams Up with Benton Harbor Area Schools to Revitalize Historic Community Space for Fifth Annual Day of Impact",
+      "description": "Whirlpool Corporation today celebrated its fifth annual \"Day of Impact,” an initiative dedicated to fostering resilient, thriving and enduring neighborhoods in the company’s headquarters community ...",
+      "url": "https://csrwire.com/press-release/whirlpool-corp-teams-benton-harbor-area-schools-revitalize-historic-community-space-fifth/",
+      "publishedAt": "2026-07-22T09:00:00",
+      "content": "Whirlpool Corporation today celebrated its fifth annual \"Day of Impact,” an initiative dedicated to fostering resilient, thriving and enduring neighborhoods in the company’s headquarters community ..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Free Public Transit Is Trending in Rural Washington",
+      "description": "Anyone in Washington can travel hundreds of miles by bus without paying a cent. As gas prices and the cost of living climb, transit ridership is rising in counties with zero-fare programs.TriplePundit",
+      "url": "https://triplepundit.com/2026/free-public-transit-rural-communities-western-washington/",
+      "publishedAt": "2026-07-21T12:00:00",
+      "content": "Anyone in Washington can travel hundreds of miles by bus without paying a cent. As gas prices and the cost of living climb, transit ridership is rising in counties with zero-fare programs.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "What Survived the L.A. Wildfires",
+      "description": "The stark images of a single home standing amid charred ruins of its neighbors are an apocalyptic memory of the Eaton and Palisades fires across Los Angeles in January 2025, 18 months ago. There wa...",
+      "url": "https://csrwire.com/press-release/what-survived-la-wildfires/",
+      "publishedAt": "2026-07-21T10:00:00",
+      "content": "The stark images of a single home standing amid charred ruins of its neighbors are an apocalyptic memory of the Eaton and Palisades fires across Los Angeles in January 2025, 18 months ago. There wa..."
     }
   ]
 }
