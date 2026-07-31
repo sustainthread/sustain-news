@@ -1,39 +1,39 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 35,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CDP Launches AI Tool to Enable Faster, Easier Sustainability Reporting",
-      "description": "Climate research provider and environmental disclosure platform CDP announced the launch of a new AI-powered",
-      "url": "https://www.esgtoday.com/cdp-launches-ai-tool-to-enable-faster-easier-sustainability-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=cdp-launches-ai-tool-to-enable-faster-easier-sustainability-reporting",
-      "publishedAt": "2026-07-28T12:29:53",
-      "content": "Climate research provider and environmental disclosure platform CDP announced the launch of a new AI-powered"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "MetLife 2025 Sustainability Report: Expanding Access to Financial Services",
-      "description": "Through digital distribution and local partnerships, we develop solutions to meet customers where they are, expanding access to resources, care and financial support across communities.",
-      "url": "https://csrwire.com/press-release/metlife-2025-sustainability-report-expanding-access-financial-services/",
-      "publishedAt": "2026-07-27T08:40:00",
-      "content": "Through digital distribution and local partnerships, we develop solutions to meet customers where they are, expanding access to resources, care and financial support across communities."
-    },
     {
       "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This July 2026",
-      "description": "Feature image: Terra Thread.",
+      "title": "More Sustainable Fashion Brand Offers This August 2026",
+      "description": "Feature image: Elk.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-07-27T22:00:45",
-      "content": "Feature image: Terra Thread."
+      "publishedAt": "2026-07-30T22:00:45",
+      "content": "Feature image: Elk."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EcoVadis, Novata Partner to Help Companies, Investors Measure Scope 3 Emissions",
+      "description": "Sustainability ratings and solutions provider EcoVadis and private markets-focused ESG data solutions provider Novata announced",
+      "url": "https://www.esgtoday.com/ecovadis-novata-partner-to-help-companies-investors-measure-scope-3-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-novata-partner-to-help-companies-investors-measure-scope-3-emissions",
+      "publishedAt": "2026-07-30T15:13:09",
+      "content": "Sustainability ratings and solutions provider EcoVadis and private markets-focused ESG data solutions provider Novata announced"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Goldman Sachs Acquires RWE’s U.S. Distributed Clean Energy Business",
+      "description": "Goldman Sachs Asset Management’s alternative investments platform, Goldman Sachs Alternatives, announced an agreement with German",
+      "url": "https://www.esgtoday.com/goldman-sachs-acquires-rwes-u-s-distributed-clean-energy-business/?utm_source=rss&utm_medium=rss&utm_campaign=goldman-sachs-acquires-rwes-u-s-distributed-clean-energy-business",
+      "publishedAt": "2026-07-30T09:04:52",
+      "content": "Goldman Sachs Asset Management’s alternative investments platform, Goldman Sachs Alternatives, announced an agreement with German"
     },
     {
       "source": {
@@ -51,22 +51,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "JPMorgan AM Appoints Leslie Rich as Global Head of Sustainable Investing Research Insights",
+      "description": "J.P. Morgan Asset Management announced the appointment of Leslie Rich as Global Head of Sustainable",
+      "url": "https://www.esgtoday.com/jpmorgan-am-appoints-leslie-rich-as-global-head-of-sustainable-investing-research-insights/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-am-appoints-leslie-rich-as-global-head-of-sustainable-investing-research-insights",
+      "publishedAt": "2026-07-30T16:05:53",
+      "content": "J.P. Morgan Asset Management announced the appointment of Leslie Rich as Global Head of Sustainable"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Deutsche Bank Reports Strongest Sustainable Finance Quarter in Over 4 Years",
+      "description": "Deutsche Bank reported that its sustainable and transition financing volumes reached €31 billion (USD$35.5 billion)",
+      "url": "https://www.esgtoday.com/deutsche-bank-reports-strongest-sustainable-finance-quarter-in-over-4-years/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-reports-strongest-sustainable-finance-quarter-in-over-4-years",
+      "publishedAt": "2026-07-30T10:58:00",
+      "content": "Deutsche Bank reported that its sustainable and transition financing volumes reached €31 billion (USD$35.5 billion)"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Sustainability’s Next Challenge Isn’t Reporting – It’s Building Better Data",
+      "description": "Guest post by: Jim Hietala, Vice President, Sustainability and Market Development for The Open Group",
+      "url": "https://www.esgtoday.com/sustainabilitys-next-challenge-isnt-reporting-its-building-better-data/?utm_source=rss&utm_medium=rss&utm_campaign=sustainabilitys-next-challenge-isnt-reporting-its-building-better-data",
+      "publishedAt": "2026-07-30T09:39:52",
+      "content": "Guest post by: Jim Hietala, Vice President, Sustainability and Market Development for The Open Group"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Mercedes-Benz Signs Deal for Low Carbon Aluminum for Cars",
       "description": "Mercedes-Benz and Norway-based aluminum and renewable energy company Hydro announced the expansion of their partnership,",
       "url": "https://www.esgtoday.com/mercedes-benz-signs-deal-for-low-carbon-aluminum-for-cars/?utm_source=rss&utm_medium=rss&utm_campaign=mercedes-benz-signs-deal-for-low-carbon-aluminum-for-cars",
       "publishedAt": "2026-07-29T14:17:19",
       "content": "Mercedes-Benz and Norway-based aluminum and renewable energy company Hydro announced the expansion of their partnership,"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Rooted in Nature: How Three CPG Companies Are Scaling Regenerative Practices",
-      "description": "Sustainable land management practices like regenerative agriculture and responsible forestry offer huge promise as a climate solution, with the potential to contribute over a quarter of the emissio...",
-      "url": "https://csrwire.com/press-release/rooted-nature-how-three-cpg-companies-are-scaling-regenerative-practices/",
-      "publishedAt": "2026-07-29T14:00:00",
-      "content": "Sustainable land management practices like regenerative agriculture and responsible forestry offer huge promise as a climate solution, with the potential to contribute over a quarter of the emissio..."
     },
     {
       "source": {
@@ -84,77 +106,44 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Organic eggs have worse impact on climate than eggs from caged chickens",
-      "description": "Adopting organic free-range model in UK could lead to greenhouse emissions equivalent to 2,316,000 tonnes of CO2, study suggestsOrganic eggs are twice as bad for the climate as eggs from chickens l...",
-      "url": "https://www.theguardian.com/environment/2026/jul/29/organic-eggs-climate-caged-chickens-carbon-emissions-environment",
-      "publishedAt": "2026-07-29T04:00:24",
-      "content": "Adopting organic free-range model in UK could lead to greenhouse emissions equivalent to 2,316,000 tonnes of CO2, study suggestsOrganic eggs are twice as bad for the climate as eggs from chickens l..."
+      "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
+      "description": "Latest study says global heating has made hot, dry and windy conditions in Spain at least 20 times more likelyThe extreme heat and drought stoking huge wildfires in Spain and France were made far m...",
+      "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
+      "publishedAt": "2026-07-31T07:00:07",
+      "content": "Latest study says global heating has made hot, dry and windy conditions in Spain at least 20 times more likelyThe extreme heat and drought stoking huge wildfires in Spain and France were made far m..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Northern Trust Loses $160 Million Mandate to Amundi Over Exit from Climate Groups",
-      "description": "UK charity endowment manager Nesta Trust announced that it has transferred a £120 million (USD$160",
-      "url": "https://www.esgtoday.com/northern-trust-loses-160-million-mandate-to-amundi-over-exit-from-climate-groups/?utm_source=rss&utm_medium=rss&utm_campaign=northern-trust-loses-160-million-mandate-to-amundi-over-exit-from-climate-groups",
-      "publishedAt": "2026-07-29T10:20:59",
-      "content": "UK charity endowment manager Nesta Trust announced that it has transferred a £120 million (USD$160"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How Climate Change and Tariffs Help China Raise More Cattle",
-      "description": "As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds.",
-      "url": "https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html",
-      "publishedAt": "2026-07-30T04:00:12",
-      "content": "As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate",
-      "description": "The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.",
-      "url": "https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html",
-      "publishedAt": "2026-07-29T14:06:53",
-      "content": "The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Caribbean bears brunt of £43bn climate-fuelled damage to developing islands",
-      "description": "Findings can inform conversations about global climate reparations and financing for mitigations, researchers sayCaribbean nations suffered $53.",
-      "url": "https://www.theguardian.com/world/2026/jul/29/caribbean-climate-related-economic-damage-developing-islands",
-      "publishedAt": "2026-07-29T11:00:30",
-      "content": "Findings can inform conversations about global climate reparations and financing for mitigations, researchers sayCaribbean nations suffered $53."
+      "title": "Vast Majority of Companies Oppose Tougher GHG Protocol Scope 2 Reporting Proposals",
+      "description": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol announced the release of the results of its",
+      "url": "https://www.esgtoday.com/vast-majority-of-companies-oppose-tougher-ghg-protocol-scope-2-reporting-proposals/?utm_source=rss&utm_medium=rss&utm_campaign=vast-majority-of-companies-oppose-tougher-ghg-protocol-scope-2-reporting-proposals",
+      "publishedAt": "2026-07-30T14:48:36",
+      "content": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol announced the release of the results of its"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "TotalEnergies to Appeal Court Ruling Ordering it to Address Climate Risks from Use of its Products",
-      "description": "TotalEnergies announced that it has decided to appeal a recent ruling by the Paris Judicial",
-      "url": "https://www.esgtoday.com/totalenergies-to-appeal-court-ruling-ordering-it-to-address-climate-risks-from-use-of-its-products/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-to-appeal-court-ruling-ordering-it-to-address-climate-risks-from-use-of-its-products",
-      "publishedAt": "2026-07-28T14:10:34",
-      "content": "TotalEnergies announced that it has decided to appeal a recent ruling by the Paris Judicial"
+      "title": "Deepki Acquires Real Estate Electrification AI Startup Camion",
+      "description": "Real estate sustainability data solutions provider Deepki announced today the acquisition of real estate electrification-focused",
+      "url": "https://www.esgtoday.com/deepki-acquires-real-estate-electrification-ai-startup-camion/?utm_source=rss&utm_medium=rss&utm_campaign=deepki-acquires-real-estate-electrification-ai-startup-camion",
+      "publishedAt": "2026-07-30T12:36:39",
+      "content": "Real estate sustainability data solutions provider Deepki announced today the acquisition of real estate electrification-focused"
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "ISO, GHG Protocol to Launch a Single Unified Carbon Accounting Standard",
-      "description": "Standards-setting organizations the International Organization for Standardization (ISO) and Greenhouse Gas Protocol (GHG Protocol) announced on",
-      "url": "https://www.esgtoday.com/iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=iso-ghg-protocol-to-launch-a-single-unified-carbon-accounting-standard",
-      "publishedAt": "2026-07-29T13:08:51",
-      "content": "Standards-setting organizations the International Organization for Standardization (ISO) and Greenhouse Gas Protocol (GHG Protocol) announced on"
+      "author": "Good On You",
+      "title": "Relax in These 28 Sustainable Sweatshirts and Sweatpants",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-sweatshirts-sweatpants/",
+      "publishedAt": "2026-07-30T00:20:06",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -183,55 +172,198 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Half of England officially in ‘exceptionally serious’ drought",
-      "description": "Environment Agency names seven regions affected by unusually hot and dry weather and shortage of waterHalf of England is officially in drought, with July set to be the driest on record after winter...",
-      "url": "https://www.theguardian.com/environment/2026/jul/29/half-england-officially-drought-environment-agency",
-      "publishedAt": "2026-07-29T13:02:09",
-      "content": "Environment Agency names seven regions affected by unusually hot and dry weather and shortage of waterHalf of England is officially in drought, with July set to be the driest on record after winter..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "“Waste Intelligence” Startup Greyparrot Raises $27 Million",
-      "description": "AI waste intelligence company Greyparrot announced that it has raised $27 million in a Series",
-      "url": "https://www.esgtoday.com/waste-intelligence-startup-grayparrot-raises-27-million/?utm_source=rss&utm_medium=rss&utm_campaign=waste-intelligence-startup-grayparrot-raises-27-million",
-      "publishedAt": "2026-07-29T11:39:33",
-      "content": "AI waste intelligence company Greyparrot announced that it has raised $27 million in a Series"
+      "title": "Suffolk wildfire near Sizewell nuclear plant ‘stabilising’ after 24 hours",
+      "description": "More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuationsFire crews tackling a large wildfire burning for more than 24 hours near Britai...",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/31/suffolk-wildfire-sizewell-nuclear-plant-dunwich-heath",
+      "publishedAt": "2026-07-31T07:48:44",
+      "content": "More than 100 firefighters remain at scene after Dunwich Heath blaze spread across 150 hectares and forced evacuationsFire crews tackling a large wildfire burning for more than 24 hours near Britai..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘The breath just went out of us’: people return to their homes after wildfires near Madrid",
-      "description": "Residents struggle to take in the devastation five days after El Morro was evacuated as fires burned across countryside west of Spanish capitalThe handwritten sign taped to the front gate of a hous...",
-      "url": "https://www.theguardian.com/world/2026/jul/29/people-return-to-their-home-in-spain-after-wildfires",
-      "publishedAt": "2026-07-29T17:25:31",
-      "content": "Residents struggle to take in the devastation five days after El Morro was evacuated as fires burned across countryside west of Spanish capitalThe handwritten sign taped to the front gate of a hous..."
+      "title": "Country diary: Rumours of glowworms set me off on a twilight stroll | Anita Roy",
+      "description": "Wellington, Somerset: Desiccated leaves crunch underfoot and ponds have shrunk to muddy pools.",
+      "url": "https://www.theguardian.com/environment/2026/jul/31/country-diary-rumours-of-glowworms-set-me-off-on-a-twilight-stroll",
+      "publishedAt": "2026-07-31T04:30:03",
+      "content": "Wellington, Somerset: Desiccated leaves crunch underfoot and ponds have shrunk to muddy pools."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Repeated use of saunas could help people cope better in heatwaves, scientists say",
-      "description": "Growing number of studies assessing whether heat training can help people prepare for scorching temperaturesEven as summer temperatures soar, the sauna trend is booming, with some venues touting th...",
-      "url": "https://www.theguardian.com/society/2026/jul/29/repeated-use-of-saunas-could-help-people-cope-better-in-heatwaves-scientists-say",
-      "publishedAt": "2026-07-29T13:00:33",
-      "content": "Growing number of studies assessing whether heat training can help people prepare for scorching temperaturesEven as summer temperatures soar, the sauna trend is booming, with some venues touting th..."
+      "title": "Soy sauce refills and reused jars: can Philippines’ tingi culture hold back deluge of plastic waste?",
+      "description": "A zero-waste shop set up by a district council provides plastic-free products at affordable prices in a country that gets through 164m sachets a dayJust after classes finish for the day in Malabon ...",
+      "url": "https://www.theguardian.com/environment/2026/jul/31/philippines-tingi-zero-waste-shop-reuse-refill-plastic",
+      "publishedAt": "2026-07-31T04:00:03",
+      "content": "A zero-waste shop set up by a district council provides plastic-free products at affordable prices in a country that gets through 164m sachets a dayJust after classes finish for the day in Malabon ..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "The Great Lakes’ most emblematic fish could be consigned to history books",
-      "description": "A delicacy for centuries and a key part of Native tradition, the lake whitefish has seen its population crash.",
-      "url": "https://www.theguardian.com/us-news/2026/jul/29/lake-whitefish-great-lakes-invasive-mussels",
-      "publishedAt": "2026-07-29T12:00:31",
-      "content": "A delicacy for centuries and a key part of Native tradition, the lake whitefish has seen its population crash."
+      "title": "‘It makes your heart sing’: can a pioneering project show that rewilding really works? – podcast",
+      "description": "Intensive farming has all but destroyed England’s ancient woodlands and freshwater wetlands.",
+      "url": "https://www.theguardian.com/news/audio/2026/jul/31/it-makes-your-heart-sing-can-a-pioneering-project-show-that-rewilding-really-works-podcast",
+      "publishedAt": "2026-07-31T04:00:03",
+      "content": "Intensive farming has all but destroyed England’s ancient woodlands and freshwater wetlands."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Drought conditions may worsen before improving as little rain in sight",
+      "description": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
+      "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-31T01:28:46",
+      "content": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.",
+      "description": "Have you had to cancel, reschedule or replan a trip to France, Spain or elsewhere because of raging fires or stifling heat? If so, we want to hear from you.",
+      "url": "https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html",
+      "publishedAt": "2026-07-30T22:08:35",
+      "content": "Have you had to cancel, reschedule or replan a trip to France, Spain or elsewhere because of raging fires or stifling heat? If so, we want to hear from you."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "India wants to join the strawberry superpowers",
+      "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+      "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T22:04:09",
+      "content": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+      "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T17:55:24",
+      "content": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Hosepipe bans in force as drought declared - is your area affected?",
+      "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T14:50:42",
+      "content": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Drought declared across whole of Wales as conditions 'deteriorate'",
+      "description": "Wales is on course for its driest July on record in almost 190 years.",
+      "url": "https://www.bbc.co.uk/news/articles/c8jn1v37znvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T14:15:09",
+      "content": "Wales is on course for its driest July on record in almost 190 years."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Dashcam captures tornado toppling power lines onto car",
+      "description": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July.",
+      "url": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T13:44:23",
+      "content": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Europe burns: a visual guide to the wildfires",
+      "description": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating.",
+      "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
+      "publishedAt": "2026-07-30T13:00:15",
+      "content": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Families to be moved out of billionaire-owned tower after suffering without air con",
+      "description": "Several councils to stop housing tenants in glass-fronted Britannia Point in London, where tenants were earlier told they could not use air conAs the fourth heatwave of the year hit the UK on Wedne...",
+      "url": "https://www.theguardian.com/uk-news/2026/jul/30/families-in-london-fighting-to-keep-cool-amid-air-con-dispute-with-local-councils",
+      "publishedAt": "2026-07-30T12:39:45",
+      "content": "Several councils to stop housing tenants in glass-fronted Britannia Point in London, where tenants were earlier told they could not use air conAs the fourth heatwave of the year hit the UK on Wedne..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
+      "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T12:14:00",
+      "content": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Mountaineer who began fossil hunting after near-death experience discovers rare 'sea dragon'",
+      "description": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlk9rym18o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-07-30T09:17:18",
+      "content": "Matthew Myerscough swapped mountains for fossil-laden beaches after becoming trapped in snow on Yr Wyddfa."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups",
+      "description": "Hundreds of bases are contaminated with PFAS, which are linked to low birth weight and other risks. Politicians from both parties are demanding explanations.",
+      "url": "https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html",
+      "publishedAt": "2026-07-30T09:02:06",
+      "content": "Hundreds of bases are contaminated with PFAS, which are linked to low birth weight and other risks. Politicians from both parties are demanding explanations."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "“Do we have the appetite?” – Shell’s fear of Niger Delta clean-up costs revealed",
+      "description": "Before it passed on responsibility by selling off assets in Nigeria, internal documents show Shell's concerns about dealing with oil spills from its pipelines\nThe post “Do we have the appetite?” – ...",
+      "url": "https://www.climatechangenews.com/2026/07/29/do-we-have-the-appetite-shells-fear-of-niger-delta-clean-up-costs-revealed/",
+      "publishedAt": "2026-07-29T17:37:33",
+      "content": "Before it passed on responsibility by selling off assets in Nigeria, internal documents show Shell's concerns about dealing with oil spills from its pipelines\nThe post “Do we have the appetite?” – ..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "UN bid to keep 1.5C alive exposes deepening divisions over fossil fuels",
+      "description": "Vulnerable island nations and the poorest countries want the Belém Mission to 1.",
+      "url": "https://www.climatechangenews.com/2026/07/29/un-bid-to-keep-1-5c-alive-exposes-deepening-divisions-over-fossil-fuels/",
+      "publishedAt": "2026-07-29T11:02:34",
+      "content": "Vulnerable island nations and the poorest countries want the Belém Mission to 1."
     },
     {
       "source": {
@@ -246,83 +378,6 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Microtransit Brings Public Transportation to Rural Doorsteps",
-      "description": "Public buses and trains don’t usually extend into the outskirts of rural communities, if they stop in them at all.",
-      "url": "https://triplepundit.com/2026/rural-microtransit-fare-free-public-transportation-access/",
-      "publishedAt": "2026-07-28T20:53:10",
-      "content": "Public buses and trains don’t usually extend into the outskirts of rural communities, if they stop in them at all."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Nuclear Turbines Raises $20 Million to Bring Down Cost of Nuclear Energy Using Gas Turbine Technology",
-      "description": "Advanced nuclear technology startup Nuclear Turbines announced that it has raised £15 million (USD$20 million)",
-      "url": "https://www.esgtoday.com/nuclear-turbines-raises-20-million-to-bring-down-cost-of-nuclear-energy-using-gas-turbine-technology/?utm_source=rss&utm_medium=rss&utm_campaign=nuclear-turbines-raises-20-million-to-bring-down-cost-of-nuclear-energy-using-gas-turbine-technology",
-      "publishedAt": "2026-07-28T14:50:17",
-      "content": "Advanced nuclear technology startup Nuclear Turbines announced that it has raised £15 million (USD$20 million)"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Verra, S&P Global Launch New Carbon Project Registry",
-      "description": "Carbon market standards organization Verra announced the launch of its new registry, powered by S&P",
-      "url": "https://www.esgtoday.com/verra-sp-global-launch-new-carbon-project-registry/?utm_source=rss&utm_medium=rss&utm_campaign=verra-sp-global-launch-new-carbon-project-registry",
-      "publishedAt": "2026-07-28T13:07:11",
-      "content": "Carbon market standards organization Verra announced the launch of its new registry, powered by S&P"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Enabling Connected Intelligence With Low-Power Wide-Area IoT Connectivity",
-      "description": "Intelligently connecting virtually everything around us is the vision that drives our work at Qualcomm Technologies, and it’s why we deliver a broad portfolio of purpose-built processing and connec...",
-      "url": "https://csrwire.com/press-release/enabling-connected-intelligence-low-power-wide-area-iot-connectivity/",
-      "publishedAt": "2026-07-28T09:05:00",
-      "content": "Intelligently connecting virtually everything around us is the vision that drives our work at Qualcomm Technologies, and it’s why we deliver a broad portfolio of purpose-built processing and connec..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "With Three Businesses of His Own and a Day Job, This Yum! Facilities Supervisor Isn’t Horsing Around",
-      "description": "When Dan Shacklett first agreed to help finish a fence on Angie Clark’s Kentucky farm, he thought he was lending a hand.",
-      "url": "https://csrwire.com/press-release/three-businesses-his-own-and-day-job-yum-facilities-supervisor-isnt-horsing-around/",
-      "publishedAt": "2026-07-27T10:00:00",
-      "content": "When Dan Shacklett first agreed to help finish a fence on Angie Clark’s Kentucky farm, he thought he was lending a hand."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "10 Nature-Inspired Startups Selected To Drive the Next Wave of Biomimicry Innovation",
-      "description": "The Biomimicry Institute has announced the ten startups selected for the 2026 Ray of Hope Accelerator.",
-      "url": "https://csrwire.com/press-release/10-nature-inspired-startups-selected-drive-next-wave-biomimicry-innovation/",
-      "publishedAt": "2026-07-27T09:40:00",
-      "content": "The Biomimicry Institute has announced the ten startups selected for the 2026 Ray of Hope Accelerator."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Birdwatch: A song thrush connects me with the great-grandfather I never knew",
-      "description": "No other bird speaks to us quite so directly, its serenade conjuring memories of old family talesI wake early on these bright summer mornings.",
-      "url": "https://www.theguardian.com/environment/2026/jul/29/birdwatch-a-song-thrush-connects-me-with-the-great-grandfather-i-never-knew",
-      "publishedAt": "2026-07-29T05:00:23",
-      "content": "No other bird speaks to us quite so directly, its serenade conjuring memories of old family talesI wake early on these bright summer mornings."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -331,28 +386,6 @@
       "url": "https://goodonyou.eco/sustainable-flats/",
       "publishedAt": "2026-07-29T02:00:11",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Wesco Recognized as a 2026 World's Top Disability Inclusive Business",
-      "description": "Wesco announced today that it has been recognized as a World's Top Disability Inclusive Business based on its performance in the 2026 Disability Index®, the leading global benchmark for disability ...",
-      "url": "https://csrwire.com/press-release/wesco-recognized-2026-worlds-top-disability-inclusive-business/",
-      "publishedAt": "2026-07-27T08:00:00",
-      "content": "Wesco announced today that it has been recognized as a World's Top Disability Inclusive Business based on its performance in the 2026 Disability Index®, the leading global benchmark for disability ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Ray Deploys Natural Capital at WSDOT’S Scatter Creek Site",
-      "description": "The Ray has collaborated with the Washington State Department of Transportation to demonstrate how active transit corridors can simultaneously deliver value for the ecosystem and public infrastruct...",
-      "url": "https://csrwire.com/press-release/ray-deploys-natural-capital-wsdots-scatter-creek-site/",
-      "publishedAt": "2026-07-24T09:40:00",
-      "content": "The Ray has collaborated with the Washington State Department of Transportation to demonstrate how active transit corridors can simultaneously deliver value for the ecosystem and public infrastruct..."
     }
   ]
 }
