@@ -1,13 +1,24 @@
 {
   "status": "ok",
-  "totalResults": 30,
+  "totalResults": 28,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Walmart Sets New SBTi-Approved Emissions Reduction Target",
+      "description": "Retail giant Walmart revealed that it has set a new operational emissions target, with a",
+      "url": "https://www.esgtoday.com/walmart-sets-new-sbti-approved-emissions-reduction-target/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-sets-new-sbti-approved-emissions-reduction-target",
+      "publishedAt": "2026-08-03T13:00:51",
+      "content": "Retail giant Walmart revealed that it has set a new operational emissions target, with a"
+    },
     {
       "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "9 Things to Know in Sustainable Fashion This August",
+      "title": "10 Things to Know in Sustainable Fashion This August",
       "description": "In this month’s round up of the sustainable fashion news to know, a new report highlights luxury consumers’ retreat from fur, Sweden plans to ban PFAS in clothes, and the new regulations that have ...",
       "url": "https://goodonyou.eco/sustainable-fashion-news-august-2026/",
       "publishedAt": "2026-08-03T00:42:53",
@@ -29,11 +40,55 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EcoVadis, Novata Partner to Help Companies, Investors Measure Scope 3 Emissions",
-      "description": "Sustainability ratings and solutions provider EcoVadis and private markets-focused ESG data solutions provider Novata announced",
-      "url": "https://www.esgtoday.com/ecovadis-novata-partner-to-help-companies-investors-measure-scope-3-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-novata-partner-to-help-companies-investors-measure-scope-3-emissions",
-      "publishedAt": "2026-07-30T15:13:09",
-      "content": "Sustainability ratings and solutions provider EcoVadis and private markets-focused ESG data solutions provider Novata announced"
+      "title": "Brookfield Launches $600 Million India-focused Renewable Energy Platform",
+      "description": "Brookfield Asset Management announced the launch of Lumara Energy, a new India-based platform focused on",
+      "url": "https://www.esgtoday.com/brookfield-launches-600-million-india-focused-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-launches-600-million-india-focused-renewable-energy-platform",
+      "publishedAt": "2026-08-03T13:26:38",
+      "content": "Brookfield Asset Management announced the launch of Lumara Energy, a new India-based platform focused on"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Egypt seeks to unlock renewable potential to power regional clean energy hub",
+      "description": "Europe is investing in Egypt’s bid to position itself as a clean electricity exporter to reduce its emissions and generate a new source of income\nThe post Egypt seeks to unlock renewable potential ...",
+      "url": "https://www.climatechangenews.com/2026/08/03/egypt-seeks-to-unlock-renewable-riches-to-power-regional-clean-energy-hub/",
+      "publishedAt": "2026-08-03T10:14:16",
+      "content": "Europe is investing in Egypt’s bid to position itself as a clean electricity exporter to reduce its emissions and generate a new source of income\nThe post Egypt seeks to unlock renewable potential ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TotalEnergies Acquires Shell’s European Onshore Renewables Business",
+      "description": "French energy giant TotalEnergies announced 2 key clean energy transactions on Monday, including a deal",
+      "url": "https://www.esgtoday.com/totalenergies-acquires-shells-european-onshore-renewables-business/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-acquires-shells-european-onshore-renewables-business",
+      "publishedAt": "2026-08-03T09:43:21",
+      "content": "French energy giant TotalEnergies announced 2 key clean energy transactions on Monday, including a deal"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Bain Appoints Matteo Capellini as Global Head of Sustainability Value Creation Solution",
+      "description": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of",
+      "url": "https://www.esgtoday.com/bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution",
+      "publishedAt": "2026-08-03T14:39:54",
+      "content": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
+      "description": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four",
+      "url": "https://www.esgtoday.com/u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar",
+      "publishedAt": "2026-08-03T11:31:28",
+      "content": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four"
     },
     {
       "source": {
@@ -51,33 +106,22 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "JPMorgan AM Appoints Leslie Rich as Global Head of Sustainable Investing Research Insights",
-      "description": "J.P. Morgan Asset Management announced the appointment of Leslie Rich as Global Head of Sustainable",
-      "url": "https://www.esgtoday.com/jpmorgan-am-appoints-leslie-rich-as-global-head-of-sustainable-investing-research-insights/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-am-appoints-leslie-rich-as-global-head-of-sustainable-investing-research-insights",
-      "publishedAt": "2026-07-30T16:05:53",
-      "content": "J.P. Morgan Asset Management announced the appointment of Leslie Rich as Global Head of Sustainable"
+      "title": "Home Battery Startup Base Power Raises $1 Billion at $13 Billion Valuation",
+      "description": "Home energy and battery storage company Base Power announced today that it has raised $1",
+      "url": "https://www.esgtoday.com/home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation",
+      "publishedAt": "2026-08-04T07:01:02",
+      "content": "Home energy and battery storage company Base Power announced today that it has raised $1"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Deutsche Bank Reports Strongest Sustainable Finance Quarter in Over 4 Years",
-      "description": "Deutsche Bank reported that its sustainable and transition financing volumes reached €31 billion (USD$35.5 billion)",
-      "url": "https://www.esgtoday.com/deutsche-bank-reports-strongest-sustainable-finance-quarter-in-over-4-years/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-reports-strongest-sustainable-finance-quarter-in-over-4-years",
-      "publishedAt": "2026-07-30T10:58:00",
-      "content": "Deutsche Bank reported that its sustainable and transition financing volumes reached €31 billion (USD$35.5 billion)"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A new Queensland bill aims to ‘streamline’ major projects. Matt and Caitlin fear it could hand their farm to developers",
-      "description": "Experts say new power to bypass conservation and planning regulations are incredibly broad and could let the state effectively fast-track any project it wantsFollow our Australia news live blog for...",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/03/a-new-queensland-bill-aims-to-streamline-major-projects-matt-and-caitlin-fear-it-could-hand-their-farm-to-developers",
-      "publishedAt": "2026-08-02T15:00:26",
-      "content": "Experts say new power to bypass conservation and planning regulations are incredibly broad and could let the state effectively fast-track any project it wantsFollow our Australia news live blog for..."
+      "title": "What CDP’s 2026 Changes Signal About the Future of Corporate Disclosure",
+      "description": "Guest post by: Hana Beckwith, ESG Analyst at Novisto Every CDP cycle brings adjustments, but",
+      "url": "https://www.esgtoday.com/what-cdps-2026-changes-signal-about-the-future-of-corporate-disclosure/?utm_source=rss&utm_medium=rss&utm_campaign=what-cdps-2026-changes-signal-about-the-future-of-corporate-disclosure",
+      "publishedAt": "2026-08-03T08:52:22",
+      "content": "Guest post by: Hana Beckwith, ESG Analyst at Novisto Every CDP cycle brings adjustments, but"
     },
     {
       "source": {
@@ -106,22 +150,99 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Weather tracker: Austria breaks heat records as Japan braces for Typhoon Dolphin",
-      "description": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surgesEurope live – latest updatesUnbearable, record-breaking heat has dominated the summer of 2...",
-      "url": "https://www.theguardian.com/environment/2026/aug/03/weather-tracker-austria-heat-europe-japan-typhoon-dolphin",
-      "publishedAt": "2026-08-03T08:16:38",
-      "content": "Soaring temperatures continue to sweep parts of Europe, while Okinawa faces powerful winds and storm surgesEurope live – latest updatesUnbearable, record-breaking heat has dominated the summer of 2..."
+      "title": "Six mind-bendingly amazing facts about invertebrates",
+      "description": "Just in case you hadn’t already realised how extraordinary the gigantic group of creatures known as invertebrates are, we’ve gathered together five facts that made our brains hurt (plus one more, b...",
+      "url": "https://www.theguardian.com/environment/2026/aug/04/six-mind-bendingly-amazing-facts-about-invertebrates",
+      "publishedAt": "2026-08-04T07:00:15",
+      "content": "Just in case you hadn’t already realised how extraordinary the gigantic group of creatures known as invertebrates are, we’ve gathered together five facts that made our brains hurt (plus one more, b..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: Down an old lead mine, an explosion of colour | Susie White",
-      "description": "Garrigill, Cumbria: The abandoned Tynebottom mine is alive with vivid orange, raspberry-ripple pink and sulphurous yellow.",
-      "url": "https://www.theguardian.com/environment/2026/aug/03/country-diary-down-an-old-lead-mine-an-explosion-of-colour",
-      "publishedAt": "2026-08-03T04:30:40",
-      "content": "Garrigill, Cumbria: The abandoned Tynebottom mine is alive with vivid orange, raspberry-ripple pink and sulphurous yellow."
+      "title": "Nine Lives, the feral cat that terrorised New Zealand’s rare ducks, is caught after three years",
+      "description": "Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviourA notorious feral cat given the name “Nine Lives” becaus...",
+      "url": "https://www.theguardian.com/world/2026/aug/04/nine-lives-feral-cat-new-zealand-caught-trapped",
+      "publishedAt": "2026-08-04T05:45:57",
+      "content": "Large tabby cat that wiped out dozens of rare pāteke, or brown teal, has been killed after eluding trappers with its ‘very erratic’ behaviourA notorious feral cat given the name “Nine Lives” becaus..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Martha, a tribute to Buxton’s miners, has been knocked off her plinth. Why? | Mark Cocker",
+      "description": "Buxton, Derbyshire: Acts of vandalism are not unusual.",
+      "url": "https://www.theguardian.com/environment/2026/aug/04/country-diary-martha-a-tribute-to-buxtons-miners-has-been-knocked-off-her-plinth-why",
+      "publishedAt": "2026-08-04T04:30:12",
+      "content": "Buxton, Derbyshire: Acts of vandalism are not unusual."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Meet the Bee Vet, Now Making Hive Calls",
+      "description": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.",
+      "url": "https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html",
+      "publishedAt": "2026-08-03T17:37:52",
+      "content": "Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Scottish seabird hunt cancelled for first time in 400 years",
+      "description": "NatureScot refuses licence for hunt on Hebridean island of Sula Sgeir in which up to 2,000 gannet chicks are killedA controversial Scottish seabird hunt will not go ahead for the first time in 400 ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/03/scottish-seabird-hunt-cancelled-for-first-time-in-400-years",
+      "publishedAt": "2026-08-03T16:56:27",
+      "content": "NatureScot refuses licence for hunt on Hebridean island of Sula Sgeir in which up to 2,000 gannet chicks are killedA controversial Scottish seabird hunt will not go ahead for the first time in 400 ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
+      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-03T16:27:43",
+      "content": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "July was driest month in southern England since records began",
+      "description": "England and Wales provisionally record driest July in nearly 200 years, Met Office saysJuly 2026 was the driest month in southern England since records began nearly 200 years ago, the Met Office ha...",
+      "url": "https://www.theguardian.com/environment/2026/aug/03/july-driest-month-southern-england-since-records-began",
+      "publishedAt": "2026-08-03T15:44:20",
+      "content": "England and Wales provisionally record driest July in nearly 200 years, Met Office saysJuly 2026 was the driest month in southern England since records began nearly 200 years ago, the Met Office ha..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Whey to go! Could the cheese byproduct heat our homes and fuel our cars?",
+      "description": "British cheesemakers have struggled to find a use for the 95,000 tonnes of salty whey they produce every year.",
+      "url": "https://www.theguardian.com/food/2026/aug/03/whey-cheese-byproduct-alternative-fuel",
+      "publishedAt": "2026-08-03T15:02:15",
+      "content": "British cheesemakers have struggled to find a use for the 95,000 tonnes of salty whey they produce every year."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The obsession with endless growth can only end in tears’: your questions on extreme weather this summer answered",
+      "description": "From Europe’s deadly heat to floods in Asia, it’s been a terrifying summer.",
+      "url": "https://www.theguardian.com/environment/2026/aug/03/the-obsession-with-endless-growth-can-only-end-in-tears-your-questions-on-extreme-weather-this-summer-answered",
+      "publishedAt": "2026-08-03T14:14:47",
+      "content": "From Europe’s deadly heat to floods in Asia, it’s been a terrifying summer."
     },
     {
       "source": {
@@ -136,39 +257,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Two helicopters collide outside Athens as Greece battles to control wildfires",
-      "description": "Fire department says two-person crew of one aircraft killed in incident during gale-force winds to west of capitalTwo firefighting helicopters have collided west of Athens, killing the two-person c...",
-      "url": "https://www.theguardian.com/world/2026/aug/02/western-europe-wildfire-crisis-retreats-greece-evacuates-hundreds-athens",
-      "publishedAt": "2026-08-02T17:36:18",
-      "content": "Fire department says two-person crew of one aircraft killed in incident during gale-force winds to west of capitalTwo firefighting helicopters have collided west of Athens, killing the two-person c..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Solar powers record share of Britain’s electricity mix in July",
-      "description": "Farms and rooftop panels contribute 14.",
-      "url": "https://www.theguardian.com/environment/2026/aug/02/solar-powers-record-share-britain-electricity-july",
-      "publishedAt": "2026-08-02T15:46:27",
-      "content": "Farms and rooftop panels contribute 14."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘There’s no nurdle fairy’: thousands mobilise to clean up plastic spillage in north-east England",
-      "description": "Volunteers painstakingly gather plastic pellets washing up on beaches after ship collision on 19 July‘You’ve got a local community that really cares about the coastline,” said Alice Laverty, reflec...",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/02/nurdles-clean-up-plastic-spillage-beaches-north-east-england",
-      "publishedAt": "2026-08-02T13:00:23",
-      "content": "Volunteers painstakingly gather plastic pellets washing up on beaches after ship collision on 19 July‘You’ve got a local community that really cares about the coastline,” said Alice Laverty, reflec..."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -177,83 +265,6 @@
       "url": "https://www.nytimes.com/2026/08/02/nyregion/nyc-fireflies.html",
       "publishedAt": "2026-08-02T11:21:47",
       "content": "For a few weeks in the summer, they emerge from underground and perform their aerial light show, hoping to find some action."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Thermal Battery Provider Antora Raises $550 Million to Power Industry, Data Centers",
-      "description": "Energy storage company Antora Energy announced that it has raised $550 million in a Series",
-      "url": "https://www.esgtoday.com/thermal-battery-provider-antora-raises-550-million-to-power-industry-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-battery-provider-antora-raises-550-million-to-power-industry-data-centers",
-      "publishedAt": "2026-07-31T13:22:38",
-      "content": "Energy storage company Antora Energy announced that it has raised $550 million in a Series"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Bill Gates’ Breakthrough Energy Backs Low-Cost Synthetic Jet Fuel Platform Lydian",
-      "description": "Synthetic aviation fuel technology company Lydian announced that it has raised $43 million in a",
-      "url": "https://www.esgtoday.com/bill-gates-breakthrough-energy-backs-low-cost-synthetic-jet-fuel-platform-lydian/?utm_source=rss&utm_medium=rss&utm_campaign=bill-gates-breakthrough-energy-backs-low-cost-synthetic-jet-fuel-platform-lydian",
-      "publishedAt": "2026-07-31T12:59:16",
-      "content": "Synthetic aviation fuel technology company Lydian announced that it has raised $43 million in a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Schneider Electric Acquires Grid Resilience Solutions Provider AiDASH for $350 Million",
-      "description": "Global energy technology company Schneider Electric announced an agreement to acquire satellite data and AI-powered",
-      "url": "https://www.esgtoday.com/schneider-electric-acquires-grid-resilience-solutions-provider-aidash-for-350-million/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-acquires-grid-resilience-solutions-provider-aidash-for-350-million",
-      "publishedAt": "2026-07-31T10:15:17",
-      "content": "Global energy technology company Schneider Electric announced an agreement to acquire satellite data and AI-powered"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Commonwealth Raises $1 Billion to Accelerate Path to Commercial Fusion Energy",
-      "description": "Commonwealth Fusion Energy (CFS) announced that it has raised $1 billion in equity funding in",
-      "url": "https://www.esgtoday.com/commonwealth-raises-1-billion-to-accelerate-path-to-commercial-fusion-energy/?utm_source=rss&utm_medium=rss&utm_campaign=commonwealth-raises-1-billion-to-accelerate-path-to-commercial-fusion-energy",
-      "publishedAt": "2026-07-31T09:16:15",
-      "content": "Commonwealth Fusion Energy (CFS) announced that it has raised $1 billion in equity funding in"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Vast Majority of Companies Oppose Tougher GHG Protocol Scope 2 Reporting Proposals",
-      "description": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol announced the release of the results of its",
-      "url": "https://www.esgtoday.com/vast-majority-of-companies-oppose-tougher-ghg-protocol-scope-2-reporting-proposals/?utm_source=rss&utm_medium=rss&utm_campaign=vast-majority-of-companies-oppose-tougher-ghg-protocol-scope-2-reporting-proposals",
-      "publishedAt": "2026-07-30T14:48:36",
-      "content": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol announced the release of the results of its"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Deepki Acquires Real Estate Electrification AI Startup Camion",
-      "description": "Real estate sustainability data solutions provider Deepki announced today the acquisition of real estate electrification-focused",
-      "url": "https://www.esgtoday.com/deepki-acquires-real-estate-electrification-ai-startup-camion/?utm_source=rss&utm_medium=rss&utm_campaign=deepki-acquires-real-estate-electrification-ai-startup-camion",
-      "publishedAt": "2026-07-30T12:36:39",
-      "content": "Real estate sustainability data solutions provider Deepki announced today the acquisition of real estate electrification-focused"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
-      "description": "Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homesThe government’s housebuilding agenda is hitting the stark reality of a lack of water...",
-      "url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
-      "publishedAt": "2026-08-02T06:00:14",
-      "content": "Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homesThe government’s housebuilding agenda is hitting the stark reality of a lack of water..."
     },
     {
       "source": {
@@ -279,58 +290,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "A French Village Becomes a Ghost Town After the Wildfires",
-      "description": "Wildfires in France have forced tens of thousands of people from their homes and left entire towns deserted along the southwest coast.",
-      "url": "https://www.nytimes.com/video/world/europe/100000011063710/france-wildfires-evacuation-pets.html",
-      "publishedAt": "2026-08-01T09:02:04",
-      "content": "Wildfires in France have forced tens of thousands of people from their homes and left entire towns deserted along the southwest coast."
+      "author": "ESG Today",
+      "title": "Thermal Battery Provider Antora Raises $550 Million to Power Industry, Data Centers",
+      "description": "Energy storage company Antora Energy announced that it has raised $550 million in a Series",
+      "url": "https://www.esgtoday.com/thermal-battery-provider-antora-raises-550-million-to-power-industry-data-centers/?utm_source=rss&utm_medium=rss&utm_campaign=thermal-battery-provider-antora-raises-550-million-to-power-industry-data-centers",
+      "publishedAt": "2026-07-31T13:22:38",
+      "content": "Energy storage company Antora Energy announced that it has raised $550 million in a Series"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Scientist's lifelong obsession with mystery of elusive 'pink zebra' seaweed",
-      "description": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum.",
-      "url": "https://www.bbc.co.uk/news/articles/czrxepy3vn3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T23:43:10",
-      "content": "An ancient algae first spotted four decades ago will now join the collection of the Natural History Museum."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin",
-      "description": "A federal plan would impose drastic water cuts on Arizona, California and Nevada in dry years over the next decade. A legal battle could follow.",
-      "url": "https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html",
-      "publishedAt": "2026-07-31T19:48:13",
-      "content": "A federal plan would impose drastic water cuts on Arizona, California and Nevada in dry years over the next decade. A legal battle could follow."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "England and Wales on course for driest July on record",
-      "description": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago.",
-      "url": "https://www.bbc.co.uk/weather/articles/cddjznv86p3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-07-31T15:37:17",
-      "content": "Met Office records indicate England and Wales are likely to have had their driest July since records began 190 years ago."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Plug-In Solar Panels Are Starting to Sprout in U.S. Backyards",
-      "description": "Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.",
-      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-      "publishedAt": "2026-07-31T09:00:48",
-      "content": "Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians."
+      "author": "ESG Today",
+      "title": "Bill Gates’ Breakthrough Energy Backs Low-Cost Synthetic Jet Fuel Platform Lydian",
+      "description": "Synthetic aviation fuel technology company Lydian announced that it has raised $43 million in a",
+      "url": "https://www.esgtoday.com/bill-gates-breakthrough-energy-backs-low-cost-synthetic-jet-fuel-platform-lydian/?utm_source=rss&utm_medium=rss&utm_campaign=bill-gates-breakthrough-energy-backs-low-cost-synthetic-jet-fuel-platform-lydian",
+      "publishedAt": "2026-07-31T12:59:16",
+      "content": "Synthetic aviation fuel technology company Lydian announced that it has raised $43 million in a"
     }
   ]
 }
