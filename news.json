@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 37,
   "articles": [
     {
       "source": {
@@ -15,14 +15,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Good On You"
       },
-      "author": "CSRWire",
-      "title": "Keysight 2025 Corporate Social Responsibility Progress Report: Environmental Sustainability",
-      "description": "Keysight recognizes that climate change presents significant economic, social, and environmental challenges and is committed to doing its part to help mitigate the worst impacts of the climate crisis.",
-      "url": "https://csrwire.com/press-release/keysight-2025-corporate-social-responsibility-progress-report-environmental-sustainability/",
-      "publishedAt": "2026-08-05T09:45:00",
-      "content": "Keysight recognizes that climate change presents significant economic, social, and environmental challenges and is committed to doing its part to help mitigate the worst impacts of the climate crisis."
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This August 2026",
+      "description": "Feature image: Elk.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-08-04T22:00:45",
+      "content": "Feature image: Elk."
     },
     {
       "source": {
@@ -34,17 +34,6 @@
       "url": "https://www.climatechangenews.com/2026/08/05/southeast-asia-fragile-grids-threaten-billions-in-clean-energy-investment/",
       "publishedAt": "2026-08-05T10:10:51",
       "content": "Renewables developers need reliable electricity infrastructure and stable policies to help the region meet climate goals and surging demand for power\nThe post Southeast Asia’s fragile grids threate..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This August 2026",
-      "description": "Feature image: Elk.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-08-04T22:00:45",
-      "content": "Feature image: Elk."
     },
     {
       "source": {
@@ -81,14 +70,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "New York Times"
       },
-      "author": "Climate Change News",
-      "title": "Egypt seeks to unlock renewable potential to power regional clean energy hub",
-      "description": "Europe is investing in Egypt’s bid to position itself as a clean electricity exporter to reduce its emissions and generate a new source of income\nThe post Egypt seeks to unlock renewable potential ...",
-      "url": "https://www.climatechangenews.com/2026/08/03/egypt-seeks-to-unlock-renewable-riches-to-power-regional-clean-energy-hub/",
-      "publishedAt": "2026-08-03T10:14:16",
-      "content": "Europe is investing in Egypt’s bid to position itself as a clean electricity exporter to reduce its emissions and generate a new source of income\nThe post Egypt seeks to unlock renewable potential ..."
+      "author": "New York Times",
+      "title": "Birds Are Dying. Clues Point to El Niño.",
+      "description": "A die-off of seabirds has some experts thinking an El Niño weather pattern is to blame, a look at data centers and pollution, and more climate news.",
+      "url": "https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html",
+      "publishedAt": "2026-08-06T18:40:56",
+      "content": "A die-off of seabirds has some experts thinking an El Niño weather pattern is to blame, a look at data centers and pollution, and more climate news."
     },
     {
       "source": {
@@ -103,6 +92,17 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Quarter of countries still missing UN climate plans 18 months after deadline",
+      "description": "Egypt, Vietnam, Argentina and the Philippines are among the 45 nations which have breached the Paris Agreement by not submitting their climate plan to the UN\nThe post Quarter of countries still mis...",
+      "url": "https://www.climatechangenews.com/2026/08/06/quarter-of-countries-still-missing-un-climate-plans-18-months-after-deadline/",
+      "publishedAt": "2026-08-06T11:05:57",
+      "content": "Egypt, Vietnam, Argentina and the Philippines are among the 45 nations which have breached the Paris Agreement by not submitting their climate plan to the UN\nThe post Quarter of countries still mis..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -114,17 +114,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Butterflies Take Flight in Face of Climate Change and Extreme Weather",
-      "description": "In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.",
-      "url": "https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html",
-      "publishedAt": "2026-08-05T18:59:15",
-      "content": "In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -133,28 +122,6 @@
       "url": "https://www.climatechangenews.com/2026/08/05/a-legal-fiction-blocking-billions-in-climate-finance-will-be-challenged-this-week/",
       "publishedAt": "2026-08-05T12:05:21",
       "content": "Governments will gather in New York for tax negotiations which could unlock $500 billion a year\nThe post A legal fiction blocking billions in climate finance will be challenged this week appeared f..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Bain Appoints Matteo Capellini as Global Head of Sustainability Value Creation Solution",
-      "description": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of",
-      "url": "https://www.esgtoday.com/bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution",
-      "publishedAt": "2026-08-03T14:39:54",
-      "content": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
-      "description": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four",
-      "url": "https://www.esgtoday.com/u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar",
-      "publishedAt": "2026-08-03T11:31:28",
-      "content": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four"
     },
     {
       "source": {
@@ -180,6 +147,61 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Bain Appoints Matteo Capellini as Global Head of Sustainability Value Creation Solution",
+      "description": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of",
+      "url": "https://www.esgtoday.com/bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution",
+      "publishedAt": "2026-08-03T14:39:54",
+      "content": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
+      "description": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four",
+      "url": "https://www.esgtoday.com/u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar",
+      "publishedAt": "2026-08-03T11:31:28",
+      "content": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "When taps run dry in the Caribbean, it’s not enough to blame El Niño",
+      "description": "Climate change means El Niño is heating already hotter land and sea, causing devastation across the region and the world\nThe post When taps run dry in the Caribbean, it’s not enough to blame El Niñ...",
+      "url": "https://www.climatechangenews.com/2026/08/06/as-heatwave-hits-caribbean-its-not-just-el-nino-to-blame/",
+      "publishedAt": "2026-08-06T15:36:14",
+      "content": "Climate change means El Niño is heating already hotter land and sea, causing devastation across the region and the world\nThe post When taps run dry in the Caribbean, it’s not enough to blame El Niñ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "All bodies of water in England polluted with toxic chemicals, official data shows",
+      "description": "Environment Agency assessments find just 14.",
+      "url": "https://www.theguardian.com/environment/2026/aug/06/all-bodies-of-water-england-polluted-toxic-chemicals",
+      "publishedAt": "2026-08-06T10:03:50",
+      "content": "Environment Agency assessments find just 14."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Ore Energy Raises $43 Million for Multi-Day Storage Solution Made from Iron, Water and Air",
+      "description": "Long-duration energy storage startup Ore Energy announced that it has raised $43 million in a",
+      "url": "https://www.esgtoday.com/ore-energy-raises-43-million-for-multi-day-storage-solution-made-from-iron-water-and-air/?utm_source=rss&utm_medium=rss&utm_campaign=ore-energy-raises-43-million-for-multi-day-storage-solution-made-from-iron-water-and-air",
+      "publishedAt": "2026-08-06T08:01:38",
+      "content": "Long-duration energy storage startup Ore Energy announced that it has raised $43 million in a"
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -191,14 +213,91 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Good On You"
       },
-      "author": "CSRWire",
-      "title": "A New Photovoltaic System for Sofidel America in Circleville, Ohio",
-      "description": "Another step in Sofidel’s energy transition journey: a new photovoltaic system has become operational at the Sofidel America facility in Circleville, Ohio, USA.",
-      "url": "https://csrwire.com/press-release/new-photovoltaic-system-sofidel-america-circleville-ohio/",
-      "publishedAt": "2026-08-05T12:35:00",
-      "content": "Another step in Sofidel’s energy transition journey: a new photovoltaic system has become operational at the Sofidel America facility in Circleville, Ohio, USA."
+      "author": "Good On You",
+      "title": "How Small Fashion Brands Can Improve and Communicate Sustainability",
+      "description": "Lots of brands are working to improve their sustainability and transparency, but with so many areas to address, it can be hard to know what issues to prioritise, how much to disclose to consumers, ...",
+      "url": "https://goodonyou.eco/better-sustainability-for-small-fashion-brands/",
+      "publishedAt": "2026-08-03T02:13:16",
+      "content": "Lots of brands are working to improve their sustainability and transparency, but with so many areas to address, it can be hard to know what issues to prioritise, how much to disclose to consumers, ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wildfire damage could take hundreds of years to recover from, experts say",
+      "description": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-07T05:15:56",
+      "content": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Experience: I dress up as rubbish",
+      "description": "On my TikTok I find trash that’s blowing in the wind, and mimic its movements using what I have to handI’ve always been interested in the concept of value and what is thought of as rubbish. When pe...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/07/experience-i-dress-up-as-rubbish",
+      "publishedAt": "2026-08-07T04:00:07",
+      "content": "On my TikTok I find trash that’s blowing in the wind, and mimic its movements using what I have to handI’ve always been interested in the concept of value and what is thought of as rubbish. When pe..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+      "description": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
+      "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T22:31:18",
+      "content": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Federal Judge Orders Pentagon to Lift Freeze on Wind Power",
+      "description": "Since April, the Defense Department has halted all military reviews for wind projects, stalling dozens of projects nationwide.",
+      "url": "https://www.nytimes.com/2026/08/06/climate/pentagon-reviews-wind-farms-court-order.html",
+      "publishedAt": "2026-08-06T18:56:07",
+      "content": "Since April, the Defense Department has halted all military reviews for wind projects, stalling dozens of projects nationwide."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "South Korea space agency shares Moon images after SpaceX rocket debris crash",
+      "description": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxgx5y51lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T17:38:51",
+      "content": "Seoul's lunar orbiter captured images of the Moon before and after part of SpaceX's rocket hit its surface on Wednesday."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Employees make plans for a windfall as SpaceX shares are unlocked",
+      "description": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains.",
+      "url": "https://www.bbc.co.uk/news/videos/c1e145p5xw5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T14:51:37",
+      "content": "SpaceX's shares are unlocked Thursday, and some early employees could see a massive windfall. The BBC's Samira Hussain explains."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "All of England's rivers and lakes polluted with chemicals, officials say",
+      "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+      "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-06T10:00:06",
+      "content": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement."
     },
     {
       "source": {
@@ -224,14 +323,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "How Small Fashion Brands Can Improve and Communicate Sustainability",
-      "description": "Lots of brands are working to improve their sustainability and transparency, but with so many areas to address, it can be hard to know what issues to prioritise, how much to disclose to consumers, ...",
-      "url": "https://goodonyou.eco/better-sustainability-for-small-fashion-brands/",
-      "publishedAt": "2026-08-03T02:13:16",
-      "content": "Lots of brands are working to improve their sustainability and transparency, but with so many areas to address, it can be hard to know what issues to prioritise, how much to disclose to consumers, ..."
+      "author": "ESG Today",
+      "title": "Home Battery Startup Base Power Raises $1 Billion at $13 Billion Valuation",
+      "description": "Home energy and battery storage company Base Power announced today that it has raised $1",
+      "url": "https://www.esgtoday.com/home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation",
+      "publishedAt": "2026-08-04T07:01:02",
+      "content": "Home energy and battery storage company Base Power announced today that it has raised $1"
     },
     {
       "source": {
@@ -279,160 +378,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "See the Sun like never before with most detailed images yet",
-      "description": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
-      "url": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T15:01:33",
-      "content": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Alarming surge in bluetongue disease reported among UK sheep",
-      "description": "Farmers advised to vaccinate after recent hot weather provides ideal conditions for virus-carrying midgesThere has been an alarming surge in the number of sheep affected by an outbreak of bluetongu...",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/bluetongue-disease-uk-sheep-rise",
-      "publishedAt": "2026-08-05T14:00:20",
-      "content": "Farmers advised to vaccinate after recent hot weather provides ideal conditions for virus-carrying midgesThere has been an alarming surge in the number of sheep affected by an outbreak of bluetongu..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
-      "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
-      "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-05T11:19:24",
-      "content": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘You’d want one as a pet’: the irresistibly cute solar-powered sea slug",
-      "description": "The beady-eyed, Pokémon-like leaf sheep is far more ingenious than us land mammalsRevealed: the top 10 invertebrates of the yearInvertebrate of Year Q&A: discuss our countdown with Patrick BarkhamA...",
-      "url": "https://www.theguardian.com/environment/2026/aug/05/leaf-sheep-sea-slug-invertebrates-of-year-2026",
-      "publishedAt": "2026-08-05T11:00:18",
-      "content": "The beady-eyed, Pokémon-like leaf sheep is far more ingenious than us land mammalsRevealed: the top 10 invertebrates of the yearInvertebrate of Year Q&A: discuss our countdown with Patrick BarkhamA..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Beyond the Clinical: How Social Workers Drive Kidney Transplant Success",
-      "description": "While kidney transplant is the optimal treatment path for end stage kidney disease (ESKD), complex logistical, financial and educational barriers can often stand in the way for many patients intere...",
-      "url": "https://csrwire.com/press-release/beyond-clinical-how-social-workers-drive-kidney-transplant-success/",
-      "publishedAt": "2026-08-05T08:05:00",
-      "content": "While kidney transplant is the optimal treatment path for end stage kidney disease (ESKD), complex logistical, financial and educational barriers can often stand in the way for many patients intere..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Nigerian Farmers Cut Fuel Costs and Boost Yields with Solar-Powered Irrigation",
-      "description": "Nigerian farmers are facing all-time high fuel prices, hindering their ability to grow in the dry season.",
-      "url": "https://triplepundit.com/2026/nigeria-drought-smallholder-farmers-solar-powered-irrigation/",
-      "publishedAt": "2026-08-04T12:00:00",
-      "content": "Nigerian farmers are facing all-time high fuel prices, hindering their ability to grow in the dry season."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2 Leaders. 3 Billion Meals. Closing the Gap.",
-      "description": "Our latest Shared Table guest has spent his life unleashing the \"hunger\" inside people to chase their potential.",
-      "url": "https://csrwire.com/press-release/2-leaders-3-billion-meals-closing-gap/",
-      "publishedAt": "2026-08-04T11:30:00",
-      "content": "Our latest Shared Table guest has spent his life unleashing the \"hunger\" inside people to chase their potential."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Supporting a Vision: How Caryann Bruce and Harvey Oblander Are Growing Covia's Equestrian Business",
-      "description": "Discover how two Covia employees turned customer needs into innovation, helping advance the company's growing equestrian product line.",
-      "url": "https://csrwire.com/press-release/supporting-vision-how-caryann-bruce-and-harvey-oblander-are-growing-covias-equestrian-business/",
-      "publishedAt": "2026-08-04T09:05:00",
-      "content": "Discover how two Covia employees turned customer needs into innovation, helping advance the company's growing equestrian product line."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PSEG – Modernizing Campus Infrastructure: How RVCC Funded Years of Deferred Upgrades",
-      "description": "Public institutions frequently face a frustrating paradox: the upgrades that would save them the most money are often the hardest to fund.",
-      "url": "https://csrwire.com/press-release/pseg-modernizing-campus-infrastructure-how-rvcc-funded-years-deferred-upgrades/",
-      "publishedAt": "2026-08-04T09:00:00",
-      "content": "Public institutions frequently face a frustrating paradox: the upgrades that would save them the most money are often the hardest to fund."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "DaVita Community Care Report 2025 : The Value of Community-Based Health Screenings",
-      "description": "In 2025, DaVita expanded its work with the YMCA to support chronic kidney disease (CKD) education and prevention.",
-      "url": "https://csrwire.com/press-release/davita-community-care-report-2025-value-community-based-health-screenings/",
-      "publishedAt": "2026-08-04T08:05:00",
-      "content": "In 2025, DaVita expanded its work with the YMCA to support chronic kidney disease (CKD) education and prevention."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Home Battery Startup Base Power Raises $1 Billion at $13 Billion Valuation",
-      "description": "Home energy and battery storage company Base Power announced today that it has raised $1",
-      "url": "https://www.esgtoday.com/home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation",
-      "publishedAt": "2026-08-04T07:01:02",
-      "content": "Home energy and battery storage company Base Power announced today that it has raised $1"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Mississippi Helping Customers Stay Cool and Save Money With Bill Management Tools and Resources",
-      "description": "Although the heat of summer can increase electricity use and energy costs, Entergy Mississippi is committed to helping customers stay cool and save money throughout the hotter months with bill mana...",
-      "url": "https://csrwire.com/press-release/entergy-mississippi-helping-customers-stay-cool-and-save-money-bill-management-tools-and/",
-      "publishedAt": "2026-08-03T17:15:00",
-      "content": "Although the heat of summer can increase electricity use and energy costs, Entergy Mississippi is committed to helping customers stay cool and save money throughout the hotter months with bill mana..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "What CDP’s 2026 Changes Signal About the Future of Corporate Disclosure",
-      "description": "Guest post by: Hana Beckwith, ESG Analyst at Novisto Every CDP cycle brings adjustments, but",
-      "url": "https://www.esgtoday.com/what-cdps-2026-changes-signal-about-the-future-of-corporate-disclosure/?utm_source=rss&utm_medium=rss&utm_campaign=what-cdps-2026-changes-signal-about-the-future-of-corporate-disclosure",
-      "publishedAt": "2026-08-03T08:52:22",
-      "content": "Guest post by: Hana Beckwith, ESG Analyst at Novisto Every CDP cycle brings adjustments, but"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-      "description": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
-      "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T23:13:04",
-      "content": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -455,36 +400,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Where in the West Country to see the biggest solar eclipse since 1999",
-      "description": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country.",
-      "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T12:19:55",
-      "content": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What will happen when a SpaceX rocket collides with the Moon?",
-      "description": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident.",
-      "url": "https://www.bbc.co.uk/news/articles/cx25yn22l97o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-04T09:13:37",
-      "content": "Our satellite has endured countless blows over millions of years - and astronomers think this one could be a useful accident."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-      "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
-      "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-03T16:27:43",
-      "content": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output."
+      "author": "ESG Today",
+      "title": "What CDP’s 2026 Changes Signal About the Future of Corporate Disclosure",
+      "description": "Guest post by: Hana Beckwith, ESG Analyst at Novisto Every CDP cycle brings adjustments, but",
+      "url": "https://www.esgtoday.com/what-cdps-2026-changes-signal-about-the-future-of-corporate-disclosure/?utm_source=rss&utm_medium=rss&utm_campaign=what-cdps-2026-changes-signal-about-the-future-of-corporate-disclosure",
+      "publishedAt": "2026-08-03T08:52:22",
+      "content": "Guest post by: Hana Beckwith, ESG Analyst at Novisto Every CDP cycle brings adjustments, but"
     }
   ]
 }
