@@ -1,40 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 50,
+  "totalResults": 32,
   "articles": [
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Scaling Sustainability: Inside the Trane Technologies 2025 Sustainability Report",
-      "description": "Each year, Trane Technologies publishes its global sustainability report, a comprehensive look at how the company is translating its purpose — to boldly challenge what’s possible for a sustainable ...",
-      "url": "https://csrwire.com/press-release/scaling-sustainability-inside-trane-technologies-2025-sustainability-report/",
-      "publishedAt": "2026-08-06T09:30:00",
-      "content": "Each year, Trane Technologies publishes its global sustainability report, a comprehensive look at how the company is translating its purpose — to boldly challenge what’s possible for a sustainable ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Walmart Sets New SBTi-Approved Emissions Reduction Target",
-      "description": "Retail giant Walmart revealed that it has set a new operational emissions target, with a",
-      "url": "https://www.esgtoday.com/walmart-sets-new-sbti-approved-emissions-reduction-target/?utm_source=rss&utm_medium=rss&utm_campaign=walmart-sets-new-sbti-approved-emissions-reduction-target",
-      "publishedAt": "2026-08-03T13:00:51",
-      "content": "Retail giant Walmart revealed that it has set a new operational emissions target, with a"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sadiq Khan calls on Andy Burnham to commit to climate action as pressure grows over North Sea oil",
-      "description": "London mayor points to ‘terrifying scenes’ this summer amid speculation Burnham may back Jackdaw and Rosebank projectsSadiq Khan: This burning summer is the proof: the voices of climate denial aren...",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/sadiq-khan-calls-on-andy-burnham-to-commit-to-climate-action-as-pressure-grows-over-north-sea-oil",
-      "publishedAt": "2026-08-08T08:00:40",
-      "content": "London mayor points to ‘terrifying scenes’ this summer amid speculation Burnham may back Jackdaw and Rosebank projectsSadiq Khan: This burning summer is the proof: the voices of climate denial aren..."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -59,28 +26,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "ROI-NJ: Women of Inspiration – Lauren Thomas, Vice President, Clean Energy Solutions-Customer Solutions, PSE&G",
-      "description": "When Lauren Thomas stepped into the role of Vice President of PSEG’s Clean Energy Solutions – Customer Solutions, she brought nearly two decades of experience across a wide range of roles at PSE&G.",
-      "url": "https://csrwire.com/press-release/roi-nj-women-inspiration-lauren-thomas-vice-president-clean-energy-solutions-customer/",
-      "publishedAt": "2026-08-07T09:00:00",
-      "content": "When Lauren Thomas stepped into the role of Vice President of PSEG’s Clean Energy Solutions – Customer Solutions, she brought nearly two decades of experience across a wide range of roles at PSE&G."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Brookfield Launches $600 Million India-focused Renewable Energy Platform",
-      "description": "Brookfield Asset Management announced the launch of Lumara Energy, a new India-based platform focused on",
-      "url": "https://www.esgtoday.com/brookfield-launches-600-million-india-focused-renewable-energy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=brookfield-launches-600-million-india-focused-renewable-energy-platform",
-      "publishedAt": "2026-08-03T13:26:38",
-      "content": "Brookfield Asset Management announced the launch of Lumara Energy, a new India-based platform focused on"
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -89,6 +34,17 @@
       "url": "https://www.climatechangenews.com/2026/08/06/china-wastes-clean-power-stopping-coal-use-from-falling/",
       "publishedAt": "2026-08-06T00:00:00",
       "content": "Long-term contracts guarantee coal plants buyers regardless of demand, crowding out renewables, report finds\nThe post China’s coal power rebounds as record clean energy goes to waste appeared first..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘It’s very challenging’: how the Duke of Westminster’s farm is taking on the climate crisis",
+      "description": "Amid world pressure from heatwaves and fertiliser shortages, billionaire’s business has invested in circular farming and biomethaneThere is a distinctive smell of cow manure in the air at the Duke ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/duke-of-westminster-farm-climate-crisis",
+      "publishedAt": "2026-08-10T14:00:46",
+      "content": "Amid world pressure from heatwaves and fertiliser shortages, billionaire’s business has invested in circular farming and biomethaneThere is a distinctive smell of cow manure in the air at the Duke ..."
     },
     {
       "source": {
@@ -103,17 +59,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AllianceBernstein: Carbon Emissions Compliance May Redefine Corporate Strength",
-      "description": "The European Union (EU), pursuing ambitious decarbonization goals, is significantly recalibrating its emissions compliance regime with the Carbon Border Adjustment Mechanism (CBAM). This new border...",
-      "url": "https://csrwire.com/press-release/alliancebernstein-carbon-emissions-compliance-may-redefine-corporate-strength/",
-      "publishedAt": "2026-08-06T10:00:00",
-      "content": "The European Union (EU), pursuing ambitious decarbonization goals, is significantly recalibrating its emissions compliance regime with the Carbon Border Adjustment Mechanism (CBAM). This new border..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -125,14 +70,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "TotalEnergies Acquires Shell’s European Onshore Renewables Business",
-      "description": "French energy giant TotalEnergies announced 2 key clean energy transactions on Monday, including a deal",
-      "url": "https://www.esgtoday.com/totalenergies-acquires-shells-european-onshore-renewables-business/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-acquires-shells-european-onshore-renewables-business",
-      "publishedAt": "2026-08-03T09:43:21",
-      "content": "French energy giant TotalEnergies announced 2 key clean energy transactions on Monday, including a deal"
+      "author": "Good On You",
+      "title": "Material Guide: How Sustainable is PVC?",
+      "description": "PVC is one of the world’s most used plastics since it can take so many forms.",
+      "url": "https://goodonyou.eco/how-sustainable-is-pvc/",
+      "publishedAt": "2026-08-09T23:00:21",
+      "content": "PVC is one of the world’s most used plastics since it can take so many forms."
     },
     {
       "source": {
@@ -147,36 +92,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Bain Appoints Matteo Capellini as Global Head of Sustainability Value Creation Solution",
-      "description": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of",
-      "url": "https://www.esgtoday.com/bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution/?utm_source=rss&utm_medium=rss&utm_campaign=bain-appoints-matteo-capellini-as-global-head-of-sustainability-value-creation-solution",
-      "publishedAt": "2026-08-03T14:39:54",
-      "content": "Global consultancy Bain & Company announced the appointment of Matteo Capellini as Global Head of"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "U.S. Sustainable Fund Flows Turn Positive for First Time Since 2022: Morningstar",
-      "description": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four",
-      "url": "https://www.esgtoday.com/u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-sustainable-fund-flows-turn-positive-for-first-time-since-2022-morningstar",
-      "publishedAt": "2026-08-03T11:31:28",
-      "content": "U.S. sustainable investment fund net flows turned positive for the first time in nearly four"
+      "author": "The Guardian",
+      "title": "Three-quarters of England in drought as summer’s fifth heatwave looms",
+      "description": "Four more regions given drought status, putting 27 million people under restrictions on water useAlmost three-quarters of England is now in drought, as much of Europe braces for its fifth climate c...",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+      "publishedAt": "2026-08-10T16:32:53",
+      "content": "Four more regions given drought status, putting 27 million people under restrictions on water useAlmost three-quarters of England is now in drought, as much of Europe braces for its fifth climate c..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
-      "description": "The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt.",
-      "url": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html",
-      "publishedAt": "2026-08-10T04:01:20",
-      "content": "The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt."
+      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
+      "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "publishedAt": "2026-08-10T13:38:33",
+      "content": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments."
     },
     {
       "source": {
@@ -227,10 +161,10 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Accessories",
+      "title": "Meet the Highest Rated Vegan Fashion and Beauty Brands in Europe",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-accessories/",
-      "publishedAt": "2026-08-04T00:00:54",
+      "url": "https://goodonyou.eco/these-are-the-highest-rated-vegan-fashion-and-beauty-brands-in-europe/",
+      "publishedAt": "2026-08-11T00:00:00",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
@@ -238,55 +172,110 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T06:15:13",
-      "content": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai."
+      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
+      "description": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
+      "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T22:40:23",
+      "content": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
-      "description": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
-      "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T23:02:39",
-      "content": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes."
+      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T19:17:11",
+      "content": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'That fire came so fast': Wildfire rages in British Columbia",
+      "description": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday.",
+      "url": "https://www.bbc.co.uk/news/videos/cx2d4gg57eqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T17:29:05",
+      "content": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "When and where to see the solar eclipse in Scotland",
+      "description": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T15:29:51",
+      "content": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Best places to see partial solar eclipse across England",
+      "description": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
+      "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-10T15:21:47",
+      "content": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "How clean air clubs are protecting Americans from wildfire smoke",
-      "description": "Mutual aid groups that started giving out PPEs during Covid are now loaning air purifiers and distributing masks to fume-addled communitiesMiquette Thompson’s home in rural Mendocino county has bee...",
-      "url": "https://www.theguardian.com/us-news/2026/aug/09/us-wildfire-smoke-clean-air-clubs",
-      "publishedAt": "2026-08-09T15:00:20",
-      "content": "Mutual aid groups that started giving out PPEs during Covid are now loaning air purifiers and distributing masks to fume-addled communitiesMiquette Thompson’s home in rural Mendocino county has bee..."
+      "title": "Jean hoped bird flu wouldn’t come to Australia. Then it arrived – and she saw a tern ‘trembling and swaying’",
+      "description": "Volunteers are on the lookout for sick birds as outbreak shatters ‘fairytale belief’ that disease would not reach AustraliaGet our breaking news email, free app or daily news podcastBird enthusiast...",
+      "url": "https://www.theguardian.com/world/2026/aug/11/south-australian-volunteers-help-sick-birds-avian-flu",
+      "publishedAt": "2026-08-10T15:00:48",
+      "content": "Volunteers are on the lookout for sick birds as outbreak shatters ‘fairytale belief’ that disease would not reach AustraliaGet our breaking news email, free app or daily news podcastBird enthusiast..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Stuff of nightmares? Meet the bootlace worm – super-long, super-elastic, and it fires toxic slime",
+      "description": "Its mucus, which can kill crabs and cockroaches, could be the basis of new insecticidesIt’s the shuddery stuff of nightmares for some, but for a select group who admire extending ladders, giraffes ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/bootlace-worm-invertebrate-of-the-year-2026",
+      "publishedAt": "2026-08-10T11:00:43",
+      "content": "Its mucus, which can kill crabs and cockroaches, could be the basis of new insecticidesIt’s the shuddery stuff of nightmares for some, but for a select group who admire extending ladders, giraffes ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Harry Potter fans force relocation of £430m undersea cable to avoid Dobby’s ‘grave’",
+      "description": "Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beachHarry Potter fans have forced a new multimillion-pound power cable betwee...",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/harry-potter-fans-force-relocation-of-430m-undersea-cable-to-avoid-dobbys-grave",
+      "publishedAt": "2026-08-10T07:46:52",
+      "content": "Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beachHarry Potter fans have forced a new multimillion-pound power cable betwee..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-      "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "publishedAt": "2026-08-08T18:17:03",
-      "content": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments."
+      "title": "Extreme Heat Comes for the Red Chile Capital of Pakistan",
+      "description": "The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt.",
+      "url": "https://www.nytimes.com/2026/08/10/world/asia/pakistan-red-chiles-climate-change.html",
+      "publishedAt": "2026-08-10T04:01:20",
+      "content": "The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt."
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "The Guardian"
       },
-      "author": "Triple Pundit",
-      "title": "Planned USDA Restructuring Will Hurt Farmers Already at the Brink, Advocates Say",
-      "description": "Amid heavy criticism, the USDA plans to go ahead with a massive reorganization and forced relocation of nearly 3,000 workers.",
-      "url": "https://triplepundit.com/2026/usda-reorganization-restructuring-hurt-farmers/",
-      "publishedAt": "2026-08-07T16:16:06",
-      "content": "Amid heavy criticism, the USDA plans to go ahead with a massive reorganization and forced relocation of nearly 3,000 workers."
+      "author": "The Guardian",
+      "title": "Country diary: The thin, hungry fox goes for the sleepy hen | Nic Wilson",
+      "description": "Hitchin, Hertfordshire: A rare daytime attack on our chickens led to a standoff.",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/country-diary-the-thin-hungry-fox-goes-for-the-sleeping-hen",
+      "publishedAt": "2026-08-10T04:30:34",
+      "content": "Hitchin, Hertfordshire: A rare daytime attack on our chickens led to a standoff."
     },
     {
       "source": {
@@ -301,28 +290,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Nevada Partnership for Homeless Youth and Las Vegas Sands Announce the 2026 Nevada Youth Homelessness Summit is Scheduled for Nov. 13",
-      "description": "Nevada Partnership for Homeless Youth and Las Vegas Sands will co-present the 2026 Nevada Youth Homelessness Summit on Friday, Nov. 13, at the Historic Fifth Street School in Downtown Las Vegas.",
-      "url": "https://csrwire.com/press-release/nevada-partnership-homeless-youth-and-las-vegas-sands-announce-2026-nevada-youth-homelessness/",
-      "publishedAt": "2026-08-07T11:20:00",
-      "content": "Nevada Partnership for Homeless Youth and Las Vegas Sands will co-present the 2026 Nevada Youth Homelessness Summit on Friday, Nov. 13, at the Historic Fifth Street School in Downtown Las Vegas."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco: Powering Partner Growth Through Skills-Based Talent Connections",
-      "description": "At the core of every Cisco solution is the talent that brings it to life.",
-      "url": "https://csrwire.com/press-release/cisco-powering-partner-growth-through-skills-based-talent-connections/",
-      "publishedAt": "2026-08-07T10:05:00",
-      "content": "At the core of every Cisco solution is the talent that brings it to life."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -334,105 +301,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
-      "description": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T06:30:35",
-      "content": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Most of sun to be eclipsed across island of Ireland",
-      "description": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
-      "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-09T05:19:17",
-      "content": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
-      "description": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
-      "url": "https://www.bbc.co.uk/news/articles/c9q94lxqrzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T19:00:22",
-      "content": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-08T15:15:17",
-      "content": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The ornithological artist drawing 1,000 birds by hand – all for an app that wants you off your phone",
-      "description": "The mission of the Flock app is quietly subversive: to encourage users to ditch their screens and explore the wonderful world of birdingOn a brilliantly bright afternoon in his gallery and studio i...",
-      "url": "https://www.theguardian.com/us-news/2026/aug/08/birds-artist-flock-app-california",
-      "publishedAt": "2026-08-08T11:00:47",
-      "content": "The mission of the Flock app is quietly subversive: to encourage users to ditch their screens and explore the wonderful world of birdingOn a brilliantly bright afternoon in his gallery and studio i..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
-      "description": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalentA thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Er...",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
-      "publishedAt": "2026-08-08T05:00:37",
-      "content": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalentA thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Er..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: We’ve had fires here in the Cairngorms before. This one has changed things | Amanda Thomson",
-      "description": "Abernethy: It’s been a period of heartbreak and gratitude, mourning the scorched landscape and staying away from home when the smoke got too closeParts of the Cairngorms have been on fire for over ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/08/country-diary-weve-had-fires-here-in-the-cairngorms-before-but-this-one-has-changed-things",
-      "publishedAt": "2026-08-08T04:30:36",
-      "content": "Abernethy: It’s been a period of heartbreak and gratitude, mourning the scorched landscape and staying away from home when the smoke got too closeParts of the Cairngorms have been on fire for over ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hosepipe bans in force as drought declared - is your area affected?",
-      "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
-      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T17:50:13",
-      "content": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Is this the best day of the year for stargazing?",
-      "description": "Put 12 August in the diary for some of the best astronomical events of the year.",
-      "url": "https://www.bbc.co.uk/news/videos/cd7l49xn14go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-07T15:30:46",
-      "content": "Put 12 August in the diary for some of the best astronomical events of the year."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -441,61 +309,6 @@
       "url": "https://www.climatechangenews.com/2026/08/06/as-heatwave-hits-caribbean-its-not-just-el-nino-to-blame/",
       "publishedAt": "2026-08-06T15:36:14",
       "content": "Climate change means El Niño is heating already hotter land and sea, causing devastation across the region and the world\nThe post When taps run dry in the Caribbean, it’s not enough to blame El Niñ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Partners With the National Association of Hispanic Journalists To Support Student Journalists",
-      "description": "Entergy is expanding its partnership with the National Association of Hispanic Journalists, or NAHJ, reinforcing our commitment to supporting the next generation of storytellers.",
-      "url": "https://csrwire.com/press-release/entergy-partners-national-association-hispanic-journalists-support-student-journalists/",
-      "publishedAt": "2026-08-06T15:10:00",
-      "content": "Entergy is expanding its partnership with the National Association of Hispanic Journalists, or NAHJ, reinforcing our commitment to supporting the next generation of storytellers."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "The Alaska Native Villages Where Rivers Provide Power",
-      "description": "In one Alaskan village, turbines have harnessed electricity from the river since 2019.",
-      "url": "https://triplepundit.com/2026/hydrokinetic-river-turbine-renewable-energy-alaska-salmon/",
-      "publishedAt": "2026-08-06T12:00:00",
-      "content": "In one Alaskan village, turbines have harnessed electricity from the river since 2019."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Boutique Optician Sees Revenue Grow 20% With Smarter Business Moves",
-      "description": "Destynee Turner became an optician because she loves helping people see.",
-      "url": "https://csrwire.com/press-release/boutique-optician-sees-revenue-grow-20-smarter-business-moves/",
-      "publishedAt": "2026-08-06T11:15:00",
-      "content": "Destynee Turner became an optician because she loves helping people see."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mary Kay’s Pink Changing Lives® Program Surpasses 4 Million Women Reached Worldwide",
-      "description": "Mary Kay Inc.",
-      "url": "https://csrwire.com/press-release/mary-kays-pink-changing-livesr-program-surpasses-4-million-women-reached-worldwide/",
-      "publishedAt": "2026-08-06T11:00:00",
-      "content": "Mary Kay Inc."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Free to Wander: Expert Advice on Exploring With Confidence and Peace of Mind",
-      "description": "For today’s adventurers, technology isn’t pulling people away from the experience — it’s helping them explore with more confidence.",
-      "url": "https://csrwire.com/press-release/free-wander-expert-advice-exploring-confidence-and-peace-mind/",
-      "publishedAt": "2026-08-06T09:05:00",
-      "content": "For today’s adventurers, technology isn’t pulling people away from the experience — it’s helping them explore with more confidence."
     },
     {
       "source": {
@@ -529,17 +342,6 @@
       "url": "https://www.esgtoday.com/mombak-delivers-amazon-reforestation-carbon-credits-to-google-mckinsey-2-years-early/?utm_source=rss&utm_medium=rss&utm_campaign=mombak-delivers-amazon-reforestation-carbon-credits-to-google-mckinsey-2-years-early",
       "publishedAt": "2026-08-05T08:25:27",
       "content": "Brazil-based carbon project developer Mombak announced the delivery of its first reforestation-based carbon removal credits"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Nigerian Farmers Cut Fuel Costs and Boost Yields with Solar-Powered Irrigation",
-      "description": "Nigerian farmers are facing all-time high fuel prices, hindering their ability to grow in the dry season.",
-      "url": "https://triplepundit.com/2026/nigeria-drought-smallholder-farmers-solar-powered-irrigation/",
-      "publishedAt": "2026-08-04T12:00:00",
-      "content": "Nigerian farmers are facing all-time high fuel prices, hindering their ability to grow in the dry season."
     },
     {
       "source": {
