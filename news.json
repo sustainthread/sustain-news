@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 32,
+  "totalResults": 43,
   "articles": [
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This August 2026",
-      "description": "Feature image: Elk.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-08-04T22:00:45",
-      "content": "Feature image: Elk."
+      "author": "CSRWire",
+      "title": "MetLife 2025 Sustainability Report: Benefits and Well-Being",
+      "description": "MetLife offers extensive benefits and resources for our employees to prioritize their health, financial security and overall well‑being—so they can thrive at work and beyond.",
+      "url": "https://csrwire.com/press-release/metlife-2025-sustainability-report-benefits-and-well-being/",
+      "publishedAt": "2026-08-11T09:40:00",
+      "content": "MetLife offers extensive benefits and resources for our employees to prioritize their health, financial security and overall well‑being—so they can thrive at work and beyond."
     },
     {
       "source": {
@@ -23,6 +23,17 @@
       "url": "https://www.climatechangenews.com/2026/08/05/southeast-asia-fragile-grids-threaten-billions-in-clean-energy-investment/",
       "publishedAt": "2026-08-05T10:10:51",
       "content": "Renewables developers need reliable electricity infrastructure and stable policies to help the region meet climate goals and surging demand for power\nThe post Southeast Asia’s fragile grids threate..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Carnival Raises, Accelerates Emissions Reduction Goal",
+      "description": "Global cruise company Carnival Corporation announced a new climate target to reduce greenhouse gas (GHG)",
+      "url": "https://www.esgtoday.com/carnival-increases-accelerates-emissions-reduction-goal/?utm_source=rss&utm_medium=rss&utm_campaign=carnival-increases-accelerates-emissions-reduction-goal",
+      "publishedAt": "2026-08-11T16:51:43",
+      "content": "Global cruise company Carnival Corporation announced a new climate target to reduce greenhouse gas (GHG)"
     },
     {
       "source": {
@@ -48,28 +59,6 @@
     },
     {
       "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "No solar, wind, renewable energy project within 1 km of international border, says Home Ministry",
-      "description": "Bar on Chinese, Bangadeshi and Pakistani engineers or staff in such projects, say new guidelines",
-      "url": "https://www.thehindu.com/news/national/no-solar-wind-renewable-energy-project-within-1-km-of-international-border-says-home-ministry/article71319150.ece",
-      "publishedAt": "2026-08-08T23:55:47",
-      "content": "Bar on Chinese, Bangadeshi and Pakistani engineers or staff in such projects, say new guidelines"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Sonnedix Secures €730 Million to Develop Renewables Portfolio in Southern Europe",
-      "description": "Renewable energy company Sonnedix announced today that it has secured €730 million (USD$840 million) for",
-      "url": "https://www.esgtoday.com/sonnedix-secures-e730-million-to-develop-renewables-portfolio-in-southern-europe/?utm_source=rss&utm_medium=rss&utm_campaign=sonnedix-secures-e730-million-to-develop-renewables-portfolio-in-southern-europe",
-      "publishedAt": "2026-08-04T08:20:01",
-      "content": "Renewable energy company Sonnedix announced today that it has secured €730 million (USD$840 million) for"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -81,36 +70,113 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Hindu"
       },
-      "author": "New York Times",
-      "title": "Birds Are Dying. Clues Point to El Niño.",
-      "description": "A die-off of seabirds has some experts thinking an El Niño weather pattern is to blame, a look at data centers and pollution, and more climate news.",
-      "url": "https://www.nytimes.com/2026/08/06/climate/bird-die-offs-el-nino.html",
-      "publishedAt": "2026-08-06T18:40:57",
-      "content": "A die-off of seabirds has some experts thinking an El Niño weather pattern is to blame, a look at data centers and pollution, and more climate news."
+      "author": "The Hindu",
+      "title": "No solar, wind, renewable energy project within 1 km of international border, says Home Ministry",
+      "description": "Bar on Chinese, Bangadeshi and Pakistani engineers or staff in such projects, say new guidelines",
+      "url": "https://www.thehindu.com/news/national/no-solar-wind-renewable-energy-project-within-1-km-of-international-border-says-home-ministry/article71319150.ece",
+      "publishedAt": "2026-08-08T23:55:47",
+      "content": "Bar on Chinese, Bangadeshi and Pakistani engineers or staff in such projects, say new guidelines"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Three-quarters of England in drought as summer’s fifth heatwave looms",
-      "description": "Four more regions given drought status, putting 27 million people under restrictions on water useAlmost three-quarters of England is now in drought, as much of Europe braces for its fifth climate c...",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
-      "publishedAt": "2026-08-10T16:32:53",
-      "content": "Four more regions given drought status, putting 27 million people under restrictions on water useAlmost three-quarters of England is now in drought, as much of Europe braces for its fifth climate c..."
+      "author": "BBC",
+      "title": "British driver who broke sound barrier sets new speed record",
+      "description": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h).",
+      "url": "https://www.bbc.co.uk/news/articles/czjl2yzx8epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T05:24:53",
+      "content": "Andy Green set the fastest time ever recorded in a hydrogen-powered car, reaching 406mph (654km/h)."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+      "description": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T23:17:15",
+      "content": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "New Amazon Data Center Stokes Worry It Would Be the Most Polluting Power Plant in the U.S.",
-      "description": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.",
-      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
-      "publishedAt": "2026-08-10T13:38:33",
-      "content": "The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments."
+      "title": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
+      "description": "Businesses are reckoning with the financial toll of this year’s brutal climate shocks.",
+      "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
+      "publishedAt": "2026-08-11T16:58:58",
+      "content": "Businesses are reckoning with the financial toll of this year’s brutal climate shocks."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Unique Attractions Bring Unparalleled Experiences to Sands’ Resort Guests",
+      "description": "As major tourism generators in Singapore and Macao, Sands’ integrated resorts deliver an array of amenities and attractions to attract global visitors.",
+      "url": "https://csrwire.com/press-release/unique-attractions-bring-unparalleled-experiences-sands-resort-guests/",
+      "publishedAt": "2026-08-11T10:00:00",
+      "content": "As major tourism generators in Singapore and Macao, Sands’ integrated resorts deliver an array of amenities and attractions to attract global visitors."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Elanco’s CLiK™ Extra (Dicyclanil Topical Suspension) Wound Spray Receives FDA Emergency Use Authorization for Application on or Around Wounds for Prevention of New World Screwworm in Variety of Livestock and Captive and Captured Wildlife Species",
+      "description": "Elanco Animal Health Incorporated (NYSE: ELAN) has announced it has received Emergency Use Authorization (EUA) from the U.",
+      "url": "https://csrwire.com/press-release/elancos-cliktm-extra-dicyclanil-topical-suspension-wound-spray-receives-fda-emergency-use/",
+      "publishedAt": "2026-08-11T09:45:00",
+      "content": "Elanco Animal Health Incorporated (NYSE: ELAN) has announced it has received Emergency Use Authorization (EUA) from the U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Growing the Next Generation of Farmers",
+      "description": "As farmers retire and fewer young people enter agriculture, new efforts across Europe, the U.S., Africa, and Latin America are helping the next generation find a pathway into farming.",
+      "url": "https://csrwire.com/press-release/growing-next-generation-farmers/",
+      "publishedAt": "2026-08-11T09:05:00",
+      "content": "As farmers retire and fewer young people enter agriculture, new efforts across Europe, the U.S., Africa, and Latin America are helping the next generation find a pathway into farming."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "5 Smartphone Habits Every Family Should Teach Before School Starts",
+      "description": "For many parents it seems like just yesterday you were getting your kid their new backpack to start off the school year in style – and somehow it’s already time to navigate another big back-to-scho...",
+      "url": "https://csrwire.com/press-release/5-smartphone-habits-every-family-should-teach-school-starts/",
+      "publishedAt": "2026-08-11T09:05:00",
+      "content": "For many parents it seems like just yesterday you were getting your kid their new backpack to start off the school year in style – and somehow it’s already time to navigate another big back-to-scho..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Apply for the Digital Ready AI Accelerator",
+      "description": "The Digital Ready AI Accelerator is a free, exclusive 12-week program, sponsored by Verizon Small Business Digital Ready in partnership with Next Street, that begins this September and helps small ...",
+      "url": "https://csrwire.com/press-release/apply-digital-ready-ai-accelerator/",
+      "publishedAt": "2026-08-11T08:05:00",
+      "content": "The Digital Ready AI Accelerator is a free, exclusive 12-week program, sponsored by Verizon Small Business Digital Ready in partnership with Next Street, that begins this September and helps small ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco Launches 40 Communities Johannesburg: A New Chapter of Community-Led Transformation in South Africa",
+      "description": "As part of my work at Cisco, I often emphasize the power of proximity and how true impact isn’t delivered from a distance; it happens when we show up, listen, and align our global resources with th...",
+      "url": "https://csrwire.com/press-release/cisco-launches-40-communities-johannesburg-new-chapter-community-led-transformation-south/",
+      "publishedAt": "2026-08-11T08:05:00",
+      "content": "As part of my work at Cisco, I often emphasize the power of proximity and how true impact isn’t delivered from a distance; it happens when we show up, listen, and align our global resources with th..."
     },
     {
       "source": {
@@ -136,35 +202,24 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "Better Brand Edit: Investment Pieces From More Sustainable Brands",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-investment-pieces/",
-      "publishedAt": "2026-08-05T00:55:45",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Is FOMO undermining climate diplomacy?",
-      "description": "The negotiating community has not become 20 times larger, but the COP has - and the rising number of participants, from politicians to business executives, is getting in the way of the task at hand...",
-      "url": "https://www.climatechangenews.com/2026/08/04/is-fomo-undermining-climate-diplomacy/",
-      "publishedAt": "2026-08-04T16:55:01",
-      "content": "The negotiating community has not become 20 times larger, but the COP has - and the rising number of participants, from politicians to business executives, is getting in the way of the task at hand..."
+      "author": "BBC",
+      "title": "Solar eclipse and the island of Ireland: The weather forecast and all you need to know",
+      "description": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.",
+      "url": "https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-12T06:33:47",
+      "content": "Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower."
     },
     {
       "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "Meet the Highest Rated Vegan Fashion and Beauty Brands in Europe",
+      "title": "13 Pretty Pointelle Picks From More Ethical Brands",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/these-are-the-highest-rated-vegan-fashion-and-beauty-brands-in-europe/",
-      "publishedAt": "2026-08-11T00:00:00",
+      "url": "https://goodonyou.eco/more-sustainable-pointelle-fashion/",
+      "publishedAt": "2026-08-12T01:01:20",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
@@ -172,44 +227,77 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Jackie, the famous California bald eagle, dies after weeks of intensive care",
-      "description": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam.",
-      "url": "https://www.bbc.co.uk/news/articles/c62vj8eywdlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T22:40:23",
-      "content": "Jackie and her partner, Shadow, had been watched by millions of people over the years through the Big Bear Eagle Nest Cam."
+      "title": "Watch: Severe storms overturn vehicle and trigger flooding in Ohio",
+      "description": "Residents are being urged to prepare for additional severe storms in the coming days, as officials also report at least one fatality.",
+      "url": "https://www.bbc.co.uk/news/videos/cy451xqkdz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T20:56:08",
+      "content": "Residents are being urged to prepare for additional severe storms in the coming days, as officials also report at least one fatality."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-      "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T19:17:11",
-      "content": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region."
+      "title": "Solar eclipse glasses 'sold out everywhere' as people look for alternatives",
+      "description": "Eclipse glasses can offer protection from harmful rays of sunlight but most high street stores have sold out.",
+      "url": "https://www.bbc.co.uk/news/articles/c2lqwyxj024o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T17:58:11",
+      "content": "Eclipse glasses can offer protection from harmful rays of sunlight but most high street stores have sold out."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "An Electric Motorcycle Revolution",
+      "description": "With gas prices high, people in developing countries are lining up to buy battery-powered bikes. We took a spin around Lahore, Pakistan, on a small-but-mighty one.",
+      "url": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html",
+      "publishedAt": "2026-08-11T17:47:26",
+      "content": "With gas prices high, people in developing countries are lining up to buy battery-powered bikes. We took a spin around Lahore, Pakistan, on a small-but-mighty one."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "'That fire came so fast': Wildfire rages in British Columbia",
-      "description": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday.",
-      "url": "https://www.bbc.co.uk/news/videos/cx2d4gg57eqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T17:29:05",
-      "content": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday."
+      "title": "Eclipse chasers scramble for glasses as stocks run low",
+      "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T16:31:43",
+      "content": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "South Africa’s offshore oil push meets grassroots resistance in court",
+      "description": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels\nThe post South Africa’s offshore oil push meets grassroots resistance in ...",
+      "url": "https://www.climatechangenews.com/2026/08/11/south-africas-offshore-oil-push-ground-resistance-courts-litigation-ocean/",
+      "publishedAt": "2026-08-11T16:30:26",
+      "content": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels\nThe post South Africa’s offshore oil push meets grassroots resistance in ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Real struggle’ to tame New Forest blaze as UK set for hottest summer on record",
+      "description": "Key tourist route closed and residents rallying round as battle against wildfire expected to go on for several daysThe battle to contain a large wildfire spreading across the New Forest will go on ...",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/11/new-forest-blaze-uk-hottest-summer-weather",
+      "publishedAt": "2026-08-11T15:49:18",
+      "content": "Key tourist route closed and residents rallying round as battle against wildfire expected to go on for several daysThe battle to contain a large wildfire spreading across the New Forest will go on ..."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "When and where to see the solar eclipse in Scotland",
-      "description": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
-      "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T15:29:51",
-      "content": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999."
+      "title": "Solar eclipse 2026 weather forecast – where and when will the best view be?",
+      "description": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many.",
+      "url": "https://www.bbc.co.uk/weather/articles/c23592z7gppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-11T15:02:33",
+      "content": "Look to the skies on Wednesday because one of the most spectacular solar eclipses for decades is coming the UK's way with likely optimum viewing conditions for many."
     },
     {
       "source": {
@@ -219,41 +307,41 @@
       "title": "Best places to see partial solar eclipse across England",
       "description": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August.",
       "url": "https://www.bbc.co.uk/news/articles/cdx7kzv5e3qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-10T15:21:47",
+      "publishedAt": "2026-08-11T12:35:04",
       "content": "Some parts of England could see up to 96 per cent of the moon covering the sun on 12 August."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Jean hoped bird flu wouldn’t come to Australia. Then it arrived – and she saw a tern ‘trembling and swaying’",
-      "description": "Volunteers are on the lookout for sick birds as outbreak shatters ‘fairytale belief’ that disease would not reach AustraliaGet our breaking news email, free app or daily news podcastBird enthusiast...",
-      "url": "https://www.theguardian.com/world/2026/aug/11/south-australian-volunteers-help-sick-birds-avian-flu",
-      "publishedAt": "2026-08-10T15:00:48",
-      "content": "Volunteers are on the lookout for sick birds as outbreak shatters ‘fairytale belief’ that disease would not reach AustraliaGet our breaking news email, free app or daily news podcastBird enthusiast..."
+      "author": "CSRWire",
+      "title": "3BL's AI Visibility Tracker Gives Brands a Benchmark for Visibility in AI-Powered Search",
+      "description": "3BL's AI Visibility Tracker benchmarks brand visibility in AI-powered search against named competitors, giving communications teams a measurable, repeatable KPI to track each quarter.",
+      "url": "https://csrwire.com/press-release/3bls-ai-visibility-tracker-gives-brands-benchmark-visibility-ai-powered-search/",
+      "publishedAt": "2026-08-10T20:15:00",
+      "content": "3BL's AI Visibility Tracker benchmarks brand visibility in AI-powered search against named competitors, giving communications teams a measurable, repeatable KPI to track each quarter."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "Stuff of nightmares? Meet the bootlace worm – super-long, super-elastic, and it fires toxic slime",
-      "description": "Its mucus, which can kill crabs and cockroaches, could be the basis of new insecticidesIt’s the shuddery stuff of nightmares for some, but for a select group who admire extending ladders, giraffes ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/bootlace-worm-invertebrate-of-the-year-2026",
-      "publishedAt": "2026-08-10T11:00:43",
-      "content": "Its mucus, which can kill crabs and cockroaches, could be the basis of new insecticidesIt’s the shuddery stuff of nightmares for some, but for a select group who admire extending ladders, giraffes ..."
+      "author": "Triple Pundit",
+      "title": "Will Balcony Solar Ever Take Off in the United States?",
+      "description": "Balcony solar systems help people reduce their utility bills, with solar power feeding directly into a standard wall outlet to replace energy from the grid. The balcony solar movement in the U.S. i...",
+      "url": "https://triplepundit.com/2026/what-is-balcony-solar-development-united-states/",
+      "publishedAt": "2026-08-10T12:00:00",
+      "content": "Balcony solar systems help people reduce their utility bills, with solar power feeding directly into a standard wall outlet to replace energy from the grid. The balcony solar movement in the U.S. i..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Harry Potter fans force relocation of £430m undersea cable to avoid Dobby’s ‘grave’",
-      "description": "Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beachHarry Potter fans have forced a new multimillion-pound power cable betwee...",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/harry-potter-fans-force-relocation-of-430m-undersea-cable-to-avoid-dobbys-grave",
-      "publishedAt": "2026-08-10T07:46:52",
-      "content": "Power cable linking UK and Ireland now passes near Bronze Age human burial remains instead of fictional grave on Welsh beachHarry Potter fans have forced a new multimillion-pound power cable betwee..."
+      "author": "CSRWire",
+      "title": "Whirlpool Community Golf Event Raises $3 Million for Southwest Michigan Youth",
+      "description": "With 800+ golfers across six courses, the annual event brings its lifetime fundraising total to approximately $40 million.",
+      "url": "https://csrwire.com/press-release/whirlpool-community-golf-event-raises-3-million-southwest-michigan-youth/",
+      "publishedAt": "2026-08-10T10:00:00",
+      "content": "With 800+ golfers across six courses, the annual event brings its lifetime fundraising total to approximately $40 million."
     },
     {
       "source": {
@@ -271,11 +359,44 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: The thin, hungry fox goes for the sleepy hen | Nic Wilson",
-      "description": "Hitchin, Hertfordshire: A rare daytime attack on our chickens led to a standoff.",
-      "url": "https://www.theguardian.com/environment/2026/aug/10/country-diary-the-thin-hungry-fox-goes-for-the-sleeping-hen",
-      "publishedAt": "2026-08-10T04:30:34",
-      "content": "Hitchin, Hertfordshire: A rare daytime attack on our chickens led to a standoff."
+      "title": "They cannot even flush their toilets: life in east London blocks where taps often run dry",
+      "description": "Devons Road estate residents describe months-long ordeal of not being able to wash, clean or cook for much of the dayHundreds in London flats left without regular running water since last yearChris...",
+      "url": "https://www.theguardian.com/environment/2026/aug/11/east-london-blocks-residents-without-water-supply-tower-hamlets",
+      "publishedAt": "2026-08-11T05:00:05",
+      "content": "Devons Road estate residents describe months-long ordeal of not being able to wash, clean or cook for much of the dayHundreds in London flats left without regular running water since last yearChris..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: With parched fields all around, we say thank you for the water | Ed Douglas",
+      "description": "Stoney Middleton, Derbyshire: The tradition of well dressing is strong in the Peaks, and this year, I found one featuring a certain 100-year-old naturalist I could already hear the noises of apprec...",
+      "url": "https://www.theguardian.com/environment/2026/aug/11/country-diary-surrounded-by-parched-fields-we-say-a-traditional-thank-you-for-water",
+      "publishedAt": "2026-08-11T04:30:03",
+      "content": "Stoney Middleton, Derbyshire: The tradition of well dressing is strong in the Peaks, and this year, I found one featuring a certain 100-year-old naturalist I could already hear the noises of apprec..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Meet the Highest Rated Vegan Fashion and Beauty Brands in Europe",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/these-are-the-highest-rated-vegan-fashion-and-beauty-brands-in-europe/",
+      "publishedAt": "2026-08-11T00:00:00",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Planned USDA Restructuring Will Hurt Farmers Already at the Brink, Advocates Say",
+      "description": "Amid heavy criticism, the USDA plans to go ahead with a massive reorganization and forced relocation of nearly 3,000 workers.",
+      "url": "https://triplepundit.com/2026/usda-reorganization-restructuring-hurt-farmers/",
+      "publishedAt": "2026-08-07T16:16:06",
+      "content": "Amid heavy criticism, the USDA plans to go ahead with a massive reorganization and forced relocation of nearly 3,000 workers."
     },
     {
       "source": {
@@ -312,6 +433,17 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Alaska Native Villages Where Rivers Provide Power",
+      "description": "In one Alaskan village, turbines have harnessed electricity from the river since 2019.",
+      "url": "https://triplepundit.com/2026/hydrokinetic-river-turbine-renewable-energy-alaska-salmon/",
+      "publishedAt": "2026-08-06T12:00:00",
+      "content": "In one Alaskan village, turbines have harnessed electricity from the river since 2019."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -342,17 +474,6 @@
       "url": "https://www.esgtoday.com/mombak-delivers-amazon-reforestation-carbon-credits-to-google-mckinsey-2-years-early/?utm_source=rss&utm_medium=rss&utm_campaign=mombak-delivers-amazon-reforestation-carbon-credits-to-google-mckinsey-2-years-early",
       "publishedAt": "2026-08-05T08:25:27",
       "content": "Brazil-based carbon project developer Mombak announced the delivery of its first reforestation-based carbon removal credits"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Home Battery Startup Base Power Raises $1 Billion at $13 Billion Valuation",
-      "description": "Home energy and battery storage company Base Power announced today that it has raised $1",
-      "url": "https://www.esgtoday.com/home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=home-battery-startup-base-power-raises-1-billion-at-13-billion-valuation",
-      "publishedAt": "2026-08-04T07:01:02",
-      "content": "Home energy and battery storage company Base Power announced today that it has raised $1"
     }
   ]
 }
