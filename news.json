@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 40,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Green groups urge Andy Burnham to break silence on climate crisis",
+      "description": "More than 50 organisations say PM urgently needs to show leadership and prepare British people for scale of change needed as UK struggles through another heatwaveUK politics live – latest updatesTh...",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/green-groups-urge-andy-burnham-to-break-silence-on-climate-crisis",
+      "publishedAt": "2026-08-14T10:58:14",
+      "content": "More than 50 organisations say PM urgently needs to show leadership and prepare British people for scale of change needed as UK struggles through another heatwaveUK politics live – latest updatesTh..."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,6 +37,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CIP Raises $3 Billion for Growth Markets-Focused Clean Energy Infrastructure Fund",
+      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced that it has raised $3 billion",
+      "url": "https://www.esgtoday.com/cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund",
+      "publishedAt": "2026-08-14T12:07:57",
+      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced that it has raised $3 billion"
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -37,14 +59,25 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Generations of fish 'wiped out' after pollution incident",
-      "description": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxp5lp9ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T15:21:34",
-      "content": "The Department of Environment said 5km of the Kilkeel River in the Mournes area was impacted."
+      "author": "ESG Today",
+      "title": "Deepki Acquires Real Estate Sustainability Consulting and Data Platforms Evora, Metry",
+      "description": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy",
+      "url": "https://www.esgtoday.com/deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry/?utm_source=rss&utm_medium=rss&utm_campaign=deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry",
+      "publishedAt": "2026-08-14T11:21:32",
+      "content": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law",
+      "description": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills.",
+      "url": "https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html",
+      "publishedAt": "2026-08-14T14:29:17",
+      "content": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills."
     },
     {
       "source": {
@@ -59,28 +92,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Keysight 2025 Corporate Social Responsibility Progress Report: Employee Engagement and Opportunity",
-      "description": "Keysight remains committed to fostering a work environment of opportunity that enables employees to be successful and contribute meaningfully to customers, communities, and society.",
-      "url": "https://csrwire.com/press-release/keysight-2025-corporate-social-responsibility-progress-report-employee-engagement-and/",
-      "publishedAt": "2026-08-13T09:45:00",
-      "content": "Keysight remains committed to fostering a work environment of opportunity that enables employees to be successful and contribute meaningfully to customers, communities, and society."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "From grey water to cool spaces: 10 climate crisis policies Britain needs right now",
-      "description": "Rejecting North Sea drilling licences and protecting nature are just some measures Andy Burnham must implement to ready countryFrom record-smashing temperatures, wildfires, hosepipe bans and thousa...",
-      "url": "https://www.theguardian.com/environment/2026/aug/12/urgent-climate-policies-uk-should-implement-now",
-      "publishedAt": "2026-08-12T14:34:26",
-      "content": "Rejecting North Sea drilling licences and protecting nature are just some measures Andy Burnham must implement to ready countryFrom record-smashing temperatures, wildfires, hosepipe bans and thousa..."
-    },
-    {
-      "source": {
         "name": "The Hindu"
       },
       "author": "The Hindu",
@@ -92,6 +103,138 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "South Africa’s top court blocks Shell’s offshore oil exploration right",
+      "description": "South Africa's Constitutional Court ruled that Shell and its partners failed to consult affected communities and did not properly consider the environmental risks of offshore oil exploration\nThe po...",
+      "url": "https://www.climatechangenews.com/2026/08/14/south-africas-top-court-blocks-shells-offshore-oil-exploration-right/",
+      "publishedAt": "2026-08-14T17:18:04",
+      "content": "South Africa's Constitutional Court ruled that Shell and its partners failed to consult affected communities and did not properly consider the environmental risks of offshore oil exploration\nThe po..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "El Niño may peak at the worst time for the Amazon – and it should worry us all",
+      "description": "Delay to rainy season in forest already damaged by human-driven heating could trigger powerful ‘Godzilla’ El NiñoAs a supercharged climate scorches Europe with wildfire and deluges Asia with floods...",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/el-nino-predicted-peak-amazon-rainforest-climate",
+      "publishedAt": "2026-08-14T10:00:25",
+      "content": "Delay to rainy season in forest already damaged by human-driven heating could trigger powerful ‘Godzilla’ El NiñoAs a supercharged climate scorches Europe with wildfire and deluges Asia with floods..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Keysight 2025 Corporate Social Responsibility Progress Report: Employee Engagement and Opportunity",
+      "description": "Keysight remains committed to fostering a work environment of opportunity that enables employees to be successful and contribute meaningfully to customers, communities, and society.",
+      "url": "https://csrwire.com/press-release/keysight-2025-corporate-social-responsibility-progress-report-employee-engagement-and/",
+      "publishedAt": "2026-08-13T09:45:00",
+      "content": "Keysight remains committed to fostering a work environment of opportunity that enables employees to be successful and contribute meaningfully to customers, communities, and society."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Material Guide: How Sustainable is PVC?",
+      "description": "PVC is one of the world’s most used plastics since it can take so many forms.",
+      "url": "https://goodonyou.eco/how-sustainable-is-pvc/",
+      "publishedAt": "2026-08-09T23:00:21",
+      "content": "PVC is one of the world’s most used plastics since it can take so many forms."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The Great Stink of 2026? Hot, dry summer leaves London holding its nose",
+      "description": "Experts say putrid stench shows overhaul of sewers is needed – like the one prompted by the Great Stink of 1858London was “reeking with ineffable and intolerable horrors” after weeks of temperature...",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/15/great-stink-london-heat-drought-sewers",
+      "publishedAt": "2026-08-15T05:00:48",
+      "content": "Experts say putrid stench shows overhaul of sewers is needed – like the one prompted by the Great Stink of 1858London was “reeking with ineffable and intolerable horrors” after weeks of temperature..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments",
+      "description": "Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah.",
+      "url": "https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html",
+      "publishedAt": "2026-08-14T21:04:28",
+      "content": "Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Extreme Heat Is The New Normal",
+      "description": "Record-breaking heat is the new normal. At Station 18 in Phoenix, firefighters are on the front lines tackling it — one bag of ice at a time. Watch the full Op-Doc, “A New Inferno.”",
+      "url": "https://www.nytimes.com/video/opinion/100000011072896/extreme-heat-is-the-new-normal.html",
+      "publishedAt": "2026-08-14T16:52:27",
+      "content": "Record-breaking heat is the new normal. At Station 18 in Phoenix, firefighters are on the front lines tackling it — one bag of ice at a time. Watch the full Op-Doc, “A New Inferno.”"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Days of the farmers' union dictating policy are over' - Muir",
+      "description": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
+      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T16:07:57",
+      "content": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+      "description": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T15:58:21",
+      "content": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Burnham brings in military and bans disposable barbecues in ‘tinderbox’ Britain",
+      "description": "PM temporarily bans barbecue sales as 19 people are taken to hospital during fires in West Midlands Downing Street has issued a temporary GB-wide ban on the sale of disposable barbecues and brought...",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/burnham-temporary-ban-barbecues-tinderbox-britain",
+      "publishedAt": "2026-08-14T14:50:35",
+      "content": "PM temporarily bans barbecue sales as 19 people are taken to hospital during fires in West Midlands Downing Street has issued a temporary GB-wide ban on the sale of disposable barbecues and brought..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "New coal mine openings slow as East Asian demand plateaus",
+      "description": "China and Australia drove global decline in new capacity additions in 2025, but planned production kept growing\nThe post New coal mine openings slow as East Asian demand plateaus appeared first on ...",
+      "url": "https://www.climatechangenews.com/2026/08/14/new-coal-mine-openings-slow-as-east-asian-demand-plateaus/",
+      "publishedAt": "2026-08-14T11:39:49",
+      "content": "China and Australia drove global decline in new capacity additions in 2025, but planned production kept growing\nThe post New coal mine openings slow as East Asian demand plateaus appeared first on ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The eww holds power’: why disgust shapes how we see nature, queerness and each other",
+      "description": "We learn what to fear and reject from those around us.",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/why-disgust-shapes-how-we-see-nature-queerness-and-each-other",
+      "publishedAt": "2026-08-14T11:10:51",
+      "content": "We learn what to fear and reject from those around us."
+    },
+    {
+      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -100,17 +243,6 @@
       "url": "https://triplepundit.com/2026/flock-safety-fourth-amendment-mass-surveillance/",
       "publishedAt": "2026-08-13T17:46:02",
       "content": "A community cancelled their contract with Flock Safety almost every single day last month."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Effects of Record-Breaking El Niño Are Happening on 3 Continents",
-      "description": "The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.",
-      "url": "https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html",
-      "publishedAt": "2026-08-13T14:53:22",
-      "content": "The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents."
     },
     {
       "source": {
@@ -202,83 +334,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Material Guide: How Sustainable is PVC?",
-      "description": "PVC is one of the world’s most used plastics since it can take so many forms.",
-      "url": "https://goodonyou.eco/how-sustainable-is-pvc/",
-      "publishedAt": "2026-08-09T23:00:21",
-      "content": "PVC is one of the world’s most used plastics since it can take so many forms."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
-      "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
-      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T02:13:27",
-      "content": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-13T19:46:27",
-      "content": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Early-Onset El Niño",
-      "description": "The global weather disrupter appears to be taking a toll, and its peak could still be months away.",
-      "url": "https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html",
-      "publishedAt": "2026-08-13T19:28:25",
-      "content": "The global weather disrupter appears to be taking a toll, and its peak could still be months away."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Wing and a prayer: how probiotics might save bat species from a killer fungus",
-      "description": "Bat experts were shocked at how fast white-nose syndrome had spread to Canada’s northernmost colonies from the US.",
-      "url": "https://www.theguardian.com/environment/2026/aug/13/biodiversity-bat-species-fungus-disease-canada-alaska-white-nose-syndrome",
-      "publishedAt": "2026-08-13T12:00:02",
-      "content": "Bat experts were shocked at how fast white-nose syndrome had spread to Canada’s northernmost colonies from the US."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft Signs Deal to Remove Carbon Using Wastewater Technology",
-      "description": "Water-tech startup Crew Carbon announced today that it has signed an offtake agreement with Microsoft",
-      "url": "https://www.esgtoday.com/microsoft-signs-wastewater-based-carbon-removal-deal/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-wastewater-based-carbon-removal-deal",
-      "publishedAt": "2026-08-12T15:03:05",
-      "content": "Water-tech startup Crew Carbon announced today that it has signed an offtake agreement with Microsoft"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "American Airlines Completes First U.S. Commercial Flight Powered by eSAF",
-      "description": "American Airlines and low-carbon synthetic fuels provider Infinium announced the completion of the first ever",
-      "url": "https://www.esgtoday.com/american-airlines-completes-first-u-s-commercial-flight-powered-by-esaf/?utm_source=rss&utm_medium=rss&utm_campaign=american-airlines-completes-first-u-s-commercial-flight-powered-by-esaf",
-      "publishedAt": "2026-08-12T13:53:58",
-      "content": "American Airlines and low-carbon synthetic fuels provider Infinium announced the completion of the first ever"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -301,14 +356,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy",
-      "description": "Businesses are reckoning with the financial toll of this year’s brutal climate shocks.",
-      "url": "https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html",
-      "publishedAt": "2026-08-11T16:58:58",
-      "content": "Businesses are reckoning with the financial toll of this year’s brutal climate shocks."
+      "author": "The Guardian",
+      "title": "Builders, bakers and cheeseburger-makers: the UK workers struggling in extreme heat",
+      "description": "From chefs to paramedics, workers tell the Guardian how they are coping and unions outline the changes needed in the workplaceIn the sweltering kitchen of the Plimsoll pub in north London, the head...",
+      "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
+      "publishedAt": "2026-08-14T05:00:19",
+      "content": "From chefs to paramedics, workers tell the Guardian how they are coping and unions outline the changes needed in the workplaceIn the sweltering kitchen of the Plimsoll pub in north London, the head..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
+      "description": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?",
+      "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-14T02:13:27",
+      "content": "Why is the Sun's corona millions of degrees hotter than its surface? And how does it maintain its inexplicably high temperature?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-13T19:46:27",
+      "content": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days."
     },
     {
       "source": {
@@ -356,50 +433,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: Hydrogen car breaks land speed record at 406 mph",
-      "description": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed.",
-      "url": "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-12T16:30:07",
-      "content": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "13 Pretty Pointelle Picks From More Ethical Brands",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-pointelle-fashion/",
-      "publishedAt": "2026-08-12T01:01:20",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How to Dress More Sustainably During a Heatwave",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-to-dress-sustainably-in-a-heatwave/",
-      "publishedAt": "2026-08-12T00:48:13",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "South Africa’s offshore oil push meets grassroots resistance in court",
-      "description": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels\nThe post South Africa’s offshore oil push meets grassroots resistance in ...",
-      "url": "https://www.climatechangenews.com/2026/08/11/south-africas-offshore-oil-push-ground-resistance-courts-litigation-ocean/",
-      "publishedAt": "2026-08-11T16:30:26",
-      "content": "Two court cases against oil majors TotalEnergies and Shell could derail South Africa's plan to expand offshore fossil fuels\nThe post South Africa’s offshore oil push meets grassroots resistance in ..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -408,28 +441,6 @@
       "url": "https://triplepundit.com/2026/what-is-balcony-solar-development-united-states/",
       "publishedAt": "2026-08-10T12:00:00",
       "content": "Balcony solar systems help people reduce their utility bills, with solar power feeding directly into a standard wall outlet to replace energy from the grid. The balcony solar movement in the U.S. i..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Planned USDA Restructuring Will Hurt Farmers Already at the Brink, Advocates Say",
-      "description": "Amid heavy criticism, the USDA plans to go ahead with a massive reorganization and forced relocation of nearly 3,000 workers.",
-      "url": "https://triplepundit.com/2026/usda-reorganization-restructuring-hurt-farmers/",
-      "publishedAt": "2026-08-07T16:16:06",
-      "content": "Amid heavy criticism, the USDA plans to go ahead with a massive reorganization and forced relocation of nearly 3,000 workers."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "As fires burn and temperatures soar, it’s time to imagine a world beyond GDP",
-      "description": "Environmental destruction, like clear-cutting a forest, can boost gross domestic product but it reduces a country's real wealth\nThe post As fires burn and temperatures soar, it’s time to imagine a ...",
-      "url": "https://www.climatechangenews.com/2026/08/07/as-fires-burn-and-temperatures-soar-its-time-to-imagine-a-world-beyond-gdp/",
-      "publishedAt": "2026-08-07T12:57:20",
-      "content": "Environmental destruction, like clear-cutting a forest, can boost gross domestic product but it reduces a country's real wealth\nThe post As fires burn and temperatures soar, it’s time to imagine a ..."
     }
   ]
 }
