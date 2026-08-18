@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 26,
   "articles": [
     {
       "source": {
@@ -10,7 +10,7 @@
       "title": "More Sustainable Fashion Brand Offers This August 2026",
       "description": "Feature image: Elk.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-08-11T22:00:45",
+      "publishedAt": "2026-08-16T22:00:45",
       "content": "Feature image: Elk."
     },
     {
@@ -48,6 +48,28 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "“Dangerous consequences” – how AI’s climate framing lets Big Tech off the hook",
+      "description": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’...",
+      "url": "https://www.climatechangenews.com/2026/08/17/dangerous-consequences-how-ais-climate-framing-lets-big-tech-off-the-hook/",
+      "publishedAt": "2026-08-17T14:09:40",
+      "content": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "19 More Sustainable Alternatives to Zara",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+      "publishedAt": "2026-08-17T00:00:58",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -56,17 +78,6 @@
       "url": "https://www.esgtoday.com/deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry/?utm_source=rss&utm_medium=rss&utm_campaign=deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry",
       "publishedAt": "2026-08-14T11:21:32",
       "content": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law",
-      "description": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills.",
-      "url": "https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html",
-      "publishedAt": "2026-08-14T14:29:17",
-      "content": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills."
     },
     {
       "source": {
@@ -84,11 +95,132 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "British Gas paid me £38,000 by mistake, and I can’t give it back",
-      "description": "It said that was what I was due after I submitted a claim for £300 for energy exported through my solar panelsBritish Gas paid me more than £38,000 by mistake, then had no idea how to reclaim it. I...",
-      "url": "https://www.theguardian.com/money/2026/aug/17/british-gas-mistake-energy-solar-panels",
-      "publishedAt": "2026-08-17T06:00:48",
-      "content": "It said that was what I was due after I submitted a claim for £300 for energy exported through my solar panelsBritish Gas paid me more than £38,000 by mistake, then had no idea how to reclaim it. I..."
+      "title": "Iraq’s ghost villages: Islamic State drove people away – now a new enemy is preventing their return",
+      "description": "Nearly a decade after fighting ended in northern Iraq, the climate crisis has brought extreme heat and a water shortage, making life almost impossibleThe first thing that strikes visitors arriving ...",
+      "url": "https://www.theguardian.com/global-development/2026/aug/18/northern-iraq-villages-islamic-state-climate-crisis",
+      "publishedAt": "2026-08-18T05:00:14",
+      "content": "Nearly a decade after fighting ended in northern Iraq, the climate crisis has brought extreme heat and a water shortage, making life almost impossibleThe first thing that strikes visitors arriving ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Thom Yorke, Romy and Brian Eno among 200 musicians urging PM to reject new North Sea drilling",
+      "description": "Robert Smith, Olly Alexander and Paris Paloma also among signatories to letter saying exploitation of Rosebank and Jackdaw fields defies climate realityBusiness live – latest updatesMore than 200 m...",
+      "url": "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling",
+      "publishedAt": "2026-08-17T11:16:28",
+      "content": "Robert Smith, Olly Alexander and Paris Paloma also among signatories to letter saying exploitation of Rosebank and Jackdaw fields defies climate realityBusiness live – latest updatesMore than 200 m..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Watch Out for El Niño",
+      "description": "We explain the climate phenomenon.",
+      "url": "https://www.nytimes.com/2026/08/17/briefing/watch-out-for-el-nino.html",
+      "publishedAt": "2026-08-17T10:41:27",
+      "content": "We explain the climate phenomenon."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law",
+      "description": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills.",
+      "url": "https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html",
+      "publishedAt": "2026-08-14T14:29:17",
+      "content": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "description": "Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "publishedAt": "2026-08-17T23:51:38",
+      "content": "Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "More hosepipe bans in force as drought declared - is your area affected?",
+      "description": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T15:27:01",
+      "content": "Nearly 30 million people have been placed under hosepipe bans due to higher demand and low rainfall."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Temperatures to fall across Europe as substantial rain heading for parts of UK",
+      "description": "Temperatures could drop by more than 15C compared with last Thursday as cold front moves inRelief from the unrelenting heat is finally arriving this week across western Europe, with more unsettled ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/17/temperatures-fall-europe-rain-uk",
+      "publishedAt": "2026-08-17T12:44:58",
+      "content": "Temperatures could drop by more than 15C compared with last Thursday as cold front moves inRelief from the unrelenting heat is finally arriving this week across western Europe, with more unsettled ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Consultation ending on controversial Rosebank oil field",
+      "description": "Supporters and opponents of the controversial plans have been making their cases on the £8.7bn project.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T11:25:59",
+      "content": "Supporters and opponents of the controversial plans have been making their cases on the £8.7bn project."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Muir resignation demand is 'not personal' says UFU",
+      "description": "The Ulster Farmers' Union rejects a claim that it is trying to dictate policy after a cattle cull.",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvdglz962o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T11:06:39",
+      "content": "The Ulster Farmers' Union rejects a claim that it is trying to dictate policy after a cattle cull."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rhossi, a rare sea turtle, recovers after 5,000-mile trek from Wales to Texas",
+      "description": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumoniaA Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he w...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/rhossi-sea-turtle-texas-wales-recovery-update-houston-zoo",
+      "publishedAt": "2026-08-17T10:00:52",
+      "content": "Kemp’s ridley sea turtle, near death on Welsh beach in 2023, is thriving in Houston despite lingering pneumoniaA Kemp’s ridley sea turtle native to the Gulf of Mexico is largely thriving after he w..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "N.Y.C. Congestion Pricing Has Little Effect on Air Quality, Study Finds",
+      "description": "The report from New York City’s Health Department found that pollution improved slightly in Manhattan and did not worsen in other boroughs.",
+      "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-congestion-pricing-air-pollution.html",
+      "publishedAt": "2026-08-15T07:00:06",
+      "content": "The report from New York City’s Health Department found that pollution improved slightly in Manhattan and did not worsen in other boroughs."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Coping with 54C heat: Delhi slum diaries detail living in extreme temperatures",
+      "description": "With heatwaves now recognised as disasters, personal testimonies are key to a new project that looks to protect those living in the most cramped districts of India’s capitalEvery summer evening, Gu...",
+      "url": "https://www.theguardian.com/global-development/2026/aug/17/india-disasters-heatwaves-slum-diaries-delhi-vulnerable-temperatures",
+      "publishedAt": "2026-08-17T04:00:45",
+      "content": "With heatwaves now recognised as disasters, personal testimonies are key to a new project that looks to protect those living in the most cramped districts of India’s capitalEvery summer evening, Gu..."
     },
     {
       "source": {
@@ -114,135 +246,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "N.Y.C. Congestion Pricing Has Little Effect on Air Quality, Study Finds",
-      "description": "The report from New York City’s Health Department found that pollution improved slightly in Manhattan and did not worsen in other boroughs.",
-      "url": "https://www.nytimes.com/2026/08/15/nyregion/nyc-congestion-pricing-air-pollution.html",
-      "publishedAt": "2026-08-15T07:00:06",
-      "content": "The report from New York City’s Health Department found that pollution improved slightly in Manhattan and did not worsen in other boroughs."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
       "title": "South Africa’s top court blocks Shell’s offshore oil exploration right",
-      "description": "South Africa's Constitutional Court ruled that Shell and its partners failed to consult affected communities and did not properly consider the environmental risks of offshore oil exploration\nThe po...",
+      "description": "Constitutional Court rules that Shell and its partners failed to consult affected communities and did not properly consider environmental risks\nThe post South Africa’s top court blocks Shell’s offs...",
       "url": "https://www.climatechangenews.com/2026/08/14/south-africas-top-court-blocks-shells-offshore-oil-exploration-right/",
       "publishedAt": "2026-08-14T17:18:04",
-      "content": "South Africa's Constitutional Court ruled that Shell and its partners failed to consult affected communities and did not properly consider the environmental risks of offshore oil exploration\nThe po..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "El Niño may peak at the worst time for the Amazon – and it should worry us all",
-      "description": "Delay to rainy season in forest already damaged by human-driven heating could trigger powerful ‘Godzilla’ El NiñoAs a supercharged climate scorches Europe with wildfire and deluges Asia with floods...",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/el-nino-predicted-peak-amazon-rainforest-climate",
-      "publishedAt": "2026-08-14T10:00:25",
-      "content": "Delay to rainy season in forest already damaged by human-driven heating could trigger powerful ‘Godzilla’ El NiñoAs a supercharged climate scorches Europe with wildfire and deluges Asia with floods..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Keysight 2025 Corporate Social Responsibility Progress Report: Employee Engagement and Opportunity",
-      "description": "Keysight remains committed to fostering a work environment of opportunity that enables employees to be successful and contribute meaningfully to customers, communities, and society.",
-      "url": "https://csrwire.com/press-release/keysight-2025-corporate-social-responsibility-progress-report-employee-engagement-and/",
-      "publishedAt": "2026-08-13T09:45:00",
-      "content": "Keysight remains committed to fostering a work environment of opportunity that enables employees to be successful and contribute meaningfully to customers, communities, and society."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Gen Z flocks to BirdTok as birding takes flight: ‘It’s a craving for something real’",
-      "description": "Social media and Shazam-like birdsong apps drawing young people to hobby as they seek a gentler connection to the outside worldSorry Elon, but they’re not your kind of tweets. Social media users ar...",
-      "url": "https://www.theguardian.com/environment/2026/aug/15/gen-z-flocks-to-birdtok-as-birding-takes-flight-its-a-craving-for-something-real",
-      "publishedAt": "2026-08-15T09:00:53",
-      "content": "Social media and Shazam-like birdsong apps drawing young people to hobby as they seek a gentler connection to the outside worldSorry Elon, but they’re not your kind of tweets. Social media users ar..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Down the road from the Edinburgh fringe … a true local tradition of costume and whisky | Doc Rowe",
-      "description": "South Queensferry, West Lothian: The Burryman procession is one of Scotland’s most remarkable customs – and a changing of the guard is about to occurWhile the Edinburgh festival grabs the headlines...",
-      "url": "https://www.theguardian.com/environment/2026/aug/15/country-diary-down-the-road-from-the-edinburgh-fringe-a-true-local-tradition-of-costume-and-whisky",
-      "publishedAt": "2026-08-15T04:30:46",
-      "content": "South Queensferry, West Lothian: The Burryman procession is one of Scotland’s most remarkable customs – and a changing of the guard is about to occurWhile the Edinburgh festival grabs the headlines..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Mining Claims Staked on Land Cut From Bears Ears and Grand Staircase Monuments",
-      "description": "Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah.",
-      "url": "https://www.nytimes.com/2026/08/14/climate/mining-trump-utah-monuments.html",
-      "publishedAt": "2026-08-14T21:04:28",
-      "content": "Prospectors are eyeing mineral deposits within the former boundaries of the Bears Ears and Grand Staircase-Escalante National Monuments in Utah."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Days of the farmers' union dictating policy are over' - Muir",
-      "description": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
-      "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T16:07:57",
-      "content": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-      "description": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
-      "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-14T15:58:21",
-      "content": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "New coal mine openings slow as East Asian demand plateaus",
-      "description": "China and Australia drove global decline in new capacity additions in 2025, but planned production kept growing\nThe post New coal mine openings slow as East Asian demand plateaus appeared first on ...",
-      "url": "https://www.climatechangenews.com/2026/08/14/new-coal-mine-openings-slow-as-east-asian-demand-plateaus/",
-      "publishedAt": "2026-08-14T11:39:49",
-      "content": "China and Australia drove global decline in new capacity additions in 2025, but planned production kept growing\nThe post New coal mine openings slow as East Asian demand plateaus appeared first on ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘The eww holds power’: why disgust shapes how we see nature, queerness and each other",
-      "description": "We learn what to fear and reject from those around us.",
-      "url": "https://www.theguardian.com/environment/2026/aug/14/why-disgust-shapes-how-we-see-nature-queerness-and-each-other",
-      "publishedAt": "2026-08-14T11:10:51",
-      "content": "We learn what to fear and reject from those around us."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Flock Safety is Under Fire, But It’s Only a Part of Modern Mass Surveillance",
-      "description": "A community cancelled their contract with Flock Safety almost every single day last month.",
-      "url": "https://triplepundit.com/2026/flock-safety-fourth-amendment-mass-surveillance/",
-      "publishedAt": "2026-08-13T17:46:02",
-      "content": "A community cancelled their contract with Flock Safety almost every single day last month."
+      "content": "Constitutional Court rules that Shell and its partners failed to consult affected communities and did not properly consider environmental risks\nThe post South Africa’s top court blocks Shell’s offs..."
     },
     {
       "source": {
@@ -257,17 +268,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Streamlined Media Management Meets a Fresh Look",
-      "description": "3BL's editor just got easier to work with. We've consolidated media uploads into a single button and given featured images the spotlight they deserve.",
-      "url": "https://csrwire.com/press-release/streamlined-media-management-meets-fresh-look/",
-      "publishedAt": "2026-08-13T12:50:00",
-      "content": "3BL's editor just got easier to work with. We've consolidated media uploads into a single button and given featured images the spotlight they deserve."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -279,17 +279,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Creating Moments of Connection for the Military Community",
-      "description": "Comcast recently joined community partners at Joint Base Lewis-McChord (JBLM) to host two unique experiences honoring service members and military families.",
-      "url": "https://csrwire.com/press-release/creating-moments-connection-military-community/",
-      "publishedAt": "2026-08-13T10:35:00",
-      "content": "Comcast recently joined community partners at Joint Base Lewis-McChord (JBLM) to host two unique experiences honoring service members and military families."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -298,72 +287,6 @@
       "url": "https://www.esgtoday.com/form-energy-raises-750-million-for-multi-day-energy-storage-solution/?utm_source=rss&utm_medium=rss&utm_campaign=form-energy-raises-750-million-for-multi-day-energy-storage-solution",
       "publishedAt": "2026-08-13T10:19:53",
       "content": "Energy technology and manufacturing company Form Energy announced that it has raised $750 million in"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Leidos and Singapore’s A*STAR I²R Partner To Accelerate Global Air Traffic Management Capabilities",
-      "description": "As global air traffic and complexity increase, Leidos (NYSE: LDOS) and the Agency for Science, Technology and Research’s Institute for Infocomm Research (A*STAR I²R) will collaborate on new air tra...",
-      "url": "https://csrwire.com/press-release/leidos-and-singapores-astar-i2r-partner-accelerate-global-air-traffic-management-capabilities/",
-      "publishedAt": "2026-08-13T10:05:00",
-      "content": "As global air traffic and complexity increase, Leidos (NYSE: LDOS) and the Agency for Science, Technology and Research’s Institute for Infocomm Research (A*STAR I²R) will collaborate on new air tra..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cisco: Creating the Intelligent Workplace Experience: A Connected Workplace Blueprint",
-      "description": "Our offices around the world serve as proving grounds where we deploy the solutions we bring to market, using them to create better employee experiences while addressing the same operational realit...",
-      "url": "https://csrwire.com/press-release/cisco-creating-intelligent-workplace-experience-connected-workplace-blueprint/",
-      "publishedAt": "2026-08-13T09:05:00",
-      "content": "Our offices around the world serve as proving grounds where we deploy the solutions we bring to market, using them to create better employee experiences while addressing the same operational realit..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "What Mandatory Emissions Disclosure Looks Like in Practice: Lessons from Japan",
-      "description": "Guest post by: Kohei Nishiwada, Founder & CEO, ASUENE California just gave companies a three-month",
-      "url": "https://www.esgtoday.com/what-mandatory-emissions-disclosure-looks-like-in-practice-lessons-from-japan/?utm_source=rss&utm_medium=rss&utm_campaign=what-mandatory-emissions-disclosure-looks-like-in-practice-lessons-from-japan",
-      "publishedAt": "2026-08-13T08:49:29",
-      "content": "Guest post by: Kohei Nishiwada, Founder & CEO, ASUENE California just gave companies a three-month"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI Expands Industry Collaborations To Streamline Access to Healthy Building Products and Materials",
-      "description": "The collaboration reflects a broader IWBI initiative to work with industry organizations and product information platforms to create a more connected, efficient and user-friendly ecosystem for heal...",
-      "url": "https://csrwire.com/press-release/iwbi-expands-industry-collaborations-streamline-access-healthy-building-products-and-materials/",
-      "publishedAt": "2026-08-12T12:30:00",
-      "content": "The collaboration reflects a broader IWBI initiative to work with industry organizations and product information platforms to create a more connected, efficient and user-friendly ecosystem for heal..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Ray Champions Grid Modernization Through \"Speed to Power\" Infrastructure Initiative",
-      "description": "The Ray has announced its formal response to the U.",
-      "url": "https://csrwire.com/press-release/ray-champions-grid-modernization-through-speed-power-infrastructure-initiative/",
-      "publishedAt": "2026-08-12T09:40:00",
-      "content": "The Ray has announced its formal response to the U."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Will Balcony Solar Ever Take Off in the United States?",
-      "description": "Balcony solar systems help people reduce their utility bills, with solar power feeding directly into a standard wall outlet to replace energy from the grid. The balcony solar movement in the U.S. i...",
-      "url": "https://triplepundit.com/2026/what-is-balcony-solar-development-united-states/",
-      "publishedAt": "2026-08-10T12:00:00",
-      "content": "Balcony solar systems help people reduce their utility bills, with solar power feeding directly into a standard wall outlet to replace energy from the grid. The balcony solar movement in the U.S. i..."
     }
   ]
 }
