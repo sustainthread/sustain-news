@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 28,
+  "totalResults": 49,
   "articles": [
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Lenovo 360 Circle: Building Sustainability Expertise Across the Partner Ecosystem",
+      "description": "Climate action is becoming an increasingly important business priority, shaping how organisations innovate, grow, and create long-term value. To make meaningful progress, businesses need clarity.",
+      "url": "https://csrwire.com/press-release/lenovo-360-circle-building-sustainability-expertise-across-partner-ecosystem/",
+      "publishedAt": "2026-08-19T13:05:00",
+      "content": "Climate action is becoming an increasingly important business priority, shaping how organisations innovate, grow, and create long-term value. To make meaningful progress, businesses need clarity."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -12,6 +23,17 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-08-16T22:00:45",
       "content": "Feature image: Elk."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Giant whales move into Greenland waters as ice disappears",
+      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-20T02:05:20",
+      "content": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
     },
     {
       "source": {
@@ -37,14 +59,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Climate Fund Managers Raises Over $180 Million to Back Green Hydrogen Value Chain in Southern Africa",
-      "description": "Climate-focused blended finance investment manager Climate Fund Managers announced that it has raised ZAR 3",
-      "url": "https://www.esgtoday.com/climate-fund-managers-raises-over-180-million-to-back-green-hydrogen-value-chain-in-southern-africa/?utm_source=rss&utm_medium=rss&utm_campaign=climate-fund-managers-raises-over-180-million-to-back-green-hydrogen-value-chain-in-southern-africa",
-      "publishedAt": "2026-08-13T15:11:05",
-      "content": "Climate-focused blended finance investment manager Climate Fund Managers announced that it has raised ZAR 3"
+      "author": "CSRWire",
+      "title": "AllianceBernstein: Renewable Energy Could Define Winners and Losers in Emerging Markets",
+      "description": "The energy transition is powering EM, but not all countries and companies will benefit equally.",
+      "url": "https://csrwire.com/press-release/alliancebernstein-renewable-energy-could-define-winners-and-losers-emerging-markets/",
+      "publishedAt": "2026-08-18T10:00:00",
+      "content": "The energy transition is powering EM, but not all countries and companies will benefit equally."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Carbon pollution has fuelled ‘massive expansion’ of marine heatwaves in Europe, study finds",
+      "description": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive expansion” of marine heatwaves in Europe this ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/19/carbon-pollution-massive-expansion-marine-heatwaves-europe",
+      "publishedAt": "2026-08-19T04:00:05",
+      "content": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive expansion” of marine heatwaves in Europe this ..."
     },
     {
       "source": {
@@ -59,14 +92,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "CIP Raises $3 Billion for Growth Markets-Focused Clean Energy Infrastructure Fund",
-      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced that it has raised $3 billion",
-      "url": "https://www.esgtoday.com/cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=cip-raises-3-billion-for-growth-markets-focused-clean-energy-infrastructure-fund",
-      "publishedAt": "2026-08-14T12:07:57",
-      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced that it has raised $3 billion"
+      "author": "Climate Change News",
+      "title": "Pushing the climate crisis: How advertising fuels high-carbon lifestyles",
+      "description": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green efforts \nThe post Pushing the climate crisis: H...",
+      "url": "https://www.climatechangenews.com/2026/08/13/pushing-the-climate-crisis-how-advertising-fuels-high-carbon-lifestyles/",
+      "publishedAt": "2026-08-13T08:18:28",
+      "content": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green efforts \nThe post Pushing the climate crisis: H..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Monstera magic: Barbican hands out cuttings as ‘green lung of the city’ closes",
+      "description": "Five hundred people turn up to adopt plants from conservatory that will reopen in 2030 after renovation projectAbove the waxy monstera leaves and bright pink hibiscus flowers in the Barbican conser...",
+      "url": "https://www.theguardian.com/culture/2026/aug/20/barbican-hands-out-plant-cuttings-green-lung-city-closes",
+      "publishedAt": "2026-08-20T05:00:44",
+      "content": "Five hundred people turn up to adopt plants from conservatory that will reopen in 2030 after renovation projectAbove the waxy monstera leaves and bright pink hibiscus flowers in the Barbican conser..."
     },
     {
       "source": {
@@ -81,14 +125,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Inside Climate News"
       },
-      "author": "Climate Change News",
-      "title": "Pushing the climate crisis: How advertising fuels high-carbon lifestyles",
-      "description": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green efforts \nThe post Pushing the climate crisis: H...",
-      "url": "https://www.climatechangenews.com/2026/08/13/pushing-the-climate-crisis-how-advertising-fuels-high-carbon-lifestyles/",
-      "publishedAt": "2026-08-13T08:18:28",
-      "content": "With little regulation, the advertising industry continues to promote emissions-heavy activities like flying and meat-eating while making token green efforts \nThe post Pushing the climate crisis: H..."
+      "author": "Inside Climate News",
+      "title": "Canada Bets Big on Hydro and Wind Power",
+      "description": "Canadian Prime Minister Mark Carney said the country will build the largest clean energy investment in North America’s history—a package of hydropower, onshore wind and transmission projects aimed ...",
+      "url": "https://insideclimatenews.org/news/17082026/canada-hydro-wind-power-investments/",
+      "publishedAt": "2026-08-17T21:55:21",
+      "content": "Canadian Prime Minister Mark Carney said the country will build the largest clean energy investment in North America’s history—a package of hydropower, onshore wind and transmission projects aimed ..."
     },
     {
       "source": {
@@ -98,7 +142,7 @@
       "title": "Environmentalists Sue to Halt First Sale of Seabed-Mining Rights",
       "description": "The suit claims the U.S. decision to allow mining for minerals in American waters didn’t consider the potential harm to endangered species.",
       "url": "https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html",
-      "publishedAt": "2026-08-18T19:10:29",
+      "publishedAt": "2026-08-18T19:10:30",
       "content": "The suit claims the U.S. decision to allow mining for minerals in American waters didn’t consider the potential harm to endangered species."
     },
     {
@@ -114,6 +158,116 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Emirates NBD Launches Transition Finance Framework to Support Hard-to-Abate Businesses in Low-Carbon Shift",
+      "description": "Middle East, North Africa, Türkiye and South Asia-focused banking group Emirates NBD announced the release",
+      "url": "https://www.esgtoday.com/emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift",
+      "publishedAt": "2026-08-19T14:26:26",
+      "content": "Middle East, North Africa, Türkiye and South Asia-focused banking group Emirates NBD announced the release"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CATL to Prioritize Suppliers with Stronger Low-Carbon Performance",
+      "description": "China-based energy solutions company CATL announced it has reached certification of all 20 of its",
+      "url": "https://www.esgtoday.com/catl-to-prioritize-suppliers-with-stronger-low-carbon-performance/?utm_source=rss&utm_medium=rss&utm_campaign=catl-to-prioritize-suppliers-with-stronger-low-carbon-performance",
+      "publishedAt": "2026-08-19T11:49:43",
+      "content": "China-based energy solutions company CATL announced it has reached certification of all 20 of its"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "IFRS Foundation Approves 5-Year Operating and Financing Plan for ISSB",
+      "description": "The IFRS Foundation announced the approval of new five-year operating and financing plans for its",
+      "url": "https://www.esgtoday.com/ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb/?utm_source=rss&utm_medium=rss&utm_campaign=ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb",
+      "publishedAt": "2026-08-19T11:23:23",
+      "content": "The IFRS Foundation announced the approval of new five-year operating and financing plans for its"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Impact Investor Blue Earth Capital Raises Over $200 Million for Secondaries Strategy",
+      "description": "Specialist impact investor Blue Earth Capital announced that it has raised over $200 million in",
+      "url": "https://www.esgtoday.com/impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy",
+      "publishedAt": "2026-08-19T10:34:31",
+      "content": "Specialist impact investor Blue Earth Capital announced that it has raised over $200 million in"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Making a Difference Through Service: Covia Employees Strengthen Their Communities",
+      "description": "At Covia, we believe that thriving communities lead to a brighter, more prosperous future for all.",
+      "url": "https://csrwire.com/press-release/making-difference-through-service-covia-employees-strengthen-their-communities/",
+      "publishedAt": "2026-08-19T10:05:00",
+      "content": "At Covia, we believe that thriving communities lead to a brighter, more prosperous future for all."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "El Niño Is Back. And Worse Than Ever.",
+      "description": "The recurring climate phenomenon is poised this year to enter a new phase known as a super El Niño, exacerbating the effects of climate change.",
+      "url": "https://www.nytimes.com/2026/08/19/podcasts/the-daily/el-nino-climate-change-heat-wave-drought.html",
+      "publishedAt": "2026-08-19T10:00:15",
+      "content": "The recurring climate phenomenon is poised this year to enter a new phase known as a super El Niño, exacerbating the effects of climate change."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Why Good On You Only Uses Publicly Available Information to Rate Brands",
+      "description": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea...",
+      "url": "https://goodonyou.eco/publicly-available-information/",
+      "publishedAt": "2026-08-19T08:39:17",
+      "content": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Stayfree® Is Improving Puberty Education in Latin America",
+      "description": "Stayfree® and Carefree® are helping expand puberty and menstrual health education in Argentina through a hybrid program that combines classroom resources, educator tools, product access, and intera...",
+      "url": "https://csrwire.com/press-release/how-stayfreer-improving-puberty-education-latin-america/",
+      "publishedAt": "2026-08-19T08:30:00",
+      "content": "Stayfree® and Carefree® are helping expand puberty and menstrual health education in Argentina through a hybrid program that combines classroom resources, educator tools, product access, and intera..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco: How Responsible AI Is Changing the Way Organizations Assess Humanitarian Needs",
+      "description": "In the initial hours and days of a humanitarian response, accurate information is critical and potentially lifesaving.",
+      "url": "https://csrwire.com/press-release/cisco-how-responsible-ai-changing-way-organizations-assess-humanitarian-needs/",
+      "publishedAt": "2026-08-19T08:05:00",
+      "content": "In the initial hours and days of a humanitarian response, accurate information is critical and potentially lifesaving."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Power to Keep Moving: Reflections From Athletes at the 2026 National Veterans Wheelchair Games",
+      "description": "The National Veterans Wheelchair Games transformed competition into something much bigger than medals when Veterans gathered in Detroit, Michigan, July 9-14, 2026, to compete in events ranging from...",
+      "url": "https://csrwire.com/press-release/power-keep-moving-reflections-athletes-2026-national-veterans-wheelchair-games/",
+      "publishedAt": "2026-08-19T08:05:00",
+      "content": "The National Veterans Wheelchair Games transformed competition into something much bigger than medals when Veterans gathered in Detroit, Michigan, July 9-14, 2026, to compete in events ranging from..."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -125,14 +279,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "BBC"
       },
-      "author": "ESG Today",
-      "title": "Deepki Acquires Real Estate Sustainability Consulting and Data Platforms Evora, Metry",
-      "description": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy",
-      "url": "https://www.esgtoday.com/deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry/?utm_source=rss&utm_medium=rss&utm_campaign=deepki-acquires-real-estate-sustainability-consulting-and-data-platforms-evora-metry",
-      "publishedAt": "2026-08-14T11:21:32",
-      "content": "Real estate sustainability data solutions provider Deepki announced the acquisition of real estate-focused sustainability consultancy"
+      "author": "BBC",
+      "title": "Downpours to continue for UK with risk of flash flooding",
+      "description": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cevm32j9pp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-19T23:56:33",
+      "content": "The prolonged dry spell has come to an end with heavy, thundery showers continuing to sweep across the UK, as Ben Rich explains."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
+      "description": "Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.",
+      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
+      "publishedAt": "2026-08-19T18:19:20",
+      "content": "Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Seas Rise, Scientists Race to Save Coastal Marshes From Drowning",
+      "description": "STONE HARBOR, N.",
+      "url": "https://insideclimatenews.org/news/19082026/sea-level-rise-drowns-coastal-marshes/",
+      "publishedAt": "2026-08-19T08:55:00",
+      "content": "STONE HARBOR, N."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Ulez led to better lung size and function among London children, study finds",
+      "description": "Researchers find capacity stunted by pollution was restored after introduction of ultra-low emission zoneChildren’s lungs grew bigger and stronger after the most polluting vehicles were restricted ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/18/ulez-better-lung-size-function-london-children",
+      "publishedAt": "2026-08-18T22:30:02",
+      "content": "Researchers find capacity stunted by pollution was restored after introduction of ultra-low emission zoneChildren’s lungs grew bigger and stronger after the most polluting vehicles were restricted ..."
     },
     {
       "source": {
@@ -147,25 +334,58 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Why Investor Transition Plans Are No Longer Optional: They’re a Competitive Advantage",
-      "description": "Guest post by: Claude Amstutz, Director, Investor Network at Ceres The past year has been",
-      "url": "https://www.esgtoday.com/why-investor-transition-plans-are-no-longer-optional-theyre-a-competitive-advantage/?utm_source=rss&utm_medium=rss&utm_campaign=why-investor-transition-plans-are-no-longer-optional-theyre-a-competitive-advantage",
-      "publishedAt": "2026-08-18T09:08:57",
-      "content": "Guest post by: Claude Amstutz, Director, Investor Network at Ceres The past year has been"
+      "author": "CSRWire",
+      "title": "America’s Next Great Infrastructure Project Is Connectivity",
+      "description": "I grew up in the West Texas oil fields, in a part of the country that always felt overlooked.",
+      "url": "https://csrwire.com/press-release/americas-next-great-infrastructure-project-connectivity/",
+      "publishedAt": "2026-08-18T13:05:00",
+      "content": "I grew up in the West Texas oil fields, in a part of the country that always felt overlooked."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law",
-      "description": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills.",
-      "url": "https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html",
-      "publishedAt": "2026-08-14T14:29:17",
-      "content": "A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills."
+      "author": "CSRWire",
+      "title": "5 Ways Edge AI Is Changing MLOps Forever",
+      "description": "The AI making the headlines isn't always the AI making the biggest impact. Some of AI's most important applications happen where lives, missions, and critical infrastructure are on the line.",
+      "url": "https://csrwire.com/press-release/5-ways-edge-ai-changing-mlops-forever/",
+      "publishedAt": "2026-08-18T13:05:00",
+      "content": "The AI making the headlines isn't always the AI making the biggest impact. Some of AI's most important applications happen where lives, missions, and critical infrastructure are on the line."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Zimbabwean Communities Shut Out by Banks Are Building Their Own Loan Programs",
+      "description": "In thousands of communities across Zimbabwe, people pool their savings together and loan it out to help their neighbors build homes and start businesses.TriplePundit",
+      "url": "https://triplepundit.com/2026/informal-savings-groups-rural-zimbabwe-financial-inclusion/",
+      "publishedAt": "2026-08-18T12:00:00",
+      "content": "In thousands of communities across Zimbabwe, people pool their savings together and loan it out to help their neighbors build homes and start businesses.TriplePundit"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco: Powering Resilient Ecosystems | FY25 Purpose Report",
+      "description": "At Cisco, we’re investing in resilient ecosystems today to build a stronger future tomorrow. I",
+      "url": "https://csrwire.com/press-release/cisco-powering-resilient-ecosystems-fy25-purpose-report/",
+      "publishedAt": "2026-08-18T10:00:00",
+      "content": "At Cisco, we’re investing in resilient ecosystems today to build a stronger future tomorrow. I"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Whirlpool Showcases Apprenticeship Programs During Visit From Acting U.S. Labor Secretary Keith Sonderling",
+      "description": "At the world’s largest washing machine factory, Whirlpool Corp.",
+      "url": "https://csrwire.com/press-release/whirlpool-showcases-apprenticeship-programs-during-visit-acting-us-labor-secretary-keith/",
+      "publishedAt": "2026-08-18T09:30:00",
+      "content": "At the world’s largest washing machine factory, Whirlpool Corp."
     },
     {
       "source": {
@@ -180,6 +400,39 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: It’s hard being a vicar in a long, hot summer | Simon Lockett",
+      "description": "Madley, Herefordshire: The cool of our churches has been welcome to many, but my polyester robes are not made for the heatEvery summer, while roasting in my robes, I say to myself: “I must get a li...",
+      "url": "https://www.theguardian.com/environment/2026/aug/19/country-diary-its-hard-being-a-vicar-in-a-long-hot-summer",
+      "publishedAt": "2026-08-19T04:30:05",
+      "content": "Madley, Herefordshire: The cool of our churches has been welcome to many, but my polyester robes are not made for the heatEvery summer, while roasting in my robes, I say to myself: “I must get a li..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "El Paso Officials Seek Answers Following Emissions at Marathon Refinery",
+      "description": "EL PASO, Texas—Gilbert Morales struggled to compose himself before addressing the El Paso City Council on Tuesday morning.",
+      "url": "https://insideclimatenews.org/news/18082026/marathon-el-paso-refinery-emissions/",
+      "publishedAt": "2026-08-18T22:55:51",
+      "content": "EL PASO, Texas—Gilbert Morales struggled to compose himself before addressing the El Paso City Council on Tuesday morning."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Hurricane Lala Pummels Hawaii—Despite Never Making Landfall",
+      "description": "Despite never making landfall, Hurricane Lala left a path of destruction across Hawaii over the weekend.",
+      "url": "https://insideclimatenews.org/news/18082026/todays-climate-hurricane-lala-hawaii/",
+      "publishedAt": "2026-08-18T21:33:42",
+      "content": "Despite never making landfall, Hurricane Lala left a path of destruction across Hawaii over the weekend."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -188,17 +441,6 @@
       "url": "https://www.climatechangenews.com/2026/08/18/every-country-needs-a-model-to-help-optimise-its-energy-transition/",
       "publishedAt": "2026-08-18T17:24:55",
       "content": "National pledges and platforms alone won’t lead to secure and affordable decarbonised energy systems\nThe post Every country needs a model to help optimise its energy transition appeared first on Cl..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Heavy rain on dry ground may cause UK floods but will not reverse drought",
-      "description": "‘First meaningful rain for a long time’ is forecast but water firms continue to ask customers to restrict useFloods and drought could hit the UK at the same time this week, with heavy rain forecast...",
-      "url": "https://www.theguardian.com/environment/2026/aug/18/heavy-rain-forecast-will-not-reverse-widespread-drought-conditions-uk",
-      "publishedAt": "2026-08-18T15:00:04",
-      "content": "‘First meaningful rain for a long time’ is forecast but water firms continue to ask customers to restrict useFloods and drought could hit the UK at the same time this week, with heavy rain forecast..."
     },
     {
       "source": {
@@ -213,25 +455,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Inside Climate News"
       },
-      "author": "The Guardian",
-      "title": "England’s ancient oak trees dying in extreme hot and dry weather",
-      "description": "Woodland Trust says trees struggling in drought stress, with older ‘survivors’ disproportionately affectedEngland’s ancient oak trees are dying in the summer’s extreme heat and dry weather, accordi...",
-      "url": "https://www.theguardian.com/environment/2026/aug/18/england-ancient-oak-trees-dying-extreme-hot-dry-weather",
-      "publishedAt": "2026-08-18T11:00:43",
-      "content": "Woodland Trust says trees struggling in drought stress, with older ‘survivors’ disproportionately affectedEngland’s ancient oak trees are dying in the summer’s extreme heat and dry weather, accordi..."
+      "author": "Inside Climate News",
+      "title": "NOAA’s New Priorities Put Profits Ahead of Marine Protections",
+      "description": "In the Western Pacific, protections for endangered leatherback turtles face elimination.",
+      "url": "https://insideclimatenews.org/news/18082026/noaa-scraps-marine-protections/",
+      "publishedAt": "2026-08-18T09:00:00",
+      "content": "In the Western Pacific, protections for endangered leatherback turtles face elimination."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Inside Climate News"
       },
-      "author": "New York Times",
-      "title": "Lake Powell Hits Lowest Level On Record As Water Crisis Continues",
-      "description": "Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.",
-      "url": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
-      "publishedAt": "2026-08-17T23:51:39",
-      "content": "Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River."
+      "author": "Inside Climate News",
+      "title": "The Clock Is Ticking on Leaded Aviation Fuel",
+      "description": "OSHKOSH, Wisc.",
+      "url": "https://insideclimatenews.org/news/18082026/hurdles-complicate-aviation-lead-fuel-transition/",
+      "publishedAt": "2026-08-18T08:55:00",
+      "content": "OSHKOSH, Wisc."
     },
     {
       "source": {
@@ -279,28 +521,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
-      "description": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T00:20:51",
-      "content": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-16T20:01:51",
-      "content": "Hundreds of firefighters are trying to contain the flames consuming the major park."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -309,6 +529,17 @@
       "url": "https://www.climatechangenews.com/2026/08/14/south-africas-top-court-blocks-shells-offshore-oil-exploration-right/",
       "publishedAt": "2026-08-14T17:18:04",
       "content": "Constitutional Court rules that Shell and its partners failed to consult affected communities and did not properly consider environmental risks\nThe post South Africa’s top court blocks Shell’s offs..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Flock Safety is Under Fire, But It’s Only a Part of Modern Mass Surveillance",
+      "description": "A community cancelled their contract with Flock Safety almost every single day last month.",
+      "url": "https://triplepundit.com/2026/flock-safety-fourth-amendment-mass-surveillance/",
+      "publishedAt": "2026-08-13T17:46:02",
+      "content": "A community cancelled their contract with Flock Safety almost every single day last month."
     }
   ]
 }
