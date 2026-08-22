@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 38,
+  "totalResults": 48,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
+      "description": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New YorkA “hyperscale” datacentre in outer London would generate more than 1m...",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+      "publishedAt": "2026-08-21T10:00:31",
+      "content": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New YorkA “hyperscale” datacentre in outer London would generate more than 1m..."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -18,33 +29,33 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Microsoft, Qcells Partner to Pair AI Infrastructure with New Energy Capacity",
-      "description": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused",
-      "url": "https://www.esgtoday.com/microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity",
-      "publishedAt": "2026-08-20T11:00:30",
-      "content": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused"
+      "title": "Neocrete Raises $3.5 Million to Cut Carbon and Cost of Concrete",
+      "description": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding",
+      "url": "https://www.esgtoday.com/neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete/?utm_source=rss&utm_medium=rss&utm_campaign=neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete",
+      "publishedAt": "2026-08-21T10:03:24",
+      "content": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "Giant whales move into Greenland waters as ice disappears",
-      "description": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T02:05:20",
-      "content": "Melting sea ice from climate change has opened up the region for giant whales to undertake \"feeding frenzies\"."
+      "author": "The Guardian",
+      "title": "Cut cost of loans for solar panels on UK homes, ministers urged",
+      "description": "Report says ‘solar bonds’ could fund wider access to clean energy, reducing household billsSolar panels could be cheaper for people on lower incomes if the government stepped in to reduce the cost ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/cut-cost-of-loans-for-solar-panels-on-uk-homes-ministers-urged",
+      "publishedAt": "2026-08-21T08:00:28",
+      "content": "Report says ‘solar bonds’ could fund wider access to clean energy, reducing household billsSolar panels could be cheaper for people on lower incomes if the government stepped in to reduce the cost ..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "GIC Appoints De Rui Wong as Head of Sustainability",
-      "description": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of",
-      "url": "https://www.esgtoday.com/gic-appoints-de-rui-wong-as-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=gic-appoints-de-rui-wong-as-head-of-sustainability",
-      "publishedAt": "2026-08-20T12:18:54",
-      "content": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of"
+      "title": "Microsoft, Qcells Partner to Pair AI Infrastructure with New Energy Capacity",
+      "description": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused",
+      "url": "https://www.esgtoday.com/microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity",
+      "publishedAt": "2026-08-20T11:00:30",
+      "content": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused"
     },
     {
       "source": {
@@ -59,25 +70,124 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Climate: Saving Old Trees Might Save Lives",
-      "description": "We know that trees are good for cities. A new study finds that mature trees are especially good.",
-      "url": "https://www.nytimes.com/2026/08/20/climate/climate-saving-old-trees-might-save-lives.html",
-      "publishedAt": "2026-08-20T18:38:26",
-      "content": "We know that trees are good for cities. A new study finds that mature trees are especially good."
+      "author": "The Guardian",
+      "title": "Home comforts: can remote work be better for the environment?",
+      "description": "Many Australians now have the option to work from home.",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/22/change-by-degrees-wfh-remote-work-better-for-environment",
+      "publishedAt": "2026-08-22T00:00:48",
+      "content": "Many Australians now have the option to work from home."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "BBC"
       },
-      "author": "Inside Climate News",
-      "title": "Climate Change Reshuffles Where People Are Moving in Florida",
-      "description": "SEBRING, Fla.",
-      "url": "https://insideclimatenews.org/news/20082026/florida-threats-lead-to-climate-migration/",
-      "publishedAt": "2026-08-20T08:45:00",
-      "content": "SEBRING, Fla."
+      "author": "BBC",
+      "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
+      "description": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\".",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T09:02:24",
+      "content": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\"."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "GIC Appoints De Rui Wong as Head of Sustainability",
+      "description": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of",
+      "url": "https://www.esgtoday.com/gic-appoints-de-rui-wong-as-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=gic-appoints-de-rui-wong-as-head-of-sustainability",
+      "publishedAt": "2026-08-20T12:18:54",
+      "content": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Rewilded land remains green amid drought-stricken English countryside, images show",
+      "description": "National Trust’s Holnicote estate says restored wetlands and rivers offer proof of resilience to drought, wildfires and floodingAerial footage of an estate in Somerset has revealed the benefits of ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience",
+      "publishedAt": "2026-08-21T05:00:25",
+      "content": "National Trust’s Holnicote estate says restored wetlands and rivers offer proof of resilience to drought, wildfires and floodingAerial footage of an estate in Somerset has revealed the benefits of ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Rare South American Diseases Offer Clues on the Next Pandemic",
+      "description": "Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread.",
+      "url": "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html",
+      "publishedAt": "2026-08-21T16:06:45",
+      "content": "Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Mafix Raises $5.4 Million to Turn Rocks into Carbon-Removing Fertilizer",
+      "description": "Ag-tech startup Mafix announced that it has raised $5.4 million in a pre-seed funding round,",
+      "url": "https://www.esgtoday.com/mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer/?utm_source=rss&utm_medium=rss&utm_campaign=mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer",
+      "publishedAt": "2026-08-21T12:47:15",
+      "content": "Ag-tech startup Mafix announced that it has raised $5.4 million in a pre-seed funding round,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Baker Tilly Case Study: Managed Services Strengthen a Growing U.S. Subsidiary",
+      "description": "Growing life sciences organizations need back-office capabilities that can keep pace with operational and commercial expansion.",
+      "url": "https://csrwire.com/press-release/baker-tilly-case-study-managed-services-strengthen-growing-us-subsidiary/",
+      "publishedAt": "2026-08-21T12:25:00",
+      "content": "Growing life sciences organizations need back-office capabilities that can keep pace with operational and commercial expansion."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Leading With Care: 25 Years of Meaningful Engagement",
+      "description": "The Boehringer Ingelheim Cares Foundation works alongside partners to address unmet needs across human and animal health and STEM education.",
+      "url": "https://csrwire.com/press-release/leading-care-25-years-meaningful-engagement/",
+      "publishedAt": "2026-08-21T10:05:00",
+      "content": "The Boehringer Ingelheim Cares Foundation works alongside partners to address unmet needs across human and animal health and STEM education."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Lenovo Reaches New High in Workplace Pride Benchmark With First ‘Advocate’ Status",
+      "description": "Lenovo has achieved its highest-ever score in the Workplace Pride Global Benchmark, reaching 93.",
+      "url": "https://csrwire.com/press-release/lenovo-reaches-new-high-workplace-pride-benchmark-first-advocate-status/",
+      "publishedAt": "2026-08-21T10:05:00",
+      "content": "Lenovo has achieved its highest-ever score in the Workplace Pride Global Benchmark, reaching 93."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Mary Kay Accelerates Digital Transformation, AI-Powered Beauty Innovation and Social Commerce Growth",
+      "description": "Mary Kay Inc., global iconic leader in beauty and entrepreneurship, announces transformative business milestones, inviting the next generation to engage with a modernized Mary Kay.",
+      "url": "https://csrwire.com/press-release/mary-kay-accelerates-digital-transformation-ai-powered-beauty-innovation-and-social-commerce/",
+      "publishedAt": "2026-08-21T08:00:00",
+      "content": "Mary Kay Inc., global iconic leader in beauty and entrepreneurship, announces transformative business milestones, inviting the next generation to engage with a modernized Mary Kay."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy New Orleans Volunteers Help New Orleans Residents \"Beat the Heat\"",
+      "description": "Entergy New Orleans partnered with Rebuilding Together New Orleans to help residents stay safe and cool during the summer months through a series of home weatherization events.",
+      "url": "https://csrwire.com/press-release/entergy-new-orleans-volunteers-help-new-orleans-residents-beat-heat/",
+      "publishedAt": "2026-08-21T07:00:00",
+      "content": "Entergy New Orleans partnered with Rebuilding Together New Orleans to help residents stay safe and cool during the summer months through a series of home weatherization events."
     },
     {
       "source": {
@@ -89,61 +199,6 @@
       "url": "https://www.thehindu.com/news/cities/Coimbatore/indian-chamber-of-commerce-and-industry-moots-clean-coimbatore-mission/article71368160.ece",
       "publishedAt": "2026-08-20T12:13:56",
       "content": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "From bone-dry to soaked to the bone, welcome to the age of climate whiplash | Aditya Chakrabortty",
-      "description": "This punishingly hot and dry summer will probably be followed by another wet winter.",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/20/hot-summer-wet-winter-welcome-to-the-age-of-climate-whiplash",
-      "publishedAt": "2026-08-20T05:00:43",
-      "content": "This punishingly hot and dry summer will probably be followed by another wet winter."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
-      "description": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a",
-      "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss&utm_medium=rss&utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
-      "publishedAt": "2026-08-20T13:06:34",
-      "content": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
-      "description": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,",
-      "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
-      "publishedAt": "2026-08-20T12:31:30",
-      "content": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Destructive and delicious: how an invasive deer in Hawaii is being turned into dinner",
-      "description": "The overpopulation of axis deer has taken an environmental toll, but Maui Nui Venison sees it as a resource instead of a pestIn 1868, the government of Hong Kong gave eight axis deer to Hawaii’s Ki...",
-      "url": "https://www.theguardian.com/environment/2026/aug/20/axis-deer-hawaii",
-      "publishedAt": "2026-08-20T10:00:48",
-      "content": "The overpopulation of axis deer has taken an environmental toll, but Maui Nui Venison sees it as a resource instead of a pestIn 1868, the government of Hong Kong gave eight axis deer to Hawaii’s Ki..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Europe Faces Surging Wildfire Threat, New Research Shows",
-      "description": "Wildfires in Europe could burn across about 39 percent more land by the end of the century, even if greenhouse gas emissions decline rapidly over the next few decades, new research shows. With cont...",
-      "url": "https://insideclimatenews.org/news/20082026/europe-surging-wildfire-threat/",
-      "publishedAt": "2026-08-20T09:01:00",
-      "content": "Wildfires in Europe could burn across about 39 percent more land by the end of the century, even if greenhouse gas emissions decline rapidly over the next few decades, new research shows. With cont..."
     },
     {
       "source": {
@@ -169,6 +224,215 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "publishedAt": "2026-08-22T01:08:25",
+      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How this 1960s ex-council house is managing to stay cool without air con",
+      "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T23:56:48",
+      "content": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’",
+      "description": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem.",
+      "url": "https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/",
+      "publishedAt": "2026-08-21T20:36:34",
+      "content": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Should school holidays change to cope with extreme heat?",
+      "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
+      "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T15:23:17",
+      "content": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T15:07:37",
+      "content": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
+      "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T14:17:03",
+      "content": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Biggest El Niño for a century forecast to bring UK more autumn rain and storms",
+      "description": "‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide, with severe droughts expected in some areasThe El Niño event developing over the Pacific Ocean is likely to be the strongest...",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/increased-rainfall-and-storms-to-hit-uk-due-to-biggest-el-nino-for-a-century-say-met-office",
+      "publishedAt": "2026-08-21T14:10:04",
+      "content": "‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide, with severe droughts expected in some areasThe El Niño event developing over the Pacific Ocean is likely to be the strongest..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "England’s Ancient Trees Are Dying in the Heat",
+      "description": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
+      "publishedAt": "2026-08-21T12:17:42",
+      "content": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "How safeguarding land protects our future",
+      "description": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app...",
+      "url": "https://www.climatechangenews.com/2026/08/21/how-safeguarding-land-protects-our-future/",
+      "publishedAt": "2026-08-21T10:16:15",
+      "content": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "6 Wild Swimming Spots For Open Water Escape in the U.S.",
+      "description": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat.",
+      "url": "https://www.nytimes.com/2026/08/21/travel/swimming-holes-rivers-lakes-ponds.html",
+      "publishedAt": "2026-08-21T09:02:06",
+      "content": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Extreme Heat Waves Fuel Political Tensions in Europe",
+      "description": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political.",
+      "url": "https://insideclimatenews.org/news/21082026/europe-heat-fuels-political-tensions/",
+      "publishedAt": "2026-08-21T09:00:00",
+      "content": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Flock Safety Is Under Fire, But It’s Only a Part of Modern Mass Surveillance",
+      "description": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States.",
+      "url": "https://csrwire.com/press-release/flock-safety-under-fire-its-only-part-modern-mass-surveillance/",
+      "publishedAt": "2026-08-20T16:25:00",
+      "content": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Entergy Supports New Wilcox Academy Early Learning Center in Central City",
+      "description": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility.",
+      "url": "https://csrwire.com/press-release/entergy-supports-new-wilcox-academy-early-learning-center-central-city/",
+      "publishedAt": "2026-08-20T14:35:00",
+      "content": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
+      "description": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a",
+      "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss&utm_medium=rss&utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
+      "publishedAt": "2026-08-20T13:06:34",
+      "content": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "IWBI Signature Interview Series: A Conversation With Jason DiBona on the Future of Healthy Indoor Air",
+      "description": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing.",
+      "url": "https://csrwire.com/press-release/iwbi-signature-interview-series-conversation-jason-dibona-future-healthy-indoor-air/",
+      "publishedAt": "2026-08-20T12:40:00",
+      "content": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
+      "description": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,",
+      "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
+      "publishedAt": "2026-08-20T12:31:30",
+      "content": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Connection Sessions, Episode 1: Dylan Efron x Everglades National Park | T-Mobile",
+      "description": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer.",
+      "url": "https://csrwire.com/press-release/connection-sessions-episode-1-dylan-efron-x-everglades-national-park-t-mobile/",
+      "publishedAt": "2026-08-20T10:05:00",
+      "content": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "New Holland Opens Training Center in Cidade do Agro to Train Students in Agriculture-Related Programs",
+      "description": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub...",
+      "url": "https://csrwire.com/press-release/new-holland-opens-training-center-cidade-do-agro-train-students-agriculture-related-programs/",
+      "publishedAt": "2026-08-20T09:00:00",
+      "content": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Why Good On You Only Uses Publicly Available Information to Rate Brands",
+      "description": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea...",
+      "url": "https://goodonyou.eco/publicly-available-information/",
+      "publishedAt": "2026-08-19T08:39:17",
+      "content": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea..."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -180,14 +444,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T00:33:21",
-      "content": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+      "author": "The Guardian",
+      "title": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
+      "description": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jawA 15ft (4.",
+      "url": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
+      "publishedAt": "2026-08-21T04:00:25",
+      "content": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jawA 15ft (4."
     },
     {
       "source": {
@@ -213,39 +477,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Glass deposit operator confirmed after months of wrangling",
-      "description": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
-      "url": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T17:31:04",
-      "content": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Flash flooding risk as heavy rain hits UK",
-      "description": "Heavy showers and thunderstorms will continue to affect large parts of the UK.",
-      "url": "https://www.bbc.co.uk/news/videos/c2lq4lwy0z0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-20T14:54:55",
-      "content": "Heavy showers and thunderstorms will continue to affect large parts of the UK."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Lobsters and acidic seas: can shellfish help neutralise one of the greatest threats to the ocean?",
-      "description": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life.",
-      "url": "https://www.theguardian.com/environment/2026/aug/20/environment-oceans-acidification-alkali-carbon-absorption-lobsters",
-      "publishedAt": "2026-08-20T14:00:52",
-      "content": "Crustaceans are the subject of tests to see if alkalis added to seawater, so it absorbs more CO2, harm marine life."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -268,28 +499,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How one American couple ditched their lawn and created a wildlife haven – and you could too",
-      "description": "Novice gardeners James Reed McGuire and Crystal Fritz wanted to try something new when they moved out to the suburbs.",
-      "url": "https://www.theguardian.com/environment/2026/aug/20/biodiversity-gardens-wildlife-lawns-grass-ecosystems-native-plants-america-aoe",
-      "publishedAt": "2026-08-20T11:00:51",
-      "content": "Novice gardeners James Reed McGuire and Crystal Fritz wanted to try something new when they moved out to the suburbs."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Safety Failures Led to Last Year’s Fatal Explosion at U.S. Steel Plant",
-      "description": "The federal government alleged that U.",
-      "url": "https://insideclimatenews.org/news/20082026/us-steel-plant-fatal-explosion-safety-failures/",
-      "publishedAt": "2026-08-20T08:50:00",
-      "content": "The federal government alleged that U."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -298,83 +507,6 @@
       "url": "https://www.climatechangenews.com/2026/08/20/collective-global-roadmap-can-boost-cambodias-energy-transition-goals/",
       "publishedAt": "2026-08-20T08:09:05",
       "content": "The kingdom aims to source 70% of its power capacity from renewables by 2030 - to get there, it needs international support and cooperation\nThe post Collective global roadmap can boost Cambodia’s e..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Emirates NBD Launches Transition Finance Framework to Support Hard-to-Abate Businesses in Low-Carbon Shift",
-      "description": "Middle East, North Africa, Türkiye and South Asia-focused banking group Emirates NBD announced the release",
-      "url": "https://www.esgtoday.com/emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift/?utm_source=rss&utm_medium=rss&utm_campaign=emirates-nbd-launches-transition-finance-framework-to-support-hard-to-abate-businesses-in-low-carbon-shift",
-      "publishedAt": "2026-08-19T14:26:26",
-      "content": "Middle East, North Africa, Türkiye and South Asia-focused banking group Emirates NBD announced the release"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CATL to Prioritize Suppliers with Stronger Low-Carbon Performance",
-      "description": "China-based energy solutions company CATL announced it has reached certification of all 20 of its",
-      "url": "https://www.esgtoday.com/catl-to-prioritize-suppliers-with-stronger-low-carbon-performance/?utm_source=rss&utm_medium=rss&utm_campaign=catl-to-prioritize-suppliers-with-stronger-low-carbon-performance",
-      "publishedAt": "2026-08-19T11:49:43",
-      "content": "China-based energy solutions company CATL announced it has reached certification of all 20 of its"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "IFRS Foundation Approves 5-Year Operating and Financing Plan for ISSB",
-      "description": "The IFRS Foundation announced the approval of new five-year operating and financing plans for its",
-      "url": "https://www.esgtoday.com/ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb/?utm_source=rss&utm_medium=rss&utm_campaign=ifrs-foundation-approves-5-year-operating-and-financing-plan-for-issb",
-      "publishedAt": "2026-08-19T11:23:23",
-      "content": "The IFRS Foundation announced the approval of new five-year operating and financing plans for its"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Impact Investor Blue Earth Capital Raises Over $200 Million for Secondaries Strategy",
-      "description": "Specialist impact investor Blue Earth Capital announced that it has raised over $200 million in",
-      "url": "https://www.esgtoday.com/impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investor-blue-earth-capital-raises-over-200-million-for-secondaries-strategy",
-      "publishedAt": "2026-08-19T10:34:31",
-      "content": "Specialist impact investor Blue Earth Capital announced that it has raised over $200 million in"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "El Niño Is Back. And Worse Than Ever.",
-      "description": "The recurring climate phenomenon is poised this year to enter a new phase known as a super El Niño, exacerbating the effects of climate change.",
-      "url": "https://www.nytimes.com/2026/08/19/podcasts/the-daily/el-nino-climate-change-heat-wave-drought.html",
-      "publishedAt": "2026-08-19T10:00:15",
-      "content": "The recurring climate phenomenon is poised this year to enter a new phase known as a super El Niño, exacerbating the effects of climate change."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Why Good On You Only Uses Publicly Available Information to Rate Brands",
-      "description": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea...",
-      "url": "https://goodonyou.eco/publicly-available-information/",
-      "publishedAt": "2026-08-19T08:39:17",
-      "content": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Watermelons in Bristol: how UK heatwaves are affecting growers",
-      "description": "Most allotment holders say the heat has meant more work for smaller crops, although some have found a silver liningAfter a summer of repeated heatwaves and exceptionally dry weather in the UK, rain...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/20/watermelons-in-bristol-how-uk-heatwaves-are-affecting-growers",
-      "publishedAt": "2026-08-20T05:00:43",
-      "content": "Most allotment holders say the heat has meant more work for smaller crops, although some have found a silver liningAfter a summer of repeated heatwaves and exceptionally dry weather in the UK, rain..."
     },
     {
       "source": {
@@ -389,36 +521,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Triple Pundit"
       },
-      "author": "The Guardian",
-      "title": "Taxpayers to fund clear-up of illegal dumps in West Yorkshire, Surrey and Kent",
-      "description": "Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activityIllegal dumps in West Yorkshire, Surrey and Kent will be cleared up using taxpayer...",
-      "url": "https://www.theguardian.com/environment/2026/aug/19/taxpayers-to-fund-clear-up-of-dumps-in-west-yorkshire-surrey-and-kent",
-      "publishedAt": "2026-08-19T21:30:33",
-      "content": "Andy Burnham promises drive to tackle toxic waste, raise fines and use AI-powered drones to detect illegal activityIllegal dumps in West Yorkshire, Surrey and Kent will be cleared up using taxpayer..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Every country needs a model to help optimise its energy transition",
-      "description": "National pledges and platforms alone won’t lead to secure and affordable decarbonised energy systems\nThe post Every country needs a model to help optimise its energy transition appeared first on Cl...",
-      "url": "https://www.climatechangenews.com/2026/08/18/every-country-needs-a-model-to-help-optimise-its-energy-transition/",
-      "publishedAt": "2026-08-18T17:24:55",
-      "content": "National pledges and platforms alone won’t lead to secure and affordable decarbonised energy systems\nThe post Every country needs a model to help optimise its energy transition appeared first on Cl..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "South Africa’s top court blocks Shell’s offshore oil exploration right",
-      "description": "Constitutional Court rules that Shell and its partners failed to consult affected communities and did not properly consider environmental risks\nThe post South Africa’s top court blocks Shell’s offs...",
-      "url": "https://www.climatechangenews.com/2026/08/14/south-africas-top-court-blocks-shells-offshore-oil-exploration-right/",
-      "publishedAt": "2026-08-14T17:18:04",
-      "content": "Constitutional Court rules that Shell and its partners failed to consult affected communities and did not properly consider environmental risks\nThe post South Africa’s top court blocks Shell’s offs..."
+      "author": "Triple Pundit",
+      "title": "Zimbabwean Communities Shut Out by Banks Are Building Their Own Loan Programs",
+      "description": "In thousands of communities across Zimbabwe, people pool their savings together and loan it out to help their neighbors build homes and start businesses.TriplePundit",
+      "url": "https://triplepundit.com/2026/informal-savings-groups-rural-zimbabwe-financial-inclusion/",
+      "publishedAt": "2026-08-18T12:00:00",
+      "content": "In thousands of communities across Zimbabwe, people pool their savings together and loan it out to help their neighbors build homes and start businesses.TriplePundit"
     }
   ]
 }
