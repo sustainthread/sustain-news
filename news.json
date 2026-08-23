@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 44,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Proposed London datacentre ‘incompatible’ with net zero with 1m-tonne carbon footprint",
-      "description": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New YorkA “hyperscale” datacentre in outer London would generate more than 1m...",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
-      "publishedAt": "2026-08-21T10:00:31",
-      "content": "Exclusive: Planning documents show annual emissions from North Ockendon project would be equivalent to 8,480 flights to New YorkA “hyperscale” datacentre in outer London would generate more than 1m..."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -34,17 +23,6 @@
       "url": "https://www.esgtoday.com/neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete/?utm_source=rss&utm_medium=rss&utm_campaign=neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete",
       "publishedAt": "2026-08-21T10:03:24",
       "content": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Cut cost of loans for solar panels on UK homes, ministers urged",
-      "description": "Report says ‘solar bonds’ could fund wider access to clean energy, reducing household billsSolar panels could be cheaper for people on lower incomes if the government stepped in to reduce the cost ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/cut-cost-of-loans-for-solar-panels-on-uk-homes-ministers-urged",
-      "publishedAt": "2026-08-21T08:00:28",
-      "content": "Report says ‘solar bonds’ could fund wider access to clean energy, reducing household billsSolar panels could be cheaper for people on lower incomes if the government stepped in to reduce the cost ..."
     },
     {
       "source": {
@@ -70,14 +48,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Home comforts: can remote work be better for the environment?",
-      "description": "Many Australians now have the option to work from home.",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/22/change-by-degrees-wfh-remote-work-better-for-environment",
-      "publishedAt": "2026-08-22T00:00:48",
-      "content": "Many Australians now have the option to work from home."
+      "author": "ESG Today",
+      "title": "GIC Appoints De Rui Wong as Head of Sustainability",
+      "description": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of",
+      "url": "https://www.esgtoday.com/gic-appoints-de-rui-wong-as-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=gic-appoints-de-rui-wong-as-head-of-sustainability",
+      "publishedAt": "2026-08-20T12:18:54",
+      "content": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of"
     },
     {
       "source": {
@@ -92,25 +70,113 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Hindu"
       },
-      "author": "ESG Today",
-      "title": "GIC Appoints De Rui Wong as Head of Sustainability",
-      "description": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of",
-      "url": "https://www.esgtoday.com/gic-appoints-de-rui-wong-as-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=gic-appoints-de-rui-wong-as-head-of-sustainability",
-      "publishedAt": "2026-08-20T12:18:54",
-      "content": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of"
+      "author": "The Hindu",
+      "title": "Indian Chamber of Commerce and Industry moots Clean Coimbatore Mission",
+      "description": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an...",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/indian-chamber-of-commerce-and-industry-moots-clean-coimbatore-mission/article71368160.ece",
+      "publishedAt": "2026-08-20T12:13:56",
+      "content": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "“Dangerous consequences” – how AI’s climate framing lets Big Tech off the hook",
+      "description": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’...",
+      "url": "https://www.climatechangenews.com/2026/08/17/dangerous-consequences-how-ais-climate-framing-lets-big-tech-off-the-hook/",
+      "publishedAt": "2026-08-17T14:09:40",
+      "content": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "19 More Sustainable Alternatives to Zara",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
+      "publishedAt": "2026-08-17T00:00:58",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Rewilded land remains green amid drought-stricken English countryside, images show",
-      "description": "National Trust’s Holnicote estate says restored wetlands and rivers offer proof of resilience to drought, wildfires and floodingAerial footage of an estate in Somerset has revealed the benefits of ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/somerset-rewilding-holnicote-estate-wetlands-rivers-resilience",
-      "publishedAt": "2026-08-21T05:00:25",
-      "content": "National Trust’s Holnicote estate says restored wetlands and rivers offer proof of resilience to drought, wildfires and floodingAerial footage of an estate in Somerset has revealed the benefits of ..."
+      "title": "‘Devastating’: Western Australia fears a black swan moment as bird flu threatens flagship species",
+      "description": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates.",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/23/black-swan-bird-flu-western-australia",
+      "publishedAt": "2026-08-22T20:00:12",
+      "content": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "publishedAt": "2026-08-22T18:03:52",
+      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T11:31:09",
+      "content": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Unsafe for swimming’: Ironman Leeds is latest casualty of heat-fuelled toxic algae",
+      "description": "Athletes faced last-minute cancelling of 2.",
+      "url": "https://www.theguardian.com/environment/2026/aug/22/ironman-leeds-swim-heatwave-fuelled-toxic-algae",
+      "publishedAt": "2026-08-22T11:00:02",
+      "content": "Athletes faced last-minute cancelling of 2."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Young country diary: Camping in my garden, nose to nose with a fox | Ada",
+      "description": "Leeds, West Yorkshire: I missed it first time as my dad couldn’t wake me up.",
+      "url": "https://www.theguardian.com/environment/2026/aug/22/young-country-diary-camping-in-my-garden-nose-to-nose-with-a-fox",
+      "publishedAt": "2026-08-22T10:00:01",
+      "content": "Leeds, West Yorkshire: I missed it first time as my dad couldn’t wake me up."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Why am I called The Black Farmer? Because there are so few of us in Britain. I’d like that to change | Wilfred Emmanuel-Jones",
+      "description": "Running a farm is tough – TV’s Clarkson’s Farm shows that – but I know many minorities would love the chance.",
+      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/the-black-farmer-tv-clarksons-farm-minorities",
+      "publishedAt": "2026-08-22T08:00:57",
+      "content": "Running a farm is tough – TV’s Clarkson’s Farm shows that – but I know many minorities would love the chance."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
+      "description": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
+      "publishedAt": "2026-08-21T18:07:51",
+      "content": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ..."
     },
     {
       "source": {
@@ -191,160 +257,6 @@
     },
     {
       "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Indian Chamber of Commerce and Industry moots Clean Coimbatore Mission",
-      "description": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an...",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/indian-chamber-of-commerce-and-industry-moots-clean-coimbatore-mission/article71368160.ece",
-      "publishedAt": "2026-08-20T12:13:56",
-      "content": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "“Dangerous consequences” – how AI’s climate framing lets Big Tech off the hook",
-      "description": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’...",
-      "url": "https://www.climatechangenews.com/2026/08/17/dangerous-consequences-how-ais-climate-framing-lets-big-tech-off-the-hook/",
-      "publishedAt": "2026-08-17T14:09:40",
-      "content": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "19 More Sustainable Alternatives to Zara",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
-      "publishedAt": "2026-08-17T00:00:58",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
-      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "publishedAt": "2026-08-22T01:08:25",
-      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T23:56:48",
-      "content": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’",
-      "description": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem.",
-      "url": "https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/",
-      "publishedAt": "2026-08-21T20:36:34",
-      "content": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Should school holidays change to cope with extreme heat?",
-      "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
-      "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T15:23:17",
-      "content": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T15:07:37",
-      "content": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
-      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T14:17:03",
-      "content": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Biggest El Niño for a century forecast to bring UK more autumn rain and storms",
-      "description": "‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide, with severe droughts expected in some areasThe El Niño event developing over the Pacific Ocean is likely to be the strongest...",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/increased-rainfall-and-storms-to-hit-uk-due-to-biggest-el-nino-for-a-century-say-met-office",
-      "publishedAt": "2026-08-21T14:10:04",
-      "content": "‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide, with severe droughts expected in some areasThe El Niño event developing over the Pacific Ocean is likely to be the strongest..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "England’s Ancient Trees Are Dying in the Heat",
-      "description": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
-      "publishedAt": "2026-08-21T12:17:42",
-      "content": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "How safeguarding land protects our future",
-      "description": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app...",
-      "url": "https://www.climatechangenews.com/2026/08/21/how-safeguarding-land-protects-our-future/",
-      "publishedAt": "2026-08-21T10:16:15",
-      "content": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "6 Wild Swimming Spots For Open Water Escape in the U.S.",
-      "description": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat.",
-      "url": "https://www.nytimes.com/2026/08/21/travel/swimming-holes-rivers-lakes-ponds.html",
-      "publishedAt": "2026-08-21T09:02:06",
-      "content": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Extreme Heat Waves Fuel Political Tensions in Europe",
-      "description": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political.",
-      "url": "https://insideclimatenews.org/news/21082026/europe-heat-fuels-political-tensions/",
-      "publishedAt": "2026-08-21T09:00:00",
-      "content": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -422,69 +334,113 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Why Good On You Only Uses Publicly Available Information to Rate Brands",
-      "description": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea...",
-      "url": "https://goodonyou.eco/publicly-available-information/",
-      "publishedAt": "2026-08-19T08:39:17",
-      "content": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
-      "description": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
-      "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T05:06:39",
-      "content": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Python named Jodie Foster first snake to receive pioneering cancer treatment",
-      "description": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jawA 15ft (4.",
-      "url": "https://www.theguardian.com/world/2026/aug/21/python-jodie-foster-snake-cancer-electrochemotherapy",
-      "publishedAt": "2026-08-21T04:00:25",
-      "content": "Chester zoo resident, 23, ‘back to her usual feisty self’ after electrochemotherapy for tumour in her jawA 15ft (4."
+      "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
+      "description": "Experts say fires caused by wrongly discarded lithium batteries, such as those  in vapes, are putting lives at riskFires at recycling centres caused by wrongly discarded lithium batteries such as t...",
+      "url": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
+      "publishedAt": "2026-08-22T06:00:57",
+      "content": "Experts say fires caused by wrongly discarded lithium batteries, such as those  in vapes, are putting lives at riskFires at recycling centres caused by wrongly discarded lithium batteries such as t..."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Rain to stop in time for weekend as sun returns",
-      "description": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/c2el98pkd3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T00:14:00",
-      "content": "The heavy downpours that have caused flash flooding will ease during Friday with sunshine returning for the weekend. But there are some chilly nights in store, as Ben Rich explains."
+      "title": "How this 1960s ex-council house is managing to stay cool without air con",
+      "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T23:56:48",
+      "content": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "China’s Solar Buildout Hampers Bird Diversity",
-      "description": "Policies promoting solar power construction projects in China have contributed to a decline in bird diversity across the country.",
-      "url": "https://insideclimatenews.org/news/20082026/china-solar-panels-harm-bird-diversity/",
-      "publishedAt": "2026-08-20T18:44:42",
-      "content": "Policies promoting solar power construction projects in China have contributed to a decline in bird diversity across the country."
+      "title": "Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’",
+      "description": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem.",
+      "url": "https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/",
+      "publishedAt": "2026-08-21T20:36:34",
+      "content": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Should school holidays change to cope with extreme heat?",
+      "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
+      "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T15:23:17",
+      "content": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "El Niño set to be 'strongest in living memory', says Met Office",
+      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T15:07:37",
+      "content": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
+      "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-21T14:17:03",
+      "content": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "England’s Ancient Trees Are Dying in the Heat",
+      "description": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.",
+      "url": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
+      "publishedAt": "2026-08-21T12:17:42",
+      "content": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "How safeguarding land protects our future",
+      "description": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app...",
+      "url": "https://www.climatechangenews.com/2026/08/21/how-safeguarding-land-protects-our-future/",
+      "publishedAt": "2026-08-21T10:16:15",
+      "content": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "6 Wild Swimming Spots For Open Water Escape in the U.S.",
+      "description": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat.",
+      "url": "https://www.nytimes.com/2026/08/21/travel/swimming-holes-rivers-lakes-ponds.html",
+      "publishedAt": "2026-08-21T09:02:06",
+      "content": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Notes from Illinois’ Virtual Power Plant Frontier",
-      "description": "Illinois is the latest example of how a state can embrace virtual power plants and see results almost immediately.",
-      "url": "https://insideclimatenews.org/news/20082026/inside-clean-energy-illinois-virtual-power-plants/",
-      "publishedAt": "2026-08-20T13:00:00",
-      "content": "Illinois is the latest example of how a state can embrace virtual power plants and see results almost immediately."
+      "title": "Extreme Heat Waves Fuel Political Tensions in Europe",
+      "description": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political.",
+      "url": "https://insideclimatenews.org/news/21082026/europe-heat-fuels-political-tensions/",
+      "publishedAt": "2026-08-21T09:00:00",
+      "content": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political."
     },
     {
       "source": {
@@ -510,14 +466,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Good On You"
       },
-      "author": "Climate Change News",
-      "title": "China keeps Indonesia’s battery dream afloat but future less certain",
-      "description": "Chinese capital and technology turned Indonesia into the world’s top nickel supplier, but its dependence on China and the rise of nickel-free batteries could upset its battery ecosystem plans \nThe ...",
-      "url": "https://www.climatechangenews.com/2026/08/20/china-keeps-indonesias-battery-dream-afloat-but-future-less-certain/",
-      "publishedAt": "2026-08-20T05:00:00",
-      "content": "Chinese capital and technology turned Indonesia into the world’s top nickel supplier, but its dependence on China and the rise of nickel-free batteries could upset its battery ecosystem plans \nThe ..."
+      "author": "Good On You",
+      "title": "Why Good On You Only Uses Publicly Available Information to Rate Brands",
+      "description": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea...",
+      "url": "https://goodonyou.eco/publicly-available-information/",
+      "publishedAt": "2026-08-19T08:39:17",
+      "content": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea..."
     },
     {
       "source": {
