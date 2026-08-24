@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 40,
   "articles": [
     {
       "source": {
@@ -26,17 +26,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft, Qcells Partner to Pair AI Infrastructure with New Energy Capacity",
-      "description": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused",
-      "url": "https://www.esgtoday.com/microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity",
-      "publishedAt": "2026-08-20T11:00:30",
-      "content": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -51,6 +40,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Microsoft, Qcells Partner to Pair AI Infrastructure with New Energy Capacity",
+      "description": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused",
+      "url": "https://www.esgtoday.com/microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity",
+      "publishedAt": "2026-08-20T11:00:30",
+      "content": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "GIC Appoints De Rui Wong as Head of Sustainability",
       "description": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of",
       "url": "https://www.esgtoday.com/gic-appoints-de-rui-wong-as-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=gic-appoints-de-rui-wong-as-head-of-sustainability",
@@ -59,25 +59,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "The Guardian"
       },
-      "author": "BBC",
-      "title": "Wildfire-hit residents remove Greenpeace mural of Burnham from scorched mountain",
-      "description": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\".",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0yvpm7vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T09:02:24",
-      "content": "After wildfires the group painted an image bearing the words \"Our house is on fire, Andy\"."
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "Indian Chamber of Commerce and Industry moots Clean Coimbatore Mission",
-      "description": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an...",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/indian-chamber-of-commerce-and-industry-moots-clean-coimbatore-mission/article71368160.ece",
-      "publishedAt": "2026-08-20T12:13:56",
-      "content": "Trade body says Coimbatore should implement a scientific solid waste management system; at State level, it calls for a comprehensive agri tourism policy focusing on generating income for farmers an..."
+      "author": "The Guardian",
+      "title": "If all car tyres were filled with CO2, would this cut atmospheric carbon significantly?",
+      "description": "The long-running series in which readers answer other readers’ questions probes an intriguing scientific question in relation to the climate emergencyReaders reply: Is it inevitable that consumeris...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/23/if-all-car-tyres-were-filled-with-co2-would-this-cut-atmospheric-carbon-significantly",
+      "publishedAt": "2026-08-23T13:00:33",
+      "content": "The long-running series in which readers answer other readers’ questions probes an intriguing scientific question in relation to the climate emergencyReaders reply: Is it inevitable that consumeris..."
     },
     {
       "source": {
@@ -92,102 +81,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "19 More Sustainable Alternatives to Zara",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ethical-brands-doing-better-than-zara/",
-      "publishedAt": "2026-08-17T00:00:58",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Devastating’: Western Australia fears a black swan moment as bird flu threatens flagship species",
-      "description": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates.",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/23/black-swan-bird-flu-western-australia",
-      "publishedAt": "2026-08-22T20:00:12",
-      "content": "The state’s bird emblem is an indicator species for H5N1, with high visibility populations and low survival rates."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
-      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "publishedAt": "2026-08-22T18:03:52",
-      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
-      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T11:31:09",
-      "content": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
+      "title": "France links sharp rise in drownings to heatwaves",
+      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T17:39:33",
+      "content": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘Unsafe for swimming’: Ironman Leeds is latest casualty of heat-fuelled toxic algae",
-      "description": "Athletes faced last-minute cancelling of 2.",
-      "url": "https://www.theguardian.com/environment/2026/aug/22/ironman-leeds-swim-heatwave-fuelled-toxic-algae",
-      "publishedAt": "2026-08-22T11:00:02",
-      "content": "Athletes faced last-minute cancelling of 2."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Young country diary: Camping in my garden, nose to nose with a fox | Ada",
-      "description": "Leeds, West Yorkshire: I missed it first time as my dad couldn’t wake me up.",
-      "url": "https://www.theguardian.com/environment/2026/aug/22/young-country-diary-camping-in-my-garden-nose-to-nose-with-a-fox",
-      "publishedAt": "2026-08-22T10:00:01",
-      "content": "Leeds, West Yorkshire: I missed it first time as my dad couldn’t wake me up."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why am I called The Black Farmer? Because there are so few of us in Britain. I’d like that to change | Wilfred Emmanuel-Jones",
-      "description": "Running a farm is tough – TV’s Clarkson’s Farm shows that – but I know many minorities would love the chance.",
-      "url": "https://www.theguardian.com/commentisfree/2026/aug/22/the-black-farmer-tv-clarksons-farm-minorities",
-      "publishedAt": "2026-08-22T08:00:57",
-      "content": "Running a farm is tough – TV’s Clarkson’s Farm shows that – but I know many minorities would love the chance."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
-      "description": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
-      "publishedAt": "2026-08-21T18:07:51",
-      "content": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ..."
+      "title": "‘I love it. It’s hope’: the mysterious self-willed wildflower meadow that seeded itself",
+      "description": "Farmer Derek Sayer let a boggy field run wild and just one annual hay-cut has led to remarkable biodiversityTucked away on a country lane, a small field bursts with yellow and pink flowers. Quail a...",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/mysterious-self-willed-wildflower-meadow-that-seeded-itself",
+      "publishedAt": "2026-08-23T14:00:34",
+      "content": "Farmer Derek Sayer let a boggy field run wild and just one annual hay-cut has led to remarkable biodiversityTucked away on a country lane, a small field bursts with yellow and pink flowers. Quail a..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Rare South American Diseases Offer Clues on the Next Pandemic",
-      "description": "Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread.",
-      "url": "https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html",
-      "publishedAt": "2026-08-21T16:06:45",
-      "content": "Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread."
+      "title": "Wildfires Are Turning Forests in the American West Into Shrubland",
+      "description": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.",
+      "url": "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html",
+      "publishedAt": "2026-08-23T09:00:23",
+      "content": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Burning Questions Confront Wildland Firefighters in Maine and Across New England",
+      "description": "Wildfires in New England rarely make national news.",
+      "url": "https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/",
+      "publishedAt": "2026-08-23T09:00:00",
+      "content": "Wildfires in New England rarely make national news."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
+      "description": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against themTen years ago, Alastair Harper was an advo...",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
+      "publishedAt": "2026-08-23T07:00:26",
+      "content": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against themTen years ago, Alastair Harper was an advo..."
     },
     {
       "source": {
@@ -257,80 +202,58 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "Flock Safety Is Under Fire, But It’s Only a Part of Modern Mass Surveillance",
-      "description": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States.",
-      "url": "https://csrwire.com/press-release/flock-safety-under-fire-its-only-part-modern-mass-surveillance/",
-      "publishedAt": "2026-08-20T16:25:00",
-      "content": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States."
+      "author": "The Guardian",
+      "title": "Onshore windfarm applications hit 10-year high in England",
+      "description": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to MarchPlans for new onshore windfarms in England have reached their highest annual level in ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
+      "publishedAt": "2026-08-23T06:00:24",
+      "content": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to MarchPlans for new onshore windfarms in England have reached their highest annual level in ..."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Entergy Supports New Wilcox Academy Early Learning Center in Central City",
-      "description": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility.",
-      "url": "https://csrwire.com/press-release/entergy-supports-new-wilcox-academy-early-learning-center-central-city/",
-      "publishedAt": "2026-08-20T14:35:00",
-      "content": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility."
+      "author": "New York Times",
+      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "publishedAt": "2026-08-22T18:03:52",
+      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "BBC"
       },
-      "author": "ESG Today",
-      "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
-      "description": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a",
-      "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss&utm_medium=rss&utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
-      "publishedAt": "2026-08-20T13:06:34",
-      "content": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a"
+      "author": "BBC",
+      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T11:31:09",
+      "content": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "IWBI Signature Interview Series: A Conversation With Jason DiBona on the Future of Healthy Indoor Air",
-      "description": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing.",
-      "url": "https://csrwire.com/press-release/iwbi-signature-interview-series-conversation-jason-dibona-future-healthy-indoor-air/",
-      "publishedAt": "2026-08-20T12:40:00",
-      "content": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing."
+      "author": "The Guardian",
+      "title": "‘Unsafe for swimming’: Ironman Leeds is latest casualty of heat-fuelled toxic algae",
+      "description": "Athletes faced last-minute cancelling of 2.",
+      "url": "https://www.theguardian.com/environment/2026/aug/22/ironman-leeds-swim-heatwave-fuelled-toxic-algae",
+      "publishedAt": "2026-08-22T11:00:02",
+      "content": "Athletes faced last-minute cancelling of 2."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
-      "description": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,",
-      "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
-      "publishedAt": "2026-08-20T12:31:30",
-      "content": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Connection Sessions, Episode 1: Dylan Efron x Everglades National Park | T-Mobile",
-      "description": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer.",
-      "url": "https://csrwire.com/press-release/connection-sessions-episode-1-dylan-efron-x-everglades-national-park-t-mobile/",
-      "publishedAt": "2026-08-20T10:05:00",
-      "content": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Holland Opens Training Center in Cidade do Agro to Train Students in Agriculture-Related Programs",
-      "description": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub...",
-      "url": "https://csrwire.com/press-release/new-holland-opens-training-center-cidade-do-agro-train-students-agriculture-related-programs/",
-      "publishedAt": "2026-08-20T09:00:00",
-      "content": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub..."
+      "author": "Inside Climate News",
+      "title": "Primary Effort ‘Changed the Conversation’ Around Wyoming’s Public Lands",
+      "description": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug.",
+      "url": "https://insideclimatenews.org/news/22082026/public-lands-win-in-wyoming-primary/",
+      "publishedAt": "2026-08-22T08:55:00",
+      "content": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug."
     },
     {
       "source": {
@@ -422,47 +345,80 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "6 Wild Swimming Spots For Open Water Escape in the U.S.",
-      "description": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat.",
-      "url": "https://www.nytimes.com/2026/08/21/travel/swimming-holes-rivers-lakes-ponds.html",
-      "publishedAt": "2026-08-21T09:02:06",
-      "content": "A summer swim in wild waters can bring escape and exhilaration. Here are six places on state and national park land across the United States to backstroke, butterfly or just beat the heat."
+      "author": "CSRWire",
+      "title": "Flock Safety Is Under Fire, But It’s Only a Part of Modern Mass Surveillance",
+      "description": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States.",
+      "url": "https://csrwire.com/press-release/flock-safety-under-fire-its-only-part-modern-mass-surveillance/",
+      "publishedAt": "2026-08-20T16:25:00",
+      "content": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Extreme Heat Waves Fuel Political Tensions in Europe",
-      "description": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political.",
-      "url": "https://insideclimatenews.org/news/21082026/europe-heat-fuels-political-tensions/",
-      "publishedAt": "2026-08-21T09:00:00",
-      "content": "LINZ, Austria—A summer-long series of heatwaves that has been blistering much of Europe since June has turned political."
+      "author": "CSRWire",
+      "title": "Entergy Supports New Wilcox Academy Early Learning Center in Central City",
+      "description": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility.",
+      "url": "https://csrwire.com/press-release/entergy-supports-new-wilcox-academy-early-learning-center-central-city/",
+      "publishedAt": "2026-08-20T14:35:00",
+      "content": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "The winner of the Guardian's Invertebrate of the year 2026 revealed",
-      "description": "In a much closer contest than previous years – when the tardigrade and the common earthworm won with popular landslides – the winner of the 2026 Guardian Invertebrate of the year has been decided.T...",
-      "url": "https://www.theguardian.com/environment/video/2026/aug/20/the-winner-of-the-guardians-invertebrate-of-the-year-2026-revealed",
-      "publishedAt": "2026-08-20T11:01:09",
-      "content": "In a much closer contest than previous years – when the tardigrade and the common earthworm won with popular landslides – the winner of the 2026 Guardian Invertebrate of the year has been decided.T..."
+      "author": "ESG Today",
+      "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
+      "description": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a",
+      "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss&utm_medium=rss&utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
+      "publishedAt": "2026-08-20T13:06:34",
+      "content": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a"
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "Collective global roadmap can boost Cambodia’s energy transition goals",
-      "description": "The kingdom aims to source 70% of its power capacity from renewables by 2030 - to get there, it needs international support and cooperation\nThe post Collective global roadmap can boost Cambodia’s e...",
-      "url": "https://www.climatechangenews.com/2026/08/20/collective-global-roadmap-can-boost-cambodias-energy-transition-goals/",
-      "publishedAt": "2026-08-20T08:09:05",
-      "content": "The kingdom aims to source 70% of its power capacity from renewables by 2030 - to get there, it needs international support and cooperation\nThe post Collective global roadmap can boost Cambodia’s e..."
+      "author": "CSRWire",
+      "title": "IWBI Signature Interview Series: A Conversation With Jason DiBona on the Future of Healthy Indoor Air",
+      "description": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing.",
+      "url": "https://csrwire.com/press-release/iwbi-signature-interview-series-conversation-jason-dibona-future-healthy-indoor-air/",
+      "publishedAt": "2026-08-20T12:40:00",
+      "content": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
+      "description": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,",
+      "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
+      "publishedAt": "2026-08-20T12:31:30",
+      "content": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Connection Sessions, Episode 1: Dylan Efron x Everglades National Park | T-Mobile",
+      "description": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer.",
+      "url": "https://csrwire.com/press-release/connection-sessions-episode-1-dylan-efron-x-everglades-national-park-t-mobile/",
+      "publishedAt": "2026-08-20T10:05:00",
+      "content": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "New Holland Opens Training Center in Cidade do Agro to Train Students in Agriculture-Related Programs",
+      "description": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub...",
+      "url": "https://csrwire.com/press-release/new-holland-opens-training-center-cidade-do-agro-train-students-agriculture-related-programs/",
+      "publishedAt": "2026-08-20T09:00:00",
+      "content": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub..."
     },
     {
       "source": {
