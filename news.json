@@ -1,7 +1,40 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 41,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "World Bank Issues $4 Billion Sustainable Development Bond",
+      "description": "The World Bank announced that it has raised $4 billion through the issuance of a",
+      "url": "https://www.esgtoday.com/world-bank-issues-4-billion-sustainable-development-bond/?utm_source=rss&utm_medium=rss&utm_campaign=world-bank-issues-4-billion-sustainable-development-bond",
+      "publishedAt": "2026-08-24T13:19:17",
+      "content": "The World Bank announced that it has raised $4 billion through the issuance of a"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "New Zealand moves to protect business with law curtailing climate litigation",
+      "description": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at the national level not in court \nThe post New Ze...",
+      "url": "https://www.climatechangenews.com/2026/08/24/new-zealand-moves-to-protect-business-with-law-curtailing-climate-litigation/",
+      "publishedAt": "2026-08-24T12:05:01",
+      "content": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at the national level not in court \nThe post New Ze..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "79 More Sustainable Fashion Brands From Europe",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
+      "publishedAt": "2026-08-24T00:00:41",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -12,6 +45,39 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-08-19T22:00:45",
       "content": "Feature image: Pangaia."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Sustainability 101: Materials at the Center of Sustainability, Human Rights, and Business Resilience",
+      "description": "Materials are at the center of the technology that keeps people, businesses, and communities connected.",
+      "url": "https://csrwire.com/press-release/sustainability-101-materials-center-sustainability-human-rights-and-business-resilience/",
+      "publishedAt": "2026-08-24T09:05:00",
+      "content": "Materials are at the center of the technology that keeps people, businesses, and communities connected."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Remembering the ‘Visionary’ Author of Pennsylvania’s Environmental Rights Amendment",
+      "description": "A monumental figure in Pennsylvania’s environmental movement passed away last week.",
+      "url": "https://insideclimatenews.org/news/24082026/remembering-franklin-kury-pennsylvania-environmental-rights-amendment-visionary/",
+      "publishedAt": "2026-08-24T16:02:23",
+      "content": "A monumental figure in Pennsylvania’s environmental movement passed away last week."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Indonesia’s nickel production cuts are not enough to create a sustainable industry",
+      "description": "The government is restricting nickel production to push up prices but producing more sustainable nickel for a premium requires addressing the industry's coal issue\nThe post Indonesia’s nickel produ...",
+      "url": "https://www.climatechangenews.com/2026/08/24/indonesias-nickel-production-cuts-are-not-enough-to-create-a-sustainable-industry/",
+      "publishedAt": "2026-08-24T10:40:44",
+      "content": "The government is restricting nickel production to push up prices but producing more sustainable nickel for a premium requires addressing the industry's coal issue\nThe post Indonesia’s nickel produ..."
     },
     {
       "source": {
@@ -26,58 +92,190 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "Material Guide: What Is Polyester and Can It Ever Be Sustainable?",
-      "description": "Polyester is a synthetic fibre primarily made from fossil fuels that is damaging to the environment.",
-      "url": "https://goodonyou.eco/how-sustainable-is-polyester/",
-      "publishedAt": "2026-08-18T03:30:44",
-      "content": "Polyester is a synthetic fibre primarily made from fossil fuels that is damaging to the environment."
+      "author": "BBC",
+      "title": "World's oceans hit highest temperature on record as El Niño grows",
+      "description": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T16:27:28",
+      "content": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Microsoft, Qcells Partner to Pair AI Infrastructure with New Energy Capacity",
-      "description": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused",
-      "url": "https://www.esgtoday.com/microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-qcells-partner-to-pair-ai-infrastructure-with-new-energy-capacity",
-      "publishedAt": "2026-08-20T11:00:30",
-      "content": "Microsoft and clean energy company Qcells announced a significant expansion of their alliance, currently focused"
+      "title": "U.S. DOE Invests $500 Million in Critical Mineral, Battery Supply Chain Projects",
+      "description": "The U.S. Department of Energy’s (DOE) Office of Critical Minerals and Energy Innovation (CMEI) announced",
+      "url": "https://www.esgtoday.com/u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-doe-invests-500-million-in-critical-mineral-and-battery-supply-chain-projects",
+      "publishedAt": "2026-08-24T14:58:40",
+      "content": "The U.S. Department of Energy’s (DOE) Office of Critical Minerals and Energy Innovation (CMEI) announced"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "For These Three Interns, the Medtronic Mission Is Personal",
+      "description": "“It's so cool to imagine the countless lives that I'm helping to improve through my internship,” she said.",
+      "url": "https://csrwire.com/press-release/these-three-interns-medtronic-mission-personal/",
+      "publishedAt": "2026-08-24T13:45:00",
+      "content": "“It's so cool to imagine the countless lives that I'm helping to improve through my internship,” she said."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "GIC Appoints De Rui Wong as Head of Sustainability",
-      "description": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of",
-      "url": "https://www.esgtoday.com/gic-appoints-de-rui-wong-as-head-of-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=gic-appoints-de-rui-wong-as-head-of-sustainability",
-      "publishedAt": "2026-08-20T12:18:54",
-      "content": "Singapore’s sovereign wealth fund, GIC, has appointed De Rui Wong as its new Head of"
+      "title": "WovenEarth Raises $155 Million for CleanTech Venture Fund",
+      "description": "Early-stage cleantech investment firm WovenEarth Ventures announced that it has raised $155 million at the",
+      "url": "https://www.esgtoday.com/wovenearth-raises-155-million-for-cleantech-venture-fund/?utm_source=rss&utm_medium=rss&utm_campaign=wovenearth-raises-155-million-for-cleantech-venture-fund",
+      "publishedAt": "2026-08-24T12:36:14",
+      "content": "Early-stage cleantech investment firm WovenEarth Ventures announced that it has raised $155 million at the"
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "If all car tyres were filled with CO2, would this cut atmospheric carbon significantly?",
-      "description": "The long-running series in which readers answer other readers’ questions probes an intriguing scientific question in relation to the climate emergencyReaders reply: Is it inevitable that consumeris...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/aug/23/if-all-car-tyres-were-filled-with-co2-would-this-cut-atmospheric-carbon-significantly",
-      "publishedAt": "2026-08-23T13:00:33",
-      "content": "The long-running series in which readers answer other readers’ questions probes an intriguing scientific question in relation to the climate emergencyReaders reply: Is it inevitable that consumeris..."
+      "title": "How growing up in ‘Chemical Valley’ inspired lawyer to sue industry she used to work for",
+      "description": "Hélène Duguy is taking on companies accused of failing to stop Pfas pollution in the area of France she calls homeThe factories were just part of the landscape for Hélène Duguy growing up in the he...",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/chemical-valley-inspired-lawyer-sue-industry-france-helene-duguy",
+      "publishedAt": "2026-08-24T12:00:32",
+      "content": "Hélène Duguy is taking on companies accused of failing to stop Pfas pollution in the area of France she calls homeThe factories were just part of the landscape for Hélène Duguy growing up in the he..."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "“Dangerous consequences” – how AI’s climate framing lets Big Tech off the hook",
-      "description": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’...",
-      "url": "https://www.climatechangenews.com/2026/08/17/dangerous-consequences-how-ais-climate-framing-lets-big-tech-off-the-hook/",
-      "publishedAt": "2026-08-17T14:09:40",
-      "content": "Former Microsoft manager Holly Alpine explains why AI's climate danger isn't just data centres but also its unchecked use across the fossil fuel industry\nThe post “Dangerous consequences” – how AI’..."
+      "author": "CSRWire",
+      "title": "Going Beyond: A Look at Elanco's Summer Internship Program",
+      "description": "Elanco's robust innovation pipeline is powered by people.",
+      "url": "https://csrwire.com/press-release/going-beyond-look-elancos-summer-internship-program/",
+      "publishedAt": "2026-08-24T11:00:00",
+      "content": "Elanco's robust innovation pipeline is powered by people."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Redstone Raises €25 Million for Ocean Tech-Focused Blue Economy Fund",
+      "description": "Early-stage venture capital investor Redstone announced that it has raised €25 million (USD$29 million) at",
+      "url": "https://www.esgtoday.com/redstone-raises-25-million-for-new-ocean-tech-focused-blue-fund/?utm_source=rss&utm_medium=rss&utm_campaign=redstone-raises-25-million-for-new-ocean-tech-focused-blue-fund",
+      "publishedAt": "2026-08-24T10:36:38",
+      "content": "Early-stage venture capital investor Redstone announced that it has raised €25 million (USD$29 million) at"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Poverty Simulation Hosted by Entergy and United Way of Southeast Louisiana Highlights Challenges Facing Vulnerable Families",
+      "description": "Entergy recently partnered with the United Way of Southeast Louisiana to host a poverty simulation designed to deepen understanding of the difficult realities facing ALICE households who often earn...",
+      "url": "https://csrwire.com/press-release/poverty-simulation-hosted-entergy-and-united-way-southeast-louisiana-highlights-challenges/",
+      "publishedAt": "2026-08-24T08:30:00",
+      "content": "Entergy recently partnered with the United Way of Southeast Louisiana to host a poverty simulation designed to deepen understanding of the difficult realities facing ALICE households who often earn..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Tornado tears through French village leaving dozens injured",
+      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T01:27:21",
+      "content": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "More downpours and thunderstorms are heading the UK's way",
+      "description": "More downpours and thunderstorms are heading the UK's way",
+      "url": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T16:38:21",
+      "content": "More downpours and thunderstorms are heading the UK's way"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "More Companies Are Promising Cloud Seeding Can Make Rain",
+      "description": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water.",
+      "url": "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html",
+      "publishedAt": "2026-08-24T16:29:55",
+      "content": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Wildfires Are Turning Forests in the American West Into Shrubland",
+      "description": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.",
+      "url": "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html",
+      "publishedAt": "2026-08-24T13:59:02",
+      "content": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK's rarest bird of prey rears new chicks in secret location",
+      "description": "The Montagu Harrier successfully nested for the second year running in the same secret location.",
+      "url": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-24T08:31:48",
+      "content": "The Montagu Harrier successfully nested for the second year running in the same secret location."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
+      "description": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kindFollow our Australia news live blog for latest updatesGet our breaking ...",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
+      "publishedAt": "2026-08-24T06:11:36",
+      "content": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kindFollow our Australia news live blog for latest updatesGet our breaking ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Wild beaver kits born in Norfolk for first time in more than 500 years",
+      "description": "Pair are offspring of two beavers who mysteriously arrived in Pensthorpe nature reserve near Fakenham in DecemberWild beaver kits have been born in Norfolk for the first time in more than 500 years...",
+      "url": "https://www.theguardian.com/world/2026/aug/24/wild-beaver-kit-pair-born-norfolk",
+      "publishedAt": "2026-08-24T06:00:55",
+      "content": "Pair are offspring of two beavers who mysteriously arrived in Pensthorpe nature reserve near Fakenham in DecemberWild beaver kits have been born in Norfolk for the first time in more than 500 years..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
+      "description": "Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across six major European nations including the UK favour encouraging th...",
+      "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
+      "publishedAt": "2026-08-24T05:00:53",
+      "content": "Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across six major European nations including the UK favour encouraging th..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: South Wales’s summer of fires will linger long in the memory | Eben Muse",
+      "description": "Tylorstown, Rhondda Valley: These coal areas are shaped by fire and ash.",
+      "url": "https://www.theguardian.com/world/2026/aug/24/country-diary-south-waless-summer-of-fires-will-linger-long-in-the-memory",
+      "publishedAt": "2026-08-24T04:30:51",
+      "content": "Tylorstown, Rhondda Valley: These coal areas are shaped by fire and ash."
     },
     {
       "source": {
@@ -103,17 +301,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Wildfires Are Turning Forests in the American West Into Shrubland",
-      "description": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.",
-      "url": "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html",
-      "publishedAt": "2026-08-23T09:00:23",
-      "content": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -133,6 +320,39 @@
       "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
       "publishedAt": "2026-08-23T07:00:26",
       "content": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against themTen years ago, Alastair Harper was an advo..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
+      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
+      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
+      "publishedAt": "2026-08-22T18:03:52",
+      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
+      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T11:31:09",
+      "content": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Primary Effort ‘Changed the Conversation’ Around Wyoming’s Public Lands",
+      "description": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug.",
+      "url": "https://insideclimatenews.org/news/22082026/public-lands-win-in-wyoming-primary/",
+      "publishedAt": "2026-08-22T08:55:00",
+      "content": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug."
     },
     {
       "source": {
@@ -172,7 +392,7 @@
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Lenovo Reaches New High in Workplace Pride Benchmark With First ‘Advocate’ Status",
+      "title": "Lenovo Reaches New High in Workplace Pride Benchmark With First 'Advocate' Status",
       "description": "Lenovo has achieved its highest-ever score in the Workplace Pride Global Benchmark, reaching 93.",
       "url": "https://csrwire.com/press-release/lenovo-reaches-new-high-workplace-pride-benchmark-first-advocate-status/",
       "publishedAt": "2026-08-21T10:05:00",
@@ -202,171 +422,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Onshore windfarm applications hit 10-year high in England",
-      "description": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to MarchPlans for new onshore windfarms in England have reached their highest annual level in ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
-      "publishedAt": "2026-08-23T06:00:24",
-      "content": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to MarchPlans for new onshore windfarms in England have reached their highest annual level in ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
-      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "publishedAt": "2026-08-22T18:03:52",
-      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
-      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T11:31:09",
-      "content": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Unsafe for swimming’: Ironman Leeds is latest casualty of heat-fuelled toxic algae",
-      "description": "Athletes faced last-minute cancelling of 2.",
-      "url": "https://www.theguardian.com/environment/2026/aug/22/ironman-leeds-swim-heatwave-fuelled-toxic-algae",
-      "publishedAt": "2026-08-22T11:00:02",
-      "content": "Athletes faced last-minute cancelling of 2."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Primary Effort ‘Changed the Conversation’ Around Wyoming’s Public Lands",
-      "description": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug.",
-      "url": "https://insideclimatenews.org/news/22082026/public-lands-win-in-wyoming-primary/",
-      "publishedAt": "2026-08-22T08:55:00",
-      "content": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
-      "description": "Experts say fires caused by wrongly discarded lithium batteries, such as those  in vapes, are putting lives at riskFires at recycling centres caused by wrongly discarded lithium batteries such as t...",
-      "url": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
-      "publishedAt": "2026-08-22T06:00:57",
-      "content": "Experts say fires caused by wrongly discarded lithium batteries, such as those  in vapes, are putting lives at riskFires at recycling centres caused by wrongly discarded lithium batteries such as t..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How this 1960s ex-council house is managing to stay cool without air con",
-      "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
-      "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T23:56:48",
-      "content": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Bomb Fishing Is Reducing Coral Reefs to ‘Rubble’",
-      "description": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem.",
-      "url": "https://insideclimatenews.org/news/21082026/bomb-fishing-destroying-coral-reefs/",
-      "publishedAt": "2026-08-21T20:36:34",
-      "content": "Nicknamed the “Amazon of the Seas,” the Coral Triangle is the world’s most biologically diverse marine ecosystem."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Should school holidays change to cope with extreme heat?",
-      "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
-      "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T15:23:17",
-      "content": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "El Niño set to be 'strongest in living memory', says Met Office",
-      "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
-      "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T15:07:37",
-      "content": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
-      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-21T14:17:03",
-      "content": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "England’s Ancient Trees Are Dying in the Heat",
-      "description": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.",
-      "url": "https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html",
-      "publishedAt": "2026-08-21T12:17:42",
-      "content": "Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "How safeguarding land protects our future",
-      "description": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app...",
-      "url": "https://www.climatechangenews.com/2026/08/21/how-safeguarding-land-protects-our-future/",
-      "publishedAt": "2026-08-21T10:16:15",
-      "content": "We can turn our growing vulnerability into a source of innovation and hope at COP17 in Mongolia, writes UNEP executive director Inger Andersen\nThe post How safeguarding land protects our future app..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Flock Safety Is Under Fire, But It’s Only a Part of Modern Mass Surveillance",
-      "description": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States.",
-      "url": "https://csrwire.com/press-release/flock-safety-under-fire-its-only-part-modern-mass-surveillance/",
-      "publishedAt": "2026-08-20T16:25:00",
-      "content": "A bipartisan wave of opposition to the security technology startup Flock Safety is growing across the United States."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy Supports New Wilcox Academy Early Learning Center in Central City",
-      "description": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility.",
-      "url": "https://csrwire.com/press-release/entergy-supports-new-wilcox-academy-early-learning-center-central-city/",
-      "publishedAt": "2026-08-20T14:35:00",
-      "content": "Entergy joined community leaders, educators and families to celebrate the grand opening and ribbon cutting of Wilcox Academy’s new Central City Early Learning Center and educator housing facility."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -375,50 +430,6 @@
       "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss&utm_medium=rss&utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
       "publishedAt": "2026-08-20T13:06:34",
       "content": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "IWBI Signature Interview Series: A Conversation With Jason DiBona on the Future of Healthy Indoor Air",
-      "description": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing.",
-      "url": "https://csrwire.com/press-release/iwbi-signature-interview-series-conversation-jason-dibona-future-healthy-indoor-air/",
-      "publishedAt": "2026-08-20T12:40:00",
-      "content": "For far too long, indoor air quality has largely been invisible and only something people noticed when something went wrong. But that’s changing."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Dimension Energy Secures $857 Million to Fund Expansion of U.S. Distributed Solar Portfolio",
-      "description": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,",
-      "url": "https://www.esgtoday.com/dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=dimension-energy-raises-857-million-to-fund-expansion-of-u-s-distributed-solar-portfolio",
-      "publishedAt": "2026-08-20T12:31:30",
-      "content": "Solar developer and operator Dimension Energy announced that it has raised $857 million in capital,"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Connection Sessions, Episode 1: Dylan Efron x Everglades National Park | T-Mobile",
-      "description": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer.",
-      "url": "https://csrwire.com/press-release/connection-sessions-episode-1-dylan-efron-x-everglades-national-park-t-mobile/",
-      "publishedAt": "2026-08-20T10:05:00",
-      "content": "Dylan Efron meets up with Florida wildlife experts to take in all the Everglades have to offer."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Holland Opens Training Center in Cidade do Agro to Train Students in Agriculture-Related Programs",
-      "description": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub...",
-      "url": "https://csrwire.com/press-release/new-holland-opens-training-center-cidade-do-agro-train-students-agriculture-related-programs/",
-      "publishedAt": "2026-08-20T09:00:00",
-      "content": "New Holland and Nova Holanda inaugurated the New Holland Training Center on Tuesday, August 11, at Agro City, the new teaching and innovation complex of the University of Agriculture | Uniube in Ub..."
     },
     {
       "source": {
