@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 41,
+  "totalResults": 43,
   "articles": [
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Chemours Publishes 2025 Sustainability Report Highlighting Progress on Climate, Emissions Reduction, and Responsible Manufacturing",
+      "description": "Today Chemours released its 2025 Sustainability Report highlighting progress across responsible manufacturing, climate action, safety, supply chain engagement, and community investment while showca...",
+      "url": "https://csrwire.com/press-release/chemours-publishes-2025-sustainability-report-highlighting-progress-climate-emissions/",
+      "publishedAt": "2026-08-25T07:00:00",
+      "content": "Today Chemours released its 2025 Sustainability Report highlighting progress across responsible manufacturing, climate action, safety, supply chain engagement, and community investment while showca..."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -12,6 +23,17 @@
       "url": "https://www.esgtoday.com/world-bank-issues-4-billion-sustainable-development-bond/?utm_source=rss&utm_medium=rss&utm_campaign=world-bank-issues-4-billion-sustainable-development-bond",
       "publishedAt": "2026-08-24T13:19:17",
       "content": "The World Bank announced that it has raised $4 billion through the issuance of a"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "79 More Sustainable Fashion Brands From Europe",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
+      "publishedAt": "2026-08-24T00:00:41",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -29,22 +51,77 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "79 More Sustainable Fashion Brands From Europe",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
-      "publishedAt": "2026-08-24T00:00:41",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
       "title": "More Sustainable Fashion Brand Offers This August 2026",
       "description": "Feature image: Pangaia.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-08-19T22:00:45",
       "content": "Feature image: Pangaia."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pennsylvania Lags Far Behind on Solar. Here’s How It Could Catch Up.",
+      "description": "Pennsylvania was a pioneer on renewable energy before the fracking boom upended that trajectory, and environmental advocates think it’s past time for state leaders to once again prioritize clean fo...",
+      "url": "https://insideclimatenews.org/news/25082026/pennsylvania-legislature-slows-renewable-energy-adoption/",
+      "publishedAt": "2026-08-25T08:50:00",
+      "content": "Pennsylvania was a pioneer on renewable energy before the fracking boom upended that trajectory, and environmental advocates think it’s past time for state leaders to once again prioritize clean fo..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Climate damage would obliterate any economic benefits of new North Sea fields, analysis shows",
+      "description": "Exclusive: Economic harm of CO2 pollution from Rosebank and Jackdaw forecast to far outweigh any boost to UKThe climate damage caused by developing the Rosebank and Jackdaw oil and gas fields under...",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/climate-damage-economy-north-sea-oil-gas-fields-rosebank-jackdaw",
+      "publishedAt": "2026-08-25T05:00:48",
+      "content": "Exclusive: Economic harm of CO2 pollution from Rosebank and Jackdaw forecast to far outweigh any boost to UKThe climate damage caused by developing the Rosebank and Jackdaw oil and gas fields under..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
+      "description": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments",
+      "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss&utm_medium=rss&utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
+      "publishedAt": "2026-08-25T12:58:37",
+      "content": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Australia Proposes Measures to Reduce Climate Reporting Burden on Companies",
+      "description": "The Government of Australia’s Treasury department announced the launch of a consultation on a series",
+      "url": "https://www.esgtoday.com/australia-proposes-measures-to-reduce-climate-reporting-burden-on-companies/?utm_source=rss&utm_medium=rss&utm_campaign=australia-proposes-measures-to-reduce-climate-reporting-burden-on-companies",
+      "publishedAt": "2026-08-25T10:44:02",
+      "content": "The Government of Australia’s Treasury department announced the launch of a consultation on a series"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers",
+      "description": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects.",
+      "url": "https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html",
+      "publishedAt": "2026-08-25T16:45:28",
+      "content": "Under the proposal, states would no longer need to provide public notice or solicit comments on air pollution permits for data centers and other projects."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Biggest Carbon Polluters Are to Blame for Half of U.S. Western Water Lost to Climate Change, ‘Groundbreaking’ Paper Says",
+      "description": "Some of the largest fossil fuel companies on Earth are disproportionately responsible for the water crisis in the American West, according to a first-of-its-kind study published Tuesday. From 2014 ...",
+      "url": "https://insideclimatenews.org/news/25082026/attribution-study-links-carbon-majors-to-colorado-river-crisis/",
+      "publishedAt": "2026-08-25T09:00:00",
+      "content": "Some of the largest fossil fuel companies on Earth are disproportionately responsible for the water crisis in the American West, according to a first-of-its-kind study published Tuesday. From 2014 ..."
     },
     {
       "source": {
@@ -84,22 +161,231 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Neocrete Raises $3.5 Million to Cut Carbon and Cost of Concrete",
-      "description": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding",
-      "url": "https://www.esgtoday.com/neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete/?utm_source=rss&utm_medium=rss&utm_campaign=neocrete-raises-3-5-million-to-cut-carbon-and-cost-of-concrete",
-      "publishedAt": "2026-08-21T10:03:24",
-      "content": "Concrete decarbonization technology company Neocrete announced that it has raised $3.5 million in a funding"
+      "title": "Aker, Microsoft Partner to Advance Maturity, Delivery of Carbon Capture and Removal Projects",
+      "description": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with",
+      "url": "https://www.esgtoday.com/aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects",
+      "publishedAt": "2026-08-25T14:42:56",
+      "content": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Lookthrough Acquires Real Estate ESG Data and Reporting Platform BuildingMinds",
+      "description": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio",
+      "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss&utm_medium=rss&utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
+      "publishedAt": "2026-08-25T14:01:12",
+      "content": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Mantel Raises $18 Million to Commercialize Carbon Capture Solution for Heavy Industry",
+      "description": "Carbon capture startup Mantel announced that it has raised $18 million, including strategic investments from",
+      "url": "https://www.esgtoday.com/mantel-raises-18-million-to-commercialize-carbon-capture-solution-for-heavy-industry/?utm_source=rss&utm_medium=rss&utm_campaign=mantel-raises-18-million-to-commercialize-carbon-capture-solution-for-heavy-industry",
+      "publishedAt": "2026-08-25T11:23:27",
+      "content": "Carbon capture startup Mantel announced that it has raised $18 million, including strategic investments from"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Brightening Our Corner – August 2026 Newsletter",
+      "description": "The Ray C.",
+      "url": "https://csrwire.com/press-release/brightening-our-corner-august-2026-newsletter/",
+      "publishedAt": "2026-08-25T09:40:00",
+      "content": "The Ray C."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Nicorette® Supports Smoking and Vaping Cessation in Europe",
+      "description": "A Total Quit™ is when we achieve freedom from tobacco and nicotine.",
+      "url": "https://csrwire.com/press-release/how-nicorette-supports-smoking-and-vaping-cessation-in-europe/",
+      "publishedAt": "2026-08-25T08:15:00",
+      "content": "A Total Quit™ is when we achieve freedom from tobacco and nicotine."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "World's oceans hit highest temperature on record as El Niño grows",
-      "description": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service.",
-      "url": "https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T16:27:28",
-      "content": "The record \"is another clear signal of an ocean under growing stress\", according to Dr Samantha Burgess from the European Copernicus climate change service."
+      "title": "'Magical' and rare barn owl has bumper breeding season",
+      "description": "Ten chicks have been successfully reared by two breeding pairs at secret sites across Fermanagh.",
+      "url": "https://www.bbc.co.uk/news/articles/crl6r66yjklo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:43:05",
+      "content": "Ten chicks have been successfully reared by two breeding pairs at secret sites across Fermanagh."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Does 'rewilded' land need better wildfire prevention measures?",
+      "description": "RSPB is considering measures it can take to improve resilience in the wake of a five week long fire",
+      "url": "https://www.bbc.co.uk/news/articles/cvgye1999n8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:25:20",
+      "content": "RSPB is considering measures it can take to improve resilience in the wake of a five week long fire"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Toxic waste sites exposed in Michael Sheen documentary are 'tip of the iceberg'",
+      "description": "One scientist says there are thousands of sites across the UK that need investigating.",
+      "url": "https://www.bbc.co.uk/news/articles/c07r2l7rjpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-26T05:14:36",
+      "content": "One scientist says there are thousands of sites across the UK that need investigating."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sand overextraction weakening riverbanks as concrete demand soars",
+      "description": "Research finds demand has more than doubled since 2000 and 80% of current demand comes from AsiaA booming demand for concrete has resulted in sand and gravel being extracted from riverbeds faster t...",
+      "url": "https://www.theguardian.com/science/2026/aug/26/terrawatch-sand-overextraction-riverbanks-concrete-demand",
+      "publishedAt": "2026-08-26T05:00:35",
+      "content": "Research finds demand has more than doubled since 2000 and 80% of current demand comes from AsiaA booming demand for concrete has resulted in sand and gravel being extracted from riverbeds faster t..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "‘Unbearable’ Heat in Uncooled Alabama Prisons",
+      "description": "ELMORE, Ala.",
+      "url": "https://insideclimatenews.org/news/25082026/alabama-prisons-unbearable-heat/",
+      "publishedAt": "2026-08-25T22:34:07",
+      "content": "ELMORE, Ala."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "MAHA Moms Take On Coal",
+      "description": "Some leaders of the health movement are challenging a pillar of the president’s energy agenda.",
+      "url": "https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html",
+      "publishedAt": "2026-08-25T20:04:49",
+      "content": "Some leaders of the health movement are challenging a pillar of the president’s energy agenda."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "‘We’ve Never Seen Anything Like It’: Early Harvest Rattles France’s Wine Industry",
+      "description": "Extreme heat waves this summer have set off an early grape harvest in Champagne and elsewhere in France.",
+      "url": "https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html",
+      "publishedAt": "2026-08-25T19:43:22",
+      "content": "Extreme heat waves this summer have set off an early grape harvest in Champagne and elsewhere in France."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Relief may be near for Indiana city after days without power",
+      "description": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+      "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T16:33:34",
+      "content": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US building twice as much gas-fired capacity as China in AI boom, analysis finds",
+      "description": "There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacentersThe US has surged ahead of China in the building of new gas-fired power generation, lar...",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/us-gas-power-china-ai-datacenter",
+      "publishedAt": "2026-08-25T10:00:34",
+      "content": "There has been a 76% increase in under-construction gas-fired projects amid ‘frenzy’ to build more datacentersThe US has surged ahead of China in the building of new gas-fired power generation, lar..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "3 Charts That Explain El Niño",
+      "description": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory.",
+      "url": "https://www.nytimes.com/2026/08/25/climate/el-nino-temperature-charts.html",
+      "publishedAt": "2026-08-25T09:02:42",
+      "content": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Data Center Developers in Texas Plan Massive New Gas Power Projects",
+      "description": "The 12 largest gas power projects planned in Texas are all specifically intended to run data centers, according to data released Tuesday by Global Energy Monitor, a global nonprofit that maps and t...",
+      "url": "https://insideclimatenews.org/news/25082026/texas-data-center-gas-projects/",
+      "publishedAt": "2026-08-25T08:55:00",
+      "content": "The 12 largest gas power projects planned in Texas are all specifically intended to run data centers, according to data released Tuesday by Global Energy Monitor, a global nonprofit that maps and t..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T08:52:17",
+      "content": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Small changes can make a big difference’: how getting farmers, fishers and beavers together could save a Cornish river",
+      "description": "A local initiative is testing simple ways to stop algal blooms in the River Fal threatening some of England’s most biodiverse marine habitats On a rocky beach in Cornwall, a group of wetsuit-clad f...",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/pollution-runoff-farmers-fishers-cornwall-river-fal-england-marine-habitats-algae-beavers",
+      "publishedAt": "2026-08-25T08:17:21",
+      "content": "A local initiative is testing simple ways to stop algal blooms in the River Fal threatening some of England’s most biodiverse marine habitats On a rocky beach in Cornwall, a group of wetsuit-clad f..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "More Companies Are Promising Cloud Seeding Can Make Rain",
+      "description": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water.",
+      "url": "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html",
+      "publishedAt": "2026-08-25T07:01:40",
+      "content": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Going with the grain: how restoring biodiversity led one farmer back to heritage wheat",
+      "description": "Henry Astor looked back to his grandfather’s time for the inspiration to find older varieties that could help nature on his Cotswold farmIt is the earliest harvest Henry Astor can remember. But wal...",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/farmer-cut-out-middleman-restore-biodiversity-henry-astor-heritage-wheat-aoe",
+      "publishedAt": "2026-08-25T07:00:50",
+      "content": "Henry Astor looked back to his grandfather’s time for the inspiration to find older varieties that could help nature on his Cotswold farmIt is the earliest harvest Henry Astor can remember. But wal..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
+      "description": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
+      "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T06:27:24",
+      "content": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour."
     },
     {
       "source": {
@@ -136,17 +422,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How growing up in ‘Chemical Valley’ inspired lawyer to sue industry she used to work for",
-      "description": "Hélène Duguy is taking on companies accused of failing to stop Pfas pollution in the area of France she calls homeThe factories were just part of the landscape for Hélène Duguy growing up in the he...",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/chemical-valley-inspired-lawyer-sue-industry-france-helene-duguy",
-      "publishedAt": "2026-08-24T12:00:32",
-      "content": "Hélène Duguy is taking on companies accused of failing to stop Pfas pollution in the area of France she calls homeThe factories were just part of the landscape for Hélène Duguy growing up in the he..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -180,256 +455,14 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Tornado tears through French village leaving dozens injured",
-      "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
-      "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T01:27:21",
-      "content": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "More downpours and thunderstorms are heading the UK's way",
-      "description": "More downpours and thunderstorms are heading the UK's way",
-      "url": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T16:38:21",
-      "content": "More downpours and thunderstorms are heading the UK's way"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "More Companies Are Promising Cloud Seeding Can Make Rain",
-      "description": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water.",
-      "url": "https://www.nytimes.com/2026/08/24/climate/cloud-seeding-west-drought-rain.html",
-      "publishedAt": "2026-08-24T16:29:55",
-      "content": "States are spending millions of dollars on cloud-seeding technology, backed by new data on its effectiveness — and driven by desperation for water."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Wildfires Are Turning Forests in the American West Into Shrubland",
-      "description": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.",
-      "url": "https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html",
-      "publishedAt": "2026-08-24T13:59:02",
-      "content": "Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK's rarest bird of prey rears new chicks in secret location",
-      "description": "The Montagu Harrier successfully nested for the second year running in the same secret location.",
-      "url": "https://www.bbc.co.uk/news/articles/c7vgvvyr78eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T08:31:48",
-      "content": "The Montagu Harrier successfully nested for the second year running in the same secret location."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "How do you vaccinate 1,000 tiny penguins against bird flu in the wild? It’s ‘really tricky’ but there is a way",
-      "description": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kindFollow our Australia news live blog for latest updatesGet our breaking ...",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/little-penguins-bird-flu-vaccination-phillip-island-australia",
-      "publishedAt": "2026-08-24T06:11:36",
-      "content": "Phillip Island’s ‘iconic’ little penguins get first bird flu vaccinations in what is thought to be largest program of its kindFollow our Australia news live blog for latest updatesGet our breaking ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Wild beaver kits born in Norfolk for first time in more than 500 years",
-      "description": "Pair are offspring of two beavers who mysteriously arrived in Pensthorpe nature reserve near Fakenham in DecemberWild beaver kits have been born in Norfolk for the first time in more than 500 years...",
-      "url": "https://www.theguardian.com/world/2026/aug/24/wild-beaver-kit-pair-born-norfolk",
-      "publishedAt": "2026-08-24T06:00:55",
-      "content": "Pair are offspring of two beavers who mysteriously arrived in Pensthorpe nature reserve near Fakenham in DecemberWild beaver kits have been born in Norfolk for the first time in more than 500 years..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
-      "description": "Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across six major European nations including the UK favour encouraging th...",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
-      "publishedAt": "2026-08-24T05:00:53",
-      "content": "Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across six major European nations including the UK favour encouraging th..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: South Wales’s summer of fires will linger long in the memory | Eben Muse",
-      "description": "Tylorstown, Rhondda Valley: These coal areas are shaped by fire and ash.",
-      "url": "https://www.theguardian.com/world/2026/aug/24/country-diary-south-waless-summer-of-fires-will-linger-long-in-the-memory",
-      "publishedAt": "2026-08-24T04:30:51",
-      "content": "Tylorstown, Rhondda Valley: These coal areas are shaped by fire and ash."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "France links sharp rise in drownings to heatwaves",
-      "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T17:39:33",
-      "content": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I love it. It’s hope’: the mysterious self-willed wildflower meadow that seeded itself",
-      "description": "Farmer Derek Sayer let a boggy field run wild and just one annual hay-cut has led to remarkable biodiversityTucked away on a country lane, a small field bursts with yellow and pink flowers. Quail a...",
-      "url": "https://www.theguardian.com/environment/2026/aug/24/mysterious-self-willed-wildflower-meadow-that-seeded-itself",
-      "publishedAt": "2026-08-23T14:00:34",
-      "content": "Farmer Derek Sayer let a boggy field run wild and just one annual hay-cut has led to remarkable biodiversityTucked away on a country lane, a small field bursts with yellow and pink flowers. Quail a..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Burning Questions Confront Wildland Firefighters in Maine and Across New England",
-      "description": "Wildfires in New England rarely make national news.",
-      "url": "https://insideclimatenews.org/news/23082026/new-england-wildland-firefighters-impacted-by-federal-proposals/",
-      "publishedAt": "2026-08-23T09:00:00",
-      "content": "Wildfires in New England rarely make national news."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "London’s low emission zone is working – so why are cities around the world so cautious about clean air?",
-      "description": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against themTen years ago, Alastair Harper was an advo...",
-      "url": "https://www.theguardian.com/environment/2026/aug/23/london-low-emission-zone-working-other-cities-cautious-clean-air",
-      "publishedAt": "2026-08-23T07:00:26",
-      "content": "Similar initiatives have been launched from Barcelona to Bogotá, but they have misinformation, political pressure and vested interests stacked against themTen years ago, Alastair Harper was an advo..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Cuts Colorado River Water for Arizona, California and Nevada",
-      "description": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.",
-      "url": "https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html",
-      "publishedAt": "2026-08-22T18:03:52",
-      "content": "Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
-      "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
-      "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T11:31:09",
-      "content": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Primary Effort ‘Changed the Conversation’ Around Wyoming’s Public Lands",
-      "description": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug.",
-      "url": "https://insideclimatenews.org/news/22082026/public-lands-win-in-wyoming-primary/",
-      "publishedAt": "2026-08-22T08:55:00",
-      "content": "Zach Lentsch was leading a climbing trip on Devils Tower in Wyoming’s northeast corner on Aug."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Mafix Raises $5.4 Million to Turn Rocks into Carbon-Removing Fertilizer",
-      "description": "Ag-tech startup Mafix announced that it has raised $5.4 million in a pre-seed funding round,",
-      "url": "https://www.esgtoday.com/mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer/?utm_source=rss&utm_medium=rss&utm_campaign=mafix-raises-5-4-million-to-rocks-into-carbon-removing-fertilizer",
-      "publishedAt": "2026-08-21T12:47:15",
-      "content": "Ag-tech startup Mafix announced that it has raised $5.4 million in a pre-seed funding round,"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Baker Tilly Case Study: Managed Services Strengthen a Growing U.S. Subsidiary",
-      "description": "Growing life sciences organizations need back-office capabilities that can keep pace with operational and commercial expansion.",
-      "url": "https://csrwire.com/press-release/baker-tilly-case-study-managed-services-strengthen-growing-us-subsidiary/",
-      "publishedAt": "2026-08-21T12:25:00",
-      "content": "Growing life sciences organizations need back-office capabilities that can keep pace with operational and commercial expansion."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Leading With Care: 25 Years of Meaningful Engagement",
-      "description": "The Boehringer Ingelheim Cares Foundation works alongside partners to address unmet needs across human and animal health and STEM education.",
-      "url": "https://csrwire.com/press-release/leading-care-25-years-meaningful-engagement/",
-      "publishedAt": "2026-08-21T10:05:00",
-      "content": "The Boehringer Ingelheim Cares Foundation works alongside partners to address unmet needs across human and animal health and STEM education."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Lenovo Reaches New High in Workplace Pride Benchmark With First 'Advocate' Status",
-      "description": "Lenovo has achieved its highest-ever score in the Workplace Pride Global Benchmark, reaching 93.",
-      "url": "https://csrwire.com/press-release/lenovo-reaches-new-high-workplace-pride-benchmark-first-advocate-status/",
-      "publishedAt": "2026-08-21T10:05:00",
-      "content": "Lenovo has achieved its highest-ever score in the Workplace Pride Global Benchmark, reaching 93."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Mary Kay Accelerates Digital Transformation, AI-Powered Beauty Innovation and Social Commerce Growth",
-      "description": "Mary Kay Inc., global iconic leader in beauty and entrepreneurship, announces transformative business milestones, inviting the next generation to engage with a modernized Mary Kay.",
-      "url": "https://csrwire.com/press-release/mary-kay-accelerates-digital-transformation-ai-powered-beauty-innovation-and-social-commerce/",
-      "publishedAt": "2026-08-21T08:00:00",
-      "content": "Mary Kay Inc., global iconic leader in beauty and entrepreneurship, announces transformative business milestones, inviting the next generation to engage with a modernized Mary Kay."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy New Orleans Volunteers Help New Orleans Residents \"Beat the Heat\"",
-      "description": "Entergy New Orleans partnered with Rebuilding Together New Orleans to help residents stay safe and cool during the summer months through a series of home weatherization events.",
-      "url": "https://csrwire.com/press-release/entergy-new-orleans-volunteers-help-new-orleans-residents-beat-heat/",
-      "publishedAt": "2026-08-21T07:00:00",
-      "content": "Entergy New Orleans partnered with Rebuilding Together New Orleans to help residents stay safe and cool during the summer months through a series of home weatherization events."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CPP Investments Launches Reporting on Portfolio Carbon Intensity, Transition Governance",
-      "description": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a",
-      "url": "https://www.esgtoday.com/cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance/?utm_source=rss&utm_medium=rss&utm_campaign=cpp-investments-launches-reporting-on-portfolio-carbon-intensity-transition-governance",
-      "publishedAt": "2026-08-20T13:06:34",
-      "content": "CPP Investments, the investment manager of the Canada Pension Plan, announced the launch of a"
+      "title": "Country diary: A peachy, summer beauty that loves the clean air | Nigel Brown",
+      "description": "Ynys Môn (Anglesey): The rosy footman is a relative newcomer to this part of Wales, bringing with it nectarine tones and markings like hieroglyphsI have a routine in the summer months that I like t...",
+      "url": "https://www.theguardian.com/environment/2026/aug/25/country-diary-a-peachy-summer-beauty-that-loves-the-clean-air",
+      "publishedAt": "2026-08-25T04:30:47",
+      "content": "Ynys Môn (Anglesey): The rosy footman is a relative newcomer to this part of Wales, bringing with it nectarine tones and markings like hieroglyphsI have a routine in the summer months that I like t..."
     },
     {
       "source": {
@@ -441,17 +474,6 @@
       "url": "https://goodonyou.eco/publicly-available-information/",
       "publishedAt": "2026-08-19T08:39:17",
       "content": "Good On You is the world’s leading platform that rates fashion and beauty brands on their environmental, human rights, and animal justice track records. Importantly, our brand rating system and tea..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Zimbabwean Communities Shut Out by Banks Are Building Their Own Loan Programs",
-      "description": "In thousands of communities across Zimbabwe, people pool their savings together and loan it out to help their neighbors build homes and start businesses.TriplePundit",
-      "url": "https://triplepundit.com/2026/informal-savings-groups-rural-zimbabwe-financial-inclusion/",
-      "publishedAt": "2026-08-18T12:00:00",
-      "content": "In thousands of communities across Zimbabwe, people pool their savings together and loan it out to help their neighbors build homes and start businesses.TriplePundit"
     }
   ]
 }
