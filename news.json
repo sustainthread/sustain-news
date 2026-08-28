@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 42,
   "articles": [
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "MetLife 2025 Sustainability Report: Reducing Our Environmental Impact",
-      "description": "MetLife seeks to strengthen long-term business performance by reducing our environmental impact, creating operational efficiencies, managing risk, and enabling sustainable growth.",
-      "url": "https://csrwire.com/press-release/reducing-environmental-impact-for-our-communities/",
-      "publishedAt": "2026-08-26T09:40:00",
-      "content": "MetLife seeks to strengthen long-term business performance by reducing our environmental impact, creating operational efficiencies, managing risk, and enabling sustainable growth."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -59,36 +48,36 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "The Guardian"
       },
-      "author": "Inside Climate News",
-      "title": "As Water Pollution Concerns Grow in Iowa, So Do Fertilizer Industry Profits",
-      "description": "As farmers balk at skyrocketing fertilizer costs and runoff threatens drinking water sources in Iowa, North American manufacturers are raking in cash.",
-      "url": "https://insideclimatenews.org/news/27082026/fertilizer-industry-profits-grow/",
-      "publishedAt": "2026-08-27T08:55:00",
-      "content": "As farmers balk at skyrocketing fertilizer costs and runoff threatens drinking water sources in Iowa, North American manufacturers are raking in cash."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable and Ethical T-Shirts",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-and-ethical-t-shirts/",
-      "publishedAt": "2026-08-27T00:00:20",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "The Guardian",
+      "title": "Air pollution affects us all, but there is a way we can breathe easier",
+      "description": "In this week’s newsletter: pollutants from fossil fuels and wildfires damage nearly every part of our bodies – but initiatives such as cycle zones can make our cities safer• Don’t get Down to Earth...",
+      "url": "https://www.theguardian.com/environment/2026/aug/27/air-pollution-health-climate-crisis-fossil-fuels",
+      "publishedAt": "2026-08-28T06:00:50",
+      "content": "In this week’s newsletter: pollutants from fossil fuels and wildfires damage nearly every part of our bodies – but initiatives such as cycle zones can make our cities safer• Don’t get Down to Earth..."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "West Point Climate Professor Says He Was Fired for Refusing to ‘Defy Science’",
-      "description": "Dr. Adam Kalkstein is suing the U. S. Military Academy, where he was a professor of geography and the only climate scientist, after being fired.",
-      "url": "https://www.nytimes.com/2026/08/26/us/politics/west-point-climate-professor-lawsuit.html",
-      "publishedAt": "2026-08-26T23:03:57",
-      "content": "Dr. Adam Kalkstein is suing the U. S. Military Academy, where he was a professor of geography and the only climate scientist, after being fired."
+      "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
+      "description": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide.",
+      "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+      "publishedAt": "2026-08-28T03:22:45",
+      "content": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "El Niño climate patterns supercharged by burning of fossil fuels, study finds",
+      "description": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” e...",
+      "url": "https://www.theguardian.com/environment/2026/aug/27/el-nino-climate-patterns-fossil-fuels",
+      "publishedAt": "2026-08-27T18:00:34",
+      "content": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” e..."
     },
     {
       "source": {
@@ -114,6 +103,17 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable and Ethical T-Shirts",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-and-ethical-t-shirts/",
+      "publishedAt": "2026-08-27T00:00:20",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -125,47 +125,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Climate Change News"
       },
-      "author": "CSRWire",
-      "title": "CASE Showcases Advancements in Innovation and Alternative Fuels at Its Construction Experience Center Event in Sarzedo",
-      "description": "CASE Construction Equipment welcomed customers, partners, and the press to the Construction Experience Center (CEC) in Sarzedo (MG) to provide a hands-on demonstration of its product portfolio and ...",
-      "url": "https://csrwire.com/press-release/case-showcases-advancements-innovation-and-alternative-fuels-its-construction-experience/",
-      "publishedAt": "2026-08-27T09:00:00",
-      "content": "CASE Construction Equipment welcomed customers, partners, and the press to the Construction Experience Center (CEC) in Sarzedo (MG) to provide a hands-on demonstration of its product portfolio and ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Corpus Christi Withholds Water to Wetlands While Lifting Restrictions on Lawns",
-      "description": "Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in ...",
-      "url": "https://insideclimatenews.org/news/27082026/corpus-christi-withholds-wetlands-water-while-lifting-lawn-restrictions/",
-      "publishedAt": "2026-08-27T09:00:00",
-      "content": "Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Reaching Beyond Distance: How Salta, Argentina Built a System for Stroke Care Equity",
-      "description": "When a real patient arrived during a stroke-response training exercise, clinicians didn’t hesitate—they acted.",
-      "url": "https://csrwire.com/press-release/reaching-beyond-distance-how-salta-argentina-built-system-stroke-care-equity/",
-      "publishedAt": "2026-08-27T08:05:00",
-      "content": "When a real patient arrived during a stroke-response training exercise, clinicians didn’t hesitate—they acted."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Top of the crops: record heatwaves help deliver bumper UK berry harvest",
-      "description": "Investment in climate-resilient irrigation enables this year’s haul to rise 6% on 2025’s already bigger-than-usual yieldBritish farmers have faced a sweltering summer tested by heatwaves, wildfires...",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/record-heatwaves-help-deliver-bumper-uk-berry-harvest",
-      "publishedAt": "2026-08-27T04:00:04",
-      "content": "Investment in climate-resilient irrigation enables this year’s haul to rise 6% on 2025’s already bigger-than-usual yieldBritish farmers have faced a sweltering summer tested by heatwaves, wildfires..."
+      "author": "Climate Change News",
+      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
+      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
+      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
+      "publishedAt": "2026-08-28T09:10:28",
+      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
     },
     {
       "source": {
@@ -186,85 +153,118 @@
       "title": "Smuggled Turtles Saved at J.F.K. Are Recovering in the Bronx",
       "description": "China’s exotic pet market is driving a spike in animal smuggling, U.S. wildlife officials say. But these turtles are getting a second chance.",
       "url": "https://www.nytimes.com/2026/08/27/climate/turtle-smuggling-jfk-airport.html",
-      "publishedAt": "2026-08-27T16:30:02",
+      "publishedAt": "2026-08-28T16:48:06",
       "content": "China’s exotic pet market is driving a spike in animal smuggling, U.S. wildlife officials say. But these turtles are getting a second chance."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Climate Change News"
       },
-      "author": "New York Times",
-      "title": "Photos: A Deadly Flood Tears Through Nepal and Tibet",
-      "description": "An ice avalanche that started high in the Himalayas tumbled thousands of feet, releasing vast amounts of energy that pulverized the ice into a significant volume of flood water.",
-      "url": "https://www.nytimes.com/2026/08/26/world/asia/flood-nepal-tibet.html",
-      "publishedAt": "2026-08-27T15:09:12",
-      "content": "An ice avalanche that started high in the Himalayas tumbled thousands of feet, releasing vast amounts of energy that pulverized the ice into a significant volume of flood water."
+      "author": "Climate Change News",
+      "title": "Despite African walkout, fractious land COP ends without drought deal",
+      "description": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years\nThe post Despite African walkout, fractious land COP ends wi...",
+      "url": "https://www.climatechangenews.com/2026/08/28/despite-african-walkout-fractious-land-cop-ends-without-drought-agreement/",
+      "publishedAt": "2026-08-28T16:32:26",
+      "content": "A strong push for a drought protocol by African countries failed in contentious talks, with negotiations postponed for another two years\nThe post Despite African walkout, fractious land COP ends wi..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Our parents were crossing the border an hour before the flood hit'",
+      "description": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T16:31:27",
+      "content": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The chefs turning down the heat by switching from gas to electric",
+      "description": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari...",
+      "url": "https://www.theguardian.com/environment/2026/aug/28/the-chefs-turning-down-the-heat-by-switching-from-gas-to-electric",
+      "publishedAt": "2026-08-28T11:00:56",
+      "content": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Nepal-Tibet flood rescue efforts resume after being halted by overflowing lake",
+      "description": "Risk of fresh flooding had forced rescue teams to withdraw as residents rushed up hills to escape possible river surgeNepal-Tibet flash flood – latest updatesVisual guide: how the deadly flooding u...",
+      "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
+      "publishedAt": "2026-08-28T10:17:07",
+      "content": "Risk of fresh flooding had forced rescue teams to withdraw as residents rushed up hills to escape possible river surgeNepal-Tibet flash flood – latest updatesVisual guide: how the deadly flooding u..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Bank holiday weekend to see more thunderstorms and rain",
+      "description": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
+      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T09:42:47",
+      "content": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend."
     },
     {
       "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-      "description": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
-      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-      "publishedAt": "2026-08-27T13:51:44",
-      "content": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more."
+      "title": "Why These Giant Storage Tanks Increasingly Hold Very Little Oil",
+      "description": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
+      "publishedAt": "2026-08-28T09:02:24",
+      "content": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Sun-Ways Is Testing Out Train Track Solar Farms",
+      "description": "A pilot program placing solar panels between the rails has proven successful enough that the idea is spreading to Italy, France and Korea.",
+      "url": "https://www.nytimes.com/2026/08/28/climate/solar-power-railway-train-tracks.html",
+      "publishedAt": "2026-08-28T09:02:00",
+      "content": "A pilot program placing solar panels between the rails has proven successful enough that the idea is spreading to Italy, France and Korea."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Rooftop Solar Is Having a Rough One",
-      "description": "Rooftop solar installers feel like a dog that’s been repeatedly kicked.",
-      "url": "https://insideclimatenews.org/news/27082026/inside-clean-energy-rooftop-solar-sales/",
-      "publishedAt": "2026-08-27T13:00:00",
-      "content": "Rooftop solar installers feel like a dog that’s been repeatedly kicked."
+      "title": "Can California Farmers Break Free From Plastic?",
+      "description": "Farmers have relied on plastic since the 1960s, when the mass production of affordable agricultural tools derived from petrochemicals made them widely accessible. Plastic mulch quickly became a cor...",
+      "url": "https://insideclimatenews.org/news/28082026/california-farms-plastic-reliance/",
+      "publishedAt": "2026-08-28T09:00:00",
+      "content": "Farmers have relied on plastic since the 1960s, when the mass production of affordable agricultural tools derived from petrochemicals made them widely accessible. Plastic mulch quickly became a cor..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Montana Community Rallies to Save Its Beloved Ski Hill",
+      "description": "When the Sand Creek Fire crested Montana’s Maverick Mountain 16 days ago, Cory Birkenbuel watched as firefighters and aircraft fought to keep the flames from taking a place that had been part of hi...",
+      "url": "https://insideclimatenews.org/news/28082026/montana-ski-hill-sand-creek-fire-damage/",
+      "publishedAt": "2026-08-28T08:55:00",
+      "content": "When the Sand Creek Fire crested Montana’s Maverick Mountain 16 days ago, Cory Birkenbuel watched as firefighters and aircraft fought to keep the flames from taking a place that had been part of hi..."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Nearly 1,400 missing, mostly tourists, after Nepal-Tibet flash flood kills at least 356",
-      "description": "Entire villages swept away after glacial collapse triggers flood in mountainous region popular with trekkers and pilgrimsNepal-Tibet flash flood – latest updatesHave you been affected by the flash ...",
-      "url": "https://www.theguardian.com/world/2026/aug/27/what-caused-nepal-flash-flood-glacial-collapse-tibet-border",
-      "publishedAt": "2026-08-27T12:41:41",
-      "content": "Entire villages swept away after glacial collapse triggers flood in mountainous region popular with trekkers and pilgrimsNepal-Tibet flash flood – latest updatesHave you been affected by the flash ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Dozens of US and Canadian citizens missing after flash flooding in Nepal",
-      "description": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situation.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T12:26:12",
-      "content": "They are among hundreds of people still unaccounted for, with authorities for both countries saying they are closely monitoring the situation."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How decoding beluga whales’ chitchat may save them – and teach us more about ourselves",
-      "description": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of culture In 2015, the whale researcher Valeria V...",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/how-decoding-beluga-whales-chitchat-may-save-them-and-teach-us-more-about-ourselves",
-      "publishedAt": "2026-08-27T09:02:13",
-      "content": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of culture In 2015, the whale researcher Valeria V..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Concerns raised over impact of quad bikes on wildlife",
-      "description": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy3d0j6pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T08:11:20",
-      "content": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife."
+      "title": "How Britain’s railways are struggling in the heat – and can they be fixed?",
+      "description": "Problems including derailments have hit network during one of the hottest and driest summers on record Britain’s railways have faced a string of heat-related problems this summer, including a derai...",
+      "url": "https://www.theguardian.com/business/2026/aug/28/britain-railways-struggling-heat-fixed-derailments-explainer",
+      "publishedAt": "2026-08-28T07:00:51",
+      "content": "Problems including derailments have hit network during one of the hottest and driest summers on record Britain’s railways have faced a string of heat-related problems this summer, including a derai..."
     },
     {
       "source": {
@@ -274,63 +274,74 @@
       "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
       "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
       "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T07:09:52",
+      "publishedAt": "2026-08-28T03:23:21",
       "content": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies on Friday",
-      "description": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK.",
-      "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T06:03:15",
-      "content": "The Moon could glow an eerie red in the early hours of Friday but cloud cover may spoil the spectacle for some parts of the UK."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How to watch the partial lunar eclipse from Northern Ireland",
-      "description": "Skygazers may see a partial lunar eclipse early on Friday, as the Moon enters Earth's shadow.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xe322ezgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T05:15:52",
-      "content": "Skygazers may see a partial lunar eclipse early on Friday, as the Moon enters Earth's shadow."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Forever chemicals’ surge during pilot of Thames Water plan to combat drought",
-      "description": "Exclusive: utility company wants to draw off tens of millions of litres of water a day from Thames and replace it with treated effluentLevels of a toxic “forever chemical” rose to 13 times the lega...",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/forever-chemicals-london-thames-water",
-      "publishedAt": "2026-08-27T05:00:07",
-      "content": "Exclusive: utility company wants to draw off tens of millions of litres of water a day from Thames and replace it with treated effluentLevels of a toxic “forever chemical” rose to 13 times the lega..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The flat-pack skyscraper: how wood can shape the cities of the future",
-      "description": "Our buildings are monuments to extraction and extreme emissions.",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/27/the-flat-pack-skyscraper-how-wood-can-shape-the-cities-of-the-future",
-      "publishedAt": "2026-08-27T04:00:06",
-      "content": "Our buildings are monuments to extraction and extreme emissions."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "In Chicago ERs, Extreme Heat’s Toll Goes Far Beyond the Obvious",
-      "description": "CHICAGO—Extreme heat is filling up emergency rooms, and not just with heat stroke victims.",
-      "url": "https://insideclimatenews.org/news/26082026/chicago-extreme-heat-medical-emergencies/",
-      "publishedAt": "2026-08-26T18:00:00",
-      "content": "CHICAGO—Extreme heat is filling up emergency rooms, and not just with heat stroke victims."
+      "title": "20,000 Salmon Return to the Klamath—but Challenging Conditions for Recovery Remain",
+      "description": "In August 2024, excavation crews breached the last of four dams on the Klamath River in far northern California, marking the first time in over a century that salmon could swim above the dam sites....",
+      "url": "https://insideclimatenews.org/news/27082026/salmon-return-to-klamath-river-after-dam-removals/",
+      "publishedAt": "2026-08-27T23:54:49",
+      "content": "In August 2024, excavation crews breached the last of four dams on the Klamath River in far northern California, marking the first time in over a century that salmon could swim above the dam sites...."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Empoderando a las comunidades guatemaltecas afectadas por el plástico",
+      "description": "Read this article in English.",
+      "url": "https://insideclimatenews.org/news/27082026/empoderando-a-las-comunidades-guatemaltecas-afectadas-por-el-plastico/",
+      "publishedAt": "2026-08-27T22:40:41",
+      "content": "Read this article in English."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
+      "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T21:00:48",
+      "content": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "France relaxes strict cheese-making rules after prolonged drought",
+      "description": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
+      "url": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T18:29:38",
+      "content": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What caused the flooding in Nepal?",
+      "description": "Experts point to 'glacial collapse' as the trigger for deadly floods that have swept through parts of Nepal and Tibet.",
+      "url": "https://www.bbc.co.uk/news/videos/c07l9ggx8m7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T18:20:45",
+      "content": "Experts point to 'glacial collapse' as the trigger for deadly floods that have swept through parts of Nepal and Tibet."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Corpus Christi Withholds Water to Wetlands While Lifting Restrictions on Lawns",
+      "description": "Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in ...",
+      "url": "https://insideclimatenews.org/news/27082026/corpus-christi-withholds-wetlands-water-while-lifting-lawn-restrictions/",
+      "publishedAt": "2026-08-27T09:00:00",
+      "content": "Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in ..."
     },
     {
       "source": {
@@ -367,25 +378,69 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Building Resilience: 3 Ways Businesses Can Support Local Communities",
-      "description": "Strong communities aren’t built overnight. They grow through steady investments in people, partnerships and systems that help neighborhoods weather economic uncertainty and evolving social needs.",
-      "url": "https://csrwire.com/press-release/building-resilience-3-ways-businesses-can-support-local-communities/",
-      "publishedAt": "2026-08-26T10:05:00",
-      "content": "Strong communities aren’t built overnight. They grow through steady investments in people, partnerships and systems that help neighborhoods weather economic uncertainty and evolving social needs."
+      "author": "New York Times",
+      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
+      "description": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
+      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+      "publishedAt": "2026-08-27T13:51:44",
+      "content": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "Mary Kay China Enters Its Next Chapter of Digital-First Beauty and Growth Under General Manager Mark Chen",
-      "description": "After more than three decades of empowering women, transforming lives, and building one of the most recognized beauty entrepreneurship platforms in China, Mary Kay is entering a new era of growth a...",
-      "url": "https://csrwire.com/press-release/mary-kay-china-enters-its-next-chapter-digital-first-beauty-and-growth-under-general-manager/",
-      "publishedAt": "2026-08-26T08:00:00",
-      "content": "After more than three decades of empowering women, transforming lives, and building one of the most recognized beauty entrepreneurship platforms in China, Mary Kay is entering a new era of growth a..."
+      "author": "Inside Climate News",
+      "title": "Rooftop Solar Is Having a Rough One",
+      "description": "Rooftop solar installers feel like a dog that’s been repeatedly kicked.",
+      "url": "https://insideclimatenews.org/news/27082026/inside-clean-energy-rooftop-solar-sales/",
+      "publishedAt": "2026-08-27T13:00:00",
+      "content": "Rooftop solar installers feel like a dog that’s been repeatedly kicked."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How decoding beluga whales’ chitchat may save them – and teach us more about ourselves",
+      "description": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of culture In 2015, the whale researcher Valeria V...",
+      "url": "https://www.theguardian.com/environment/2026/aug/27/how-decoding-beluga-whales-chitchat-may-save-them-and-teach-us-more-about-ourselves",
+      "publishedAt": "2026-08-27T09:02:13",
+      "content": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of culture In 2015, the whale researcher Valeria V..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Concerns raised over impact of quad bikes on wildlife",
+      "description": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy3d0j6pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T08:11:20",
+      "content": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Battle over cleaning up shipping set to resume at London talks",
+      "description": "The US and Saudi Arabia want to scrap shipping's Net-Zero Framework and have swung behind a far less ambitious alternative\nThe post Battle over cleaning up shipping set to resume at London talks ap...",
+      "url": "https://www.climatechangenews.com/2026/08/26/battle-over-cleaning-up-shipping-set-to-resume-at-london-talks/",
+      "publishedAt": "2026-08-26T12:31:01",
+      "content": "The US and Saudi Arabia want to scrap shipping's Net-Zero Framework and have swung behind a far less ambitious alternative\nThe post Battle over cleaning up shipping set to resume at London talks ap..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "How Ethical Is Aritzia?",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/how-ethical-is-aritzia/",
+      "publishedAt": "2026-08-26T00:00:09",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -408,94 +463,6 @@
       "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss&utm_medium=rss&utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
       "publishedAt": "2026-08-25T14:01:12",
       "content": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Brightening Our Corner – August 2026 Newsletter",
-      "description": "The Ray C.",
-      "url": "https://csrwire.com/press-release/brightening-our-corner-august-2026-newsletter/",
-      "publishedAt": "2026-08-25T09:40:00",
-      "content": "The Ray C."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Nicorette® Supports Smoking and Vaping Cessation in Europe",
-      "description": "A Total Quit™ is when we achieve freedom from tobacco and nicotine.",
-      "url": "https://csrwire.com/press-release/how-nicoretter-supports-smoking-and-vaping-cessation-europe/",
-      "publishedAt": "2026-08-25T08:15:00",
-      "content": "A Total Quit™ is when we achieve freedom from tobacco and nicotine."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Battle over cleaning up shipping set to resume at London talks",
-      "description": "The US and Saudi Arabia want to scrap shipping's Net-Zero Framework and have swung behind a far less ambitious alternative\nThe post Battle over cleaning up shipping set to resume at London talks ap...",
-      "url": "https://www.climatechangenews.com/2026/08/26/battle-over-cleaning-up-shipping-set-to-resume-at-london-talks/",
-      "publishedAt": "2026-08-26T12:31:01",
-      "content": "The US and Saudi Arabia want to scrap shipping's Net-Zero Framework and have swung behind a far less ambitious alternative\nThe post Battle over cleaning up shipping set to resume at London talks ap..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Clean Air Policies Help Kids Breathe and Think Better",
-      "description": "Growing up with dirty air harms kids’ health.",
-      "url": "https://insideclimatenews.org/news/26082026/reducing-air-pollution-can-help-childrens-health/",
-      "publishedAt": "2026-08-26T09:00:00",
-      "content": "Growing up with dirty air harms kids’ health."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New York’s Power Grid Struggles to Handle the Heat",
-      "description": "NEW YORK—When nearly 10,000 people in Southeast Queens lost power during a July heatwave, Mayor Zohran Mamdani called on residents to keep their air conditioners at 78 degrees to reduce the pressur...",
-      "url": "https://insideclimatenews.org/news/26082026/new-york-power-grid-struggles-during-heatwaves/",
-      "publishedAt": "2026-08-26T08:55:00",
-      "content": "NEW YORK—When nearly 10,000 people in Southeast Queens lost power during a July heatwave, Mayor Zohran Mamdani called on residents to keep their air conditioners at 78 degrees to reduce the pressur..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Ethical Is Aritzia?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-aritzia/",
-      "publishedAt": "2026-08-26T00:00:09",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "‘Unbearable’ Heat in Uncooled Alabama Prisons",
-      "description": "ELMORE, Ala.",
-      "url": "https://insideclimatenews.org/news/25082026/alabama-prisons-unbearable-heat/",
-      "publishedAt": "2026-08-25T22:34:07",
-      "content": "ELMORE, Ala."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "3 Charts That Explain El Niño",
-      "description": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory.",
-      "url": "https://www.nytimes.com/2026/08/25/climate/el-nino-temperature-charts.html",
-      "publishedAt": "2026-08-25T09:02:42",
-      "content": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory."
     }
   ]
 }
