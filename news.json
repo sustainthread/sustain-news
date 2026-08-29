@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 52,
   "articles": [
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Environmental, Carbon Markets Platforms Climate Impact X, Carbonplace to Merge",
-      "description": "Singapore-based environmental markets exchange Climate Impact X (CIX) and London-based carbon market platform Carbonplace announced",
-      "url": "https://www.esgtoday.com/environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge",
-      "publishedAt": "2026-08-26T10:14:51",
-      "content": "Singapore-based environmental markets exchange Climate Impact X (CIX) and London-based carbon market platform Carbonplace announced"
+      "author": "CSRWire",
+      "title": "MetLife 2025 Sustainability Report: Reducing Our Environmental Impact",
+      "description": "MetLife seeks to strengthen long-term business performance by reducing our environmental impact, creating operational efficiencies, managing risk, and enabling sustainable growth.",
+      "url": "https://csrwire.com/press-release/reducing-environmental-impact-for-our-communities/",
+      "publishedAt": "2026-08-26T09:40:00",
+      "content": "MetLife seeks to strengthen long-term business performance by reducing our environmental impact, creating operational efficiencies, managing risk, and enabling sustainable growth."
     },
     {
       "source": {
@@ -26,6 +26,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Environmental, Carbon Markets Platforms Climate Impact X, Carbonplace to Merge",
+      "description": "Singapore-based environmental markets exchange Climate Impact X (CIX) and London-based carbon market platform Carbonplace announced",
+      "url": "https://www.esgtoday.com/environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge/?utm_source=rss&utm_medium=rss&utm_campaign=environmental-carbon-markets-platforms-climate-impact-x-carbonplace-to-merge",
+      "publishedAt": "2026-08-26T10:14:51",
+      "content": "Singapore-based environmental markets exchange Climate Impact X (CIX) and London-based carbon market platform Carbonplace announced"
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -34,6 +45,17 @@
       "url": "https://www.climatechangenews.com/2026/08/24/new-zealand-moves-to-protect-business-with-law-curtailing-climate-litigation/",
       "publishedAt": "2026-08-24T12:05:01",
       "content": "A new bill prevents corporations being sued for the climate damage their emissions cause, as the government says climate action should be handled at the national level not in court \nThe post New Ze..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The Guardian climate pledge 2026",
+      "description": "Each year, the Guardian reaffirms its commitment to the environment – both in our reporting and how we operate as a business.",
+      "url": "https://www.theguardian.com/membership/ng-interactive/2026/aug/28/the-guardian-climate-pledge-2026",
+      "publishedAt": "2026-08-28T17:00:03",
+      "content": "Each year, the Guardian reaffirms its commitment to the environment – both in our reporting and how we operate as a business."
     },
     {
       "source": {
@@ -51,33 +73,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Air pollution affects us all, but there is a way we can breathe easier",
-      "description": "In this week’s newsletter: pollutants from fossil fuels and wildfires damage nearly every part of our bodies – but initiatives such as cycle zones can make our cities safer• Don’t get Down to Earth...",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/air-pollution-health-climate-crisis-fossil-fuels",
-      "publishedAt": "2026-08-28T06:00:50",
-      "content": "In this week’s newsletter: pollutants from fossil fuels and wildfires damage nearly every part of our bodies – but initiatives such as cycle zones can make our cities safer• Don’t get Down to Earth..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
-      "description": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide.",
-      "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
-      "publishedAt": "2026-08-28T03:22:45",
-      "content": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "El Niño climate patterns supercharged by burning of fossil fuels, study finds",
-      "description": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” e...",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/el-nino-climate-patterns-fossil-fuels",
-      "publishedAt": "2026-08-27T18:00:34",
-      "content": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” e..."
+      "title": "Is the environmental impact of datacentres finally cutting through?",
+      "description": "In this week’s newsletter: Anti-datacentre sentiment is growing across the political spectrum in the  US – and the public is only just finding out about the potential effects on their energy bills•...",
+      "url": "https://www.theguardian.com/environment/2026/aug/19/is-the-environmental-impact-of-datacentres-finally-cutting-through",
+      "publishedAt": "2026-08-28T16:20:02",
+      "content": "In this week’s newsletter: Anti-datacentre sentiment is growing across the political spectrum in the  US – and the public is only just finding out about the potential effects on their energy bills•..."
     },
     {
       "source": {
@@ -92,14 +92,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "MassMutual Ventures Launches $150 Million Climate Tech Startup Fund",
-      "description": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual,",
-      "url": "https://www.esgtoday.com/massmutual-ventures-launches-150-million-climate-tech-startup-fund/?utm_source=rss&utm_medium=rss&utm_campaign=massmutual-ventures-launches-150-million-climate-tech-startup-fund",
-      "publishedAt": "2026-08-26T09:11:38",
-      "content": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual,"
+      "author": "New York Times",
+      "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
+      "description": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide.",
+      "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+      "publishedAt": "2026-08-28T03:22:45",
+      "content": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide."
     },
     {
       "source": {
@@ -117,6 +117,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "MassMutual Ventures Launches $150 Million Climate Tech Startup Fund",
+      "description": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual,",
+      "url": "https://www.esgtoday.com/massmutual-ventures-launches-150-million-climate-tech-startup-fund/?utm_source=rss&utm_medium=rss&utm_campaign=massmutual-ventures-launches-150-million-climate-tech-startup-fund",
+      "publishedAt": "2026-08-26T09:11:38",
+      "content": "MassMutual Ventures (MMV), the venture capital investment arm of financial services and insurance company MassMutual,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
       "description": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments",
       "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss&utm_medium=rss&utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
@@ -125,14 +136,47 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Al Jazeera"
       },
-      "author": "Climate Change News",
-      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
-      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
-      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
-      "publishedAt": "2026-08-28T09:10:28",
-      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
+      "author": "Al Jazeera",
+      "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
+      "description": "101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.",
+      "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
+      "publishedAt": "2026-08-29T11:30:00",
+      "content": "101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Death cleaning, downsizing and decluttering. How do we learn to live with less stuff?",
+      "description": "Many of us are overwhelmed by the sheer number of our belongings, but can we change our consumption habits? And is there a more sustainable way to declutter?Change by degrees offers life hacks and ...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/29/death-cleaning-downsizing-and-decluttering-how-do-we-learn-to-live-with-less-stuff",
+      "publishedAt": "2026-08-29T00:00:12",
+      "content": "Many of us are overwhelmed by the sheer number of our belongings, but can we change our consumption habits? And is there a more sustainable way to declutter?Change by degrees offers life hacks and ..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Libraries Are Beacons of Credible Information in the Age of Fake News",
+      "description": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s...",
+      "url": "https://triplepundit.com/2026/fake-news-access-information-libraries/",
+      "publishedAt": "2026-08-28T18:14:05",
+      "content": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Every Moment of Digital Friction Carries a Cost",
+      "description": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments.",
+      "url": "https://csrwire.com/press-release/every-moment-digital-friction-carries-cost/",
+      "publishedAt": "2026-08-28T09:05:00",
+      "content": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments."
     },
     {
       "source": {
@@ -147,13 +191,123 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T10:51:21",
+      "content": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
+      "description": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "publishedAt": "2026-08-29T10:12:23",
+      "content": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "As Deadly Flash Flooding Batters Nepal, Some Fear ‘the Entire Himalayas Are Melting’",
+      "description": "A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing.",
+      "url": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
+      "publishedAt": "2026-08-29T09:04:15",
+      "content": "A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "California Dairy Farm’s New Biogas Project Makes History and Raises Eyebrows",
+      "description": "KERMAN, Calif.",
+      "url": "https://insideclimatenews.org/news/29082026/california-dairy-farm-biogas-project/",
+      "publishedAt": "2026-08-29T08:50:00",
+      "content": "KERMAN, Calif."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "While Renewables Languish, Pennsylvania Pays Millions to Coal Waste Companies",
+      "description": "WINDBER, Pa.",
+      "url": "https://insideclimatenews.org/news/29082026/pennsylvania-pays-millions-to-coal-waste-companies/",
+      "publishedAt": "2026-08-29T08:45:00",
+      "content": "WINDBER, Pa."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
+      "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+      "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T06:05:15",
+      "content": "The weather in space has the potential to impact our lives here on Earth in a fundamental way."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "3 Charts That Explain El Niño",
+      "description": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory.",
+      "url": "https://www.nytimes.com/2026/08/25/climate/el-nino-temperature-charts.html",
+      "publishedAt": "2026-08-29T04:21:00",
+      "content": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The race to stop England running out of water",
+      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T00:46:00",
+      "content": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Sun-Ways Is Testing Out Train Track Solar Farms",
+      "description": "A pilot program placing solar panels between the rails has proven successful enough that the idea is spreading to Italy, France and Korea.",
+      "url": "https://www.nytimes.com/2026/08/28/climate/solar-power-railway-train-tracks.html",
+      "publishedAt": "2026-08-28T20:36:24",
+      "content": "A pilot program placing solar panels between the rails has proven successful enough that the idea is spreading to Italy, France and Korea."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Our parents were crossing the border an hour before the flood hit'",
+      "description": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
+      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T17:59:31",
+      "content": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
       "title": "Smuggled Turtles Saved at J.F.K. Are Recovering in the Bronx",
       "description": "China’s exotic pet market is driving a spike in animal smuggling, U.S. wildlife officials say. But these turtles are getting a second chance.",
       "url": "https://www.nytimes.com/2026/08/27/climate/turtle-smuggling-jfk-airport.html",
-      "publishedAt": "2026-08-28T16:48:06",
+      "publishedAt": "2026-08-28T16:48:07",
       "content": "China’s exotic pet market is driving a spike in animal smuggling, U.S. wildlife officials say. But these turtles are getting a second chance."
     },
     {
@@ -169,14 +323,91 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Climate Change News"
       },
-      "author": "BBC",
-      "title": "'Our parents were crossing the border an hour before the flood hit'",
-      "description": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T16:31:27",
-      "content": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods."
+      "author": "Climate Change News",
+      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
+      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
+      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
+      "publishedAt": "2026-08-28T09:10:28",
+      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Keeping Energy Affordable for Customers Who Need It Most",
+      "description": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon...",
+      "url": "https://csrwire.com/press-release/keeping-energy-affordable-customers-who-need-it-most/",
+      "publishedAt": "2026-08-27T16:00:00",
+      "content": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A New Era for Healthy Buildings: IWBI’s Third Annual Policy Summit Spotlights Growing Momentum and New Policy Opportunities",
+      "description": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho...",
+      "url": "https://csrwire.com/press-release/new-era-healthy-buildings-iwbis-third-annual-policy-summit-spotlights-growing-momentum-and-new/",
+      "publishedAt": "2026-08-27T11:10:00",
+      "content": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Caesarstone ICON™: Iconic Surfaces for a Changing Landscape",
+      "description": "From new programs and guidelines to groundbreaking inventions, the industry is embracing low-silica and crystalline silica-free surfaces.",
+      "url": "https://csrwire.com/press-release/caesarstone-icontm-iconic-surfaces-changing-landscape/",
+      "publishedAt": "2026-08-27T10:00:00",
+      "content": "From new programs and guidelines to groundbreaking inventions, the industry is embracing low-silica and crystalline silica-free surfaces."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CASE Showcases Advancements in Innovation and Alternative Fuels at Its Construction Experience Center Event in Sarzedo",
+      "description": "CASE Construction Equipment welcomed customers, partners, and the press to the Construction Experience Center (CEC) in Sarzedo (MG) to provide a hands-on demonstration of its product portfolio and ...",
+      "url": "https://csrwire.com/press-release/case-showcases-advancements-innovation-and-alternative-fuels-its-construction-experience/",
+      "publishedAt": "2026-08-27T09:00:00",
+      "content": "CASE Construction Equipment welcomed customers, partners, and the press to the Construction Experience Center (CEC) in Sarzedo (MG) to provide a hands-on demonstration of its product portfolio and ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Reaching Beyond Distance: How Salta, Argentina Built a System for Stroke Care Equity",
+      "description": "When a real patient arrived during a stroke-response training exercise, clinicians didn’t hesitate—they acted.",
+      "url": "https://csrwire.com/press-release/reaching-beyond-distance-how-salta-argentina-built-system-stroke-care-equity/",
+      "publishedAt": "2026-08-27T08:05:00",
+      "content": "When a real patient arrived during a stroke-response training exercise, clinicians didn’t hesitate—they acted."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Deloitte to Pay Over $20 Million to Settle U.S. Anti-DEI Case",
+      "description": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Deloitte,",
+      "url": "https://www.esgtoday.com/deloitte-to-pay-over-20-million-to-settle-u-s-anti-dei-case/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-to-pay-over-20-million-to-settle-u-s-anti-dei-case",
+      "publishedAt": "2026-08-26T14:11:12",
+      "content": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Deloitte,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Certain Energy Raises $13 Million for New Low-Cost, Long Duration Energy Storage Solution",
+      "description": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6",
+      "url": "https://www.esgtoday.com/certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution/?utm_source=rss&utm_medium=rss&utm_campaign=certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution",
+      "publishedAt": "2026-08-26T13:40:40",
+      "content": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6"
     },
     {
       "source": {
@@ -210,28 +441,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-28T09:42:47",
       "content": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Why These Giant Storage Tanks Increasingly Hold Very Little Oil",
-      "description": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz.",
-      "url": "https://www.nytimes.com/2026/08/28/business/energy-environment/oil-storage-iran-war.html",
-      "publishedAt": "2026-08-28T09:02:24",
-      "content": "Oil companies and governments are consuming their once vast stockpiles as Iran and the United States continue to struggle for control over the Strait of Hormuz."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Sun-Ways Is Testing Out Train Track Solar Farms",
-      "description": "A pilot program placing solar panels between the rails has proven successful enough that the idea is spreading to Italy, France and Korea.",
-      "url": "https://www.nytimes.com/2026/08/28/climate/solar-power-railway-train-tracks.html",
-      "publishedAt": "2026-08-28T09:02:00",
-      "content": "A pilot program placing solar panels between the rails has proven successful enough that the idea is spreading to Italy, France and Korea."
     },
     {
       "source": {
@@ -279,28 +488,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "20,000 Salmon Return to the Klamath—but Challenging Conditions for Recovery Remain",
-      "description": "In August 2024, excavation crews breached the last of four dams on the Klamath River in far northern California, marking the first time in over a century that salmon could swim above the dam sites....",
-      "url": "https://insideclimatenews.org/news/27082026/salmon-return-to-klamath-river-after-dam-removals/",
-      "publishedAt": "2026-08-27T23:54:49",
-      "content": "In August 2024, excavation crews breached the last of four dams on the Klamath River in far northern California, marking the first time in over a century that salmon could swim above the dam sites...."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Empoderando a las comunidades guatemaltecas afectadas por el plástico",
-      "description": "Read this article in English.",
-      "url": "https://insideclimatenews.org/news/27082026/empoderando-a-las-comunidades-guatemaltecas-afectadas-por-el-plastico/",
-      "publishedAt": "2026-08-27T22:40:41",
-      "content": "Read this article in English."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -323,61 +510,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What caused the flooding in Nepal?",
-      "description": "Experts point to 'glacial collapse' as the trigger for deadly floods that have swept through parts of Nepal and Tibet.",
-      "url": "https://www.bbc.co.uk/news/videos/c07l9ggx8m7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T18:20:45",
-      "content": "Experts point to 'glacial collapse' as the trigger for deadly floods that have swept through parts of Nepal and Tibet."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Corpus Christi Withholds Water to Wetlands While Lifting Restrictions on Lawns",
-      "description": "Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in ...",
-      "url": "https://insideclimatenews.org/news/27082026/corpus-christi-withholds-wetlands-water-while-lifting-lawn-restrictions/",
-      "publishedAt": "2026-08-27T09:00:00",
-      "content": "Environmental regulators in Texas issued an emergency order on Tuesday evening suspending requirements for the drought-stricken city of Corpus Christi to release water from its reservoir system in ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Deloitte to Pay Over $20 Million to Settle U.S. Anti-DEI Case",
-      "description": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Deloitte,",
-      "url": "https://www.esgtoday.com/deloitte-to-pay-over-20-million-to-settle-u-s-anti-dei-case/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-to-pay-over-20-million-to-settle-u-s-anti-dei-case",
-      "publishedAt": "2026-08-26T14:11:12",
-      "content": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Deloitte,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Certain Energy Raises $13 Million for New Low-Cost, Long Duration Energy Storage Solution",
-      "description": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6",
-      "url": "https://www.esgtoday.com/certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution/?utm_source=rss&utm_medium=rss&utm_campaign=certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution",
-      "publishedAt": "2026-08-26T13:40:40",
-      "content": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Data Center Power Solutions Startup Emerald AI Raises $150 Million at Unicorn Valuation",
-      "description": "AI data center grid flexibility technology company Emerald AI announced that it has raised $150",
-      "url": "https://www.esgtoday.com/data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation",
-      "publishedAt": "2026-08-26T11:46:42",
-      "content": "AI data center grid flexibility technology company Emerald AI announced that it has raised $150"
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -386,39 +518,6 @@
       "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
       "publishedAt": "2026-08-27T13:51:44",
       "content": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Rooftop Solar Is Having a Rough One",
-      "description": "Rooftop solar installers feel like a dog that’s been repeatedly kicked.",
-      "url": "https://insideclimatenews.org/news/27082026/inside-clean-energy-rooftop-solar-sales/",
-      "publishedAt": "2026-08-27T13:00:00",
-      "content": "Rooftop solar installers feel like a dog that’s been repeatedly kicked."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How decoding beluga whales’ chitchat may save them – and teach us more about ourselves",
-      "description": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of culture In 2015, the whale researcher Valeria V...",
-      "url": "https://www.theguardian.com/environment/2026/aug/27/how-decoding-beluga-whales-chitchat-may-save-them-and-teach-us-more-about-ourselves",
-      "publishedAt": "2026-08-27T09:02:13",
-      "content": "From humpbacks learning the latest songs to sperm whales’ ‘clan codas’, drones and AI learning are helping reveal another dimension to the concept of culture In 2015, the whale researcher Valeria V..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Concerns raised over impact of quad bikes on wildlife",
-      "description": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy3d0j6pgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T08:11:20",
-      "content": "A resident of Carnamoyle says quad bike riders in Lisnagra Woods have been impacting local wildlife."
     },
     {
       "source": {
@@ -433,14 +532,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "How Ethical Is Aritzia?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-aritzia/",
-      "publishedAt": "2026-08-26T00:00:09",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Data Center Power Solutions Startup Emerald AI Raises $150 Million at Unicorn Valuation",
+      "description": "AI data center grid flexibility technology company Emerald AI announced that it has raised $150",
+      "url": "https://www.esgtoday.com/data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=data-center-power-solutions-startup-emerald-ai-raises-150-million-at-unicorn-valuation",
+      "publishedAt": "2026-08-26T11:46:42",
+      "content": "AI data center grid flexibility technology company Emerald AI announced that it has raised $150"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Building Resilience: 3 Ways Businesses Can Support Local Communities",
+      "description": "Strong communities aren’t built overnight. They grow through steady investments in people, partnerships and systems that help neighborhoods weather economic uncertainty and evolving social needs.",
+      "url": "https://csrwire.com/press-release/building-resilience-3-ways-businesses-can-support-local-communities/",
+      "publishedAt": "2026-08-26T10:05:00",
+      "content": "Strong communities aren’t built overnight. They grow through steady investments in people, partnerships and systems that help neighborhoods weather economic uncertainty and evolving social needs."
     },
     {
       "source": {
