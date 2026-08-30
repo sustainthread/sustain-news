@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 52,
+  "totalResults": 48,
   "articles": [
     {
       "source": {
@@ -51,6 +51,28 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
+      "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
+      "description": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beachesSouth West Water has worst environmental record in England, analysis shows“I’m f...",
+      "url": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
+      "publishedAt": "2026-08-30T06:00:48",
+      "content": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beachesSouth West Water has worst environmental record in England, analysis shows“I’m f..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "South West Water has worst environmental record in England, analysis shows",
+      "description": "Exclusive: Friends of the Earth finds greatest sewage discharge in Devon, Cornwall, Dorset and Somerset‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollutionSouth Wes...",
+      "url": "https://www.theguardian.com/environment/2026/aug/30/south-west-water-worst-environmental-record-england",
+      "publishedAt": "2026-08-30T06:00:48",
+      "content": "Exclusive: Friends of the Earth finds greatest sewage discharge in Devon, Cornwall, Dorset and Somerset‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollutionSouth Wes..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
       "title": "The Guardian climate pledge 2026",
       "description": "Each year, the Guardian reaffirms its commitment to the environment – both in our reporting and how we operate as a business.",
       "url": "https://www.theguardian.com/membership/ng-interactive/2026/aug/28/the-guardian-climate-pledge-2026",
@@ -81,17 +103,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Philips Issues its First EuGB-Aligned Green Bond",
-      "description": "Health technology company Philips announced the pricing of its new €650 million green bond offering,",
-      "url": "https://www.esgtoday.com/philips-issues-its-first-eugb-aligned-green-bond/?utm_source=rss&utm_medium=rss&utm_campaign=philips-issues-its-first-eugb-aligned-green-bond",
-      "publishedAt": "2026-08-26T13:12:35",
-      "content": "Health technology company Philips announced the pricing of its new €650 million green bond offering,"
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -103,14 +114,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable and Ethical T-Shirts",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-and-ethical-t-shirts/",
-      "publishedAt": "2026-08-27T00:00:20",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Philips Issues its First EuGB-Aligned Green Bond",
+      "description": "Health technology company Philips announced the pricing of its new €650 million green bond offering,",
+      "url": "https://www.esgtoday.com/philips-issues-its-first-eugb-aligned-green-bond/?utm_source=rss&utm_medium=rss&utm_campaign=philips-issues-its-first-eugb-aligned-green-bond",
+      "publishedAt": "2026-08-26T13:12:35",
+      "content": "Health technology company Philips announced the pricing of its new €650 million green bond offering,"
     },
     {
       "source": {
@@ -136,39 +147,6 @@
     },
     {
       "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Can “super coral” and cooling the sea, save reefs from climate change?",
-      "description": "101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction.",
-      "url": "https://www.aljazeera.com/video/101-east/2026/8/29/can-super-coral-and-cooling-the-sea-save-reefs-from-climate-change?traffic_source=rss",
-      "publishedAt": "2026-08-29T11:30:00",
-      "content": "101 East investigates whether Palau may hold the key to saving the world’s coral reefs from climate-driven destruction."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Death cleaning, downsizing and decluttering. How do we learn to live with less stuff?",
-      "description": "Many of us are overwhelmed by the sheer number of our belongings, but can we change our consumption habits? And is there a more sustainable way to declutter?Change by degrees offers life hacks and ...",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/29/death-cleaning-downsizing-and-decluttering-how-do-we-learn-to-live-with-less-stuff",
-      "publishedAt": "2026-08-29T00:00:12",
-      "content": "Many of us are overwhelmed by the sheer number of our belongings, but can we change our consumption habits? And is there a more sustainable way to declutter?Change by degrees offers life hacks and ..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Libraries Are Beacons of Credible Information in the Age of Fake News",
-      "description": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s...",
-      "url": "https://triplepundit.com/2026/fake-news-access-information-libraries/",
-      "publishedAt": "2026-08-28T18:14:05",
-      "content": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -177,6 +155,17 @@
       "url": "https://csrwire.com/press-release/every-moment-digital-friction-carries-cost/",
       "publishedAt": "2026-08-28T09:05:00",
       "content": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable and Ethical T-Shirts",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-and-ethical-t-shirts/",
+      "publishedAt": "2026-08-27T00:00:20",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -191,10 +180,54 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Trying to Get Away From Gas Turbines, Data Centers Place Their Hopes on Small Modular Nuclear Reactors",
+      "description": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide stead...",
+      "url": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/",
+      "publishedAt": "2026-08-30T08:55:00",
+      "content": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide stead..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
+      "description": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
+      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
+      "publishedAt": "2026-08-30T03:58:15",
+      "content": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+      "title": "The race to stop England running out of water",
+      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T14:50:35",
+      "content": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York City respond to the Himalayan disaster",
+      "description": "Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countriesGeeta Tamang was getting ready for bed when her aunts shared news that upended her w...",
+      "url": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
+      "publishedAt": "2026-08-29T13:43:05",
+      "content": "Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countriesGeeta Tamang was getting ready for bed when her aunts shared news that upended her w..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
       "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
       "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-29T10:51:21",
@@ -202,25 +235,47 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods",
-      "description": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
-      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-      "publishedAt": "2026-08-29T10:12:23",
-      "content": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
+      "author": "Triple Pundit",
+      "title": "Libraries Are Beacons of Credible Information in the Age of Fake News",
+      "description": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s...",
+      "url": "https://triplepundit.com/2026/fake-news-access-information-libraries/",
+      "publishedAt": "2026-08-28T18:14:05",
+      "content": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Climate Change News"
       },
-      "author": "New York Times",
-      "title": "As Deadly Flash Flooding Batters Nepal, Some Fear ‘the Entire Himalayas Are Melting’",
-      "description": "A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing.",
-      "url": "https://www.nytimes.com/2026/08/29/travel/flash-flood-nepal-global-warming-himalayas.html",
-      "publishedAt": "2026-08-29T09:04:15",
-      "content": "A glacier unleashed a deadly flood earlier this week. For local trekking guides and climbers, the mountains were already changing."
+      "author": "Climate Change News",
+      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
+      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
+      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
+      "publishedAt": "2026-08-28T09:10:28",
+      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Keeping Energy Affordable for Customers Who Need It Most",
+      "description": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon...",
+      "url": "https://csrwire.com/press-release/keeping-energy-affordable-customers-who-need-it-most/",
+      "publishedAt": "2026-08-27T16:00:00",
+      "content": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A New Era for Healthy Buildings: IWBI’s Third Annual Policy Summit Spotlights Growing Momentum and New Policy Opportunities",
+      "description": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho...",
+      "url": "https://csrwire.com/press-release/new-era-healthy-buildings-iwbis-third-annual-policy-summit-spotlights-growing-momentum-and-new/",
+      "publishedAt": "2026-08-27T11:10:00",
+      "content": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho..."
     },
     {
       "source": {
@@ -268,17 +323,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The race to stop England running out of water",
-      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T00:46:00",
-      "content": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -323,36 +367,69 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "The Guardian"
       },
-      "author": "Climate Change News",
-      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
-      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
-      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
-      "publishedAt": "2026-08-28T09:10:28",
-      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
+      "author": "The Guardian",
+      "title": "The chefs turning down the heat by switching from gas to electric",
+      "description": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari...",
+      "url": "https://www.theguardian.com/environment/2026/aug/28/the-chefs-turning-down-the-heat-by-switching-from-gas-to-electric",
+      "publishedAt": "2026-08-28T11:00:56",
+      "content": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari..."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Keeping Energy Affordable for Customers Who Need It Most",
-      "description": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon...",
-      "url": "https://csrwire.com/press-release/keeping-energy-affordable-customers-who-need-it-most/",
-      "publishedAt": "2026-08-27T16:00:00",
-      "content": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon..."
+      "author": "BBC",
+      "title": "Bank holiday weekend to see more thunderstorms and rain",
+      "description": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
+      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T09:42:47",
+      "content": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "A New Era for Healthy Buildings: IWBI’s Third Annual Policy Summit Spotlights Growing Momentum and New Policy Opportunities",
-      "description": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho...",
-      "url": "https://csrwire.com/press-release/new-era-healthy-buildings-iwbis-third-annual-policy-summit-spotlights-growing-momentum-and-new/",
-      "publishedAt": "2026-08-27T11:10:00",
-      "content": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho..."
+      "author": "BBC",
+      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+      "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-28T03:23:21",
+      "content": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
+      "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T21:00:48",
+      "content": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "France relaxes strict cheese-making rules after prolonged drought",
+      "description": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
+      "url": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-27T18:29:38",
+      "content": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
+      "description": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
+      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
+      "publishedAt": "2026-08-27T13:51:44",
+      "content": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more."
     },
     {
       "source": {
@@ -408,127 +485,6 @@
       "url": "https://www.esgtoday.com/certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution/?utm_source=rss&utm_medium=rss&utm_campaign=certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution",
       "publishedAt": "2026-08-26T13:40:40",
       "content": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The chefs turning down the heat by switching from gas to electric",
-      "description": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari...",
-      "url": "https://www.theguardian.com/environment/2026/aug/28/the-chefs-turning-down-the-heat-by-switching-from-gas-to-electric",
-      "publishedAt": "2026-08-28T11:00:56",
-      "content": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Nepal-Tibet flood rescue efforts resume after being halted by overflowing lake",
-      "description": "Risk of fresh flooding had forced rescue teams to withdraw as residents rushed up hills to escape possible river surgeNepal-Tibet flash flood – latest updatesVisual guide: how the deadly flooding u...",
-      "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
-      "publishedAt": "2026-08-28T10:17:07",
-      "content": "Risk of fresh flooding had forced rescue teams to withdraw as residents rushed up hills to escape possible river surgeNepal-Tibet flash flood – latest updatesVisual guide: how the deadly flooding u..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Bank holiday weekend to see more thunderstorms and rain",
-      "description": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
-      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T09:42:47",
-      "content": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Can California Farmers Break Free From Plastic?",
-      "description": "Farmers have relied on plastic since the 1960s, when the mass production of affordable agricultural tools derived from petrochemicals made them widely accessible. Plastic mulch quickly became a cor...",
-      "url": "https://insideclimatenews.org/news/28082026/california-farms-plastic-reliance/",
-      "publishedAt": "2026-08-28T09:00:00",
-      "content": "Farmers have relied on plastic since the 1960s, when the mass production of affordable agricultural tools derived from petrochemicals made them widely accessible. Plastic mulch quickly became a cor..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Montana Community Rallies to Save Its Beloved Ski Hill",
-      "description": "When the Sand Creek Fire crested Montana’s Maverick Mountain 16 days ago, Cory Birkenbuel watched as firefighters and aircraft fought to keep the flames from taking a place that had been part of hi...",
-      "url": "https://insideclimatenews.org/news/28082026/montana-ski-hill-sand-creek-fire-damage/",
-      "publishedAt": "2026-08-28T08:55:00",
-      "content": "When the Sand Creek Fire crested Montana’s Maverick Mountain 16 days ago, Cory Birkenbuel watched as firefighters and aircraft fought to keep the flames from taking a place that had been part of hi..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How Britain’s railways are struggling in the heat – and can they be fixed?",
-      "description": "Problems including derailments have hit network during one of the hottest and driest summers on record Britain’s railways have faced a string of heat-related problems this summer, including a derai...",
-      "url": "https://www.theguardian.com/business/2026/aug/28/britain-railways-struggling-heat-fixed-derailments-explainer",
-      "publishedAt": "2026-08-28T07:00:51",
-      "content": "Problems including derailments have hit network during one of the hottest and driest summers on record Britain’s railways have faced a string of heat-related problems this summer, including a derai..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-      "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T03:23:21",
-      "content": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
-      "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T21:00:48",
-      "content": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "France relaxes strict cheese-making rules after prolonged drought",
-      "description": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
-      "url": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T18:29:38",
-      "content": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-      "description": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
-      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-      "publishedAt": "2026-08-27T13:51:44",
-      "content": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Battle over cleaning up shipping set to resume at London talks",
-      "description": "The US and Saudi Arabia want to scrap shipping's Net-Zero Framework and have swung behind a far less ambitious alternative\nThe post Battle over cleaning up shipping set to resume at London talks ap...",
-      "url": "https://www.climatechangenews.com/2026/08/26/battle-over-cleaning-up-shipping-set-to-resume-at-london-talks/",
-      "publishedAt": "2026-08-26T12:31:01",
-      "content": "The US and Saudi Arabia want to scrap shipping's Net-Zero Framework and have swung behind a far less ambitious alternative\nThe post Battle over cleaning up shipping set to resume at London talks ap..."
     },
     {
       "source": {
