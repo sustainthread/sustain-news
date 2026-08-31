@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 41,
   "articles": [
     {
       "source": {
@@ -15,14 +15,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "79 More Sustainable Fashion Brands From Europe",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
-      "publishedAt": "2026-08-24T00:00:41",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "ESG Today",
+      "title": "Amazon Signs New Series of Clean Energy Deals in Sweden",
+      "description": "Amazon announced the signing of four new long-term power purchase agreements (PPAs) for carbon-free electricity",
+      "url": "https://www.esgtoday.com/amazon-signs-new-series-of-clean-energy-deals-in-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-signs-new-series-of-clean-energy-deals-in-sweden",
+      "publishedAt": "2026-08-31T10:17:32",
+      "content": "Amazon announced the signing of four new long-term power purchase agreements (PPAs) for carbon-free electricity"
     },
     {
       "source": {
@@ -84,6 +84,17 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Green Bond Issuance Hits New Record in Q2 2026: Moody’s",
+      "description": "Issuance of green bonds globally reached a new record in the second quarter of 2026,",
+      "url": "https://www.esgtoday.com/green-bond-issuance-hits-new-record-in-q2-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-hits-new-record-in-q2-2026-moodys",
+      "publishedAt": "2026-08-31T11:33:58",
+      "content": "Issuance of green bonds globally reached a new record in the second quarter of 2026,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Nuveen Raises Over $1 Billion for Fund Backing Energy, Water, Resilience Upgrades for Buildings",
       "description": "Global investment manager Nuveen and its sustainable commercial real estate financing solutions business Nuveen Green",
       "url": "https://www.esgtoday.com/nuveen-raises-over-1-billion-for-fund-backing-energy-water-resilience-upgrades-for-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=nuveen-raises-over-1-billion-for-fund-backing-energy-water-resilience-upgrades-for-buildings",
@@ -100,17 +111,6 @@
       "url": "https://www.theguardian.com/environment/2026/aug/19/is-the-environmental-impact-of-datacentres-finally-cutting-through",
       "publishedAt": "2026-08-28T16:20:02",
       "content": "In this week’s newsletter: Anti-datacentre sentiment is growing across the political spectrum in the  US – and the public is only just finding out about the potential effects on their energy bills•..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
-      "description": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide.",
-      "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
-      "publishedAt": "2026-08-28T03:22:45",
-      "content": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide."
     },
     {
       "source": {
@@ -136,25 +136,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "responsAbility Raises $461 Million for Asia-Focused Climate Fund",
-      "description": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments",
-      "url": "https://www.esgtoday.com/responsability-raises-461-million-for-asia-focused-climate-fund/?utm_source=rss&utm_medium=rss&utm_campaign=responsability-raises-461-million-for-asia-focused-climate-fund",
-      "publishedAt": "2026-08-25T12:58:37",
-      "content": "M&G’s impact investing unit responsAbility Investments announced that it has raised $461 million in commitments"
+      "author": "Inside Climate News",
+      "title": "Power Struggles",
+      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
+      "url": "https://insideclimatenews.org/news/31082026/inside-climate-podcast-alabama-power/",
+      "publishedAt": "2026-08-31T08:50:00",
+      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "The Guardian"
       },
-      "author": "CSRWire",
-      "title": "Every Moment of Digital Friction Carries a Cost",
-      "description": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments.",
-      "url": "https://csrwire.com/press-release/every-moment-digital-friction-carries-cost/",
-      "publishedAt": "2026-08-28T09:05:00",
-      "content": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments."
+      "author": "The Guardian",
+      "title": "‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks",
+      "description": "Secretive state begins repairs on ageing facilities after being revealed as worst country for leaks of potent greenhouse gasTurkmenistan has started plugging the mega-leaks of methane that spew fro...",
+      "url": "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars",
+      "publishedAt": "2026-08-31T07:00:18",
+      "content": "Secretive state begins repairs on ageing facilities after being revealed as worst country for leaks of potent greenhouse gasTurkmenistan has started plugging the mega-leaks of methane that spew fro..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Climate Change Raises Risk of Disasters Like Nepal Floods",
+      "description": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide.",
+      "url": "https://www.nytimes.com/2026/08/27/climate/nepal-flooding-climate-change.html",
+      "publishedAt": "2026-08-28T03:22:45",
+      "content": "Glaciers and permafrost in the Himalayas are melting faster as temperatures rise, though scientists are still studying the exact causes of this week’s landslide."
     },
     {
       "source": {
@@ -169,69 +180,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Indonesia’s nickel production cuts are not enough to create a sustainable industry",
-      "description": "The government is restricting nickel production to push up prices but producing more sustainable nickel for a premium requires addressing the industry's coal issue\nThe post Indonesia’s nickel produ...",
-      "url": "https://www.climatechangenews.com/2026/08/24/indonesias-nickel-production-cuts-are-not-enough-to-create-a-sustainable-industry/",
-      "publishedAt": "2026-08-24T10:40:44",
-      "content": "The government is restricting nickel production to push up prices but producing more sustainable nickel for a premium requires addressing the industry's coal issue\nThe post Indonesia’s nickel produ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Trying to Get Away From Gas Turbines, Data Centers Place Their Hopes on Small Modular Nuclear Reactors",
-      "description": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide stead...",
-      "url": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/",
-      "publishedAt": "2026-08-30T08:55:00",
-      "content": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide stead..."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Search Continues for 2,400 Missing in Nepal Floods Amid ‘Immense’ Devastation",
-      "description": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.",
-      "url": "https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html",
-      "publishedAt": "2026-08-30T03:58:15",
-      "content": "As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The race to stop England running out of water",
-      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T14:50:35",
-      "content": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘The world needs to pay attention’: Nepalis and Tibetans in New York City respond to the Himalayan disaster",
-      "description": "Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countriesGeeta Tamang was getting ready for bed when her aunts shared news that upended her w...",
-      "url": "https://www.theguardian.com/world/2026/aug/29/new-york-nepal-tibet-disaster",
-      "publishedAt": "2026-08-29T13:43:05",
-      "content": "Half the world away, a Himalayan diaspora reacts in sorrow and pitches in to help victims in their home countriesGeeta Tamang was getting ready for bed when her aunts shared news that upended her w..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
-      "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T10:51:21",
-      "content": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
+      "title": "Melting Himalayas",
+      "description": "Scientists are still working out the precise cause of the disaster in Nepal, but one thing seems certain: The risk of such events is increasing.",
+      "url": "https://www.nytimes.com/2026/08/30/world/nepal-tibet-flood-glacier-nasa.html",
+      "publishedAt": "2026-08-31T04:38:25",
+      "content": "Scientists are still working out the precise cause of the disaster in Nepal, but one thing seems certain: The risk of such events is increasing."
     },
     {
       "source": {
@@ -246,36 +202,47 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
-      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
-      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
-      "publishedAt": "2026-08-28T09:10:28",
-      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Keeping Energy Affordable for Customers Who Need It Most",
-      "description": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon...",
-      "url": "https://csrwire.com/press-release/keeping-energy-affordable-customers-who-need-it-most/",
-      "publishedAt": "2026-08-27T16:00:00",
-      "content": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon..."
+      "title": "Every Moment of Digital Friction Carries a Cost",
+      "description": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments.",
+      "url": "https://csrwire.com/press-release/every-moment-digital-friction-carries-cost/",
+      "publishedAt": "2026-08-28T09:05:00",
+      "content": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Inside Climate News"
       },
-      "author": "CSRWire",
-      "title": "A New Era for Healthy Buildings: IWBI’s Third Annual Policy Summit Spotlights Growing Momentum and New Policy Opportunities",
-      "description": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho...",
-      "url": "https://csrwire.com/press-release/new-era-healthy-buildings-iwbis-third-annual-policy-summit-spotlights-growing-momentum-and-new/",
-      "publishedAt": "2026-08-27T11:10:00",
-      "content": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho..."
+      "author": "Inside Climate News",
+      "title": "Trying to Get Away From Gas Turbines, Data Centers Place Their Hopes on Small Modular Nuclear Reactors",
+      "description": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide stead...",
+      "url": "https://insideclimatenews.org/news/30082026/data-center-small-modular-nuclear-reactors/",
+      "publishedAt": "2026-08-30T08:55:00",
+      "content": "Data center developers and states see small modular nuclear reactors as one of the potential solutions for America’s increasing energy demand due to their smaller sizes and ability to provide stead..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The race to stop England running out of water",
+      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T14:50:35",
+      "content": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
+      "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-29T10:51:21",
+      "content": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
     },
     {
       "source": {
@@ -318,7 +285,7 @@
       "title": "3 Charts That Explain El Niño",
       "description": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory.",
       "url": "https://www.nytimes.com/2026/08/25/climate/el-nino-temperature-charts.html",
-      "publishedAt": "2026-08-29T04:21:00",
+      "publishedAt": "2026-08-29T04:21:01",
       "content": "With air and sea surface temperatures already breaking records, this year’s episode is on track to be the strongest in living memory."
     },
     {
@@ -367,69 +334,36 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Climate Change News"
       },
-      "author": "The Guardian",
-      "title": "The chefs turning down the heat by switching from gas to electric",
-      "description": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari...",
-      "url": "https://www.theguardian.com/environment/2026/aug/28/the-chefs-turning-down-the-heat-by-switching-from-gas-to-electric",
-      "publishedAt": "2026-08-28T11:00:56",
-      "content": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10CLeaping flames, searing heat, copious sweat and scorchingly inventive sweari..."
+      "author": "Climate Change News",
+      "title": "Pacific islands seek backing for new regional fund ahead of COP31",
+      "description": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for...",
+      "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
+      "publishedAt": "2026-08-28T09:10:28",
+      "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Bank holiday weekend to see more thunderstorms and rain",
-      "description": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
-      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T09:42:47",
-      "content": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend."
+      "author": "CSRWire",
+      "title": "Keeping Energy Affordable for Customers Who Need It Most",
+      "description": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon...",
+      "url": "https://csrwire.com/press-release/keeping-energy-affordable-customers-who-need-it-most/",
+      "publishedAt": "2026-08-27T16:00:00",
+      "content": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon..."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-      "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T03:23:21",
-      "content": "One woman says her father, mother, sister and sister's children were carried away before her eyes."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
-      "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T21:00:48",
-      "content": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "France relaxes strict cheese-making rules after prolonged drought",
-      "description": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass.",
-      "url": "https://www.bbc.co.uk/news/articles/c980e36dd5do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-27T18:29:38",
-      "content": "Makers of some of France's most famous cheeses get waivers on where herds graze due to the lack of grass."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Dolly Parton’s Other Legacy: A Fortune Given Away, Dollar by Dollar",
-      "description": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more.",
-      "url": "https://www.nytimes.com/2026/08/26/business/dolly-parton-philanthropy-books-covid-vaccine.html",
-      "publishedAt": "2026-08-27T13:51:44",
-      "content": "The country star supported early childhood literacy, disaster relief, the development of the Covid-19 vaccine and more."
+      "author": "CSRWire",
+      "title": "A New Era for Healthy Buildings: IWBI’s Third Annual Policy Summit Spotlights Growing Momentum and New Policy Opportunities",
+      "description": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho...",
+      "url": "https://csrwire.com/press-release/new-era-healthy-buildings-iwbis-third-annual-policy-summit-spotlights-growing-momentum-and-new/",
+      "publishedAt": "2026-08-27T11:10:00",
+      "content": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho..."
     },
     {
       "source": {
@@ -518,17 +452,6 @@
       "url": "https://www.esgtoday.com/aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=aker-microsoft-partner-to-advance-maturity-and-delivery-of-carbon-capture-and-removal-projects",
       "publishedAt": "2026-08-25T14:42:56",
       "content": "Energy-focused global engineering and technology company Aker Solutions announced a new agreement with Microsoft, with"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Lookthrough Acquires Real Estate ESG Data and Reporting Platform BuildingMinds",
-      "description": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio",
-      "url": "https://www.esgtoday.com/lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds/?utm_source=rss&utm_medium=rss&utm_campaign=lookthrough-acquires-real-estate-esg-data-and-reporting-platform-buildingminds",
-      "publishedAt": "2026-08-25T14:01:12",
-      "content": "Real estate decision intelligence platform Lookthrough announced an agreement to acquire Schindler-owned real estate portfolio"
     }
   ]
 }
