@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 44,
   "articles": [
     {
       "source": {
@@ -15,6 +15,39 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "MetLife 2025 Sustainability Report: Strengthening Our Communities",
+      "description": "MetLife and MetLife Foundation’s giving and volunteerism help strengthen the resilience of the communities we serve.",
+      "url": "https://csrwire.com/press-release/metlife-2025-sustainability-report-strengthening-our-communities/",
+      "publishedAt": "2026-09-01T09:35:00",
+      "content": "MetLife and MetLife Foundation’s giving and volunteerism help strengthen the resilience of the communities we serve."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Europe’s Sustainability Reset: Simplification is Not a Reason to Slow Down",
+      "description": "Guest post by: Stefan Premer, Senior Director, Corporate Sustainability Consulting at Sphera For businesses globally,",
+      "url": "https://www.esgtoday.com/europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down/?utm_source=rss&utm_medium=rss&utm_campaign=europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down",
+      "publishedAt": "2026-09-02T08:09:54",
+      "content": "Guest post by: Stefan Premer, Senior Director, Corporate Sustainability Consulting at Sphera For businesses globally,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Aligned Climate Capital Launches $500 Million Distributed Solar and Storage Fund",
+      "description": "Decarbonization-focused investment firm Aligned Climate Capital announced the launch and first close of Aligned Solar",
+      "url": "https://www.esgtoday.com/aligned-climate-capital-launches-500-million-distributed-solar-and-storage-fund/?utm_source=rss&utm_medium=rss&utm_campaign=aligned-climate-capital-launches-500-million-distributed-solar-and-storage-fund",
+      "publishedAt": "2026-09-01T15:01:27",
+      "content": "Decarbonization-focused investment firm Aligned Climate Capital announced the launch and first close of Aligned Solar"
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -26,25 +59,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Amazon Signs New Series of Clean Energy Deals in Sweden",
-      "description": "Amazon announced the signing of four new long-term power purchase agreements (PPAs) for carbon-free electricity",
-      "url": "https://www.esgtoday.com/amazon-signs-new-series-of-clean-energy-deals-in-sweden/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-signs-new-series-of-clean-energy-deals-in-sweden",
-      "publishedAt": "2026-08-31T10:17:32",
-      "content": "Amazon announced the signing of four new long-term power purchase agreements (PPAs) for carbon-free electricity"
+      "author": "CSRWire",
+      "title": "PBF Energy Publishes 2025 Sustainability Data Supplement",
+      "description": "PBF Energy Inc.",
+      "url": "https://csrwire.com/press-release/pbf-energy-publishes-2025-sustainability-data-supplement/",
+      "publishedAt": "2026-09-01T15:30:00",
+      "content": "PBF Energy Inc."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Green Bond Issuance Hits New Record in Q2 2026: Moody’s",
-      "description": "Issuance of green bonds globally reached a new record in the second quarter of 2026,",
-      "url": "https://www.esgtoday.com/green-bond-issuance-hits-new-record-in-q2-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-hits-new-record-in-q2-2026-moodys",
-      "publishedAt": "2026-08-31T11:33:58",
-      "content": "Issuance of green bonds globally reached a new record in the second quarter of 2026,"
+      "author": "CSRWire",
+      "title": "First Registered Networking Equipment Continues EPEAT’s Expansion Into Sustainable Digital Infrastructure",
+      "description": "GEC is seeking leaders with diverse expertise, perspectives, and experience to serve on its Board of Directors.",
+      "url": "https://csrwire.com/press-release/first-registered-networking-equipment-continues-epeats-expansion-sustainable-digital-0/",
+      "publishedAt": "2026-09-01T10:09:00",
+      "content": "GEC is seeking leaders with diverse expertise, perspectives, and experience to serve on its Board of Directors."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.N. Says World Will Miss Its 1.5-Degree Climate Target",
+      "description": "It proposed a new goal of limiting the “overshoot” of rising temperatures and eventually figuring out how to undo the temperature gains, a highly uncertain path.",
+      "url": "https://www.nytimes.com/2026/09/02/climate/united-nations-climate-target-overshoot.html",
+      "publishedAt": "2026-09-02T08:57:00",
+      "content": "It proposed a new goal of limiting the “overshoot” of rising temperatures and eventually figuring out how to undo the temperature gains, a highly uncertain path."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Denim and Jeans",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-to-sustainable-jeans-and-ethical-denim/",
+      "publishedAt": "2026-09-02T01:00:04",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -65,19 +120,52 @@
       "title": "Nepal Puts Cost of Disaster at $5 Billion, Blaming Climate Change",
       "description": "The country is seeking urgent help from a special U.N. climate fund, but the program lacks money because the United States and others have been reluctant to contribute.",
       "url": "https://www.nytimes.com/2026/08/31/climate/nepal-disaster-cost-climate.html",
-      "publishedAt": "2026-08-31T20:48:16",
+      "publishedAt": "2026-08-31T20:48:17",
       "content": "The country is seeking urgent help from a special U.N. climate fund, but the program lacks money because the United States and others have been reluctant to contribute."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "India’s Community Health Workers Are Filling a Critical Gap in Menopause Care",
+      "description": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited.",
+      "url": "https://triplepundit.com/2026/community-health-workers-asha-india-menopause-depression-support/",
+      "publishedAt": "2026-09-01T23:51:41",
+      "content": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Nuveen Raises Over $1 Billion for Fund Backing Energy, Water, Resilience Upgrades for Buildings",
-      "description": "Global investment manager Nuveen and its sustainable commercial real estate financing solutions business Nuveen Green",
-      "url": "https://www.esgtoday.com/nuveen-raises-over-1-billion-for-fund-backing-energy-water-resilience-upgrades-for-buildings/?utm_source=rss&utm_medium=rss&utm_campaign=nuveen-raises-over-1-billion-for-fund-backing-energy-water-resilience-upgrades-for-buildings",
-      "publishedAt": "2026-08-27T10:15:39",
-      "content": "Global investment manager Nuveen and its sustainable commercial real estate financing solutions business Nuveen Green"
+      "title": "Google Signs Record Geothermal Power Deal with Fervo",
+      "description": "Geothermal energy project developer Fervo Energy announced a new 396 MW power purchase agreement (PPA)",
+      "url": "https://www.esgtoday.com/google-signs-record-geothermal-power-deal-with-fervo/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-record-geothermal-power-deal-with-fervo",
+      "publishedAt": "2026-09-01T16:44:39",
+      "content": "Geothermal energy project developer Fervo Energy announced a new 396 MW power purchase agreement (PPA)"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "JetZero Secures $100 Million to Advance Ultra-Efficient Blended-Wing Aircraft",
+      "description": "Aerospace startup JetZero announced that it has closed a senior secured term loan facility of",
+      "url": "https://www.esgtoday.com/jetzero-secures-100-million-to-advance-ultra-efficient-blended-wing-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=jetzero-secures-100-million-to-advance-ultra-efficient-blended-wing-aircraft",
+      "publishedAt": "2026-09-01T15:23:22",
+      "content": "Aerospace startup JetZero announced that it has closed a senior secured term loan facility of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Auxxo Raises Over €33 Million to Back Female-led Startups",
+      "description": "Early-stage venture capital firm Auxxo announced today that it has raised €33.3 million (USD$38.2 million)",
+      "url": "https://www.esgtoday.com/auxxo-raises-over-e33-million-to-back-female-led-startups/?utm_source=rss&utm_medium=rss&utm_campaign=auxxo-raises-over-e33-million-to-back-female-led-startups",
+      "publishedAt": "2026-09-01T13:55:39",
+      "content": "Early-stage venture capital firm Auxxo announced today that it has raised €33.3 million (USD$38.2 million)"
     },
     {
       "source": {
@@ -92,14 +180,168 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "Philips Issues its First EuGB-Aligned Green Bond",
-      "description": "Health technology company Philips announced the pricing of its new €650 million green bond offering,",
-      "url": "https://www.esgtoday.com/philips-issues-its-first-eugb-aligned-green-bond/?utm_source=rss&utm_medium=rss&utm_campaign=philips-issues-its-first-eugb-aligned-green-bond",
-      "publishedAt": "2026-08-26T13:12:35",
-      "content": "Health technology company Philips announced the pricing of its new €650 million green bond offering,"
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable and Ethical T-Shirts",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-and-ethical-t-shirts/",
+      "publishedAt": "2026-08-27T00:00:20",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Britain is OK with public ownership, but only by foreign powers. Why?",
+      "description": "Arthur Downing, author of Power and the People: A History of British Energy, says all-encompassing rapid transition will need a mutualised systemHave you ever wondered why it is that most houses in...",
+      "url": "https://www.theguardian.com/business/2026/sep/02/britain-public-ownership-energy-transition-foreign-powers-arthur-downing",
+      "publishedAt": "2026-09-02T07:00:26",
+      "content": "Arthur Downing, author of Power and the People: A History of British Energy, says all-encompassing rapid transition will need a mutualised systemHave you ever wondered why it is that most houses in..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
+      "description": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single ye...",
+      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+      "publishedAt": "2026-09-02T06:00:25",
+      "content": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single ye..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "At the Grand Canyon, Flooding and Wildfire Underscore Compounding Extreme Weather Risks",
+      "description": "An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday...",
+      "url": "https://insideclimatenews.org/news/01092026/todays-climate-grand-canyon-flash-floods/",
+      "publishedAt": "2026-09-01T22:31:43",
+      "content": "An intense downpour at Grand Canyon National Park transformed hiking trails and shallow creeks into deadly rapids over the weekend, killing at least two people. Following scattered showers Saturday..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "How Monsoon Season Supercharged the Deadly Grand Canyon Flooding",
+      "description": "Floods are common across the Southwest this time of year, when even a little bit of rain can quickly become dangerous.",
+      "url": "https://www.nytimes.com/2026/09/01/weather/grand-canyon-flooding-monsoon-el-nino.html",
+      "publishedAt": "2026-09-01T21:34:42",
+      "content": "Floods are common across the Southwest this time of year, when even a little bit of rain can quickly become dangerous."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch: Astronauts set out on rare all-female spacewalk",
+      "description": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
+      "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T21:08:48",
+      "content": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Why Montana Firefighters Are Intentionally Burning Areas Around Two Wildfires",
+      "description": "About a month ago, two wildfires ignited a day apart in southwest Montana.",
+      "url": "https://insideclimatenews.org/news/01092026/montana-strategic-firing-around-two-wildfires/",
+      "publishedAt": "2026-09-01T20:53:26",
+      "content": "About a month ago, two wildfires ignited a day apart in southwest Montana."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Met Office: Summer 2026 was UK's hottest ever",
+      "description": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
+      "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T17:25:35",
+      "content": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Summer of 2026 was UK’s hottest on record, Met Office says",
+      "description": "Meteorologists say mean average temperature of 16.",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
+      "publishedAt": "2026-09-01T15:36:10",
+      "content": "Meteorologists say mean average temperature of 16."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts",
+      "description": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction.",
+      "url": "https://www.nytimes.com/2026/08/31/climate/pennsylvanias-ai-gold-rush-meets-second-thoughts.html",
+      "publishedAt": "2026-09-01T14:21:06",
+      "content": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "High winds during El Niño could be deadly for England’s stressed trees, say experts",
+      "description": "Head of tree collections at Kew ‘very worried about this autumn’ as hot, dry summer has caused brittlenessHigh winds associated with El Niño could cause widespread mortality among tree species alre...",
+      "url": "https://www.theguardian.com/environment/2026/sep/01/high-winds-el-nino-england-stressed-trees-heat-drought",
+      "publishedAt": "2026-09-01T14:00:00",
+      "content": "Head of tree collections at Kew ‘very worried about this autumn’ as hot, dry summer has caused brittlenessHigh winds associated with El Niño could cause widespread mortality among tree species alre..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
+      "description": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut risks\nThe post From firefighting to future-proof...",
+      "url": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
+      "publishedAt": "2026-09-01T13:54:36",
+      "content": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut risks\nThe post From firefighting to future-proof..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "More hosepipe bans in force as drought declared - is your area affected?",
+      "description": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T13:37:06",
+      "content": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "One still missing after Grand Canyon floods kill two and prompt rescue efforts",
+      "description": "Almost everyone is now accounted for after dozens of hikers were airlifted to safety, an official says.",
+      "url": "https://www.bbc.co.uk/news/articles/c62e6rkn43ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T13:34:04",
+      "content": "Almost everyone is now accounted for after dozens of hikers were airlifted to safety, an official says."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Summer 2026 was UK's hottest on record, Met Office says",
+      "description": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
+      "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-01T12:18:55",
+      "content": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat."
     },
     {
       "source": {
@@ -111,6 +353,17 @@
       "url": "https://insideclimatenews.org/news/01092026/amazons-defenders-declare-state-of-emergency/",
       "publishedAt": "2026-09-01T09:01:00",
       "content": "PUYO, Ecuador—People fighting oil wells, mines and other threats to their homelands did not come to this Amazonian city to lobby politicians at an environmental conference hosted by governments. Th..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas",
+      "description": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat.",
+      "url": "https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas",
+      "publishedAt": "2026-09-01T06:30:46",
+      "content": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat."
     },
     {
       "source": {
@@ -147,25 +400,25 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable and Ethical T-Shirts",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-and-ethical-t-shirts/",
-      "publishedAt": "2026-08-27T00:00:20",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "Everpure Named to 2026 PEOPLE® Companies That Care List",
+      "description": "We’re excited to share that, for the first time, Everpure has been named on the 2026 PEOPLE® Companies That Care list!",
+      "url": "https://csrwire.com/press-release/everpure-named-2026-peopler-companies-care-list/",
+      "publishedAt": "2026-08-31T09:05:00",
+      "content": "We’re excited to share that, for the first time, Everpure has been named on the 2026 PEOPLE® Companies That Care list!"
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Can Ancient Ruins Be Protected From Wildfires? Greece Is Trying.",
-      "description": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape.",
-      "url": "https://www.nytimes.com/2026/09/01/world/europe/greece-wildfires-ancient-sites.html",
-      "publishedAt": "2026-09-01T09:00:32",
-      "content": "As blazes surge across Europe, the country is making a trade-off to protect its heritage by fireproofing sites at the risk of spoiling the surrounding landscape."
+      "author": "CSRWire",
+      "title": "How AI Is Transforming Geospatial Intelligence",
+      "description": "When most people think about maps, they think about directions on their phone. But the U.S. Navy and other commercial vessels rely on charts and maps to show exactly what is in the vast ocean.",
+      "url": "https://csrwire.com/press-release/how-ai-transforming-geospatial-intelligence/",
+      "publishedAt": "2026-08-31T09:05:00",
+      "content": "When most people think about maps, they think about directions on their phone. But the U.S. Navy and other commercial vessels rely on charts and maps to show exactly what is in the vast ocean."
     },
     {
       "source": {
@@ -191,17 +444,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Could this humble sea sponge clean up the world’s ports?",
-      "description": "The chicken liver sponge has sailed through a test of its ability to filter pollutants in a harbour in Spain’s Costa BravaIn the polluted waters of Marina Palamós on Spain’s Costa Brava, Manuel Mal...",
-      "url": "https://www.theguardian.com/environment/2026/sep/01/sea-chicken-liver-sponge-filter-pollutants-harbour-spain-costa-brava",
-      "publishedAt": "2026-09-01T08:00:48",
-      "content": "The chicken liver sponge has sailed through a test of its ability to filter pollutants in a harbour in Spain’s Costa BravaIn the polluted waters of Marina Palamós on Spain’s Costa Brava, Manuel Mal..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -224,149 +466,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "New storm names for 2026-2027 released by Met Office",
-      "description": "Tuesday 1 September marks the start of the UK storm season and a new list of storm names have been released including Austen, Chloe and Evelyn.",
-      "url": "https://www.bbc.co.uk/weather/articles/cn0n01vrw9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T05:00:13",
-      "content": "Tuesday 1 September marks the start of the UK storm season and a new list of storm names have been released including Austen, Chloe and Evelyn."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "No One Knows All the Toxic Chemicals You’re Eating",
-      "description": "Most people decide if it’s safe to eat an old tub of yogurt in the fridge or canned tuna in the back of the cupboard by checking its sell-by date.",
-      "url": "https://insideclimatenews.org/news/01092026/food-packaging-toxic-chemicals/",
-      "publishedAt": "2026-09-01T04:01:00",
-      "content": "Most people decide if it’s safe to eat an old tub of yogurt in the fridge or canned tuna in the back of the cupboard by checking its sell-by date."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Summer 2026 expected to be declared UK's hottest on record",
-      "description": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
-      "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T23:42:55",
-      "content": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What to Know About Hiking in Areas Prone to Flash Floods",
-      "description": "Canyons, small streams and dry creek beds in the West can be deceptively dangerous, trapping hikers when rainfall upstream causes rapidly rising water.",
-      "url": "https://www.nytimes.com/2026/08/31/travel/flash-floods-hiking-what-to-know.html",
-      "publishedAt": "2026-08-31T20:15:19",
-      "content": "Canyons, small streams and dry creek beds in the West can be deceptively dangerous, trapping hikers when rainfall upstream causes rapidly rising water."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts",
-      "description": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction.",
-      "url": "https://www.nytimes.com/2026/08/31/climate/pennsylvanias-ai-gold-rush-meets-second-thoughts.html",
-      "publishedAt": "2026-08-31T16:56:41",
-      "content": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Everpure Named to 2026 PEOPLE® Companies That Care List",
-      "description": "We’re excited to share that, for the first time, Everpure has been named on the 2026 PEOPLE® Companies That Care list!",
-      "url": "https://csrwire.com/press-release/everpure-named-2026-peopler-companies-care-list/",
-      "publishedAt": "2026-08-31T09:05:00",
-      "content": "We’re excited to share that, for the first time, Everpure has been named on the 2026 PEOPLE® Companies That Care list!"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How AI Is Transforming Geospatial Intelligence",
-      "description": "When most people think about maps, they think about directions on their phone. But the U.S. Navy and other commercial vessels rely on charts and maps to show exactly what is in the vast ocean.",
-      "url": "https://csrwire.com/press-release/how-ai-transforming-geospatial-intelligence/",
-      "publishedAt": "2026-08-31T09:05:00",
-      "content": "When most people think about maps, they think about directions on their phone. But the U.S. Navy and other commercial vessels rely on charts and maps to show exactly what is in the vast ocean."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Elanco Scales Biologics Capabilities With Expansion of Kansas Manufacturing Facility",
-      "description": "Elanco Animal Health Incorporated (NYSE: ELAN) announced the on-time completion of a 25,000-square-foot manufacturing expansion of its Elwood, Kansas manufacturing site.",
-      "url": "https://csrwire.com/press-release/elanco-scales-biologics-capabilities-expansion-kansas-manufacturing-facility/",
-      "publishedAt": "2026-08-31T09:00:00",
-      "content": "Elanco Animal Health Incorporated (NYSE: ELAN) announced the on-time completion of a 25,000-square-foot manufacturing expansion of its Elwood, Kansas manufacturing site."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Power Struggles",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/31082026/inside-climate-podcast-alabama-power/",
-      "publishedAt": "2026-08-31T08:50:00",
-      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Breakthrough’ as Turkmenistan starts fixing ‘mindboggling’ methane mega-leaks",
-      "description": "Secretive state begins repairs on ageing facilities after being revealed as worst country for leaks of potent greenhouse gasTurkmenistan has started plugging the mega-leaks of methane that spew fro...",
-      "url": "https://www.theguardian.com/environment/2026/aug/31/turkmenistan-methane-leaks-un-alerts-mars",
-      "publishedAt": "2026-08-31T07:00:18",
-      "content": "Secretive state begins repairs on ageing facilities after being revealed as worst country for leaks of potent greenhouse gasTurkmenistan has started plugging the mega-leaks of methane that spew fro..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Every Moment of Digital Friction Carries a Cost",
-      "description": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments.",
-      "url": "https://csrwire.com/press-release/every-moment-digital-friction-carries-cost/",
-      "publishedAt": "2026-08-28T09:05:00",
-      "content": "How Digital Experience Optimization helps organizations proactively eliminate workforce disruptions and build self-healing, productivity-enhancing digital environments."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The race to stop England running out of water",
-      "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
-      "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T14:50:35",
-      "content": "Who is to blame for the summer drought, and can England future-proof its water supplies?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
-      "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T10:51:21",
-      "content": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -386,50 +485,6 @@
       "url": "https://www.climatechangenews.com/2026/08/28/pacific-islands-new-regional-fund-climate-finance-cop31-australia-prf/",
       "publishedAt": "2026-08-28T09:10:28",
       "content": "Pacific leaders will launch the first call for proposals next week for a new regional fund designed to swiftly channel climate finance to local communities\nThe post Pacific islands seek backing for..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Keeping Energy Affordable for Customers Who Need It Most",
-      "description": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon...",
-      "url": "https://csrwire.com/press-release/keeping-energy-affordable-customers-who-need-it-most/",
-      "publishedAt": "2026-08-27T16:00:00",
-      "content": "For more than a century, Entergy has provided reliable, affordable power to the communities they serve across Arkansas, Louisiana, Mississippi and Texas. But the company’s mission extends far beyon..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A New Era for Healthy Buildings: IWBI’s Third Annual Policy Summit Spotlights Growing Momentum and New Policy Opportunities",
-      "description": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho...",
-      "url": "https://csrwire.com/press-release/new-era-healthy-buildings-iwbis-third-annual-policy-summit-spotlights-growing-momentum-and-new/",
-      "publishedAt": "2026-08-27T11:10:00",
-      "content": "In partnership with Georgetown University’s Global Cities Initiative, IWBI convenes leaders across public health, policy and industry to advance solutions for indoor air quality, brain health, scho..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Deloitte to Pay Over $20 Million to Settle U.S. Anti-DEI Case",
-      "description": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Deloitte,",
-      "url": "https://www.esgtoday.com/deloitte-to-pay-over-20-million-to-settle-u-s-anti-dei-case/?utm_source=rss&utm_medium=rss&utm_campaign=deloitte-to-pay-over-20-million-to-settle-u-s-anti-dei-case",
-      "publishedAt": "2026-08-26T14:11:12",
-      "content": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Deloitte,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Certain Energy Raises $13 Million for New Low-Cost, Long Duration Energy Storage Solution",
-      "description": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6",
-      "url": "https://www.esgtoday.com/certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution/?utm_source=rss&utm_medium=rss&utm_campaign=certain-energy-raises-13-million-for-new-low-cost-long-duration-energy-storage-solution",
-      "publishedAt": "2026-08-26T13:40:40",
-      "content": "Energy storage technology company Certain Energy announced today that it has raised £10 million (USD$13.6"
     }
   ]
 }
