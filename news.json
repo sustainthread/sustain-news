@@ -1,17 +1,17 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 48,
   "articles": [
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Hindu"
       },
-      "author": "ESG Today",
-      "title": "Europe’s Sustainability Reset: Simplification is Not a Reason to Slow Down",
-      "description": "Guest post by: Stefan Premer, Senior Director, Corporate Sustainability Consulting at Sphera For businesses globally,",
-      "url": "https://www.esgtoday.com/europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down/?utm_source=rss&utm_medium=rss&utm_campaign=europes-sustainability-reset-simplification-is-not-a-reason-to-slow-down",
-      "publishedAt": "2026-09-02T08:09:54",
-      "content": "Guest post by: Stefan Premer, Senior Director, Corporate Sustainability Consulting at Sphera For businesses globally,"
+      "author": "The Hindu",
+      "title": "Filatex India to invest ₹300 cr in polyester textile recycling plant in Gujarat",
+      "description": "The investment marks the company’s expansion as demand for recycled polyester continues to grow globally amid increasing emphasis on sustainable textile manufacturing.",
+      "url": "https://www.thehindu.com/business/Industry/filatex-india-to-invest-300-cr-in-polyester-textile-recycling-plant-in-gujarat/article71423506.ece",
+      "publishedAt": "2026-09-03T11:22:51",
+      "content": "The investment marks the company’s expansion as demand for recycled polyester continues to grow globally amid increasing emphasis on sustainable textile manufacturing."
     },
     {
       "source": {
@@ -26,14 +26,102 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Renewable energy in NI reaches record level",
+      "description": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
+      "url": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T05:11:45",
+      "content": "And for the first time renewable generation has consistently exceeded non-renewable generation since January."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Court Stalls EPA Plan to Override California’s Vehicle Pollution Standards",
+      "description": "A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollution standards stricter than federal requirement...",
+      "url": "https://insideclimatenews.org/news/03092026/judge-blocks-epa-from-challenging-californias-emissions-standards/",
+      "publishedAt": "2026-09-03T19:41:34",
+      "content": "A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollution standards stricter than federal requirement..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Aligned Climate Capital Launches $500 Million Distributed Solar and Storage Fund",
-      "description": "Decarbonization-focused investment firm Aligned Climate Capital announced the launch and first close of Aligned Solar",
-      "url": "https://www.esgtoday.com/aligned-climate-capital-launches-500-million-distributed-solar-and-storage-fund/?utm_source=rss&utm_medium=rss&utm_campaign=aligned-climate-capital-launches-500-million-distributed-solar-and-storage-fund",
-      "publishedAt": "2026-09-01T15:01:27",
-      "content": "Decarbonization-focused investment firm Aligned Climate Capital announced the launch and first close of Aligned Solar"
+      "title": "HSBC Appoints Nneka Chike-Obi as Head of Sustainability for Global Investment Research",
+      "description": "HSBC announced the appointment of Nneka Chike-Obi as its new Head of Sustainability within HSBC",
+      "url": "https://www.esgtoday.com/hsbc-appoints-nneka-chike-obi-as-head-of-sustainability-for-global-investment-research/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-appoints-nneka-chike-obi-as-head-of-sustainability-for-global-investment-research",
+      "publishedAt": "2026-09-04T08:49:49",
+      "content": "HSBC announced the appointment of Nneka Chike-Obi as its new Head of Sustainability within HSBC"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Pilots New Maritime Sustainable Fuel Book & Claim Purchase with Norden",
+      "description": "Global ocean-based shipping company Norden announced the completion of a new pilot transaction with Microsoft,",
+      "url": "https://www.esgtoday.com/microsoft-pilots-new-maritime-book-claim-emissions-reduction-purchase-with-norden/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-pilots-new-maritime-book-claim-emissions-reduction-purchase-with-norden",
+      "publishedAt": "2026-09-03T14:52:09",
+      "content": "Global ocean-based shipping company Norden announced the completion of a new pilot transaction with Microsoft,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "California Confirms Series of Reliefs to Ease First Year of Climate Reporting for Companies",
+      "description": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s",
+      "url": "https://www.esgtoday.com/california-confirms-series-of-reliefs-for-first-year-of-climate-reporting-for-companies/?utm_source=rss&utm_medium=rss&utm_campaign=california-confirms-series-of-reliefs-for-first-year-of-climate-reporting-for-companies",
+      "publishedAt": "2026-09-03T11:18:44",
+      "content": "The California Air Resources Board (CARB), the regulator charged with developing and enforcing the state’s"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why Rebuilding After Climate Disasters Is No Longer Enough",
+      "description": "But every crisis is an opportunity.",
+      "url": "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html",
+      "publishedAt": "2026-09-04T09:02:22",
+      "content": "But every crisis is an opportunity."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Behind on 2030 Climate Goals, States Are Cutting or Even Scrapping Them",
+      "description": "Ambitious aims have given way to political anxiety over rising costs for consumers.",
+      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
+      "publishedAt": "2026-09-04T09:00:08",
+      "content": "Ambitious aims have given way to political anxiety over rising costs for consumers."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Air pollution from ships may be more harmful than road traffic emissions, port study finds",
+      "description": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2.",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/pollutionwatch-ships-air-pollution-emissions-port-study",
+      "publishedAt": "2026-09-04T05:00:01",
+      "content": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "AllianceBernstein – Climate Power Plays: Energy, Geopolitics and the Repricing of Risk",
+      "description": "Global policy shifts are rewiring energy supply and control—and repricing risks and opportunities.",
+      "url": "https://csrwire.com/press-release/alliancebernstein-climate-power-plays-energy-geopolitics-and-repricing-risk/",
+      "publishedAt": "2026-09-03T09:15:00",
+      "content": "Global policy shifts are rewiring energy supply and control—and repricing risks and opportunities."
     },
     {
       "source": {
@@ -48,6 +136,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Nokia’s Sustainability Strategy: An Engine for Innovation, Collaboration, and Long-Term Impact",
+      "description": "One of Nokia’s foundational strengths continues to be our focus on sustainability where we advance connectivity to positively impact both people and planet. We have been reporting our sustainabilit...",
+      "url": "https://csrwire.com/press-release/nokias-sustainability-strategy-engine-innovation-collaboration-and-long-term-impact/",
+      "publishedAt": "2026-09-03T08:05:00",
+      "content": "One of Nokia’s foundational strengths continues to be our focus on sustainability where we advance connectivity to positively impact both people and planet. We have been reporting our sustainabilit..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -59,25 +158,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Goal to Limit Climate Change to 1.5°C Out of Reach: UN Report",
-      "description": "The multinational goal to limit global temperature increase to 1.5°C, identified as the threshold to",
-      "url": "https://www.esgtoday.com/goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report/?utm_source=rss&utm_medium=rss&utm_campaign=goal-to-limit-climate-change-to-1-5c-out-of-reach-un-report",
-      "publishedAt": "2026-09-02T11:32:52",
-      "content": "The multinational goal to limit global temperature increase to 1.5°C, identified as the threshold to"
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
       "title": "Is Your City Prepared for Climate Disaster?",
       "description": "A new report ranks the world’s large cities on how well they have adapted to face climate risk.",
       "url": "https://www.nytimes.com/2026/09/03/realestate/is-your-city-prepared-for-climate-disaster.html",
-      "publishedAt": "2026-09-03T09:00:12",
+      "publishedAt": "2026-09-03T09:00:13",
       "content": "A new report ranks the world’s large cities on how well they have adapted to face climate risk."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Linen Dresses That Deliver On Style and Comfort",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-linen-dresses/",
+      "publishedAt": "2026-09-03T00:47:39",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -114,6 +213,193 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Cleaner Air, Smarter Toddlers",
+      "description": "New research links climate policies to improved early-childhood development.",
+      "url": "https://www.nytimes.com/2026/09/03/climate/cleaner-air-smarter-toddlers.html",
+      "publishedAt": "2026-09-03T18:11:42",
+      "content": "New research links climate policies to improved early-childhood development."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "JPMorgan Rebrands Forest Asset Management Unit to Reflect Broader Nature-Based Assets Focus",
+      "description": "J.P. Morgan Asset Management (JPMAM) today announced the rebrand of its timberland investment advisory company Campbell",
+      "url": "https://www.esgtoday.com/jpmorgan-rebrands-forest-asset-management-unit-to-reflect-broader-nature-based-assets-focus/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-rebrands-forest-asset-management-unit-to-reflect-broader-nature-based-assets-focus",
+      "publishedAt": "2026-09-03T13:33:42",
+      "content": "J.P. Morgan Asset Management (JPMAM) today announced the rebrand of its timberland investment advisory company Campbell"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Alantra Launches New $140 Million Energy Transition Fund with Acquisition of Portfolio from Shell Ventures",
+      "description": "Madrid-based international financial services provider Alantra announced the launch of Horizon Secondaries, a new €120",
+      "url": "https://www.esgtoday.com/alantra-launches-new-140-million-energy-transition-fund-with-acquisition-of-portfolio-from-shell-ventures/?utm_source=rss&utm_medium=rss&utm_campaign=alantra-launches-new-140-million-energy-transition-fund-with-acquisition-of-portfolio-from-shell-ventures",
+      "publishedAt": "2026-09-03T12:59:34",
+      "content": "Madrid-based international financial services provider Alantra announced the launch of Horizon Secondaries, a new €120"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "RBC Launches New Program to Support Community Solar Deployment",
+      "description": "The Royal Bank of Canada (RBC) announced the launch of the RBC Community Solar Program,",
+      "url": "https://www.esgtoday.com/rbc-launches-program-to-support-community-solar-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=rbc-launches-program-to-support-community-solar-deployment",
+      "publishedAt": "2026-09-03T10:30:28",
+      "content": "The Royal Bank of Canada (RBC) announced the launch of the RBC Community Solar Program,"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Farmed Salmon May Not Be as Nutritious as It Once Was, New Research Suggests",
+      "description": "Eat more fatty fish.",
+      "url": "https://insideclimatenews.org/news/04092026/farmed-salmon-losing-healthy-fatty-acids/",
+      "publishedAt": "2026-09-04T08:55:00",
+      "content": "Eat more fatty fish."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
+      "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
+      "publishedAt": "2026-09-04T07:55:07",
+      "content": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Revealed: how companies ‘secretly’ use billions of litres of public water in drought-hit England",
+      "description": "Exclusive: As millions of people face hosepipe bans, many companies are not required to report, let alone cut, use of public supplyLess than 1% of businesses in England use more water than the dail...",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/revealed-how-companies-secretly-use-billions-of-litres-of-public-water-in-drought-hit-england",
+      "publishedAt": "2026-09-04T06:00:00",
+      "content": "Exclusive: As millions of people face hosepipe bans, many companies are not required to report, let alone cut, use of public supplyLess than 1% of businesses in England use more water than the dail..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
+      "description": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
+      "url": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T05:13:54",
+      "content": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "From 'dog fruit' to darling: India's avocado boom",
+      "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T05:09:02",
+      "content": "Demand for avocados is booming in India and local growers hope to grab more of the market."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: It’s 10am at the Melplash Show and the cider contest is well under way | Sara Hudston",
+      "description": "Bridport, Dorset: Away from the sheep, pigs and Martin Clunes’s horse, I find a bounty of local ciders – and concern about this year’s apple harvestIt’s Melplash Show day and all of Bridport is her...",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/country-diary-its-10am-at-the-melplash-show-and-the-cider-contest-is-well-under-way",
+      "publishedAt": "2026-09-04T04:30:57",
+      "content": "Bridport, Dorset: Away from the sheep, pigs and Martin Clunes’s horse, I find a bounty of local ciders – and concern about this year’s apple harvestIt’s Melplash Show day and all of Bridport is her..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
+      "description": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
+      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-04T00:46:54",
+      "content": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
+      "description": "Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive mail as normalTwo months after a devastating wildfire whip...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/03/hawaii-lahaina-mail-delivery-usps",
+      "publishedAt": "2026-09-03T20:49:57",
+      "content": "Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive mail as normalTwo months after a devastating wildfire whip..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
+      "description": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
+      "url": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T17:52:37",
+      "content": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How the brain of a fly may help explain human behaviour",
+      "description": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T15:01:41",
+      "content": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Will El Nino bring chaos to UK weather?",
+      "description": "Will El Nino bring chaos to UK weather?",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z642lq6wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T13:12:44",
+      "content": "Will El Nino bring chaos to UK weather?"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "These States Are Leading the Electricity Generation Boom",
+      "description": "As data centers and other large users drove demand higher, U.",
+      "url": "https://insideclimatenews.org/news/03092026/inside-clean-energy-electricity-generation-boom/",
+      "publishedAt": "2026-09-03T13:00:00",
+      "content": "As data centers and other large users drove demand higher, U."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How a new instrument could reveal the secrets of the stars",
+      "description": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile.",
+      "url": "https://www.bbc.co.uk/news/videos/cn9w1xpyvz2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-03T12:38:14",
+      "content": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -136,6 +422,28 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "T-Mobile Supports Indiana Communities Following Severe Weather and Prolonged Power Outages",
+      "description": "Following destructive storms across the Midwest, T-Mobile teams helped support impacted customers and communities, including offering unlimited talk, text and data to customers in affected areas wh...",
+      "url": "https://csrwire.com/press-release/t-mobile-supports-indiana-communities-following-severe-weather-and-prolonged-power-outages/",
+      "publishedAt": "2026-09-02T15:55:00",
+      "content": "Following destructive storms across the Midwest, T-Mobile teams helped support impacted customers and communities, including offering unlimited talk, text and data to customers in affected areas wh..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Verizon Combines Tech, Readiness and Grants for Complete Disaster Relief",
+      "description": "As natural disasters become more frequent, evidenced by recent weather across the country, communities are left increasingly vulnerable.",
+      "url": "https://csrwire.com/press-release/verizon-combines-tech-readiness-and-grants-complete-disaster-relief/",
+      "publishedAt": "2026-09-02T15:20:00",
+      "content": "As natural disasters become more frequent, evidenced by recent weather across the country, communities are left increasingly vulnerable."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -147,47 +455,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Maersk Pilots Wind Sail to Cut Container Ship Fuel and Emissions",
-      "description": "Shipping giant A.P. Moller – Maersk (Maersk) announced that it has signed an agreement with",
-      "url": "https://www.esgtoday.com/maersk-pilots-wind-sail-to-cut-container-ship-fuel-and-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=maersk-pilots-wind-sail-to-cut-container-ship-fuel-and-emissions",
-      "publishedAt": "2026-09-02T10:54:30",
-      "content": "Shipping giant A.P. Moller – Maersk (Maersk) announced that it has signed an agreement with"
+      "author": "CSRWire",
+      "title": "How Mike Mongell and Joel Eaton Are Growing Water Filtration at Covia",
+      "description": "Discover how Mike Mongell and Joel Eaton combine technical expertise, collaboration, and customer trust to grow Covia’s water filtration business.",
+      "url": "https://csrwire.com/press-release/how-mike-mongell-and-joel-eaton-are-growing-water-filtration-covia/",
+      "publishedAt": "2026-09-02T11:25:00",
+      "content": "Discover how Mike Mongell and Joel Eaton combine technical expertise, collaboration, and customer trust to grow Covia’s water filtration business."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-      "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
-      "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T09:13:54",
-      "content": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn."
+      "author": "CSRWire",
+      "title": "Beyond Delivery: How One Shipment Sparked a Larger Response",
+      "description": "One of the greatest impacts of in-kind shipping from FedEx is that its reach extends far beyond any single shipment.",
+      "url": "https://csrwire.com/press-release/beyond-delivery-how-one-shipment-sparked-larger-response/",
+      "publishedAt": "2026-09-02T11:00:00",
+      "content": "One of the greatest impacts of in-kind shipping from FedEx is that its reach extends far beyond any single shipment."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Triple Pundit"
       },
-      "author": "New York Times",
-      "title": "Many Italians Long Resisted Air-Conditioning. Then Europe Got Hotter.",
-      "description": "Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units.",
-      "url": "https://www.nytimes.com/2026/09/03/world/europe/italy-air-conditioning-heat.html",
-      "publishedAt": "2026-09-03T09:03:13",
-      "content": "Amid record-breaking temperatures on the continent, households and businesses in Italy are increasingly installing cooling units."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Bring on the drones: how a technology revolution is being rolled out across Africa’s nature reserves",
-      "description": "As graduates of an online training course gather from across the continent, the consensus is overwhelming: computers and saving animals go togetherOn a bitingly cold night in Lapalala Wilderness na...",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/drones-south-africa-tech-revolution-african-conservation-aoe",
-      "publishedAt": "2026-09-03T09:00:49",
-      "content": "As graduates of an online training course gather from across the continent, the consensus is overwhelming: computers and saving animals go togetherOn a bitingly cold night in Lapalala Wilderness na..."
+      "author": "Triple Pundit",
+      "title": "India’s Community Health Workers Are Filling a Critical Gap in Menopause Care",
+      "description": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited.",
+      "url": "https://triplepundit.com/2026/community-health-workers-asha-india-menopause-depression-support/",
+      "publishedAt": "2026-09-01T23:51:41",
+      "content": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited."
     },
     {
       "source": {
@@ -202,39 +499,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why did this Canadian 'island' seemingly vanish and reappear miles away?",
-      "description": "BBC Verify has used satellite imagery to track the mysterious phenomenon, which has surprised people around the world.",
-      "url": "https://www.bbc.co.uk/news/videos/cly4zxd7e7wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T07:57:23",
-      "content": "BBC Verify has used satellite imagery to track the mysterious phenomenon, which has surprised people around the world."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A stranded traveller that looks more plastic than animal | Elizabeth-Jane Burnett",
-      "description": "Appledore, Devon: By-the-wind sailors have been washed up in great numbers this summer.",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/country-diary-a-stranded-traveller-that-looks-more-plastic-than-animal",
-      "publishedAt": "2026-09-03T06:33:17",
-      "content": "Appledore, Devon: By-the-wind sailors have been washed up in great numbers this summer."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Pennsylvania’s A.I. Gold Rush Meets Second Thoughts",
-      "description": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction.",
-      "url": "https://www.nytimes.com/2026/08/31/climate/pennsylvanias-ai-gold-rush-meets-second-thoughts.html",
-      "publishedAt": "2026-09-02T14:31:20",
-      "content": "Amid a backlash, Gov. Josh Shapiro is pumping the brakes on enormous data centers. But in a region scarred by the collapse of the steel industry, some welcome billions in construction."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -246,116 +510,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Will your name be the next UK storm?",
-      "description": "The storm name list for the next year is out. Will your name be on it?",
-      "url": "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-02T10:26:15",
-      "content": "The storm name list for the next year is out. Will your name be on it?"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "No Relief for Maui Wildfire Survivors Losing Thousands to Contractors",
-      "description": "This story is a collaboration between Inside Climate News and Honolulu Civil Beat.",
-      "url": "https://insideclimatenews.org/news/02092026/maui-wildfire-survivors-contractor-fraud/",
-      "publishedAt": "2026-09-02T10:01:00",
-      "content": "This story is a collaboration between Inside Climate News and Honolulu Civil Beat."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Polluting Nylon Plants Clean Up Their Acts",
-      "description": "Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover.",
-      "url": "https://insideclimatenews.org/news/02092026/impact-methane-reporting/",
-      "publishedAt": "2026-09-02T04:01:00",
-      "content": "Many of our impact case studies cover ongoing stories that Inside Climate News continues to actively cover."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs Record Geothermal Power Deal with Fervo",
-      "description": "Geothermal energy project developer Fervo Energy announced a new 396 MW power purchase agreement (PPA)",
-      "url": "https://www.esgtoday.com/google-signs-record-geothermal-power-deal-with-fervo/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-record-geothermal-power-deal-with-fervo",
-      "publishedAt": "2026-09-01T16:44:39",
-      "content": "Geothermal energy project developer Fervo Energy announced a new 396 MW power purchase agreement (PPA)"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "JetZero Secures $100 Million to Advance Ultra-Efficient Blended-Wing Aircraft",
-      "description": "Aerospace startup JetZero announced that it has closed a senior secured term loan facility of",
-      "url": "https://www.esgtoday.com/jetzero-secures-100-million-to-advance-ultra-efficient-blended-wing-aircraft/?utm_source=rss&utm_medium=rss&utm_campaign=jetzero-secures-100-million-to-advance-ultra-efficient-blended-wing-aircraft",
-      "publishedAt": "2026-09-01T15:23:22",
-      "content": "Aerospace startup JetZero announced that it has closed a senior secured term loan facility of"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘The mountains are changing’: What the floods tell us about the future of India’s Himalayas",
-      "description": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat.",
-      "url": "https://www.theguardian.com/world/2026/aug/31/this-is-india-what-the-nepal-tibet-floods-tell-us-about-the-future-of-indias-himalayas",
-      "publishedAt": "2026-09-01T06:30:46",
-      "content": "As families await news of missing loved ones, the disaster is a stark reminder of how the climate crisis is creating a fast-growing threat."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-      "description": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single ye...",
-      "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
-      "publishedAt": "2026-09-02T06:00:25",
-      "content": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalitiesAlmost half of the world’s farmers are poisoned by pesticides every single ye..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: Astronauts set out on rare all-female spacewalk",
-      "description": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
-      "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T21:08:48",
-      "content": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Met Office: Summer 2026 was UK's hottest ever",
-      "description": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
-      "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-01T17:25:35",
-      "content": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Summer of 2026 was UK’s hottest on record, Met Office says",
-      "description": "Meteorologists say mean average temperature of 16.",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
-      "publishedAt": "2026-09-01T15:36:10",
-      "content": "Meteorologists say mean average temperature of 16."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -364,6 +518,17 @@
       "url": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
       "publishedAt": "2026-09-01T13:54:36",
       "content": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut risks\nThe post From firefighting to future-proof..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Libraries Are Beacons of Credible Information in the Age of Fake News",
+      "description": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s...",
+      "url": "https://triplepundit.com/2026/fake-news-access-information-libraries/",
+      "publishedAt": "2026-08-28T18:14:05",
+      "content": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s..."
     }
   ]
 }
