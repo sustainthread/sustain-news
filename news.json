@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 39,
   "articles": [
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why States Are Cutting Back on Their Climate Goals",
+      "description": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach.",
+      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
+      "publishedAt": "2026-09-04T20:46:55",
+      "content": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach."
+    },
     {
       "source": {
         "name": "The Hindu"
@@ -81,50 +92,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Why Rebuilding After Climate Disasters Is No Longer Enough",
-      "description": "But every crisis is an opportunity.",
-      "url": "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html",
-      "publishedAt": "2026-09-04T09:02:22",
-      "content": "But every crisis is an opportunity."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Behind on 2030 Climate Goals, States Are Cutting or Even Scrapping Them",
-      "description": "Ambitious aims have given way to political anxiety over rising costs for consumers.",
-      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
-      "publishedAt": "2026-09-04T09:00:08",
-      "content": "Ambitious aims have given way to political anxiety over rising costs for consumers."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Air pollution from ships may be more harmful than road traffic emissions, port study finds",
-      "description": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2.",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/pollutionwatch-ships-air-pollution-emissions-port-study",
-      "publishedAt": "2026-09-04T05:00:01",
-      "content": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AllianceBernstein – Climate Power Plays: Energy, Geopolitics and the Repricing of Risk",
-      "description": "Global policy shifts are rewiring energy supply and control—and repricing risks and opportunities.",
-      "url": "https://csrwire.com/press-release/alliancebernstein-climate-power-plays-energy-geopolitics-and-repricing-risk/",
-      "publishedAt": "2026-09-03T09:15:00",
-      "content": "Global policy shifts are rewiring energy supply and control—and repricing risks and opportunities."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -136,25 +103,25 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "New York Times"
       },
-      "author": "CSRWire",
-      "title": "Nokia’s Sustainability Strategy: An Engine for Innovation, Collaboration, and Long-Term Impact",
-      "description": "One of Nokia’s foundational strengths continues to be our focus on sustainability where we advance connectivity to positively impact both people and planet. We have been reporting our sustainabilit...",
-      "url": "https://csrwire.com/press-release/nokias-sustainability-strategy-engine-innovation-collaboration-and-long-term-impact/",
-      "publishedAt": "2026-09-03T08:05:00",
-      "content": "One of Nokia’s foundational strengths continues to be our focus on sustainability where we advance connectivity to positively impact both people and planet. We have been reporting our sustainabilit..."
+      "author": "New York Times",
+      "title": "Why Rebuilding After Climate Disasters Is No Longer Enough",
+      "description": "But every crisis is an opportunity.",
+      "url": "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html",
+      "publishedAt": "2026-09-04T09:02:22",
+      "content": "But every crisis is an opportunity."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Court Blocks New York Law Charging Oil Companies $75 Billion to Pay for Climate Change Costs",
-      "description": "New York State’s Climate Change Superfund Act, which would require fossil fuel companies to pay",
-      "url": "https://www.esgtoday.com/court-blocks-new-york-law-charging-oil-companies-75-billion-to-pay-for-climate-adaptation/?utm_source=rss&utm_medium=rss&utm_campaign=court-blocks-new-york-law-charging-oil-companies-75-billion-to-pay-for-climate-adaptation",
-      "publishedAt": "2026-09-02T13:23:12",
-      "content": "New York State’s Climate Change Superfund Act, which would require fossil fuel companies to pay"
+      "author": "The Guardian",
+      "title": "Air pollution from ships may be more harmful than road traffic emissions, port study finds",
+      "description": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2.",
+      "url": "https://www.theguardian.com/environment/2026/sep/04/pollutionwatch-ships-air-pollution-emissions-port-study",
+      "publishedAt": "2026-09-04T05:00:01",
+      "content": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2."
     },
     {
       "source": {
@@ -183,22 +150,44 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "China’s Carbon Pollution Fell in Recent Months as Oil Demand Plummeted",
-      "description": "China’s carbon pollution fell modestly in recent months after the country’s consumers and industries sharply cut their use of oil, according to a new analysis. With oil and gas markets still in tur...",
-      "url": "https://insideclimatenews.org/news/02092026/china-oil-consumption-declines/",
-      "publishedAt": "2026-09-02T23:01:00",
-      "content": "China’s carbon pollution fell modestly in recent months after the country’s consumers and industries sharply cut their use of oil, according to a new analysis. With oil and gas markets still in tur..."
+      "title": "Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules",
+      "description": "A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to ha...",
+      "url": "https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/",
+      "publishedAt": "2026-09-05T08:55:00",
+      "content": "A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to ha..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "ESG Today"
       },
-      "author": "New York Times",
-      "title": "In Nepal and Tibet, Pollution on Glaciers Could Fuel More Flood Disasters",
-      "description": "Darkened by soot from vehicles and factories, the region’s glaciers are absorbing more heat and melting at dangerous rates.",
-      "url": "https://www.nytimes.com/2026/09/02/climate/pollution-soot-glaciers-melting-himalayas.html",
-      "publishedAt": "2026-09-02T17:24:14",
-      "content": "Darkened by soot from vehicles and factories, the region’s glaciers are absorbing more heat and melting at dangerous rates."
+      "author": "ESG Today",
+      "title": "Cypress Creek Reveals Microsoft as Long-term Offtaker for New $180 Million Washington Solar Project",
+      "description": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea",
+      "url": "https://www.esgtoday.com/cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project",
+      "publishedAt": "2026-09-04T12:16:57",
+      "content": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Revaia Hires Marc-Etienne Mercadier to Co-Lead New Energy Transition Fund",
+      "description": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead",
+      "url": "https://www.esgtoday.com/revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund",
+      "publishedAt": "2026-09-04T10:23:33",
+      "content": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "UK Loans Over $500 Million to Tropical Forest Preservation Fund",
+      "description": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a",
+      "url": "https://www.esgtoday.com/uk-loans-over-500-million-to-tropical-forest-preservation-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-loans-over-500-million-to-tropical-forest-preservation-fund",
+      "publishedAt": "2026-09-04T09:55:07",
+      "content": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a"
     },
     {
       "source": {
@@ -210,6 +199,83 @@
       "url": "https://goodonyou.eco/ultimate-guide-to-sustainable-jeans-and-ethical-denim/",
       "publishedAt": "2026-09-02T01:00:04",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance",
+      "description": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of ...",
+      "url": "https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/",
+      "publishedAt": "2026-09-05T09:00:00",
+      "content": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T05:52:05",
+      "content": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The wild, riotous sounds of otters in battle | Cal Flyn",
+      "description": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile awayI hear them before I see them: a wailing, or something more like ululation. ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/05/country-diary-the-wild-riotous-sounds-of-otters-in-battle",
+      "publishedAt": "2026-09-05T04:30:26",
+      "content": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile awayI hear them before I see them: a wailing, or something more like ululation. ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Don’t drain the budget: how to save on water heating costs",
+      "description": "It’s one of the easiest ways for households to save money and cut emissions.",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/05/change-by-degrees-how-to-save-on-water-heating-costs",
+      "publishedAt": "2026-09-05T00:00:22",
+      "content": "It’s one of the easiest ways for households to save money and cut emissions."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New Mexico Bans Uranium Leasing on State Lands",
+      "description": "Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday.",
+      "url": "https://insideclimatenews.org/news/04092026/new-mexico-bans-uranium-leasing/",
+      "publishedAt": "2026-09-04T21:40:04",
+      "content": "Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Pipeline Giant That Spilled Jet Fuel in Pennsylvania Is Trying to Weaken a Clean Water Law",
+      "description": "Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to ...",
+      "url": "https://insideclimatenews.org/news/04092026/energy-transfer-tries-to-weaken-pennsylvania-clean-water-law/",
+      "publishedAt": "2026-09-04T21:27:39",
+      "content": "Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Can Studying Heat Waves in Real Time Save Lives?",
+      "description": "The volume of patients in Dr.",
+      "url": "https://insideclimatenews.org/news/04092026/tracking-heat-in-real-time-could-help-doctors/",
+      "publishedAt": "2026-09-04T20:53:31",
+      "content": "The volume of patients in Dr."
     },
     {
       "source": {
@@ -257,6 +323,28 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
+      "description": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare...",
+      "url": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
+      "publishedAt": "2026-09-03T08:24:14",
+      "content": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
+      "description": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri...",
+      "url": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
+      "publishedAt": "2026-09-02T16:53:55",
+      "content": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri..."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -272,10 +360,10 @@
       },
       "author": "The Guardian",
       "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
-      "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ...",
+      "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldMinisters are poised to approve a controversial new gasfield in the North...",
       "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
       "publishedAt": "2026-09-04T07:55:07",
-      "content": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ..."
+      "content": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldMinisters are poised to approve a controversial new gasfield in the North..."
     },
     {
       "source": {
@@ -312,17 +400,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: It’s 10am at the Melplash Show and the cider contest is well under way | Sara Hudston",
-      "description": "Bridport, Dorset: Away from the sheep, pigs and Martin Clunes’s horse, I find a bounty of local ciders – and concern about this year’s apple harvestIt’s Melplash Show day and all of Bridport is her...",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/country-diary-its-10am-at-the-melplash-show-and-the-cider-contest-is-well-under-way",
-      "publishedAt": "2026-09-04T04:30:57",
-      "content": "Bridport, Dorset: Away from the sheep, pigs and Martin Clunes’s horse, I find a bounty of local ciders – and concern about this year’s apple harvestIt’s Melplash Show day and all of Bridport is her..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -331,17 +408,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T00:46:54",
       "content": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Razed by wildfire, erased by USPS: Hawaiians fight to restore mail delivery",
-      "description": "Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive mail as normalTwo months after a devastating wildfire whip...",
-      "url": "https://www.theguardian.com/us-news/2026/sep/03/hawaii-lahaina-mail-delivery-usps",
-      "publishedAt": "2026-09-03T20:49:57",
-      "content": "Wildfire victims rebuilt their homes in Lahaina only to find USPS had ‘eliminated’ their addresses – while houses that didn’t burn receive mail as normalTwo months after a devastating wildfire whip..."
     },
     {
       "source": {
@@ -356,149 +422,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How the brain of a fly may help explain human behaviour",
-      "description": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T15:01:41",
-      "content": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Will El Nino bring chaos to UK weather?",
-      "description": "Will El Nino bring chaos to UK weather?",
-      "url": "https://www.bbc.co.uk/news/videos/cx2z642lq6wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T13:12:44",
-      "content": "Will El Nino bring chaos to UK weather?"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "These States Are Leading the Electricity Generation Boom",
-      "description": "As data centers and other large users drove demand higher, U.",
-      "url": "https://insideclimatenews.org/news/03092026/inside-clean-energy-electricity-generation-boom/",
-      "publishedAt": "2026-09-03T13:00:00",
-      "content": "As data centers and other large users drove demand higher, U."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How a new instrument could reveal the secrets of the stars",
-      "description": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile.",
-      "url": "https://www.bbc.co.uk/news/videos/cn9w1xpyvz2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T12:38:14",
-      "content": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
-      "description": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare...",
-      "url": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
-      "publishedAt": "2026-09-03T08:24:14",
-      "content": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
-      "description": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri...",
-      "url": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
-      "publishedAt": "2026-09-02T16:53:55",
-      "content": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "T-Mobile Supports Indiana Communities Following Severe Weather and Prolonged Power Outages",
-      "description": "Following destructive storms across the Midwest, T-Mobile teams helped support impacted customers and communities, including offering unlimited talk, text and data to customers in affected areas wh...",
-      "url": "https://csrwire.com/press-release/t-mobile-supports-indiana-communities-following-severe-weather-and-prolonged-power-outages/",
-      "publishedAt": "2026-09-02T15:55:00",
-      "content": "Following destructive storms across the Midwest, T-Mobile teams helped support impacted customers and communities, including offering unlimited talk, text and data to customers in affected areas wh..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Verizon Combines Tech, Readiness and Grants for Complete Disaster Relief",
-      "description": "As natural disasters become more frequent, evidenced by recent weather across the country, communities are left increasingly vulnerable.",
-      "url": "https://csrwire.com/press-release/verizon-combines-tech-readiness-and-grants-complete-disaster-relief/",
-      "publishedAt": "2026-09-02T15:20:00",
-      "content": "As natural disasters become more frequent, evidenced by recent weather across the country, communities are left increasingly vulnerable."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Gridsight Raises $26 Million to Help Utilities Unlock Grid Capacity with AI",
-      "description": "Grid intelligence technology company Gridsight announced that it has raised $26 million in a Series",
-      "url": "https://www.esgtoday.com/gridsight-raises-26-million-to-help-utilities-unlock-grid-capacity-with-ai/?utm_source=rss&utm_medium=rss&utm_campaign=gridsight-raises-26-million-to-help-utilities-unlock-grid-capacity-with-ai",
-      "publishedAt": "2026-09-02T14:52:47",
-      "content": "Grid intelligence technology company Gridsight announced that it has raised $26 million in a Series"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Mike Mongell and Joel Eaton Are Growing Water Filtration at Covia",
-      "description": "Discover how Mike Mongell and Joel Eaton combine technical expertise, collaboration, and customer trust to grow Covia’s water filtration business.",
-      "url": "https://csrwire.com/press-release/how-mike-mongell-and-joel-eaton-are-growing-water-filtration-covia/",
-      "publishedAt": "2026-09-02T11:25:00",
-      "content": "Discover how Mike Mongell and Joel Eaton combine technical expertise, collaboration, and customer trust to grow Covia’s water filtration business."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Beyond Delivery: How One Shipment Sparked a Larger Response",
-      "description": "One of the greatest impacts of in-kind shipping from FedEx is that its reach extends far beyond any single shipment.",
-      "url": "https://csrwire.com/press-release/beyond-delivery-how-one-shipment-sparked-larger-response/",
-      "publishedAt": "2026-09-02T11:00:00",
-      "content": "One of the greatest impacts of in-kind shipping from FedEx is that its reach extends far beyond any single shipment."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "India’s Community Health Workers Are Filling a Critical Gap in Menopause Care",
-      "description": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited.",
-      "url": "https://triplepundit.com/2026/community-health-workers-asha-india-menopause-depression-support/",
-      "publishedAt": "2026-09-01T23:51:41",
-      "content": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In South Florida, a Crackdown on Overdue Electricity Bills Coincides With Peak Summer Heat, ICE Enforcement",
-      "description": "HOMESTEAD, Fla.",
-      "url": "https://insideclimatenews.org/news/03092026/homestead-florida-electricity-bill-disconnections/",
-      "publishedAt": "2026-09-03T08:55:00",
-      "content": "HOMESTEAD, Fla."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -507,28 +430,6 @@
       "url": "https://www.climatechangenews.com/2026/09/02/from-belem-to-antalya-gains-gaps-and-challenges-for-a-new-just-transition-mechanism/",
       "publishedAt": "2026-09-02T12:01:06",
       "content": "Civil society wants a mechanism to be launched at COP31 but insists it must be more than a talking shop and include different social groups and a wide view of transition\nThe post From Belém to Anta..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "From firefighting to future-proofing: Preventing wildfires must be the priority",
-      "description": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut risks\nThe post From firefighting to future-proof...",
-      "url": "https://www.climatechangenews.com/2026/09/01/from-firefighting-to-future-proofing-preventing-wildfires-must-be-the-priority/",
-      "publishedAt": "2026-09-01T13:54:36",
-      "content": "While many countries remain locked in a reactive cycle of disaster response, public policy can shift investment upstream to build resilience and cut risks\nThe post From firefighting to future-proof..."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Libraries Are Beacons of Credible Information in the Age of Fake News",
-      "description": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s...",
-      "url": "https://triplepundit.com/2026/fake-news-access-information-libraries/",
-      "publishedAt": "2026-08-28T18:14:05",
-      "content": "As credible sources of information are cut off in the United States, from lost newspapers to deleted government data, the nation’s public libraries play a crucial role in educating the public and s..."
     }
   ]
 }
