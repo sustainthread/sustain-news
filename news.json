@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 37,
   "articles": [
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Why States Are Cutting Back on Their Climate Goals",
-      "description": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach.",
-      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
-      "publishedAt": "2026-09-04T20:46:55",
-      "content": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach."
-    },
     {
       "source": {
         "name": "The Hindu"
@@ -23,6 +12,17 @@
       "url": "https://www.thehindu.com/business/Industry/filatex-india-to-invest-300-cr-in-polyester-textile-recycling-plant-in-gujarat/article71423506.ece",
       "publishedAt": "2026-09-03T11:22:51",
       "content": "The investment marks the company’s expansion as demand for recycled polyester continues to grow globally amid increasing emphasis on sustainable textile manufacturing."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why States Are Cutting Back on Their Climate Goals",
+      "description": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach.",
+      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
+      "publishedAt": "2026-09-04T20:46:55",
+      "content": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach."
     },
     {
       "source": {
@@ -45,17 +45,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-04T05:11:45",
       "content": "And for the first time renewable generation has consistently exceeded non-renewable generation since January."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Court Stalls EPA Plan to Override California’s Vehicle Pollution Standards",
-      "description": "A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollution standards stricter than federal requirement...",
-      "url": "https://insideclimatenews.org/news/03092026/judge-blocks-epa-from-challenging-californias-emissions-standards/",
-      "publishedAt": "2026-09-03T19:41:34",
-      "content": "A federal judge has temporarily blocked the Environmental Protection Agency from challenging California’s longstanding authority to set vehicle pollution standards stricter than federal requirement..."
     },
     {
       "source": {
@@ -92,17 +81,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Singapore Delays Sustainable Aviation Fuel Surcharge for Cargo Flights to 2028",
-      "description": "Singapore’s Ministry of Transport’s Civil Aviation Authority (CAAS) announced that it will push back its",
-      "url": "https://www.esgtoday.com/singapore-delays-sustainable-aviation-fuel-surcharge-for-cargo-flights-to-2028/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-delays-sustainable-aviation-fuel-surcharge-for-cargo-flights-to-2028",
-      "publishedAt": "2026-09-03T09:14:55",
-      "content": "Singapore’s Ministry of Transport’s Civil Aviation Authority (CAAS) announced that it will push back its"
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -114,14 +92,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Air pollution from ships may be more harmful than road traffic emissions, port study finds",
-      "description": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2.",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/pollutionwatch-ships-air-pollution-emissions-port-study",
-      "publishedAt": "2026-09-04T05:00:01",
-      "content": "Scientists say ultrafine particles in cruise ship emissions associated with reduced ability to resist common virusesMore than 2."
+      "author": "BBC",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T23:20:00",
+      "content": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
     },
     {
       "source": {
@@ -144,6 +122,61 @@
       "url": "https://goodonyou.eco/more-sustainable-linen-dresses/",
       "publishedAt": "2026-09-03T00:47:39",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Denim and Jeans",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ultimate-guide-to-sustainable-jeans-and-ethical-denim/",
+      "publishedAt": "2026-09-02T01:00:04",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Farmers Are Going Broke Amid Rising Gas Prices, While the Ag Secretary Profits Off Them",
+      "description": "As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying ...",
+      "url": "https://insideclimatenews.org/news/06092026/agriculture-secretary-brooke-rollins-profits-off-rising-gas-prices/",
+      "publishedAt": "2026-09-06T09:00:00",
+      "content": "As farmers grapple with soaring diesel and fertilizer prices and the Department of Agriculture yanks support for cheaper, renewable forms of energy, the agency’s chief, Brooke Rollins, is carrying ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Elevated Levels of Lead Surround Local Oregon Airports",
+      "description": "For years health officials have held that there is no safe level of lead exposure for humans.",
+      "url": "https://insideclimatenews.org/news/06092026/oregon-small-airports-lead-risk/",
+      "publishedAt": "2026-09-06T08:55:00",
+      "content": "For years health officials have held that there is no safe level of lead exposure for humans."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Britain’s Yellowstone’: restoration project aims to take the greed out of land acquisition",
+      "description": "Investors in Emblehope Moor will get their financial returns – and then it will be given to community or charity ownersIt is difficult to find the most remote place in England. There is no public t...",
+      "url": "https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition",
+      "publishedAt": "2026-09-06T05:00:57",
+      "content": "Investors in Emblehope Moor will get their financial returns – and then it will be given to community or charity ownersIt is difficult to find the most remote place in England. There is no public t..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
+      "description": "Microbats and wombats among the most common species found in buildings, with some discovered in letterboxes or air conditioning systemsFollow our Australia news live blog for latest updatesGet our ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
+      "publishedAt": "2026-09-05T20:00:47",
+      "content": "Microbats and wombats among the most common species found in buildings, with some discovered in letterboxes or air conditioning systemsFollow our Australia news live blog for latest updatesGet our ..."
     },
     {
       "source": {
@@ -191,94 +224,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Denim and Jeans",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ultimate-guide-to-sustainable-jeans-and-ethical-denim/",
-      "publishedAt": "2026-09-02T01:00:04",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance",
-      "description": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of ...",
-      "url": "https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/",
-      "publishedAt": "2026-09-05T09:00:00",
-      "content": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
-      "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T05:52:05",
-      "content": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The wild, riotous sounds of otters in battle | Cal Flyn",
-      "description": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile awayI hear them before I see them: a wailing, or something more like ululation. ...",
-      "url": "https://www.theguardian.com/environment/2026/sep/05/country-diary-the-wild-riotous-sounds-of-otters-in-battle",
-      "publishedAt": "2026-09-05T04:30:26",
-      "content": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile awayI hear them before I see them: a wailing, or something more like ululation. ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Don’t drain the budget: how to save on water heating costs",
-      "description": "It’s one of the easiest ways for households to save money and cut emissions.",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/05/change-by-degrees-how-to-save-on-water-heating-costs",
-      "publishedAt": "2026-09-05T00:00:22",
-      "content": "It’s one of the easiest ways for households to save money and cut emissions."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New Mexico Bans Uranium Leasing on State Lands",
-      "description": "Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday.",
-      "url": "https://insideclimatenews.org/news/04092026/new-mexico-bans-uranium-leasing/",
-      "publishedAt": "2026-09-04T21:40:04",
-      "content": "Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Pipeline Giant That Spilled Jet Fuel in Pennsylvania Is Trying to Weaken a Clean Water Law",
-      "description": "Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to ...",
-      "url": "https://insideclimatenews.org/news/04092026/energy-transfer-tries-to-weaken-pennsylvania-clean-water-law/",
-      "publishedAt": "2026-09-04T21:27:39",
-      "content": "Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Can Studying Heat Waves in Real Time Save Lives?",
-      "description": "The volume of patients in Dr.",
-      "url": "https://insideclimatenews.org/news/04092026/tracking-heat-in-real-time-could-help-doctors/",
-      "publishedAt": "2026-09-04T20:53:31",
-      "content": "The volume of patients in Dr."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -323,36 +268,69 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Inside Climate News"
       },
-      "author": "Climate Change News",
-      "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
-      "description": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare...",
-      "url": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
-      "publishedAt": "2026-09-03T08:24:14",
-      "content": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare..."
+      "author": "Inside Climate News",
+      "title": "As Extreme Weather Worsens, Black and Hispanic Homeowners Are Paying More for Insurance",
+      "description": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of ...",
+      "url": "https://insideclimatenews.org/news/05092026/black-and-hispanic-homeowners-pay-more-for-insurance/",
+      "publishedAt": "2026-09-05T09:00:00",
+      "content": "Homeowners in Hispanic and Black communities nationwide are paying a disproportionate share of skyrocketing home insurance costs, according to a recent report. The disparities leave communities of ..."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "BBC"
       },
-      "author": "Climate Change News",
-      "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
-      "description": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri...",
-      "url": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
-      "publishedAt": "2026-09-02T16:53:55",
-      "content": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri..."
+      "author": "BBC",
+      "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+      "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
+      "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T05:52:05",
+      "content": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The wild, riotous sounds of otters in battle | Cal Flyn",
+      "description": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile awayI hear them before I see them: a wailing, or something more like ululation. ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/05/country-diary-the-wild-riotous-sounds-of-otters-in-battle",
+      "publishedAt": "2026-09-05T04:30:26",
+      "content": "Isle of Lismore, Argyll: They skim over the surface like stones, making such a hullabaloo you could hear them a mile awayI hear them before I see them: a wailing, or something more like ululation. ..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Farmed Salmon May Not Be as Nutritious as It Once Was, New Research Suggests",
-      "description": "Eat more fatty fish.",
-      "url": "https://insideclimatenews.org/news/04092026/farmed-salmon-losing-healthy-fatty-acids/",
-      "publishedAt": "2026-09-04T08:55:00",
-      "content": "Eat more fatty fish."
+      "title": "New Mexico Bans Uranium Leasing on State Lands",
+      "description": "Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday.",
+      "url": "https://insideclimatenews.org/news/04092026/new-mexico-bans-uranium-leasing/",
+      "publishedAt": "2026-09-04T21:40:04",
+      "content": "Officials in New Mexico, the nation’s largest historic producer of uranium ore, banned new leasing of state lands for uranium mining on Friday."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Pipeline Giant That Spilled Jet Fuel in Pennsylvania Is Trying to Weaken a Clean Water Law",
+      "description": "Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to ...",
+      "url": "https://insideclimatenews.org/news/04092026/energy-transfer-tries-to-weaken-pennsylvania-clean-water-law/",
+      "publishedAt": "2026-09-04T21:27:39",
+      "content": "Energy Transfer, the Dallas-based pipeline giant facing a state-level criminal probe related to a jet fuel spill that polluted drinking water in a suburban Philadelphia neighborhood, is seeking to ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Can Studying Heat Waves in Real Time Save Lives?",
+      "description": "The volume of patients in Dr.",
+      "url": "https://insideclimatenews.org/news/04092026/tracking-heat-in-real-time-could-help-doctors/",
+      "publishedAt": "2026-09-04T20:53:31",
+      "content": "The volume of patients in Dr."
     },
     {
       "source": {
@@ -411,25 +389,25 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Climate Change News"
       },
-      "author": "BBC",
-      "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
-      "description": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
-      "url": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-03T17:52:37",
-      "content": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes."
+      "author": "Climate Change News",
+      "title": "UK’s budget juggling trick with rainforest loan for bus-fare cap needs transparency",
+      "description": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare...",
+      "url": "https://www.climatechangenews.com/2026/09/03/uks-budget-juggling-trick-with-rainforest-loan-for-bus-fare-cap-needs-transparency/",
+      "publishedAt": "2026-09-03T08:24:14",
+      "content": "A recent announcement by Britain’s new government raises questions about the impact on climate aid of swapping grants for loans\nThe post UK’s budget juggling trick with rainforest loan for bus-fare..."
     },
     {
       "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "From Belém to Antalya – gains, gaps and challenges for a new Just Transition Mechanism",
-      "description": "Civil society wants a mechanism to be launched at COP31 but insists it must be more than a talking shop and include different social groups and a wide view of transition\nThe post From Belém to Anta...",
-      "url": "https://www.climatechangenews.com/2026/09/02/from-belem-to-antalya-gains-gaps-and-challenges-for-a-new-just-transition-mechanism/",
-      "publishedAt": "2026-09-02T12:01:06",
-      "content": "Civil society wants a mechanism to be launched at COP31 but insists it must be more than a talking shop and include different social groups and a wide view of transition\nThe post From Belém to Anta..."
+      "title": "Loss and damage fund urged to hold crisis meeting on Nepal",
+      "description": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri...",
+      "url": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
+      "publishedAt": "2026-09-02T16:53:55",
+      "content": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri..."
     }
   ]
 }
