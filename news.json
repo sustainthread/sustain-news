@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 44,
   "articles": [
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why States Are Cutting Back on Their Climate Goals",
+      "description": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach.",
+      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
+      "publishedAt": "2026-09-04T20:46:56",
+      "content": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach."
+    },
     {
       "source": {
         "name": "The Hindu"
@@ -12,17 +23,6 @@
       "url": "https://www.thehindu.com/business/Industry/filatex-india-to-invest-300-cr-in-polyester-textile-recycling-plant-in-gujarat/article71423506.ece",
       "publishedAt": "2026-09-03T11:22:51",
       "content": "The investment marks the company’s expansion as demand for recycled polyester continues to grow globally amid increasing emphasis on sustainable textile manufacturing."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Why States Are Cutting Back on Their Climate Goals",
-      "description": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach.",
-      "url": "https://www.nytimes.com/2026/09/04/upshot/states-carbon-emissions-goals.html",
-      "publishedAt": "2026-09-04T20:46:55",
-      "content": "Ambitious aims have given way to political anxiety over prices as many states’ 2030 emissions targets appear increasingly out of reach."
     },
     {
       "source": {
@@ -37,14 +37,14 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Inside Climate News"
       },
-      "author": "BBC",
-      "title": "Renewable energy in NI reaches record level",
-      "description": "And for the first time renewable generation has consistently exceeded non-renewable generation since January.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3rql5rzx4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T05:11:45",
-      "content": "And for the first time renewable generation has consistently exceeded non-renewable generation since January."
+      "author": "Inside Climate News",
+      "title": "The Winners and Losers of Maine’s Race to Armor Its Shoreline Against Climate Change",
+      "description": "GORHAM, Maine—Supersonic shockwaves shook the bones of Charlie Hamblen’s historic Maine farmhouse more than a dozen times last year, travelling over half a mile from blasts at a nearby quarry. The ...",
+      "url": "https://insideclimatenews.org/news/07092026/maines-race-to-protect-shorelines-as-quarries-expand/",
+      "publishedAt": "2026-09-07T09:00:00",
+      "content": "GORHAM, Maine—Supersonic shockwaves shook the bones of Charlie Hamblen’s historic Maine farmhouse more than a dozen times last year, travelling over half a mile from blasts at a nearby quarry. The ..."
     },
     {
       "source": {
@@ -81,25 +81,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Why Rebuilding After Climate Disasters Is No Longer Enough",
-      "description": "But every crisis is an opportunity.",
-      "url": "https://www.nytimes.com/2026/09/04/magazine/climate-change-disaster-rebuilding.html",
-      "publishedAt": "2026-09-04T09:02:22",
-      "content": "But every crisis is an opportunity."
+      "author": "CSRWire",
+      "title": "AllianceBernstein – Climate Power Plays: Energy, Geopolitics and the Repricing of Risk",
+      "description": "Global policy shifts are rewiring energy supply and control—and repricing risks and opportunities.",
+      "url": "https://csrwire.com/press-release/alliancebernstein-climate-power-plays-energy-geopolitics-and-repricing-risk/",
+      "publishedAt": "2026-09-03T09:15:00",
+      "content": "Global policy shifts are rewiring energy supply and control—and repricing risks and opportunities."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
-      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T23:20:00",
-      "content": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+      "author": "CSRWire",
+      "title": "Nokia’s Sustainability Strategy: An Engine for Innovation, Collaboration, and Long-Term Impact",
+      "description": "One of Nokia’s foundational strengths continues to be our focus on sustainability where we advance connectivity to positively impact both people and planet. We have been reporting our sustainabilit...",
+      "url": "https://csrwire.com/press-release/nokias-sustainability-strategy-engine-innovation-collaboration-and-long-term-impact/",
+      "publishedAt": "2026-09-03T08:05:00",
+      "content": "One of Nokia’s foundational strengths continues to be our focus on sustainability where we advance connectivity to positively impact both people and planet. We have been reporting our sustainabilit..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "The Devastation in Nepal is a Canary in the Coal Mine as Flood Risk Rises Worldwide",
+      "description": "Climate-related floods are becoming more frequent, deadly and unpredictable worldwide, forcing emergency planning professionals to rethink their strategies for keeping communities safe.TriplePundit",
+      "url": "https://triplepundit.com/2026/nepal-flash-flood-climate-risk/",
+      "publishedAt": "2026-09-04T15:27:27",
+      "content": "Climate-related floods are becoming more frequent, deadly and unpredictable worldwide, forcing emergency planning professionals to rethink their strategies for keeping communities safe.TriplePundit"
     },
     {
       "source": {
@@ -136,6 +147,116 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Rivian R2 Review: A Tidier (in Size and Price) SUV Is Ready for the Suburbs",
+      "description": "The electric automaker’s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind.",
+      "url": "https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html",
+      "publishedAt": "2026-09-07T09:03:29",
+      "content": "The electric automaker’s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
+      "description": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heatTyphoon Saudel brought days of torrential rain to Zhejiang,...",
+      "url": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
+      "publishedAt": "2026-09-07T08:27:08",
+      "content": "Torrential rain causes widespread damage; while north-west South Africa hit by thunderstorms and central-southern US faces oppressive heatTyphoon Saudel brought days of torrential rain to Zhejiang,..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute",
+      "description": "Gabna community fear their traditional herding routes will be sacrificed as far-right rhetoric ramps up against themFor the Swedish-Sami politician Åsa Larsson Blind, it was something of a watershe...",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/07/reindeer-and-rare-earth-minerals-swedish-politicians-take-aim-at-indigenous-sami-in-mining-dispute",
+      "publishedAt": "2026-09-07T04:00:24",
+      "content": "Gabna community fear their traditional herding routes will be sacrificed as far-right rhetoric ramps up against themFor the Swedish-Sami politician Åsa Larsson Blind, it was something of a watershe..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Sharks are my film stars’: how the Jacques Cousteau of the North Sea finally unlocked its beauty",
+      "description": "Epic plankton blooms make filming in the North Sea notoriously difficult.",
+      "url": "https://www.theguardian.com/film/2026/sep/07/sharks-film-stars-jacques-cousteau-north-sea-nature-untamed",
+      "publishedAt": "2026-09-07T04:00:24",
+      "content": "Epic plankton blooms make filming in the North Sea notoriously difficult."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+      "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T23:13:29",
+      "content": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Bummer Time",
+      "description": "If you thought this summer felt a little bit off, you’re not alone.",
+      "url": "https://www.nytimes.com/2026/09/06/briefing/summer-heat-wave.html",
+      "publishedAt": "2026-09-06T11:29:10",
+      "content": "If you thought this summer felt a little bit off, you’re not alone."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
+      "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+      "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-05T23:20:00",
+      "content": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules",
+      "description": "A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to ha...",
+      "url": "https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/",
+      "publishedAt": "2026-09-05T08:55:00",
+      "content": "A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to ha..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Cypress Creek Reveals Microsoft as Long-term Offtaker for New $180 Million Washington Solar Project",
+      "description": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea",
+      "url": "https://www.esgtoday.com/cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project",
+      "publishedAt": "2026-09-04T12:16:57",
+      "content": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "DaVita Community Care Report 2025: Leading With Integrity and Accountability",
+      "description": "Doing the right thing and conducting business activities with the highest standards of ethics is foundational to our culture.",
+      "url": "https://csrwire.com/press-release/davita-community-care-report-2025-leading-integrity-and-accountability/",
+      "publishedAt": "2026-09-04T11:50:00",
+      "content": "Doing the right thing and conducting business activities with the highest standards of ethics is foundational to our culture."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -166,105 +287,6 @@
       "url": "https://www.theguardian.com/environment/2026/sep/06/britain-yellowstone-restoration-project-take-greed-out-land-acquisition",
       "publishedAt": "2026-09-06T05:00:57",
       "content": "Investors in Emblehope Moor will get their financial returns – and then it will be given to community or charity ownersIt is difficult to find the most remote place in England. There is no public t..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Possums in the roof, koalas in bed: study shows how animals resort to Australian homes after habitat loss",
-      "description": "Microbats and wombats among the most common species found in buildings, with some discovered in letterboxes or air conditioning systemsFollow our Australia news live blog for latest updatesGet our ...",
-      "url": "https://www.theguardian.com/environment/2026/sep/06/possums-in-the-roof-koalas-in-bed-study-shows-how-animals-resort-to-australian-homes-after-habitat-loss",
-      "publishedAt": "2026-09-05T20:00:47",
-      "content": "Microbats and wombats among the most common species found in buildings, with some discovered in letterboxes or air conditioning systemsFollow our Australia news live blog for latest updatesGet our ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Error in a Recent BLM Lease Sale Has Wyoming Residents Concerned Over New Oil and Gas Rules",
-      "description": "A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to ha...",
-      "url": "https://insideclimatenews.org/news/05092026/wyoming-blm-oil-gas-lease-error/",
-      "publishedAt": "2026-09-05T08:55:00",
-      "content": "A mistake in the federal documents offering public land in Wyoming for oil and gas leases has Cowboy State residents and environmentalists questioning whether government agencies are prepared to ha..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Cypress Creek Reveals Microsoft as Long-term Offtaker for New $180 Million Washington Solar Project",
-      "description": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea",
-      "url": "https://www.esgtoday.com/cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project/?utm_source=rss&utm_medium=rss&utm_campaign=cypress-creek-reveals-microsoft-as-long-term-offtaker-for-new-180-million-washington-solar-project",
-      "publishedAt": "2026-09-04T12:16:57",
-      "content": "Renewables developer and power producer Cypress Creek Energy announced the commercial operation of its Ostrea"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Revaia Hires Marc-Etienne Mercadier to Co-Lead New Energy Transition Fund",
-      "description": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead",
-      "url": "https://www.esgtoday.com/revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund",
-      "publishedAt": "2026-09-04T10:23:33",
-      "content": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "UK Loans Over $500 Million to Tropical Forest Preservation Fund",
-      "description": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a",
-      "url": "https://www.esgtoday.com/uk-loans-over-500-million-to-tropical-forest-preservation-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-loans-over-500-million-to-tropical-forest-preservation-fund",
-      "publishedAt": "2026-09-04T09:55:07",
-      "content": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Cleaner Air, Smarter Toddlers",
-      "description": "New research links climate policies to improved early-childhood development.",
-      "url": "https://www.nytimes.com/2026/09/03/climate/cleaner-air-smarter-toddlers.html",
-      "publishedAt": "2026-09-03T18:11:42",
-      "content": "New research links climate policies to improved early-childhood development."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "JPMorgan Rebrands Forest Asset Management Unit to Reflect Broader Nature-Based Assets Focus",
-      "description": "J.P. Morgan Asset Management (JPMAM) today announced the rebrand of its timberland investment advisory company Campbell",
-      "url": "https://www.esgtoday.com/jpmorgan-rebrands-forest-asset-management-unit-to-reflect-broader-nature-based-assets-focus/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-rebrands-forest-asset-management-unit-to-reflect-broader-nature-based-assets-focus",
-      "publishedAt": "2026-09-03T13:33:42",
-      "content": "J.P. Morgan Asset Management (JPMAM) today announced the rebrand of its timberland investment advisory company Campbell"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Alantra Launches New $140 Million Energy Transition Fund with Acquisition of Portfolio from Shell Ventures",
-      "description": "Madrid-based international financial services provider Alantra announced the launch of Horizon Secondaries, a new €120",
-      "url": "https://www.esgtoday.com/alantra-launches-new-140-million-energy-transition-fund-with-acquisition-of-portfolio-from-shell-ventures/?utm_source=rss&utm_medium=rss&utm_campaign=alantra-launches-new-140-million-energy-transition-fund-with-acquisition-of-portfolio-from-shell-ventures",
-      "publishedAt": "2026-09-03T12:59:34",
-      "content": "Madrid-based international financial services provider Alantra announced the launch of Horizon Secondaries, a new €120"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "RBC Launches New Program to Support Community Solar Deployment",
-      "description": "The Royal Bank of Canada (RBC) announced the launch of the RBC Community Solar Program,",
-      "url": "https://www.esgtoday.com/rbc-launches-program-to-support-community-solar-deployment/?utm_source=rss&utm_medium=rss&utm_campaign=rbc-launches-program-to-support-community-solar-deployment",
-      "publishedAt": "2026-09-03T10:30:28",
-      "content": "The Royal Bank of Canada (RBC) announced the launch of the RBC Community Solar Program,"
     },
     {
       "source": {
@@ -334,58 +356,47 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
-      "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldMinisters are poised to approve a controversial new gasfield in the North...",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
-      "publishedAt": "2026-09-04T07:55:07",
-      "content": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldMinisters are poised to approve a controversial new gasfield in the North..."
+      "author": "ESG Today",
+      "title": "Revaia Hires Marc-Etienne Mercadier to Co-Lead New Energy Transition Fund",
+      "description": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead",
+      "url": "https://www.esgtoday.com/revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund/?utm_source=rss&utm_medium=rss&utm_campaign=revaia-hires-marc-etienne-mercadier-to-co-lead-new-energy-transition-fund",
+      "publishedAt": "2026-09-04T10:23:33",
+      "content": "Technology-focused growth investment firm Revaia announced the appointment of Marc-Étienne Mercadier as Partner to co-lead"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Revealed: how companies ‘secretly’ use billions of litres of public water in drought-hit England",
-      "description": "Exclusive: As millions of people face hosepipe bans, many companies are not required to report, let alone cut, use of public supplyLess than 1% of businesses in England use more water than the dail...",
-      "url": "https://www.theguardian.com/environment/2026/sep/04/revealed-how-companies-secretly-use-billions-of-litres-of-public-water-in-drought-hit-england",
-      "publishedAt": "2026-09-04T06:00:00",
-      "content": "Exclusive: As millions of people face hosepipe bans, many companies are not required to report, let alone cut, use of public supplyLess than 1% of businesses in England use more water than the dail..."
+      "author": "ESG Today",
+      "title": "UK Loans Over $500 Million to Tropical Forest Preservation Fund",
+      "description": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a",
+      "url": "https://www.esgtoday.com/uk-loans-over-500-million-to-tropical-forest-preservation-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-loans-over-500-million-to-tropical-forest-preservation-fund",
+      "publishedAt": "2026-09-04T09:55:07",
+      "content": "The Uk government announced plans to invest in the Tropical Forests Forever Facility (TFFF), a"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
-      "description": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
-      "url": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T05:13:54",
-      "content": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull."
+      "author": "ESG Today",
+      "title": "JPMorgan Rebrands Forest Asset Management Unit to Reflect Broader Nature-Based Assets Focus",
+      "description": "J.P. Morgan Asset Management (JPMAM) today announced the rebrand of its timberland investment advisory company Campbell",
+      "url": "https://www.esgtoday.com/jpmorgan-rebrands-forest-asset-management-unit-to-reflect-broader-nature-based-assets-focus/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-rebrands-forest-asset-management-unit-to-reflect-broader-nature-based-assets-focus",
+      "publishedAt": "2026-09-03T13:33:42",
+      "content": "J.P. Morgan Asset Management (JPMAM) today announced the rebrand of its timberland investment advisory company Campbell"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "From 'dog fruit' to darling: India's avocado boom",
-      "description": "Demand for avocados is booming in India and local growers hope to grab more of the market.",
-      "url": "https://www.bbc.co.uk/news/articles/clyjzpgv29do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T05:09:02",
-      "content": "Demand for avocados is booming in India and local growers hope to grab more of the market."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
-      "description": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
-      "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-04T00:46:54",
-      "content": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast."
+      "author": "ESG Today",
+      "title": "Alantra Launches New $140 Million Energy Transition Fund with Acquisition of Portfolio from Shell Ventures",
+      "description": "Madrid-based international financial services provider Alantra announced the launch of Horizon Secondaries, a new €120",
+      "url": "https://www.esgtoday.com/alantra-launches-new-140-million-energy-transition-fund-with-acquisition-of-portfolio-from-shell-ventures/?utm_source=rss&utm_medium=rss&utm_campaign=alantra-launches-new-140-million-energy-transition-fund-with-acquisition-of-portfolio-from-shell-ventures",
+      "publishedAt": "2026-09-03T12:59:34",
+      "content": "Madrid-based international financial services provider Alantra announced the launch of Horizon Secondaries, a new €120"
     },
     {
       "source": {
@@ -408,6 +419,72 @@
       "url": "https://www.climatechangenews.com/2026/09/02/loss-and-damage-fund-urged-to-hold-crisis-meeting-on-nepal/",
       "publishedAt": "2026-09-02T16:53:55",
       "content": "The new fund is coming under pressure from developing nations to respond quickly to climate disasters rather than just financing longer-term projects\nThe post Loss and damage fund urged to hold cri..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "T-Mobile Supports Indiana Communities Following Severe Weather and Prolonged Power Outages",
+      "description": "Following destructive storms across the Midwest, T-Mobile teams helped support impacted customers and communities, including offering unlimited talk, text and data to customers in affected areas wh...",
+      "url": "https://csrwire.com/press-release/t-mobile-supports-indiana-communities-following-severe-weather-and-prolonged-power-outages/",
+      "publishedAt": "2026-09-02T15:55:00",
+      "content": "Following destructive storms across the Midwest, T-Mobile teams helped support impacted customers and communities, including offering unlimited talk, text and data to customers in affected areas wh..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Verizon Combines Tech, Readiness and Grants for Complete Disaster Relief",
+      "description": "As natural disasters become more frequent, evidenced by recent weather across the country, communities are left increasingly vulnerable.",
+      "url": "https://csrwire.com/press-release/verizon-combines-tech-readiness-and-grants-complete-disaster-relief/",
+      "publishedAt": "2026-09-02T15:20:00",
+      "content": "As natural disasters become more frequent, evidenced by recent weather across the country, communities are left increasingly vulnerable."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "How Mike Mongell and Joel Eaton Are Growing Water Filtration at Covia",
+      "description": "Discover how Mike Mongell and Joel Eaton combine technical expertise, collaboration, and customer trust to grow Covia’s water filtration business.",
+      "url": "https://csrwire.com/press-release/how-mike-mongell-and-joel-eaton-are-growing-water-filtration-covia/",
+      "publishedAt": "2026-09-02T11:25:00",
+      "content": "Discover how Mike Mongell and Joel Eaton combine technical expertise, collaboration, and customer trust to grow Covia’s water filtration business."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Libraries Are Beacons of Credible Information in the Age of Fake News",
+      "description": "The United States lost more than 270,000 journalism jobs over the past two decades as almost 3,500 newspapers shut down.",
+      "url": "https://csrwire.com/press-release/libraries-are-beacons-credible-information-age-fake-news/",
+      "publishedAt": "2026-09-02T11:22:00",
+      "content": "The United States lost more than 270,000 journalism jobs over the past two decades as almost 3,500 newspapers shut down."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Beyond Delivery: How One Shipment Sparked a Larger Response",
+      "description": "One of the greatest impacts of in-kind shipping from FedEx is that its reach extends far beyond any single shipment.",
+      "url": "https://csrwire.com/press-release/beyond-delivery-how-one-shipment-sparked-larger-response/",
+      "publishedAt": "2026-09-02T11:00:00",
+      "content": "One of the greatest impacts of in-kind shipping from FedEx is that its reach extends far beyond any single shipment."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "India’s Community Health Workers Are Filling a Critical Gap in Menopause Care",
+      "description": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited.",
+      "url": "https://triplepundit.com/2026/community-health-workers-asha-india-menopause-depression-support/",
+      "publishedAt": "2026-09-01T23:51:41",
+      "content": "Menopause-related depression remains overlooked, especially in low- and middle-income countries where access to mental healthcare is limited."
     }
   ]
 }
