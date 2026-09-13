@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 40,
   "articles": [
     {
       "source": {
@@ -48,14 +48,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "A Texas LNG Plant Pumps Out Chronic, Unpermitted Pollution, a Watchdog Finds",
-      "description": "A gas export terminal on the Gulf Coast of Texas has routinely violated air pollution permits for years with little consequences from state regulators, according to a report released this week by O...",
-      "url": "https://insideclimatenews.org/news/11092026/texas-freeport-lng-unpermitted-pollution/",
-      "publishedAt": "2026-09-11T19:31:56",
-      "content": "A gas export terminal on the Gulf Coast of Texas has routinely violated air pollution permits for years with little consequences from state regulators, according to a report released this week by O..."
+      "author": "ESG Today",
+      "title": "Dsm-firmenich Appoints Inge Massen-Biemans as New Chief Sustainability Officer",
+      "description": "Swiss nutrition, health and beauty company dsm-firmenich announced today the appointment of Inge Massen-Biemans as",
+      "url": "https://www.esgtoday.com/dsm-firmenich-appoints-inge-massen-biemans-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=dsm-firmenich-appoints-inge-massen-biemans-as-new-chief-sustainability-officer",
+      "publishedAt": "2026-09-10T11:05:57",
+      "content": "Swiss nutrition, health and beauty company dsm-firmenich announced today the appointment of Inge Massen-Biemans as"
     },
     {
       "source": {
@@ -81,14 +81,25 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "China’s industrial engine starts to break its fossil fuel habit",
+      "description": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin...",
+      "url": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
+      "publishedAt": "2026-09-08T15:30:15",
+      "content": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Dsm-firmenich Appoints Inge Massen-Biemans as New Chief Sustainability Officer",
-      "description": "Swiss nutrition, health and beauty company dsm-firmenich announced today the appointment of Inge Massen-Biemans as",
-      "url": "https://www.esgtoday.com/dsm-firmenich-appoints-inge-massen-biemans-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=dsm-firmenich-appoints-inge-massen-biemans-as-new-chief-sustainability-officer",
-      "publishedAt": "2026-09-10T11:05:57",
-      "content": "Swiss nutrition, health and beauty company dsm-firmenich announced today the appointment of Inge Massen-Biemans as"
+      "title": "Whirlpool Procures Multi-Technology Carbon Removal Portfolio",
+      "description": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to",
+      "url": "https://www.esgtoday.com/whirlpool-procures-multi-technology-carbon-removal-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=whirlpool-procures-multi-technology-carbon-removal-portfolio",
+      "publishedAt": "2026-09-10T12:47:32",
+      "content": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to"
     },
     {
       "source": {
@@ -103,14 +114,58 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Inside Climate News"
       },
-      "author": "Climate Change News",
-      "title": "China’s industrial engine starts to break its fossil fuel habit",
-      "description": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin...",
-      "url": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
-      "publishedAt": "2026-09-08T15:30:15",
-      "content": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin..."
+      "author": "Inside Climate News",
+      "title": "A Super El Niño Is Building. Florida’s Most Vulnerable Homes Aren’t Ready.",
+      "description": "On the night of Feb.",
+      "url": "https://insideclimatenews.org/news/13092026/florida-most-vulnerable-homes-arent-ready-for-super-el-nino/",
+      "publishedAt": "2026-09-13T08:55:00",
+      "content": "On the night of Feb."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Who are the 514 people accused of starting French wildfires and what motivates them?",
+      "description": "Experts believe one-third of wildfires in France are set deliberately, with arson the biggest single cause of forest fires last yearOne is a boy of 15, who threw a burning cigarette into a wood nea...",
+      "url": "https://www.theguardian.com/world/2026/sep/13/france-confronts-arson-problem-after-devastating-summer-of-wildfires",
+      "publishedAt": "2026-09-13T06:00:01",
+      "content": "Experts believe one-third of wildfires in France are set deliberately, with arson the biggest single cause of forest fires last yearOne is a boy of 15, who threw a burning cigarette into a wood nea..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Atlantic Hurricane Season Hasn’t Recorded a Single Hurricane This Year",
+      "description": "There hasn’t been a single one yet.",
+      "url": "https://www.nytimes.com/2026/09/12/weather/atlantic-hurricane-season-latest-record.html",
+      "publishedAt": "2026-09-13T01:05:28",
+      "content": "There hasn’t been a single one yet."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Five night sky events to look out for this autumn",
+      "description": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T23:53:07",
+      "content": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Record heatwaves in France set to make champagne stronger",
+      "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T13:00:32",
+      "content": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes."
     },
     {
       "source": {
@@ -136,6 +191,17 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Opinion: At the World Bank, “Efficiency” is Code for “Weak Accountability”",
+      "description": "The World Bank Group is in the midst of an accountability crisis of its own making.",
+      "url": "https://triplepundit.com/2026/world-bank-group-independent-accountability-mechanism-overruled-non-compliance/",
+      "publishedAt": "2026-09-11T23:33:07",
+      "content": "The World Bank Group is in the midst of an accountability crisis of its own making."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -147,113 +213,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Whirlpool Procures Multi-Technology Carbon Removal Portfolio",
-      "description": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to",
-      "url": "https://www.esgtoday.com/whirlpool-procures-multi-technology-carbon-removal-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=whirlpool-procures-multi-technology-carbon-removal-portfolio",
-      "publishedAt": "2026-09-10T12:47:32",
-      "content": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to"
+      "author": "CSRWire",
+      "title": "From Paper to Pixels: How Digitalization in Healthcare Can Benefit Rural Communities",
+      "description": "Many remote communities lack access to quality healthcare for various reasons, a major one being the reliance on paper medical records.",
+      "url": "https://csrwire.com/press-release/paper-pixels-how-digitalization-healthcare-can-benefit-rural-communities/",
+      "publishedAt": "2026-09-11T09:05:00",
+      "content": "Many remote communities lack access to quality healthcare for various reasons, a major one being the reliance on paper medical records."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Atlantic Hurricane Season Hasn’t Recorded a Single Hurricane This Year",
-      "description": "There hasn’t been a single one yet.",
-      "url": "https://www.nytimes.com/2026/09/12/weather/atlantic-hurricane-season-latest-record.html",
-      "publishedAt": "2026-09-12T09:30:04",
-      "content": "There hasn’t been a single one yet."
+      "author": "CSRWire",
+      "title": "Strong by Form Closes €5.8M To Make Wood as Strong as Steel and Concrete",
+      "description": "Strong by Form, a past participant of the Biomimicry Institute's Ray of Hope Accelerator, has just closed €5.",
+      "url": "https://csrwire.com/press-release/strong-form-closes-eu58m-make-wood-strong-steel-and-concrete/",
+      "publishedAt": "2026-09-11T07:00:00",
+      "content": "Strong by Form, a past participant of the Biomimicry Institute's Ray of Hope Accelerator, has just closed €5."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "An Overdue Trash Bill Left This Alabama Woman in Handcuffs. She’s Not Alone.",
-      "description": "DOUBLE SPRINGS, Ala.",
-      "url": "https://insideclimatenews.org/news/12092026/alabama-county-arrests-citizens-nonpayment-trash-bills/",
-      "publishedAt": "2026-09-12T09:05:00",
-      "content": "DOUBLE SPRINGS, Ala."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness",
-      "description": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for ...",
-      "url": "https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/",
-      "publishedAt": "2026-09-12T09:00:00",
-      "content": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’",
-      "description": "She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires.",
-      "url": "https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist",
-      "publishedAt": "2026-09-12T08:00:28",
-      "content": "She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-      "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T06:09:37",
-      "content": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "25 Years After 9/11, the Health Toll Is Still Unfolding",
-      "description": "New York City Mayor Zohran Mamdani released a trove of documents this week that shed new light on the air quality around the World Trade Center after the September 11 terrorist attacks. Some of the...",
-      "url": "https://insideclimatenews.org/news/11092026/9-11-health-toll-still-unfolding/",
-      "publishedAt": "2026-09-11T22:04:20",
-      "content": "New York City Mayor Zohran Mamdani released a trove of documents this week that shed new light on the air quality around the World Trade Center after the September 11 terrorist attacks. Some of the..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Made in Nigeria: The race to build an African solar industry from scratch",
-      "description": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy\nThe post Made in Nigeria: The race to b...",
-      "url": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
-      "publishedAt": "2026-09-11T13:00:00",
-      "content": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy\nThe post Made in Nigeria: The race to b..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Türkiye says it has “final decision” at COP31 despite Australia running negotiations",
-      "description": "COP31 President-Designate Murat Kurum told journalists that, while the two countries have been working well together, Türkiye has the final say over the Antalya summit\nThe post Türkiye says it has ...",
-      "url": "https://www.climatechangenews.com/2026/09/11/turkiye-says-it-has-final-decision-at-cop31-despite-australia-running-negotiations/",
-      "publishedAt": "2026-09-11T10:52:01",
-      "content": "COP31 President-Designate Murat Kurum told journalists that, while the two countries have been working well together, Türkiye has the final say over the Antalya summit\nThe post Türkiye says it has ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "One in nine migratory birds threatened with extinction, global report says",
-      "description": "Findings on decline of species such as Arctic tern and turtle dove published alongside flyways pledge at Kenya summitOne in nine migratory birds are threatened with extinction and 45% of migratory ...",
-      "url": "https://www.theguardian.com/environment/2026/sep/11/migratory-birds-species-threatened-extinction-decline-global-report",
-      "publishedAt": "2026-09-11T10:00:03",
-      "content": "Findings on decline of species such as Arctic tern and turtle dove published alongside flyways pledge at Kenya summitOne in nine migratory birds are threatened with extinction and 45% of migratory ..."
+      "author": "CSRWire",
+      "title": "Entergy, Ampirical Invest $1.5M in LSU New Orleans Energy Lab",
+      "description": "LSU New Orleans students preparing for careers in engineering and the energy industry will gain access to enhanced technology, research opportunities and hands-on learning through a combined $1.5 m...",
+      "url": "https://csrwire.com/press-release/entergy-ampirical-invest-15m-lsu-new-orleans-energy-lab/",
+      "publishedAt": "2026-09-10T16:30:00",
+      "content": "LSU New Orleans students preparing for careers in engineering and the energy industry will gain access to enhanced technology, research opportunities and hands-on learning through a combined $1.5 m..."
     },
     {
       "source": {
@@ -287,6 +276,83 @@
       "url": "https://www.esgtoday.com/google-signs-its-largest-ever-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-its-largest-ever-superpollutant-carbon-credit-deal",
       "publishedAt": "2026-09-10T13:56:52",
       "content": "Google announced today that it has signed a new agreement with startup Mitti Labs to"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Industry Safety Organizations Recognize Georgia-Pacific for Excellence and Innovation",
+      "description": "Georgia-Pacific is committed to ensuring team members go home after their shift the same way they arrived at work.",
+      "url": "https://csrwire.com/press-release/industry-safety-organizations-recognize-georgia-pacific-excellence-and-innovation/",
+      "publishedAt": "2026-09-10T13:15:00",
+      "content": "Georgia-Pacific is committed to ensuring team members go home after their shift the same way they arrived at work."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "An Overdue Trash Bill Left This Alabama Woman in Handcuffs. She’s Not Alone.",
+      "description": "DOUBLE SPRINGS, Ala.",
+      "url": "https://insideclimatenews.org/news/12092026/alabama-county-arrests-citizens-nonpayment-trash-bills/",
+      "publishedAt": "2026-09-12T09:05:00",
+      "content": "DOUBLE SPRINGS, Ala."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness",
+      "description": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for ...",
+      "url": "https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/",
+      "publishedAt": "2026-09-12T09:00:00",
+      "content": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+      "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
+      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-12T06:09:37",
+      "content": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Made in Nigeria: The race to build an African solar industry from scratch",
+      "description": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy\nThe post Made in Nigeria: The race to b...",
+      "url": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
+      "publishedAt": "2026-09-11T13:00:00",
+      "content": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy\nThe post Made in Nigeria: The race to b..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Türkiye says it has “final decision” at COP31 despite Australia running negotiations",
+      "description": "COP31 President-Designate Murat Kurum told journalists that, while the two countries have been working well together, Türkiye has the final say over the Antalya summit\nThe post Türkiye says it has ...",
+      "url": "https://www.climatechangenews.com/2026/09/11/turkiye-says-it-has-final-decision-at-cop31-despite-australia-running-negotiations/",
+      "publishedAt": "2026-09-11T10:52:01",
+      "content": "COP31 President-Designate Murat Kurum told journalists that, while the two countries have been working well together, Türkiye has the final say over the Antalya summit\nThe post Türkiye says it has ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "One in nine migratory birds threatened with extinction, global report says",
+      "description": "Findings on decline of species such as Arctic tern and turtle dove published alongside flyways pledge at Kenya summitOne in nine migratory birds are threatened with extinction and 45% of migratory ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/11/migratory-birds-species-threatened-extinction-decline-global-report",
+      "publishedAt": "2026-09-11T10:00:03",
+      "content": "Findings on decline of species such as Arctic tern and turtle dove published alongside flyways pledge at Kenya summitOne in nine migratory birds are threatened with extinction and 45% of migratory ..."
     },
     {
       "source": {
@@ -345,25 +411,36 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "How the Super Godzilla Monster El Niño Could Actually Affect Your Weather",
-      "description": "Yes, El Niño is unusually powerful this time. But that’s not always a bad thing.",
-      "url": "https://www.nytimes.com/2026/09/09/weather/el-nino-weather-forecast-facts.html",
-      "publishedAt": "2026-09-09T22:42:36",
-      "content": "Yes, El Niño is unusually powerful this time. But that’s not always a bad thing."
+      "author": "CSRWire",
+      "title": "Updated COVID-19 Vaccines Available at CVS Pharmacy and MinuteClinic Across the U.S.",
+      "description": "Originally published on CVS Health Company Newsroom WOONSOCKET, R.",
+      "url": "https://csrwire.com/press-release/updated-covid-19-vaccines-available-cvs-pharmacy-and-minuteclinic-across-us/",
+      "publishedAt": "2026-09-10T08:15:00",
+      "content": "Originally published on CVS Health Company Newsroom WOONSOCKET, R."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "The world doesn’t need a Paris Agreement for plastics",
-      "description": "As governments prepare for new talks,  ambitious countries must reject  a framework that locks in the wrong response to the plastic crisis, before the crisis outpaces diplomacy\nThe post The world d...",
-      "url": "https://www.climatechangenews.com/2026/09/09/the-world-doesnt-need-a-paris-agreement-for-plastics/",
-      "publishedAt": "2026-09-09T16:35:36",
-      "content": "As governments prepare for new talks,  ambitious countries must reject  a framework that locks in the wrong response to the plastic crisis, before the crisis outpaces diplomacy\nThe post The world d..."
+      "author": "CSRWire",
+      "title": "Boutique Optician Uses AI To Save Time and Keep Clients Coming Back",
+      "description": "Destynee Turner became an optician because she loves helping people see.",
+      "url": "https://csrwire.com/press-release/boutique-optician-uses-ai-save-time-and-keep-clients-coming-back/",
+      "publishedAt": "2026-09-10T08:05:00",
+      "content": "Destynee Turner became an optician because she loves helping people see."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Preparing for a First GHG Assurance Engagement: It's Never Too Soon to Start",
+      "description": "A GHG assurance engagement benefits from practitioners who deeply understand GHG accounting—not just the auditing process.",
+      "url": "https://csrwire.com/press-release/preparing-first-ghg-assurance-engagement-its-never-too-soon-start/",
+      "publishedAt": "2026-09-10T08:00:00",
+      "content": "A GHG assurance engagement benefits from practitioners who deeply understand GHG accounting—not just the auditing process."
     }
   ]
 }
