@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 36,
+  "totalResults": 43,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "What UK SRS Means for Companies Making Sustainability Claims",
+      "description": "Guest post by: Juanjo Mestre, CEO at Dcycle The UK Sustainability Reporting Standards (SRS), based",
+      "url": "https://www.esgtoday.com/what-uk-srs-means-for-companies-making-sustainability-claims/?utm_source=rss&utm_medium=rss&utm_campaign=what-uk-srs-means-for-companies-making-sustainability-claims",
+      "publishedAt": "2026-09-15T08:45:37",
+      "content": "Guest post by: Juanjo Mestre, CEO at Dcycle The UK Sustainability Reporting Standards (SRS), based"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -29,11 +40,110 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Kanadevia Inova Acquires Dutch Clean Fuels Platform BioValue",
+      "description": "Swiss energy transition and circular economy solutions provider Kanadevia Inova announced today that it has",
+      "url": "https://www.esgtoday.com/kanadevia-inova-acquires-dutch-clean-fuels-platform-biovalue/?utm_source=rss&utm_medium=rss&utm_campaign=kanadevia-inova-acquires-dutch-clean-fuels-platform-biovalue",
+      "publishedAt": "2026-09-14T12:47:52",
+      "content": "Swiss energy transition and circular economy solutions provider Kanadevia Inova announced today that it has"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Santander Surpasses 85% of 2030 Green Finance Goal",
+      "description": "Spanish multinational financial services company Santander Group revealed that it mobilized €14 billion in green",
+      "url": "https://www.esgtoday.com/santander-passes-85-towards-2030-green-finance-goal/?utm_source=rss&utm_medium=rss&utm_campaign=santander-passes-85-towards-2030-green-finance-goal",
+      "publishedAt": "2026-09-14T14:15:37",
+      "content": "Spanish multinational financial services company Santander Group revealed that it mobilized €14 billion in green"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU to Enable Integration of Sustainability Criteria in €2.5 Trillion Public Procurement Market",
+      "description": "The European Commission announced the release of a new proposed regulation aimed at creating simpler",
+      "url": "https://www.esgtoday.com/eu-to-enable-integration-of-sustainability-criteria-in-e2-5-trillion-public-procurement-contracts/?utm_source=rss&utm_medium=rss&utm_campaign=eu-to-enable-integration-of-sustainability-criteria-in-e2-5-trillion-public-procurement-contracts",
+      "publishedAt": "2026-09-14T11:44:42",
+      "content": "The European Commission announced the release of a new proposed regulation aimed at creating simpler"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How the End of USAID Eroded Global Environmental Goals",
+      "description": "Before its abrupt dismantling last year, the U.",
+      "url": "https://insideclimatenews.org/news/15092026/usaid-cancellation-weakened-global-environmental-protections/",
+      "publishedAt": "2026-09-15T09:00:00",
+      "content": "Before its abrupt dismantling last year, the U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Latino Conservation Week Kicks Off at Threatened Arizona National Monument",
+      "description": "IRONWOOD FOREST NATIONAL MONUMENT, Ariz.",
+      "url": "https://insideclimatenews.org/news/15092026/latino-conservation-week-ironwood-forest-national-monument/",
+      "publishedAt": "2026-09-15T08:55:00",
+      "content": "IRONWOOD FOREST NATIONAL MONUMENT, Ariz."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "HSBC Appoints Mik Breiterman-Loader as Head of US Sustainable Finance and Transition",
       "description": "HSBC has appointed Mik Breiterman-Loader as its new Head of US Sustainable Finance and Transition.",
       "url": "https://www.esgtoday.com/hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition",
       "publishedAt": "2026-09-14T08:43:06",
       "content": "HSBC has appointed Mik Breiterman-Loader as its new Head of US Sustainable Finance and Transition."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "China’s industrial engine starts to break its fossil fuel habit",
+      "description": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin...",
+      "url": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
+      "publishedAt": "2026-09-08T15:30:15",
+      "content": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "US scraps limits on emissions from coal and gas power plants",
+      "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T22:04:14",
+      "content": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "COMPLIMENTARY WEBINAR – Beyond the Standard: Turning LSRS & FLAG Into Supply-Chain Advantage in 2027",
+      "description": "Join SCS Consulting's Director of Climate Solutions, Nick Betts, on September 30th for a session focused on what comes next for LSRS.",
+      "url": "https://csrwire.com/press-release/complimentary-webinar-beyond-standard-turning-lsrs-flag-supply-chain-advantage-2027/",
+      "publishedAt": "2026-09-14T10:24:00",
+      "content": "Join SCS Consulting's Director of Climate Solutions, Nick Betts, on September 30th for a session focused on what comes next for LSRS."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Protecting Our Planet: Reducing Our Operational Emissions",
+      "description": "Our sustainability strategy encompasses a variety of innovative approaches and advanced solutions.",
+      "url": "https://csrwire.com/press-release/protecting-our-planet-reducing-our-operational-emissions/",
+      "publishedAt": "2026-09-14T08:25:00",
+      "content": "Our sustainability strategy encompasses a variety of innovative approaches and advanced solutions."
     },
     {
       "source": {
@@ -48,25 +158,179 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "Dsm-firmenich Appoints Inge Massen-Biemans as New Chief Sustainability Officer",
-      "description": "Swiss nutrition, health and beauty company dsm-firmenich announced today the appointment of Inge Massen-Biemans as",
-      "url": "https://www.esgtoday.com/dsm-firmenich-appoints-inge-massen-biemans-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=dsm-firmenich-appoints-inge-massen-biemans-as-new-chief-sustainability-officer",
-      "publishedAt": "2026-09-10T11:05:57",
-      "content": "Swiss nutrition, health and beauty company dsm-firmenich announced today the appointment of Inge Massen-Biemans as"
+      "author": "Climate Change News",
+      "title": "Foreign minister: Nepal needs “meaningful” international support to face climate threats",
+      "description": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger global solidarity\"\nThe post Foreign minister: Nep...",
+      "url": "https://www.climatechangenews.com/2026/09/09/foreign-minister-nepal-meaningful-international-support-climate-flood-glacier/",
+      "publishedAt": "2026-09-09T21:00:00",
+      "content": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger global solidarity\"\nThe post Foreign minister: Nep..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Book Review: ‘End Times Fascism,’ by Naomi Klein and Astra Taylor",
+      "description": "In “End Times Fascism,” Naomi Klein and Astra Taylor argue that apocalyptic ideology has taken hold over American elites.",
+      "url": "https://www.nytimes.com/2026/09/15/books/review/end-times-fascism-naomi-klein-astra-taylor.html",
+      "publishedAt": "2026-09-15T09:01:04",
+      "content": "In “End Times Fascism,” Naomi Klein and Astra Taylor argue that apocalyptic ideology has taken hold over American elites."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New England Affirms Faith in Wind Energy’s Future",
+      "description": "Second time’s the charm? On Aug.",
+      "url": "https://insideclimatenews.org/news/15092026/maine-wind-energy-transmission-winning-proposals/",
+      "publishedAt": "2026-09-15T08:50:00",
+      "content": "Second time’s the charm? On Aug."
     },
     {
       "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "China’s industrial engine starts to break its fossil fuel habit",
-      "description": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin...",
-      "url": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
-      "publishedAt": "2026-09-08T15:30:15",
-      "content": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin..."
+      "title": "International trade linked to 20% of global emissions – but imports ignored",
+      "description": "Researchers say governments should discuss how to tackle emissions linked to globally traded goods and services, especially in large importing countries \nThe post International trade linked to 20% ...",
+      "url": "https://www.climatechangenews.com/2026/09/15/international-trade-global-emissions-study-europe-china-us-imports/",
+      "publishedAt": "2026-09-15T08:19:17",
+      "content": "Researchers say governments should discuss how to tackle emissions linked to globally traded goods and services, especially in large importing countries \nThe post International trade linked to 20% ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘It’s really taking off’: hedge revival as farmers rediscover ancient tools",
+      "description": "Grant applications in England surge as interest grows in habitat that captures carbon and helps reduce flood riskThe ancient craft of hedge laying is experiencing a strong revival as farmers use te...",
+      "url": "https://www.theguardian.com/environment/2026/sep/15/conservation-gateway-drug-farmers-embrace-ancient-craft-of-hedge-laying",
+      "publishedAt": "2026-09-15T07:00:29",
+      "content": "Grant applications in England surge as interest grows in habitat that captures carbon and helps reduce flood riskThe ancient craft of hedge laying is experiencing a strong revival as farmers use te..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
+      "description": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
+      "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T06:45:12",
+      "content": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Why unwanted fridges are piling up at recycling centres across England and Wales",
+      "description": "Capacity has been overwhelmed by heatwaves that have pushed white goods to breaking point“In Oxfordshire, recycling centres are filling almost three articulated lorries with discarded fridges every...",
+      "url": "https://www.theguardian.com/environment/2026/sep/15/why-unwanted-fridges-piling-up-recycling-centres-england-and-wales",
+      "publishedAt": "2026-09-15T06:00:28",
+      "content": "Capacity has been overwhelmed by heatwaves that have pushed white goods to breaking point“In Oxfordshire, recycling centres are filling almost three articulated lorries with discarded fridges every..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Giant jellyfish with '40ft tentacles' captured on camera",
+      "description": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T05:18:42",
+      "content": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
+      "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up callDawn has broken, and the air is cool and still. It’s a...",
+      "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
+      "publishedAt": "2026-09-15T05:00:26",
+      "content": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up callDawn has broken, and the air is cool and still. It’s a..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Goldfinches and grasses, together in an explosion of movement | Mark Cocker",
+      "description": "Priestcliffe Lees, Derbyshire: What a sight – and sound – it was, this huge flock of juveniles, feeding as the wind thrashed the vegetation Stands of tufted hair-grass, some over a metre tall, burn...",
+      "url": "https://www.theguardian.com/environment/2026/sep/15/country-diary-goldfinches-and-grasses-together-in-an-explosion-of-movement",
+      "publishedAt": "2026-09-15T04:30:25",
+      "content": "Priestcliffe Lees, Derbyshire: What a sight – and sound – it was, this huge flock of juveniles, feeding as the wind thrashed the vegetation Stands of tufted hair-grass, some over a metre tall, burn..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Benedict Cumberbatch on his Earth-saving eco film: ‘We are in the last grab of the extraction era’",
+      "description": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet.",
+      "url": "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison",
+      "publishedAt": "2026-09-15T04:00:25",
+      "content": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
+      "description": "Latest daily reductions will further choke one of the world’s most important shipping lanesThe Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climat...",
+      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+      "publishedAt": "2026-09-15T02:43:18",
+      "content": "Latest daily reductions will further choke one of the world’s most important shipping lanesThe Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climat..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Flash flooding interrupts half-marathon, submerges cars",
+      "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l6rzj86vgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T15:01:28",
+      "content": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A job that changed me: Working the pool kiosk in the summer of ’82, I was excited when older boys came by – but I learned that respect is better than attention",
+      "description": "My job made me the envy of the cool girls; it made me visible.",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/14/a-job-that-changed-me-summer-pool-kiosk-boys-taught-me-value-respect",
+      "publishedAt": "2026-09-14T15:00:11",
+      "content": "My job made me the envy of the cool girls; it made me visible."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Meteor showers and supermoons: Autumn's night sky highlights",
+      "description": "Meteor showers and supermoons: night sky phenomenons you won't want to miss",
+      "url": "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:42:29",
+      "content": "Meteor showers and supermoons: night sky phenomenons you won't want to miss"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
+      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
+      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T14:08:12",
+      "content": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
     },
     {
       "source": {
@@ -92,36 +356,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "The bird that changed Ecuador: how a chance discovery of a rare species helped to save many more",
-      "description": "Thirty years after a US ornithologist first sighted a jocotoco antpitta, the foundation he set up to restore biodiversity is a model for conservation globallyI have to confess that I rarely enjoy b...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe",
-      "publishedAt": "2026-09-13T13:00:05",
-      "content": "Thirty years after a US ornithologist first sighted a jocotoco antpitta, the foundation he set up to restore biodiversity is a model for conservation globallyI have to confess that I rarely enjoy b..."
+      "author": "CSRWire",
+      "title": "DaVita Community Care Report 2025: Empowering Teammates Through Career Development and Education",
+      "description": "Our approach to career development explicitly prioritizes economic mobility, helping teammates and leaders advance their careers and increase their earning potential.",
+      "url": "https://csrwire.com/press-release/davita-community-care-report-2025-empowering-teammates-through-career-development-and/",
+      "publishedAt": "2026-09-14T09:10:00",
+      "content": "Our approach to career development explicitly prioritizes economic mobility, helping teammates and leaders advance their careers and increase their earning potential."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Sheen says he was snubbed by FM over pollution claims",
-      "description": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
-      "url": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-11T10:29:19",
-      "content": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Foreign minister: Nepal needs “meaningful” international support to face climate threats",
-      "description": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger global solidarity\"\nThe post Foreign minister: Nep...",
-      "url": "https://www.climatechangenews.com/2026/09/09/foreign-minister-nepal-meaningful-international-support-climate-flood-glacier/",
-      "publishedAt": "2026-09-09T21:00:00",
-      "content": "Following its recent Himalayan flooding disaster, the South Asian nation is seeking urgent help from a new UN climate fund, appealing for \"stronger global solidarity\"\nThe post Foreign minister: Nep..."
+      "author": "CSRWire",
+      "title": "When Words Stay Silent: How Sign Language Avatars Are Transforming Access to Medicine",
+      "description": "At first glance, medicine package inserts appear readable.",
+      "url": "https://csrwire.com/press-release/when-words-stay-silent-how-sign-language-avatars-transforming-access-medicine/",
+      "publishedAt": "2026-09-14T08:05:00",
+      "content": "At first glance, medicine package inserts appear readable."
     },
     {
       "source": {
@@ -147,17 +400,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Notice anything wrong with this ripe, succulent plum? | Claire Stares",
-      "description": "Langstone, Hampshire: My garden is full of Victoria plums, but they’re not supposed to be crunchy insideThis summer has been challenging for the fruit trees in my garden, with intense heat and a la...",
-      "url": "https://www.theguardian.com/environment/2026/sep/14/country-diary-notice-anything-wrong-with-this-ripe-succulent-plum",
-      "publishedAt": "2026-09-14T04:30:22",
-      "content": "Langstone, Hampshire: My garden is full of Victoria plums, but they’re not supposed to be crunchy insideThis summer has been challenging for the fruit trees in my garden, with intense heat and a la..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -177,116 +419,6 @@
       "url": "https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/?utm_source=rss&utm_medium=rss&utm_campaign=gsk-signs-500000-tonne-carbon-removal-deal-with-varaha",
       "publishedAt": "2026-09-11T13:39:04",
       "content": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Whirlpool Procures Multi-Technology Carbon Removal Portfolio",
-      "description": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to",
-      "url": "https://www.esgtoday.com/whirlpool-procures-multi-technology-carbon-removal-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=whirlpool-procures-multi-technology-carbon-removal-portfolio",
-      "publishedAt": "2026-09-10T12:47:32",
-      "content": "Climate solutions provider ClimeFi announced that it is working with home appliance manufacturer Whirlpool to"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Spraying should be the last option’: how farmers are exploring alternatives to pesticides",
-      "description": "When pesticide proved no match for the insect, desperate Phyllis Nvuda tried a new way to save her infested orchardFor two decades, Phyllis Nduva, 72, has grown mangoes and citrus in Wote, a town i...",
-      "url": "https://www.theguardian.com/environment/2026/sep/13/kenyan-fruit-farmers-pesticide-environment",
-      "publishedAt": "2026-09-13T11:00:01",
-      "content": "When pesticide proved no match for the insect, desperate Phyllis Nvuda tried a new way to save her infested orchardFor two decades, Phyllis Nduva, 72, has grown mangoes and citrus in Wote, a town i..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Super El Niño Is Building. Florida’s Most Vulnerable Homes Aren’t Ready.",
-      "description": "On the night of Feb.",
-      "url": "https://insideclimatenews.org/news/13092026/florida-most-vulnerable-homes-arent-ready-for-super-el-nino/",
-      "publishedAt": "2026-09-13T08:55:00",
-      "content": "On the night of Feb."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Think of the parable of a frog in boiling water. That’s us dithering as the ‘unprecedented‘ weather becomes more extreme | Helen Pilcher",
-      "description": "The complacency is staggering: just another hot summer, a flooded street, a crop failure.",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/13/extreme-weather-unprecedented-feel-normal",
-      "publishedAt": "2026-09-13T07:00:01",
-      "content": "The complacency is staggering: just another hot summer, a flooded street, a crop failure."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Five night sky events to look out for this autumn",
-      "description": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy4w3mnpvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T23:53:07",
-      "content": "From meteor showers to a November supermoon, there are a number of impressive sights to behold in the autumn night sky."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Record heatwaves in France set to make champagne stronger",
-      "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T13:00:32",
-      "content": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "An Overdue Trash Bill Left This Alabama Woman in Handcuffs. She’s Not Alone.",
-      "description": "DOUBLE SPRINGS, Ala.",
-      "url": "https://insideclimatenews.org/news/12092026/alabama-county-arrests-citizens-nonpayment-trash-bills/",
-      "publishedAt": "2026-09-12T09:05:00",
-      "content": "DOUBLE SPRINGS, Ala."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Formal Repeal of Roadless Rule Directly Threatens Midwest Wilderness",
-      "description": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for ...",
-      "url": "https://insideclimatenews.org/news/12092026/roadless-rule-repeal-threatens-midwest-wilderness/",
-      "publishedAt": "2026-09-12T09:00:00",
-      "content": "Michigan’s Norwich Plains is a stretch of unbroken wilderness in the state’s Upper Peninsula dominated by northern hardwood forest, with sugar maples and old-growth aspens that provide habitat for ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-      "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T06:09:37",
-      "content": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Made in Nigeria: The race to build an African solar industry from scratch",
-      "description": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy\nThe post Made in Nigeria: The race to b...",
-      "url": "https://www.climatechangenews.com/2026/09/11/made-in-nigeria-the-race-to-build-an-african-solar-industry-from-scratch/",
-      "publishedAt": "2026-09-11T13:00:00",
-      "content": "A solar power revolution is gathering pace in Africa and Nigeria wants a slice of the fast-growing industry, but competing with Chinese imports won’t be easy\nThe post Made in Nigeria: The race to b..."
     },
     {
       "source": {
@@ -334,28 +466,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Twelve Secures $45 Million Financing for CO2-Based Clean Fuels Plant",
-      "description": "Carbon transformation-focused cleantech company Twelve announced that it has secured a credit facility of up",
-      "url": "https://www.esgtoday.com/twelve-secures-45-million-financing-for-co2-based-clean-fuels-plant/?utm_source=rss&utm_medium=rss&utm_campaign=twelve-secures-45-million-financing-for-co2-based-clean-fuels-plant",
-      "publishedAt": "2026-09-10T14:46:30",
-      "content": "Carbon transformation-focused cleantech company Twelve announced that it has secured a credit facility of up"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs its Largest-Ever Superpollutant Carbon Credit Deal",
-      "description": "Google announced today that it has signed a new agreement with startup Mitti Labs to",
-      "url": "https://www.esgtoday.com/google-signs-its-largest-ever-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-its-largest-ever-superpollutant-carbon-credit-deal",
-      "publishedAt": "2026-09-10T13:56:52",
-      "content": "Google announced today that it has signed a new agreement with startup Mitti Labs to"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -364,39 +474,6 @@
       "url": "https://csrwire.com/press-release/industry-safety-organizations-recognize-georgia-pacific-excellence-and-innovation/",
       "publishedAt": "2026-09-10T13:15:00",
       "content": "Georgia-Pacific is committed to ensuring team members go home after their shift the same way they arrived at work."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Updated COVID-19 Vaccines Available at CVS Pharmacy and MinuteClinic Across the U.S.",
-      "description": "Originally published on CVS Health Company Newsroom WOONSOCKET, R.",
-      "url": "https://csrwire.com/press-release/updated-covid-19-vaccines-available-cvs-pharmacy-and-minuteclinic-across-us/",
-      "publishedAt": "2026-09-10T08:15:00",
-      "content": "Originally published on CVS Health Company Newsroom WOONSOCKET, R."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Boutique Optician Uses AI To Save Time and Keep Clients Coming Back",
-      "description": "Destynee Turner became an optician because she loves helping people see.",
-      "url": "https://csrwire.com/press-release/boutique-optician-uses-ai-save-time-and-keep-clients-coming-back/",
-      "publishedAt": "2026-09-10T08:05:00",
-      "content": "Destynee Turner became an optician because she loves helping people see."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Preparing for a First GHG Assurance Engagement: It's Never Too Soon to Start",
-      "description": "A GHG assurance engagement benefits from practitioners who deeply understand GHG accounting—not just the auditing process.",
-      "url": "https://csrwire.com/press-release/preparing-first-ghg-assurance-engagement-its-never-too-soon-start/",
-      "publishedAt": "2026-09-10T08:00:00",
-      "content": "A GHG assurance engagement benefits from practitioners who deeply understand GHG accounting—not just the auditing process."
     }
   ]
 }
