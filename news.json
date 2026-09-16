@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 42,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Salzgitter Signs Clean Energy Deal with Zelestra to Power Green Steel Production",
+      "description": "German steel manufacturer Salzgitter announced an agreement by its subsidiary Salzgitter Flachstahl, with Spanish renewable",
+      "url": "https://www.esgtoday.com/salzgitter-signs-clean-energy-deal-with-zelestra-to-power-green-steel-production/?utm_source=rss&utm_medium=rss&utm_campaign=salzgitter-signs-clean-energy-deal-with-zelestra-to-power-green-steel-production",
+      "publishedAt": "2026-09-16T06:55:45",
+      "content": "German steel manufacturer Salzgitter announced an agreement by its subsidiary Salzgitter Flachstahl, with Spanish renewable"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -12,6 +23,17 @@
       "url": "https://www.esgtoday.com/what-uk-srs-means-for-companies-making-sustainability-claims/?utm_source=rss&utm_medium=rss&utm_campaign=what-uk-srs-means-for-companies-making-sustainability-claims",
       "publishedAt": "2026-09-15T08:45:37",
       "content": "Guest post by: Juanjo Mestre, CEO at Dcycle The UK Sustainability Reporting Standards (SRS), based"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "79 More Sustainable Fashion Brands From Europe",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/most-ethical-and-sustainable-clothing-brands-from-europe/",
+      "publishedAt": "2026-09-15T00:00:41",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -40,11 +62,66 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Kanadevia Inova Acquires Dutch Clean Fuels Platform BioValue",
-      "description": "Swiss energy transition and circular economy solutions provider Kanadevia Inova announced today that it has",
-      "url": "https://www.esgtoday.com/kanadevia-inova-acquires-dutch-clean-fuels-platform-biovalue/?utm_source=rss&utm_medium=rss&utm_campaign=kanadevia-inova-acquires-dutch-clean-fuels-platform-biovalue",
-      "publishedAt": "2026-09-14T12:47:52",
-      "content": "Swiss energy transition and circular economy solutions provider Kanadevia Inova announced today that it has"
+      "title": "Sustainable Funds Outperform, Hit Record AUM in H1 2026: Morgan Stanley",
+      "description": "Sustainable investment funds outperformed their traditional fund peers in the first half of 2026, with",
+      "url": "https://www.esgtoday.com/sustainable-funds-outperform-hit-record-aum-in-h1-2026-morgan-stanley/?utm_source=rss&utm_medium=rss&utm_campaign=sustainable-funds-outperform-hit-record-aum-in-h1-2026-morgan-stanley",
+      "publishedAt": "2026-09-16T09:45:54",
+      "content": "Sustainable investment funds outperformed their traditional fund peers in the first half of 2026, with"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ICE Invests in Industrial and Environmental Markets Certification Platform Isometric",
+      "description": "Industrial certification provider Isometric announced an investment by financial technology and data services provider and",
+      "url": "https://www.esgtoday.com/ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric/?utm_source=rss&utm_medium=rss&utm_campaign=ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric",
+      "publishedAt": "2026-09-15T14:51:41",
+      "content": "Industrial certification provider Isometric announced an investment by financial technology and data services provider and"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlueOrchard Raises $250 Million for Emerging Markets Climate Finance Fund",
+      "description": "Global investment firm Schroders’ impact investment management arm BlueOrchard announced today that it has raised",
+      "url": "https://www.esgtoday.com/blueorchard-raises-250-million-for-emerging-markets-climate-finance-fund/?utm_source=rss&utm_medium=rss&utm_campaign=blueorchard-raises-250-million-for-emerging-markets-climate-finance-fund",
+      "publishedAt": "2026-09-15T12:52:04",
+      "content": "Global investment firm Schroders’ impact investment management arm BlueOrchard announced today that it has raised"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TrusTrace Launches New Platform to Help Companies Identify, Act on Supply Chain Sustainability Gaps",
+      "description": "Supply chain traceability solutions provider TrusTrace announced today the launch of a new platform aimed",
+      "url": "https://www.esgtoday.com/trustrace-launches-new-platform-to-help-companies-identify-act-on-supply-chain-sustainability-gaps/?utm_source=rss&utm_medium=rss&utm_campaign=trustrace-launches-new-platform-to-help-companies-identify-act-on-supply-chain-sustainability-gaps",
+      "publishedAt": "2026-09-15T11:40:56",
+      "content": "Supply chain traceability solutions provider TrusTrace announced today the launch of a new platform aimed"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
+      "description": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for th...",
+      "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
+      "publishedAt": "2026-09-16T04:00:12",
+      "content": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for th..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Air pollution linked to higher suicide risk, international research suggests",
+      "description": "Analysis of 29 studies highlights potentially heightened danger from small particulate matter and nitrogen dioxide Air pollution is associated with an increased risk of suicide and suicidal thought...",
+      "url": "https://www.theguardian.com/environment/2026/sep/15/air-pollution-linked-to-higher-suicide-risk-research-suggests",
+      "publishedAt": "2026-09-15T21:30:01",
+      "content": "Analysis of 29 studies highlights potentially heightened danger from small particulate matter and nitrogen dioxide Air pollution is associated with an increased risk of suicide and suicidal thought..."
     },
     {
       "source": {
@@ -59,14 +136,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "EU to Enable Integration of Sustainability Criteria in €2.5 Trillion Public Procurement Market",
-      "description": "The European Commission announced the release of a new proposed regulation aimed at creating simpler",
-      "url": "https://www.esgtoday.com/eu-to-enable-integration-of-sustainability-criteria-in-e2-5-trillion-public-procurement-contracts/?utm_source=rss&utm_medium=rss&utm_campaign=eu-to-enable-integration-of-sustainability-criteria-in-e2-5-trillion-public-procurement-contracts",
-      "publishedAt": "2026-09-14T11:44:42",
-      "content": "The European Commission announced the release of a new proposed regulation aimed at creating simpler"
+      "author": "CSRWire",
+      "title": "Comcast Announces 2026 Impact Report",
+      "description": "Our 2026 Impact Report highlights how we’re investing in our country, communities, employees, and environment through partnerships, programs, and innovations that create meaningful, long-term impact.",
+      "url": "https://csrwire.com/press-release/comcast-announces-2026-impact-report/",
+      "publishedAt": "2026-09-15T11:00:00",
+      "content": "Our 2026 Impact Report highlights how we’re investing in our country, communities, employees, and environment through partnerships, programs, and innovations that create meaningful, long-term impact."
     },
     {
       "source": {
@@ -92,36 +169,80 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "HSBC Appoints Mik Breiterman-Loader as Head of US Sustainable Finance and Transition",
-      "description": "HSBC has appointed Mik Breiterman-Loader as its new Head of US Sustainable Finance and Transition.",
-      "url": "https://www.esgtoday.com/hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-appoints-mik-breiterman-loader-as-head-of-us-sustainable-finance-and-transition",
-      "publishedAt": "2026-09-14T08:43:06",
-      "content": "HSBC has appointed Mik Breiterman-Loader as its new Head of US Sustainable Finance and Transition."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "China’s industrial engine starts to break its fossil fuel habit",
-      "description": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin...",
-      "url": "https://www.climatechangenews.com/2026/09/08/chinas-industrial-engine-starts-to-break-its-fossil-fuel-habit/",
-      "publishedAt": "2026-09-08T15:30:15",
-      "content": "Despite a rebound in coal generation this year, clean energy from wind and solar is gaining ground on the fossil fuels that have powered decades of industry growth\nThe post China’s industrial engin..."
+      "author": "New York Times",
+      "title": "Does the Stork’s Return to Britain Restore History or Rewrite It?",
+      "description": "Conservationists set up a colony of white storks in southern England, touching off a debate over whether they truly belong there.",
+      "url": "https://www.nytimes.com/2026/09/16/climate/white-storks-project-knepp-rewild-conservation-uk.html",
+      "publishedAt": "2026-09-16T09:49:40",
+      "content": "Conservationists set up a colony of white storks in southern England, touching off a debate over whether they truly belong there."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "US scraps limits on emissions from coal and gas power plants",
-      "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T22:04:14",
-      "content": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices."
+      "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+      "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
+      "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T00:05:51",
+      "content": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Disaster Survivors Sticking Together",
+      "description": "We found grace, humanity and friendship in the stories of disparate Americans hit by climate chaos.",
+      "url": "https://www.nytimes.com/2026/09/15/climate/extreme-weather-survivors.html",
+      "publishedAt": "2026-09-15T18:19:38",
+      "content": "We found grace, humanity and friendship in the stories of disparate Americans hit by climate chaos."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "3BL Announces the 100 Best Corporate Citizens of 2026",
+      "description": "3BL today announced the annual 100 Best Corporate Citizens ranking, which evaluates the 1,000 largest publicly traded U.",
+      "url": "https://csrwire.com/press-release/3bl-announces-100-best-corporate-citizens-2026/",
+      "publishedAt": "2026-09-15T12:00:00",
+      "content": "3BL today announced the annual 100 Best Corporate Citizens ranking, which evaluates the 1,000 largest publicly traded U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Expanding Tick and Itch Season Supports Momentum in Elanco Innovation, Meeting Pet Owner Demand for Health and Wellness Care",
+      "description": "As the calendar turns to fall, Americans expect a seasonal reprieve from ticks and allergies.",
+      "url": "https://csrwire.com/press-release/expanding-tick-and-itch-season-supports-momentum-elanco-innovation-meeting-pet-owner-demand/",
+      "publishedAt": "2026-09-15T11:35:00",
+      "content": "As the calendar turns to fall, Americans expect a seasonal reprieve from ticks and allergies."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "What’s Trending Founder Shira Lazar as a Keynote Speaker for Its 2026 Future of Communications Conference",
+      "description": "Ragan Communications has announced digital media entrepreneur and What’s Trending founder Shira Lazar as a keynote speaker for its 2026 Future of Communications Conference, taking place Nov. 11-13 ...",
+      "url": "https://csrwire.com/press-release/whats-trending-founder-shira-lazar-keynote-speaker-its-2026-future-communications-conference/",
+      "publishedAt": "2026-09-15T11:00:00",
+      "content": "Ragan Communications has announced digital media entrepreneur and What’s Trending founder Shira Lazar as a keynote speaker for its 2026 Future of Communications Conference, taking place Nov. 11-13 ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "When Fiber Becomes a Sensor: Why AI Is the Missing Ingredient in Next-Generation Network Protection",
+      "description": "This evolution matters most in mission-critical environments, especially power utilities, where communications networks don’t just support office applications, they support the power grid itself.",
+      "url": "https://csrwire.com/press-release/when-fiber-becomes-sensor-why-ai-missing-ingredient-next-generation-network-protection/",
+      "publishedAt": "2026-09-15T09:05:00",
+      "content": "This evolution matters most in mission-critical environments, especially power utilities, where communications networks don’t just support office applications, they support the power grid itself."
     },
     {
       "source": {
@@ -133,17 +254,6 @@
       "url": "https://csrwire.com/press-release/complimentary-webinar-beyond-standard-turning-lsrs-flag-supply-chain-advantage-2027/",
       "publishedAt": "2026-09-14T10:24:00",
       "content": "Join SCS Consulting's Director of Climate Solutions, Nick Betts, on September 30th for a session focused on what comes next for LSRS."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Protecting Our Planet: Reducing Our Operational Emissions",
-      "description": "Our sustainability strategy encompasses a variety of innovative approaches and advanced solutions.",
-      "url": "https://csrwire.com/press-release/protecting-our-planet-reducing-our-operational-emissions/",
-      "publishedAt": "2026-09-14T08:25:00",
-      "content": "Our sustainability strategy encompasses a variety of innovative approaches and advanced solutions."
     },
     {
       "source": {
@@ -169,14 +279,124 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘We’re near a breaking point:’ firefighters say US government is failing them amid intense wildfire season",
+      "description": "US grapples with federal firefighter shortage as crews say they’re spread thin and lack resources during unrelenting year of fireFirefighters battling enormous wildfires in the United States say th...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/16/wildfires-government-firefighter-shortage",
+      "publishedAt": "2026-09-16T10:00:16",
+      "content": "US grapples with federal firefighter shortage as crews say they’re spread thin and lack resources during unrelenting year of fireFirefighters battling enormous wildfires in the United States say th..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Company behind failed Surrey oilfield project sells site at massive loss",
+      "description": "New owners apply for permission to extract oil in Horse Hill despite landmark ruling from supreme court in 2024After years of trying to dig for oil in Surrey, the company behind the drilling projec...",
+      "url": "https://www.theguardian.com/environment/2026/sep/16/company-behind-failed-surrey-oilfield-project-sells-massive-loss",
+      "publishedAt": "2026-09-16T09:00:15",
+      "content": "New owners apply for permission to extract oil in Horse Hill despite landmark ruling from supreme court in 2024After years of trying to dig for oil in Surrey, the company behind the drilling projec..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Tampa, Community Gardeners Say They Need More Funding, Not More Information, to Feed Neighbors in Need",
+      "description": "In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years.",
+      "url": "https://insideclimatenews.org/news/16092026/tampa-community-gardens-need-funding-not-more-info/",
+      "publishedAt": "2026-09-16T09:00:00",
+      "content": "In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Record heatwaves bring Britain’s second-best butterfly season in 16 years",
+      "description": "Volunteers counted almost 1.",
+      "url": "https://www.theguardian.com/environment/2026/sep/16/record-heatwaves-britain-second-best-butterfly-season",
+      "publishedAt": "2026-09-16T06:00:13",
+      "content": "Volunteers counted almost 1."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Plantwatch: The insect-eating alpine plant that proves Darwin was right",
+      "description": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine pl...",
+      "url": "https://www.theguardian.com/science/2026/sep/16/plantwatch-the-insect-eating-alpine-plant-that-proves-darwin-was-right",
+      "publishedAt": "2026-09-16T05:00:10",
+      "content": "Study shows Saxifraga candelabrum traps and digests midges – just as the evolutionary biologist predicted back in 1875In 1875, Charles Darwin predicted that Saxifraga candelabrum, a small alpine pl..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The women saving Borneo: battling fire, patriarchy and super El Niño on Indonesia’s peatland frontlines",
+      "description": "Fire threatens Kalimantan’s rainforests.",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/16/indonesia-fires-borneo-el-nino-women-haze",
+      "publishedAt": "2026-09-16T01:18:51",
+      "content": "Fire threatens Kalimantan’s rainforests."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
-      "title": "Book Review: ‘End Times Fascism,’ by Naomi Klein and Astra Taylor",
-      "description": "In “End Times Fascism,” Naomi Klein and Astra Taylor argue that apocalyptic ideology has taken hold over American elites.",
-      "url": "https://www.nytimes.com/2026/09/15/books/review/end-times-fascism-naomi-klein-astra-taylor.html",
-      "publishedAt": "2026-09-15T09:01:04",
-      "content": "In “End Times Fascism,” Naomi Klein and Astra Taylor argue that apocalyptic ideology has taken hold over American elites."
+      "title": "FEMA Could Still Lose More Jobs Despite Court Ruling",
+      "description": "A plan to halve the agency’s sprawling work force was illegal, a judge ruled. But the court is not blocking other FEMA cuts.",
+      "url": "https://www.nytimes.com/2026/09/15/climate/fema-cuts-court-order.html",
+      "publishedAt": "2026-09-15T14:25:18",
+      "content": "A plan to halve the agency’s sprawling work force was illegal, a judge ruled. But the court is not blocking other FEMA cuts."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Dust Settled. The Health Effects of 9/11 Didn’t.",
+      "description": "Philip Landrigan learned about the attacks on 9/11 the way much of the world did when he was chair of the Department of Preventive Medicine at Mount Sinai School of Medicine in New York: by watchin...",
+      "url": "https://insideclimatenews.org/news/15092026/the-dust-settled-the-health-effects-of-9-11-didnt/",
+      "publishedAt": "2026-09-15T14:00:17",
+      "content": "Philip Landrigan learned about the attacks on 9/11 the way much of the world did when he was chair of the Department of Preventive Medicine at Mount Sinai School of Medicine in New York: by watchin..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Will El Niño bring winter snow to the UK?",
+      "description": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.",
+      "url": "https://www.bbc.co.uk/news/videos/cred7xze25ndo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-15T10:43:14",
+      "content": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Women in Action: Building a More Inclusive Future at DP World in Canada",
+      "description": "Across DP World's Canadian operations, women are making an impact at every level of our business — from frontline terminal operations to corporate roles supporting our global logistics network.",
+      "url": "https://csrwire.com/press-release/women-action-building-more-inclusive-future-dp-world-canada/",
+      "publishedAt": "2026-09-15T09:00:00",
+      "content": "Across DP World's Canadian operations, women are making an impact at every level of our business — from frontline terminal operations to corporate roles supporting our global logistics network."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "US scraps limits on emissions from coal and gas power plants",
+      "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+      "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-14T22:04:14",
+      "content": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices."
     },
     {
       "source": {
@@ -202,17 +422,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘It’s really taking off’: hedge revival as farmers rediscover ancient tools",
-      "description": "Grant applications in England surge as interest grows in habitat that captures carbon and helps reduce flood riskThe ancient craft of hedge laying is experiencing a strong revival as farmers use te...",
-      "url": "https://www.theguardian.com/environment/2026/sep/15/conservation-gateway-drug-farmers-embrace-ancient-craft-of-hedge-laying",
-      "publishedAt": "2026-09-15T07:00:29",
-      "content": "Grant applications in England surge as interest grows in habitat that captures carbon and helps reduce flood riskThe ancient craft of hedge laying is experiencing a strong revival as farmers use te..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -221,17 +430,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-15T06:45:12",
       "content": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why unwanted fridges are piling up at recycling centres across England and Wales",
-      "description": "Capacity has been overwhelmed by heatwaves that have pushed white goods to breaking point“In Oxfordshire, recycling centres are filling almost three articulated lorries with discarded fridges every...",
-      "url": "https://www.theguardian.com/environment/2026/sep/15/why-unwanted-fridges-piling-up-recycling-centres-england-and-wales",
-      "publishedAt": "2026-09-15T06:00:28",
-      "content": "Capacity has been overwhelmed by heatwaves that have pushed white goods to breaking point“In Oxfordshire, recycling centres are filling almost three articulated lorries with discarded fridges every..."
     },
     {
       "source": {
@@ -246,50 +444,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "They’re the sopranos of the forest, so what’s silencing the gibbons’ morning chorus?",
-      "description": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up callDawn has broken, and the air is cool and still. It’s a...",
-      "url": "https://www.theguardian.com/environment/2026/sep/15/singing-gibbons-forest-sopranos-malaysia-aoe",
-      "publishedAt": "2026-09-15T05:00:26",
-      "content": "As human development and roads increasingly fragment their habitats, a study suggests traffic noise could be altering the animals’ wake-up callDawn has broken, and the air is cool and still. It’s a..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Goldfinches and grasses, together in an explosion of movement | Mark Cocker",
-      "description": "Priestcliffe Lees, Derbyshire: What a sight – and sound – it was, this huge flock of juveniles, feeding as the wind thrashed the vegetation Stands of tufted hair-grass, some over a metre tall, burn...",
-      "url": "https://www.theguardian.com/environment/2026/sep/15/country-diary-goldfinches-and-grasses-together-in-an-explosion-of-movement",
-      "publishedAt": "2026-09-15T04:30:25",
-      "content": "Priestcliffe Lees, Derbyshire: What a sight – and sound – it was, this huge flock of juveniles, feeding as the wind thrashed the vegetation Stands of tufted hair-grass, some over a metre tall, burn..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Benedict Cumberbatch on his Earth-saving eco film: ‘We are in the last grab of the extraction era’",
-      "description": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet.",
-      "url": "https://www.theguardian.com/culture/2026/sep/15/benedict-cumberbatch-how-to-live-on-earth-obama-venison",
-      "publishedAt": "2026-09-15T04:00:25",
-      "content": "From Obama’s chef to a big cat obsessive, the actor has gathered experts from all over the world for a film about how to heal our besieged planet."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
-      "description": "Latest daily reductions will further choke one of the world’s most important shipping lanesThe Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climat...",
-      "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
-      "publishedAt": "2026-09-15T02:43:18",
-      "content": "Latest daily reductions will further choke one of the world’s most important shipping lanesThe Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climat..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -301,105 +455,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A job that changed me: Working the pool kiosk in the summer of ’82, I was excited when older boys came by – but I learned that respect is better than attention",
-      "description": "My job made me the envy of the cool girls; it made me visible.",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/sep/14/a-job-that-changed-me-summer-pool-kiosk-boys-taught-me-value-respect",
-      "publishedAt": "2026-09-14T15:00:11",
-      "content": "My job made me the envy of the cool girls; it made me visible."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Meteor showers and supermoons: Autumn's night sky highlights",
-      "description": "Meteor showers and supermoons: night sky phenomenons you won't want to miss",
-      "url": "https://www.bbc.co.uk/news/videos/c6kgxmk5zkrgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T14:42:29",
-      "content": "Meteor showers and supermoons: night sky phenomenons you won't want to miss"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wild dogs record 2,500-mile trek across Zambia in search of a mate",
-      "description": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures.",
-      "url": "https://www.bbc.co.uk/news/articles/cy459y5y9yxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-14T14:08:12",
-      "content": "Scientists say the record-breaking journey by three brothers offers hope wildlife can survive growing pressures."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BlackRock’s Skyborn Renewables Secures Over $2.4 Billion for Major German Offshore Windfarm",
-      "description": "BlackRock-backed Skyborn Renewables announced that it has reached financial close on the Gennaker offshore wind",
-      "url": "https://www.esgtoday.com/blackrocks-skyborn-renewables-secures-over-2-4-billion-for-major-german-offshore-windfarm/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-skyborn-renewables-secures-over-2-4-billion-for-major-german-offshore-windfarm",
-      "publishedAt": "2026-09-14T10:07:27",
-      "content": "BlackRock-backed Skyborn Renewables announced that it has reached financial close on the Gennaker offshore wind"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Jet Fuel in the Water",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/14092026/inside-climate-podcast-jet-fuel-pipeline-spill/",
-      "publishedAt": "2026-09-14T09:30:00",
-      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "DaVita Community Care Report 2025: Empowering Teammates Through Career Development and Education",
-      "description": "Our approach to career development explicitly prioritizes economic mobility, helping teammates and leaders advance their careers and increase their earning potential.",
-      "url": "https://csrwire.com/press-release/davita-community-care-report-2025-empowering-teammates-through-career-development-and/",
-      "publishedAt": "2026-09-14T09:10:00",
-      "content": "Our approach to career development explicitly prioritizes economic mobility, helping teammates and leaders advance their careers and increase their earning potential."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "When Words Stay Silent: How Sign Language Avatars Are Transforming Access to Medicine",
-      "description": "At first glance, medicine package inserts appear readable.",
-      "url": "https://csrwire.com/press-release/when-words-stay-silent-how-sign-language-avatars-transforming-access-medicine/",
-      "publishedAt": "2026-09-14T08:05:00",
-      "content": "At first glance, medicine package inserts appear readable."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Is Wildfire Risk Increasing in the Midwest?",
-      "description": "On the night of July 6, a storm moved over northern Minnesota near the Boundary Waters Canoe Area Wilderness.",
-      "url": "https://insideclimatenews.org/news/14092026/midwest-wildfire-risk/",
-      "publishedAt": "2026-09-14T09:00:00",
-      "content": "On the night of July 6, a storm moved over northern Minnesota near the Boundary Waters Canoe Area Wilderness."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "As Power Demand Rises, a Clean-Energy State Falls Back on Coal",
-      "description": "Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal.",
-      "url": "https://insideclimatenews.org/news/14092026/iowa-increases-coal-power-to-meet-electricity-demand/",
-      "publishedAt": "2026-09-14T08:55:00",
-      "content": "Before Iowa was the nation’s most wind-powered state, it generated nearly all of its electricity with coal."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -408,72 +463,6 @@
       "url": "https://triplepundit.com/2026/world-bank-group-independent-accountability-mechanism-overruled-non-compliance/",
       "publishedAt": "2026-09-11T23:33:07",
       "content": "The World Bank Group is in the midst of an accountability crisis of its own making."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "GSK Signs 500,000-Tonne Carbon Removal Deal with Varaha",
-      "description": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon",
-      "url": "https://www.esgtoday.com/gsk-signs-500000-tonne-carbon-removal-deal-with-varaha/?utm_source=rss&utm_medium=rss&utm_campaign=gsk-signs-500000-tonne-carbon-removal-deal-with-varaha",
-      "publishedAt": "2026-09-11T13:39:04",
-      "content": "Global biopharma company GSK announced that it has signed an eight-year agreement in with carbon"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "From Paper to Pixels: How Digitalization in Healthcare Can Benefit Rural Communities",
-      "description": "Many remote communities lack access to quality healthcare for various reasons, a major one being the reliance on paper medical records.",
-      "url": "https://csrwire.com/press-release/paper-pixels-how-digitalization-healthcare-can-benefit-rural-communities/",
-      "publishedAt": "2026-09-11T09:05:00",
-      "content": "Many remote communities lack access to quality healthcare for various reasons, a major one being the reliance on paper medical records."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Strong by Form Closes €5.8M To Make Wood as Strong as Steel and Concrete",
-      "description": "Strong by Form, a past participant of the Biomimicry Institute's Ray of Hope Accelerator, has just closed €5.",
-      "url": "https://csrwire.com/press-release/strong-form-closes-eu58m-make-wood-strong-steel-and-concrete/",
-      "publishedAt": "2026-09-11T07:00:00",
-      "content": "Strong by Form, a past participant of the Biomimicry Institute's Ray of Hope Accelerator, has just closed €5."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Entergy, Ampirical Invest $1.5M in LSU New Orleans Energy Lab",
-      "description": "LSU New Orleans students preparing for careers in engineering and the energy industry will gain access to enhanced technology, research opportunities and hands-on learning through a combined $1.5 m...",
-      "url": "https://csrwire.com/press-release/entergy-ampirical-invest-15m-lsu-new-orleans-energy-lab/",
-      "publishedAt": "2026-09-10T16:30:00",
-      "content": "LSU New Orleans students preparing for careers in engineering and the energy industry will gain access to enhanced technology, research opportunities and hands-on learning through a combined $1.5 m..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Climeworks Doubles CO2 Capture Performance at Iceland Carbon Removal Plant",
-      "description": "Zurich-based Carbon removal solutions provider Climeworks announced a series of performance improvements at its “Mammoth” direct",
-      "url": "https://www.esgtoday.com/climeworks-doubles-co2-capture-performance-at-iceland-carbon-removal-plant/?utm_source=rss&utm_medium=rss&utm_campaign=climeworks-doubles-co2-capture-performance-at-iceland-carbon-removal-plant",
-      "publishedAt": "2026-09-10T15:29:44",
-      "content": "Zurich-based Carbon removal solutions provider Climeworks announced a series of performance improvements at its “Mammoth” direct"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Industry Safety Organizations Recognize Georgia-Pacific for Excellence and Innovation",
-      "description": "Georgia-Pacific is committed to ensuring team members go home after their shift the same way they arrived at work.",
-      "url": "https://csrwire.com/press-release/industry-safety-organizations-recognize-georgia-pacific-excellence-and-innovation/",
-      "publishedAt": "2026-09-10T13:15:00",
-      "content": "Georgia-Pacific is committed to ensuring team members go home after their shift the same way they arrived at work."
     }
   ]
 }
