@@ -1,17 +1,39 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 46,
   "articles": [
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Salzgitter Signs Clean Energy Deal with Zelestra to Power Green Steel Production",
-      "description": "German steel manufacturer Salzgitter announced an agreement by its subsidiary Salzgitter Flachstahl, with Spanish renewable",
-      "url": "https://www.esgtoday.com/salzgitter-signs-clean-energy-deal-with-zelestra-to-power-green-steel-production/?utm_source=rss&utm_medium=rss&utm_campaign=salzgitter-signs-clean-energy-deal-with-zelestra-to-power-green-steel-production",
-      "publishedAt": "2026-09-16T06:55:45",
-      "content": "German steel manufacturer Salzgitter announced an agreement by its subsidiary Salzgitter Flachstahl, with Spanish renewable"
+      "title": "Climate Pledge Tops 700 Companies Committing to Net Zero by 2040",
+      "description": "The Climate Pledge revealed an acceleration in the addition of new signatories, with more than",
+      "url": "https://www.esgtoday.com/climate-pledge-tops-700-companies-committing-to-net-zero-by-2040/?utm_source=rss&utm_medium=rss&utm_campaign=climate-pledge-tops-700-companies-committing-to-net-zero-by-2040",
+      "publishedAt": "2026-09-18T09:38:53",
+      "content": "The Climate Pledge revealed an acceleration in the addition of new signatories, with more than"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Andy Burnham: UK must fully commit to reaching net zero by 2050",
+      "description": "Exclusive: PM, who is facing pressure over whether to approve North Sea oil and gasfields, makes strongest comments yet on issueBritish people understand the climate crisis threat. Today I’m empowe...",
+      "url": "https://www.theguardian.com/environment/2026/sep/17/andy-burnham-uk-must-fully-commit-to-reaching-net-zero-by-2050",
+      "publishedAt": "2026-09-17T12:00:48",
+      "content": "Exclusive: PM, who is facing pressure over whether to approve North Sea oil and gasfields, makes strongest comments yet on issueBritish people understand the climate crisis threat. Today I’m empowe..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More Sustainable Fashion Brand Offers This September 2026",
+      "description": "Feature image: Pangaia.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-09-16T22:00:45",
+      "content": "Feature image: Pangaia."
     },
     {
       "source": {
@@ -26,14 +48,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "More Sustainable Fashion Brand Offers This September 2026",
-      "description": "Feature image: Pangaia.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-09-13T22:00:45",
-      "content": "Feature image: Pangaia."
+      "author": "ESG Today",
+      "title": "LOIM Launches New U.S. and Japan Net Zero Equity Funds",
+      "description": "Global wealth and asset manager Lombard Odier Investment Managers (LOIM) announced the expansion of its",
+      "url": "https://www.esgtoday.com/loim-launches-new-u-s-and-japan-net-zero-equity-funds/?utm_source=rss&utm_medium=rss&utm_campaign=loim-launches-new-u-s-and-japan-net-zero-equity-funds",
+      "publishedAt": "2026-09-17T15:28:38",
+      "content": "Global wealth and asset manager Lombard Odier Investment Managers (LOIM) announced the expansion of its"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Hitachi Vantara Commits to Net Zero Across the Value Chain by 2040",
+      "description": "Hitachi Vantara, the data storage, infrastructure and hybrid cloud management subsidiary of Hitachi, announced a",
+      "url": "https://www.esgtoday.com/hitachi-vantara-commits-to-net-zero-across-the-value-chain-by-2040/?utm_source=rss&utm_medium=rss&utm_campaign=hitachi-vantara-commits-to-net-zero-across-the-value-chain-by-2040",
+      "publishedAt": "2026-09-17T14:32:31",
+      "content": "Hitachi Vantara, the data storage, infrastructure and hybrid cloud management subsidiary of Hitachi, announced a"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Google Signs Green Steel Deal with Stegra to Address Data Center Emissions",
+      "description": "Google announced an agreement with green iron and steel maker Stegra for the purchase of",
+      "url": "https://www.esgtoday.com/google-signs-green-steel-eac-purchase-deal-with-stegra-to-address-data-center-emissions/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-green-steel-eac-purchase-deal-with-stegra-to-address-data-center-emissions",
+      "publishedAt": "2026-09-17T13:59:05",
+      "content": "Google announced an agreement with green iron and steel maker Stegra for the purchase of"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "California Adopts New Limits to Rein in Dairy Manure Pollution and Its ‘Outsized’ Groundwater Impacts",
+      "description": "The California valley with the most dairy farms in the state will follow stricter water pollution requirements following years of advocacy and a marathon six-hour meeting this week. The State Water...",
+      "url": "https://insideclimatenews.org/news/18092026/california-dairy-manure-groundwater-regulation/",
+      "publishedAt": "2026-09-18T08:55:00",
+      "content": "The California valley with the most dairy farms in the state will follow stricter water pollution requirements following years of advocacy and a marathon six-hour meeting this week. The State Water..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nepal to use new flood study to claim millions from UN climate disaster fund",
+      "description": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlyrzve5pwzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T10:31:35",
+      "content": "A new study says climate change was a likely factor in the massive flood on the Nepal-Tibet border last month."
     },
     {
       "source": {
@@ -70,17 +136,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
-      "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods ...",
-      "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
-      "publishedAt": "2026-09-16T23:01:32",
-      "content": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods ..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -92,25 +147,80 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Sustainable Funds Outperform, Hit Record AUM in H1 2026: Morgan Stanley",
-      "description": "Sustainable investment funds outperformed their traditional fund peers in the first half of 2026, with",
-      "url": "https://www.esgtoday.com/sustainable-funds-outperform-hit-record-aum-in-h1-2026-morgan-stanley/?utm_source=rss&utm_medium=rss&utm_campaign=sustainable-funds-outperform-hit-record-aum-in-h1-2026-morgan-stanley",
-      "publishedAt": "2026-09-16T09:45:54",
-      "content": "Sustainable investment funds outperformed their traditional fund peers in the first half of 2026, with"
+      "author": "The Guardian",
+      "title": "Improved air quality linked to better mental development in toddlers, study finds",
+      "description": "Long-term research in New York shows efforts to reduce air pollution associated with higher cognitive test scoresImprovements in air pollution are leading to brighter, smarter toddlers, according t...",
+      "url": "https://www.theguardian.com/environment/2026/sep/18/improved-air-quality-pollution-mental-development-toddlers-new-york-study",
+      "publishedAt": "2026-09-18T05:00:10",
+      "content": "Long-term research in New York shows efforts to reduce air pollution associated with higher cognitive test scoresImprovements in air pollution are leading to brighter, smarter toddlers, according t..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Forcing a reckoning’: How Asia is preparing for a ‘supersized’ El Niño",
+      "description": "From Sri Lanka to South Korea, governments are preparing for droughts, wildfires, typhoons and floods – with climate plans facing their biggest challenge to dateAsian governments are rushing prepar...",
+      "url": "https://www.theguardian.com/environment/2026/sep/18/how-asia-is-preparing-for-supersized-el-nino-global-warming",
+      "publishedAt": "2026-09-17T23:57:53",
+      "content": "From Sri Lanka to South Korea, governments are preparing for droughts, wildfires, typhoons and floods – with climate plans facing their biggest challenge to dateAsian governments are rushing prepar..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Spot CKD: A Moment That Shouldn’t Be Missed",
+      "description": "In healthcare, some of the most important moments are the quiet ones—the ones where a condition could be spotted early but isn’t.",
+      "url": "https://csrwire.com/press-release/spot-ckd-moment-shouldnt-be-missed/",
+      "publishedAt": "2026-09-17T13:05:00",
+      "content": "In healthcare, some of the most important moments are the quiet ones—the ones where a condition could be spotted early but isn’t."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Putting People First: Strengthening Communities Through Purpose Driven Action",
+      "description": "Across our business, volunteerism is one of the ways our teams turn our values into action and drive meaningful progress through employee engagement and community involvement.",
+      "url": "https://csrwire.com/press-release/putting-people-first-strengthening-communities-through-purpose-driven-action/",
+      "publishedAt": "2026-09-17T13:05:00",
+      "content": "Across our business, volunteerism is one of the ways our teams turn our values into action and drive meaningful progress through employee engagement and community involvement."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "ICE Invests in Industrial and Environmental Markets Certification Platform Isometric",
-      "description": "Industrial certification provider Isometric announced an investment by financial technology and data services provider and",
-      "url": "https://www.esgtoday.com/ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric/?utm_source=rss&utm_medium=rss&utm_campaign=ice-invests-in-industrial-and-environmental-markets-certification-platform-isometric",
-      "publishedAt": "2026-09-15T14:51:41",
-      "content": "Industrial certification provider Isometric announced an investment by financial technology and data services provider and"
+      "title": "Kanin Raises $100 Million to Turn Industrial Waste Heat into Carbon-Free Power",
+      "description": "Industrial energy developer Kanin Energy announced that it has raised up to $100 million in",
+      "url": "https://www.esgtoday.com/kanin-raises-100-million-to-turn-industrial-waste-heat-into-carbon-free-power/?utm_source=rss&utm_medium=rss&utm_campaign=kanin-raises-100-million-to-turn-industrial-waste-heat-into-carbon-free-power",
+      "publishedAt": "2026-09-17T11:57:56",
+      "content": "Industrial energy developer Kanin Energy announced that it has raised up to $100 million in"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "SEC Proposes Eliminating Key Rule Enabling Shareholders to Bring Proposals for Proxy Voting",
+      "description": "The U.S. Securities and Exchange Commission announced on Wednesday that it has proposed rescinding Rule",
+      "url": "https://www.esgtoday.com/sec-proposes-eliminating-key-rule-enabling-shareholders-to-bring-proposals-for-proxy-voting/?utm_source=rss&utm_medium=rss&utm_campaign=sec-proposes-eliminating-key-rule-enabling-shareholders-to-bring-proposals-for-proxy-voting",
+      "publishedAt": "2026-09-17T11:11:14",
+      "content": "The U.S. Securities and Exchange Commission announced on Wednesday that it has proposed rescinding Rule"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Fifty billion trees by 2030: how Ethiopia is recruiting citizens across the country to plant, plant, plant",
+      "description": "After losing much of its forests in recent decades, the country’s people have led the way in planting saplings across the country as part of the government’s Green Legacy InitiativeWhen Halima Kedi...",
+      "url": "https://www.theguardian.com/global-development/2026/sep/17/i-see-them-like-my-own-children-reforesting-ethiopia-with-50bn-trees-one-step-at-a-time",
+      "publishedAt": "2026-09-17T11:00:47",
+      "content": "After losing much of its forests in recent decades, the country’s people have led the way in planting saplings across the country as part of the government’s Green Legacy InitiativeWhen Halima Kedi..."
     },
     {
       "source": {
@@ -125,14 +235,113 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Racing to Contain Invasive Green Crabs in Puget Sound",
+      "description": "Tribes and scientists are mounting an urgent trapping effort to keep European green crabs from devastating a corner of Puget Sound.",
+      "url": "https://www.nytimes.com/2026/09/11/climate/invasive-green-crabs.html",
+      "publishedAt": "2026-09-11T18:10:49",
+      "content": "Tribes and scientists are mounting an urgent trapping effort to keep European green crabs from devastating a corner of Puget Sound."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
-      "description": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for th...",
-      "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
-      "publishedAt": "2026-09-16T04:00:12",
-      "content": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for th..."
+      "title": "The world’s rivers are at breaking point. Can we save them before it is too late?",
+      "description": "In this week’s newsletter: As the Guardian launches a year-long project, Our Rivers, we take stock of the issues facing waterways around the worldDon’t get Down to Earth delivered to your inbox? Si...",
+      "url": "https://www.theguardian.com/environment/2026/sep/17/down-to-earth-our-rivers-project",
+      "publishedAt": "2026-09-18T06:00:12",
+      "content": "In this week’s newsletter: As the Guardian launches a year-long project, Our Rivers, we take stock of the issues facing waterways around the worldDon’t get Down to Earth delivered to your inbox? Si..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "MPs urge ministers to break off Thames Water talks with US hedge funds",
+      "description": "Efra committee calls for emergency legislation enabling government to take public control of the company Andy Burnham is under further pressure to take control of ailing Thames Water from a cross-p...",
+      "url": "https://www.theguardian.com/environment/2026/sep/18/mps-urge-ministers-thames-water-talks-hedge-funds-special-administration-regime",
+      "publishedAt": "2026-09-18T05:00:09",
+      "content": "Efra committee calls for emergency legislation enabling government to take public control of the company Andy Burnham is under further pressure to take control of ailing Thames Water from a cross-p..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Dinner time for the buzzard family is not a dignified affair | Kate Blincoe",
+      "description": "Caistor St Edmund, Norfolk: We have three breeding pairs on the farm, and one in particular has been a source of fascination and amusementI’m out on the farm most days, but I miss so much. It took ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/18/country-diary-dinner-time-for-the-buzzard-family-is-not-a-dignified-affair",
+      "publishedAt": "2026-09-18T04:30:07",
+      "content": "Caistor St Edmund, Norfolk: We have three breeding pairs on the farm, and one in particular has been a source of fascination and amusementI’m out on the farm most days, but I miss so much. It took ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "See tiny organisms on show in microscopic video competition",
+      "description": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+      "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-18T01:41:14",
+      "content": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "New wild cat species discovered - with only one known living member",
+      "description": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zgv9rr4ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T23:15:55",
+      "content": "A spotted wildcat long mistaken for relatives has been identified as a new species in Bolivia."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Rising Seas Are Gobbling Up Beaches Around the World. A.I. Might Restore Them.",
+      "description": "An experiment with roots at M.I.T. used A.I. and satellite images to grow a coastline in the Maldives. More projects are planned for Boston and Miami.",
+      "url": "https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html",
+      "publishedAt": "2026-09-17T17:07:12",
+      "content": "An experiment with roots at M.I.T. used A.I. and satellite images to grow a coastline in the Maldives. More projects are planned for Boston and Miami."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Repeat offender fined for searching for gold in protected river",
+      "description": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales.",
+      "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T16:14:40",
+      "content": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Natural Capital in Action: The Ray Expands Southeast Pollinator Habitat Network",
+      "description": "The Ray and Cox Enterprises have joined forces to advance native ecological corridors across the Southeast, successfully establishing five new pollinator zones at Cox locations throughout Georgia a...",
+      "url": "https://csrwire.com/press-release/natural-capital-action-ray-expands-southeast-pollinator-habitat-network/",
+      "publishedAt": "2026-09-17T09:40:00",
+      "content": "The Ray and Cox Enterprises have joined forces to advance native ecological corridors across the Southeast, successfully establishing five new pollinator zones at Cox locations throughout Georgia a..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Onsite 3D Printing Cuts Costs and Downtime at Georgia-Pacific Facilities",
+      "description": "Georgia‑Pacific’s plant‑floor 3D printing is an example of teams replacing slower-to-procure, more expensive methods with better ones. In other words, creative destruction.",
+      "url": "https://csrwire.com/press-release/onsite-3d-printing-cuts-costs-and-downtime-georgia-pacific-facilities/",
+      "publishedAt": "2026-09-17T09:05:00",
+      "content": "Georgia‑Pacific’s plant‑floor 3D printing is an example of teams replacing slower-to-procure, more expensive methods with better ones. In other words, creative destruction."
     },
     {
       "source": {
@@ -147,14 +356,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Access-to-nature crisis ‘on par with that of Victorian Britain’s filthy air’",
-      "description": "Research finds many in England lack proximity to green and blue spaces as Labour urged to speed up manifesto pledgeNearly half of all parliamentary constituencies in England have low access to natu...",
-      "url": "https://www.theguardian.com/environment/2026/sep/17/nature-access-inequalities-wildlife-trusts-green-blue-space-england",
-      "publishedAt": "2026-09-17T06:00:41",
-      "content": "Research finds many in England lack proximity to green and blue spaces as Labour urged to speed up manifesto pledgeNearly half of all parliamentary constituencies in England have low access to natu..."
+      "author": "CSRWire",
+      "title": "Mary Kay China Redefines Beauty as a Shared Experience With New Global Brand Platform – Beauty Is More Beautiful Shared™",
+      "description": "As beauty continues to connect and inspire women across generations, Mary Kay China announces Beauty Is More Beautiful Shared™, bringing the iconic beauty and entrepreneurship company's largest-eve...",
+      "url": "https://csrwire.com/press-release/mary-kay-china-redefines-beauty-shared-experience-new-global-brand-platform-beauty-more/",
+      "publishedAt": "2026-09-17T08:00:00",
+      "content": "As beauty continues to connect and inspire women across generations, Mary Kay China announces Beauty Is More Beautiful Shared™, bringing the iconic beauty and entrepreneurship company's largest-eve..."
     },
     {
       "source": {
@@ -177,160 +386,6 @@
       "url": "https://www.esgtoday.com/google-signs-record-carbon-and-methane-removal-deal-with-terradot/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-record-carbon-and-methane-removal-deal-with-terradot",
       "publishedAt": "2026-09-16T14:21:52",
       "content": "Google and enhanced rock weathering (ERW) company Terradot announced Wednesday a new agreement pairing methane"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "FedEx Secures More than 20 Million Gallons of SAF for U.S. Operations",
-      "description": "Global delivery giant FedEx announced a series of new agreements anticipated to secure more than",
-      "url": "https://www.esgtoday.com/fedex-secures-more-than-20-million-gallons-of-saf-for-u-s-operations/?utm_source=rss&utm_medium=rss&utm_campaign=fedex-secures-more-than-20-million-gallons-of-saf-for-u-s-operations",
-      "publishedAt": "2026-09-16T12:49:11",
-      "content": "Global delivery giant FedEx announced a series of new agreements anticipated to secure more than"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Accenture to Pay $25 Million to Settle Latest U.S. DOJ Anti-DEI Case",
-      "description": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Accenture,",
-      "url": "https://www.esgtoday.com/accenture-to-pay-25-million-to-settle-latest-u-s-doj-anti-dei-case/?utm_source=rss&utm_medium=rss&utm_campaign=accenture-to-pay-25-million-to-settle-latest-u-s-doj-anti-dei-case",
-      "publishedAt": "2026-09-16T11:48:07",
-      "content": "The U.S. Department of Justice (DOJ) announced that it has reached a settlement with Accenture,"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Planted Raises $31.8 Million to Build Solar Projects with Robots",
-      "description": "Autonomous power deployment solutions provider Planted Solar announced that it has raised $31.8 million in",
-      "url": "https://www.esgtoday.com/planted-raises-31-8-million-to-build-solar-plants-with-robots/?utm_source=rss&utm_medium=rss&utm_campaign=planted-raises-31-8-million-to-build-solar-plants-with-robots",
-      "publishedAt": "2026-09-16T10:41:47",
-      "content": "Autonomous power deployment solutions provider Planted Solar announced that it has raised $31.8 million in"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Comcast Announces 2026 Impact Report",
-      "description": "Our 2026 Impact Report highlights how we’re investing in our country, communities, employees, and environment through partnerships, programs, and innovations that create meaningful, long-term impact.",
-      "url": "https://csrwire.com/press-release/comcast-announces-2026-impact-report/",
-      "publishedAt": "2026-09-15T11:00:00",
-      "content": "Our 2026 Impact Report highlights how we’re investing in our country, communities, employees, and environment through partnerships, programs, and innovations that create meaningful, long-term impact."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Racing to Contain Invasive Green Crabs in Puget Sound",
-      "description": "Tribes and scientists are mounting an urgent trapping effort to keep European green crabs from devastating a corner of Puget Sound.",
-      "url": "https://www.nytimes.com/2026/09/11/climate/invasive-green-crabs.html",
-      "publishedAt": "2026-09-11T18:10:49",
-      "content": "Tribes and scientists are mounting an urgent trapping effort to keep European green crabs from devastating a corner of Puget Sound."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The farmer who turned to singing after bovine TB silenced his fields",
-      "description": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
-      "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-17T10:01:43",
-      "content": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Whales Have Rebounded in the Southern Ocean. Scientists Worry Commercial Fishing Could Threaten Their Comeback.",
-      "description": "For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit.",
-      "url": "https://insideclimatenews.org/news/17092026/antarctica-krill-fishing-threatens-whales/",
-      "publishedAt": "2026-09-17T09:00:00",
-      "content": "For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘It’s beautiful when it’s clean’: the Argentine neighbourhood saving a contaminated river",
-      "description": "Sewage, dog carcasses and industrial waste clog Argentina’s second most-polluted river.",
-      "url": "https://www.theguardian.com/environment/2026/sep/17/its-beautiful-when-its-clean-the-argentine-neighbourhood-saving-a-contaminated-river",
-      "publishedAt": "2026-09-17T08:00:44",
-      "content": "Sewage, dog carcasses and industrial waste clog Argentina’s second most-polluted river."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Facing the flax – this city was once built on the stuff | Mary Montague",
-      "description": "Botanic Meadow, Belfast: I visit my local community garden, and the woman who has returned to growing this graceful crop that eventually becomes linenIn my hands is a brownish-grey hank of flax yar...",
-      "url": "https://www.theguardian.com/environment/2026/sep/17/country-diary-facing-the-flax-this-city-was-once-built-on-the-stuff",
-      "publishedAt": "2026-09-17T04:30:38",
-      "content": "Botanic Meadow, Belfast: I visit my local community garden, and the woman who has returned to growing this graceful crop that eventually becomes linenIn my hands is a brownish-grey hank of flax yar..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "English Heritage trains new generation of scythers to maintain meadows and craft",
-      "description": "Initiative aims to keep alive age-old skill, and at Muchelney Abbey in Somerset improve habitat for rare shrill carder beeIt sounds like something out of a Thomas Hardy novel: a merry band of men a...",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/17/english-heritage-trains-new-generation-of-scythers-to-maintain-meadows-and-craft",
-      "publishedAt": "2026-09-17T04:00:39",
-      "content": "Initiative aims to keep alive age-old skill, and at Muchelney Abbey in Somerset improve habitat for rare shrill carder beeIt sounds like something out of a Thomas Hardy novel: a merry band of men a..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Court Rules in Favor of Feds and Denver Water on Dam Expansion",
-      "description": "The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water utility’s challenge to a lower court opinion halt...",
-      "url": "https://insideclimatenews.org/news/16092026/court-allows-colorado-dam-expansion-to-continue/",
-      "publishedAt": "2026-09-16T21:53:34",
-      "content": "The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water utility’s challenge to a lower court opinion halt..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Rising Seas Are Gobbling Up Beaches Around the World. A.I. Might Restore Them.",
-      "description": "An experiment with roots at M.I.T. used A.I. and satellite images to grow a coastline in the Maldives. More projects are planned for Boston and Miami.",
-      "url": "https://www.nytimes.com/2026/09/16/climate/maldives-beach-restoration-ai.html",
-      "publishedAt": "2026-09-16T19:52:48",
-      "content": "An experiment with roots at M.I.T. used A.I. and satellite images to grow a coastline in the Maldives. More projects are planned for Boston and Miami."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Texas Oil and Gas Regulator Doubles Down and Defies State Legislature",
-      "description": "AUSTIN, Texas—A chair with Railroad Commissioner Wayne Christian’s name on it sat empty Tuesday in the hearing room of the Texas House Committee on Energy Resources. Committee Chairman Drew Darby h...",
-      "url": "https://insideclimatenews.org/news/16092026/texas-oil-regulator-wayne-christian-defies-state-legislature/",
-      "publishedAt": "2026-09-16T16:13:50",
-      "content": "AUSTIN, Texas—A chair with Railroad Commissioner Wayne Christian’s name on it sat empty Tuesday in the hearing room of the Texas House Committee on Energy Resources. Committee Chairman Drew Darby h..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Part-human part-mouse brain developed in science breakthrough",
-      "description": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
-      "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-16T15:53:27",
-      "content": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells."
     },
     {
       "source": {
@@ -389,36 +444,47 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "What’s Trending Founder Shira Lazar as a Keynote Speaker for Its 2026 Future of Communications Conference",
-      "description": "Ragan Communications has announced digital media entrepreneur and What’s Trending founder Shira Lazar as a keynote speaker for its 2026 Future of Communications Conference, taking place Nov. 11-13 ...",
-      "url": "https://csrwire.com/press-release/whats-trending-founder-shira-lazar-keynote-speaker-its-2026-future-communications-conference/",
-      "publishedAt": "2026-09-15T11:00:00",
-      "content": "Ragan Communications has announced digital media entrepreneur and What’s Trending founder Shira Lazar as a keynote speaker for its 2026 Future of Communications Conference, taking place Nov. 11-13 ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘We’re near a breaking point:’ firefighters say US government is failing them amid intense wildfire season",
-      "description": "US grapples with federal firefighter shortage as crews say they’re spread thin and lack resources during unrelenting year of fireFirefighters battling enormous wildfires in the United States say th...",
-      "url": "https://www.theguardian.com/us-news/2026/sep/16/wildfires-government-firefighter-shortage",
-      "publishedAt": "2026-09-16T10:00:16",
-      "content": "US grapples with federal firefighter shortage as crews say they’re spread thin and lack resources during unrelenting year of fireFirefighters battling enormous wildfires in the United States say th..."
+      "author": "BBC",
+      "title": "The farmer who turned to singing after bovine TB silenced his fields",
+      "description": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
+      "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-17T10:01:43",
+      "content": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "In Tampa, Community Gardeners Say They Need More Funding, Not More Information, to Feed Neighbors in Need",
-      "description": "In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years.",
-      "url": "https://insideclimatenews.org/news/16092026/tampa-community-gardens-need-funding-not-more-info/",
-      "publishedAt": "2026-09-16T09:00:00",
-      "content": "In the East Tampa neighborhood where Dee Morales bought her house, residents have been asking for a supermarket for 10 years."
+      "title": "Whales Have Rebounded in the Southern Ocean. Scientists Worry Commercial Fishing Could Threaten Their Comeback.",
+      "description": "For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit.",
+      "url": "https://insideclimatenews.org/news/17092026/antarctica-krill-fishing-threatens-whales/",
+      "publishedAt": "2026-09-17T09:00:00",
+      "content": "For the second year in a row, Antarctica’s industrial krill fishing fleet halted operations ahead of schedule after reaching its seasonal catch limit."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Court Rules in Favor of Feds and Denver Water on Dam Expansion",
+      "description": "The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water utility’s challenge to a lower court opinion halt...",
+      "url": "https://insideclimatenews.org/news/16092026/court-allows-colorado-dam-expansion-to-continue/",
+      "publishedAt": "2026-09-16T21:53:34",
+      "content": "The unfinished expansion of Gross Reservoir near Denver can proceed after three judges ruled Tuesday in favor of the federal government and a water utility’s challenge to a lower court opinion halt..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Part-human part-mouse brain developed in science breakthrough",
+      "description": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+      "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T15:53:27",
+      "content": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells."
     },
     {
       "source": {
@@ -430,50 +496,6 @@
       "url": "https://goodonyou.eco/where-to-buy-second-hand-clothing/",
       "publishedAt": "2026-09-16T00:00:13",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "FEMA Could Still Lose More Jobs Despite Court Ruling",
-      "description": "A plan to halve the agency’s sprawling work force was illegal, a judge ruled. But the court is not blocking other FEMA cuts.",
-      "url": "https://www.nytimes.com/2026/09/15/climate/fema-cuts-court-order.html",
-      "publishedAt": "2026-09-15T14:25:18",
-      "content": "A plan to halve the agency’s sprawling work force was illegal, a judge ruled. But the court is not blocking other FEMA cuts."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Will El Niño bring winter snow to the UK?",
-      "description": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.",
-      "url": "https://www.bbc.co.uk/news/videos/cred7xze25ndo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T10:43:14",
-      "content": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "UK could 'unlock' 100 more oil and gas projects, say North Sea bosses",
-      "description": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims.",
-      "url": "https://www.bbc.co.uk/news/articles/c65ym93p73xmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T06:45:12",
-      "content": "The UK could supply half of its oil and gas needs without imports if the government showed more support for the sector, an OEUK report claims."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Giant jellyfish with '40ft tentacles' captured on camera",
-      "description": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgynz9qz00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-15T05:18:42",
-      "content": "Iestyn Morgan has set out to make Welsh aquatic life \"more accessible\" for people to see."
     },
     {
       "source": {
