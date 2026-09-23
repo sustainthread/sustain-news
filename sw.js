@@ -2,7 +2,7 @@
 // Strategy:
 //   - news.json and page navigations  -> network-first (fresh news, offline fallback)
 //   - static assets and CDN libraries -> cache-first (fast, offline-capable)
-const CACHE_VERSION = 'v5';
+const CACHE_VERSION = 'v1790166291';
 const STATIC_CACHE = `sustain-news-static-${CACHE_VERSION}`;
 const DYNAMIC_CACHE = `sustain-news-dynamic-${CACHE_VERSION}`;
 
