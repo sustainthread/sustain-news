@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     <!-- Favicons -->
     <link rel="icon" type="image/png" href="./favicon-96x96.png" sizes="96x96" />
-    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
     <link rel="shortcut icon" href="./favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -50,17 +49,55 @@
     <meta property="og:title" content="Sustainability News Hub">
     <meta property="og:description" content="Daily sustainability, ESG and circular economy news, curated from trusted industry sources. Free, installable, no sign-up.">
     <meta property="og:url" content="https://sustainthread.github.io/sustain-news/">
-    <meta property="og:image" content="https://sustainthread.github.io/sustain-news/web-app-manifest-512x512.png">
-    <meta property="og:image:width" content="512">
-    <meta property="og:image:height" content="512">
-    <meta property="og:image:alt" content="Sustainability News Hub icon">
+    <meta property="og:image" content="https://sustainthread.github.io/sustain-news/social-card.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="627">
+    <meta property="og:image:alt" content="Sustainability News Hub: daily ESG, circular economy and supply chain news">
     <meta property="og:locale" content="en_GB">
+
+    <!-- Structured data -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://sustainthread.github.io/sustain-news/#website",
+          "url": "https://sustainthread.github.io/sustain-news/",
+          "name": "Sustainability News Hub",
+          "description": "Daily sustainability, ESG and circular economy news, curated from trusted industry sources.",
+          "inLanguage": "en-GB",
+          "publisher": { "@id": "https://sustainthread.github.io/sustain-news/#person" },
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://sustainthread.github.io/sustain-news/?q={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "WebApplication",
+          "name": "Sustainability News Hub",
+          "url": "https://sustainthread.github.io/sustain-news/",
+          "applicationCategory": "NewsApplication",
+          "operatingSystem": "Any",
+          "browserRequirements": "Requires JavaScript",
+          "offers": { "@type": "Offer", "price": "0", "priceCurrency": "EUR" }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://sustainthread.github.io/sustain-news/#person",
+          "name": "Vishal Londhe",
+          "url": "https://sustainthread.github.io/Vishal-londhe"
+        }
+      ]
+    }
+    </script>
 
     <!-- Twitter / X -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="Sustainability News Hub">
     <meta name="twitter:description" content="Daily sustainability, ESG and circular economy news, curated from trusted industry sources. Free, installable, no sign-up.">
-    <meta name="twitter:image" content="https://sustainthread.github.io/sustain-news/web-app-manifest-512x512.png">
+    <meta name="twitter:image" content="https://sustainthread.github.io/sustain-news/social-card.png">
 
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"/>
