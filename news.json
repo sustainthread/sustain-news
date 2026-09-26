@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 39,
+  "totalResults": 51,
   "articles": [
     {
       "source": {
@@ -29,6 +29,17 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
+      "title": "After a Deadly Flood, What Does Climate Justice for Nepal Look Like?",
+      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tanuja Pandey, a climate justice activist in Nepal. In the weeks foll...",
+      "url": "https://insideclimatenews.org/news/26092026/nepal-flood-climate-justice/",
+      "publishedAt": "2026-09-26T08:45:00",
+      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tanuja Pandey, a climate justice activist in Nepal. In the weeks foll..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
       "title": "Why Germany Is Building an Ark for U.S. Climate Data",
       "description": "This story was originally published by Yale Environment 360.",
       "url": "https://insideclimatenews.org/news/25092026/germany-computing-center-hosts-us-climate-data/",
@@ -48,14 +59,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "What Can Climate Change and Covid Teach Us About A.I. Doom?",
-      "description": "From climate to Covid to A.I., we face a terrifying feeling of exponential growth spinning out of our control. Are we right?",
-      "url": "https://www.nytimes.com/2026/09/25/magazine/why-we-cant-stop-predicting-the-apocalypse.html",
-      "publishedAt": "2026-09-25T09:03:12",
-      "content": "From climate to Covid to A.I., we face a terrifying feeling of exponential growth spinning out of our control. Are we right?"
+      "author": "The Guardian",
+      "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
+      "description": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissionsGet our breaking news email, free app or daily news podcas...",
+      "url": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
+      "publishedAt": "2026-09-25T15:00:11",
+      "content": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissionsGet our breaking news email, free app or daily news podcas..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Beyond Greenwashing: Navigating the EU Directive on Green Claims",
+      "description": "Guest post by: Sophie Amodio, Associate Director Team Leader for Communications & Engagement at South",
+      "url": "https://www.esgtoday.com/beyond-greenwashing-navigating-the-eu-directive-on-green-claims/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-greenwashing-navigating-the-eu-directive-on-green-claims",
+      "publishedAt": "2026-09-24T09:08:36",
+      "content": "Guest post by: Sophie Amodio, Associate Director Team Leader for Communications & Engagement at South"
     },
     {
       "source": {
@@ -81,17 +103,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Beyond Greenwashing: Navigating the EU Directive on Green Claims",
-      "description": "Guest post by: Sophie Amodio, Associate Director Team Leader for Communications & Engagement at South",
-      "url": "https://www.esgtoday.com/beyond-greenwashing-navigating-the-eu-directive-on-green-claims/?utm_source=rss&utm_medium=rss&utm_campaign=beyond-greenwashing-navigating-the-eu-directive-on-green-claims",
-      "publishedAt": "2026-09-24T09:08:36",
-      "content": "Guest post by: Sophie Amodio, Associate Director Team Leader for Communications & Engagement at South"
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -114,6 +125,39 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "What is El Niño, what causes it and can we reduce the risks?",
+      "description": "This year’s ‘godzilla’ climate phenomenon has already broken temperature records.",
+      "url": "https://www.theguardian.com/environment/2026/sep/26/what-is-el-nino-causes-can-we-reduce-risks",
+      "publishedAt": "2026-09-26T10:00:32",
+      "content": "This year’s ‘godzilla’ climate phenomenon has already broken temperature records."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cooler roofs will prevail: colours and coatings to help beat the heat",
+      "description": "Even before adding solar panels, your roof can help you keep cool and lower your energy billsChange by degrees offers life hacks and sustainable living tips each Saturday to help reduce your househ...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/26/change-by-degrees-el-nino-australia-reflective-roofs-heat-energy-costs",
+      "publishedAt": "2026-09-26T00:00:20",
+      "content": "Even before adding solar panels, your roof can help you keep cool and lower your energy billsChange by degrees offers life hacks and sustainable living tips each Saturday to help reduce your househ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T22:12:48",
+      "content": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -122,6 +166,127 @@
       "url": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
       "publishedAt": "2026-09-22T16:33:29",
       "content": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The Ultimate Guide to More Sustainable Socks",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-socks/",
+      "publishedAt": "2026-09-21T00:00:31",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "California Needs Water. El Niño Might Bring Too Much.",
+      "description": "The drought-stricken state has improved its ability to collect and store rainwater. But many gallons may still rush into the Pacific.",
+      "url": "https://www.nytimes.com/2026/09/26/climate/el-nino-california-water-drought.html",
+      "publishedAt": "2026-09-26T09:01:46",
+      "content": "The drought-stricken state has improved its ability to collect and store rainwater. But many gallons may still rush into the Pacific."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New Colorado Neighborhood Could Offer Glimpse into the Future of Home Energy Use",
+      "description": "KEN CARYL, Colo.",
+      "url": "https://insideclimatenews.org/news/26092026/colorado-neighborhood-shows-geothermal-potential-future/",
+      "publishedAt": "2026-09-26T09:00:00",
+      "content": "KEN CARYL, Colo."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "‘Crown Jewel’ of Everglades Restoration Is Too Small, Report Says",
+      "description": "A sprawling reservoir under construction south of Lake Okeechobee that Gov.",
+      "url": "https://insideclimatenews.org/news/26092026/everglades-restoration-reservoir-too-small/",
+      "publishedAt": "2026-09-26T08:55:00",
+      "content": "A sprawling reservoir under construction south of Lake Okeechobee that Gov."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Specter of ‘Forever Chemicals’ Looms Over Pennsylvania’s Rural Communities",
+      "description": "When Nicole Williams moved into her house in Pennsylvania’s North Centre Township in 2011, it was a homecoming.",
+      "url": "https://insideclimatenews.org/news/26092026/pfas-contaminated-drinking-water-in-pennsylvania-rural-communities/",
+      "publishedAt": "2026-09-26T08:50:00",
+      "content": "When Nicole Williams moved into her house in Pennsylvania’s North Centre Township in 2011, it was a homecoming."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-26T07:21:30",
+      "content": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: I’m virtually living in the woods now. Wildlife is everywhere | Kate Bradbury",
+      "description": "Lewes, East Sussex: Owls, bats, badgers and countless birds are my new neighbours, but I’ve been particularly taken by a mystery tree – and its resident treecreeperI have made the woods my home, mo...",
+      "url": "https://www.theguardian.com/environment/2026/sep/26/country-diary-im-virtually-living-in-the-woods-now-wildlife-is-everywhere",
+      "publishedAt": "2026-09-26T04:30:25",
+      "content": "Lewes, East Sussex: Owls, bats, badgers and countless birds are my new neighbours, but I’ve been particularly taken by a mystery tree – and its resident treecreeperI have made the woods my home, mo..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+      "description": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
+      "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-25T11:06:38",
+      "content": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘We don’t have time for more promises’: the Croatian town that took on an illegal waste dump",
+      "description": "After years of illegal mass flytipping in Gospić, fed-up residents decided to take matters into their own hands“Gospić is our home,” Željka Šikić shouted to a crowd of 40,000 people outside the Cro...",
+      "url": "https://www.theguardian.com/environment/2026/sep/25/toxic-waste-dumped-croatian-town-gospic",
+      "publishedAt": "2026-09-25T11:00:48",
+      "content": "After years of illegal mass flytipping in Gospić, fed-up residents decided to take matters into their own hands“Gospić is our home,” Željka Šikić shouted to a crowd of 40,000 people outside the Cro..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Southwire, Georgia Power and The Ray Unveil Native Habitat Initiative Along Energy Rights-of-Way in Carrollton, Ga",
+      "description": "Southwire Company, LLC, Georgia Power, and nonprofit infrastructure innovator The Ray have joined forces on an innovative land management initiative in Carroll County, transforming a traditional en...",
+      "url": "https://csrwire.com/press-release/southwire-georgia-power-and-ray-unveil-native-habitat-initiative-along-energy-rights-way/",
+      "publishedAt": "2026-09-25T09:40:00",
+      "content": "Southwire Company, LLC, Georgia Power, and nonprofit infrastructure innovator The Ray have joined forces on an innovative land management initiative in Carroll County, transforming a traditional en..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Covia Donates Clark’s Falls Property to Village of Utica, Opening Door to Future Public Park",
+      "description": "A landscape that has been largely out of public reach for generations is poised to become one of Utica’s defining destinations.",
+      "url": "https://csrwire.com/press-release/covia-donates-clarks-falls-property-village-utica-opening-door-future-public-park/",
+      "publishedAt": "2026-09-25T09:15:00",
+      "content": "A landscape that has been largely out of public reach for generations is poised to become one of Utica’s defining destinations."
     },
     {
       "source": {
@@ -136,6 +301,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "At UN Event, IWBI President and CEO Calls for Health-First Schools",
+      "description": "Building on the Global Commission on Healthy Indoor Air’s landmark launch of the Global Framework for Action, Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI) a...",
+      "url": "https://csrwire.com/press-release/un-event-iwbi-president-and-ceo-calls-health-first-schools/",
+      "publishedAt": "2026-09-25T09:00:00",
+      "content": "Building on the Global Commission on Healthy Indoor Air’s landmark launch of the Global Framework for Action, Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI) a..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -147,14 +323,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Would you bet on the future of our planet?",
-      "description": "Prediction markets are focusing on extreme weather and the climate crisis.",
-      "url": "https://www.theguardian.com/environment/2026/sep/24/down-to-earth-can-you-bet-on-the-future-of-the-climate",
-      "publishedAt": "2026-09-25T06:00:43",
-      "content": "Prediction markets are focusing on extreme weather and the climate crisis."
+      "author": "CSRWire",
+      "title": "Innovative Kidney Care in Kenya: Bena Care’s Journey of Hope, Resilience, and Partnerships",
+      "description": "Bena Care builds a network of healthcare workers, primarily made up of nurses, physiotherapists and caregivers to deliver affordable home-nursing services and in-home therapy for chronically ill pa...",
+      "url": "https://csrwire.com/press-release/innovative-kidney-care-kenya-bena-cares-journey-hope-resilience-and-partnerships/",
+      "publishedAt": "2026-09-25T08:05:00",
+      "content": "Bena Care builds a network of healthcare workers, primarily made up of nurses, physiotherapists and caregivers to deliver affordable home-nursing services and in-home therapy for chronically ill pa..."
     },
     {
       "source": {
@@ -191,14 +367,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "The Ultimate Guide to More Sustainable Socks",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-socks/",
-      "publishedAt": "2026-09-21T00:00:31",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "Connectivity: The Backbone of Community Resilience During Extreme Weather Events",
+      "description": "As a provider of advanced connectivity infrastructure, Nokia operates at the intersection of society’s most essential services — from power to transportation, healthcare to emergency response, and ...",
+      "url": "https://csrwire.com/press-release/connectivity-backbone-community-resilience-during-extreme-weather-events/",
+      "publishedAt": "2026-09-24T11:25:00",
+      "content": "As a provider of advanced connectivity infrastructure, Nokia operates at the intersection of society’s most essential services — from power to transportation, healthcare to emergency response, and ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH Thailand and Farm Chokchai Unveil Field-To-Feed Precision Farming Showcase for Thailand’s Corn and Livestock Sectors at New Holland Day 2026",
+      "description": "CNH Thailand and Farm Chokchai, hosted New Holland Day 2026, with live field demonstrations for some of the most advanced field-to-feed precision farming products in the market.",
+      "url": "https://csrwire.com/press-release/cnh-thailand-and-farm-chokchai-unveil-field-feed-precision-farming-showcase-thailands-corn-and/",
+      "publishedAt": "2026-09-24T11:00:00",
+      "content": "CNH Thailand and Farm Chokchai, hosted New Holland Day 2026, with live field demonstrations for some of the most advanced field-to-feed precision farming products in the market."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "T-Mobile 2025 Corporate Responsibility Report: Affordable Connectivity",
+      "description": "While connectivity is increasingly embedded in day-to-day life, financial barriers to access remain.",
+      "url": "https://csrwire.com/press-release/t-mobile-2025-corporate-responsibility-report-affordable-connectivity/",
+      "publishedAt": "2026-09-24T09:15:00",
+      "content": "While connectivity is increasingly embedded in day-to-day life, financial barriers to access remain."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "As World Leaders Gather at the United Nations, the Brown Pandemic Center, MIAI, Air Club, and IWBI Launch a New Tool To Advance Healthy Indoor Air",
+      "description": "As world leaders gather at the 81st United Nations General Assembly to confront disease threats, wildfires, and extreme heat, the Brown University Pandemic Center, Montenegrin Institute for Advance...",
+      "url": "https://csrwire.com/press-release/world-leaders-gather-united-nations-brown-pandemic-center-miai-air-club-and-iwbi-launch-new/",
+      "publishedAt": "2026-09-24T09:00:00",
+      "content": "As world leaders gather at the 81st United Nations General Assembly to confront disease threats, wildfires, and extreme heat, the Brown University Pandemic Center, Montenegrin Institute for Advance..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "IWBI’s Rachel Hodgdon to Deliver Global Call to Action for a “Health-First Agenda” at UN Event on Healthy Indoor Air in Schools",
+      "description": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI) and Co-Chair of the Global Commission, will speak at the upcoming UN Side Event on Healthy Indoor Air in School...",
+      "url": "https://csrwire.com/press-release/iwbis-rachel-hodgdon-deliver-global-call-action-health-first-agenda-un-event-healthy-indoor/",
+      "publishedAt": "2026-09-23T15:30:00",
+      "content": "Rachel Hodgdon, President and CEO of the International WELL Building Institute (IWBI) and Co-Chair of the Global Commission, will speak at the upcoming UN Side Event on Healthy Indoor Air in School..."
     },
     {
       "source": {
@@ -213,17 +433,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-      "description": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
-      "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-25T05:48:36",
-      "content": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -232,17 +441,6 @@
       "url": "https://www.theguardian.com/environment/2026/sep/25/skylarks-sandwich-terns-birdies-on-reserve-created-from-golf-course-uk",
       "publishedAt": "2026-09-25T05:00:40",
       "content": "National Trust has transformed Sandilands in Lincolnshire into a nature reserve with wetlands and wading poolsThere is no chance of a birdie or an eagle any more. But there are skylarks, short-eare..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Before Hastings was the Battle of Stamford Bridge. And it happened right here, 960 years ago today | Amy-Jane Beer",
-      "description": "Low Catton, East Yorkshire: It was King Harold’s last taste of victory.",
-      "url": "https://www.theguardian.com/environment/2026/sep/25/country-diary-never-mind-the-bayeux-this-is-where-the-battle-of-stamford-bridge-took-place-960-years-ago-today",
-      "publishedAt": "2026-09-25T04:30:39",
-      "content": "Low Catton, East Yorkshire: It was King Harold’s last taste of victory."
     },
     {
       "source": {
@@ -290,17 +488,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The Guardian view on a supersized El Niño: a natural phenomenon and human folly are a lethal combination | Editorial",
-      "description": "Hundreds of thousands are expected to die, millions to go hungry.",
-      "url": "https://www.theguardian.com/commentisfree/2026/sep/24/the-guardian-view-on-a-supersized-el-nino-a-natural-phenomenon-and-human-folly-are-a-lethal-combination",
-      "publishedAt": "2026-09-24T17:37:39",
-      "content": "Hundreds of thousands are expected to die, millions to go hungry."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -334,28 +521,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Battle Brews Over Maine’s Salmon Farms",
-      "description": "Glenda Beal’s roots in lobstering run nearly as deep as her roots in the town that shares her name: Beals Island, Maine.",
-      "url": "https://insideclimatenews.org/news/24092026/industrial-aquaculture-threatens-maine-fishing-heritage/",
-      "publishedAt": "2026-09-24T09:00:00",
-      "content": "Glenda Beal’s roots in lobstering run nearly as deep as her roots in the town that shares her name: Beals Island, Maine."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "At the UN, Panama Champions a Universal Declaration on the Rights of Nature",
-      "description": "NEW YORK—From the podium of the United Nations General Assembly, Panamanian President José Raúl Mulino called on fellow leaders to support a treaty affirming that nature has inherent rights.  “Toda...",
-      "url": "https://insideclimatenews.org/news/24092026/panama-rights-of-nature-un-general-assembly/",
-      "publishedAt": "2026-09-24T08:55:00",
-      "content": "NEW YORK—From the podium of the United Nations General Assembly, Panamanian President José Raúl Mulino called on fellow leaders to support a treaty affirming that nature has inherent rights.  “Toda..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -364,17 +529,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-24T07:10:19",
       "content": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘The eels were climbing out of the water to die’: why did every fish in this idyllic lake perish overnight?",
-      "description": "Furnace Brook in East Sussex was home to carp, tench, bream, roach and trout – and 15 trailer-loads had to be buried.",
-      "url": "https://www.theguardian.com/environment/2026/sep/24/furnace-book-east-sussex-fishing-lake",
-      "publishedAt": "2026-09-24T04:00:09",
-      "content": "Furnace Brook in East Sussex was home to carp, tench, bream, roach and trout – and 15 trailer-loads had to be buried."
     },
     {
       "source": {
@@ -400,17 +554,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Did El Niño turn Hurricane Polo into the most powerful storm of the season?",
-      "description": "The BBC's Courtney Sargent explains how El Niño could have rapidly turned Hurricane Polo into one of the Pacific season's most powerful storms.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-23T17:33:39",
-      "content": "The BBC's Courtney Sargent explains how El Niño could have rapidly turned Hurricane Polo into one of the Pacific season's most powerful storms."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -419,17 +562,6 @@
       "url": "https://www.climatechangenews.com/2026/09/23/un-backs-push-to-upgrade-grids-slowing-clean-power-uptake-in-africa-and-southeast-asia/",
       "publishedAt": "2026-09-23T17:11:37",
       "content": "The Global Grids Accelerator will help turn national and regional plans to expand electricity infrastructure into viable projects on the ground\nThe post UN backs push to upgrade grids slowing clean..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How Ethical Is Uniqlo?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-is-uniqlo/",
-      "publishedAt": "2026-09-23T00:00:17",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     }
   ]
 }
