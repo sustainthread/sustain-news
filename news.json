@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 36,
   "articles": [
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this October 2026",
+      "description": "Feature image: ReCreate.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-09-29T22:00:45",
+      "content": "Feature image: ReCreate."
+    },
     {
       "source": {
         "name": "The Hindu"
@@ -15,14 +26,58 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "ESG Today"
       },
-      "author": "Good On You",
-      "title": "More sustainable fashion brand offers this September 2026",
-      "description": "Feature image: ReCreate.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-09-22T22:00:45",
-      "content": "Feature image: ReCreate."
+      "author": "ESG Today",
+      "title": "Upright Launches Physical and Transition Climate Risk Assessment Solution for Companies, Investors",
+      "description": "Impact data company Upright announced the launch of physical climate and transition risk assessment on its",
+      "url": "https://www.esgtoday.com/upright-launches-physical-and-transition-climate-risk-assessment-solution-for-companies-investors/?utm_source=rss&utm_medium=rss&utm_campaign=upright-launches-physical-and-transition-climate-risk-assessment-solution-for-companies-investors",
+      "publishedAt": "2026-09-30T10:07:32",
+      "content": "Impact data company Upright announced the launch of physical climate and transition risk assessment on its"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Primark Signs Multi-Year Deal with Circ to Use Recycled Material from Textile Waste in Clothing Lines",
+      "description": "International fashion retailer Primark and textile-to-textile recycling company Circ announced a new multi-year offtake agreement,",
+      "url": "https://www.esgtoday.com/primark-signs-multi-year-deal-with-circ-to-use-recycled-polyester-from-textile-waste-in-clothing-lines/?utm_source=rss&utm_medium=rss&utm_campaign=primark-signs-multi-year-deal-with-circ-to-use-recycled-polyester-from-textile-waste-in-clothing-lines",
+      "publishedAt": "2026-09-30T08:25:08",
+      "content": "International fashion retailer Primark and textile-to-textile recycling company Circ announced a new multi-year offtake agreement,"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Italy Draws €110 Billion Order Book for New Green Bond Offering",
+      "description": "Italy’s Ministry of Economy and Finance announced the completion of a new green bond offering,",
+      "url": "https://www.esgtoday.com/italy-draws-e110-billion-order-book-for-new-green-bond-offering/?utm_source=rss&utm_medium=rss&utm_campaign=italy-draws-e110-billion-order-book-for-new-green-bond-offering",
+      "publishedAt": "2026-09-29T14:26:37",
+      "content": "Italy’s Ministry of Economy and Finance announced the completion of a new green bond offering,"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Mass Heat Wave Deaths in Europe Show Climate Extremes Are Outpacing Adaptation Efforts",
+      "description": "A series of deadly heat waves from May to August overwhelmed Germany’s healthcare and emergency response systems and led to an estimated 16,000 heat-related deaths during the summer, the most heat ...",
+      "url": "https://insideclimatenews.org/news/30092026/europe-heat-wave-deaths/",
+      "publishedAt": "2026-09-30T09:00:00",
+      "content": "A series of deadly heat waves from May to August overwhelmed Germany’s healthcare and emergency response systems and led to an estimated 16,000 heat-related deaths during the summer, the most heat ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Environmentalists Sue Federal Agencies Over Nation’s First Fast-Tracked Critical Minerals Mine",
+      "description": "In the foothills of southern Arizona’s Patagonia Mountains, atop so-called critical minerals such as zinc, is South32’s Hermosa project.",
+      "url": "https://insideclimatenews.org/news/29092026/federal-fast-tracked-south32-mine-lawsuit/",
+      "publishedAt": "2026-09-29T22:17:11",
+      "content": "In the foothills of southern Arizona’s Patagonia Mountains, atop so-called critical minerals such as zinc, is South32’s Hermosa project."
     },
     {
       "source": {
@@ -51,11 +106,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "JPMorgan Natural Capital, Paraguay Launch $200 Million Sustainable Forestry Platform",
-      "description": "J.P. Morgan Asset Management’s (JPMAM) natural capital unit, J.P. Morgan Natural Capital, and the Office of",
-      "url": "https://www.esgtoday.com/jpmorgan-natural-capital-paraguay-launch-200-million-sustainable-forestry-platform/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-natural-capital-paraguay-launch-200-million-sustainable-forestry-platform",
-      "publishedAt": "2026-09-28T13:58:57",
-      "content": "J.P. Morgan Asset Management’s (JPMAM) natural capital unit, J.P. Morgan Natural Capital, and the Office of"
+      "title": "Salesforce Signs Series of Carbon Removal Deals with 8 Early-Stage Suppliers",
+      "description": "Sweden-based climate and nature solutions provider Milkywire announced that it has completed a new round",
+      "url": "https://www.esgtoday.com/salesforce-signs-series-of-carbon-removal-deals-with-8-early-stage-suppliers/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-series-of-carbon-removal-deals-with-8-early-stage-suppliers",
+      "publishedAt": "2026-09-30T10:30:57",
+      "content": "Sweden-based climate and nature solutions provider Milkywire announced that it has completed a new round"
     },
     {
       "source": {
@@ -81,39 +136,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Are these chemicals in my blood?’ How one community learned the truth about Pfas pollution",
-      "description": "People living next to a chemicals plant near Blackpool were tested for ‘forever chemicals’.",
-      "url": "https://www.theguardian.com/environment/2026/sep/28/blackpool-community-pfas-pollution-forever-chemicals",
-      "publishedAt": "2026-09-28T14:54:50",
-      "content": "People living next to a chemicals plant near Blackpool were tested for ‘forever chemicals’."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Barclays Appoints Paul Williams as Global Head of Operational Sustainability",
-      "description": "UK-based banking group Barclays has appointed Paul Williams as its new Global Head of Operational",
-      "url": "https://www.esgtoday.com/barclays-appoints-paul-williams-as-global-head-of-operational-sustainability/?utm_source=rss&utm_medium=rss&utm_campaign=barclays-appoints-paul-williams-as-global-head-of-operational-sustainability",
-      "publishedAt": "2026-09-28T11:36:27",
-      "content": "UK-based banking group Barclays has appointed Paul Williams as its new Global Head of Operational"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "New EU Anti-Greenwashing Rules Enter into Force",
-      "description": "The EU’s new Directive on Empowering Consumers for the Green Transition, (ECGT) entered into application",
-      "url": "https://www.esgtoday.com/new-eu-anti-greenwashing-rules-enter-into-force/?utm_source=rss&utm_medium=rss&utm_campaign=new-eu-anti-greenwashing-rules-enter-into-force",
-      "publishedAt": "2026-09-28T09:33:56",
-      "content": "The EU’s new Directive on Empowering Consumers for the Green Transition, (ECGT) entered into application"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -125,14 +147,179 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Nepal’s disaster has laid bare the world’s adaptation accountability gap",
+      "description": "Knowledge about accelerating climate risks and how to adapt to them has grown over the past two decades - but it hasn't been put into practice fast enough to protect communities \nThe post Nepal’s d...",
+      "url": "https://www.climatechangenews.com/2026/09/30/nepals-disaster-has-laid-bare-the-worlds-adaptation-accountability-gap/",
+      "publishedAt": "2026-09-30T10:27:45",
+      "content": "Knowledge about accelerating climate risks and how to adapt to them has grown over the past two decades - but it hasn't been put into practice fast enough to protect communities \nThe post Nepal’s d..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Half a million trees to be planted in England in three years, says government",
+      "description": "Exclusive: Environment secretary Angela Eagle to make pledge as part of efforts to protect against extreme weatherHalf a million trees will be planted across England in the next three years to prot...",
+      "url": "https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle",
+      "publishedAt": "2026-09-30T06:08:17",
+      "content": "Exclusive: Environment secretary Angela Eagle to make pledge as part of efforts to protect against extreme weatherHalf a million trees will be planted across England in the next three years to prot..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Brazil confident new rainforest fund will reach $10bn donor milestone",
+      "description": "Brazil's environment minister said the Tropical Forest Forever Facility has raised billions in record time - which he hopes will convince more investors\nThe post Brazil confident new rainforest fun...",
+      "url": "https://www.climatechangenews.com/2026/09/29/brazil-confident-new-rainforest-fund-tfff-10bn-fund-finance/",
+      "publishedAt": "2026-09-29T15:22:03",
+      "content": "Brazil's environment minister said the Tropical Forest Forever Facility has raised billions in record time - which he hopes will convince more investors\nThe post Brazil confident new rainforest fun..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "South West Water fined £8m for hundreds of sewage spills in Cornwall and Devon",
+      "description": "District judge orders record fine for region and says incidents of pollution cannot be toleratedA water company has been ordered to pay a record fine of almost £8m for hundreds of sewage spills at ...",
+      "url": "https://www.theguardian.com/environment/2026/sep/29/south-west-water-record-fine-sewage-spills-cornwall-devon",
+      "publishedAt": "2026-09-29T15:19:57",
+      "content": "District judge orders record fine for region and says incidents of pollution cannot be toleratedA water company has been ordered to pay a record fine of almost £8m for hundreds of sewage spills at ..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "ESG Today: Week in Review",
-      "description": "This week in ESG news: EU publishes final revised sustainability reporting standards; Glass Lewis merges",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-276/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-276",
-      "publishedAt": "2026-09-27T08:21:16",
-      "content": "This week in ESG news: EU publishes final revised sustainability reporting standards; Glass Lewis merges"
+      "title": "Achmea, ILX Partner to Launch Emerging Markets-Focused Impact Investing Platform",
+      "description": "Netherlands-based insurance group Achmea’s investment unit, Achmea Investment Management, and asset manager ILX Management announced",
+      "url": "https://www.esgtoday.com/achmea-ilx-partner-to-launch-emerging-markets-focused-impact-investing-platform/?utm_source=rss&utm_medium=rss&utm_campaign=achmea-ilx-partner-to-launch-emerging-markets-focused-impact-investing-platform",
+      "publishedAt": "2026-09-29T12:11:16",
+      "content": "Netherlands-based insurance group Achmea’s investment unit, Achmea Investment Management, and asset manager ILX Management announced"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "See How El Niño Is Washing Ashore in California",
+      "description": "An enormous pulse of wave energy will soon reach the coast and continue north, raising sea levels by half a foot and increasing threats from swells and tides.",
+      "url": "https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html",
+      "publishedAt": "2026-09-30T10:37:40",
+      "content": "An enormous pulse of wave energy will soon reach the coast and continue north, raising sea levels by half a foot and increasing threats from swells and tides."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Beyond priceless’: how a halt to dredging saved the seas of Scotland’s Summer Isles",
+      "description": "Fish and shellfish populations were falling rapidly as scallop dredgers devastated the seabed, but local activists and small-scale fishers battled hard to protect their coastlineInside a bothy over...",
+      "url": "https://www.theguardian.com/environment/2026/sep/30/beyond-priceless-how-a-halt-to-dredging-saved-the-seas-of-scotlands-summer-isles",
+      "publishedAt": "2026-09-30T10:00:22",
+      "content": "Fish and shellfish populations were falling rapidly as scallop dredgers devastated the seabed, but local activists and small-scale fishers battled hard to protect their coastlineInside a bothy over..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Study of Groundwater Near Fracking Sites Finds Low Radium Levels, but Raises Concerns About Increased Salinity",
+      "description": "Testing in a limited number of shallow aquifers near fracking sites in southwestern Pennsylvania found low levels of radium overall, but there aren’t yet enough samples to draw firm conclusions abo...",
+      "url": "https://insideclimatenews.org/news/30092026/pennsylvania-fracking-groundwater-pollution/",
+      "publishedAt": "2026-09-30T08:55:00",
+      "content": "Testing in a limited number of shallow aquifers near fracking sites in southwestern Pennsylvania found low levels of radium overall, but there aren’t yet enough samples to draw firm conclusions abo..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Orionid meteor shower to streak across night sky this week",
+      "description": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
+      "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T06:32:14",
+      "content": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "World’s oceans absorbed record heat equal to 40 times annual global energy use",
+      "description": "The injection of thermal energy comes amid an increasing rise in sea levels and continuing acidificationA record-breaking 23 zettajoules of heat was sunk into the world’s seas last year, leaving oc...",
+      "url": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
+      "publishedAt": "2026-09-30T06:00:13",
+      "content": "The injection of thermal energy comes amid an increasing rise in sea levels and continuing acidificationA record-breaking 23 zettajoules of heat was sunk into the world’s seas last year, leaving oc..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Autumn sunshine could extend Britain’s bumper year for butterflies",
+      "description": "More species are squeezing in an extra generation before colder weather arrivesSummer is over, most flowers were frazzled long ago and we might expect to see few butterflies beyond September. But i...",
+      "url": "https://www.theguardian.com/environment/2026/sep/30/autumn-sunshine-britain-bumper-year-butterflies",
+      "publishedAt": "2026-09-30T05:00:11",
+      "content": "More species are squeezing in an extra generation before colder weather arrivesSummer is over, most flowers were frazzled long ago and we might expect to see few butterflies beyond September. But i..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The land here is scarred from a year of hard weather – now what will winter hold? | Alexandra Pearce-Broomhead",
+      "description": "Camborne, Cornwall: There will be more storms like Goretti and more fires next summer, but we can make the landscape more resilientA grey wagtail flits at the stream’s edge, its flaxen underbelly m...",
+      "url": "https://www.theguardian.com/environment/2026/sep/30/country-diary-the-land-here-is-scarred-from-a-year-of-hard-weather-now-what-will-winter-hold",
+      "publishedAt": "2026-09-30T04:30:09",
+      "content": "Camborne, Cornwall: There will be more storms like Goretti and more fires next summer, but we can make the landscape more resilientA grey wagtail flits at the stream’s edge, its flaxen underbelly m..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Tern turnaround: colonies in England show signs of recovery after decline",
+      "description": "National Trust says latest figures encouraging – with numbers of birds on the rise – but work still to be doneEngland’s most important tern colonies are showing signs of recovery after being hit by...",
+      "url": "https://www.theguardian.com/environment/2026/sep/30/england-tern-colonies-signs-of-recovery-national-trust",
+      "publishedAt": "2026-09-30T04:00:10",
+      "content": "National Trust says latest figures encouraging – with numbers of birds on the rise – but work still to be doneEngland’s most important tern colonies are showing signs of recovery after being hit by..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+      "description": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
+      "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T03:21:28",
+      "content": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Gold beetles to Darwin's finds - the 70 million museum artefacts going online",
+      "description": "More than 70 million specimens from 100 UK collections will be put into an online digital museum",
+      "url": "https://www.bbc.co.uk/news/articles/cv5yjgrj4ello?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-30T00:46:29",
+      "content": "More than 70 million specimens from 100 UK collections will be put into an online digital museum"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Oura pulls $15bn stock market listing days after announcement",
+      "description": "The wearable technology company had been expected to list its shares in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-29T17:17:07",
+      "content": "The wearable technology company had been expected to list its shares in the US."
     },
     {
       "source": {
@@ -155,61 +342,6 @@
       "url": "https://www.climatechangenews.com/2026/09/29/cop31-must-aim-higher-to-cut-emissions-from-the-use-of-materials/",
       "publishedAt": "2026-09-29T10:37:14",
       "content": "November's climate summit is an opportunity to connect material circularity with stronger carbon-cutting pathways but Türkiye's proposed goals need to be a lot more ambitious\nThe post COP31 must ai..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Saving the Siamese crocodile: Cambodia moves to protect one of the world’s last wild populations",
-      "description": "Indigenous communities play crucial role, as ‘genetic bank’ area of wetland offers hope for critically endangered reptileIn the 1990s, conservationists in Cambodia feared the Siamese crocodile had ...",
-      "url": "https://www.theguardian.com/environment/2026/sep/29/cambodia-chorng-indigenous-communities-siamese-crocodile-endangered-conservation-aoe",
-      "publishedAt": "2026-09-29T05:00:54",
-      "content": "Indigenous communities play crucial role, as ‘genetic bank’ area of wetland offers hope for critically endangered reptileIn the 1990s, conservationists in Cambodia feared the Siamese crocodile had ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Crédit Agricole Launches New Natural Capital Finance and Investment Division",
-      "description": "Paris-based international banking and investment group Crédit Agricole announced Monday the launch of Crédit Agricole",
-      "url": "https://www.esgtoday.com/credit-agricole-launches-new-natural-capital-finance-and-investment-business/?utm_source=rss&utm_medium=rss&utm_campaign=credit-agricole-launches-new-natural-capital-finance-and-investment-business",
-      "publishedAt": "2026-09-28T13:19:31",
-      "content": "Paris-based international banking and investment group Crédit Agricole announced Monday the launch of Crédit Agricole"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "A Second Judge Strikes Down New York’s Climate ‘Superfund’ Law",
-      "description": "A federal judge ruled that the new law, which would force fossil fuel companies to pay $75 billion to help cover the costs of climate change, was unconstitutional.",
-      "url": "https://www.nytimes.com/2026/09/24/climate/new-york-climate-superfund-law.html",
-      "publishedAt": "2026-09-24T19:23:03",
-      "content": "A federal judge ruled that the new law, which would force fossil fuel companies to pay $75 billion to help cover the costs of climate change, was unconstitutional."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "UN Climate Summit: UN chief says world has tools to end fossil fuel age",
-      "description": "At the UN Secretary-General's climate summit in New York, countries shared their energy transition plans while Nepal and island nations advocated for more international support  \nThe post UN Climat...",
-      "url": "https://www.climatechangenews.com/2026/09/23/un-summit-live-un-chief-says-world-has-tools-to-end-the-fossil-fuel-age/",
-      "publishedAt": "2026-09-23T19:54:55",
-      "content": "At the UN Secretary-General's climate summit in New York, countries shared their energy transition plans while Nepal and island nations advocated for more international support  \nThe post UN Climat..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Big Threat Has Been Climate Change. Now Comes A.I.",
-      "description": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation.",
-      "url": "https://www.nytimes.com/2026/09/22/climate/climate-change-artificial-intelligence-global-threat.html",
-      "publishedAt": "2026-09-22T16:33:29",
-      "content": "Both are human-caused, both are frightening, and one of them has raced to the forefront of the global conversation."
     },
     {
       "source": {
@@ -257,17 +389,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A tangle of butterflies and battle re-enactments | Paul Evans",
-      "description": "The Marches, Shropshire: On a day of micro-dramas past and present, we witness a Welsh victory over the English, just as it was 861 years agoI’m telling the story from a pub in the bailey opposite ...",
-      "url": "https://www.theguardian.com/environment/2026/sep/29/country-diary-a-tangle-of-butterflies-and-battle-re-enactments",
-      "publishedAt": "2026-09-29T04:30:53",
-      "content": "The Marches, Shropshire: On a day of micro-dramas past and present, we witness a Welsh victory over the English, just as it was 861 years agoI’m telling the story from a pub in the bailey opposite ..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -276,116 +397,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-09-28T16:28:10",
       "content": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Fossil found on Welsh beach ends 'confusion' over 200-million-year-old fish teeth",
-      "description": "Fossilised teeth across Europe had been wrongly identified until the latest find in south Wales.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz7zd7nxj73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T16:04:59",
-      "content": "Fossilised teeth across Europe had been wrongly identified until the latest find in south Wales."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-      "description": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
-      "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T13:59:06",
-      "content": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ISO, UNDP Launch New Standard to Embed SDGs into Corporate Strategy",
-      "description": "The International Organization for Standardization (ISO) and the United Nations Development Programme (UNDP) announced today the",
-      "url": "https://www.esgtoday.com/iso-undp-launch-new-standard-to-embed-sdgs-into-corporate-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=iso-undp-launch-new-standard-to-embed-sdgs-into-corporate-strategy",
-      "publishedAt": "2026-09-28T10:40:33",
-      "content": "The International Organization for Standardization (ISO) and the United Nations Development Programme (UNDP) announced today the"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How to Protect Yourself From Disaster Scams",
-      "description": "This story is a collaboration between Inside Climate News and Honolulu Civil Beat.",
-      "url": "https://insideclimatenews.org/news/28092026/how-to-protect-yourself-from-disaster-scams/",
-      "publishedAt": "2026-09-28T10:01:00",
-      "content": "This story is a collaboration between Inside Climate News and Honolulu Civil Beat."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Planet China",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/28092026/inside-climate-podcast-planet-china/",
-      "publishedAt": "2026-09-28T09:30:00",
-      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Offshore wind plant to bring jobs boost to Montrose",
-      "description": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62jyk4ekp7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T11:01:46",
-      "content": "The new facility will manufacture parts for offshore wind farms in Scottish waters and for overseas markets."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Contract between humans and river’: Bristol Avon’s rights enshrined in charter",
-      "description": "River charters part of wider movement establishing ‘moral’ framework to protect nature and hold institutions to accountOne Monday morning in spring last year, 12 people gathered in the morning driz...",
-      "url": "https://www.theguardian.com/environment/2026/sep/28/river-avon-charter-bristol",
-      "publishedAt": "2026-09-28T11:00:32",
-      "content": "River charters part of wider movement establishing ‘moral’ framework to protect nature and hold institutions to accountOne Monday morning in spring last year, 12 people gathered in the morning driz..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The Hotspot | Stumped for wood, bamboo bats offer cricket a substitute to leather on willow",
-      "description": "Traditional woods have had a good innings but rising temperatures mean the need to find alternatives is pressingWhat happens if you run out of trees? It is a situation cricket must face in the perf...",
-      "url": "https://www.theguardian.com/sport/2026/sep/28/bamboo-bats-offer-cricket-substitute-leather-on-willow-the-hotspot",
-      "publishedAt": "2026-09-28T09:30:29",
-      "content": "Traditional woods have had a good innings but rising temperatures mean the need to find alternatives is pressingWhat happens if you run out of trees? It is a situation cricket must face in the perf..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Shipwreck found on Nantucket beach during storm",
-      "description": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
-      "url": "https://www.bbc.co.uk/news/videos/ck980zl0pgq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-28T01:09:57",
-      "content": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "California Needs Water. El Niño Might Bring Too Much to Keep.",
-      "description": "The drought-stricken state has improved its ability to collect and store rainwater. But many gallons may still rush into the Pacific.",
-      "url": "https://www.nytimes.com/2026/09/26/climate/el-nino-california-water-drought.html",
-      "publishedAt": "2026-09-26T16:21:23",
-      "content": "The drought-stricken state has improved its ability to collect and store rainwater. But many gallons may still rush into the Pacific."
     }
   ]
 }
