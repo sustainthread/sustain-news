@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 45,
   "articles": [
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this October 2026",
+      "description": "Feature image: ReCreate.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-10-05T21:00:45",
+      "content": "Feature image: ReCreate."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -12,28 +23,6 @@
       "url": "https://goodonyou.eco/sustainable-fashion-news-october-2026/",
       "publishedAt": "2026-10-04T23:57:08",
       "content": "It’s been a big month in sustainable fashion: from PETA protesters at Fashion Month to new EU regulations and a report on the dire state of living wages for garment workers. It’s not all bad though..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More sustainable fashion brand offers this October 2026",
-      "description": "Feature image: ReCreate.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-10-04T21:00:45",
-      "content": "Feature image: ReCreate."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "SEC Move Would Make it Harder for Shareholders to Push Companies on Climate Action",
-      "description": "The U.",
-      "url": "https://insideclimatenews.org/news/03102026/sec-shareholder-proposals-rule-change-climate-action/",
-      "publishedAt": "2026-10-03T08:55:00",
-      "content": "The U."
     },
     {
       "source": {
@@ -48,14 +37,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
-      "description": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summitSign up for climate and environment editor Adam Morton’s free Clear Air newsletter h...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
-      "publishedAt": "2026-10-05T09:52:03",
-      "content": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summitSign up for climate and environment editor Adam Morton’s free Clear Air newsletter h..."
+      "author": "ESG Today",
+      "title": "Reclinker Raises $13 Million to Recycle Construction Waste into Low Carbon Cement",
+      "description": "Industrial decarbonization startup Reclinker announced that it has raised £10 million (USD$13 million) in a",
+      "url": "https://www.esgtoday.com/reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement/?utm_source=rss&utm_medium=rss&utm_campaign=reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement",
+      "publishedAt": "2026-10-06T10:27:44",
+      "content": "Industrial decarbonization startup Reclinker announced that it has raised £10 million (USD$13 million) in a"
     },
     {
       "source": {
@@ -73,11 +62,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Algebris Acquires Renewable Energy Advisory Firm Vector Renewables",
-      "description": "UK-based asset manager Algebris Investments announced the acquisition of Spanish renewable energy advisory and asset",
-      "url": "https://www.esgtoday.com/algebris-acquires-renewable-energy-advisory-firm-vector-renewables/?utm_source=rss&utm_medium=rss&utm_campaign=algebris-acquires-renewable-energy-advisory-firm-vector-renewables",
-      "publishedAt": "2026-10-02T13:04:33",
-      "content": "UK-based asset manager Algebris Investments announced the acquisition of Spanish renewable energy advisory and asset"
+      "title": "Over Three Quarters of Companies Increased Investment in Sustainability Over Past Year, Citing Higher ROI: Deloitte Survey",
+      "description": "A significant majority of companies continued to increase their investments in sustainability initiatives over the",
+      "url": "https://www.esgtoday.com/over-three-quarters-of-companies-increased-investment-in-sustainability-over-past-year-citing-higher-roi-deloitte-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-three-quarters-of-companies-increased-investment-in-sustainability-over-past-year-citing-higher-roi-deloitte-survey",
+      "publishedAt": "2026-10-06T11:40:42",
+      "content": "A significant majority of companies continued to increase their investments in sustainability initiatives over the"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Hong Kong Issues Record $2.6 Billion Digital Green Bond",
+      "description": "The Government of the Hong Kong Special Administrative Region of the People’s Republic of China",
+      "url": "https://www.esgtoday.com/hong-kong-issues-record-2-6-billion-digital-green-bond/?utm_source=rss&utm_medium=rss&utm_campaign=hong-kong-issues-record-2-6-billion-digital-green-bond",
+      "publishedAt": "2026-10-06T08:17:57",
+      "content": "The Government of the Hong Kong Special Administrative Region of the People’s Republic of China"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "How Environmentally Damaging are Data Centres, Really?",
+      "description": "Guest post by: Sebastian Leape, CEO of Natcap Data centres have become one of the",
+      "url": "https://www.esgtoday.com/how-environmentally-damaging-are-data-centres-really/?utm_source=rss&utm_medium=rss&utm_campaign=how-environmentally-damaging-are-data-centres-really",
+      "publishedAt": "2026-10-06T08:06:53",
+      "content": "Guest post by: Sebastian Leape, CEO of Natcap Data centres have become one of the"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Schneider Electric Appoints Lena Henry as New Head of Energy and Sustainability Consulting Business",
+      "description": "Schneider Electric’s announced the appointment of Lena Henry as its new Head of Advisory Services,",
+      "url": "https://www.esgtoday.com/schneider-electric-appoints-lena-henry-as-new-head-of-energy-and-sustainability-consulting-business/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-appoints-lena-henry-as-new-head-of-energy-and-sustainability-consulting-business",
+      "publishedAt": "2026-10-05T12:43:38",
+      "content": "Schneider Electric’s announced the appointment of Lena Henry as its new Head of Advisory Services,"
     },
     {
       "source": {
@@ -92,6 +114,50 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
+      "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T06:01:12",
+      "content": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Puffer jackets from more sustainable brands for this winter and beyond",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-puffer/",
+      "publishedAt": "2026-10-05T23:00:49",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Supreme Court Weighs Landmark Climate Deception Case Against Oil Companies",
+      "description": "The U.",
+      "url": "https://insideclimatenews.org/news/05102026/supreme-court-suncor-v-boulder-oil-case/",
+      "publishedAt": "2026-10-05T20:39:36",
+      "content": "The U."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Africa should not have to adapt to an unjust climate system",
+      "description": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul...",
+      "url": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
+      "publishedAt": "2026-10-05T15:54:01",
+      "content": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -103,80 +169,69 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Tories to pledge to scrap Environment Agency and Natural England",
-      "description": "Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growthThe Conservatives will announce a bonfire of regulations including abolishing affor...",
-      "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
-      "publishedAt": "2026-10-04T21:00:38",
-      "content": "Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growthThe Conservatives will announce a bonfire of regulations including abolishing affor..."
+      "author": "CSRWire",
+      "title": "Everpure Impact Report 2026: Sustainability Highlights",
+      "description": "Everpure delivers advanced storage and data management solutions that enable companies to unlock the full potential of their data by ensuring it is secure, accessible, intelligent, and ready to per...",
+      "url": "https://csrwire.com/press-release/everpure-impact-report-2026-sustainability-highlights/",
+      "publishedAt": "2026-10-02T09:05:00",
+      "content": "Everpure delivers advanced storage and data management solutions that enable companies to unlock the full potential of their data by ensuring it is secure, accessible, intelligent, and ready to per..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Al Jazeera"
       },
-      "author": "The Guardian",
-      "title": "More than 1,200 Colorado students have earned a climate ‘seal’: ‘We’re the ones growing up in this world’",
-      "description": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other statesAs a student at a high school not far from Denver’s main airport, Anthony Muñoz wond...",
-      "url": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
-      "publishedAt": "2026-10-04T12:30:27",
-      "content": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other statesAs a student at a high school not far from Denver’s main airport, Anthony Muñoz wond..."
+      "author": "Al Jazeera",
+      "title": "Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat",
+      "description": "Green Party leader Zack Polanski hopes to shake Labour, which has held Holborn since the seat was created in 1983.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
+      "publishedAt": "2026-10-06T11:01:43",
+      "content": "Green Party leader Zack Polanski hopes to shake Labour, which has held Holborn since the seat was created in 1983."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Climate Change News"
       },
-      "author": "Inside Climate News",
-      "title": "Europe’s Extreme Summer Triggered Cascading Climate Shocks",
-      "description": "During this past summer of climate extremes, more than half of Europe experienced dangerous levels of heat stress, the combined effect of temperature, humidity, wind and sunshine on the body’s abil...",
-      "url": "https://insideclimatenews.org/news/02102026/europe-record-heat-climate-shocks/",
-      "publishedAt": "2026-10-02T21:11:30",
-      "content": "During this past summer of climate extremes, more than half of Europe experienced dangerous levels of heat stress, the combined effect of temperature, humidity, wind and sunshine on the body’s abil..."
+      "author": "Climate Change News",
+      "title": "Race to host High Seas Treaty HQ heats up as Chile reaffirms bid",
+      "description": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ...",
+      "url": "https://www.climatechangenews.com/2026/10/06/race-to-host-high-seas-treaty-hq-heats-up-as-chile-reaffirms-bid/",
+      "publishedAt": "2026-10-06T07:00:00",
+      "content": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Stakeholders Strongly Oppose Inclusion of Oil and Gas in Canada’s Sustainable Finance Taxonomy",
-      "description": "The majority of stakeholders responding to a consultation into the development of Canada’s Sustainable Finance",
-      "url": "https://www.esgtoday.com/stakeholders-strongly-oppose-proposal-to-include-oil-and-gas-in-canadas-sustainable-finance-taxonomy/?utm_source=rss&utm_medium=rss&utm_campaign=stakeholders-strongly-oppose-proposal-to-include-oil-and-gas-in-canadas-sustainable-finance-taxonomy",
-      "publishedAt": "2026-10-01T15:00:12",
-      "content": "The majority of stakeholders responding to a consultation into the development of Canada’s Sustainable Finance"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Stegra Seeks More Capital (Again) for Green Steel Megaplant on ‘Significantly Higher than Assumed’ Costs",
-      "description": "Swedish green iron and steel maker Stegra announced the completion of a 100-day review of its",
-      "url": "https://www.esgtoday.com/stegra-seeks-more-capital-to-build-green-steel-megaplant-on-significantly-higher-than-assumed-costs/?utm_source=rss&utm_medium=rss&utm_campaign=stegra-seeks-more-capital-to-build-green-steel-megaplant-on-significantly-higher-than-assumed-costs",
-      "publishedAt": "2026-10-01T13:46:44",
-      "content": "Swedish green iron and steel maker Stegra announced the completion of a 100-day review of its"
+      "author": "CSRWire",
+      "title": "Good Health Reaches Far: How Boehringer Ingelheim Supports Wellbeing-Related Initiatives",
+      "description": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience.",
+      "url": "https://csrwire.com/press-release/good-health-reaches-far-how-boehringer-ingelheim-supports-wellbeing-related-initiatives/",
+      "publishedAt": "2026-10-05T14:05:00",
+      "content": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Amazon Commits Over $1 Billion to Workforce Education, Energy, Water Solutions in Data Center Communities",
-      "description": "Amazon announced the establishment of its new “Amazon Data Center Commitment,” setting a series of",
-      "url": "https://www.esgtoday.com/amazon-commits-over-1-billion-to-workforce-education-energy-water-solutions-in-data-center-communities/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-commits-over-1-billion-to-workforce-education-energy-water-solutions-in-data-center-communities",
-      "publishedAt": "2026-10-05T11:21:18",
-      "content": "Amazon announced the establishment of its new “Amazon Data Center Commitment,” setting a series of"
+      "title": "Novele Raises $17 Million to Turn Buildings into Distributed Energy Assets",
+      "description": "Energy optimization solutions provider Novele announced that it has raised $17 million in a Series",
+      "url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/?utm_source=rss&utm_medium=rss&utm_campaign=novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets",
+      "publishedAt": "2026-10-05T13:43:19",
+      "content": "Energy optimization solutions provider Novele announced that it has raised $17 million in a Series"
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "CIP, Grok Ventures Back One of the Largest-Ever Battery Storage Systems in U.S.",
-      "description": "Industrial heat and power solution provider Antora Energy announced plans for a new Kansas- based",
-      "url": "https://www.esgtoday.com/cip-grok-ventures-back-one-of-the-worlds-largest-ever-battery-storage-systems-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=cip-grok-ventures-back-one-of-the-worlds-largest-ever-battery-storage-systems-in-u-s",
-      "publishedAt": "2026-10-05T10:36:35",
-      "content": "Industrial heat and power solution provider Antora Energy announced plans for a new Kansas- based"
+      "author": "CSRWire",
+      "title": "Brazil’s Full of Energy",
+      "description": "In late 2025, Brazil was at the center of the world’s climate conversation, hosting COP30 and establishing an Open Coalition for Carbon Market Integration.",
+      "url": "https://csrwire.com/press-release/brazils-full-energy/",
+      "publishedAt": "2026-10-05T09:05:00",
+      "content": "In late 2025, Brazil was at the center of the world’s climate conversation, hosting COP30 and establishing an Open Coalition for Carbon Market Integration."
     },
     {
       "source": {
@@ -213,14 +268,102 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Climate Change News"
       },
-      "author": "Good On You",
-      "title": "The ultimate guide to more sustainable and ethical pyjamas and sleepwear",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ethical-sleepwear-sustainable-pyjamas/",
-      "publishedAt": "2026-09-29T00:00:59",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "Climate Change News",
+      "title": "Coal mines and hypocrisy must not be Australia’s COP31 legacy",
+      "description": "Still without a coal phase-out plan, Australia must course-correct to earn the mantle it has been given and do right by the Pacific nations that backed its bid for COP’s co-presidency\nThe post Coal...",
+      "url": "https://www.climatechangenews.com/2026/10/06/australias-cop31-legacy-should-not-be-coal-mines-and-hypocrisy/",
+      "publishedAt": "2026-10-06T11:56:34",
+      "content": "Still without a coal phase-out plan, Australia must course-correct to earn the mantle it has been given and do right by the Pacific nations that backed its bid for COP’s co-presidency\nThe post Coal..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Ghost particles' from space telescope wins physics Nobel",
+      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T11:24:19",
+      "content": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘They take our water, our soil’: protesters fight ‘foreignisation’ as Javier Milei encourages land sales in Argentina",
+      "description": "The country’s far-right president is courting billionaire investors by removing a block on foreign ownership of land and natural resourcesOn 19 September, Marta Sahores, an 84-year-old chemistry pr...",
+      "url": "https://www.theguardian.com/global-development/2026/oct/06/argentina-land-reform-protests-javier-milei",
+      "publishedAt": "2026-10-06T10:00:51",
+      "content": "The country’s far-right president is courting billionaire investors by removing a block on foreign ownership of land and natural resourcesOn 19 September, Marta Sahores, an 84-year-old chemistry pr..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
+      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
+      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
+      "publishedAt": "2026-10-06T09:00:53",
+      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: On the bluest of days, the plaintive call of a pipit | Mark Cocker",
+      "description": "Combs Moss, Derbyshire: There is plenty to be gloomy about, but today was not the day for it up on the moorThe morning was sunlit and the sky the sort of deepest blue dome that makes your heart sin...",
+      "url": "https://www.theguardian.com/environment/2026/oct/06/country-diary-on-the-bluest-of-days-the-plaintive-call-of-a-pipit",
+      "publishedAt": "2026-10-06T04:30:01",
+      "content": "Combs Moss, Derbyshire: There is plenty to be gloomy about, but today was not the day for it up on the moorThe morning was sunlit and the sky the sort of deepest blue dome that makes your heart sin..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Commits Over $1 Billion to Workforce Education, Energy, Water Solutions in Data Center Communities",
+      "description": "Amazon announced the establishment of its new “Amazon Data Center Commitment,” setting a series of",
+      "url": "https://www.esgtoday.com/amazon-commits-over-1-billion-to-workforce-education-energy-water-solutions-in-data-center-communities/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-commits-over-1-billion-to-workforce-education-energy-water-solutions-in-data-center-communities",
+      "publishedAt": "2026-10-05T11:21:18",
+      "content": "Amazon announced the establishment of its new “Amazon Data Center Commitment,” setting a series of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "CIP, Grok Ventures Back One of the Largest-Ever Battery Storage Systems in U.S.",
+      "description": "Industrial heat and power solution provider Antora Energy announced plans for a new Kansas- based",
+      "url": "https://www.esgtoday.com/cip-grok-ventures-back-one-of-the-worlds-largest-ever-battery-storage-systems-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=cip-grok-ventures-back-one-of-the-worlds-largest-ever-battery-storage-systems-in-u-s",
+      "publishedAt": "2026-10-05T10:36:35",
+      "content": "Industrial heat and power solution provider Antora Energy announced plans for a new Kansas- based"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "2026 Sands for Singapore Charity Festival Raises More Than $5.5 Million for Local Charities",
+      "description": "On Aug.",
+      "url": "https://csrwire.com/press-release/2026-sands-singapore-charity-festival-raises-more-5-million-local-charities/",
+      "publishedAt": "2026-10-05T09:15:00",
+      "content": "On Aug."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Inside Raleigh’s New Teen Tech Center, Young Creators Are Already Building What’s Next",
+      "description": "The Best Buy Teen Tech Center at the Fox Road Boys & Girls Club in Raleigh had barely opened its doors this May when the kids took over.",
+      "url": "https://csrwire.com/press-release/inside-raleighs-new-teen-tech-center-young-creators-are-already-building-whats-next/",
+      "publishedAt": "2026-10-05T09:05:00",
+      "content": "The Best Buy Teen Tech Center at the Fox Road Boys & Girls Club in Raleigh had barely opened its doors this May when the kids took over."
     },
     {
       "source": {
@@ -232,17 +375,6 @@
       "url": "https://insideclimatenews.org/news/05102026/new-york-trash-landfills-are-full/",
       "publishedAt": "2026-10-05T09:00:00",
       "content": "New York City is running out of places to dump its trash."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Lave net fishing is a tradition in trouble | Gwyneth Lewis",
-      "description": "Portskewett, Monmouthshire: For hundreds of years this has been a method of catching salmon in the Severn’s churning waters.",
-      "url": "https://www.theguardian.com/environment/2026/oct/05/country-diary-lave-net-fishing-is-a-tradition-in-trouble",
-      "publishedAt": "2026-10-05T04:30:46",
-      "content": "Portskewett, Monmouthshire: For hundreds of years this has been a method of catching salmon in the Severn’s churning waters."
     },
     {
       "source": {
@@ -260,62 +392,7 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "‘Nature-Based’ Solutions Could Save Insurers and Policyholders Billions",
-      "description": "After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not ...",
-      "url": "https://insideclimatenews.org/news/03102026/nature-protections-could-drive-down-home-insurance-costs/",
-      "publishedAt": "2026-10-03T09:00:00",
-      "content": "After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Our Future Might Be Darker—and That’s a Good Thing",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Craig Childs.",
-      "url": "https://insideclimatenews.org/news/03102026/dark-sky-future/",
-      "publishedAt": "2026-10-03T08:50:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Jenni Doering with author Craig Childs."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘It’s shocking really’: Devon community tracks River Dart sewage spills",
-      "description": "Citizen environmentalists create online platform that flags spills in real time and highlights repeatedly polluted spots The easy thing for the people who live on the banks of the River Dart in Dev...",
-      "url": "https://www.theguardian.com/environment/2026/oct/03/devon-community-platform-river-hub-dart-sewage-spills-overflows",
-      "publishedAt": "2026-10-03T06:00:53",
-      "content": "Citizen environmentalists create online platform that flags spills in real time and highlights repeatedly polluted spots The easy thing for the people who live on the banks of the River Dart in Dev..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Diginex Launches New Supply Chain Due Diligence Platform",
-      "description": "Sustainability and compliance solutions provider Diginex announced the launch of an enhanced end-to-end supply chain",
-      "url": "https://www.esgtoday.com/diginex-launches-new-supply-chain-due-diligence-platform/?utm_source=rss&utm_medium=rss&utm_campaign=diginex-launches-new-supply-chain-due-diligence-platform",
-      "publishedAt": "2026-10-02T10:22:49",
-      "content": "Sustainability and compliance solutions provider Diginex announced the launch of an enhanced end-to-end supply chain"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ESG Today: Week in Review",
-      "description": "This week in ESG news: UK’s FCA moves from mandatory to comply-or-explain sustainability and climate",
-      "url": "https://www.esgtoday.com/esg-today-week-in-review-277/?utm_source=rss&utm_medium=rss&utm_campaign=esg-today-week-in-review-277",
-      "publishedAt": "2026-10-04T09:08:20",
-      "content": "This week in ESG news: UK’s FCA moves from mandatory to comply-or-explain sustainability and climate"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New California Law Aims to Stop ‘Predatory’ Developers from Moving In on Wildfire-Ravaged Community",
+      "title": "New California Law Aims to Stop ‘Predatory’ Developers From Moving in on Wildfire-Ravaged Community",
       "description": "ALTADENA, Calif.",
       "url": "https://insideclimatenews.org/news/04102026/california-law-aims-to-stop-predatory-developers-after-disasters/",
       "publishedAt": "2026-10-04T09:00:00",
@@ -331,17 +408,6 @@
       "url": "https://insideclimatenews.org/news/04102026/san-luis-valley-water-trial/",
       "publishedAt": "2026-10-04T08:55:00",
       "content": "Water regulators and farmers in Colorado’s San Luis Valley are in a lose-lose situation."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
-      "description": "FOI request shows wildfire risk scheme scrapped, as survey highlights many fire services lack proper protective gearThe government quietly scrapped plans to prepare the countryside in England for w...",
-      "url": "https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires",
-      "publishedAt": "2026-10-04T07:00:21",
-      "content": "FOI request shows wildfire risk scheme scrapped, as survey highlights many fire services lack proper protective gearThe government quietly scrapped plans to prepare the countryside in England for w..."
     },
     {
       "source": {
@@ -367,47 +433,36 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-      "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T23:37:13",
-      "content": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Federal Judge Slams the Brakes on Big Bend Border Wall Construction",
-      "description": "EL PASO—Federal Judge Kathleen Cardone granted a preliminary injunction Friday to halt construction on the border wall in Texas’ expansive Big Bend sector, including the national and state parks. C...",
-      "url": "https://insideclimatenews.org/news/02102026/federal-judge-halts-big-bend-border-wall-construction/",
-      "publishedAt": "2026-10-02T22:46:29",
-      "content": "EL PASO—Federal Judge Kathleen Cardone granted a preliminary injunction Friday to halt construction on the border wall in Texas’ expansive Big Bend sector, including the national and state parks. C..."
+      "title": "‘Nature-Based’ Solutions Could Save Insurers and Policyholders Billions",
+      "description": "After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not ...",
+      "url": "https://insideclimatenews.org/news/03102026/nature-protections-could-drive-down-home-insurance-costs/",
+      "publishedAt": "2026-10-03T09:00:00",
+      "content": "After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not ..."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Triple Pundit"
       },
-      "author": "BBC",
-      "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-      "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-02T21:00:41",
-      "content": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend."
+      "author": "Triple Pundit",
+      "title": "U.S. Cities Set Limits As Data Centers Feed the Urban Heat Island Effect",
+      "description": "Urban policymakers are struggling to keep pace with data center development.",
+      "url": "https://triplepundit.com/2026/data-centers-urban-heat-island-effect/",
+      "publishedAt": "2026-10-02T19:41:19",
+      "content": "Urban policymakers are struggling to keep pace with data center development."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "FedEx Signs $300 Million Electric Truck Deal with Harbinger",
-      "description": "Electric truck manufacturer Harbinger announced that it has received an order from global delivery giant",
-      "url": "https://www.esgtoday.com/fedex-signs-300-million-electric-truck-deal-with-harbinger/?utm_source=rss&utm_medium=rss&utm_campaign=fedex-signs-300-million-electric-truck-deal-with-harbinger",
-      "publishedAt": "2026-10-01T15:35:20",
-      "content": "Electric truck manufacturer Harbinger announced that it has received an order from global delivery giant"
+      "author": "CSRWire",
+      "title": "National Preparedness Month 2026: A Look at Sands’ Support for Americares Global Readiness and Response Efforts",
+      "description": "One of Sands’ primary efforts to address emergency preparedness and response, which the United States is currently highlighting for National Preparedness Month in September, is the company’s partne...",
+      "url": "https://csrwire.com/press-release/national-preparedness-month-2026-look-sands-support-americares-global-readiness-and-response/",
+      "publishedAt": "2026-10-02T09:05:00",
+      "content": "One of Sands’ primary efforts to address emergency preparedness and response, which the United States is currently highlighting for National Preparedness Month in September, is the company’s partne..."
     },
     {
       "source": {
@@ -422,47 +477,25 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "When Data Centers Cluster Together, How Dirty Are They? One County Wants Answers.",
-      "description": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately.",
-      "url": "https://www.nytimes.com/2026/10/01/climate/data-center-pollution-study-pennsylvania.html",
-      "publishedAt": "2026-10-01T09:02:57",
-      "content": "An unusual study aims to estimate the pollution and health costs from a cluster of proposed data centers, instead of considering each one separately."
+      "author": "CSRWire",
+      "title": "Air Traffic Management of the Future",
+      "description": "For every aircraft traveling across the U.",
+      "url": "https://csrwire.com/press-release/air-traffic-management-future/",
+      "publishedAt": "2026-10-01T13:05:00",
+      "content": "For every aircraft traveling across the U."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "Editor’s Desk: Nepal’s disaster has laid bare the world’s adaptation accountability gap",
-      "description": "Knowledge about accelerating climate risks and how to adapt to them has grown over the past two decades - but it hasn't been put into practice fast enough to protect communities \nThe post Editor’s ...",
-      "url": "https://www.climatechangenews.com/2026/09/30/nepals-disaster-has-laid-bare-the-worlds-adaptation-accountability-gap/",
-      "publishedAt": "2026-09-30T10:27:45",
-      "content": "Knowledge about accelerating climate risks and how to adapt to them has grown over the past two decades - but it hasn't been put into practice fast enough to protect communities \nThe post Editor’s ..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Brazil confident new rainforest fund will reach $10bn donor milestone",
-      "description": "Brazil's environment minister said the Tropical Forest Forever Facility has raised billions in record time - which he hopes will convince more investors\nThe post Brazil confident new rainforest fun...",
-      "url": "https://www.climatechangenews.com/2026/09/29/brazil-confident-new-rainforest-fund-tfff-10bn-fund-finance/",
-      "publishedAt": "2026-09-29T15:22:03",
-      "content": "Brazil's environment minister said the Tropical Forest Forever Facility has raised billions in record time - which he hopes will convince more investors\nThe post Brazil confident new rainforest fun..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 must aim higher to cut emissions from the use of materials",
-      "description": "November's climate summit is an opportunity to connect material circularity with stronger carbon-cutting pathways but Türkiye's proposed goals need to be a lot more ambitious\nThe post COP31 must ai...",
-      "url": "https://www.climatechangenews.com/2026/09/29/cop31-must-aim-higher-to-cut-emissions-from-the-use-of-materials/",
-      "publishedAt": "2026-09-29T10:37:14",
-      "content": "November's climate summit is an opportunity to connect material circularity with stronger carbon-cutting pathways but Türkiye's proposed goals need to be a lot more ambitious\nThe post COP31 must ai..."
+      "author": "CSRWire",
+      "title": "How Autonoma and Cisco Are Reimagining Air Travel",
+      "description": "Every traveler knows the feeling: the rolling delay that creeps from 15 minutes to three hours, the missing bag, the anxious dash between terminals.",
+      "url": "https://csrwire.com/press-release/how-autonoma-and-cisco-are-reimagining-air-travel/",
+      "publishedAt": "2026-10-01T13:05:00",
+      "content": "Every traveler knows the feeling: the rolling delay that creeps from 15 minutes to three hours, the missing bag, the anxious dash between terminals."
     }
   ]
 }
