@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 47,
   "articles": [
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Scientists who put faith in technology less likely to take climate action",
+      "description": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are ...",
+      "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
+      "publishedAt": "2026-10-07T06:00:36",
+      "content": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Zelestra Secures $350 Million Green Financing to Build U.S. Solar Project Backed by Meta",
+      "description": "Madrid-based renewable energy company Zelestra announced that it has closed $350 million in green financing credit",
+      "url": "https://www.esgtoday.com/zelestra-secures-350-million-green-financing-to-build-u-s-solar-project-backed-by-meta/?utm_source=rss&utm_medium=rss&utm_campaign=zelestra-secures-350-million-green-financing-to-build-u-s-solar-project-backed-by-meta",
+      "publishedAt": "2026-10-07T08:59:22",
+      "content": "Madrid-based renewable energy company Zelestra announced that it has closed $350 million in green financing credit"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -29,11 +51,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "CIP Scores Over $1.3 Billion Commitment from NBIM for New Clean Energy Infrastructure Fund",
-      "description": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced",
-      "url": "https://www.esgtoday.com/nbim-commits-over-1-3-billion-to-cips-new-flagship-clean-energy-infrastructure-fund/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-commits-over-1-3-billion-to-cips-new-flagship-clean-energy-infrastructure-fund",
-      "publishedAt": "2026-10-05T08:42:56",
-      "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced"
+      "title": "Rezolv Energy Secures $630 Million to Build the EU’s Largest Onshore Renewable Energy Project",
+      "description": "Renewable energy producer Rezolv Energy announced that it has secured a financing package of up",
+      "url": "https://www.esgtoday.com/rezolv-energy-secures-630-million-to-build-the-eus-largest-onshore-renewable-energy-project/?utm_source=rss&utm_medium=rss&utm_campaign=rezolv-energy-secures-630-million-to-build-the-eus-largest-onshore-renewable-energy-project",
+      "publishedAt": "2026-10-06T13:20:08",
+      "content": "Renewable energy producer Rezolv Energy announced that it has secured a financing package of up"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Everpure Impact Report 2026: Sustainability Strategy, Priorities, and Targets",
+      "description": "About this report The Everpure FY26 Impact Report outlines our progress across our technology, environmental, social, and governance priorities.",
+      "url": "https://csrwire.com/press-release/everpure-impact-report-2026-sustainability-strategy-priorities-and-targets/",
+      "publishedAt": "2026-10-06T09:05:00",
+      "content": "About this report The Everpure FY26 Impact Report outlines our progress across our technology, environmental, social, and governance priorities."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "MUFG Launches Green Deposit Offering for EU Businesses",
+      "description": "MUFG Bank announced today the launch of its Green Deposits offering in the EU, aimed",
+      "url": "https://www.esgtoday.com/mufg-launches-green-deposit-offering-for-eu-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=mufg-launches-green-deposit-offering-for-eu-businesses",
+      "publishedAt": "2026-10-06T13:56:26",
+      "content": "MUFG Bank announced today the launch of its Green Deposits offering in the EU, aimed"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "In Pursuit of Excellence in Sustainability: Marina Bay Sands Contributes More Than $1.1 Million to the Mandai Wildlife Centre",
+      "description": "In late July, Marina Bay Sands announced a donation of more than $1.1 million over three years to the Mandai Wildlife Centre, Singapore’s newest rehabilitation facility for rescued native wildlife.",
+      "url": "https://csrwire.com/press-release/pursuit-excellence-sustainability-marina-bay-sands-contributes-more-1-1-million-mandai-wildlife/",
+      "publishedAt": "2026-10-06T13:05:00",
+      "content": "In late July, Marina Bay Sands announced a donation of more than $1.1 million over three years to the Mandai Wildlife Centre, Singapore’s newest rehabilitation facility for rescued native wildlife."
     },
     {
       "source": {
@@ -48,14 +103,47 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Big banks behind “net zero” alliance continued lending to coal firms",
+      "description": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions faded\nThe post Big banks behind “net zero” allia...",
+      "url": "https://www.climatechangenews.com/2026/10/02/major-banks-behind-net-zero-alliance-continued-lending-to-coal-firms/",
+      "publishedAt": "2026-10-02T15:20:10",
+      "content": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions faded\nThe post Big banks behind “net zero” allia..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New Documents Add to Evidence in Climate Deception Case Against ExxonMobil",
+      "description": "If there was a year the world began waking up to climate change, it might have been 1988.",
+      "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+      "publishedAt": "2026-10-07T09:00:00",
+      "content": "If there was a year the world began waking up to climate change, it might have been 1988."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "To cull or not to cull: Greenland debates fate of world’s slowest shark",
-      "description": "As trawlers compete with Greenland sharks for halibut and cod, conservationists and fishers clash over what to do about misunderstood species‘When I accidentally catch a shark, I bring it to my dog...",
-      "url": "https://www.theguardian.com/environment/2026/oct/05/to-cull-or-not-to-cull-greenland-debates-fate-of-worlds-slowest-shark",
-      "publishedAt": "2026-10-05T04:00:47",
-      "content": "As trawlers compete with Greenland sharks for halibut and cod, conservationists and fishers clash over what to do about misunderstood species‘When I accidentally catch a shark, I bring it to my dog..."
+      "title": "A ‘Godzilla-level’ El Niño is causing extreme weather conditions around the world – put your questions to our environment writers",
+      "description": "Guardian journalists Jonathan Watts and Gabrielle Canon will be online from 4pm BST (11am EDT) today to answer your El Niño questions.",
+      "url": "https://www.theguardian.com/community/live/2026/oct/07/a-godzilla-level-el-nino-is-causing-extreme-weather-conditions-around-the-world-put-your-questions-to-our-environment-writers",
+      "publishedAt": "2026-10-07T08:52:06",
+      "content": "Guardian journalists Jonathan Watts and Gabrielle Canon will be online from 4pm BST (11am EDT) today to answer your El Niño questions."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
+      "description": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte...",
+      "url": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
+      "publishedAt": "2026-10-06T16:40:55",
+      "content": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte..."
     },
     {
       "source": {
@@ -67,6 +155,17 @@
       "url": "https://www.esgtoday.com/over-three-quarters-of-companies-increased-investment-in-sustainability-over-past-year-citing-higher-roi-deloitte-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-three-quarters-of-companies-increased-investment-in-sustainability-over-past-year-citing-higher-roi-deloitte-survey",
       "publishedAt": "2026-10-06T11:40:42",
       "content": "A significant majority of companies continued to increase their investments in sustainability initiatives over the"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cisco: How Sustainability Data Is Informing Customer Decisions",
+      "description": "Sustainability data has long been viewed primarily through the lens of reporting: measuring emissions, tracking progress, and preparing disclosures.",
+      "url": "https://csrwire.com/press-release/cisco-how-sustainability-data-informing-customer-decisions/",
+      "publishedAt": "2026-10-06T10:05:00",
+      "content": "Sustainability data has long been viewed primarily through the lens of reporting: measuring emissions, tracking progress, and preparing disclosures."
     },
     {
       "source": {
@@ -84,33 +183,22 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "How Environmentally Damaging are Data Centres, Really?",
-      "description": "Guest post by: Sebastian Leape, CEO of Natcap Data centres have become one of the",
-      "url": "https://www.esgtoday.com/how-environmentally-damaging-are-data-centres-really/?utm_source=rss&utm_medium=rss&utm_campaign=how-environmentally-damaging-are-data-centres-really",
-      "publishedAt": "2026-10-06T08:06:53",
-      "content": "Guest post by: Sebastian Leape, CEO of Natcap Data centres have become one of the"
+      "title": "Aviva Investors, ABN AMRO Invest €100 Million in Circular Concrete Platform SL Materials",
+      "description": "Sustainable building materials provider SL Materials announced a new €100 million (USD$112 million) investment from",
+      "url": "https://www.esgtoday.com/aviva-investors-abn-amro-invest-e100-million-in-circular-concrete-platform-sl-materials/?utm_source=rss&utm_medium=rss&utm_campaign=aviva-investors-abn-amro-invest-e100-million-in-circular-concrete-platform-sl-materials",
+      "publishedAt": "2026-10-07T10:36:22",
+      "content": "Sustainable building materials provider SL Materials announced a new €100 million (USD$112 million) investment from"
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Schneider Electric Appoints Lena Henry as New Head of Energy and Sustainability Consulting Business",
-      "description": "Schneider Electric’s announced the appointment of Lena Henry as its new Head of Advisory Services,",
-      "url": "https://www.esgtoday.com/schneider-electric-appoints-lena-henry-as-new-head-of-energy-and-sustainability-consulting-business/?utm_source=rss&utm_medium=rss&utm_campaign=schneider-electric-appoints-lena-henry-as-new-head-of-energy-and-sustainability-consulting-business",
-      "publishedAt": "2026-10-05T12:43:38",
-      "content": "Schneider Electric’s announced the appointment of Lena Henry as its new Head of Advisory Services,"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Big banks behind “net zero” alliance continued lending to coal firms",
-      "description": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions faded\nThe post Big banks behind “net zero” allia...",
-      "url": "https://www.climatechangenews.com/2026/10/02/major-banks-behind-net-zero-alliance-continued-lending-to-coal-firms/",
-      "publishedAt": "2026-10-02T15:20:10",
-      "content": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions faded\nThe post Big banks behind “net zero” allia..."
+      "title": "HSBC Launches Loans with Rates Tied to ESG Scores for European Small, Medium Businesses",
+      "description": "HSBC announced the launch of its Sustainability Improvement Loan (SIL) solution in Continental Europe, offering",
+      "url": "https://www.esgtoday.com/hsbc-launches-loans-with-rates-tied-to-esg-scores-for-european-small-medium-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=hsbc-launches-loans-with-rates-tied-to-esg-scores-for-european-small-medium-businesses",
+      "publishedAt": "2026-10-07T09:49:18",
+      "content": "HSBC announced the launch of its Sustainability Improvement Loan (SIL) solution in Continental Europe, offering"
     },
     {
       "source": {
@@ -161,77 +249,33 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Revealed: the methane mega-leaks from UN climate summit host Turkey",
-      "description": "Exclusive: Cop31 leader calling for global curbs on climate-heating gas has landfills producing some of world’s worst plumesTwo or three nights each week, the smell descends. Residents of villages ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/05/methane-mega-leaks-from-un-climate-summit-host-turkey",
-      "publishedAt": "2026-10-05T05:00:49",
-      "content": "Exclusive: Cop31 leader calling for global curbs on climate-heating gas has landfills producing some of world’s worst plumesTwo or three nights each week, the smell descends. Residents of villages ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Everpure Impact Report 2026: Sustainability Highlights",
-      "description": "Everpure delivers advanced storage and data management solutions that enable companies to unlock the full potential of their data by ensuring it is secure, accessible, intelligent, and ready to per...",
-      "url": "https://csrwire.com/press-release/everpure-impact-report-2026-sustainability-highlights/",
-      "publishedAt": "2026-10-02T09:05:00",
-      "content": "Everpure delivers advanced storage and data management solutions that enable companies to unlock the full potential of their data by ensuring it is secure, accessible, intelligent, and ready to per..."
-    },
-    {
-      "source": {
-        "name": "Al Jazeera"
-      },
-      "author": "Al Jazeera",
-      "title": "Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat",
-      "description": "Green Party leader Zack Polanski hopes to shake Labour, which has held Holborn since the seat was created in 1983.",
-      "url": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
-      "publishedAt": "2026-10-06T11:01:43",
-      "content": "Green Party leader Zack Polanski hopes to shake Labour, which has held Holborn since the seat was created in 1983."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Race to host High Seas Treaty HQ heats up as Chile reaffirms bid",
-      "description": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ...",
-      "url": "https://www.climatechangenews.com/2026/10/06/race-to-host-high-seas-treaty-hq-heats-up-as-chile-reaffirms-bid/",
-      "publishedAt": "2026-10-06T07:00:00",
-      "content": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Good Health Reaches Far: How Boehringer Ingelheim Supports Wellbeing-Related Initiatives",
-      "description": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience.",
-      "url": "https://csrwire.com/press-release/good-health-reaches-far-how-boehringer-ingelheim-supports-wellbeing-related-initiatives/",
-      "publishedAt": "2026-10-05T14:05:00",
-      "content": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience."
+      "title": "Beautiful butterflies get more attention from the public – and from scientists",
+      "description": "Research has shown that colourful and patterned species are the subject of more studies, and receive more conservation fundingLarge and beautiful butterflies attract far more attention than species...",
+      "url": "https://www.theguardian.com/environment/2026/oct/07/beautiful-butterflies-more-attention-public-scientists-conservation",
+      "publishedAt": "2026-10-07T05:00:34",
+      "content": "Research has shown that colourful and patterned species are the subject of more studies, and receive more conservation fundingLarge and beautiful butterflies attract far more attention than species..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Novele Raises $17 Million to Turn Buildings into Distributed Energy Assets",
-      "description": "Energy optimization solutions provider Novele announced that it has raised $17 million in a Series",
-      "url": "https://www.esgtoday.com/novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets/?utm_source=rss&utm_medium=rss&utm_campaign=novele-raises-17-million-to-turn-buildings-into-distributed-energy-assets",
-      "publishedAt": "2026-10-05T13:43:19",
-      "content": "Energy optimization solutions provider Novele announced that it has raised $17 million in a Series"
+      "title": "Constellation Signs 20-Year Deal with Google to Unlock 890 MW of New Nuclear Capacity",
+      "description": "Google and energy producer Constellation Energy announced a series of new agreements, including a 20-year",
+      "url": "https://www.esgtoday.com/constellation-signs-20-year-deal-with-google-to-unlock-890-mw-of-new-nuclear-capacity/?utm_source=rss&utm_medium=rss&utm_campaign=constellation-signs-20-year-deal-with-google-to-unlock-890-mw-of-new-nuclear-capacity",
+      "publishedAt": "2026-10-06T16:31:31",
+      "content": "Google and energy producer Constellation Energy announced a series of new agreements, including a 20-year"
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Brazil’s Full of Energy",
-      "description": "In late 2025, Brazil was at the center of the world’s climate conversation, hosting COP30 and establishing an Open Coalition for Carbon Market Integration.",
-      "url": "https://csrwire.com/press-release/brazils-full-energy/",
-      "publishedAt": "2026-10-05T09:05:00",
-      "content": "In late 2025, Brazil was at the center of the world’s climate conversation, hosting COP30 and establishing an Open Coalition for Carbon Market Integration."
+      "author": "ESG Today",
+      "title": "Type One Raises $200 Million to in race Build First-Ever Commercial Fusion Power Plant",
+      "description": "Fusion energy technology startup Type One Energy announced today that it has raised $200 million",
+      "url": "https://www.esgtoday.com/type-one-raises-200-million-to-build-first-ever-commercial-fusion-energy-plant/?utm_source=rss&utm_medium=rss&utm_campaign=type-one-raises-200-million-to-build-first-ever-commercial-fusion-energy-plant",
+      "publishedAt": "2026-10-06T14:46:43",
+      "content": "Fusion energy technology startup Type One Energy announced today that it has raised $200 million"
     },
     {
       "source": {
@@ -268,6 +312,182 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
+      "description": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North CarolinaIt was 4pm and 90F (32C) ...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
+      "publishedAt": "2026-10-07T11:00:08",
+      "content": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North CarolinaIt was 4pm and 90F (32C) ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘We’ll borrow a stargazing kit next’: first public nature library in US helps visitors explore great outdoors",
+      "description": "As well as books, the new facility offers hundreds of kits to connect people with the natural world, including hammocks and nightvision binoculars.",
+      "url": "https://www.theguardian.com/environment/2026/oct/07/nature-library-colorado-us-wilderness-stargazing-camping-outdoors-aoe",
+      "publishedAt": "2026-10-07T11:00:07",
+      "content": "As well as books, the new facility offers hundreds of kits to connect people with the natural world, including hammocks and nightvision binoculars."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama Sets Stricter Data Center Rules. But There’s a Loophole.",
+      "description": "MONTGOMERY, Ala.",
+      "url": "https://insideclimatenews.org/news/07102026/alabama-data-center-rules-loophole/",
+      "publishedAt": "2026-10-07T08:55:00",
+      "content": "MONTGOMERY, Ala."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Rainmakers: The drones used to seed clouds",
+      "description": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "url": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T07:09:32",
+      "content": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Wanted: children to rear harvest mice at home for wild release in Devon",
+      "description": "Teenagers Eva Wishart and Emily Smith launch project to breed and release 250 of the tiny animals by SeptemberChildren in Devon are being invited to become “citizen captive breeders”, rearing harve...",
+      "url": "https://www.theguardian.com/environment/2026/oct/07/children-harvest-mice-wild-release-devon-uk",
+      "publishedAt": "2026-10-07T05:00:34",
+      "content": "Teenagers Eva Wishart and Emily Smith launch project to breed and release 250 of the tiny animals by SeptemberChildren in Devon are being invited to become “citizen captive breeders”, rearing harve..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A gleaming beetle that could be bad news for my garden favourites | Susie White",
+      "description": "Allendale, Northumberland: On a hot autumn day, I see rosemary beetles here for the first time.",
+      "url": "https://www.theguardian.com/environment/2026/oct/07/country-diary-a-gleaming-beetle-that-could-be-bad-news-for-my-garden-favourites",
+      "publishedAt": "2026-10-07T04:30:33",
+      "content": "Allendale, Northumberland: On a hot autumn day, I see rosemary beetles here for the first time."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
+      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-06T23:07:44",
+      "content": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "12 activewear brands from the US and Canada we rate highest",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/our-favourite-ethical-activewear-brands-from-north-america/",
+      "publishedAt": "2026-10-06T23:00:20",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
+      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
+      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
+      "publishedAt": "2026-10-06T15:01:15",
+      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Ragan Communications Has Unveiled the Final Agenda and Speaker Lineup for Its Future of Communications Conference",
+      "description": "Ragan Communications has unveiled the final agenda and speaker lineup for its Future of Communications Conference, bringing hundreds of communications professionals together Nov. 11-13 at the Hyatt...",
+      "url": "https://csrwire.com/press-release/ragan-communications-has-unveiled-final-agenda-and-speaker-lineup-its-future-communications/",
+      "publishedAt": "2026-10-06T11:00:00",
+      "content": "Ragan Communications has unveiled the final agenda and speaker lineup for its Future of Communications Conference, bringing hundreds of communications professionals together Nov. 11-13 at the Hyatt..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Medtronic Impact Report Highlights More Than 82 Million Patients Served Worldwide in Fiscal Year 2026",
+      "description": "In a year shaped by innovation and execution, Medtronic served more than 82 million patients worldwide, invested $2.",
+      "url": "https://csrwire.com/press-release/medtronic-impact-report-highlights-more-82-million-patients-served-worldwide-fiscal-year-2026/",
+      "publishedAt": "2026-10-06T10:55:00",
+      "content": "In a year shaped by innovation and execution, Medtronic served more than 82 million patients worldwide, invested $2."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "T-Mobile 2025 Corporate Responsibility Report: Designing for Accessibility and Building Industry-wide Best Practices",
+      "description": "T-Mobile’s Accessibility Resource Center (ARC) helps us embed accessibility into products and services from the start.",
+      "url": "https://csrwire.com/press-release/t-mobile-2025-corporate-responsibility-report-designing-accessibility-and-building-industry/",
+      "publishedAt": "2026-10-06T09:05:00",
+      "content": "T-Mobile’s Accessibility Resource Center (ARC) helps us embed accessibility into products and services from the start."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "5 Cyber Shifts Leaders Can’t Afford To Ignore",
+      "description": "Cybersecurity has always been a race. AI just raised the speed limit.",
+      "url": "https://csrwire.com/press-release/5-cyber-shifts-leaders-cant-afford-ignore/",
+      "publishedAt": "2026-10-06T08:05:00",
+      "content": "Cybersecurity has always been a race. AI just raised the speed limit."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Race to host High Seas Treaty HQ heats up as Chile reaffirms bid",
+      "description": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ...",
+      "url": "https://www.climatechangenews.com/2026/10/06/race-to-host-high-seas-treaty-hq-heats-up-as-chile-reaffirms-bid/",
+      "publishedAt": "2026-10-06T07:00:00",
+      "content": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Good Health Reaches Far: How Boehringer Ingelheim Supports Wellbeing-Related Initiatives",
+      "description": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience.",
+      "url": "https://csrwire.com/press-release/good-health-reaches-far-how-boehringer-ingelheim-supports-wellbeing-related-initiatives/",
+      "publishedAt": "2026-10-05T14:05:00",
+      "content": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "2026 Sands for Singapore Charity Festival Raises More Than $5.5 Million for Local Charities",
+      "description": "On Aug.",
+      "url": "https://csrwire.com/press-release/2026-sands-singapore-charity-festival-raises-more-5-million-local-charities/",
+      "publishedAt": "2026-10-05T09:15:00",
+      "content": "On Aug."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -290,160 +510,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘They take our water, our soil’: protesters fight ‘foreignisation’ as Javier Milei encourages land sales in Argentina",
-      "description": "The country’s far-right president is courting billionaire investors by removing a block on foreign ownership of land and natural resourcesOn 19 September, Marta Sahores, an 84-year-old chemistry pr...",
-      "url": "https://www.theguardian.com/global-development/2026/oct/06/argentina-land-reform-protests-javier-milei",
-      "publishedAt": "2026-10-06T10:00:51",
-      "content": "The country’s far-right president is courting billionaire investors by removing a block on foreign ownership of land and natural resourcesOn 19 September, Marta Sahores, an 84-year-old chemistry pr..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
-      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "publishedAt": "2026-10-06T09:00:53",
-      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: On the bluest of days, the plaintive call of a pipit | Mark Cocker",
-      "description": "Combs Moss, Derbyshire: There is plenty to be gloomy about, but today was not the day for it up on the moorThe morning was sunlit and the sky the sort of deepest blue dome that makes your heart sin...",
-      "url": "https://www.theguardian.com/environment/2026/oct/06/country-diary-on-the-bluest-of-days-the-plaintive-call-of-a-pipit",
-      "publishedAt": "2026-10-06T04:30:01",
-      "content": "Combs Moss, Derbyshire: There is plenty to be gloomy about, but today was not the day for it up on the moorThe morning was sunlit and the sky the sort of deepest blue dome that makes your heart sin..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon Commits Over $1 Billion to Workforce Education, Energy, Water Solutions in Data Center Communities",
-      "description": "Amazon announced the establishment of its new “Amazon Data Center Commitment,” setting a series of",
-      "url": "https://www.esgtoday.com/amazon-commits-over-1-billion-to-workforce-education-energy-water-solutions-in-data-center-communities/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-commits-over-1-billion-to-workforce-education-energy-water-solutions-in-data-center-communities",
-      "publishedAt": "2026-10-05T11:21:18",
-      "content": "Amazon announced the establishment of its new “Amazon Data Center Commitment,” setting a series of"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CIP, Grok Ventures Back One of the Largest-Ever Battery Storage Systems in U.S.",
-      "description": "Industrial heat and power solution provider Antora Energy announced plans for a new Kansas- based",
-      "url": "https://www.esgtoday.com/cip-grok-ventures-back-one-of-the-worlds-largest-ever-battery-storage-systems-in-u-s/?utm_source=rss&utm_medium=rss&utm_campaign=cip-grok-ventures-back-one-of-the-worlds-largest-ever-battery-storage-systems-in-u-s",
-      "publishedAt": "2026-10-05T10:36:35",
-      "content": "Industrial heat and power solution provider Antora Energy announced plans for a new Kansas- based"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2026 Sands for Singapore Charity Festival Raises More Than $5.5 Million for Local Charities",
-      "description": "On Aug.",
-      "url": "https://csrwire.com/press-release/2026-sands-singapore-charity-festival-raises-more-5-million-local-charities/",
-      "publishedAt": "2026-10-05T09:15:00",
-      "content": "On Aug."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Inside Raleigh’s New Teen Tech Center, Young Creators Are Already Building What’s Next",
-      "description": "The Best Buy Teen Tech Center at the Fox Road Boys & Girls Club in Raleigh had barely opened its doors this May when the kids took over.",
-      "url": "https://csrwire.com/press-release/inside-raleighs-new-teen-tech-center-young-creators-are-already-building-whats-next/",
-      "publishedAt": "2026-10-05T09:05:00",
-      "content": "The Best Buy Teen Tech Center at the Fox Road Boys & Girls Club in Raleigh had barely opened its doors this May when the kids took over."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New York Is Running Out of Room for Its Trash",
-      "description": "New York City is running out of places to dump its trash.",
-      "url": "https://insideclimatenews.org/news/05102026/new-york-trash-landfills-are-full/",
-      "publishedAt": "2026-10-05T09:00:00",
-      "content": "New York City is running out of places to dump its trash."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "12 activewear brands from the US and Canada we rate highest",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/our-favourite-ethical-activewear-brands-from-north-america/",
-      "publishedAt": "2026-10-04T23:00:20",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "New California Law Aims to Stop ‘Predatory’ Developers From Moving in on Wildfire-Ravaged Community",
-      "description": "ALTADENA, Calif.",
-      "url": "https://insideclimatenews.org/news/04102026/california-law-aims-to-stop-predatory-developers-after-disasters/",
-      "publishedAt": "2026-10-04T09:00:00",
-      "content": "ALTADENA, Calif."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Colorado Water Trial Could Decide the Future of an Agricultural Valley",
-      "description": "Water regulators and farmers in Colorado’s San Luis Valley are in a lose-lose situation.",
-      "url": "https://insideclimatenews.org/news/04102026/san-luis-valley-water-trial/",
-      "publishedAt": "2026-10-04T08:55:00",
-      "content": "Water regulators and farmers in Colorado’s San Luis Valley are in a lose-lose situation."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Students blast off to US for Nasa robotics competition",
-      "description": "The students will head to Florida to compete against university teams from Australia, India and the US.",
-      "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-04T05:19:30",
-      "content": "The students will head to Florida to compete against university teams from Australia, India and the US."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
-      "description": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
-      "url": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-03T17:08:10",
-      "content": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "‘Nature-Based’ Solutions Could Save Insurers and Policyholders Billions",
-      "description": "After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not ...",
-      "url": "https://insideclimatenews.org/news/03102026/nature-protections-could-drive-down-home-insurance-costs/",
-      "publishedAt": "2026-10-03T09:00:00",
-      "content": "After years trudging through marshes around San Francisco Bay studying conservation practices, coastal ecologist Megan Kelso realized that one of the largest determinants of wetland health may not ..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -452,50 +518,6 @@
       "url": "https://triplepundit.com/2026/data-centers-urban-heat-island-effect/",
       "publishedAt": "2026-10-02T19:41:19",
       "content": "Urban policymakers are struggling to keep pace with data center development."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "National Preparedness Month 2026: A Look at Sands’ Support for Americares Global Readiness and Response Efforts",
-      "description": "One of Sands’ primary efforts to address emergency preparedness and response, which the United States is currently highlighting for National Preparedness Month in September, is the company’s partne...",
-      "url": "https://csrwire.com/press-release/national-preparedness-month-2026-look-sands-support-americares-global-readiness-and-response/",
-      "publishedAt": "2026-10-02T09:05:00",
-      "content": "One of Sands’ primary efforts to address emergency preparedness and response, which the United States is currently highlighting for National Preparedness Month in September, is the company’s partne..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Jordan’s mega-plan for water security risks locking in fossil gas demand",
-      "description": "A giant desalination plant will help Jordan confront water scarcity, but solar power’s limited role in the energy-hungry project has raised questions about how climate adaptation finance is being s...",
-      "url": "https://www.climatechangenews.com/2026/10/01/jordans-mega-plan-for-water-security-risks-locking-in-fossil-gas-demand/",
-      "publishedAt": "2026-10-01T13:57:34",
-      "content": "A giant desalination plant will help Jordan confront water scarcity, but solar power’s limited role in the energy-hungry project has raised questions about how climate adaptation finance is being s..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Air Traffic Management of the Future",
-      "description": "For every aircraft traveling across the U.",
-      "url": "https://csrwire.com/press-release/air-traffic-management-future/",
-      "publishedAt": "2026-10-01T13:05:00",
-      "content": "For every aircraft traveling across the U."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Autonoma and Cisco Are Reimagining Air Travel",
-      "description": "Every traveler knows the feeling: the rolling delay that creeps from 15 minutes to three hours, the missing bag, the anxious dash between terminals.",
-      "url": "https://csrwire.com/press-release/how-autonoma-and-cisco-are-reimagining-air-travel/",
-      "publishedAt": "2026-10-01T13:05:00",
-      "content": "Every traveler knows the feeling: the rolling delay that creeps from 15 minutes to three hours, the missing bag, the anxious dash between terminals."
     }
   ]
 }
