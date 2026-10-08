@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 47,
+  "totalResults": 40,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Scientists who put faith in technology less likely to take climate action",
-      "description": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/scientists-technology-less-likely-climate-crisis-action",
-      "publishedAt": "2026-10-07T06:00:36",
-      "content": "‘Techno-optimism’ may lead to reliance on unproven solutions at expense of societal changes neededScientists who believe technology will largely solve the problems caused by the climate crisis are ..."
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -37,6 +26,17 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "New Zealand accused of breaching EU trade deal over climate rollbacks",
+      "description": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its trade deal with the bloc\nThe post New Zealand ac...",
+      "url": "https://www.climatechangenews.com/2026/10/07/new-zealand-accused-breaching-eu-trade-deal-climate-rollbacks-fta/",
+      "publishedAt": "2026-10-07T16:37:02",
+      "content": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its trade deal with the bloc\nThe post New Zealand ac..."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -48,69 +48,58 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Rezolv Energy Secures $630 Million to Build the EU’s Largest Onshore Renewable Energy Project",
-      "description": "Renewable energy producer Rezolv Energy announced that it has secured a financing package of up",
-      "url": "https://www.esgtoday.com/rezolv-energy-secures-630-million-to-build-the-eus-largest-onshore-renewable-energy-project/?utm_source=rss&utm_medium=rss&utm_campaign=rezolv-energy-secures-630-million-to-build-the-eus-largest-onshore-renewable-energy-project",
-      "publishedAt": "2026-10-06T13:20:08",
-      "content": "Renewable energy producer Rezolv Energy announced that it has secured a financing package of up"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Everpure Impact Report 2026: Sustainability Strategy, Priorities, and Targets",
-      "description": "About this report The Everpure FY26 Impact Report outlines our progress across our technology, environmental, social, and governance priorities.",
-      "url": "https://csrwire.com/press-release/everpure-impact-report-2026-sustainability-strategy-priorities-and-targets/",
-      "publishedAt": "2026-10-06T09:05:00",
-      "content": "About this report The Everpure FY26 Impact Report outlines our progress across our technology, environmental, social, and governance priorities."
+      "author": "Inside Climate News",
+      "title": "Compounding Climate Impacts Drive Tropical Forest Decline",
+      "description": "Ozone pollution from fires, along with extreme heat and drought, is further weakening the Amazon rainforest’s ability to absorb carbon dioxide, new research shows.  The Amazon and other forests abs...",
+      "url": "https://insideclimatenews.org/news/07102026/heat-drought-and-fire-emissions-devastate-rainforests/",
+      "publishedAt": "2026-10-07T20:20:13",
+      "content": "Ozone pollution from fires, along with extreme heat and drought, is further weakening the Amazon rainforest’s ability to absorb carbon dioxide, new research shows.  The Amazon and other forests abs..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "MUFG Launches Green Deposit Offering for EU Businesses",
-      "description": "MUFG Bank announced today the launch of its Green Deposits offering in the EU, aimed",
-      "url": "https://www.esgtoday.com/mufg-launches-green-deposit-offering-for-eu-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=mufg-launches-green-deposit-offering-for-eu-businesses",
-      "publishedAt": "2026-10-06T13:56:26",
-      "content": "MUFG Bank announced today the launch of its Green Deposits offering in the EU, aimed"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "In Pursuit of Excellence in Sustainability: Marina Bay Sands Contributes More Than $1.1 Million to the Mandai Wildlife Centre",
-      "description": "In late July, Marina Bay Sands announced a donation of more than $1.1 million over three years to the Mandai Wildlife Centre, Singapore’s newest rehabilitation facility for rescued native wildlife.",
-      "url": "https://csrwire.com/press-release/pursuit-excellence-sustainability-marina-bay-sands-contributes-more-1-1-million-mandai-wildlife/",
-      "publishedAt": "2026-10-06T13:05:00",
-      "content": "In late July, Marina Bay Sands announced a donation of more than $1.1 million over three years to the Mandai Wildlife Centre, Singapore’s newest rehabilitation facility for rescued native wildlife."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Reclinker Raises $13 Million to Recycle Construction Waste into Low Carbon Cement",
-      "description": "Industrial decarbonization startup Reclinker announced that it has raised £10 million (USD$13 million) in a",
-      "url": "https://www.esgtoday.com/reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement/?utm_source=rss&utm_medium=rss&utm_campaign=reclinker-raises-13-million-to-turn-construction-waste-into-low-carbon-cement",
-      "publishedAt": "2026-10-06T10:27:44",
-      "content": "Industrial decarbonization startup Reclinker announced that it has raised £10 million (USD$13 million) in a"
+      "title": "82% of Investors Expect Climate Risks to Impact Asset Prices Over Next Decade: Robeco Survey",
+      "description": "Climate Change Increases as a Strategic Priority for Investors for First Time in 3 Years",
+      "url": "https://www.esgtoday.com/82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey/?utm_source=rss&utm_medium=rss&utm_campaign=82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey",
+      "publishedAt": "2026-10-07T14:52:21",
+      "content": "Climate Change Increases as a Strategic Priority for Investors for First Time in 3 Years"
     },
     {
       "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "Big banks behind “net zero” alliance continued lending to coal firms",
-      "description": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions faded\nThe post Big banks behind “net zero” allia...",
-      "url": "https://www.climatechangenews.com/2026/10/02/major-banks-behind-net-zero-alliance-continued-lending-to-coal-firms/",
-      "publishedAt": "2026-10-02T15:20:10",
-      "content": "New data shows coal finance has stayed steady at the global level since 2022, as international efforts to cut the ties between lending and emissions faded\nThe post Big banks behind “net zero” allia..."
+      "title": "Pre-COP draws attention to Pacific’s climate plight and 1.5C goal",
+      "description": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1.",
+      "url": "https://www.climatechangenews.com/2026/10/08/pre-cop-draws-attention-to-pacifics-climate-plight-and-1-5c-goal/",
+      "publishedAt": "2026-10-08T11:52:15",
+      "content": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The American Livestock Industry’s Main Lobbying Group Treated Climate Change as a PR Problem",
+      "description": "In 1991, Random House published a picture book called “Teenage Mutant Ninja Turtles: ABC’s for a Better Planet,” in which the masked cartoon turtles trade in their signature nunchucks for signs bea...",
+      "url": "https://insideclimatenews.org/news/07102026/livestock-industry-lobby-group-downplayed-greenhouse-gas-emissions/",
+      "publishedAt": "2026-10-07T20:08:39",
+      "content": "In 1991, Random House published a picture book called “Teenage Mutant Ninja Turtles: ABC’s for a Better Planet,” in which the masked cartoon turtles trade in their signature nunchucks for signs bea..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "LEGO Owner KIRKBI Appoints Craig Arnold as Head of Circular Plastics",
+      "description": "LEGO Group holding company KIRKBI’s climate investment arm KIRKBI Climate announced the appointment of Craig",
+      "url": "https://www.esgtoday.com/lego-owner-kirkbi-appoints-craig-arnold-as-head-of-circular-plastics/?utm_source=rss&utm_medium=rss&utm_campaign=lego-owner-kirkbi-appoints-craig-arnold-as-head-of-circular-plastics",
+      "publishedAt": "2026-10-08T10:41:18",
+      "content": "LEGO Group holding company KIRKBI’s climate investment arm KIRKBI Climate announced the appointment of Craig"
     },
     {
       "source": {
@@ -125,17 +114,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "A ‘Godzilla-level’ El Niño is causing extreme weather conditions around the world – put your questions to our environment writers",
-      "description": "Guardian journalists Jonathan Watts and Gabrielle Canon will be online from 4pm BST (11am EDT) today to answer your El Niño questions.",
-      "url": "https://www.theguardian.com/community/live/2026/oct/07/a-godzilla-level-el-nino-is-causing-extreme-weather-conditions-around-the-world-put-your-questions-to-our-environment-writers",
-      "publishedAt": "2026-10-07T08:52:06",
-      "content": "Guardian journalists Jonathan Watts and Gabrielle Canon will be online from 4pm BST (11am EDT) today to answer your El Niño questions."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -147,36 +125,80 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "Over Three Quarters of Companies Increased Investment in Sustainability Over Past Year, Citing Higher ROI: Deloitte Survey",
-      "description": "A significant majority of companies continued to increase their investments in sustainability initiatives over the",
-      "url": "https://www.esgtoday.com/over-three-quarters-of-companies-increased-investment-in-sustainability-over-past-year-citing-higher-roi-deloitte-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-three-quarters-of-companies-increased-investment-in-sustainability-over-past-year-citing-higher-roi-deloitte-survey",
-      "publishedAt": "2026-10-06T11:40:42",
-      "content": "A significant majority of companies continued to increase their investments in sustainability initiatives over the"
+      "author": "Good On You",
+      "title": "Puffer jackets from more sustainable brands for this winter and beyond",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-puffer/",
+      "publishedAt": "2026-10-05T23:00:49",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Climate Change News"
       },
-      "author": "CSRWire",
-      "title": "Cisco: How Sustainability Data Is Informing Customer Decisions",
-      "description": "Sustainability data has long been viewed primarily through the lens of reporting: measuring emissions, tracking progress, and preparing disclosures.",
-      "url": "https://csrwire.com/press-release/cisco-how-sustainability-data-informing-customer-decisions/",
-      "publishedAt": "2026-10-06T10:05:00",
-      "content": "Sustainability data has long been viewed primarily through the lens of reporting: measuring emissions, tracking progress, and preparing disclosures."
+      "author": "Climate Change News",
+      "title": "Africa should not have to adapt to an unjust climate system",
+      "description": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul...",
+      "url": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
+      "publishedAt": "2026-10-05T15:54:01",
+      "content": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maryland Demands Answers as Fuel Leak Persists From Joint Base Andrews",
+      "description": "Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill was reported, despite the base’s assurances that ...",
+      "url": "https://insideclimatenews.org/news/08102026/joint-base-andrews-fuel-leak-into-piscataway-creek/",
+      "publishedAt": "2026-10-08T09:00:00",
+      "content": "Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill was reported, despite the base’s assurances that ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Harrisburg, Advocates Rally for Tougher Rules on Fracking",
+      "description": "Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and homes, schools and water sources. The issue has ...",
+      "url": "https://insideclimatenews.org/news/08102026/pennsylvania-natural-gas-well-buffers-data-centers/",
+      "publishedAt": "2026-10-08T08:55:00",
+      "content": "Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and homes, schools and water sources. The issue has ..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Hong Kong Issues Record $2.6 Billion Digital Green Bond",
-      "description": "The Government of the Hong Kong Special Administrative Region of the People’s Republic of China",
-      "url": "https://www.esgtoday.com/hong-kong-issues-record-2-6-billion-digital-green-bond/?utm_source=rss&utm_medium=rss&utm_campaign=hong-kong-issues-record-2-6-billion-digital-green-bond",
-      "publishedAt": "2026-10-06T08:17:57",
-      "content": "The Government of the Hong Kong Special Administrative Region of the People’s Republic of China"
+      "title": "CIP Invests in Via Verde to Enter Italian Biomethane Market",
+      "description": "Copenhagen Infrastructure Partners (CIP), announced the first investment from its new bioenergy fund, with the",
+      "url": "https://www.esgtoday.com/cip-invests-in-via-verde-to-enter-italian-biomethane-market/?utm_source=rss&utm_medium=rss&utm_campaign=cip-invests-in-via-verde-to-enter-italian-biomethane-market",
+      "publishedAt": "2026-10-08T07:48:58",
+      "content": "Copenhagen Infrastructure Partners (CIP), announced the first investment from its new bioenergy fund, with the"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "World’s largest penguin colony suffers ‘enormous population crash’",
+      "description": "Chinstrap penguins on Zavodovski Island in Antarctica down by two-thirds since 2011, probably due to climate crisisThe world’s largest penguin colony has declined by two-thirds since 2011, most lik...",
+      "url": "https://www.theguardian.com/environment/2026/oct/07/penguin-colony-population-crash-zavodovski-island-antarctica",
+      "publishedAt": "2026-10-07T15:00:53",
+      "content": "Chinstrap penguins on Zavodovski Island in Antarctica down by two-thirds since 2011, probably due to climate crisisThe world’s largest penguin colony has declined by two-thirds since 2011, most lik..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "World's largest penguin colony hit by 'alarming' decline in numbers",
+      "description": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9dzy24g2l7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-07T15:00:35",
+      "content": "Climate change is blamed for dramatic decline of chinstrap penguins living on a remote volcanic island."
     },
     {
       "source": {
@@ -205,55 +227,121 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "UK oil refinery broke toxic pollution limits dozens of times, documents reveal",
-      "description": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g15v2jqy8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T06:01:12",
-      "content": "Pollution was spilled into local rivers and protected sites, documents shared with the BBC suggest."
+      "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
+      "description": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T11:35:35",
+      "content": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "Puffer jackets from more sustainable brands for this winter and beyond",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-puffer/",
-      "publishedAt": "2026-10-05T23:00:49",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Supreme Court Weighs Landmark Climate Deception Case Against Oil Companies",
-      "description": "The U.",
-      "url": "https://insideclimatenews.org/news/05102026/supreme-court-suncor-v-boulder-oil-case/",
-      "publishedAt": "2026-10-05T20:39:36",
-      "content": "The U."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Africa should not have to adapt to an unjust climate system",
-      "description": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul...",
-      "url": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
-      "publishedAt": "2026-10-05T15:54:01",
-      "content": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul..."
+      "author": "BBC",
+      "title": "Residents airlifted to safety after flooding in central Chile",
+      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T11:31:22",
+      "content": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Beautiful butterflies get more attention from the public – and from scientists",
-      "description": "Research has shown that colourful and patterned species are the subject of more studies, and receive more conservation fundingLarge and beautiful butterflies attract far more attention than species...",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/beautiful-butterflies-more-attention-public-scientists-conservation",
-      "publishedAt": "2026-10-07T05:00:34",
-      "content": "Research has shown that colourful and patterned species are the subject of more studies, and receive more conservation fundingLarge and beautiful butterflies attract far more attention than species..."
+      "title": "As monarch butterflies migrate for the fall, meet the Chicago woman trying to protect them",
+      "description": "Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her experienceAlong the concrete streets of Chicago’s Pilsen ne...",
+      "url": "https://www.theguardian.com/artanddesign/2026/oct/08/monarch-butterflies-chicago-garden",
+      "publishedAt": "2026-10-08T11:00:18",
+      "content": "Claudia Galeno-Sánchez has turned her home into a sanctuary for the insects by planting native milkweed and wildflowers – and sharing her experienceAlong the concrete streets of Chicago’s Pilsen ne..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wonky elm named UK Tree of the Year",
+      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
+      "url": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T10:32:34",
+      "content": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "India’s Cockroach Party Leader Carries Gen Z’s Demands. They Are Many.",
+      "description": "Abhijeet Dipke started the movement as a joke. But after ousting a minister over a dysfunctional college entrance exam system, India’s youth say they now want to save democracy.",
+      "url": "https://www.nytimes.com/2026/10/08/world/asia/india-cockroach-janta-party.html",
+      "publishedAt": "2026-10-08T07:10:01",
+      "content": "Abhijeet Dipke started the movement as a joke. But after ousting a minister over a dysfunctional college entrance exam system, India’s youth say they now want to save democracy."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
+      "description": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
+      "url": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-08T05:00:04",
+      "content": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The changing face of stubble fields, those shortcuts of my youth | Nicola Chester",
+      "description": "Linkenholt, Hampshire and Wexcombe, Wiltshire: Even to the untrained eye, traditional ones and modern, regenerative ones look very differentStubble fields, those post-harvest acres of short straws,...",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/country-diary-the-changing-face-of-stubble-fields-those-shortcuts-of-my-youth",
+      "publishedAt": "2026-10-08T04:30:09",
+      "content": "Linkenholt, Hampshire and Wexcombe, Wiltshire: Even to the untrained eye, traditional ones and modern, regenerative ones look very differentStubble fields, those post-harvest acres of short straws,..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Bendy elm still standing against all odds crowned UK tree of the year",
+      "description": "Hundred-and-fifty-year-old Wych elm in Newcastle, Co Down has grown sideways owing to strong windsThe “astonishing and bizarre” Bendy Tree in Northern Ireland has been crowned the winner of this ye...",
+      "url": "https://www.theguardian.com/environment/2026/oct/08/bendy-elm-newcastle-northern-ireland-crowned-uk-tree-of-the-year",
+      "publishedAt": "2026-10-07T23:01:03",
+      "content": "Hundred-and-fifty-year-old Wych elm in Newcastle, Co Down has grown sideways owing to strong windsThe “astonishing and bizarre” Bendy Tree in Northern Ireland has been crowned the winner of this ye..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "How ethical is Adidas?",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/adidas-ethical/",
+      "publishedAt": "2026-10-07T21:00:07",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Australia says COP31 co-presidency will work on a cover decision",
+      "description": "Chris Bowen said the text could acknowledge the inevitable overshoot of 1.",
+      "url": "https://www.climatechangenews.com/2026/10/07/australia-says-cop31-co-presidency-will-work-on-a-cover-decision/",
+      "publishedAt": "2026-10-07T15:39:46",
+      "content": "Chris Bowen said the text could acknowledge the inevitable overshoot of 1."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Eurazeo Acquires Water Loss Solutions Platform Miya Water",
+      "description": "French investment firm Eurazeo announced that it has entered into an agreement to acquire a",
+      "url": "https://www.esgtoday.com/eurazeo-acquires-water-loss-solutions-platform-miya-water/?utm_source=rss&utm_medium=rss&utm_campaign=eurazeo-acquires-water-loss-solutions-platform-miya-water",
+      "publishedAt": "2026-10-07T12:16:57",
+      "content": "French investment firm Eurazeo announced that it has entered into an agreement to acquire a"
     },
     {
       "source": {
@@ -282,55 +370,11 @@
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "As COP31 co-host, Australia should make its polluters pay for climate damage",
-      "description": "With UN climate funds running short on cash, now is the time to start taxing the companies whose emissions are driving harm in the Pacific and other vulnerable parts of the world\nThe post As COP31 ...",
-      "url": "https://www.climatechangenews.com/2026/10/02/as-cop31-co-host-australia-should-make-its-polluters-pay-for-climate-damage/",
-      "publishedAt": "2026-10-02T06:44:49",
-      "content": "With UN climate funds running short on cash, now is the time to start taxing the companies whose emissions are driving harm in the Pacific and other vulnerable parts of the world\nThe post As COP31 ..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "What’s on the climate calendar for October 2026?",
-      "description": "Brazilians are heading to the polls, diplomats are gathering in the Pacific for pre-COP, and it's crunch time for the IPCC\nThe post What’s on the climate calendar for October 2026? appeared first o...",
-      "url": "https://www.climatechangenews.com/2026/10/01/whats-on-the-climate-calendar-for-october-2026/",
-      "publishedAt": "2026-10-01T16:46:03",
-      "content": "Brazilians are heading to the polls, diplomats are gathering in the Pacific for pre-COP, and it's crunch time for the IPCC\nThe post What’s on the climate calendar for October 2026? appeared first o..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "9 Black-owned brands setting new standards for design and sustainability",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/black-owned-brands/",
-      "publishedAt": "2026-10-01T00:00:54",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
-      "description": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North CarolinaIt was 4pm and 90F (32C) ...",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
-      "publishedAt": "2026-10-07T11:00:08",
-      "content": "A farm labor contractor exposed laborers on H-2A agricultural visas to heat-related health hazards, but is still bringing hundreds of migrant farm workers to North CarolinaIt was 4pm and 90F (32C) ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘We’ll borrow a stargazing kit next’: first public nature library in US helps visitors explore great outdoors",
-      "description": "As well as books, the new facility offers hundreds of kits to connect people with the natural world, including hammocks and nightvision binoculars.",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/nature-library-colorado-us-wilderness-stargazing-camping-outdoors-aoe",
-      "publishedAt": "2026-10-07T11:00:07",
-      "content": "As well as books, the new facility offers hundreds of kits to connect people with the natural world, including hammocks and nightvision binoculars."
+      "title": "Race to host High Seas Treaty HQ heats up as Chile reaffirms bid",
+      "description": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ...",
+      "url": "https://www.climatechangenews.com/2026/10/06/race-to-host-high-seas-treaty-hq-heats-up-as-chile-reaffirms-bid/",
+      "publishedAt": "2026-10-06T07:00:00",
+      "content": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ..."
     },
     {
       "source": {
@@ -356,39 +400,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Wanted: children to rear harvest mice at home for wild release in Devon",
-      "description": "Teenagers Eva Wishart and Emily Smith launch project to breed and release 250 of the tiny animals by SeptemberChildren in Devon are being invited to become “citizen captive breeders”, rearing harve...",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/children-harvest-mice-wild-release-devon-uk",
-      "publishedAt": "2026-10-07T05:00:34",
-      "content": "Teenagers Eva Wishart and Emily Smith launch project to breed and release 250 of the tiny animals by SeptemberChildren in Devon are being invited to become “citizen captive breeders”, rearing harve..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A gleaming beetle that could be bad news for my garden favourites | Susie White",
-      "description": "Allendale, Northumberland: On a hot autumn day, I see rosemary beetles here for the first time.",
-      "url": "https://www.theguardian.com/environment/2026/oct/07/country-diary-a-gleaming-beetle-that-could-be-bad-news-for-my-garden-favourites",
-      "publishedAt": "2026-10-07T04:30:33",
-      "content": "Allendale, Northumberland: On a hot autumn day, I see rosemary beetles here for the first time."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
-      "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
-      "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T23:07:44",
-      "content": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -403,88 +414,22 @@
         "name": "New York Times"
       },
       "author": "New York Times",
+      "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
+      "description": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
+      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
+      "publishedAt": "2026-10-06T19:37:09",
+      "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
       "title": "Melting Swiss Glaciers Release Archaeological Treasures",
       "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
       "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
       "publishedAt": "2026-10-06T15:01:15",
       "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ragan Communications Has Unveiled the Final Agenda and Speaker Lineup for Its Future of Communications Conference",
-      "description": "Ragan Communications has unveiled the final agenda and speaker lineup for its Future of Communications Conference, bringing hundreds of communications professionals together Nov. 11-13 at the Hyatt...",
-      "url": "https://csrwire.com/press-release/ragan-communications-has-unveiled-final-agenda-and-speaker-lineup-its-future-communications/",
-      "publishedAt": "2026-10-06T11:00:00",
-      "content": "Ragan Communications has unveiled the final agenda and speaker lineup for its Future of Communications Conference, bringing hundreds of communications professionals together Nov. 11-13 at the Hyatt..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Medtronic Impact Report Highlights More Than 82 Million Patients Served Worldwide in Fiscal Year 2026",
-      "description": "In a year shaped by innovation and execution, Medtronic served more than 82 million patients worldwide, invested $2.",
-      "url": "https://csrwire.com/press-release/medtronic-impact-report-highlights-more-82-million-patients-served-worldwide-fiscal-year-2026/",
-      "publishedAt": "2026-10-06T10:55:00",
-      "content": "In a year shaped by innovation and execution, Medtronic served more than 82 million patients worldwide, invested $2."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "T-Mobile 2025 Corporate Responsibility Report: Designing for Accessibility and Building Industry-wide Best Practices",
-      "description": "T-Mobile’s Accessibility Resource Center (ARC) helps us embed accessibility into products and services from the start.",
-      "url": "https://csrwire.com/press-release/t-mobile-2025-corporate-responsibility-report-designing-accessibility-and-building-industry/",
-      "publishedAt": "2026-10-06T09:05:00",
-      "content": "T-Mobile’s Accessibility Resource Center (ARC) helps us embed accessibility into products and services from the start."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "5 Cyber Shifts Leaders Can’t Afford To Ignore",
-      "description": "Cybersecurity has always been a race. AI just raised the speed limit.",
-      "url": "https://csrwire.com/press-release/5-cyber-shifts-leaders-cant-afford-ignore/",
-      "publishedAt": "2026-10-06T08:05:00",
-      "content": "Cybersecurity has always been a race. AI just raised the speed limit."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Race to host High Seas Treaty HQ heats up as Chile reaffirms bid",
-      "description": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ...",
-      "url": "https://www.climatechangenews.com/2026/10/06/race-to-host-high-seas-treaty-hq-heats-up-as-chile-reaffirms-bid/",
-      "publishedAt": "2026-10-06T07:00:00",
-      "content": "Chile’s ocean protection record and concerns over a rival Chinese bid keep it in play, despite questions over the Kast government’s environmental policies\nThe post Race to host High Seas Treaty HQ ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Good Health Reaches Far: How Boehringer Ingelheim Supports Wellbeing-Related Initiatives",
-      "description": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience.",
-      "url": "https://csrwire.com/press-release/good-health-reaches-far-how-boehringer-ingelheim-supports-wellbeing-related-initiatives/",
-      "publishedAt": "2026-10-05T14:05:00",
-      "content": "Through a long-standing partnership with social innovators on the front lines of nutrition and health, Boehringer Ingelheim works to support communities to build resilience."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2026 Sands for Singapore Charity Festival Raises More Than $5.5 Million for Local Charities",
-      "description": "On Aug.",
-      "url": "https://csrwire.com/press-release/2026-sands-singapore-charity-festival-raises-more-5-million-local-charities/",
-      "publishedAt": "2026-10-05T09:15:00",
-      "content": "On Aug."
     },
     {
       "source": {
@@ -496,28 +441,6 @@
       "url": "https://www.climatechangenews.com/2026/10/06/australias-cop31-legacy-should-not-be-coal-mines-and-hypocrisy/",
       "publishedAt": "2026-10-06T11:56:34",
       "content": "Still without a coal phase-out plan, Australia must course-correct to earn the mantle it has been given and do right by the Pacific nations that backed its bid for COP’s co-presidency\nThe post Coal..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Ghost particles' from space telescope wins physics Nobel",
-      "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
-      "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-06T11:24:19",
-      "content": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "U.S. Cities Set Limits As Data Centers Feed the Urban Heat Island Effect",
-      "description": "Urban policymakers are struggling to keep pace with data center development.",
-      "url": "https://triplepundit.com/2026/data-centers-urban-heat-island-effect/",
-      "publishedAt": "2026-10-02T19:41:19",
-      "content": "Urban policymakers are struggling to keep pace with data center development."
     }
   ]
 }
