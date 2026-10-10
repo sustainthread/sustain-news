@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 48,
+  "totalResults": 45,
   "articles": [
     {
       "source": {
@@ -59,14 +59,47 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "ISEP Launches Multi-tier Carbon Accounting Professional Accreditation System",
+      "description": "The Institute of Sustainability & Environmental Professionals (ISEP) announced the launch of a new multi-tier",
+      "url": "https://www.esgtoday.com/isep-launches-multi-tier-carbon-accounting-professional-accreditation-system/?utm_source=rss&utm_medium=rss&utm_campaign=isep-launches-multi-tier-carbon-accounting-professional-accreditation-system",
+      "publishedAt": "2026-10-09T13:36:02",
+      "content": "The Institute of Sustainability & Environmental Professionals (ISEP) announced the launch of a new multi-tier"
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Compounding Climate Impacts Drive Tropical Forest Decline",
-      "description": "Ozone pollution from fires, along with extreme heat and drought, is further weakening the Amazon rainforest’s ability to absorb carbon dioxide, new research shows.  The Amazon and other forests abs...",
-      "url": "https://insideclimatenews.org/news/07102026/heat-drought-and-fire-emissions-devastate-rainforests/",
-      "publishedAt": "2026-10-07T20:20:13",
-      "content": "Ozone pollution from fires, along with extreme heat and drought, is further weakening the Amazon rainforest’s ability to absorb carbon dioxide, new research shows.  The Amazon and other forests abs..."
+      "title": "Unpacking the Environmental Issues in Susan Collins’ Tough Race in Maine",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race...",
+      "url": "https://insideclimatenews.org/news/10102026/susan-collins-election-environmental-issues/",
+      "publishedAt": "2026-10-10T08:50:00",
+      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Looking for Oil in Alaska, No Environmental Strings Attached",
+      "description": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th...",
+      "url": "https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/",
+      "publishedAt": "2026-10-09T22:30:07",
+      "content": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
+      "description": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promi...",
+      "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
+      "publishedAt": "2026-10-09T12:00:28",
+      "content": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promi..."
     },
     {
       "source": {
@@ -95,11 +128,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "82% of Investors Expect Climate Risks to Impact Asset Prices Over Next Decade: Robeco Survey",
-      "description": "Climate Change Increases as a Strategic Priority for Investors for First Time in 3 Years",
-      "url": "https://www.esgtoday.com/82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey/?utm_source=rss&utm_medium=rss&utm_campaign=82-of-investors-expect-climate-risks-to-impact-asset-prices-over-next-decade-robeco-survey",
-      "publishedAt": "2026-10-07T14:52:21",
-      "content": "Climate Change Increases as a Strategic Priority for Investors for First Time in 3 Years"
+      "title": "Pulpex Opens its First Commercial Scale Paper-Based Bottle Manufacturing Plant",
+      "description": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle",
+      "url": "https://www.esgtoday.com/pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant",
+      "publishedAt": "2026-10-09T12:26:24",
+      "content": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle"
     },
     {
       "source": {
@@ -114,69 +147,36 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "The American Livestock Industry’s Main Lobbying Group Treated Climate Change as a PR Problem",
-      "description": "In 1991, Random House published a picture book called “Teenage Mutant Ninja Turtles: ABC’s for a Better Planet,” in which the masked cartoon turtles trade in their signature nunchucks for signs bea...",
-      "url": "https://insideclimatenews.org/news/07102026/livestock-industry-lobby-group-downplayed-greenhouse-gas-emissions/",
-      "publishedAt": "2026-10-07T20:08:39",
-      "content": "In 1991, Random House published a picture book called “Teenage Mutant Ninja Turtles: ABC’s for a Better Planet,” in which the masked cartoon turtles trade in their signature nunchucks for signs bea..."
+      "author": "CSRWire",
+      "title": "Turning Ocean Data Into Impact: How AI, Trusted Data, and Partnerships Can Help Accelerate Sustainability",
+      "description": "Every day, thousands of data points are collected across our oceans — measuring temperature, salinity, carbon dioxide concentrations, and biodiversity. These insights are essential for understandin...",
+      "url": "https://csrwire.com/press-release/turning-ocean-data-impact-how-ai-trusted-data-and-partnerships-can-help-accelerate/",
+      "publishedAt": "2026-10-07T10:05:00",
+      "content": "Every day, thousands of data points are collected across our oceans — measuring temperature, salinity, carbon dioxide concentrations, and biodiversity. These insights are essential for understandin..."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "The Guardian"
       },
-      "author": "Climate Change News",
-      "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
-      "description": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte...",
-      "url": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
-      "publishedAt": "2026-10-06T16:40:55",
-      "content": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte..."
+      "author": "The Guardian",
+      "title": "Tourism expansion v turtle nests: the dispute dividing communities in one Tobago resort",
+      "description": "Plans for a 200-room project on an unspoiled beach have pitted developers against the conservationists fighting for smaller-scale schemes to protect the island’s habitatVisitors to Rocky Point in s...",
+      "url": "https://www.theguardian.com/global-development/2026/oct/10/tourism-expansion-v-turtle-nests-the-dispute-dividing-communities-in-one-tobago-resort",
+      "publishedAt": "2026-10-10T11:00:56",
+      "content": "Plans for a 200-room project on an unspoiled beach have pitted developers against the conservationists fighting for smaller-scale schemes to protect the island’s habitatVisitors to Rocky Point in s..."
     },
     {
       "source": {
-        "name": "Al Jazeera"
+        "name": "CSRWire"
       },
-      "author": "Al Jazeera",
-      "title": "‘Indentured servants’: US green card move will hit thousands of IT workers",
-      "description": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers’ green cards.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss",
-      "publishedAt": "2026-10-09T11:08:05",
-      "content": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers’ green cards."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Virtual Power Plant Platform Voltus Raises $225 Million",
-      "description": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in",
-      "url": "https://www.esgtoday.com/virtual-power-plant-platform-voltus-raises-225-million/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-power-plant-platform-voltus-raises-225-million",
-      "publishedAt": "2026-10-09T10:25:15",
-      "content": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in"
-    },
-    {
-      "source": {
-        "name": "The Hindu"
-      },
-      "author": "The Hindu",
-      "title": "The Hindu Sustainability Dialogues 2026 to explore healthcare at the intersection of AI and medicine",
-      "description": "Experts in medicine, academia, technology, and industry to discuss how AI can strengthen healthcare systems while addressing critical questions about ethics, accessibility, sustainability, and trust",
-      "url": "https://www.thehindu.com/news/cities/chennai/the-hindu-sustainability-dialogues-2026-to-explore-healthcare-at-the-intersection-of-ai-and-medicine/article71560955.ece",
-      "publishedAt": "2026-10-08T17:16:56",
-      "content": "Experts in medicine, academia, technology, and industry to discuss how AI can strengthen healthcare systems while addressing critical questions about ethics, accessibility, sustainability, and trust"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon, Microsoft Partner on 750 Million Liter Water Replenishment Project",
-      "description": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed",
-      "url": "https://www.esgtoday.com/amazon-microsoft-partner-on-750-million-liter-water-replenishment-project/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-microsoft-partner-on-750-million-liter-water-replenishment-project",
-      "publishedAt": "2026-10-08T13:43:52",
-      "content": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed"
+      "author": "CSRWire",
+      "title": "43 Years. Run Your Race.",
+      "description": "Protein is having more than a moment.",
+      "url": "https://csrwire.com/press-release/43-years-run-your-race/",
+      "publishedAt": "2026-10-09T12:00:00",
+      "content": "Protein is having more than a moment."
     },
     {
       "source": {
@@ -188,6 +188,28 @@
       "url": "https://www.esgtoday.com/lego-owner-kirkbi-appoints-craig-arnold-as-head-of-circular-plastics/?utm_source=rss&utm_medium=rss&utm_campaign=lego-owner-kirkbi-appoints-craig-arnold-as-head-of-circular-plastics",
       "publishedAt": "2026-10-08T10:41:18",
       "content": "LEGO Group holding company KIRKBI’s climate investment arm KIRKBI Climate announced the appointment of Craig"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH Equipment Helps Thai Rice Farmer Replace Stubble Burning",
+      "description": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue.",
+      "url": "https://csrwire.com/press-release/cnh-equipment-helps-thai-rice-farmer-replace-stubble-burning/",
+      "publishedAt": "2026-10-08T10:00:00",
+      "content": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
+      "description": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte...",
+      "url": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
+      "publishedAt": "2026-10-06T16:40:55",
+      "content": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte..."
     },
     {
       "source": {
@@ -216,11 +238,176 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
-      "description": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/isaias-strengthens-first-atlantic-hurricane-2026",
-      "publishedAt": "2026-10-09T09:59:06",
-      "content": "Storm expected to make landfall on US’s northern Gulf coast with risk of flash floods and isolated river floodingIsaias has become the first Atlantic hurricane of the 2026 season, with wind speeds ..."
+      "title": "Hurricane Isaias live updates: hundreds of thousands without power as storm batters US Gulf Coast",
+      "description": "First Atlantic hurricane of the 2026 season makes landfall in the USFull story: Hurricane Isaias hammers Gulf coastSign up for the US Breaking News emailWe have a statement from the Alabama governo...",
+      "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
+      "publishedAt": "2026-10-10T11:05:37",
+      "content": "First Atlantic hurricane of the 2026 season makes landfall in the USFull story: Hurricane Isaias hammers Gulf coastSign up for the US Breaking News emailWe have a statement from the Alabama governo..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "description": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T09:31:14",
+      "content": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In One Historically Black Florida Community, the Drinking Water Is Brown",
+      "description": "WHITTED, Fla.",
+      "url": "https://insideclimatenews.org/news/10102026/florida-black-community-contaminated-drinking-water/",
+      "publishedAt": "2026-10-10T08:55:00",
+      "content": "WHITTED, Fla."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T08:29:59",
+      "content": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: The house martins are gone for another year. But they’re not forgotten | Ed Douglas",
+      "description": "Lockerbrook, Derbyshire: Last week they were here, now they are not.",
+      "url": "https://www.theguardian.com/environment/2026/oct/10/country-diary-the-house-martins-are-gone-but-not-forgotten",
+      "publishedAt": "2026-10-10T04:30:47",
+      "content": "Lockerbrook, Derbyshire: Last week they were here, now they are not."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Northern California Community Wants Stronger Oversight of Dangerous Refineries Nearby",
+      "description": "MARTINEZ, Calif.",
+      "url": "https://insideclimatenews.org/news/09102026/bay-area-community-seeks-stronger-refinery-oversight/",
+      "publishedAt": "2026-10-09T23:01:56",
+      "content": "MARTINEZ, Calif."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T19:11:27",
+      "content": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Isaias becomes major category three storm before landfall",
+      "description": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+      "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T16:46:32",
+      "content": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T15:32:30",
+      "content": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+      "description": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
+      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T13:01:57",
+      "content": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
+      "description": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-09T12:54:28",
+      "content": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Virtual Power Plant Platform Voltus Raises $225 Million",
+      "description": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in",
+      "url": "https://www.esgtoday.com/virtual-power-plant-platform-voltus-raises-225-million/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-power-plant-platform-voltus-raises-225-million",
+      "publishedAt": "2026-10-09T10:25:15",
+      "content": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon, Microsoft Partner on 750 Million Liter Water Replenishment Project",
+      "description": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed",
+      "url": "https://www.esgtoday.com/amazon-microsoft-partner-on-750-million-liter-water-replenishment-project/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-microsoft-partner-on-750-million-liter-water-replenishment-project",
+      "publishedAt": "2026-10-08T13:43:52",
+      "content": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "2025 FedEx Cares Report: Empowering Entrepreneurs",
+      "description": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience.",
+      "url": "https://csrwire.com/press-release/2025-fedex-cares-report-empowering-entrepreneurs/",
+      "publishedAt": "2026-10-08T13:05:00",
+      "content": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Bacardi Climbs to #32 Among the World’s Top Companies for Women",
+      "description": "Bacardi Limited has climbed to #32 on the Forbes list of the World’s Top Companies for Women 2026, rising from #60 the previous year and earning a place on the prestigious global ranking for the fi...",
+      "url": "https://csrwire.com/press-release/bacardi-climbs-32-among-worlds-top-companies-women/",
+      "publishedAt": "2026-10-08T09:20:00",
+      "content": "Bacardi Limited has climbed to #32 on the Forbes list of the World’s Top Companies for Women 2026, rising from #60 the previous year and earning a place on the prestigious global ranking for the fi..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "T‑Mobile Helps Gulf Coast Communities Prepare as Tropical Storm Isaias Strengthens",
+      "description": "According to the National Hurricane Center (NHC), Tropical Storm Isaias has formed in the Gulf and is forecast to rapidly strengthen, becoming a hurricane by Thursday as it turns northeast and nort...",
+      "url": "https://csrwire.com/press-release/t-mobile-helps-gulf-coast-communities-prepare-tropical-storm-isaias-strengthens/",
+      "publishedAt": "2026-10-08T08:15:00",
+      "content": "According to the National Hurricane Center (NHC), Tropical Storm Isaias has formed in the Gulf and is forecast to rapidly strengthen, becoming a hurricane by Thursday as it turns northeast and nort..."
     },
     {
       "source": {
@@ -235,39 +422,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "South Baltimore Residents Grapple With Contradictory Incinerator Decisions",
-      "description": "Around 100 Baltimore residents packed a community hall in the Curtis Bay neighborhood on the evening of Oct.",
-      "url": "https://insideclimatenews.org/news/09102026/baltimore-trash-incinerators-contradictory-decisions/",
-      "publishedAt": "2026-10-09T09:00:00",
-      "content": "Around 100 Baltimore residents packed a community hall in the Curtis Bay neighborhood on the evening of Oct."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hurricane Isaias forecast to strengthen to category three before landfall in US",
-      "description": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T07:34:51",
-      "content": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How California is bracing for a winter of floods, fires and extreme storms all at once",
-      "description": "The strongest El Niño recorded is expected to bring a cascade of hazards to a state still facing wildfire and heat risks, while budget cuts have weakened disaster response agencies• Don’t get Down ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/how-california-is-bracing-for-a-winter-of-floods-fires-and-extreme-storms-all-at-once",
-      "publishedAt": "2026-10-09T06:00:40",
-      "content": "The strongest El Niño recorded is expected to bring a cascade of hazards to a state still facing wildfire and heat risks, while budget cuts have weakened disaster response agencies• Don’t get Down ..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -276,28 +430,6 @@
       "url": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
       "publishedAt": "2026-10-09T05:00:39",
       "content": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutantsWater companies in the UK made..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Meet Japan’s mythical beast who appears in bolts of lightning",
-      "description": "Raijū is normally docile but gets agitated in storms and leaps up to run among the clouds, according to folkloreThe Japanese raijū (thunder beast) is said to fall to Earth in a bolt of lightning. I...",
-      "url": "https://www.theguardian.com/news/2026/oct/09/weatherwatch-raiju-japan-mythical-beast-ligtning-bolts",
-      "publishedAt": "2026-10-09T05:00:39",
-      "content": "Raijū is normally docile but gets agitated in storms and leaps up to run among the clouds, according to folkloreThe Japanese raijū (thunder beast) is said to fall to Earth in a bolt of lightning. I..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
-      "description": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
-      "url": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T05:00:23",
-      "content": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared."
     },
     {
       "source": {
@@ -312,83 +444,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A passing osprey needs to eat – but the local terns won’t let it | Claire Stares",
-      "description": "Chichester harbour, Hampshire: I witness a battle of wills as this magnificent raptor attempts to fuel up on sea bass, before it heads south on migrationThe autumnal sunlight gilded the sea as our ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/country-diary-a-passing-osprey-needs-to-eat-but-the-local-terns-wont-let-it",
-      "publishedAt": "2026-10-09T04:30:38",
-      "content": "Chichester harbour, Hampshire: I witness a battle of wills as this magnificent raptor attempts to fuel up on sea bass, before it heads south on migrationThe autumnal sunlight gilded the sea as our ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How a plant selfie in Colombian jungle led to ‘jaw dropping’ giant waterlily find",
-      "description": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect itA chance social media encounter has led to the race-against-time discovery...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/plant-selfie-jaw-dropping-giant-waterlily-discovery-colombia",
-      "publishedAt": "2026-10-09T04:00:37",
-      "content": "Species with leaves large enough to be seen from space is already critically endangered – and plans are afoot to protect itA chance social media encounter has led to the race-against-time discovery..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "21 Birds Are Found at Miami Airport Stuffed in Underwear and Hidden in a Belt",
-      "description": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said.",
-      "url": "https://www.nytimes.com/2026/10/08/us/birds-smuggled-cuba-miami.html",
-      "publishedAt": "2026-10-09T00:36:28",
-      "content": "Two men, who arrived separately from Cuba days apart, each carried clutches of live birds concealed in their clothes, the authorities said."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Why are more roofs not made of solar tiles?",
-      "description": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "url": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T23:09:56",
-      "content": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Will El Niño and the polar vortex bring snow to the UK this winter?",
-      "description": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6pqg9j7d2w7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T23:03:33",
-      "content": "The developing El Niño may impact the UK's weather prospects this autumn and winter but cold conditions are far from guaranteed."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
-      "description": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programmeA survey of the world’s largest free-roaming giant tortoise population has discovered...",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
-      "publishedAt": "2026-10-08T20:20:31",
-      "content": "Free-roaming Aldabra population far exceeds human population of Seychelles after decades-long recovery programmeA survey of the world’s largest free-roaming giant tortoise population has discovered..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
-      "description": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
-      "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T19:39:32",
-      "content": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -397,72 +452,6 @@
       "url": "https://www.nytimes.com/2026/10/08/climate/nepal-floods-building-exposure.html",
       "publishedAt": "2026-10-08T15:00:06",
       "content": "The total footprint of buildings along flood-prone riverbanks in the Himalayas grew by half in recent years, a study found."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "To Block Solar Energy Projects, One Community Lumped Them in With Junkyards and Adult Bookstores",
-      "description": "In Montgomery County, Indiana, utility-scale solar projects appear on an official list of undesirable land uses that also includes “adult-oriented businesses.” So it wasn’t surprising that the coun...",
-      "url": "https://insideclimatenews.org/news/08102026/inside-clean-energy-indiana-solar-energy-fight/",
-      "publishedAt": "2026-10-08T13:00:00",
-      "content": "In Montgomery County, Indiana, utility-scale solar projects appear on an official list of undesirable land uses that also includes “adult-oriented businesses.” So it wasn’t surprising that the coun..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Maryland Demands Answers as Fuel Leak Persists From Joint Base Andrews",
-      "description": "Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill was reported, despite the base’s assurances that ...",
-      "url": "https://insideclimatenews.org/news/08102026/joint-base-andrews-fuel-leak-into-piscataway-creek/",
-      "publishedAt": "2026-10-08T09:00:00",
-      "content": "Maryland environmental regulators say jet fuel continues to seep into Piscataway Creek from Joint Base Andrews more than six months after the spill was reported, despite the base’s assurances that ..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In Harrisburg, Advocates Rally for Tougher Rules on Fracking",
-      "description": "Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and homes, schools and water sources. The issue has ...",
-      "url": "https://insideclimatenews.org/news/08102026/pennsylvania-natural-gas-well-buffers-data-centers/",
-      "publishedAt": "2026-10-08T08:55:00",
-      "content": "Environmental groups and citizens are urging Pennsylvania regulators to increase the minimum amount of protective buffer space between gas wells and homes, schools and water sources. The issue has ..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "CIP Invests in Via Verde to Enter Italian Biomethane Market",
-      "description": "Copenhagen Infrastructure Partners (CIP), announced the first investment from its new bioenergy fund, with the",
-      "url": "https://www.esgtoday.com/cip-invests-in-via-verde-to-enter-italian-biomethane-market/?utm_source=rss&utm_medium=rss&utm_campaign=cip-invests-in-via-verde-to-enter-italian-biomethane-market",
-      "publishedAt": "2026-10-08T07:48:58",
-      "content": "Copenhagen Infrastructure Partners (CIP), announced the first investment from its new bioenergy fund, with the"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "description": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T11:31:22",
-      "content": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The bendy elm crowned UK Tree of the Year",
-      "description": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-08T10:32:34",
-      "content": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014."
     },
     {
       "source": {
@@ -488,36 +477,14 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "12 activewear brands from the US and Canada we rate highest",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/our-favourite-ethical-activewear-brands-from-north-america/",
-      "publishedAt": "2026-10-06T23:00:20",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Energy Firms Try to Squeeze More Power Out of Old Nuclear Plants",
-      "description": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/nuclear-power-plant-google-data-centers.html",
-      "publishedAt": "2026-10-06T19:37:09",
-      "content": "It takes a long time to build new nuclear plants. So, some U.S. companies are looking to get more electricity out of reactors that already exist."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Melting Swiss Glaciers Release Archaeological Treasures",
-      "description": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice.",
-      "url": "https://www.nytimes.com/2026/10/06/climate/glacier-archaeology-melting-alps.html",
-      "publishedAt": "2026-10-06T15:01:15",
-      "content": "Archaeologists are scouring mountain passes as artifacts from a bygone world all but tumble out of Switzerland’s shrinking ice."
+      "author": "CSRWire",
+      "title": "One Health Innovation District Breaks Ground on One Health Research Institute, Anchored by Purdue University and Elanco Animal Health",
+      "description": "The One Health Innovation District unveiled plans for the One Health Research Institute, a new hub for research, collaboration and innovation within the District.",
+      "url": "https://csrwire.com/press-release/one-health-innovation-district-breaks-ground-one-health-research-institute-anchored-purdue/",
+      "publishedAt": "2026-10-07T11:00:00",
+      "content": "The One Health Innovation District unveiled plans for the One Health Research Institute, a new hub for research, collaboration and innovation within the District."
     },
     {
       "source": {
