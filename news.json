@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 33,
   "articles": [
     {
       "source": {
@@ -15,6 +15,17 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this October 2026",
+      "description": "Feature image: ReCreate.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-10-10T21:00:45",
+      "content": "Feature image: ReCreate."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -23,17 +34,6 @@
       "url": "https://www.esgtoday.com/south-korea-launches-750-billion-decarbonization-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=south-korea-launches-750-billion-decarbonization-strategy",
       "publishedAt": "2026-10-08T14:55:12",
       "content": "The Government of South Korea announced the launch of its new Korean Green Transformation (K-GX)"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "More sustainable fashion brand offers this October 2026",
-      "description": "Feature image: ReCreate.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-10-05T21:00:45",
-      "content": "Feature image: ReCreate."
     },
     {
       "source": {
@@ -70,39 +70,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Unpacking the Environmental Issues in Susan Collins’ Tough Race in Maine",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race...",
-      "url": "https://insideclimatenews.org/news/10102026/susan-collins-election-environmental-issues/",
-      "publishedAt": "2026-10-10T08:50:00",
-      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Looking for Oil in Alaska, No Environmental Strings Attached",
-      "description": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th...",
-      "url": "https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/",
-      "publishedAt": "2026-10-09T22:30:07",
-      "content": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
-      "description": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promi...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
-      "publishedAt": "2026-10-09T12:00:28",
-      "content": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promi..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -125,14 +92,25 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Inside Climate News"
       },
-      "author": "ESG Today",
-      "title": "Pulpex Opens its First Commercial Scale Paper-Based Bottle Manufacturing Plant",
-      "description": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle",
-      "url": "https://www.esgtoday.com/pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant",
-      "publishedAt": "2026-10-09T12:26:24",
-      "content": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle"
+      "author": "Inside Climate News",
+      "title": "Unpacking the Environmental Issues in Susan Collins’ Tough Race in Maine",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race...",
+      "url": "https://insideclimatenews.org/news/10102026/susan-collins-election-environmental-issues/",
+      "publishedAt": "2026-10-10T08:50:00",
+      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Looking for Oil in Alaska, No Environmental Strings Attached",
+      "description": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th...",
+      "url": "https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/",
+      "publishedAt": "2026-10-09T22:30:07",
+      "content": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th..."
     },
     {
       "source": {
@@ -147,58 +125,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Turning Ocean Data Into Impact: How AI, Trusted Data, and Partnerships Can Help Accelerate Sustainability",
-      "description": "Every day, thousands of data points are collected across our oceans — measuring temperature, salinity, carbon dioxide concentrations, and biodiversity. These insights are essential for understandin...",
-      "url": "https://csrwire.com/press-release/turning-ocean-data-impact-how-ai-trusted-data-and-partnerships-can-help-accelerate/",
-      "publishedAt": "2026-10-07T10:05:00",
-      "content": "Every day, thousands of data points are collected across our oceans — measuring temperature, salinity, carbon dioxide concentrations, and biodiversity. These insights are essential for understandin..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Tourism expansion v turtle nests: the dispute dividing communities in one Tobago resort",
-      "description": "Plans for a 200-room project on an unspoiled beach have pitted developers against the conservationists fighting for smaller-scale schemes to protect the island’s habitatVisitors to Rocky Point in s...",
-      "url": "https://www.theguardian.com/global-development/2026/oct/10/tourism-expansion-v-turtle-nests-the-dispute-dividing-communities-in-one-tobago-resort",
-      "publishedAt": "2026-10-10T11:00:56",
-      "content": "Plans for a 200-room project on an unspoiled beach have pitted developers against the conservationists fighting for smaller-scale schemes to protect the island’s habitatVisitors to Rocky Point in s..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "43 Years. Run Your Race.",
-      "description": "Protein is having more than a moment.",
-      "url": "https://csrwire.com/press-release/43-years-run-your-race/",
-      "publishedAt": "2026-10-09T12:00:00",
-      "content": "Protein is having more than a moment."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "LEGO Owner KIRKBI Appoints Craig Arnold as Head of Circular Plastics",
-      "description": "LEGO Group holding company KIRKBI’s climate investment arm KIRKBI Climate announced the appointment of Craig",
-      "url": "https://www.esgtoday.com/lego-owner-kirkbi-appoints-craig-arnold-as-head-of-circular-plastics/?utm_source=rss&utm_medium=rss&utm_campaign=lego-owner-kirkbi-appoints-craig-arnold-as-head-of-circular-plastics",
-      "publishedAt": "2026-10-08T10:41:18",
-      "content": "LEGO Group holding company KIRKBI’s climate investment arm KIRKBI Climate announced the appointment of Craig"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "CNH Equipment Helps Thai Rice Farmer Replace Stubble Burning",
-      "description": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue.",
-      "url": "https://csrwire.com/press-release/cnh-equipment-helps-thai-rice-farmer-replace-stubble-burning/",
-      "publishedAt": "2026-10-08T10:00:00",
-      "content": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue."
+      "title": "Pulpex Opens its First Commercial Scale Paper-Based Bottle Manufacturing Plant",
+      "description": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle",
+      "url": "https://www.esgtoday.com/pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant",
+      "publishedAt": "2026-10-09T12:26:24",
+      "content": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle"
     },
     {
       "source": {
@@ -238,11 +172,99 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Hurricane Isaias live updates: hundreds of thousands without power as storm batters US Gulf Coast",
-      "description": "First Atlantic hurricane of the 2026 season makes landfall in the USFull story: Hurricane Isaias hammers Gulf coastSign up for the US Breaking News emailWe have a statement from the Alabama governo...",
-      "url": "https://www.theguardian.com/world/live/2026/oct/10/hurricane-isaias-gulf-coast-alabama-florida-louisiana-mississippi-latest-updates",
-      "publishedAt": "2026-10-10T11:05:37",
-      "content": "First Atlantic hurricane of the 2026 season makes landfall in the USFull story: Hurricane Isaias hammers Gulf coastSign up for the US Breaking News emailWe have a statement from the Alabama governo..."
+      "title": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
+      "description": "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade highLos Angeles might be best known for blue skies, beaches and film premiers — but...",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
+      "publishedAt": "2026-10-11T11:00:25",
+      "content": "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade highLos Angeles might be best known for blue skies, beaches and film premiers — but..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+      "description": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachersSchools should consider changing start and finish times, reordering holidays and movin...",
+      "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
+      "publishedAt": "2026-10-11T05:00:17",
+      "content": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachersSchools should consider changing start and finish times, reordering holidays and movin..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Four dead as Isaias weakens to post-tropical cyclone after striking Florida panhandle",
+      "description": "Some of deaths came from falling trees as half a million people without power and rain and flooding still a concernAt least four people were reported dead on Saturday amid Isaias after it made land...",
+      "url": "https://www.theguardian.com/world/2026/oct/10/isaias-weakens-to-post-tropical-cyclone",
+      "publishedAt": "2026-10-10T23:20:32",
+      "content": "Some of deaths came from falling trees as half a million people without power and rain and flooding still a concernAt least four people were reported dead on Saturday amid Isaias after it made land..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+      "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
+      "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T23:19:55",
+      "content": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
+      "description": "The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at their most vibrant Continue reading...",
+      "url": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
+      "publishedAt": "2026-10-10T23:00:10",
+      "content": "The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at their most vibrant Continue reading..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Hundreds protest over data centre plans",
+      "description": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
+      "url": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T13:40:03",
+      "content": "Placard-waving opponents highlight concerns about a data centre development on the local landscape."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Hurricane Isaias downgraded after making landfall in Florida",
+      "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-10T11:55:12",
+      "content": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Virtual Power Plant Platform Voltus Raises $225 Million",
+      "description": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in",
+      "url": "https://www.esgtoday.com/virtual-power-plant-platform-voltus-raises-225-million/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-power-plant-platform-voltus-raises-225-million",
+      "publishedAt": "2026-10-09T10:25:15",
+      "content": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon, Microsoft Partner on 750 Million Liter Water Replenishment Project",
+      "description": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed",
+      "url": "https://www.esgtoday.com/amazon-microsoft-partner-on-750-million-liter-water-replenishment-project/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-microsoft-partner-on-750-million-liter-water-replenishment-project",
+      "publishedAt": "2026-10-08T13:43:52",
+      "content": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed"
     },
     {
       "source": {
@@ -265,28 +287,6 @@
       "url": "https://insideclimatenews.org/news/10102026/florida-black-community-contaminated-drinking-water/",
       "publishedAt": "2026-10-10T08:55:00",
       "content": "WHITTED, Fla."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hurricane Isaias downgraded after making landfall in Florida",
-      "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T08:29:59",
-      "content": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The house martins are gone for another year. But they’re not forgotten | Ed Douglas",
-      "description": "Lockerbrook, Derbyshire: Last week they were here, now they are not.",
-      "url": "https://www.theguardian.com/environment/2026/oct/10/country-diary-the-house-martins-are-gone-but-not-forgotten",
-      "publishedAt": "2026-10-10T04:30:47",
-      "content": "Lockerbrook, Derbyshire: Last week they were here, now they are not."
     },
     {
       "source": {
@@ -334,105 +334,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
-      "description": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T13:01:57",
-      "content": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Hurricane Isaias strengthens to a major category three storm",
-      "description": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T12:54:28",
-      "content": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Virtual Power Plant Platform Voltus Raises $225 Million",
-      "description": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in",
-      "url": "https://www.esgtoday.com/virtual-power-plant-platform-voltus-raises-225-million/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-power-plant-platform-voltus-raises-225-million",
-      "publishedAt": "2026-10-09T10:25:15",
-      "content": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon, Microsoft Partner on 750 Million Liter Water Replenishment Project",
-      "description": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed",
-      "url": "https://www.esgtoday.com/amazon-microsoft-partner-on-750-million-liter-water-replenishment-project/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-microsoft-partner-on-750-million-liter-water-replenishment-project",
-      "publishedAt": "2026-10-08T13:43:52",
-      "content": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2025 FedEx Cares Report: Empowering Entrepreneurs",
-      "description": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience.",
-      "url": "https://csrwire.com/press-release/2025-fedex-cares-report-empowering-entrepreneurs/",
-      "publishedAt": "2026-10-08T13:05:00",
-      "content": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Bacardi Climbs to #32 Among the World’s Top Companies for Women",
-      "description": "Bacardi Limited has climbed to #32 on the Forbes list of the World’s Top Companies for Women 2026, rising from #60 the previous year and earning a place on the prestigious global ranking for the fi...",
-      "url": "https://csrwire.com/press-release/bacardi-climbs-32-among-worlds-top-companies-women/",
-      "publishedAt": "2026-10-08T09:20:00",
-      "content": "Bacardi Limited has climbed to #32 on the Forbes list of the World’s Top Companies for Women 2026, rising from #60 the previous year and earning a place on the prestigious global ranking for the fi..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "T‑Mobile Helps Gulf Coast Communities Prepare as Tropical Storm Isaias Strengthens",
-      "description": "According to the National Hurricane Center (NHC), Tropical Storm Isaias has formed in the Gulf and is forecast to rapidly strengthen, becoming a hurricane by Thursday as it turns northeast and nort...",
-      "url": "https://csrwire.com/press-release/t-mobile-helps-gulf-coast-communities-prepare-tropical-storm-isaias-strengthens/",
-      "publishedAt": "2026-10-08T08:15:00",
-      "content": "According to the National Hurricane Center (NHC), Tropical Storm Isaias has formed in the Gulf and is forecast to rapidly strengthen, becoming a hurricane by Thursday as it turns northeast and nort..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Animals crossing: the simple solution to stop roadkill in the Amazon",
-      "description": "Installation of eight canopy bridges in Alta Floresta has enabled 15,000 safe crossings by animals including spider monkeys and marmosets – and more bridges are planned elsewhereBy about 7am, with ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/animals-crossing-simple-solution-roadkill-amazon-brazil-alternatives",
-      "publishedAt": "2026-10-09T09:00:44",
-      "content": "Installation of eight canopy bridges in Alta Floresta has enabled 15,000 safe crossings by animals including spider monkeys and marmosets – and more bridges are planned elsewhereBy about 7am, with ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Revealed: the ‘black box’ wastewater trade that rakes in millions for UK utility companies",
-      "description": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutantsWater companies in the UK made...",
-      "url": "https://www.theguardian.com/environment/2026/oct/09/uk-water-companies-industrial-commercial-wastewater-sewage-treatment",
-      "publishedAt": "2026-10-09T05:00:39",
-      "content": "Exclusive: Firms made more than £340m last year from processing industrial and commercial wastewater at sewage works that are unable to remove many chemical pollutantsWater companies in the UK made..."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -452,39 +353,6 @@
       "url": "https://www.nytimes.com/2026/10/08/climate/nepal-floods-building-exposure.html",
       "publishedAt": "2026-10-08T15:00:06",
       "content": "The total footprint of buildings along flood-prone riverbanks in the Himalayas grew by half in recent years, a study found."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How ethical is Adidas?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/adidas-ethical/",
-      "publishedAt": "2026-10-07T21:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Australia says COP31 co-presidency will work on a cover decision",
-      "description": "Chris Bowen said the text could acknowledge the inevitable overshoot of 1.",
-      "url": "https://www.climatechangenews.com/2026/10/07/australia-says-cop31-co-presidency-will-work-on-a-cover-decision/",
-      "publishedAt": "2026-10-07T15:39:46",
-      "content": "Chris Bowen said the text could acknowledge the inevitable overshoot of 1."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "One Health Innovation District Breaks Ground on One Health Research Institute, Anchored by Purdue University and Elanco Animal Health",
-      "description": "The One Health Innovation District unveiled plans for the One Health Research Institute, a new hub for research, collaboration and innovation within the District.",
-      "url": "https://csrwire.com/press-release/one-health-innovation-district-breaks-ground-one-health-research-institute-anchored-purdue/",
-      "publishedAt": "2026-10-07T11:00:00",
-      "content": "The One Health Innovation District unveiled plans for the One Health Research Institute, a new hub for research, collaboration and innovation within the District."
     },
     {
       "source": {
