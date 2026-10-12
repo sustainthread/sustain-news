@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 33,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
@@ -26,25 +26,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "South Korea Launches $750 Billion Decarbonization Strategy",
-      "description": "The Government of South Korea announced the launch of its new Korean Green Transformation (K-GX)",
-      "url": "https://www.esgtoday.com/south-korea-launches-750-billion-decarbonization-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=south-korea-launches-750-billion-decarbonization-strategy",
-      "publishedAt": "2026-10-08T14:55:12",
-      "content": "The Government of South Korea announced the launch of its new Korean Green Transformation (K-GX)"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "12 things to know about in sustainable fashion this October",
-      "description": "It’s been a big month in sustainable fashion: from PETA protesters at Fashion Month to new EU regulations and a report on the dire state of living wages for garment workers. It’s not all bad though...",
-      "url": "https://goodonyou.eco/sustainable-fashion-news-october-2026/",
-      "publishedAt": "2026-10-04T23:57:08",
-      "content": "It’s been a big month in sustainable fashion: from PETA protesters at Fashion Month to new EU regulations and a report on the dire state of living wages for garment workers. It’s not all bad though..."
+      "author": "The Guardian",
+      "title": "Why a Chilean salt flat is a microcosm of the extractive frontiers of green capitalism",
+      "description": "In the Atacama desert, the extraction of lithium – so crucial to addressing the climate crisis – comes with escalating social and environmental costsA high-altitude desert plateau traverses Argenti...",
+      "url": "https://www.theguardian.com/world/2026/oct/11/chilean-salt-flat-extractive-frontiers-green-capitalism-atacama",
+      "publishedAt": "2026-10-11T12:00:26",
+      "content": "In the Atacama desert, the extraction of lithium – so crucial to addressing the climate crisis – comes with escalating social and environmental costsA high-altitude desert plateau traverses Argenti..."
     },
     {
       "source": {
@@ -56,6 +45,39 @@
       "url": "https://www.climatechangenews.com/2026/10/07/new-zealand-accused-breaching-eu-trade-deal-climate-rollbacks-fta/",
       "publishedAt": "2026-10-07T16:37:02",
       "content": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its trade deal with the bloc\nThe post New Zealand ac..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Candide Raises Over $70 Million to Finance Climate Projects in Underinvested Communities",
+      "description": "California-based impact investment advisory firm Candide announced that it has raised $71.5 million in commitments",
+      "url": "https://www.esgtoday.com/candide-raises-over-70-million-to-finance-climate-projects-in-underinvested-communities/?utm_source=rss&utm_medium=rss&utm_campaign=candide-raises-over-70-million-to-finance-climate-projects-in-underinvested-communities",
+      "publishedAt": "2026-10-12T13:16:13",
+      "content": "California-based impact investment advisory firm Candide announced that it has raised $71.5 million in commitments"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BNP Paribas AM Launches New Global Sustainability Strategy Following AXA IM Acquisition",
+      "description": "BNP Paribas Asset Management (BNPP AM) announced today the release of its new Global Sustainability",
+      "url": "https://www.esgtoday.com/bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition",
+      "publishedAt": "2026-10-12T12:58:45",
+      "content": "BNP Paribas Asset Management (BNPP AM) announced today the release of its new Global Sustainability"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Governments that support climate science must stand firm against naysayers",
+      "description": "The IPCC is meeting to decide the timing of its next major report, as some countries try to delay it and weaken the case for faster emissions cuts\nThe post Governments that support climate science ...",
+      "url": "https://www.climatechangenews.com/2026/10/12/governments-that-support-climate-science-must-stand-firm-against-naysayers/",
+      "publishedAt": "2026-10-12T08:53:51",
+      "content": "The IPCC is meeting to decide the timing of its next major report, as some countries try to delay it and weaken the case for faster emissions cuts\nThe post Governments that support climate science ..."
     },
     {
       "source": {
@@ -81,36 +103,47 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Turning Ocean Data Into Impact: How AI, Trusted Data, and Partnerships Can Help Accelerate Sustainability",
+      "description": "Every day, thousands of data points are collected across our oceans — measuring temperature, salinity, carbon dioxide concentrations, and biodiversity. These insights are essential for understandin...",
+      "url": "https://csrwire.com/press-release/turning-ocean-data-impact-how-ai-trusted-data-and-partnerships-can-help-accelerate/",
+      "publishedAt": "2026-10-07T10:05:00",
+      "content": "Every day, thousands of data points are collected across our oceans — measuring temperature, salinity, carbon dioxide concentrations, and biodiversity. These insights are essential for understandin..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Deutsche Telekom Appoints Robert Metzke as Chief Sustainability Officer",
-      "description": "Deutsche Telekom announced the appointment of Robert Metzke as Chief Sustainability Officer, a newly created",
-      "url": "https://www.esgtoday.com/deutsche-telekom-appoints-robert-metzke-as-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-telekom-appoints-robert-metzke-as-chief-sustainability-officer",
-      "publishedAt": "2026-10-08T13:05:54",
-      "content": "Deutsche Telekom announced the appointment of Robert Metzke as Chief Sustainability Officer, a newly created"
+      "title": "TotalEnergies, KKR Add $1.2 Billion Solar Portfolio to U.S. Renewables Joint Venture",
+      "description": "Alternative asset and private equity investor KKR and French energy giant TotalEnergies announced today a",
+      "url": "https://www.esgtoday.com/totalenergies-kkr-add-1-2-billion-solar-portfolio-to-u-s-renewables-joint-venture/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-kkr-add-1-2-billion-solar-portfolio-to-u-s-renewables-joint-venture",
+      "publishedAt": "2026-10-12T09:36:22",
+      "content": "Alternative asset and private equity investor KKR and French energy giant TotalEnergies announced today a"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Impact Investor BlueOrchard, IFC Partner to Invest $2 Billion in Emerging Markets",
+      "description": "World Bank Group member the International Finance Corporation (IFC) and global investment firm Schroders’ impact",
+      "url": "https://www.esgtoday.com/impact-investor-blueorchard-ifc-partner-to-invest-2-billion-in-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investor-blueorchard-ifc-partner-to-invest-2-billion-in-emerging-markets",
+      "publishedAt": "2026-10-12T09:04:07",
+      "content": "World Bank Group member the International Finance Corporation (IFC) and global investment firm Schroders’ impact"
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Unpacking the Environmental Issues in Susan Collins’ Tough Race in Maine",
-      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race...",
-      "url": "https://insideclimatenews.org/news/10102026/susan-collins-election-environmental-issues/",
-      "publishedAt": "2026-10-10T08:50:00",
-      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by host Steve Curwood with veteran Maine journalist Kevin Miller. The closely watched race..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Looking for Oil in Alaska, No Environmental Strings Attached",
-      "description": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th...",
-      "url": "https://insideclimatenews.org/news/09102026/bureau-of-land-management-accelerates-arctic-oil-exploration-permit/",
-      "publishedAt": "2026-10-09T22:30:07",
-      "content": "Oil companies will no longer be required to conduct environmental reviews before exploring for fossil fuel reservoirs in the Western Arctic, the largest tract of federally managed public land in th..."
+      "title": "How a Bid to Beat Drought Drove Corpus Christi to the Brink of Disaster",
+      "description": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom.",
+      "url": "https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/",
+      "publishedAt": "2026-10-12T09:00:00",
+      "content": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom."
     },
     {
       "source": {
@@ -122,17 +155,6 @@
       "url": "https://www.climatechangenews.com/2026/10/08/pre-cop-draws-attention-to-pacifics-climate-plight-and-1-5c-goal/",
       "publishedAt": "2026-10-08T11:52:15",
       "content": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Pulpex Opens its First Commercial Scale Paper-Based Bottle Manufacturing Plant",
-      "description": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle",
-      "url": "https://www.esgtoday.com/pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant",
-      "publishedAt": "2026-10-09T12:26:24",
-      "content": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle"
     },
     {
       "source": {
@@ -158,36 +180,80 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "New York Times"
       },
-      "author": "Climate Change News",
-      "title": "Africa should not have to adapt to an unjust climate system",
-      "description": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul...",
-      "url": "https://www.climatechangenews.com/2026/10/05/africa-should-not-have-to-adapt-to-an-unjust-climate-system/",
-      "publishedAt": "2026-10-05T15:54:01",
-      "content": "Adaptation must go beyond infrastructure and resilience to address colonial extraction, unequal development and debt dependency, which continue to fuel Africa's vulnerability \nThe post Africa shoul..."
+      "author": "New York Times",
+      "title": "How Do Cuttlefish Hide? Scientists Search for the Secret to Camouflage.",
+      "description": "Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain.",
+      "url": "https://www.nytimes.com/2026/10/12/science/cuttlefish-brain-camouflage.html",
+      "publishedAt": "2026-10-12T09:00:46",
+      "content": "Cephalopods are masters of camouflage. Scientists want to decipher how the process works in the brain."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘A living hell’: how Los Angeles got taken over by mosquitoes",
-      "description": "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade highLos Angeles might be best known for blue skies, beaches and film premiers — but...",
-      "url": "https://www.theguardian.com/us-news/2026/oct/11/los-angeles-mosquitoes-west-nile-virus-el-nino",
-      "publishedAt": "2026-10-11T11:00:25",
-      "content": "Heat and humidity have led to one of the worst mosquito years in recent history, with West Nile virus at a decade highLos Angeles might be best known for blue skies, beaches and film premiers — but..."
+      "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
+      "description": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources sayMinisters are preparing to slash the amount of money available to subsidise heat pu...",
+      "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
+      "publishedAt": "2026-10-12T05:00:47",
+      "content": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources sayMinisters are preparing to slash the amount of money available to subsidise heat pu..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "BBC"
       },
-      "author": "The Guardian",
-      "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
-      "description": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachersSchools should consider changing start and finish times, reordering holidays and movin...",
-      "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
-      "publishedAt": "2026-10-11T05:00:17",
-      "content": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachersSchools should consider changing start and finish times, reordering holidays and movin..."
+      "author": "BBC",
+      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+      "description": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
+      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T23:48:25",
+      "content": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "No one should be surprised that John Galliano x Zara is full of polyester",
+      "description": "Zara and John Galliano’s high fashion/fast fashion link-up debuted at Paris Fashion Week and synthetic materials abound.",
+      "url": "https://goodonyou.eco/polyester-in-john-galliano-zara-collaboration/",
+      "publishedAt": "2026-10-11T23:47:59",
+      "content": "Zara and John Galliano’s high fashion/fast fashion link-up debuted at Paris Fashion Week and synthetic materials abound."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Orangutans released back into Borneo forest after devastating fires",
+      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-11T19:08:04",
+      "content": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Pulpex Opens its First Commercial Scale Paper-Based Bottle Manufacturing Plant",
+      "description": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle",
+      "url": "https://www.esgtoday.com/pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-opens-its-first-commercial-scale-paper-based-bottle-manufacturing-plant",
+      "publishedAt": "2026-10-09T12:26:24",
+      "content": "Sustainable packaging technology company Pulpex announced that it has opened its first commercial-scale fiber bottle"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "CNH Equipment Helps Thai Rice Farmer Replace Stubble Burning",
+      "description": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue.",
+      "url": "https://csrwire.com/press-release/cnh-equipment-helps-thai-rice-farmer-replace-stubble-burning/",
+      "publishedAt": "2026-10-08T10:00:00",
+      "content": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue."
     },
     {
       "source": {
@@ -213,17 +279,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Blooming beautiful! The Tesselaar tulip festival – in pictures",
-      "description": "The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at their most vibrant Continue reading...",
-      "url": "https://www.theguardian.com/environment/gallery/2026/oct/11/tesselaar-tulip-festival-silvan-victoria-in-pictures",
-      "publishedAt": "2026-10-10T23:00:10",
-      "content": "The annual month-long festival takes place at a flower farm in the Victorian town of Silvan when tulips and other springs flowers are at their most vibrant Continue reading..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -246,39 +301,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Virtual Power Plant Platform Voltus Raises $225 Million",
-      "description": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in",
-      "url": "https://www.esgtoday.com/virtual-power-plant-platform-voltus-raises-225-million/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-power-plant-platform-voltus-raises-225-million",
-      "publishedAt": "2026-10-09T10:25:15",
-      "content": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon, Microsoft Partner on 750 Million Liter Water Replenishment Project",
-      "description": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed",
-      "url": "https://www.esgtoday.com/amazon-microsoft-partner-on-750-million-liter-water-replenishment-project/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-microsoft-partner-on-750-million-liter-water-replenishment-project",
-      "publishedAt": "2026-10-08T13:43:52",
-      "content": "Tech giants Amazon and Microsoft announced a new water replenishment project in Hesse, Germany, aimed"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How drones are hunting fires hidden beneath the Cairngorms",
-      "description": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T09:31:14",
-      "content": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -290,69 +312,69 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Northern California Community Wants Stronger Oversight of Dangerous Refineries Nearby",
-      "description": "MARTINEZ, Calif.",
-      "url": "https://insideclimatenews.org/news/09102026/bay-area-community-seeks-stronger-refinery-oversight/",
-      "publishedAt": "2026-10-09T23:01:56",
-      "content": "MARTINEZ, Calif."
+      "author": "CSRWire",
+      "title": "43 Years. Run Your Race.",
+      "description": "Protein is having more than a moment.",
+      "url": "https://csrwire.com/press-release/43-years-run-your-race/",
+      "publishedAt": "2026-10-09T12:00:00",
+      "content": "Protein is having more than a moment."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "'People don't think recycling at work is part of their job description'",
-      "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T19:11:27",
-      "content": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue."
+      "author": "ESG Today",
+      "title": "Virtual Power Plant Platform Voltus Raises $225 Million",
+      "description": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in",
+      "url": "https://www.esgtoday.com/virtual-power-plant-platform-voltus-raises-225-million/?utm_source=rss&utm_medium=rss&utm_campaign=virtual-power-plant-platform-voltus-raises-225-million",
+      "publishedAt": "2026-10-09T10:25:15",
+      "content": "Distributed energy resource (DER) technology company Voltus announced that it has raised $225 million in"
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Isaias becomes major category three storm before landfall",
-      "description": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
-      "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T16:46:32",
-      "content": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane."
+      "author": "CSRWire",
+      "title": "2025 FedEx Cares Report: Empowering Entrepreneurs",
+      "description": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience.",
+      "url": "https://csrwire.com/press-release/2025-fedex-cares-report-empowering-entrepreneurs/",
+      "publishedAt": "2026-10-08T13:05:00",
+      "content": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-      "description": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
-      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-09T15:32:30",
-      "content": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest."
+      "author": "CSRWire",
+      "title": "Bacardi Climbs to #32 Among the World’s Top Companies for Women",
+      "description": "Bacardi Limited has climbed to #32 on the Forbes list of the World’s Top Companies for Women 2026, rising from #60 the previous year and earning a place on the prestigious global ranking for the fi...",
+      "url": "https://csrwire.com/press-release/bacardi-climbs-32-among-worlds-top-companies-women/",
+      "publishedAt": "2026-10-08T09:20:00",
+      "content": "Bacardi Limited has climbed to #32 on the Forbes list of the World’s Top Companies for Women 2026, rising from #60 the previous year and earning a place on the prestigious global ranking for the fi..."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "Launch of Africa Energy Bank delayed again in blow to oil and gas hopes",
-      "description": "Repeated delays are raising questions about the bank's momentum and whether it can mobilise investment to finance Africa’s oil and gas ambitions in an era of energy transition \nThe post Launch of A...",
-      "url": "https://www.climatechangenews.com/2026/10/09/launch-of-africa-energy-bank-delayed-again-in-blow-to-oil-and-gas-hopes/",
-      "publishedAt": "2026-10-09T05:00:00",
-      "content": "Repeated delays are raising questions about the bank's momentum and whether it can mobilise investment to finance Africa’s oil and gas ambitions in an era of energy transition \nThe post Launch of A..."
+      "author": "CSRWire",
+      "title": "T‑Mobile Helps Gulf Coast Communities Prepare as Tropical Storm Isaias Strengthens",
+      "description": "According to the National Hurricane Center (NHC), Tropical Storm Isaias has formed in the Gulf and is forecast to rapidly strengthen, becoming a hurricane by Thursday as it turns northeast and nort...",
+      "url": "https://csrwire.com/press-release/t-mobile-helps-gulf-coast-communities-prepare-tropical-storm-isaias-strengthens/",
+      "publishedAt": "2026-10-08T08:15:00",
+      "content": "According to the National Hurricane Center (NHC), Tropical Storm Isaias has formed in the Gulf and is forecast to rapidly strengthen, becoming a hurricane by Thursday as it turns northeast and nort..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "As Flood Risk Increases in Himalayas, Nepal Builds More in Vulnerable Areas",
-      "description": "The total footprint of buildings along flood-prone riverbanks in the Himalayas grew by half in recent years, a study found.",
-      "url": "https://www.nytimes.com/2026/10/08/climate/nepal-floods-building-exposure.html",
-      "publishedAt": "2026-10-08T15:00:06",
-      "content": "The total footprint of buildings along flood-prone riverbanks in the Himalayas grew by half in recent years, a study found."
+      "author": "CSRWire",
+      "title": "One Health Innovation District Breaks Ground on One Health Research Institute, Anchored by Purdue University and Elanco Animal Health",
+      "description": "The One Health Innovation District unveiled plans for the One Health Research Institute, a new hub for research, collaboration and innovation within the District.",
+      "url": "https://csrwire.com/press-release/one-health-innovation-district-breaks-ground-one-health-research-institute-anchored-purdue/",
+      "publishedAt": "2026-10-07T11:00:00",
+      "content": "The One Health Innovation District unveiled plans for the One Health Research Institute, a new hub for research, collaboration and innovation within the District."
     },
     {
       "source": {
