@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 40,
+  "totalResults": 35,
   "articles": [
     {
       "source": {
@@ -26,17 +26,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘It’s not glamorous’: the volunteers counting flushed wet wipes on the banks of the Thames",
-      "description": "A Thames21 charity citizen science project helps track plastic pollution in the capital’s river On a pale-blue Sunday morning on the foreshore of the River Thames, 40 people are searching for what ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/13/volunteers-flushed-plastic-wet-wipes-river-thames",
-      "publishedAt": "2026-10-13T10:00:05",
-      "content": "A Thames21 charity citizen science project helps track plastic pollution in the capital’s river On a pale-blue Sunday morning on the foreshore of the River Thames, 40 people are searching for what ..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -45,17 +34,6 @@
       "url": "https://www.esgtoday.com/stoxx-osmosis-launches-new-suite-of-sustainable-transition-factor-indices/?utm_source=rss&utm_medium=rss&utm_campaign=stoxx-osmosis-launches-new-suite-of-sustainable-transition-factor-indices",
       "publishedAt": "2026-10-13T08:06:43",
       "content": "Index provider Stoxx and sustainability-focused asset manager Osmosis announced the launch of the iSTOXX Osmosis"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why a Chilean salt flat is a microcosm of the extractive frontiers of green capitalism",
-      "description": "In the Atacama desert, the extraction of lithium – so crucial to addressing the climate crisis – comes with escalating social and environmental costsA high-altitude desert plateau traverses Argenti...",
-      "url": "https://www.theguardian.com/world/2026/oct/11/chilean-salt-flat-extractive-frontiers-green-capitalism-atacama",
-      "publishedAt": "2026-10-11T12:00:26",
-      "content": "In the Atacama desert, the extraction of lithium – so crucial to addressing the climate crisis – comes with escalating social and environmental costsA high-altitude desert plateau traverses Argenti..."
     },
     {
       "source": {
@@ -73,11 +51,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "Home Energy Cleantech Startup 1KOMMA5° Raises €70 Million at Unicorn $1.35 Billion Valuation",
+      "description": "German clean energy startup 1KOMMA5° announced that it has raised over €70 million (USD$78 million)",
+      "url": "https://www.esgtoday.com/home-energy-cleantech-startup-1komma5-raises-e70-million-at-unicorn-1-35-billion-valuation/?utm_source=rss&utm_medium=rss&utm_campaign=home-energy-cleantech-startup-1komma5-raises-e70-million-at-unicorn-1-35-billion-valuation",
+      "publishedAt": "2026-10-14T10:41:17",
+      "content": "German clean energy startup 1KOMMA5° announced that it has raised over €70 million (USD$78 million)"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "SBTN Releases New Framework for Corporate Science-Based Nature Target Setting",
       "description": "The Science Based Targets Network (SBTN) announced today the release of Science-Based Targets for Nature",
       "url": "https://www.esgtoday.com/sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting/?utm_source=rss&utm_medium=rss&utm_campaign=sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting",
       "publishedAt": "2026-10-13T11:14:31",
       "content": "The Science Based Targets Network (SBTN) announced today the release of Science-Based Targets for Nature"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "IKEA Appoints Erika Intiso as Chief Sustainability Officer",
+      "description": "Ingka Group, the largest IKEA retailer accounting for more than 85% of the chain’s retail",
+      "url": "https://www.esgtoday.com/ikea-appoints-erika-intiso-as-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=ikea-appoints-erika-intiso-as-chief-sustainability-officer",
+      "publishedAt": "2026-10-14T10:01:59",
+      "content": "Ingka Group, the largest IKEA retailer accounting for more than 85% of the chain’s retail"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amundi, BNP Paribas AM Win €1.6 Billion Sustainable Investment Mandates from Ircantec",
+      "description": "French pension plan Ircantec announced that it has selected European asset managers Amundi and BNP",
+      "url": "https://www.esgtoday.com/amundi-bnp-paribas-am-win-e1-6-billion-sustainable-investment-mandates-from-ircantec/?utm_source=rss&utm_medium=rss&utm_campaign=amundi-bnp-paribas-am-win-e1-6-billion-sustainable-investment-mandates-from-ircantec",
+      "publishedAt": "2026-10-14T09:18:55",
+      "content": "French pension plan Ircantec announced that it has selected European asset managers Amundi and BNP"
     },
     {
       "source": {
@@ -92,36 +103,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Climate Change News"
       },
-      "author": "ESG Today",
-      "title": "BII to Mobilize $1.6 Billion for Climate Finance in Southeast Asia",
-      "description": "UK development finance institution British International Investment (BII) announced plans to channel $1.6 billion in",
-      "url": "https://www.esgtoday.com/bii-to-mobilize-1-6-billion-for-climate-finance-in-southeast-asia/?utm_source=rss&utm_medium=rss&utm_campaign=bii-to-mobilize-1-6-billion-for-climate-finance-in-southeast-asia",
-      "publishedAt": "2026-10-12T13:44:43",
-      "content": "UK development finance institution British International Investment (BII) announced plans to channel $1.6 billion in"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Candide Raises Over $70 Million to Close the Climate Finance Gap in Underinvested Communities",
-      "description": "California-based impact investment advisory firm Candide announced that it has raised $71.5 million in commitments",
-      "url": "https://www.esgtoday.com/candide-raises-over-70-million-to-finance-climate-projects-in-underinvested-communities/?utm_source=rss&utm_medium=rss&utm_campaign=candide-raises-over-70-million-to-finance-climate-projects-in-underinvested-communities",
-      "publishedAt": "2026-10-12T13:16:13",
-      "content": "California-based impact investment advisory firm Candide announced that it has raised $71.5 million in commitments"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BNP Paribas AM Launches New Global Sustainability Strategy Following AXA IM Acquisition",
-      "description": "BNP Paribas Asset Management (BNPP AM) announced today the release of its new Global Sustainability",
-      "url": "https://www.esgtoday.com/bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition/?utm_source=rss&utm_medium=rss&utm_campaign=bnp-paribas-am-launches-new-global-sustainability-strategy-following-axa-im-acquisition",
-      "publishedAt": "2026-10-12T12:58:45",
-      "content": "BNP Paribas Asset Management (BNPP AM) announced today the release of its new Global Sustainability"
+      "author": "Climate Change News",
+      "title": "World Bank and IMF should lead the financial system in responding to the climate crisis",
+      "description": "Multilateral development banks have a vital role to play in delivering on donors' climate finance promises and protecting the most vulnerable\nThe post World Bank and IMF should lead the financial s...",
+      "url": "https://www.climatechangenews.com/2026/10/14/world-bank-and-imf-should-lead-the-financial-system-in-responding-to-the-climate-crisis/",
+      "publishedAt": "2026-10-14T00:00:00",
+      "content": "Multilateral development banks have a vital role to play in delivering on donors' climate finance promises and protecting the most vulnerable\nThe post World Bank and IMF should lead the financial s..."
     },
     {
       "source": {
@@ -136,17 +125,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "NATULON® Zippers Surpass Half of YKK’s Global Zipper Sales Volume",
-      "description": "YKK Corporation has published “This is YKK 2026,” its latest integrated report, outlining FY2025 progress, performance and priorities across the company’s business and sustainability initiatives.",
-      "url": "https://csrwire.com/press-release/natulonr-zippers-surpass-half-ykks-global-zipper-sales-volume/",
-      "publishedAt": "2026-10-13T08:00:00",
-      "content": "YKK Corporation has published “This is YKK 2026,” its latest integrated report, outlining FY2025 progress, performance and priorities across the company’s business and sustainability initiatives."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -158,47 +136,58 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "More tea? How Scotland's crops of the future could be set to change",
+      "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+      "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T05:02:27",
+      "content": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Momentum for Measuring Water Lost in Wyoming’s Portion of the Colorado River Dries Up",
+      "description": "Wyoming has shelved a state-funded project to measure water use in the Green River and Little Snake River basins after it could not get enough data to create a basin-wide estimate of water lost dur...",
+      "url": "https://insideclimatenews.org/news/13102026/wyoming-colorado-river-measuring/",
+      "publishedAt": "2026-10-13T22:50:17",
+      "content": "Wyoming has shelved a state-funded project to measure water use in the Green River and Little Snake River basins after it could not get enough data to create a basin-wide estimate of water lost dur..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Blaze Raises $6.5 Million to Enable Ships to Run on Clean Fuel",
-      "description": "Maritime fuel technology startup Blaze Energy announced that it has raised $6.5 million in a",
-      "url": "https://www.esgtoday.com/blaze-raises-6-5-million-to-enable-ships-to-run-on-clean-fuel/?utm_source=rss&utm_medium=rss&utm_campaign=blaze-raises-6-5-million-to-enable-ships-to-run-on-clean-fuel",
-      "publishedAt": "2026-10-12T16:05:46",
-      "content": "Maritime fuel technology startup Blaze Energy announced that it has raised $6.5 million in a"
+      "title": "Steve Wozniak’s Energy Saving Technology Platform Efforce Acquired by TROOPS",
+      "description": "Hong Kong-based financial services and technology company TROOPS announced an agreement to acquire energy technology",
+      "url": "https://www.esgtoday.com/steve-wozniaks-energy-saving-technology-platform-efforce-acquired-by-troops/?utm_source=rss&utm_medium=rss&utm_campaign=steve-wozniaks-energy-saving-technology-platform-efforce-acquired-by-troops",
+      "publishedAt": "2026-10-13T16:31:13",
+      "content": "Hong Kong-based financial services and technology company TROOPS announced an agreement to acquire energy technology"
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Mental Health Screening Month: How Tech Is Fixing Therapy’s First-Month Dropout Problem",
-      "description": "Every week, millions of people sit down with their mental health therapy provider, take a deep breath, and try to answer a deceptively simple question: “So, how was your week?” For many, answering ...",
-      "url": "https://csrwire.com/press-release/mental-health-screening-month-how-tech-fixing-therapys-first-month-dropout-problem/",
-      "publishedAt": "2026-10-12T15:35:00",
-      "content": "Every week, millions of people sit down with their mental health therapy provider, take a deep breath, and try to answer a deceptively simple question: “So, how was your week?” For many, answering ..."
+      "author": "ESG Today",
+      "title": "TNFD Releases Major Update to Guidance Supporting Corporate Nature-Related Reporting",
+      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first",
+      "url": "https://www.esgtoday.com/tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-releases-major-update-to-assessment-framework-to-support-corporate-nature-related-reporting",
+      "publishedAt": "2026-10-13T14:44:42",
+      "content": "The Taskforce on Nature-related Financial Disclosures (TNFD) announced the release of LEAP 2.0, the first"
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "ESG Today"
       },
-      "author": "CSRWire",
-      "title": "Congratulations to the 2026 Picture Proof of Planting Contest Winners!",
-      "description": "The Picture Proof of Planting photo contest returns for its third year to celebrate over 1,000 FedEx team members delivering conservation to local communities. We received more than 500 photos this...",
-      "url": "https://csrwire.com/press-release/congratulations-2026-picture-proof-planting-contest-winners/",
-      "publishedAt": "2026-10-12T11:00:00",
-      "content": "The Picture Proof of Planting photo contest returns for its third year to celebrate over 1,000 FedEx team members delivering conservation to local communities. We received more than 500 photos this..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Responsible Gaming and Education Month 2026: A Spotlight on Training and Engagement Programs at Sands",
-      "description": "One of Sands’ key strategies for ensuring an environment of safe play in its casinos is upholding the tenets established by leading responsible gaming organizations in the company’s jurisdictions a...",
-      "url": "https://csrwire.com/press-release/responsible-gaming-and-education-month-2026-spotlight-training-and-engagement-programs-sands/",
-      "publishedAt": "2026-10-12T10:05:00",
-      "content": "One of Sands’ key strategies for ensuring an environment of safe play in its casinos is upholding the tenets established by leading responsible gaming organizations in the company’s jurisdictions a..."
+      "author": "ESG Today",
+      "title": "Epyr Raises $17 Million to Scale Industrial Heat Electrification Platform",
+      "description": "French energy tech startup Epyr announced today that it has raised €15 million (USD$16.8 million)",
+      "url": "https://www.esgtoday.com/epyr-raises-17-million-to-scale-industrial-heat-electrification-platform/?utm_source=rss&utm_medium=rss&utm_campaign=epyr-raises-17-million-to-scale-industrial-heat-electrification-platform",
+      "publishedAt": "2026-10-13T13:18:52",
+      "content": "French energy tech startup Epyr announced today that it has raised €15 million (USD$16.8 million)"
     },
     {
       "source": {
@@ -213,14 +202,80 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Indian Protesters Describe Rough Treatment by the Police",
+      "description": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law.",
+      "url": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
+      "publishedAt": "2026-10-14T09:52:43",
+      "content": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Pollinating insects flock to plants gardeners might think of as ‘weeds’",
+      "description": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveysUbiquitous urban plants often derided as “weeds” are the most attractive to pollinati...",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds",
+      "publishedAt": "2026-10-14T07:00:47",
+      "content": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveysUbiquitous urban plants often derided as “weeds” are the most attractive to pollinati..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Businesses could be barred from non-essential water use amid supply threat",
+      "description": "Golf clubs, private schools and car washes may face tighter rules from water companies as England’s drought continuesThree water companies are seeking to impose severe restrictions on businesses as...",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
+      "publishedAt": "2026-10-14T06:00:48",
+      "content": "Golf clubs, private schools and car washes may face tighter rules from water companies as England’s drought continuesThree water companies are seeking to impose severe restrictions on businesses as..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Birdwatch: the paradoxical puffin – a comical bird with a fighting spirit",
+      "description": "Despite their size and gentle appearance, puffins will fight to keep their catch of sand eels from an opportunistic gullFew birds are as paradoxical as the puffin. It rivals the robin as Britain’s ...",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/birdwatch-puffin",
+      "publishedAt": "2026-10-14T05:00:46",
+      "content": "Despite their size and gentle appearance, puffins will fight to keep their catch of sand eels from an opportunistic gullFew birds are as paradoxical as the puffin. It rivals the robin as Britain’s ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "World's oldest shipwreck found off coast of Turkey",
+      "description": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gr80rk1yyko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T05:00:35",
+      "content": "Archaeologists say the wreck is up to 4,700 years old, dating to the Early Bronze Age."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "4 vegan leather jacket options: from cactus leather to deadstock",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-vegan-leather-jackets/",
+      "publishedAt": "2026-10-13T23:00:36",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "Pacific leaders rail at climate finance failures after pre-COP trip to Tuvalu",
-      "description": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte...",
-      "url": "https://www.climatechangenews.com/2026/10/06/pacific-leaders-rail-at-climate-finance-failures-after-pre-cop-trip-to-tuvalu/",
-      "publishedAt": "2026-10-06T16:40:55",
-      "content": "Island nations seek invest in their own Pacific Resilience Facility, as they struggle with the red-tape of international climate funds\nThe post Pacific leaders rail at climate finance failures afte..."
+      "title": "SE Asia speeds up plan for connected clean power grid after oil shock",
+      "description": "Countries are redoubling efforts to link their grids to bolster energy security and reduce their dependence on fossil fuels - but many challenges remain\nThe post SE Asia speeds up plan for connecte...",
+      "url": "https://www.climatechangenews.com/2026/10/13/se-asia-speeds-up-plan-for-connected-clean-power-grid-after-oil-shock/",
+      "publishedAt": "2026-10-13T15:34:59",
+      "content": "Countries are redoubling efforts to link their grids to bolster energy security and reduce their dependence on fossil fuels - but many challenges remain\nThe post SE Asia speeds up plan for connecte..."
     },
     {
       "source": {
@@ -232,6 +287,17 @@
       "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-13T11:18:44",
       "content": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How a Bid to Beat Drought Drove Corpus Christi to the Brink of Disaster",
+      "description": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom.",
+      "url": "https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/",
+      "publishedAt": "2026-10-12T09:00:00",
+      "content": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom."
     },
     {
       "source": {
@@ -312,94 +378,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Heart Monitoring and Ablation Helped One Father Overcome AFib",
-      "description": "In 2018, then 52-year-old Todd Repass Jr.",
-      "url": "https://csrwire.com/press-release/how-heart-monitoring-and-ablation-helped-one-father-overcome-afib/",
-      "publishedAt": "2026-10-12T12:30:00",
-      "content": "In 2018, then 52-year-old Todd Repass Jr."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TotalEnergies, KKR Add $1.2 Billion Solar Portfolio to U.S. Renewables Joint Venture",
-      "description": "Alternative asset and private equity investor KKR and French energy giant TotalEnergies announced today a",
-      "url": "https://www.esgtoday.com/totalenergies-kkr-add-1-2-billion-solar-portfolio-to-u-s-renewables-joint-venture/?utm_source=rss&utm_medium=rss&utm_campaign=totalenergies-kkr-add-1-2-billion-solar-portfolio-to-u-s-renewables-joint-venture",
-      "publishedAt": "2026-10-12T09:36:22",
-      "content": "Alternative asset and private equity investor KKR and French energy giant TotalEnergies announced today a"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Impact Investor BlueOrchard, IFC Partner to Invest $2 Billion in Emerging Markets",
-      "description": "World Bank Group member the International Finance Corporation (IFC) and global investment firm Schroders’ impact",
-      "url": "https://www.esgtoday.com/impact-investor-blueorchard-ifc-partner-to-invest-2-billion-in-emerging-markets/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investor-blueorchard-ifc-partner-to-invest-2-billion-in-emerging-markets",
-      "publishedAt": "2026-10-12T09:04:07",
-      "content": "World Bank Group member the International Finance Corporation (IFC) and global investment firm Schroders’ impact"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How a Bid to Beat Drought Drove Corpus Christi to the Brink of Disaster",
-      "description": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom.",
-      "url": "https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/",
-      "publishedAt": "2026-10-12T09:00:00",
-      "content": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "AI in Geospatial Intelligence: What Government Leaders Need To Know",
-      "description": "Artificial intelligence (AI) is helping government and defense organizations process geospatial intelligence (GEOINT) faster, improve data quality, and make more informed decisions.",
-      "url": "https://csrwire.com/press-release/ai-geospatial-intelligence-what-government-leaders-need-know/",
-      "publishedAt": "2026-10-12T08:15:00",
-      "content": "Artificial intelligence (AI) is helping government and defense organizations process geospatial intelligence (GEOINT) faster, improve data quality, and make more informed decisions."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "CNH Equipment Helps Thai Rice Farmer Replace Stubble Burning",
-      "description": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue.",
-      "url": "https://csrwire.com/press-release/cnh-equipment-helps-thai-rice-farmer-replace-stubble-burning/",
-      "publishedAt": "2026-10-08T10:00:00",
-      "content": "CNH’s  latest A Sustainable Year story, highlights how agricultural equipment from its New Holland brand is helping a rice farmer in Thailand explore a practical alternative to burning crop residue."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Ministers preparing to slash heat pump subsidies to fund defence spending",
-      "description": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources sayMinisters are preparing to slash the amount of money available to subsidise heat pu...",
-      "url": "https://www.theguardian.com/environment/2026/oct/12/ministers-plan-slash-heat-pump-subsidies-fund-defence-spending",
-      "publishedAt": "2026-10-12T05:00:47",
-      "content": "Exclusive: Some of £2bn savings needed from energy budget expected to come from boiler upgrade scheme, sources sayMinisters are preparing to slash the amount of money available to subsidise heat pu..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
-      "description": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
-      "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T23:48:25",
-      "content": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -408,39 +386,6 @@
       "url": "https://goodonyou.eco/polyester-in-john-galliano-zara-collaboration/",
       "publishedAt": "2026-10-11T23:47:59",
       "content": "Zara and John Galliano’s high fashion/fast fashion link-up debuted at Paris Fashion Week and synthetic materials abound."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Orangutans released back into Borneo forest after devastating fires",
-      "description": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvgde0m2d73o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-11T19:08:04",
-      "content": "Rescuers moved the apes after their habitats were threatened by intense wildfires over the summer."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "43 Years. Run Your Race.",
-      "description": "Protein is having more than a moment.",
-      "url": "https://csrwire.com/press-release/43-years-run-your-race/",
-      "publishedAt": "2026-10-09T12:00:00",
-      "content": "Protein is having more than a moment."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2025 FedEx Cares Report: Empowering Entrepreneurs",
-      "description": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience.",
-      "url": "https://csrwire.com/press-release/2025-fedex-cares-report-empowering-entrepreneurs/",
-      "publishedAt": "2026-10-08T13:05:00",
-      "content": "FedEx uses AI every day to move millions of packages around the world — optimizing routes, predicting demand, and improving the customer experience."
     }
   ]
 }
