@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 35,
+  "totalResults": 40,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EY, Watershed Launch Sustainability Reporting Partnership",
-      "description": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed",
-      "url": "https://www.esgtoday.com/ey-watershed-launch-sustainability-reporting-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=ey-watershed-launch-sustainability-reporting-partnership",
-      "publishedAt": "2026-10-13T09:15:02",
-      "content": "Professional services firm EY US announced a new alliance with climate solutions provider Watershed, aimed"
-    },
     {
       "source": {
         "name": "Good On You"
@@ -29,22 +18,44 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Stoxx, Osmosis Launch New Suite of Sustainable Transition Factor Indices",
-      "description": "Index provider Stoxx and sustainability-focused asset manager Osmosis announced the launch of the iSTOXX Osmosis",
-      "url": "https://www.esgtoday.com/stoxx-osmosis-launches-new-suite-of-sustainable-transition-factor-indices/?utm_source=rss&utm_medium=rss&utm_campaign=stoxx-osmosis-launches-new-suite-of-sustainable-transition-factor-indices",
-      "publishedAt": "2026-10-13T08:06:43",
-      "content": "Index provider Stoxx and sustainability-focused asset manager Osmosis announced the launch of the iSTOXX Osmosis"
+      "title": "California Finalizes Corporate Climate Reporting Rules, Locking in November 2026 Deadline",
+      "description": "The California Office of Administrative Law (OAL) has approved the California Corporate Greenhouse Gas Reporting",
+      "url": "https://www.esgtoday.com/california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline/?utm_source=rss&utm_medium=rss&utm_campaign=california-finalizes-corporate-climate-reporting-rules-locking-in-november-2026-deadline",
+      "publishedAt": "2026-10-15T09:55:45",
+      "content": "The California Office of Administrative Law (OAL) has approved the California Corporate Greenhouse Gas Reporting"
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "ESG Today"
       },
-      "author": "Climate Change News",
-      "title": "New Zealand accused of breaching EU trade deal over climate rollbacks",
-      "description": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its trade deal with the bloc\nThe post New Zealand ac...",
-      "url": "https://www.climatechangenews.com/2026/10/07/new-zealand-accused-breaching-eu-trade-deal-climate-rollbacks-fta/",
-      "publishedAt": "2026-10-07T16:37:02",
-      "content": "The EU's climate trade rules face their first major test after a green group alleged New Zealand violated binding environmental provisions under its trade deal with the bloc\nThe post New Zealand ac..."
+      "author": "ESG Today",
+      "title": "Engie, CMA CGM to Build New Clean Fuel Plant to Drive Fleet Decarbonization",
+      "description": "French energy company Engie announced that it has signed a new framework agreement with multinational",
+      "url": "https://www.esgtoday.com/engie-cma-cgm-to-build-new-clean-fuel-plant-to-drive-fleet-decarbonization/?utm_source=rss&utm_medium=rss&utm_campaign=engie-cma-cgm-to-build-new-clean-fuel-plant-to-drive-fleet-decarbonization",
+      "publishedAt": "2026-10-15T08:05:53",
+      "content": "French energy company Engie announced that it has signed a new framework agreement with multinational"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Climate Change Is Increasing Simultaneous Exposure to Heat Waves and Wildfire Smoke",
+      "description": "More than 1 billion people per year were exposed to heat waves and fire pollution at the same time from 2010-2019, a sharp jump from the decade before it, according to a new study that highlights t...",
+      "url": "https://insideclimatenews.org/news/14102026/climate-change-fueling-heat-waves-and-wildfire-smoke/",
+      "publishedAt": "2026-10-14T18:00:00",
+      "content": "More than 1 billion people per year were exposed to heat waves and fire pollution at the same time from 2010-2019, a sharp jump from the decade before it, according to a new study that highlights t..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Amit Forlit, the Israeli Private Eye at the Heart of a Climate Hacking Scandal",
+      "description": "He’s been linked to someone called “The Hawk.” He named his company “This Isn’t a Dentist’s Office.” The feds say he hacked American environmentalists.",
+      "url": "https://www.nytimes.com/2026/10/14/climate/amit-forlit-climate-hacking-allegations.html",
+      "publishedAt": "2026-10-14T14:13:49",
+      "content": "He’s been linked to someone called “The Hawk.” He named his company “This Isn’t a Dentist’s Office.” The feds say he hacked American environmentalists."
     },
     {
       "source": {
@@ -62,11 +73,55 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "SBTN Releases New Framework for Corporate Science-Based Nature Target Setting",
-      "description": "The Science Based Targets Network (SBTN) announced today the release of Science-Based Targets for Nature",
-      "url": "https://www.esgtoday.com/sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting/?utm_source=rss&utm_medium=rss&utm_campaign=sbtn-releases-new-framework-for-corporate-science-based-nature-target-setting",
-      "publishedAt": "2026-10-13T11:14:31",
-      "content": "The Science Based Targets Network (SBTN) announced today the release of Science-Based Targets for Nature"
+      "title": "JPMorgan Recalibrates Sustainable Finance Strategy to Balance Emissions Reduction with Energy Security",
+      "description": "U.S. banking giant JPMorganChase announced on Wednesday a series of updates to its approach to",
+      "url": "https://www.esgtoday.com/jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability/?utm_source=rss&utm_medium=rss&utm_campaign=jpmorgan-updates-sustainable-finance-strategy-to-balance-energy-emissions-security-affordability",
+      "publishedAt": "2026-10-14T15:00:58",
+      "content": "U.S. banking giant JPMorganChase announced on Wednesday a series of updates to its approach to"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "10 more ethical fashion brands from Switzerland to know about",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-brands-switzerland/",
+      "publishedAt": "2026-10-12T21:00:15",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
+      "description": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?",
+      "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T23:32:11",
+      "content": "Can Nepal bring the two regional giants together to confront a shared climate threat in the Himalayas?"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The best more sustainable tote bags, picked by our editors",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-tote-bags/",
+      "publishedAt": "2026-10-14T23:00:53",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Carbon capture industry faces tough future, as UK raids green spending",
+      "description": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink\nThe post Carbon capture industry faces tough fut...",
+      "url": "https://www.climatechangenews.com/2026/10/14/carbon-capture-industry-faces-tough-future-as-uk-raids-green-spending/",
+      "publishedAt": "2026-10-14T14:22:08",
+      "content": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink\nThe post Carbon capture industry faces tough fut..."
     },
     {
       "source": {
@@ -92,17 +147,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "10 more ethical fashion brands from Switzerland to know about",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-brands-switzerland/",
-      "publishedAt": "2026-10-12T21:00:15",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -114,14 +158,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Finance Earth, FSD Africa Launch $100 Million Fund to Back Nature-Based Carbon Projects",
-      "description": "Environmental impact investment firm Finance Earth and financial sector development agency FSD Africa, through its",
-      "url": "https://www.esgtoday.com/finance-earth-fsd-africa-launch-100-million-fund-to-back-nature-based-carbon-projects/?utm_source=rss&utm_medium=rss&utm_campaign=finance-earth-fsd-africa-launch-100-million-fund-to-back-nature-based-carbon-projects",
-      "publishedAt": "2026-10-13T11:38:50",
-      "content": "Environmental impact investment firm Finance Earth and financial sector development agency FSD Africa, through its"
+      "author": "The Guardian",
+      "title": "The hidden costs of fracking: boom in Argentina linked to trail of sickness",
+      "description": "Families in Vaca Muerta, the centre of Patagonia’s shale operation, report cancers, miscarriages and pollutionIn Allen, a small town in Argentine Patagonia, many people living on the same street en...",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/the-hidden-costs-of-fracking-boom-in-argentina-linked-to-trail-of-sickness",
+      "publishedAt": "2026-10-15T10:00:10",
+      "content": "Families in Vaca Muerta, the centre of Patagonia’s shale operation, report cancers, miscarriages and pollutionIn Allen, a small town in Argentine Patagonia, many people living on the same street en..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘I am still a child, it cannot be good to be married’: how drought forces Afghan families to sell girls as brides",
+      "description": "As climate breakdown pushes families to starvation, many feel forced to ‘sacrifice’ daughters to save siblings.",
+      "url": "https://www.theguardian.com/global-development/2026/oct/15/afghanistan-drought-hunger-displaced-families-girls-child-marriage-poverty",
+      "publishedAt": "2026-10-15T04:00:21",
+      "content": "As climate breakdown pushes families to starvation, many feel forced to ‘sacrifice’ daughters to save siblings."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Mont Blanc, the ‘roof of Europe’, loses more than a metre of height in a year",
+      "description": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climateWestern Europe’s highest mountain shrank by more than a metre last year. The peak of Mont B...",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/mont-blanc-loses-metre-height",
+      "publishedAt": "2026-10-14T15:33:52",
+      "content": "Peak of French mountain now 4,807 metres high and fluctuates year by year due to changes in Alpine climateWestern Europe’s highest mountain shrank by more than a metre last year. The peak of Mont B..."
     },
     {
       "source": {
@@ -136,6 +202,149 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Pre-COP draws attention to Pacific’s climate plight and 1.5C goal",
+      "description": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1.",
+      "url": "https://www.climatechangenews.com/2026/10/08/pre-cop-draws-attention-to-pacifics-climate-plight-and-1-5c-goal/",
+      "publishedAt": "2026-10-08T11:52:15",
+      "content": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "description": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T10:05:29",
+      "content": "Residents have been told to avoid leaving their homes unless absolutely necessary."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Caskets on the River: The Story of an American Disaster",
+      "description": "Covering a flood powerful enough to disrupt the dead.",
+      "url": "https://www.nytimes.com/2026/10/15/us/1993-great-flood-mississippi-midwest.html",
+      "publishedAt": "2026-10-15T09:01:19",
+      "content": "Covering a flood powerful enough to disrupt the dead."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Wildfires Intensify, Communities Have a Bigger Role to Play",
+      "description": "On July 22, Aurélie Filleau and her husband were given 10 minutes to get their children and a few possessions into the car before evacuating their house in Le Porge, a town near Bordeaux, France.  ...",
+      "url": "https://insideclimatenews.org/news/15102026/wildfire-community-preparedness/",
+      "publishedAt": "2026-10-15T09:00:00",
+      "content": "On July 22, Aurélie Filleau and her husband were given 10 minutes to get their children and a few possessions into the car before evacuating their house in Le Porge, a town near Bordeaux, France.  ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Thrilled by Darwin, and the wonder of worms | Lev Parikian",
+      "description": "Downe, Kent: It’s hard not to feel the earth move by a visit to the great man’s house.",
+      "url": "https://www.theguardian.com/environment/2026/oct/15/country-diary-thrilled-by-darwin-and-the-wonder-of-worms",
+      "publishedAt": "2026-10-15T04:30:21",
+      "content": "Downe, Kent: It’s hard not to feel the earth move by a visit to the great man’s house."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "A perfect storm: how the super El Niño is devastating the fishing industry",
+      "description": "Peru’s anchoveta have made up about a 10th of the entire global commercial fishing catch since 1970, more than any other fish.",
+      "url": "https://www.theguardian.com/news/2026/oct/15/a-perfect-storm-how-the-super-el-nino-is-devastating-the-fishing-industry",
+      "publishedAt": "2026-10-15T04:00:20",
+      "content": "Peru’s anchoveta have made up about a 10th of the entire global commercial fishing catch since 1970, more than any other fish."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Nowhere to escape' - Indonesians share footage of orange haze blanketing towns",
+      "description": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby.",
+      "url": "https://www.bbc.co.uk/news/videos/c63dj4p4k5dlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-15T03:26:36",
+      "content": "Thick orange smog descended on the Indonesian city of Palangka Raya as wildfires continue raging nearby."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Dog that hunts invasive 'sea vomit' honoured as animal of the year",
+      "description": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest.",
+      "url": "https://www.bbc.co.uk/news/articles/cvwy761zyx7eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T23:35:40",
+      "content": "Sgiath is thought to be the UK's first sea squirt-hunting dog and has been trained to sniff out the marine pest."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Isaias Made It to Birmingham. The Consequences Were Deadly.",
+      "description": "BIRMINGHAM, Ala.",
+      "url": "https://insideclimatenews.org/news/14102026/hurricane-isaias-alabama-death/",
+      "publishedAt": "2026-10-14T22:02:21",
+      "content": "BIRMINGHAM, Ala."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New York Candidates for Governor Clash Over Energy Policy",
+      "description": "Incumbent New York Gov.",
+      "url": "https://insideclimatenews.org/news/14102026/new-york-governor-debate/",
+      "publishedAt": "2026-10-14T20:17:08",
+      "content": "Incumbent New York Gov."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Bleached Coral Rebounded After Touching Healthy Coral, Study Finds",
+      "description": "After sick corals were placed in direct contact with healthy ones of the same genetic make-up, they recovered at “incredible” speed, scientists found.",
+      "url": "https://www.nytimes.com/2026/10/14/climate/coral-bleaching-healing-touch.html",
+      "publishedAt": "2026-10-14T18:00:08",
+      "content": "After sick corals were placed in direct contact with healthy ones of the same genetic make-up, they recovered at “incredible” speed, scientists found."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "New Study Reveals Clues About the Origins of Nepal’s Deadly Flood",
+      "description": "A new study in the journal Seismica presents the first comprehensive seismic analysis of what happened during the disastrous flood in Nepal on Aug.",
+      "url": "https://insideclimatenews.org/news/14102026/new-study-reveals-clues-about-the-origins-of-nepals-deadly-flood/",
+      "publishedAt": "2026-10-14T16:06:54",
+      "content": "A new study in the journal Seismica presents the first comprehensive seismic analysis of what happened during the disastrous flood in Nepal on Aug."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
+      "description": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
+      "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-14T14:13:37",
+      "content": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -144,17 +353,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-14T05:02:27",
       "content": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Momentum for Measuring Water Lost in Wyoming’s Portion of the Colorado River Dries Up",
-      "description": "Wyoming has shelved a state-funded project to measure water use in the Green River and Little Snake River basins after it could not get enough data to create a basin-wide estimate of water lost dur...",
-      "url": "https://insideclimatenews.org/news/13102026/wyoming-colorado-river-measuring/",
-      "publishedAt": "2026-10-13T22:50:17",
-      "content": "Wyoming has shelved a state-funded project to measure water use in the Green River and Little Snake River basins after it could not get enough data to create a basin-wide estimate of water lost dur..."
     },
     {
       "source": {
@@ -191,39 +389,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Pre-COP draws attention to Pacific’s climate plight and 1.5C goal",
-      "description": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1.",
-      "url": "https://www.climatechangenews.com/2026/10/08/pre-cop-draws-attention-to-pacifics-climate-plight-and-1-5c-goal/",
-      "publishedAt": "2026-10-08T11:52:15",
-      "content": "After visiting Tuvalu's shrinking land, COP31 President Murat Kurum said that the global 1."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Indian Protesters Describe Rough Treatment by the Police",
-      "description": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law.",
-      "url": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
-      "publishedAt": "2026-10-14T09:52:43",
-      "content": "Some of those detained accused security forces of beating them during an intense crackdown on demonstrations in India’s capital over the weekend. Police have said they followed the law."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Pollinating insects flock to plants gardeners might think of as ‘weeds’",
-      "description": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveysUbiquitous urban plants often derided as “weeds” are the most attractive to pollinati...",
-      "url": "https://www.theguardian.com/environment/2026/oct/14/pollinating-insects-flock-plants-weeds",
-      "publishedAt": "2026-10-14T07:00:47",
-      "content": "Citizen scientists on UK Pollinator Monitoring Scheme recorded insect visits to flowers during 10-minute surveysUbiquitous urban plants often derided as “weeds” are the most attractive to pollinati..."
-    },
-    {
-      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
@@ -232,17 +397,6 @@
       "url": "https://www.theguardian.com/environment/2026/oct/14/businesses-barred-water-use-drought-england-supply-threat",
       "publishedAt": "2026-10-14T06:00:48",
       "content": "Golf clubs, private schools and car washes may face tighter rules from water companies as England’s drought continuesThree water companies are seeking to impose severe restrictions on businesses as..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Birdwatch: the paradoxical puffin – a comical bird with a fighting spirit",
-      "description": "Despite their size and gentle appearance, puffins will fight to keep their catch of sand eels from an opportunistic gullFew birds are as paradoxical as the puffin. It rivals the robin as Britain’s ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/14/birdwatch-puffin",
-      "publishedAt": "2026-10-14T05:00:46",
-      "content": "Despite their size and gentle appearance, puffins will fight to keep their catch of sand eels from an opportunistic gullFew birds are as paradoxical as the puffin. It rivals the robin as Britain’s ..."
     },
     {
       "source": {
@@ -279,83 +433,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Super El Niño sets another record as it strengthens to 'unprecedented levels'",
-      "description": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events.",
-      "url": "https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-13T11:18:44",
-      "content": "El Niño has continued to strengthen, with several key measures now in record territory. Simon King explores how it compares to previous events."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How a Bid to Beat Drought Drove Corpus Christi to the Brink of Disaster",
-      "description": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom.",
-      "url": "https://insideclimatenews.org/news/12102026/corpus-christi-desalination-plant-financial-political-quagmire/",
-      "publishedAt": "2026-10-12T09:00:00",
-      "content": "This story is a partnership between Dylan Baddour of Inside Climate News and Neena Satija of The Texas Newsroom."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Inside Ohio’s Revolt Against Data Centers",
-      "description": "COLUMBUS, Ohio—A four-hour legislative committee hearing in June, punctuated by applause and anger, offered a window into the growing backlash against data centers. The prospect of unchecked develo...",
-      "url": "https://insideclimatenews.org/news/13102026/ohio-data-center-moratoriums/",
-      "publishedAt": "2026-10-13T09:00:00",
-      "content": "COLUMBUS, Ohio—A four-hour legislative committee hearing in June, punctuated by applause and anger, offered a window into the growing backlash against data centers. The prospect of unchecked develo..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "What Happened to Pennsylvania’s Hydrogen Hubs?",
-      "description": "Three years ago, hydrogen seemed poised for a long-awaited breakthrough.",
-      "url": "https://insideclimatenews.org/news/13102026/pennsylvania-hydrogen-hubs-in-limbo/",
-      "publishedAt": "2026-10-13T08:55:00",
-      "content": "Three years ago, hydrogen seemed poised for a long-awaited breakthrough."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Honeybee's stinger continues to pump venom once detached from body, new footage shows – video",
-      "description": "High-speed video captures a previously unknown process that lets a honeybee’s two-millimetre stinger pump venom even after detaching from the insect’s body. Using a clear gel that mimics human skin...",
-      "url": "https://www.theguardian.com/environment/video/2026/oct/13/honeybees-stinger-continues-to-pump-venom-once-detached-from-body-new-footage-shows-video",
-      "publishedAt": "2026-10-13T07:10:38",
-      "content": "High-speed video captures a previously unknown process that lets a honeybee’s two-millimetre stinger pump venom even after detaching from the insect’s body. Using a clear gel that mimics human skin..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The story of birds starts with their feathers",
-      "description": "River Lagan, Belfast: Right now you can see winter in the black-headed gull plumage, and spring in the mallards’.",
-      "url": "https://www.theguardian.com/environment/2026/oct/13/country-diary-the-story-of-birds-starts-with-their-feathers",
-      "publishedAt": "2026-10-13T04:30:14",
-      "content": "River Lagan, Belfast: Right now you can see winter in the black-headed gull plumage, and spring in the mallards’."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Crew searching for Amelia Earhart arrives at crab-infested island",
-      "description": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgryp8yv0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T22:01:43",
-      "content": "Researchers will sleep on their ship to avoid giant crabs that can lift heavy weights, split open coconuts, and may have played a role in Earhart's demise."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -364,28 +441,6 @@
       "url": "https://www.climatechangenews.com/2026/10/12/un-carbon-market-forces-cookstove-projects-protect-forest-loss-credits/",
       "publishedAt": "2026-10-12T17:53:54",
       "content": "Despite lobbying for an exemption, the UN regulator has for the first time made cookstove projects cover the risk that the trees they save are later destroyed\nThe post UN carbon market forces cooks..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Storm Rachel batters Southern California, brings flooding to Las Vegas",
-      "description": "Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip.",
-      "url": "https://www.bbc.co.uk/news/videos/cmj47n488v47o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-12T16:12:57",
-      "content": "Large waves from the post-tropical cyclone battered homes in Long Beach, and brought flooding to parts of Las Vegas near the famed Strip."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "No one should be surprised that John Galliano x Zara is full of polyester",
-      "description": "Zara and John Galliano’s high fashion/fast fashion link-up debuted at Paris Fashion Week and synthetic materials abound.",
-      "url": "https://goodonyou.eco/polyester-in-john-galliano-zara-collaboration/",
-      "publishedAt": "2026-10-11T23:47:59",
-      "content": "Zara and John Galliano’s high fashion/fast fashion link-up debuted at Paris Fashion Week and synthetic materials abound."
     }
   ]
 }
