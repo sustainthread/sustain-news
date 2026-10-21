@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 47,
+  "totalResults": 46,
   "articles": [
     {
       "source": {
@@ -26,6 +26,17 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this October 2026",
+      "description": "Feature image: ReCreate.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-10-20T22:00:45",
+      "content": "Feature image: ReCreate."
+    },
+    {
+      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -34,6 +45,39 @@
       "url": "https://triplepundit.com/2026/non-financial-disclosures-issb-standards-ifrss1-ifrss2/",
       "publishedAt": "2026-10-14T23:46:50",
       "content": "The International Sustainability Standards Board is inching closer to its goal of creating a global baseline for disclosing sustainability-related risks and opportunities that could impact company ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Hyundai, Peak Energy Launch Platform to Expand Renewable Energy in Automotive Supply Chain",
+      "description": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities announced the launch of HMS-Peak",
+      "url": "https://www.esgtoday.com/hyundai-peak-energy-launch-platform-to-expand-renewable-energy-in-automotive-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=hyundai-peak-energy-launch-platform-to-expand-renewable-energy-in-automotive-supply-chain",
+      "publishedAt": "2026-10-21T10:08:30",
+      "content": "Singapore-based renewable energy developer Peak Energy and Hyundai Motor Securities announced the launch of HMS-Peak"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Jon Hixson: Why Sustainable Palm Oil Starts With People",
+      "description": "When people hear the words \"sustainable palm oil,\" they often think about rainforests, wildlife and the climate.",
+      "url": "https://csrwire.com/press-release/jon-hixson-why-sustainable-palm-oil-starts-people/",
+      "publishedAt": "2026-10-20T09:00:00",
+      "content": "When people hear the words \"sustainable palm oil,\" they often think about rainforests, wildlife and the climate."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Lenovo and Schneider Electric Partner To Bring Decarbonization Tools and Expertise to IT Channel Partners",
+      "description": "Lenovo announced that Schneider Electric, a global energy technology leader, will join Lenovo 360 Circle as a strategic ally to bring decarbonization expertise and management tools directly to IT c...",
+      "url": "https://csrwire.com/press-release/lenovo-and-schneider-electric-partner-bring-decarbonization-tools-and-expertise-it-channel/",
+      "publishedAt": "2026-10-20T08:05:00",
+      "content": "Lenovo announced that Schneider Electric, a global energy technology leader, will join Lenovo 360 Circle as a strategic ally to bring decarbonization expertise and management tools directly to IT c..."
     },
     {
       "source": {
@@ -51,44 +95,55 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "AIIB Invests $100 Million in TPG’s Global South-Focused Climate Solutions Strategy",
-      "description": "The Asian Infrastructure Investment Bank (AIIB) announced an investment of up to $100 million in",
-      "url": "https://www.esgtoday.com/aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy",
-      "publishedAt": "2026-10-20T07:02:25",
-      "content": "The Asian Infrastructure Investment Bank (AIIB) announced an investment of up to $100 million in"
+      "title": "Canada Reconsiders Oil & Gas “Abatement” Category in Sustainable Finance Taxonomy",
+      "description": "The Canadian Taxonomy and Transition Planning Council announced the release of final Methodology Report for Canada’s",
+      "url": "https://www.esgtoday.com/canada-reconsiders-oil-gas-abatement-category-in-sustainable-finance-taxonomy/?utm_source=rss&utm_medium=rss&utm_campaign=canada-reconsiders-oil-gas-abatement-category-in-sustainable-finance-taxonomy",
+      "publishedAt": "2026-10-21T07:15:02",
+      "content": "The Canadian Taxonomy and Transition Planning Council announced the release of final Methodology Report for Canada’s"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The World Bank Has Withdrawn a Major Loan to an Agribusiness Tied to Deforestation",
+      "description": "The world’s development banks continue to finance expansions of large climate-polluting livestock operations, but environmental advocates are notching a victory after they say the World Bank’s priv...",
+      "url": "https://insideclimatenews.org/news/20102026/world-bank-withdraws-agribusiness-loan-amazon-deforestation/",
+      "publishedAt": "2026-10-20T16:07:50",
+      "content": "The world’s development banks continue to finance expansions of large climate-polluting livestock operations, but environmental advocates are notching a victory after they say the World Bank’s priv..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
+      "description": "COP31 sponsors should be screened for “climate integrity”.",
+      "url": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
+      "publishedAt": "2026-10-21T08:30:00",
+      "content": "COP31 sponsors should be screened for “climate integrity”."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "GEC's 2025 Annual Report: Two Decades of Progress in Sustainable Electronics",
+      "description": "Explore GEC's 2025 achievements, the launch of EPEAT 2.0, and two decades of progress advancing sustainable electronics.",
+      "url": "https://csrwire.com/press-release/gecs-2025-annual-report-two-decades-progress-sustainable-electronics/",
+      "publishedAt": "2026-10-20T10:02:00",
+      "content": "Explore GEC's 2025 achievements, the launch of EPEAT 2.0, and two decades of progress advancing sustainable electronics."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "NORD/LB Acquires Energy Transition Finance Boutique Voltiq",
-      "description": "German energy and infrastructure-focused commercial bank NORD/LB announced the acquisition of renewable energy and energy",
-      "url": "https://www.esgtoday.com/nord-lb-acquires-energy-transition-finance-boutique-voltiq/?utm_source=rss&utm_medium=rss&utm_campaign=nord-lb-acquires-energy-transition-finance-boutique-voltiq",
-      "publishedAt": "2026-10-19T07:22:33",
-      "content": "German energy and infrastructure-focused commercial bank NORD/LB announced the acquisition of renewable energy and energy"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The CO2-absorbing building made of old sinks, windscreens and toilets: Ghent’s £17m design museum is a green marvel",
-      "description": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 62,000 bricks derived from construction waste – each made by the public during a two-day br...",
-      "url": "https://www.theguardian.com/artanddesign/2026/oct/20/ghent-design-museum-co2-absorbing-recycling",
-      "publishedAt": "2026-10-20T07:00:19",
-      "content": "Inspired by a gothic cathedral partly built using human bones, this gleaming monument to recycling boasts 62,000 bricks derived from construction waste – each made by the public during a two-day br..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Why have countries been pushing for a vital global climate report to be delayed?",
-      "description": "Saudi Arabia, Russia and China among those claiming developed countries have skewed findings of IPCC reviewThe Intergovernmental Panel on Climate Change suspended an important meeting on Friday in ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/countries-pushing-vital-global-climate-report-delayed",
-      "publishedAt": "2026-10-20T06:00:20",
-      "content": "Saudi Arabia, Russia and China among those claiming developed countries have skewed findings of IPCC reviewThe Intergovernmental Panel on Climate Change suspended an important meeting on Friday in ..."
+      "title": "AIIB Invests $100 Million in TPG’s Global South-Focused Climate Solutions Strategy",
+      "description": "The Asian Infrastructure Investment Bank (AIIB) announced an investment of up to $100 million in",
+      "url": "https://www.esgtoday.com/aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=aiib-invests-100-million-in-tpgs-global-south-focused-climate-solutions-strategy",
+      "publishedAt": "2026-10-20T07:02:25",
+      "content": "The Asian Infrastructure Investment Bank (AIIB) announced an investment of up to $100 million in"
     },
     {
       "source": {
@@ -114,17 +169,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Wyoming Environmental Groups Debate Best Way to Manage Data Center Growth in the State",
-      "description": "CODY, Wyo.",
-      "url": "https://insideclimatenews.org/news/19102026/wyoming-data-center-growth-management/",
-      "publishedAt": "2026-10-19T20:39:21",
-      "content": "CODY, Wyo."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -136,10 +180,208 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.K. Approves Long-Stalled Jackdaw Gas Drilling Project in the North Sea",
+      "description": "The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions.",
+      "url": "https://www.nytimes.com/2026/10/21/business/uk-jackdaw-gas-drilling.html",
+      "publishedAt": "2026-10-21T09:25:07",
+      "content": "The project will lessen the country’s dependence on imported energy, though environmental advocates say it undercuts a pledge to reduce carbon emissions."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Giant tunnel proposed to clean up Windermere's sewage problem",
+      "description": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5yn4pky527o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T04:44:56",
+      "content": "The plan would eliminate sewage spills into Windermere, blamed for turning the water green."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Google, McKinsey Sign 320,000 Ton Carbon Removal Deals from Brazil Nature Restoration Project",
+      "description": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of",
+      "url": "https://www.esgtoday.com/google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project/?utm_source=rss&utm_medium=rss&utm_campaign=google-mckinsey-sign-deals-for-320000-carbon-credits-from-brazil-nature-restoration-project",
+      "publishedAt": "2026-10-20T14:44:53",
+      "content": "San Francisco-based carbon removal company Working Trees announced that it has signed a series of"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds",
+      "description": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practicesA pioneering project to provide Indigenous people in the Peruvian...",
+      "url": "https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study",
+      "publishedAt": "2026-10-20T12:00:36",
+      "content": "Researchers say almost 90% of participants in unconditional basic income scheme in Peru adopted environmentally beneficial practicesA pioneering project to provide Indigenous people in the Peruvian..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Backs New Advanced Nuclear Power Project at a Former Coal Plant",
+      "description": "Ohio-based electric utility American Electric Power (AEP), nuclear technology company X-energy and Amazon announced a",
+      "url": "https://www.esgtoday.com/amazon-backs-new-advanced-nuclear-energy-project-at-a-former-coal-plant/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-backs-new-advanced-nuclear-energy-project-at-a-former-coal-plant",
+      "publishedAt": "2026-10-20T11:46:54",
+      "content": "Ohio-based electric utility American Electric Power (AEP), nuclear technology company X-energy and Amazon announced a"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Who shapes climate science? The equity question facing the IPCC",
+      "description": "Early completion of the next global climate science assessment reports risks excluding research from the Global South, which is key to ensuring the findings are fair\nThe post Who shapes climate sci...",
+      "url": "https://www.climatechangenews.com/2026/10/16/who-shapes-climate-science-the-equity-question-facing-the-ipcc/",
+      "publishedAt": "2026-10-16T07:41:10",
+      "content": "Early completion of the next global climate science assessment reports risks excluding research from the Global South, which is key to ensuring the findings are fair\nThe post Who shapes climate sci..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The best more sustainable tote bags, picked by our editors",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-tote-bags/",
+      "publishedAt": "2026-10-14T23:00:53",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Storm Austen to batter Wales coast with 70mph winds",
+      "description": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3wv9pdj33zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T10:10:40",
+      "content": "Gusts of wind about 50 to 60mph are likely to hit large parts of south Wales on Friday."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "US extreme weather survivors are a growing group – now they want to be a political force",
+      "description": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent actionIt may be a club none of its members actually want to be in, but the growin...",
+      "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
+      "publishedAt": "2026-10-21T10:00:02",
+      "content": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent actionIt may be a club none of its members actually want to be in, but the growin..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "What an eyesore! My day at Norfolk’s frightful fridge mountain",
+      "description": "This summer alone, 26 local authorities in the UK had to stop accepting fridges and freezers for recycling.",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/norfolk-frightful-fridge-mountain-recycling",
+      "publishedAt": "2026-10-21T09:00:03",
+      "content": "This summer alone, 26 local authorities in the UK had to stop accepting fridges and freezers for recycling."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Federal Lawmakers Introduce Bipartisan Bill to Ban Wild Sloth Imports",
+      "title": "Britain Rethinks Its Nature Protections to Unlock Nuclear Development",
+      "description": "Over the past year, boats have plied the waters around Hinkley Point C, a nuclear power plant under construction along England’s Somerset coast, laying and testing a network of ultrasonic speakers ...",
+      "url": "https://insideclimatenews.org/news/21102026/uk-nuclear-development-nature-protections/",
+      "publishedAt": "2026-10-21T09:00:00",
+      "content": "Over the past year, boats have plied the waters around Hinkley Point C, a nuclear power plant under construction along England’s Somerset coast, laying and testing a network of ultrasonic speakers ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Okefenokee’s Next Chapter",
+      "description": "FOLKSTON, Ga.",
+      "url": "https://insideclimatenews.org/news/21102026/georgia-swamp-unesco-designation-tourism/",
+      "publishedAt": "2026-10-21T08:55:00",
+      "content": "FOLKSTON, Ga."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: What a privilege it is to witness bird migration on such a scale | Country diary",
+      "description": "Poole, Dorset: At this time of year, migrants are constantly on the move here, whether leaving, arriving or just stopping to refuelWith the sadness of our summer migrants departing the UK for anoth...",
+      "url": "https://www.theguardian.com/environment/2026/oct/21/country-diary-what-a-privilege-it-is-to-witness-bird-migration-on-such-a-scale",
+      "publishedAt": "2026-10-21T04:30:05",
+      "content": "Poole, Dorset: At this time of year, migrants are constantly on the move here, whether leaving, arriving or just stopping to refuelWith the sadness of our summer migrants departing the UK for anoth..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Paris Agreement committee names three countries snubbing it over NDCs",
+      "description": "More than 30 countries have failed to submit an NDC, but only three have repeatedly ignored the committee’s efforts to engage with them\nThe post Paris Agreement committee names three countries snub...",
+      "url": "https://www.climatechangenews.com/2026/10/20/paris-agreement-committee-names-three-countries-snubbing-it-over-ndcs/",
+      "publishedAt": "2026-10-20T17:19:47",
+      "content": "More than 30 countries have failed to submit an NDC, but only three have repeatedly ignored the committee’s efforts to engage with them\nThe post Paris Agreement committee names three countries snub..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Mexico Slashes Protections for Vaquita Porpoises",
+      "description": "Known for their distinctive black-ringed eyes, lipstick-like mouth markings and timid, elusive nature, the vaquita is the world’s rarest marine mammal. Last year’s survey—carried out by a team of i...",
+      "url": "https://insideclimatenews.org/news/20102026/mexico-slashes-vaquita-porpoises-protections/",
+      "publishedAt": "2026-10-20T14:14:07",
+      "content": "Known for their distinctive black-ringed eyes, lipstick-like mouth markings and timid, elusive nature, the vaquita is the world’s rarest marine mammal. Last year’s survey—carried out by a team of i..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Huge fin whale filmed off Welsh coast",
+      "description": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
+      "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T13:42:22",
+      "content": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Moment giant fin whale's huge mouth engulfs thousands of gallons of water",
+      "description": "Videographer Rhys Morgan captured footage of the worlds second largest whale  lunge feeding on his drone.",
+      "url": "https://www.bbc.co.uk/news/articles/cjr4yeygwdxvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-20T12:03:28",
+      "content": "Videographer Rhys Morgan captured footage of the worlds second largest whale  lunge feeding on his drone."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Tracking Military Health Through the Millennium Cohort Study",
+      "description": "For more than three decades, Leidos has helped federal military leaders turn health questions into evidence that improves care and readiness.",
+      "url": "https://csrwire.com/press-release/tracking-military-health-through-millennium-cohort-study/",
+      "publishedAt": "2026-10-20T09:05:00",
+      "content": "For more than three decades, Leidos has helped federal military leaders turn health questions into evidence that improves care and readiness."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Federal Lawmakers to Introduce Bipartisan Bill to Ban Wild Sloth Imports",
       "description": "Federal lawmakers want to ban imports of wild sloths to the United States, a move experts say could have global implications for the conservation of the tree-dwelling species.  Maxwell Alejandro Fr...",
       "url": "https://insideclimatenews.org/news/20102026/federal-bill-proposal-to-ban-wild-sloth-imports/",
       "publishedAt": "2026-10-20T09:00:00",
@@ -169,17 +411,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP",
-      "description": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areasThe environment watchdog is being urged to intervene ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
-      "publishedAt": "2026-10-19T12:20:08",
-      "content": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areasThe environment watchdog is being urged to intervene ..."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -191,47 +422,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "Who shapes climate science? The equity question facing the IPCC",
-      "description": "Early completion of the next global climate science assessment reports risks excluding research from the Global South, which is key to ensuring the findings are fair\nThe post Who shapes climate sci...",
-      "url": "https://www.climatechangenews.com/2026/10/16/who-shapes-climate-science-the-equity-question-facing-the-ipcc/",
-      "publishedAt": "2026-10-16T07:41:10",
-      "content": "Early completion of the next global climate science assessment reports risks excluding research from the Global South, which is key to ensuring the findings are fair\nThe post Who shapes climate sci..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The best more sustainable tote bags, picked by our editors",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-tote-bags/",
-      "publishedAt": "2026-10-14T23:00:53",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Carbon capture industry faces tough future, as UK raids green spending",
-      "description": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink\nThe post Carbon capture industry faces tough fut...",
-      "url": "https://www.climatechangenews.com/2026/10/14/carbon-capture-industry-faces-tough-future-as-uk-raids-green-spending/",
-      "publishedAt": "2026-10-14T14:22:08",
-      "content": "Despite a spate of projects getting underway, the mood at an industry conference in London this week was low with government subsidies set to shrink\nThe post Carbon capture industry faces tough fut..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘For Panama, it is life or death’: how drought is choking the canal that feeds a nation",
-      "description": "Failed rains and a dire El Niño threaten the waterway that sustains the country, with farmers selling cattle to surviveThe cattle should be ambling, grazing contentedly, through Robert Delgado’s fi...",
-      "url": "https://www.theguardian.com/global-development/2026/oct/20/panama-canal-environment-water-drought-el-nino-farming",
-      "publishedAt": "2026-10-20T10:00:32",
-      "content": "Failed rains and a dire El Niño threaten the waterway that sustains the country, with farmers selling cattle to surviveThe cattle should be ambling, grazing contentedly, through Robert Delgado’s fi..."
+      "author": "CSRWire",
+      "title": "The Ray and the Utah Department of Transportation Partner To Advance Transportation Data and Infrastructure Innovation",
+      "description": "The Ray has partnered with the Utah Department of Transportation (UDOT) through a  Data Sharing Agreement designed to inform UDOT about transformative solutions that could improve safety, efficienc...",
+      "url": "https://csrwire.com/press-release/ray-and-utah-department-transportation-partner-advance-transportation-data-and-infrastructure/",
+      "publishedAt": "2026-10-19T09:40:00",
+      "content": "The Ray has partnered with the Utah Department of Transportation (UDOT) through a  Data Sharing Agreement designed to inform UDOT about transformative solutions that could improve safety, efficienc..."
     },
     {
       "source": {
@@ -257,39 +455,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A species brought to the edge of extinction, recovering in the fens | Mark Cocker",
-      "description": "Ouse Fen, Cambridgeshire: The great egret’s story is remarkable, as is the conversion of this low-grade agricultural land into one of the richest wetlands in BritainIn keeping with this region’s su...",
-      "url": "https://www.theguardian.com/environment/2026/oct/20/country-diary-a-species-brought-to-the-edge-of-extinction-recovering-in-the-fens",
-      "publishedAt": "2026-10-20T04:30:15",
-      "content": "Ouse Fen, Cambridgeshire: The great egret’s story is remarkable, as is the conversion of this low-grade agricultural land into one of the richest wetlands in BritainIn keeping with this region’s su..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Colorado wildlife overpass cut vehicle-animal collisions by 91%, report finds",
-      "description": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completionColorado officials have tracked herds of elk, bears, pronghorn and even northe...",
-      "url": "https://www.theguardian.com/us-news/2026/oct/19/colorado-wildlife-overpass-vehicle-animal-collisions-results",
-      "publishedAt": "2026-10-19T23:17:12",
-      "content": "Elk, bear, frogs and other animals have used the overpass, which connects 39,000 acres of habitat, since its completionColorado officials have tracked herds of elk, bears, pronghorn and even northe..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Five ways El Niño is affecting the weather around the world",
-      "description": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T23:08:25",
-      "content": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -298,28 +463,6 @@
       "url": "https://insideclimatenews.org/news/19102026/texas-continued-permitting-data-centers-after-moratorium/",
       "publishedAt": "2026-10-19T21:58:25",
       "content": "Regulators in Texas did not stop processing permits for data center projects when Gov."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Mission blasts off for Mars to grab a piece of its moon",
-      "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
-      "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T19:45:46",
-      "content": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Deep-Sea Species Struggle to Recover After Deepwater Horizon Spill",
-      "description": "Across hundreds of miles of the northern Gulf of Mexico, a deep-water ecosystem collapsed after the massive 2011 Deepwater Horizon oil and gas spill, and recovery is uncertain, new research conclud...",
-      "url": "https://insideclimatenews.org/news/19102026/deepwater-horizon-spill-recovery/",
-      "publishedAt": "2026-10-19T19:32:58",
-      "content": "Across hundreds of miles of the northern Gulf of Mexico, a deep-water ecosystem collapsed after the massive 2011 Deepwater Horizon oil and gas spill, and recovery is uncertain, new research conclud..."
     },
     {
       "source": {
@@ -345,72 +488,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "How Did Life Arise? Three Turning Points in Early Evolution",
-      "description": "Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial.",
-      "url": "https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html",
-      "publishedAt": "2026-10-19T12:56:26",
-      "content": "Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Ray and the Utah Department of Transportation Partner To Advance Transportation Data and Infrastructure Innovation",
-      "description": "The Ray has partnered with the Utah Department of Transportation (UDOT) through a  Data Sharing Agreement designed to inform UDOT about transformative solutions that could improve safety, efficienc...",
-      "url": "https://csrwire.com/press-release/ray-and-utah-department-transportation-partner-advance-transportation-data-and-infrastructure/",
-      "publishedAt": "2026-10-19T09:40:00",
-      "content": "The Ray has partnered with the Utah Department of Transportation (UDOT) through a  Data Sharing Agreement designed to inform UDOT about transformative solutions that could improve safety, efficienc..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Anthropic Commits 5% of Shares to a New Public Benefit Fund",
-      "description": "AI developer Anthropic announced the launch of “Anthropic Public Benefit Fund,” a new entity described",
-      "url": "https://www.esgtoday.com/anthropic-commits-5-of-shares-to-a-new-public-benefit-fund/?utm_source=rss&utm_medium=rss&utm_campaign=anthropic-commits-5-of-shares-to-a-new-public-benefit-fund",
-      "publishedAt": "2026-10-19T09:02:33",
-      "content": "AI developer Anthropic announced the launch of “Anthropic Public Benefit Fund,” a new entity described"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Why Legacy Pathology Archives Matter for Rare-Disease Research",
-      "description": "Pathology archives often contain decades of clinically valuable information that is difficult to access in its original format.",
-      "url": "https://csrwire.com/press-release/why-legacy-pathology-archives-matter-rare-disease-research/",
-      "publishedAt": "2026-10-19T08:15:00",
-      "content": "Pathology archives often contain decades of clinically valuable information that is difficult to access in its original format."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Abandoned Oil Well Spreads Toxic Fumes, Dread Across San Antonio Subdivision",
-      "description": "This story is a collaboration between Inside Climate News and the San Antonio Express-News.",
-      "url": "https://insideclimatenews.org/news/18102026/san-antonio-subdivision-leaking-oil-well/",
-      "publishedAt": "2026-10-18T09:00:00",
-      "content": "This story is a collaboration between Inside Climate News and the San Antonio Express-News."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "LanzaTech Boosts Stake in SAF Business LanzaJet in New Financing Round",
-      "description": "Sustainable aviation fuel (SAF) technology and production company LanzaJet announced that it has secured at",
-      "url": "https://www.esgtoday.com/lanzajet-secures-20-million-financing-to-scale-sustainable-aviation-fuel-production/?utm_source=rss&utm_medium=rss&utm_campaign=lanzajet-secures-20-million-financing-to-scale-sustainable-aviation-fuel-production",
-      "publishedAt": "2026-10-16T13:47:59",
-      "content": "Sustainable aviation fuel (SAF) technology and production company LanzaJet announced that it has secured at"
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -422,17 +499,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "BBC visits wildfire front in haze-choked Indonesia",
-      "description": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
-      "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-19T01:57:02",
-      "content": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -441,83 +507,6 @@
       "url": "https://goodonyou.eco/alternatives-victorias-secret/",
       "publishedAt": "2026-10-18T23:00:59",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Fears for protected bats if glamping pod plans are approved",
-      "description": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6dxwg50pq8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T19:22:31",
-      "content": "Without a mitigation strategy the effect on the creatures would be \"major\", a survey says."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Fuel leak spreads more than two miles along River Taff",
-      "description": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-18T19:20:57",
-      "content": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A Pathway to Possibility: Inside Covia's Structured Training & Experience Program",
-      "description": "Recognizing the value of cultivating well-rounded future leaders, Covia launched the Structured Training & Experience Program (STEP) in early 2026.",
-      "url": "https://csrwire.com/press-release/pathway-possibility-inside-covias-structured-training-experience-program/",
-      "publishedAt": "2026-10-16T10:15:00",
-      "content": "Recognizing the value of cultivating well-rounded future leaders, Covia launched the Structured Training & Experience Program (STEP) in early 2026."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google, Stripe, Shopify Sign Carbon Removal Deal with CO2-Into-Rock Startup 44.01",
-      "description": "Carbon removal buyer coalition Frontier announced new offtake agreements with carbon sequestration technology company 44.01,",
-      "url": "https://www.esgtoday.com/google-stripe-shopify-sign-carbon-removal-deal-with-co2-into-rock-startup-44-01/?utm_source=rss&utm_medium=rss&utm_campaign=google-stripe-shopify-sign-carbon-removal-deal-with-co2-into-rock-startup-44-01",
-      "publishedAt": "2026-10-16T10:14:54",
-      "content": "Carbon removal buyer coalition Frontier announced new offtake agreements with carbon sequestration technology company 44.01,"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Bacardi Master of Botanicals Alessandro Garneri Inducted As Founder Rectifier Within The Gin Guild",
-      "description": "A champion of botanical craftsmanship and innovation, Alessandro Garneri, Bacardi Master of Botanicals for BOMBAY SAPPHIRE®, MARTINI®, and ST-GERMAIN®, has been welcomed into The Gin Guild.",
-      "url": "https://csrwire.com/press-release/bacardi-master-botanicals-alessandro-garneri-inducted-founder-rectifier-within-gin-guild/",
-      "publishedAt": "2026-10-16T09:05:00",
-      "content": "A champion of botanical craftsmanship and innovation, Alessandro Garneri, Bacardi Master of Botanicals for BOMBAY SAPPHIRE®, MARTINI®, and ST-GERMAIN®, has been welcomed into The Gin Guild."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "U.S. Department of Energy Funding Accelerates World-First Molten Chloride Reactor Experiment",
-      "description": "The U.S. Department of Energy (DOE) has approved cost-shared funding for an accelerated final stage of the Molten Chloride Reactor Experiment (MCRE), under its Advanced Reactor Demonstration Program.",
-      "url": "https://csrwire.com/press-release/us-department-energy-funding-accelerates-world-first-molten-chloride-reactor-experiment/",
-      "publishedAt": "2026-10-15T11:00:00",
-      "content": "The U.S. Department of Energy (DOE) has approved cost-shared funding for an accelerated final stage of the Molten Chloride Reactor Experiment (MCRE), under its Advanced Reactor Demonstration Program."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Mexico’s Maya Train Promised an Economic Boom. What Went Wrong?",
-      "description": "The Maya Train promised to bring tourism to lesser-known locations across the Yucatán Peninsula. Nearly three years later, locals say that promise has yet to materialize. TriplePundit",
-      "url": "https://triplepundit.com/2026/tren-maya-what-went-wrong-yucatan-peninsula/",
-      "publishedAt": "2026-10-13T19:06:07",
-      "content": "The Maya Train promised to bring tourism to lesser-known locations across the Yucatán Peninsula. Nearly three years later, locals say that promise has yet to materialize. TriplePundit"
     }
   ]
 }
