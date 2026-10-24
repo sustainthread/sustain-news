@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 39,
   "articles": [
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-      "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham ha...",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-      "publishedAt": "2026-10-22T21:34:11",
-      "content": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham ha..."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -37,6 +26,28 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Potent Climate Super-Pollutant Is Surging in Beijing",
+      "description": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, ...",
+      "url": "https://insideclimatenews.org/news/24102026/sf6-climate-super-pollutant-surges-in-beijing/",
+      "publishedAt": "2026-10-24T08:55:00",
+      "content": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
+      "description": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk BroadsPolluters and regulators who fail to stop pollution must quake in their boots...",
+      "url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
+      "publishedAt": "2026-10-24T07:00:27",
+      "content": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk BroadsPolluters and regulators who fail to stop pollution must quake in their boots..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -51,11 +62,11 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Where Opposition to Data Centers and Renewable Energy Projects Converge",
-      "description": "Some of the arguments against data centers sound familiar.",
-      "url": "https://insideclimatenews.org/news/22102026/inside-clean-energy-rural-data-center-opposition/",
-      "publishedAt": "2026-10-22T13:00:00",
-      "content": "Some of the arguments against data centers sound familiar."
+      "title": "A Landmark Youth Climate Trial Against the Canadian Government Is About to Begin",
+      "description": "In June 2013, torrential rain spurred one of the worst flooding events in Canada’s history.",
+      "url": "https://insideclimatenews.org/news/23102026/a-landmark-youth-climate-trial-against-the-canadian-government-is-about-to-begin/",
+      "publishedAt": "2026-10-23T17:08:38",
+      "content": "In June 2013, torrential rain spurred one of the worst flooding events in Canada’s history."
     },
     {
       "source": {
@@ -70,17 +81,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Losing Ground in the Climate Fight",
-      "description": "From Brazil to the North Sea, economic interests have been edging out climate priorities this week.",
-      "url": "https://www.nytimes.com/2026/10/22/climate/climate-policies-rollback.html",
-      "publishedAt": "2026-10-22T20:14:55",
-      "content": "From Brazil to the North Sea, economic interests have been edging out climate priorities this week."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -92,14 +92,36 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors",
+      "description": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and",
+      "url": "https://www.esgtoday.com/cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors",
+      "publishedAt": "2026-10-23T12:20:03",
+      "content": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and"
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
-      "description": "COP31 sponsors should be screened for “climate integrity”.",
-      "url": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
-      "publishedAt": "2026-10-21T08:30:00",
-      "content": "COP31 sponsors should be screened for “climate integrity”."
+      "title": "Early speakers’ list suggests few powerful leaders will attend COP31",
+      "description": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early speakers’ list suggests few powerful leaders will ...",
+      "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
+      "publishedAt": "2026-10-23T11:32:34",
+      "content": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early speakers’ list suggests few powerful leaders will ..."
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Shigeru Ban on paper architecture and sustainability",
+      "description": "The Pritzker Prize-winning architect explores how lightweight materials and socially conscious design can challenge conventional construction",
+      "url": "https://www.thehindu.com/life-and-style/homes-and-gardens/shigeru-ban-on-paper-architecture-and-sustainability/article71603698.ece",
+      "publishedAt": "2026-10-23T10:59:31",
+      "content": "The Pritzker Prize-winning architect explores how lightweight materials and socially conscious design can challenge conventional construction"
     },
     {
       "source": {
@@ -117,33 +139,176 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
+      "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
+      "description": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft",
+      "url": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
+      "publishedAt": "2026-10-22T10:33:49",
+      "content": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
+      "description": "COP31 sponsors should be screened for “climate integrity”.",
+      "url": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
+      "publishedAt": "2026-10-21T08:30:00",
+      "content": "COP31 sponsors should be screened for “climate integrity”."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Knitwear from more sustainable brands to keep cosy in",
+      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-knitwear/",
+      "publishedAt": "2026-10-19T23:00:02",
+      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘False autumn’: stressed trees drop leaves early after scorching English summer",
+      "description": "Season will be less vibrant with trees such as birches, which usually offer a striking burst of yellow leaves, already bareAmong a canvas of copper, red and purple autumn leaves on display at Wisle...",
+      "url": "https://www.theguardian.com/environment/2026/oct/24/false-autumn-stressed-trees-drop-leaves-early-extreme-summer-heat",
+      "publishedAt": "2026-10-24T08:00:27",
+      "content": "Season will be less vibrant with trees such as birches, which usually offer a striking burst of yellow leaves, already bareAmong a canvas of copper, red and purple autumn leaves on display at Wisle..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "The people on standby when a storm strikes",
+      "description": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it.",
+      "url": "https://www.bbc.co.uk/news/articles/c6gqwz79ylw4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-24T05:44:22",
+      "content": "While most people are preparing to stay indoors as another storm approaches, others are getting ready to head straight into it."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Complex issues: how to get your apartment block off gas – before it’s too late",
+      "description": "Electrifying your block of flats could cut emissions and save money.",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/24/complex-issues-how-to-get-your-apartment-block-off-gas-before-its-too-late",
+      "publishedAt": "2026-10-23T23:00:16",
+      "content": "Electrifying your block of flats could cut emissions and save money."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Homeowner’s Last Stand Against Alabama Power",
+      "description": "CALERA, Ala.",
+      "url": "https://insideclimatenews.org/news/23102026/a-homeowners-last-stand-against-alabama-power/",
+      "publishedAt": "2026-10-23T21:25:04",
+      "content": "CALERA, Ala."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Boeing’s Demolition of a California Nuclear Testing Facility Has Nearby Families Worried About Cancer",
+      "description": "Boeing has almost completed the demolition of five buildings at its infamous Santa Susana Field Laboratory in Southern California, even as concerns mount among nearby families about potential healt...",
+      "url": "https://insideclimatenews.org/news/23102026/boeings-demolition-of-nuclear-facility-cancer/",
+      "publishedAt": "2026-10-23T21:21:14",
+      "content": "Boeing has almost completed the demolition of five buildings at its infamous Santa Susana Field Laboratory in Southern California, even as concerns mount among nearby families about potential healt..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+      "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T21:10:47",
+      "content": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama’s New Data Center Rules Still Leave Customers in the Dark, Critics Say",
+      "description": "Nearly all observers agree that Alabama’s new data center policies released this week are an improvement over the state’s old rules, which treat massive, power-hungry data centers like any other la...",
+      "url": "https://insideclimatenews.org/news/23102026/alabamas-new-data-center-rules-still-leave-customers-in-the-dark-critics-say/",
+      "publishedAt": "2026-10-23T19:48:08",
+      "content": "Nearly all observers agree that Alabama’s new data center policies released this week are an improvement over the state’s old rules, which treat massive, power-hungry data centers like any other la..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Most of the World’s Shallow Coral Reefs Could Collapse in the Next 50 Years",
+      "description": "By 2075, the vast majority of the world’s shallow coral reefs could cease to function as both critical habitat for marine life and a lifeline for hundreds of millions of people who rely on them.  A...",
+      "url": "https://insideclimatenews.org/news/23102026/most-of-the-worlds-shallow-coral-reefs-could-collapse-in-the-next-50-years/",
+      "publishedAt": "2026-10-23T18:27:41",
+      "content": "By 2075, the vast majority of the world’s shallow coral reefs could cease to function as both critical habitat for marine life and a lifeline for hundreds of millions of people who rely on them.  A..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wales plans to ban steel pylons as government launches consultation",
+      "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T16:44:13",
+      "content": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "PFAS Contamination in Drinking Water May Be Underestimated, New Study Suggests",
+      "description": "When PFAS concentrations in drinking water fall below laboratory reporting limits, they are sometimes treated as “zero” in statistical analyses.",
+      "url": "https://insideclimatenews.org/news/23102026/pfas-contamination-in-drinking-water-may-be-underestimated-new-study-suggests/",
+      "publishedAt": "2026-10-23T16:37:02",
+      "content": "When PFAS concentrations in drinking water fall below laboratory reporting limits, they are sometimes treated as “zero” in statistical analyses."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "description": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-23T15:30:47",
+      "content": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "UK government to make unprecedented intervention in setting of water bills",
+      "description": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’Ministers will make an unprecedented intervention in water bills and how companies priori...",
+      "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+      "publishedAt": "2026-10-23T13:51:10",
+      "content": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’Ministers will make an unprecedented intervention in water bills and how companies priori..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
       "title": "Google Signs Deal to Build 1GW Virtual Power Plant Aggregating Energy from Homes, Businesses",
       "description": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant",
       "url": "https://www.esgtoday.com/google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses",
       "publishedAt": "2026-10-23T08:45:27",
       "content": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Can Good Samaritans Fix America’s $60 Billion Abandoned Mine Problem?",
-      "description": "Organizations across the U.",
-      "url": "https://triplepundit.com/2026/good-samaritan-act-abandoned-mine-cleanup-bodie-mine/",
-      "publishedAt": "2026-10-22T17:46:51",
-      "content": "Organizations across the U."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Elanco Animal Health Appoints Jamie Preston as Chief People Officer",
-      "description": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced the appointment of Jamie Preston as Executive Vice President and Chief People Officer, effective November 3rd.",
-      "url": "https://csrwire.com/press-release/elanco-animal-health-appoints-jamie-preston-chief-people-officer/",
-      "publishedAt": "2026-10-22T16:30:00",
-      "content": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced the appointment of Jamie Preston as Executive Vice President and Chief People Officer, effective November 3rd."
     },
     {
       "source": {
@@ -180,113 +345,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "ISSB Releases Proposed Nature-Related Reporting Requirements",
-      "description": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft",
-      "url": "https://www.esgtoday.com/issb-releases-proposed-nature-related-reporting-requirements/?utm_source=rss&utm_medium=rss&utm_campaign=issb-releases-proposed-nature-related-reporting-requirements",
-      "publishedAt": "2026-10-22T10:33:49",
-      "content": "The IFRS Foundation’s International Sustainability Standards Board (ISSB) announced the release of the initial exposure draft"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Knitwear from more sustainable brands to keep cosy in",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-knitwear/",
-      "publishedAt": "2026-10-19T23:00:02",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "IPCC scientists vow to press on with climate reports despite political deadlock",
-      "description": "After governments again failed to agree a timeline, nearly 120 IPCC authors pledged to complete their assessment on time and with full scientific rigour\nThe post IPCC scientists vow to press on wit...",
-      "url": "https://www.climatechangenews.com/2026/10/19/ipcc-scientists-vow-to-press-on-with-climate-reports-despite-political-deadlock/",
-      "publishedAt": "2026-10-19T12:31:12",
-      "content": "After governments again failed to agree a timeline, nearly 120 IPCC authors pledged to complete their assessment on time and with full scientific rigour\nThe post IPCC scientists vow to press on wit..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
-      "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T09:47:42",
-      "content": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Researchers Find Widespread PFAs Contamination in Florida Waterways",
+      "title": "Researchers Find Widespread PFAS Contamination in Florida Waterways",
       "description": "A new report suggests dozens of “forever chemicals” linked with cancer and other human health problems are prevalent in Florida waterways, reflecting widespread contamination of the toxic chemicals...",
       "url": "https://insideclimatenews.org/news/23102026/researchers-find-widespread-pfas-contamination-in-florida-waterways/",
       "publishedAt": "2026-10-23T09:00:00",
       "content": "A new report suggests dozens of “forever chemicals” linked with cancer and other human health problems are prevalent in Florida waterways, reflecting widespread contamination of the toxic chemicals..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T08:26:47",
-      "content": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Lights will stay on this winter, grid operator says after concerns",
-      "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T06:47:10",
-      "content": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Shock' of first England farmer hit by bird flu this season",
-      "description": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdg235g76no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:10:30",
-      "content": "The first farmer in England hit by bird flu this season tells of the \"emotional roller coaster\" of losing 32,000 hens."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
-      "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
-      "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-23T05:05:03",
-      "content": "The sequence is part of the latest Blue Planet series from Sir David Attenborough."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How citizen science is tracking changes in shorelines around the world",
-      "description": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areasThe shoreline changes with the weather. Tracking these changes over time is a labour-...",
-      "url": "https://www.theguardian.com/news/2026/oct/23/how-citizen-science-is-tracking-changes-in-shorelines-around-the-world",
-      "publishedAt": "2026-10-23T05:00:01",
-      "content": "An app and a camera phone are all that’s needed at more than 200 spots to help researchers monitor coastal areasThe shoreline changes with the weather. Tracking these changes over time is a labour-..."
     },
     {
       "source": {
@@ -298,17 +364,6 @@
       "url": "https://www.nytimes.com/2026/10/22/climate/europe-summer-heat-deaths.html",
       "publishedAt": "2026-10-22T23:01:06",
       "content": "This summer’s heat was the continent’s deadliest by far this century, according to new peer-reviewed estimates."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
-      "description": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
-      "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-22T21:21:22",
-      "content": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked."
     },
     {
       "source": {
@@ -356,94 +411,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "RBA Announces New and Improved Onsite Assessments for Global Supply Chains",
-      "description": "The Responsible Business Alliance (RBA) announced the availability of its new and improved onsite assessments for global supply chains, with major structural and technological improvements that add...",
-      "url": "https://csrwire.com/press-release/rba-announces-new-and-improved-onsite-assessments-global-supply-chains/",
-      "publishedAt": "2026-10-22T09:55:00",
-      "content": "The Responsible Business Alliance (RBA) announced the availability of its new and improved onsite assessments for global supply chains, with major structural and technological improvements that add..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Amgen Foundation Tops $75 Million in Hands-On Biotechnology Education, Reaching 100,000 Students a Year",
-      "description": "The Amgen Foundation today announced a new $13.",
-      "url": "https://csrwire.com/press-release/amgen-foundation-tops-75-million-hands-biotechnology-education-reaching-100000-students-year/",
-      "publishedAt": "2026-10-22T09:00:00",
-      "content": "The Amgen Foundation today announced a new $13."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PNC Bank Named Most Trusted Bank in Investor's Business Daily 2026 Trust Survey",
-      "description": "PNC Bank has been named the Most Trusted Bank in Investor's Business Daily's (IBD) 2026 trust survey, earning top honors among banks for building customer confidence through exceptional service, st...",
-      "url": "https://csrwire.com/press-release/pnc-bank-named-most-trusted-bank-investors-business-daily-2026-trust-survey/",
-      "publishedAt": "2026-10-22T09:00:00",
-      "content": "PNC Bank has been named the Most Trusted Bank in Investor's Business Daily's (IBD) 2026 trust survey, earning top honors among banks for building customer confidence through exceptional service, st..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Citi Structures New Outcome Bond with Returns Tied to Generation of Carbon Credits",
-      "description": "Citi announced that it has structured a new $72 million “Carbon Removal-Linked Note” to finance",
-      "url": "https://www.esgtoday.com/citi-structures-new-outcome-bond-note-with-returns-tied-to-generation-of-carbon-credits/?utm_source=rss&utm_medium=rss&utm_campaign=citi-structures-new-outcome-bond-note-with-returns-tied-to-generation-of-carbon-credits",
-      "publishedAt": "2026-10-22T08:44:02",
-      "content": "Citi announced that it has structured a new $72 million “Carbon Removal-Linked Note” to finance"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How PepsiCo's Industrial Athlete Program Helps Frontline Associates Beat the Heat",
-      "description": "As temperatures rise, so does the importance of hydration for frontline associates at PepsiCo. Like athletes, frontline teams in physically demanding roles may experience heat stress.",
-      "url": "https://csrwire.com/press-release/how-pepsicos-industrial-athlete-program-helps-frontline-associates-beat-heat/",
-      "publishedAt": "2026-10-22T08:05:00",
-      "content": "As temperatures rise, so does the importance of hydration for frontline associates at PepsiCo. Like athletes, frontline teams in physically demanding roles may experience heat stress."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "MK5K® Unites Communities Across the U.S. To Advance Women's Cancer Research and Support Survivors of Domestic Violence",
-      "description": "A powerful show of purpose, compassion and community generated significant impact at this year's 22nd Annual MK5K® fundraising event hosted by the Mary Kay Ash Foundation®, as thousands of particip...",
-      "url": "https://csrwire.com/press-release/mk5kr-unites-communities-across-us-advance-womens-cancer-research-and-support-survivors/",
-      "publishedAt": "2026-10-22T08:00:00",
-      "content": "A powerful show of purpose, compassion and community generated significant impact at this year's 22nd Annual MK5K® fundraising event hosted by the Mary Kay Ash Foundation®, as thousands of particip..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "When a Scam Affects More Than Your Wallet",
-      "description": "When someone’s personal information is stolen or a scam succeeds, the damage isn’t always measured in dollars.",
-      "url": "https://csrwire.com/press-release/when-scam-affects-more-your-wallet/",
-      "publishedAt": "2026-10-21T14:45:00",
-      "content": "When someone’s personal information is stolen or a scam succeeds, the damage isn’t always measured in dollars."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Better Decisions Earlier: The Real Value of Simulation-Led Engineering",
-      "description": "Product development teams must deliver better products faster while controlling cost, quality, and risk.",
-      "url": "https://csrwire.com/press-release/better-decisions-earlier-real-value-simulation-engineering/",
-      "publishedAt": "2026-10-21T11:10:00",
-      "content": "Product development teams must deliver better products faster while controlling cost, quality, and risk."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -463,17 +430,6 @@
       "url": "https://www.climatechangenews.com/2026/10/21/cop17-must-settle-who-decides-how-cali-fund-money-is-disbursed/",
       "publishedAt": "2026-10-21T20:42:11",
       "content": "The fund’s importance will depend not only on how much reaches Indigenous Peoples and local communities, but on whether they can determine how the finance is accessed, governed and used\nThe post CO..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Paris Agreement committee names three countries snubbing it over NDCs",
-      "description": "More than 30 countries have failed to submit an NDC, but only three have repeatedly ignored the committee’s efforts to engage with them\nThe post Paris Agreement committee names three countries snub...",
-      "url": "https://www.climatechangenews.com/2026/10/20/paris-agreement-committee-names-three-countries-snubbing-it-over-ndcs/",
-      "publishedAt": "2026-10-20T17:19:47",
-      "content": "More than 30 countries have failed to submit an NDC, but only three have repeatedly ignored the committee’s efforts to engage with them\nThe post Paris Agreement committee names three countries snub..."
     }
   ]
 }
