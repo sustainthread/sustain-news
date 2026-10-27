@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 44,
+  "totalResults": 42,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EcoVadis, Vertice Partner to Integrate ESG Ratings into the Procurement Process",
+      "description": "Sustainability ratings and solutions provider EcoVadis and AI procurement platform Vertice announced the launch of",
+      "url": "https://www.esgtoday.com/ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process",
+      "publishedAt": "2026-10-27T10:28:22",
+      "content": "Sustainability ratings and solutions provider EcoVadis and AI procurement platform Vertice announced the launch of"
+    },
     {
       "source": {
         "name": "Good On You"
@@ -10,8 +21,30 @@
       "title": "More sustainable fashion brand offers this October 2026",
       "description": "Feature image: ReCreate.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-10-20T22:00:45",
+      "publishedAt": "2026-10-26T22:00:45",
       "content": "Feature image: ReCreate."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds",
+      "description": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of clim...",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
+      "publishedAt": "2026-10-27T05:00:02",
+      "content": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of clim..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo",
+      "description": "Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advoca...",
+      "url": "https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/",
+      "publishedAt": "2026-10-27T08:55:00",
+      "content": "Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advoca..."
     },
     {
       "source": {
@@ -26,47 +59,14 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Potent Climate Super-Pollutant Is Surging in Beijing",
-      "description": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, ...",
-      "url": "https://insideclimatenews.org/news/24102026/sf6-climate-super-pollutant-surges-in-beijing/",
-      "publishedAt": "2026-10-24T08:55:00",
-      "content": "Climate pollutant concentrations in the Beijing region of northern China have plateaued or begun to decline—except for the world’s most potent greenhouse gas, new research concludes. The findings, ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘You need persistence’: the Norfolk couple who took on environmental regulators three times – and won",
-      "description": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk BroadsPolluters and regulators who fail to stop pollution must quake in their boots...",
-      "url": "https://www.theguardian.com/environment/2026/oct/24/norfolk-couple-who-took-on-environmental-regulators-three-times-and-won",
-      "publishedAt": "2026-10-24T07:00:27",
-      "content": "Tim and Geli Harris have spent more than a decade fighting to protect Catfield Fen, a rare wetland in the Norfolk BroadsPolluters and regulators who fail to stop pollution must quake in their boots..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "UK Channels Oil & Gas Revenues into New £2 Billion Clean Energy Wealth Fund",
-      "description": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing",
-      "url": "https://www.esgtoday.com/uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=uk-channels-oil-gas-revenues-into-new-2-billion-clean-energy-fund",
-      "publishedAt": "2026-10-22T14:18:42",
-      "content": "The UK government announced the establishment of a new Energy Wealth Fund, focused on investing"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘They paved paradise’: fighting back over the loss of green spaces in Cameroon’s capital",
-      "description": "Concrete sprawl in Yaoundé has devastated the city’s trees and parks, so volunteers are stepping up, shrub by shrubA little piece of paradise is buried under the asphalt that is now lined with park...",
-      "url": "https://www.theguardian.com/global-development/2026/oct/25/environment-cities-cameroon-yaounde-green-space-trees",
-      "publishedAt": "2026-10-25T15:00:05",
-      "content": "Concrete sprawl in Yaoundé has devastated the city’s trees and parks, so volunteers are stepping up, shrub by shrubA little piece of paradise is buried under the asphalt that is now lined with park..."
+      "title": "Lufthansa Renames Green Fares to Align with Anti-greenwashing Regulation",
+      "description": "Lufthansa Group announced that it is renaming its Green Fare, its offering enabling passengers to",
+      "url": "https://www.esgtoday.com/lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation",
+      "publishedAt": "2026-10-26T14:53:27",
+      "content": "Lufthansa Group announced that it is renaming its Green Fare, its offering enabling passengers to"
     },
     {
       "source": {
@@ -81,25 +81,47 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "EIB Unveils €30 Billion Climate Adaptation Plan",
-      "description": "The European Investment Bank (EIB) Group announced a new plan to deliver at least €30",
-      "url": "https://www.esgtoday.com/eib-unveils-e30-billion-climate-adaptation-plan/?utm_source=rss&utm_medium=rss&utm_campaign=eib-unveils-e30-billion-climate-adaptation-plan",
-      "publishedAt": "2026-10-22T13:38:35",
-      "content": "The European Investment Bank (EIB) Group announced a new plan to deliver at least €30"
+      "author": "The Guardian",
+      "title": "‘They paved paradise’: fighting back over the loss of green spaces in Cameroon’s capital",
+      "description": "Concrete sprawl in Yaoundé has devastated the city’s trees and parks, so volunteers are stepping up, shrub by shrubA little piece of paradise is buried under the asphalt that is now lined with park...",
+      "url": "https://www.theguardian.com/global-development/2026/oct/25/environment-cities-cameroon-yaounde-green-space-trees",
+      "publishedAt": "2026-10-25T15:00:05",
+      "content": "Concrete sprawl in Yaoundé has devastated the city’s trees and parks, so volunteers are stepping up, shrub by shrubA little piece of paradise is buried under the asphalt that is now lined with park..."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Good On You"
       },
-      "author": "Inside Climate News",
-      "title": "Battleground Ballots",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/",
-      "publishedAt": "2026-10-26T09:30:00",
-      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
+      "author": "Good On You",
+      "title": "How to care for your clothes: washing, storing, and maintenance",
+      "description": "Caring for your clothes is an essential part of sustainability because laundering and storing them right can help to extend their lifespan, reducing how much you’re spending on new clothes to repla...",
+      "url": "https://goodonyou.eco/caring-for-your-clothes/",
+      "publishedAt": "2026-10-26T23:00:30",
+      "content": "Caring for your clothes is an essential part of sustainability because laundering and storing them right can help to extend their lifespan, reducing how much you’re spending on new clothes to repla..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "African governments strengthen waste rules as solar and battery use surges",
+      "description": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materials \nThe post African governments strengthen wa...",
+      "url": "https://www.climatechangenews.com/2026/10/26/african-governments-strengthen-waste-rules-as-solar-and-battery-use-surges/",
+      "publishedAt": "2026-10-26T16:43:07",
+      "content": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materials \nThe post African governments strengthen wa..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Epoch Raises $4.25 Million to Help SMEs Comply with EUDR Supply Chain Deforestation Regulation",
+      "description": "Supply chain intelligence platform Epoch announced today that it has raised $4.25 million in a",
+      "url": "https://www.esgtoday.com/epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation",
+      "publishedAt": "2026-10-26T15:20:45",
+      "content": "Supply chain intelligence platform Epoch announced today that it has raised $4.25 million in a"
     },
     {
       "source": {
@@ -109,8 +131,30 @@
       "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
       "description": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly.",
       "url": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
-      "publishedAt": "2026-10-26T09:00:54",
+      "publishedAt": "2026-10-26T13:58:11",
       "content": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Investors Urge ISSB to Issue Mandatory Nature-Related Reporting Standard",
+      "description": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced",
+      "url": "https://www.esgtoday.com/investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "publishedAt": "2026-10-26T13:36:16",
+      "content": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Blackrock’s Akaysha Energy Secures $1.2 Billion to Build Out Battery Storage Platform",
+      "description": "Australian battery energy storage systems (BESS) developer and operator Akaysha Energy announced that it secured",
+      "url": "https://www.esgtoday.com/blackrocks-akaysha-energy-secures-1-2-billion-to-build-out-battery-storage-platform/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-akaysha-energy-secures-1-2-billion-to-build-out-battery-storage-platform",
+      "publishedAt": "2026-10-26T11:53:46",
+      "content": "Australian battery energy storage systems (BESS) developer and operator Akaysha Energy announced that it secured"
     },
     {
       "source": {
@@ -136,14 +180,80 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "BBC"
       },
-      "author": "Good On You",
-      "title": "Knitwear from more sustainable brands to keep cosy in",
-      "description": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-knitwear/",
-      "publishedAt": "2026-10-19T23:00:02",
-      "content": "This is a sponsored article featuring brands that have been independently assessed by our rigorous ratings system."
+      "author": "BBC",
+      "title": "What is Nasa's Artemis III mission? And what comes next?",
+      "description": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T10:33:26",
+      "content": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The pest I’ll never forget: the rats stood six or seven deep on the lawn beside my dormitory",
+      "description": "All it took was one or two careless teenage girls giving the vermin a taste of their snacks and they became the most well-fed animals imaginableI’ve written a fair amount about my boarding school y...",
+      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/27/the-pest-ill-never-forget-rats-stood-six-seven-deep-beside-dormitory",
+      "publishedAt": "2026-10-27T07:00:06",
+      "content": "All it took was one or two careless teenage girls giving the vermin a taste of their snacks and they became the most well-fed animals imaginableI’ve written a fair amount about my boarding school y..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Our tiny island is awash with waxcaps | Tim Earl",
+      "description": "Calf of Man, Isle of Man: Such is the wealth of Manx fungi, a map is being built to plot it all.",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
+      "publishedAt": "2026-10-27T05:30:02",
+      "content": "Calf of Man, Isle of Man: Such is the wealth of Manx fungi, a map is being built to plot it all."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Political battle intensifies within Labour over Rosebank oil field",
+      "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T18:09:49",
+      "content": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
+      "description": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T18:09:39",
+      "content": "Wedding guests at an island in County Fermanagh were left stranded due to the storm."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Part of Antarctica named after former BBC science correspondent",
+      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-26T14:54:40",
+      "content": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
+      "description": "V2G tech enables drivers to charge automatically when electricity is cheaper and then sell some back to the grid at times of high demandElectric cars that can be used as “power plants on wheels” co...",
+      "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+      "publishedAt": "2026-10-26T13:00:42",
+      "content": "V2G tech enables drivers to charge automatically when electricity is cheaper and then sell some back to the grid at times of high demandElectric cars that can be used as “power plants on wheels” co..."
     },
     {
       "source": {
@@ -161,11 +271,33 @@
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
+      "title": "Battleground Ballots",
+      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
+      "url": "https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/",
+      "publishedAt": "2026-10-26T09:30:00",
+      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "New Film Series Turns the Spotlight on Arrow Electronics’ SAM Car Project",
+      "description": "The collaboration between Arrow and Schmidt resulted in the Arrow SAM (semi-autonomous motorcar) Car Project, which modifies performance cars with electronic interfaces to allow Schmidt to drive at...",
+      "url": "https://csrwire.com/press-release/new-film-series-turns-spotlight-arrow-electronics-sam-car-project/",
+      "publishedAt": "2026-10-26T09:15:00",
+      "content": "The collaboration between Arrow and Schmidt resulted in the Arrow SAM (semi-autonomous motorcar) Car Project, which modifies performance cars with electronic interfaces to allow Schmidt to drive at..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
       "title": "Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans",
-      "description": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the comines are finally out in full force.",
+      "description": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force.",
       "url": "https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/",
       "publishedAt": "2026-10-26T09:05:00",
-      "content": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the comines are finally out in full force."
+      "content": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force."
     },
     {
       "source": {
@@ -180,39 +312,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Jackdaws carve up the sky as dusk descends on the moors | Richard Smyth",
-      "description": "Eldwick Crag, West Yorkshire: In the low light and the high wind, these corvids are preparing to roost for the night.",
-      "url": "https://www.theguardian.com/environment/2026/oct/26/country-diary-jackdaws-carve-up-the-sky-as-dusk-descends-on-the-moors",
-      "publishedAt": "2026-10-26T05:30:22",
-      "content": "Eldwick Crag, West Yorkshire: In the low light and the high wind, these corvids are preparing to roost for the night."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "From agriculture to AI-griculture: How tech is changing farming",
-      "description": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology.",
-      "url": "https://www.bbc.co.uk/news/articles/cw80zk9k51j1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T00:13:09",
-      "content": "From remote monitoring of cattle to automation of processes that took up valuable time, farmers in NI are rapidly becoming skilled in technology."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Majority of homes in NI have power restored after Storm Boelo",
-      "description": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage.",
-      "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T23:53:04",
-      "content": "Northern Ireland Electricity Networks (NIE) said around 12,500 properties were without power at one stage."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -221,50 +320,6 @@
       "url": "https://goodonyou.eco/how-ethical-lululemon/",
       "publishedAt": "2026-10-25T23:00:27",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "In pictures: Storm Boelo leaves a trail of destruction across Scotland",
-      "description": "The severe weather brought strong winds and heavy rain to large parts of Scotland.",
-      "url": "https://www.bbc.co.uk/news/articles/cmewe8ndn1q4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T21:11:43",
-      "content": "The severe weather brought strong winds and heavy rain to large parts of Scotland."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Man killed by falling tree as Storm Boelo batters Scotland",
-      "description": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-25T21:09:58",
-      "content": "The 60-year-old man was struck by the tree near Castle Douglas as Storm Boelo brought strong winds and heavy rain to Scotland."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "U-turn on EV policy could stall UK’s take-up of EVs | Fiona Harvey and Jasper Jolly",
-      "description": "The 2030 target for 80% of new cars to have zero emissions could be cut to as low as halfElectric cars make people happy.",
-      "url": "https://www.theguardian.com/environment/2026/oct/25/policy-u-turn-uk-electric-vehicles",
-      "publishedAt": "2026-10-25T12:00:04",
-      "content": "The 2030 target for 80% of new cars to have zero emissions could be cut to as low as halfElectric cars make people happy."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Yes, There Is Some Global Action on Phasing Out Fossil Fuels",
-      "description": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tzeporah Berman, the founder of the Fossil Fuel Non-Proliferation Tre...",
-      "url": "https://insideclimatenews.org/news/24102026/yes-there-is-some-hopeful-global-action-on-phasing-out-fossil-fuels/",
-      "publishedAt": "2026-10-24T09:00:00",
-      "content": "From our collaborating partner Living on Earth, public radio’s environmental news magazine, an interview by Paloma Beltran with Tzeporah Berman, the founder of the Fossil Fuel Non-Proliferation Tre..."
     },
     {
       "source": {
@@ -287,50 +342,6 @@
       "url": "https://www.esgtoday.com/cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors",
       "publishedAt": "2026-10-23T12:20:03",
       "content": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Lights out: the island that goes dark to save young seabirds – in pictures",
-      "description": "Every autumn, Corvo Island in the Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attempt to fly to the ocean guided by the starsOnce a year, Co...",
-      "url": "https://www.theguardian.com/environment/2026/oct/25/corvo-azores-corys-shearwaters-switch-off-saving-seabirds-aoe",
-      "publishedAt": "2026-10-25T11:00:03",
-      "content": "Every autumn, Corvo Island in the Azores turns off its public lighting for a few key days to help fledgling Cory’s shearwaters as they attempt to fly to the ocean guided by the starsOnce a year, Co..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Locations of North Carolina’s Industrial Poultry Farms Have Been a Secret—Until Now",
-      "description": "A few days before Christmas in 2023, the U.",
-      "url": "https://insideclimatenews.org/news/24102026/north-carolina-industrial-poultry-farms-community-science/",
-      "publishedAt": "2026-10-24T09:00:00",
-      "content": "A few days before Christmas in 2023, the U."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘False autumn’: stressed trees drop leaves early after scorching English summer",
-      "description": "Season will be less vibrant with trees such as birches, which usually offer a striking burst of yellow leaves, already bareAmong a canvas of copper, red and purple autumn leaves on display at Wisle...",
-      "url": "https://www.theguardian.com/environment/2026/oct/24/false-autumn-stressed-trees-drop-leaves-early-extreme-summer-heat",
-      "publishedAt": "2026-10-24T08:00:27",
-      "content": "Season will be less vibrant with trees such as birches, which usually offer a striking burst of yellow leaves, already bareAmong a canvas of copper, red and purple autumn leaves on display at Wisle..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "A Homeowner’s Last Stand Against Alabama Power",
-      "description": "CALERA, Ala.",
-      "url": "https://insideclimatenews.org/news/23102026/a-homeowners-last-stand-against-alabama-power/",
-      "publishedAt": "2026-10-23T21:25:04",
-      "content": "CALERA, Ala."
     },
     {
       "source": {
@@ -400,17 +411,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Google Signs Deal to Build 1GW Virtual Power Plant Aggregating Energy from Homes, Businesses",
-      "description": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant",
-      "url": "https://www.esgtoday.com/google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses/?utm_source=rss&utm_medium=rss&utm_campaign=google-signs-deal-to-build-1gw-virtual-power-plant-aggregating-energy-from-homes-businesses",
-      "publishedAt": "2026-10-23T08:45:27",
-      "content": "Google announced a new agreement with Voltus to fund a 1 GW virtual power plant"
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -430,17 +430,6 @@
       "url": "https://csrwire.com/press-release/elanco-animal-health-appoints-jamie-preston-chief-people-officer/",
       "publishedAt": "2026-10-22T16:30:00",
       "content": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced the appointment of Jamie Preston as Executive Vice President and Chief People Officer, effective November 3rd."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Optivolt Raises $32 Million to Make Solar Panels Smarter",
-      "description": "Power electronics company Optivolt announced that it has raised $32 million in a Series A",
-      "url": "https://www.esgtoday.com/optivolt-raises-32-million-to-make-solar-panels-smarter/?utm_source=rss&utm_medium=rss&utm_campaign=optivolt-raises-32-million-to-make-solar-panels-smarter",
-      "publishedAt": "2026-10-22T15:59:33",
-      "content": "Power electronics company Optivolt announced that it has raised $32 million in a Series A"
     },
     {
       "source": {
@@ -474,17 +463,6 @@
       "url": "https://csrwire.com/press-release/amgen-foundation-tops-75-million-hands-biotechnology-education-reaching-100000-students-year/",
       "publishedAt": "2026-10-22T09:00:00",
       "content": "The Amgen Foundation today announced a new $13."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "PNC Bank Named Most Trusted Bank in Investor's Business Daily 2026 Trust Survey",
-      "description": "PNC Bank has been named the Most Trusted Bank in Investor's Business Daily's (IBD) 2026 trust survey, earning top honors among banks for building customer confidence through exceptional service, st...",
-      "url": "https://csrwire.com/press-release/pnc-bank-named-most-trusted-bank-investors-business-daily-2026-trust-survey/",
-      "publishedAt": "2026-10-22T09:00:00",
-      "content": "PNC Bank has been named the Most Trusted Bank in Investor's Business Daily's (IBD) 2026 trust survey, earning top honors among banks for building customer confidence through exceptional service, st..."
     }
   ]
 }
