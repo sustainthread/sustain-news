@@ -1,7 +1,62 @@
 {
   "status": "ok",
-  "totalResults": 42,
+  "totalResults": 34,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
+      "description": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed",
+      "url": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
+      "publishedAt": "2026-10-28T11:30:37",
+      "content": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Singapore Revises Clean Energy Claims Rules to Address Greenwashing Risks",
+      "description": "Singapore’s Ministry of Energy, Trade and Industry announced the release of an updated Singapore Standard",
+      "url": "https://www.esgtoday.com/singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks",
+      "publishedAt": "2026-10-27T16:29:41",
+      "content": "Singapore’s Ministry of Energy, Trade and Industry announced the release of an updated Singapore Standard"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Masdar Issues Inaugural $600 Million Blue Bond to Fund Water-Based Clean Energy Projects",
+      "description": "UAE-based renewable energy developer Masdar announced that it has raised $600 million through its first",
+      "url": "https://www.esgtoday.com/masdar-issues-inaugural-600-million-blue-bond-to-fund-water-based-clean-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=masdar-issues-inaugural-600-million-blue-bond-to-fund-water-based-clean-energy-projects",
+      "publishedAt": "2026-10-27T11:16:48",
+      "content": "UAE-based renewable energy developer Masdar announced that it has raised $600 million through its first"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
+      "description": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from ...",
+      "url": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
+      "publishedAt": "2026-10-28T00:01:00",
+      "content": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
+      "description": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new",
+      "url": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss&utm_medium=rss&utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
+      "publishedAt": "2026-10-28T09:23:35",
+      "content": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,25 +81,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Climate Change News"
       },
-      "author": "The Guardian",
-      "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds",
-      "description": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of clim...",
-      "url": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
-      "publishedAt": "2026-10-27T05:00:02",
-      "content": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of clim..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In Florida’s Gubernatorial Race, a Choice Between New Climate Policy or the Status Quo",
-      "description": "Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advoca...",
-      "url": "https://insideclimatenews.org/news/27102026/florida-governor-election-everglades/",
-      "publishedAt": "2026-10-27T08:55:00",
-      "content": "Florida’s gubernatorial race features two candidates with very different views on the environment and climate: One largely supports maintaining the status quo in state policy while the other advoca..."
+      "author": "Climate Change News",
+      "title": "Why COP31 needs to start talking about just transition finance",
+      "description": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could undermine climate goals\nThe post Why COP31 nee...",
+      "url": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
+      "publishedAt": "2026-10-28T10:56:06",
+      "content": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could undermine climate goals\nThe post Why COP31 nee..."
     },
     {
       "source": {
@@ -62,33 +106,187 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Lufthansa Renames Green Fares to Align with Anti-greenwashing Regulation",
-      "description": "Lufthansa Group announced that it is renaming its Green Fare, its offering enabling passengers to",
-      "url": "https://www.esgtoday.com/lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=lufthansa-renames-green-fares-to-align-with-anti-greenwashing-regulation",
-      "publishedAt": "2026-10-26T14:53:27",
-      "content": "Lufthansa Group announced that it is renaming its Green Fare, its offering enabling passengers to"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "GHG Protocol to Push Back Stricter Scope 2 Reporting Rules After Corporate Objections",
-      "description": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol provided an update on its progress to",
-      "url": "https://www.esgtoday.com/ghg-protocol-to-push-back-stricter-scope-2-reporting-rules-after-corporate-objections/?utm_source=rss&utm_medium=rss&utm_campaign=ghg-protocol-to-push-back-stricter-scope-2-reporting-rules-after-corporate-objections",
-      "publishedAt": "2026-10-26T11:14:44",
-      "content": "Greenhouse Gas (GHG) reporting framework provider GHG Protocol provided an update on its progress to"
+      "title": "EU Commission Launches Climate Resilience Framework",
+      "description": "The European Commission unveiled on Tuesday its highly-anticipated Climate Resilience Framework, combining a new proposed",
+      "url": "https://www.esgtoday.com/eu-commission-launches-climate-resilience-framework/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-climate-resilience-framework",
+      "publishedAt": "2026-10-27T13:13:23",
+      "content": "The European Commission unveiled on Tuesday its highly-anticipated Climate Resilience Framework, combining a new proposed"
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘They paved paradise’: fighting back over the loss of green spaces in Cameroon’s capital",
-      "description": "Concrete sprawl in Yaoundé has devastated the city’s trees and parks, so volunteers are stepping up, shrub by shrubA little piece of paradise is buried under the asphalt that is now lined with park...",
-      "url": "https://www.theguardian.com/global-development/2026/oct/25/environment-cities-cameroon-yaounde-green-space-trees",
-      "publishedAt": "2026-10-25T15:00:05",
-      "content": "Concrete sprawl in Yaoundé has devastated the city’s trees and parks, so volunteers are stepping up, shrub by shrubA little piece of paradise is buried under the asphalt that is now lined with park..."
+      "title": "The climate crisis will destroy our economies – we learned this 20 years ago. When will we act? | Fiona Harvey",
+      "description": "The radical Stern report showed that a low-carbon future is also good economics.",
+      "url": "https://www.theguardian.com/commentisfree/2026/oct/28/nicholas-stern-report-climate-consensus-lessons-capitalism",
+      "publishedAt": "2026-10-28T08:00:01",
+      "content": "The radical Stern report showed that a low-carbon future is also good economics."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "8 LGBTQ+-owned more sustainable brands you should follow",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/lgbtq-owned-brands/",
+      "publishedAt": "2026-10-27T23:19:54",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "National climate plans now promise half the emission cuts expected by UN",
+      "description": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post National climate plans now promise half the emissi...",
+      "url": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
+      "publishedAt": "2026-10-27T13:51:00",
+      "content": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post National climate plans now promise half the emissi..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Antarctic Sea Ice Decline Is Triggering Global Ocean Changes",
+      "description": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.",
+      "url": "https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/",
+      "publishedAt": "2026-10-28T10:00:00",
+      "content": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "PureTerra Scores €30 Million Commitment for New Water Tech Venture Fund from EIF",
+      "description": "Water technology-focused venture capital firm PureTerra Ventures announced that it has secured a €30 million",
+      "url": "https://www.esgtoday.com/pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif/?utm_source=rss&utm_medium=rss&utm_campaign=pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif",
+      "publishedAt": "2026-10-28T08:20:32",
+      "content": "Water technology-focused venture capital firm PureTerra Ventures announced that it has secured a €30 million"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
+      "description": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
+      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T15:32:40",
+      "content": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How Texas Could End Up Paying an Israeli Company Billions for Water",
+      "description": "Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.  Un...",
+      "url": "https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/",
+      "publishedAt": "2026-10-28T09:00:00",
+      "content": "Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.  Un..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How rising seas transformed dry land into Venice lagoon",
+      "description": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern AdriaticVenice is famed for being a floating city, but research shows the land it sits on once lay ma...",
+      "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
+      "publishedAt": "2026-10-28T06:00:04",
+      "content": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern AdriaticVenice is famed for being a floating city, but research shows the land it sits on once lay ma..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sea of crimson: vivid ‘red beach’ transforms China’s wetlands and marshes – in pictures",
+      "description": "A striking transformation takes place along the coast of Qinqdao in autumn, when a native seepweed turns a brilliant shade of red.",
+      "url": "https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures",
+      "publishedAt": "2026-10-28T06:00:04",
+      "content": "A striking transformation takes place along the coast of Qinqdao in autumn, when a native seepweed turns a brilliant shade of red."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
+      "description": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o...",
+      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
+      "publishedAt": "2026-10-28T06:00:00",
+      "content": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A vial of water from the rivers, becks and springs of Yorkshire – but not without permission | Amy-Jane Beer",
+      "description": "Wharram and York, North Yorkshire: It’s the nervy few days before a ceremony that will honour our local waterways, and I have work to doI visit the source of the tiny stream called the Gypsey Race ...",
+      "url": "https://www.theguardian.com/environment/2026/oct/28/country-diary-a-vial-of-water-from-the-rivers-becks-and-springs-of-yorkshire-but-not-without-permission",
+      "publishedAt": "2026-10-28T05:30:00",
+      "content": "Wharram and York, North Yorkshire: It’s the nervy few days before a ceremony that will honour our local waterways, and I have work to doI visit the source of the tiny stream called the Gypsey Race ..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
+      "description": "El Niño is expected to push this winter’s high tides even higher.",
+      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+      "publishedAt": "2026-10-27T22:33:06",
+      "content": "El Niño is expected to push this winter’s high tides even higher."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Will a new strategy help protect Northern Ireland's nature?",
+      "description": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
+      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T17:51:13",
+      "content": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\"."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+      "description": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T17:10:15",
+      "content": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Slovenia mourns loss of glacier on its highest peak after scorching summer",
+      "description": "Extreme heat accelerated disappearance of Triglav glacier from mountain revered as a symbol of Slovenian identityThe final ice patch has vanished from Slovenia’s Triglav glacier, the latest Alpine ...",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer",
+      "publishedAt": "2026-10-27T17:08:47",
+      "content": "Extreme heat accelerated disappearance of Triglav glacier from mountain revered as a symbol of Slovenian identityThe final ice patch has vanished from Slovenia’s Triglav glacier, the latest Alpine ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What's happening to our rubbish?",
+      "description": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish.",
+      "url": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-27T15:30:50",
+      "content": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish."
     },
     {
       "source": {
@@ -114,17 +312,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Epoch Raises $4.25 Million to Help SMEs Comply with EUDR Supply Chain Deforestation Regulation",
-      "description": "Supply chain intelligence platform Epoch announced today that it has raised $4.25 million in a",
-      "url": "https://www.esgtoday.com/epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=epoch-raises-4-25-million-to-help-smes-comply-with-eudr-supply-chain-deforestation-regulation",
-      "publishedAt": "2026-10-26T15:20:45",
-      "content": "Supply chain intelligence platform Epoch announced today that it has raised $4.25 million in a"
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -136,47 +323,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "Investors Urge ISSB to Issue Mandatory Nature-Related Reporting Standard",
-      "description": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced",
-      "url": "https://www.esgtoday.com/investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=investor-group-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
-      "publishedAt": "2026-10-26T13:36:16",
-      "content": "A group of 15 financial institutions*, including Federated Hermes Limited, Nordea AM and Rabobank, announced"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Blackrock’s Akaysha Energy Secures $1.2 Billion to Build Out Battery Storage Platform",
-      "description": "Australian battery energy storage systems (BESS) developer and operator Akaysha Energy announced that it secured",
-      "url": "https://www.esgtoday.com/blackrocks-akaysha-energy-secures-1-2-billion-to-build-out-battery-storage-platform/?utm_source=rss&utm_medium=rss&utm_campaign=blackrocks-akaysha-energy-secures-1-2-billion-to-build-out-battery-storage-platform",
-      "publishedAt": "2026-10-26T11:53:46",
-      "content": "Australian battery energy storage systems (BESS) developer and operator Akaysha Energy announced that it secured"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "UK approves gas drilling despite admitting blow to “climate leadership” status",
-      "description": "The government accepts that approving the Jackdaw field will weaken its climate reputation and downplays the legal weight of the International Court of Justice opinion\nThe post UK approves gas dril...",
-      "url": "https://www.climatechangenews.com/2026/10/21/uk-approves-gas-drilling-despite-admitting-blow-to-climate-leadership-status/",
-      "publishedAt": "2026-10-21T14:49:54",
-      "content": "The government accepts that approving the Jackdaw field will weaken its climate reputation and downplays the legal weight of the International Court of Justice opinion\nThe post UK approves gas dril..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Turkish giant sponsoring COP31 cut climate goals then cashed in on oil boom",
-      "description": "COP31 sponsors should be screened for “climate integrity”.",
-      "url": "https://www.climatechangenews.com/2026/10/21/turkish-giant-sponsoring-cop31-cut-climate-goals-then-cashed-in-on-oil-boom/",
-      "publishedAt": "2026-10-21T08:30:00",
-      "content": "COP31 sponsors should be screened for “climate integrity”."
+      "author": "The Guardian",
+      "title": "I struggled to come to terms with my mum’s death. Then I swam in the sea and suddenly felt connected to her",
+      "description": "My mother was a keen swimmer, and she lived with depression.",
+      "url": "https://www.theguardian.com/environment/2026/oct/27/i-struggled-to-come-to-terms-with-my-mums-death-then-i-swam-in-the-sea-and-suddenly-felt-connected-to-her",
+      "publishedAt": "2026-10-27T11:00:37",
+      "content": "My mother was a keen swimmer, and she lived with depression."
     },
     {
       "source": {
@@ -191,28 +345,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The pest I’ll never forget: the rats stood six or seven deep on the lawn beside my dormitory",
-      "description": "All it took was one or two careless teenage girls giving the vermin a taste of their snacks and they became the most well-fed animals imaginableI’ve written a fair amount about my boarding school y...",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/oct/27/the-pest-ill-never-forget-rats-stood-six-seven-deep-beside-dormitory",
-      "publishedAt": "2026-10-27T07:00:06",
-      "content": "All it took was one or two careless teenage girls giving the vermin a taste of their snacks and they became the most well-fed animals imaginableI’ve written a fair amount about my boarding school y..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Our tiny island is awash with waxcaps | Tim Earl",
-      "description": "Calf of Man, Isle of Man: Such is the wealth of Manx fungi, a map is being built to plot it all.",
-      "url": "https://www.theguardian.com/environment/2026/oct/27/country-diary-our-tiny-island-is-awash-with-waxcaps",
-      "publishedAt": "2026-10-27T05:30:02",
-      "content": "Calf of Man, Isle of Man: Such is the wealth of Manx fungi, a map is being built to plot it all."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -221,94 +353,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-10-26T18:09:49",
       "content": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Safety first' as wedding guests stranded on island after Storm Boelo",
-      "description": "Wedding guests at an island in County Fermanagh were left stranded due to the storm.",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lykm93jmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T18:09:39",
-      "content": "Wedding guests at an island in County Fermanagh were left stranded due to the storm."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Part of Antarctica named after former BBC science correspondent",
-      "description": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg7w919x09o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T14:54:40",
-      "content": "A stretch of water in the west of the continent is now called the Amos Channel after the ex-BBC journalist."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
-      "description": "V2G tech enables drivers to charge automatically when electricity is cheaper and then sell some back to the grid at times of high demandElectric cars that can be used as “power plants on wheels” co...",
-      "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
-      "publishedAt": "2026-10-26T13:00:42",
-      "content": "V2G tech enables drivers to charge automatically when electricity is cheaper and then sell some back to the grid at times of high demandElectric cars that can be used as “power plants on wheels” co..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Stunning photos capture October's Hunter's Moon around the world",
-      "description": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend.",
-      "url": "https://www.bbc.co.uk/weather/articles/c6zjxgj83n80o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T11:27:39",
-      "content": "October's full Moon, nicknamed the Hunter's Moon, lit up the night sky this weekend."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Battleground Ballots",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/26102026/inside-climate-podcast-midterm-elections/",
-      "publishedAt": "2026-10-26T09:30:00",
-      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Film Series Turns the Spotlight on Arrow Electronics’ SAM Car Project",
-      "description": "The collaboration between Arrow and Schmidt resulted in the Arrow SAM (semi-autonomous motorcar) Car Project, which modifies performance cars with electronic interfaces to allow Schmidt to drive at...",
-      "url": "https://csrwire.com/press-release/new-film-series-turns-spotlight-arrow-electronics-sam-car-project/",
-      "publishedAt": "2026-10-26T09:15:00",
-      "content": "The collaboration between Arrow and Schmidt resulted in the Arrow SAM (semi-autonomous motorcar) Car Project, which modifies performance cars with electronic interfaces to allow Schmidt to drive at..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Ahead of Midterms, Republicans Court Iowa Farmers With Fuel Plans",
-      "description": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force.",
-      "url": "https://insideclimatenews.org/news/26102026/ahead-of-midterms-republicans-court-iowa-farmers-with-fuel-plans/",
-      "publishedAt": "2026-10-26T09:05:00",
-      "content": "Intense rainfall delayed Iowa’s harvest by nearly three weeks this year, but the combines are finally out in full force."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Production Agriculture Is Driving Grasslands Loss Across North America",
-      "description": "Commodity crops are continuing to eat up the vast, near-mythical sweep of North American grasslands, with nearly 2 million acres being plowed under every year, mostly for corn, soybeans and wheat, ...",
-      "url": "https://insideclimatenews.org/news/26102026/production-agriculture-is-driving-grasslands-loss-across-north-america/",
-      "publishedAt": "2026-10-26T08:59:00",
-      "content": "Commodity crops are continuing to eat up the vast, near-mythical sweep of North American grasslands, with nearly 2 million acres being plowed under every year, mostly for corn, soybeans and wheat, ..."
     },
     {
       "source": {
@@ -323,28 +367,6 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Despite New Barriers to Voting, Gen Z Could Break Records in the U.S. Midterms",
-      "description": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit",
-      "url": "https://triplepundit.com/2026/young-people-voting-barriers-gen-z-midterms/",
-      "publishedAt": "2026-10-23T20:29:24",
-      "content": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Cambridge Heavy Industries Raises $6.2 Million to Build Mini Fusion Reactors",
-      "description": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and",
-      "url": "https://www.esgtoday.com/cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors/?utm_source=rss&utm_medium=rss&utm_campaign=cambridge-heavy-industries-raises-6-2-million-to-build-mini-fusion-reactors",
-      "publishedAt": "2026-10-23T12:20:03",
-      "content": "Fusion technology developer Cambridge Heavy Industries (CHI) announced that it has emerged from stealth and"
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -353,116 +375,6 @@
       "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
       "publishedAt": "2026-10-23T11:32:34",
       "content": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early speakers’ list suggests few powerful leaders will ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Unlock AI Tools to Grow Your Business at Nationals Park",
-      "description": "Join Verizon Small Business Digital Ready and the Washington Nationals for a hands-on seminar designed to help DMV small business owners, veteran entrepreneurs, and community leaders supercharge th...",
-      "url": "https://csrwire.com/press-release/unlock-ai-tools-grow-your-business-nationals-park/",
-      "publishedAt": "2026-10-23T10:30:00",
-      "content": "Join Verizon Small Business Digital Ready and the Washington Nationals for a hands-on seminar designed to help DMV small business owners, veteran entrepreneurs, and community leaders supercharge th..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "LRQA Acquires Supply Chain Monitoring and Responsible Sourcing Platform Omega Compliance",
-      "description": "Goldman Sachs-backed risk management solutions provider LRQA announced the acquisition of supply chain monitoring and",
-      "url": "https://www.esgtoday.com/lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance/?utm_source=rss&utm_medium=rss&utm_campaign=lrqa-acquires-supply-chain-monitoring-and-responsible-sourcing-platform-omega-compliance",
-      "publishedAt": "2026-10-23T10:22:07",
-      "content": "Goldman Sachs-backed risk management solutions provider LRQA announced the acquisition of supply chain monitoring and"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "2026 Sands Shopping Carnival Attracts Nearly 160,000 Visitors Over Four Days To Support Macao Businesses",
-      "description": "Sands China held its seventh annual Sands Shopping Carnival July 23-26 at The Venetian® Macao Cotai Expo.",
-      "url": "https://csrwire.com/press-release/2026-sands-shopping-carnival-attracts-nearly-160000-visitors-over-four-days-support-macao/",
-      "publishedAt": "2026-10-23T10:05:00",
-      "content": "Sands China held its seventh annual Sands Shopping Carnival July 23-26 at The Venetian® Macao Cotai Expo."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "LA Kings and LA Galaxy Invest in Long-Term Access to Community Recreation in Torrance",
-      "description": "AEG’s LA Kings and LA Galaxy are expanding their commitment to accessible community recreation through a five-year sponsorship of the roller rink at Charles H. Wilson Park in Torrance.",
-      "url": "https://csrwire.com/press-release/la-kings-and-la-galaxy-invest-long-term-access-community-recreation-torrance/",
-      "publishedAt": "2026-10-23T10:00:00",
-      "content": "AEG’s LA Kings and LA Galaxy are expanding their commitment to accessible community recreation through a five-year sponsorship of the roller rink at Charles H. Wilson Park in Torrance."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Celebrating 17 Years of Safety Excellence at Covia's San José, Mexico Plant",
-      "description": "At Covia, safety is a core value embedded in every aspect of our operations, from our plants to our offices.",
-      "url": "https://csrwire.com/press-release/celebrating-17-years-safety-excellence-covias-san-jose-mexico-plant/",
-      "publishedAt": "2026-10-23T09:05:00",
-      "content": "At Covia, safety is a core value embedded in every aspect of our operations, from our plants to our offices."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Can Good Samaritans Fix America’s $60 Billion Abandoned Mine Problem?",
-      "description": "Organizations across the U.",
-      "url": "https://triplepundit.com/2026/good-samaritan-act-abandoned-mine-cleanup-bodie-mine/",
-      "publishedAt": "2026-10-22T17:46:51",
-      "content": "Organizations across the U."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Elanco Animal Health Appoints Jamie Preston as Chief People Officer",
-      "description": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced the appointment of Jamie Preston as Executive Vice President and Chief People Officer, effective November 3rd.",
-      "url": "https://csrwire.com/press-release/elanco-animal-health-appoints-jamie-preston-chief-people-officer/",
-      "publishedAt": "2026-10-22T16:30:00",
-      "content": "Elanco Animal Health Incorporated (NYSE: ELAN) today announced the appointment of Jamie Preston as Executive Vice President and Chief People Officer, effective November 3rd."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "I.U.C.N. Red List Classifies Most Shallow Coral Reefs as Critically Endangered",
-      "description": "If climate change continues apace, 96 percent of shallow coral reef ecosystems may collapse within 50 years, including in Australia’s Great Barrier reef.",
-      "url": "https://www.nytimes.com/2026/10/22/climate/nearly-all-of-the-worlds-shallow-coral-reefs-are-now-critically-endangered.html",
-      "publishedAt": "2026-10-22T12:00:05",
-      "content": "If climate change continues apace, 96 percent of shallow coral reef ecosystems may collapse within 50 years, including in Australia’s Great Barrier reef."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "RBA Announces New and Improved Onsite Assessments for Global Supply Chains",
-      "description": "The Responsible Business Alliance (RBA) announced the availability of its new and improved onsite assessments for global supply chains, with major structural and technological improvements that add...",
-      "url": "https://csrwire.com/press-release/rba-announces-new-and-improved-onsite-assessments-global-supply-chains/",
-      "publishedAt": "2026-10-22T09:55:00",
-      "content": "The Responsible Business Alliance (RBA) announced the availability of its new and improved onsite assessments for global supply chains, with major structural and technological improvements that add..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Amgen Foundation Tops $75 Million in Hands-On Biotechnology Education, Reaching 100,000 Students a Year",
-      "description": "The Amgen Foundation today announced a new $13.",
-      "url": "https://csrwire.com/press-release/amgen-foundation-tops-75-million-hands-biotechnology-education-reaching-100000-students-year/",
-      "publishedAt": "2026-10-22T09:00:00",
-      "content": "The Amgen Foundation today announced a new $13."
     }
   ]
 }
