@@ -1,7 +1,29 @@
 {
   "status": "ok",
-  "totalResults": 34,
+  "totalResults": 53,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Sustainable Finance and Investor Groups Push Back Against Weaker Sustainability Reporting Rules for Non-EU Companies",
+      "description": "The EU Platform on Sustainable Finance (PSF), an expert group mandated by the European Commission",
+      "url": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
+      "publishedAt": "2026-10-28T15:50:23",
+      "content": "The EU Platform on Sustainable Finance (PSF), an expert group mandated by the European Commission"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
+      "description": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A",
+      "url": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
+      "publishedAt": "2026-10-28T14:30:59",
+      "content": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,25 +48,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Good On You"
       },
-      "author": "ESG Today",
-      "title": "Masdar Issues Inaugural $600 Million Blue Bond to Fund Water-Based Clean Energy Projects",
-      "description": "UAE-based renewable energy developer Masdar announced that it has raised $600 million through its first",
-      "url": "https://www.esgtoday.com/masdar-issues-inaugural-600-million-blue-bond-to-fund-water-based-clean-energy-projects/?utm_source=rss&utm_medium=rss&utm_campaign=masdar-issues-inaugural-600-million-blue-bond-to-fund-water-based-clean-energy-projects",
-      "publishedAt": "2026-10-27T11:16:48",
-      "content": "UAE-based renewable energy developer Masdar announced that it has raised $600 million through its first"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Cost of Lagging Global Climate Action Is Lost Lives and Poor Health",
-      "description": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from ...",
-      "url": "https://insideclimatenews.org/news/27102026/lagging-global-climate-action-health-harms/",
-      "publishedAt": "2026-10-28T00:01:00",
-      "content": "A decade after world leaders signed the legally binding Paris Agreement to combat climate change, the crisis’ health harms are getting worse and progress is lagging, according to a new report from ..."
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this October 2026",
+      "description": "Feature image: ReCreate.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-10-28T22:00:45",
+      "content": "Feature image: ReCreate."
     },
     {
       "source": {
@@ -59,25 +70,36 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "BBC"
       },
-      "author": "ESG Today",
-      "title": "EcoVadis, Vertice Partner to Integrate ESG Ratings into the Procurement Process",
-      "description": "Sustainability ratings and solutions provider EcoVadis and AI procurement platform Vertice announced the launch of",
-      "url": "https://www.esgtoday.com/ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process/?utm_source=rss&utm_medium=rss&utm_campaign=ecovadis-vertice-partner-to-integrate-esg-ratings-into-procurement-process",
-      "publishedAt": "2026-10-27T10:28:22",
-      "content": "Sustainability ratings and solutions provider EcoVadis and AI procurement platform Vertice announced the launch of"
+      "author": "BBC",
+      "title": "Serious pollution by water industry remains high despite £5bn investment",
+      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T10:45:01",
+      "content": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Climate Change News"
       },
-      "author": "Good On You",
-      "title": "More sustainable fashion brand offers this October 2026",
-      "description": "Feature image: ReCreate.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-10-26T22:00:45",
-      "content": "Feature image: ReCreate."
+      "author": "Climate Change News",
+      "title": "From Australia to Chile, our cities are driving a green investment boom",
+      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
+      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
+      "publishedAt": "2026-10-29T08:43:50",
+      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Powerful Interests Aim to Weaken California’s Landmark Environmental Law",
+      "description": "Political action committees funded by technology companies, the state’s major utilities and other corporate interests have spent nearly twice as much to pass a ballot measure that would greenlight ...",
+      "url": "https://insideclimatenews.org/news/28102026/california-prop-45-aims-to-weaken-environmental-law/",
+      "publishedAt": "2026-10-28T22:40:31",
+      "content": "Political action committees funded by technology companies, the state’s major utilities and other corporate interests have spent nearly twice as much to pass a ballot measure that would greenlight ..."
     },
     {
       "source": {
@@ -92,25 +114,58 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Leidos Innovations U.K. Limited Demonstrates Environmental Progress Through Technology and Operational Efficiency",
+      "description": "At  Leidos Innovations U.K. Limited, environmental sustainability is increasingly connected to innovation, operational efficiency and smarter resource management.",
+      "url": "https://csrwire.com/press-release/leidos-innovations-uk-limited-demonstrates-environmental-progress-through-technology-and/",
+      "publishedAt": "2026-10-28T09:05:00",
+      "content": "At  Leidos Innovations U.K. Limited, environmental sustainability is increasingly connected to innovation, operational efficiency and smarter resource management."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "Coal in a green mask: Indonesia’s co-firing plan will harm, not help, the climate",
-      "description": "Indonesia's plan to mix in a little wood will give coal-fired power plants an excuse to  operate for longer and raise deforestation pressures\nThe post Coal in a green mask: Indonesia’s co-firing pl...",
-      "url": "https://www.climatechangenews.com/2026/10/23/coal-in-a-green-mask-indonesias-co-firing-plan-will-harm-not-help-the-climate/",
-      "publishedAt": "2026-10-23T00:00:00",
-      "content": "Indonesia's plan to mix in a little wood will give coal-fired power plants an excuse to  operate for longer and raise deforestation pressures\nThe post Coal in a green mask: Indonesia’s co-firing pl..."
+      "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
+      "description": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi...",
+      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
+      "publishedAt": "2026-10-28T15:57:17",
+      "content": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EU Commission Launches Climate Resilience Framework",
-      "description": "The European Commission unveiled on Tuesday its highly-anticipated Climate Resilience Framework, combining a new proposed",
-      "url": "https://www.esgtoday.com/eu-commission-launches-climate-resilience-framework/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-launches-climate-resilience-framework",
-      "publishedAt": "2026-10-27T13:13:23",
-      "content": "The European Commission unveiled on Tuesday its highly-anticipated Climate Resilience Framework, combining a new proposed"
+      "title": "Deutsche Bank Reports Record €32 Billion Sustainable Finance Quarter",
+      "description": "Deutsche Bank reported that its sustainable and transition financing volumes reached €32 billion (USD$35.6 billion)",
+      "url": "https://www.esgtoday.com/deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter",
+      "publishedAt": "2026-10-28T11:59:07",
+      "content": "Deutsche Bank reported that its sustainable and transition financing volumes reached €32 billion (USD$35.6 billion)"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maine Looks to Its Forests to Reach Climate Goals",
+      "description": "As the most heavily forested state in the country, about 94 percent of Maine’s forests are privately owned, so focusing on their carbon benefits has both immediate ecological and economic effects. ...",
+      "url": "https://insideclimatenews.org/news/29102026/maine-forest-offsets-greenhouse-emissions/",
+      "publishedAt": "2026-10-29T08:45:00",
+      "content": "As the most heavily forested state in the country, about 94 percent of Maine’s forests are privately owned, so focusing on their carbon benefits has both immediate ecological and economic effects. ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "9th Annual United in Sustainability Summit for the Credit Union Industry To Kick-Off on 17–18 November 2026, Hybrid Event in New York City",
+      "description": "The United in Sustainability (UIS) Network, a community of credit unions, their associations, and partners, announced that its 9th Annual United in Sustainability Summit for the credit union indust...",
+      "url": "https://csrwire.com/press-release/9th-annual-united-sustainability-summit-credit-union-industry-kick-17-18-november-2026-hybrid/",
+      "publishedAt": "2026-10-28T11:05:00",
+      "content": "The United in Sustainability (UIS) Network, a community of credit unions, their associations, and partners, announced that its 9th Annual United in Sustainability Summit for the credit union indust..."
     },
     {
       "source": {
@@ -147,6 +202,193 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Terradot Secures $34 Million from HASI to Build ERW Carbon Removal Projects",
+      "description": "Carbon removal company Terradot announced that it has closed a senior secured term loan of",
+      "url": "https://www.esgtoday.com/terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects/?utm_source=rss&utm_medium=rss&utm_campaign=terradot-secures-34-million-from-hasi-to-build-erw-carbon-removal-projects",
+      "publishedAt": "2026-10-29T09:07:21",
+      "content": "Carbon removal company Terradot announced that it has closed a senior secured term loan of"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows",
+      "description": "Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial u...",
+      "url": "https://insideclimatenews.org/news/28102026/grand-canyon-uranium-mine-high-arsenic-levels/",
+      "publishedAt": "2026-10-28T20:00:02",
+      "content": "Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial u..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "LEGO Group Begins Using Material Made from Hydrogen and Captured CO2 in Plastic Pieces",
+      "description": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and",
+      "url": "https://www.esgtoday.com/lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces",
+      "publishedAt": "2026-10-28T13:40:53",
+      "content": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Ten Years of Love On: A Decade of Showing Up",
+      "description": "For ten years, Love on Month of Service (LMOS) has reminded us that Lenovo’s greatest impact is not measured only by the technology we build, but by what happens when thousands of employees choose ...",
+      "url": "https://csrwire.com/press-release/ten-years-love-decade-showing/",
+      "publishedAt": "2026-10-28T13:05:00",
+      "content": "For ten years, Love on Month of Service (LMOS) has reminded us that Lenovo’s greatest impact is not measured only by the technology we build, but by what happens when thousands of employees choose ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Verified Transparency: A New EPD Covers Additional Caesarstone ICON™ Models",
+      "description": "A newly released Environmental Product Declaration (EPD) adds 24 Caesarstone ICON™ models to Caesarstone's EPD-certified portfolio, providing independently verified environmental impact data throug...",
+      "url": "https://csrwire.com/press-release/verified-transparency-new-epd-covers-additional-caesarstone-icontm-models/",
+      "publishedAt": "2026-10-28T10:25:00",
+      "content": "A newly released Environmental Product Declaration (EPD) adds 24 Caesarstone ICON™ models to Caesarstone's EPD-certified portfolio, providing independently verified environmental impact data throug..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "Prefer to shop IRL? These top-rated brands have physical retail stores around the world",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/more-sustainable-brands-stores/",
+      "publishedAt": "2026-10-29T11:01:10",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "New Batteries That Store Blistering Heat Are Taking Off",
+      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
+      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+      "publishedAt": "2026-10-29T09:00:29",
+      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Angry Labour MPs urge leadership not to overrule energy secretary on Rosebank",
+      "description": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decisionFurious Labour MPs have been lobbying the prime minister and chancellor not to overr...",
+      "url": "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey",
+      "publishedAt": "2026-10-29T06:00:26",
+      "content": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decisionFurious Labour MPs have been lobbying the prime minister and chancellor not to overr..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Queen of Spain butterfly invades Britain – but will it become native?",
+      "description": "This year thousands of the golden-coloured butterfly have arrived in Britain in what one expert calls ‘a bold attempt at colonisation’The Queen of Spain has invaded. The enigmatic British visits of...",
+      "url": "https://www.theguardian.com/environment/2026/oct/29/queen-of-spain-butterfly-invades-britain-but-will-it-become-native",
+      "publishedAt": "2026-10-29T06:00:25",
+      "content": "This year thousands of the golden-coloured butterfly have arrived in Britain in what one expert calls ‘a bold attempt at colonisation’The Queen of Spain has invaded. The enigmatic British visits of..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: A new chapter for the farm – we’re going organic | Andrea Meanwell",
+      "description": "Tebay, Cumbria: Historically it’s been a tricky thing for hill farms to do, but we’ve always run ours on organic principles, and now we’re fully convertingFrom 1 November we have change happening o...",
+      "url": "https://www.theguardian.com/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic",
+      "publishedAt": "2026-10-29T05:30:23",
+      "content": "Tebay, Cumbria: Historically it’s been a tricky thing for hill farms to do, but we’ve always run ours on organic principles, and now we’re fully convertingFrom 1 November we have change happening o..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
+      "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
+      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-28T23:11:59",
+      "content": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene",
+      "description": "This article was originally published by The Assembly.",
+      "url": "https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/",
+      "publishedAt": "2026-10-28T18:59:36",
+      "content": "This article was originally published by The Assembly."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
+      "description": "El Niño is expected to push this winter’s high tides even higher.",
+      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
+      "publishedAt": "2026-10-28T16:19:56",
+      "content": "El Niño is expected to push this winter’s high tides even higher."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "When the weather is frightful, you don’t need to be: everything we love to stay cozy during cold months",
+      "description": "Here are some of our writers’ best ways to stay toasty and occupied, even during cold weather, from teas to pajamasHow to start whimsymaxxing: 22 weird and wonderful products we loveSign up for the...",
+      "url": "https://www.theguardian.com/thefilter-us/2026/oct/28/cozy-essentials",
+      "publishedAt": "2026-10-28T14:15:04",
+      "content": "Here are some of our writers’ best ways to stay toasty and occupied, even during cold weather, from teas to pajamasHow to start whimsymaxxing: 22 weird and wonderful products we loveSign up for the..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
+      "description": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity protection\nThe post Stalemate on finance at COP17...",
+      "url": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
+      "publishedAt": "2026-10-28T13:04:32",
+      "content": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity protection\nThe post Stalemate on finance at COP17..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Medtronic Spark Scholarship Applications Now Open for Students Pursuing Careers in Healthcare Technology",
+      "description": "Medtronic announced applications are open for the second cohort of the Medtronic Spark Scholarship, a program designed to remove financial barriers and provide development and support services for ...",
+      "url": "https://csrwire.com/press-release/medtronic-spark-scholarship-applications-now-open-students-pursuing-careers-healthcare/",
+      "publishedAt": "2026-10-28T10:50:00",
+      "content": "Medtronic announced applications are open for the second cohort of the Medtronic Spark Scholarship, a program designed to remove financial barriers and provide development and support services for ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "The Most Important AI Skills for Resumes and How To Prove You Have Them",
+      "description": "It may be tempting to type “AI” or a specific tool into the skills section of your resume and move on.",
+      "url": "https://csrwire.com/press-release/most-important-ai-skills-resumes-and-how-prove-you-have-them/",
+      "publishedAt": "2026-10-28T10:05:00",
+      "content": "It may be tempting to type “AI” or a specific tool into the skills section of your resume and move on."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -155,6 +397,28 @@
       "url": "https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/",
       "publishedAt": "2026-10-28T10:00:00",
       "content": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Royal Neighbors Unveils Its 2026 Scholarship Recipients",
+      "description": "Royal Neighbors of America, one of the nation’s fastest growing life insurance organizations based in Rock Island, Ill.",
+      "url": "https://csrwire.com/press-release/royal-neighbors-unveils-its-2026-scholarship-recipients/",
+      "publishedAt": "2026-10-28T09:05:00",
+      "content": "Royal Neighbors of America, one of the nation’s fastest growing life insurance organizations based in Rock Island, Ill."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Developing World-Class Hospitality Talent: Sands’ 2026 Corporate Interns Experience Professional-Service Careers in the Integrated Resort Business",
+      "description": "On August 13, Sands concluded its 2026 corporate internship program with a graduation event culminating the experience and recognizing student progress over the 11-week summer term.",
+      "url": "https://csrwire.com/press-release/developing-world-class-hospitality-talent-sands-2026-corporate-interns-experience-professional/",
+      "publishedAt": "2026-10-28T08:55:00",
+      "content": "On August 13, Sands concluded its 2026 corporate internship program with a graduation event culminating the experience and recognizing student progress over the 11-week summer term."
     },
     {
       "source": {
@@ -169,6 +433,28 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "From Best Practice to Policy: Why the New South Wales Healthy Indoor Air Report Is a Turning Point for Healthy Buildings",
+      "description": "The average Australian spends over 74 years of their lives indoors.",
+      "url": "https://csrwire.com/press-release/best-practice-policy-why-new-south-wales-healthy-indoor-air-report-turning-point-healthy/",
+      "publishedAt": "2026-10-27T17:00:00",
+      "content": "The average Australian spends over 74 years of their lives indoors."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Meet Belma: Turning Curiosity Into Opportunity",
+      "description": "At Henkel, our pioneers are driven by an unwavering spirit to explore, create, and transform possibilities into progress and improve life for generations to come. Learn their stories.",
+      "url": "https://csrwire.com/press-release/meet-belma-turning-curiosity-opportunity/",
+      "publishedAt": "2026-10-27T15:45:00",
+      "content": "At Henkel, our pioneers are driven by an unwavering spirit to explore, create, and transform possibilities into progress and improve life for generations to come. Learn their stories."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -180,14 +466,25 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Good On You"
       },
-      "author": "Inside Climate News",
-      "title": "How Texas Could End Up Paying an Israeli Company Billions for Water",
-      "description": "Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.  Un...",
-      "url": "https://insideclimatenews.org/news/28102026/texas-could-privatize-water-supply-with-israeli-company/",
-      "publishedAt": "2026-10-28T09:00:00",
-      "content": "Plans are advancing on the Gulf Coast of Texas for an enormous seawater desalination plant which, if built, would be part of one of the largest water infrastructure developments in the country.  Un..."
+      "author": "Good On You",
+      "title": "How to care for your clothes: washing, storing, and maintenance",
+      "description": "Caring for your clothes is an essential part of sustainability because laundering and storing them right can help to extend their lifespan, reducing how much you’re spending on new clothes to repla...",
+      "url": "https://goodonyou.eco/caring-for-your-clothes/",
+      "publishedAt": "2026-10-26T23:00:30",
+      "content": "Caring for your clothes is an essential part of sustainability because laundering and storing them right can help to extend their lifespan, reducing how much you’re spending on new clothes to repla..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
+      "description": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly.",
+      "url": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
+      "publishedAt": "2026-10-26T13:58:11",
+      "content": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly."
     },
     {
       "source": {
@@ -202,17 +499,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sea of crimson: vivid ‘red beach’ transforms China’s wetlands and marshes – in pictures",
-      "description": "A striking transformation takes place along the coast of Qinqdao in autumn, when a native seepweed turns a brilliant shade of red.",
-      "url": "https://www.theguardian.com/world/gallery/2026/oct/28/vivid-red-beach-transforms-chinas-wetlands-qinqdao-in-pictures",
-      "publishedAt": "2026-10-28T06:00:04",
-      "content": "A striking transformation takes place along the coast of Qinqdao in autumn, when a native seepweed turns a brilliant shade of red."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -221,28 +507,6 @@
       "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
       "publishedAt": "2026-10-28T06:00:00",
       "content": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A vial of water from the rivers, becks and springs of Yorkshire – but not without permission | Amy-Jane Beer",
-      "description": "Wharram and York, North Yorkshire: It’s the nervy few days before a ceremony that will honour our local waterways, and I have work to doI visit the source of the tiny stream called the Gypsey Race ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/28/country-diary-a-vial-of-water-from-the-rivers-becks-and-springs-of-yorkshire-but-not-without-permission",
-      "publishedAt": "2026-10-28T05:30:00",
-      "content": "Wharram and York, North Yorkshire: It’s the nervy few days before a ceremony that will honour our local waterways, and I have work to doI visit the source of the tiny stream called the Gypsey Race ..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
-      "description": "El Niño is expected to push this winter’s high tides even higher.",
-      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
-      "publishedAt": "2026-10-27T22:33:06",
-      "content": "El Niño is expected to push this winter’s high tides even higher."
     },
     {
       "source": {
@@ -290,50 +554,6 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "How to care for your clothes: washing, storing, and maintenance",
-      "description": "Caring for your clothes is an essential part of sustainability because laundering and storing them right can help to extend their lifespan, reducing how much you’re spending on new clothes to repla...",
-      "url": "https://goodonyou.eco/caring-for-your-clothes/",
-      "publishedAt": "2026-10-26T23:00:30",
-      "content": "Caring for your clothes is an essential part of sustainability because laundering and storing them right can help to extend their lifespan, reducing how much you’re spending on new clothes to repla..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "African governments strengthen waste rules as solar and battery use surges",
-      "description": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materials \nThe post African governments strengthen wa...",
-      "url": "https://www.climatechangenews.com/2026/10/26/african-governments-strengthen-waste-rules-as-solar-and-battery-use-surges/",
-      "publishedAt": "2026-10-26T16:43:07",
-      "content": "With solar panels, batteries and inverters spreading, officials want to bolster weak recycling systems to protect the environment and reuse key materials \nThe post African governments strengthen wa..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Shiny Glass Skyscrapers Are a Hot Thing. Literally.",
-      "description": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly.",
-      "url": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
-      "publishedAt": "2026-10-26T13:58:11",
-      "content": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "I struggled to come to terms with my mum’s death. Then I swam in the sea and suddenly felt connected to her",
-      "description": "My mother was a keen swimmer, and she lived with depression.",
-      "url": "https://www.theguardian.com/environment/2026/oct/27/i-struggled-to-come-to-terms-with-my-mums-death-then-i-swam-in-the-sea-and-suddenly-felt-connected-to-her",
-      "publishedAt": "2026-10-27T11:00:37",
-      "content": "My mother was a keen swimmer, and she lived with depression."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -345,36 +565,25 @@
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "Triple Pundit"
       },
-      "author": "BBC",
-      "title": "Political battle intensifies within Labour over Rosebank oil field",
-      "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-26T18:09:49",
-      "content": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
+      "author": "Triple Pundit",
+      "title": "Despite New Barriers to Voting, Gen Z Could Break Records in the U.S. Midterms",
+      "description": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit",
+      "url": "https://triplepundit.com/2026/young-people-voting-barriers-gen-z-midterms/",
+      "publishedAt": "2026-10-23T20:29:24",
+      "content": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Triple Pundit"
       },
-      "author": "Good On You",
-      "title": "How ethical Is Lululemon?",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/how-ethical-lululemon/",
-      "publishedAt": "2026-10-25T23:00:27",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Early speakers’ list suggests few powerful leaders will attend COP31",
-      "description": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early speakers’ list suggests few powerful leaders will ...",
-      "url": "https://www.climatechangenews.com/2026/10/23/early-speakers-list-suggests-few-powerful-leaders-will-attend-cop31/",
-      "publishedAt": "2026-10-23T11:32:34",
-      "content": "Just 77 heads of state or government are scheduled to address the COP31 climate summit in Antalya, a third less than the COP28 peak\nThe post Early speakers’ list suggests few powerful leaders will ..."
+      "author": "Triple Pundit",
+      "title": "Can Good Samaritans Fix America’s $60 Billion Abandoned Mine Problem?",
+      "description": "Organizations across the U.",
+      "url": "https://triplepundit.com/2026/good-samaritan-act-abandoned-mine-cleanup-bodie-mine/",
+      "publishedAt": "2026-10-22T17:46:51",
+      "content": "Organizations across the U."
     }
   ]
 }
