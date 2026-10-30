@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 53,
+  "totalResults": 49,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
+      "description": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to",
+      "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
+      "publishedAt": "2026-10-29T14:21:10",
+      "content": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,28 +37,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Microsoft Signs Clean Energy Deals in Japan with Macquarie’s Blueleaf",
-      "description": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed",
-      "url": "https://www.esgtoday.com/microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf/?utm_source=rss&utm_medium=rss&utm_campaign=microsoft-signs-clean-energy-deals-in-japan-with-macquaries-blueleaf",
-      "publishedAt": "2026-10-28T11:30:37",
-      "content": "Macquarie Asset Management-owned pan-Asian renewable energy platform Blueleaf Energy announced today that it has signed"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Singapore Revises Clean Energy Claims Rules to Address Greenwashing Risks",
-      "description": "Singapore’s Ministry of Energy, Trade and Industry announced the release of an updated Singapore Standard",
-      "url": "https://www.esgtoday.com/singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-revises-clean-energy-claims-rules-to-address-greenwashing-risks",
-      "publishedAt": "2026-10-27T16:29:41",
-      "content": "Singapore’s Ministry of Energy, Trade and Industry announced the release of an updated Singapore Standard"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -59,14 +48,36 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Greener front gardens could help combat air pollution and summer heat",
+      "description": "Scientists call for incentives to preserve vegetation as study highlights benefits of plentiful planting in LondonYour front garden could be a first line of defence against air pollution, according...",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/greener-front-gardens-air-pollution-summer-heat",
+      "publishedAt": "2026-10-30T06:00:46",
+      "content": "Scientists call for incentives to preserve vegetation as study highlights benefits of plentiful planting in LondonYour front garden could be a first line of defence against air pollution, according..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Sweep, Climatiq Partner on Supply Chain Product Carbon Footprint Solution",
-      "description": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new",
-      "url": "https://www.esgtoday.com/sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution/?utm_source=rss&utm_medium=rss&utm_campaign=sweep-climatiq-partner-on-supply-chain-product-carbon-footprint-solution",
-      "publishedAt": "2026-10-28T09:23:35",
-      "content": "Enterprise sustainability data management platform Sweep and carbon intelligence solutions provider Climatiq announced a new"
+      "title": "Clarity AI Launches New Solution to Enable Investors to Assess Companies’ Progress on Climate Goals",
+      "description": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a",
+      "url": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
+      "publishedAt": "2026-10-29T15:15:29",
+      "content": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Pennsylvania’s Legislature Is Losing Its Climate Champion",
+      "description": "In what might have been his last hearing as chair of Pennsylvania’s House Environmental and Natural Resource Protection committee, long-time Democratic state Rep. Greg Vitali seemed to have little ...",
+      "url": "https://insideclimatenews.org/news/30102026/pennsylvania-legislature-loses-climate-champion-greg-vitali/",
+      "publishedAt": "2026-10-30T08:50:00",
+      "content": "In what might have been his last hearing as chair of Pennsylvania’s House Environmental and Natural Resource Protection committee, long-time Democratic state Rep. Greg Vitali seemed to have little ..."
     },
     {
       "source": {
@@ -76,30 +87,8 @@
       "title": "Serious pollution by water industry remains high despite £5bn investment",
       "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
       "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T10:45:01",
+      "publishedAt": "2026-10-29T12:08:01",
       "content": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "From Australia to Chile, our cities are driving a green investment boom",
-      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
-      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
-      "publishedAt": "2026-10-29T08:43:50",
-      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Powerful Interests Aim to Weaken California’s Landmark Environmental Law",
-      "description": "Political action committees funded by technology companies, the state’s major utilities and other corporate interests have spent nearly twice as much to pass a ballot measure that would greenlight ...",
-      "url": "https://insideclimatenews.org/news/28102026/california-prop-45-aims-to-weaken-environmental-law/",
-      "publishedAt": "2026-10-28T22:40:31",
-      "content": "Political action committees funded by technology companies, the state’s major utilities and other corporate interests have spent nearly twice as much to pass a ballot measure that would greenlight ..."
     },
     {
       "source": {
@@ -114,14 +103,47 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Climate Change News"
       },
-      "author": "CSRWire",
-      "title": "Leidos Innovations U.K. Limited Demonstrates Environmental Progress Through Technology and Operational Efficiency",
-      "description": "At  Leidos Innovations U.K. Limited, environmental sustainability is increasingly connected to innovation, operational efficiency and smarter resource management.",
-      "url": "https://csrwire.com/press-release/leidos-innovations-uk-limited-demonstrates-environmental-progress-through-technology-and/",
-      "publishedAt": "2026-10-28T09:05:00",
-      "content": "At  Leidos Innovations U.K. Limited, environmental sustainability is increasingly connected to innovation, operational efficiency and smarter resource management."
+      "author": "Climate Change News",
+      "title": "From Australia to Chile, our cities are driving a green investment boom",
+      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
+      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
+      "publishedAt": "2026-10-29T08:43:50",
+      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TPG Raises $10.4 Billion for Climate Funds, Including $2.5 Billion for Global South",
+      "description": "Global alternative asset manager TPG announced the final close of its climate-focused strategies, Rise Climate",
+      "url": "https://www.esgtoday.com/tpg-raises-10-4-billion-for-climate-funds-including-2-5-billion-for-global-south/?utm_source=rss&utm_medium=rss&utm_campaign=tpg-raises-10-4-billion-for-climate-funds-including-2-5-billion-for-global-south",
+      "publishedAt": "2026-10-30T10:26:07",
+      "content": "Global alternative asset manager TPG announced the final close of its climate-focused strategies, Rise Climate"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Over 80% of Institutional Investors Plan to Increase Allocations to Sustainable Investments: Survey",
+      "description": "More than four out of five institutional investors expect to increase allocations to sustainable investments",
+      "url": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
+      "publishedAt": "2026-10-29T12:31:57",
+      "content": "More than four out of five institutional investors expect to increase allocations to sustainable investments"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
+      "description": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H...",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+      "publishedAt": "2026-10-30T10:00:50",
+      "content": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H..."
     },
     {
       "source": {
@@ -133,50 +155,6 @@
       "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
       "publishedAt": "2026-10-28T15:57:17",
       "content": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Deutsche Bank Reports Record €32 Billion Sustainable Finance Quarter",
-      "description": "Deutsche Bank reported that its sustainable and transition financing volumes reached €32 billion (USD$35.6 billion)",
-      "url": "https://www.esgtoday.com/deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter/?utm_source=rss&utm_medium=rss&utm_campaign=deutsche-bank-reports-record-e32-billion-sustainable-finance-quarter",
-      "publishedAt": "2026-10-28T11:59:07",
-      "content": "Deutsche Bank reported that its sustainable and transition financing volumes reached €32 billion (USD$35.6 billion)"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Maine Looks to Its Forests to Reach Climate Goals",
-      "description": "As the most heavily forested state in the country, about 94 percent of Maine’s forests are privately owned, so focusing on their carbon benefits has both immediate ecological and economic effects. ...",
-      "url": "https://insideclimatenews.org/news/29102026/maine-forest-offsets-greenhouse-emissions/",
-      "publishedAt": "2026-10-29T08:45:00",
-      "content": "As the most heavily forested state in the country, about 94 percent of Maine’s forests are privately owned, so focusing on their carbon benefits has both immediate ecological and economic effects. ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "9th Annual United in Sustainability Summit for the Credit Union Industry To Kick-Off on 17–18 November 2026, Hybrid Event in New York City",
-      "description": "The United in Sustainability (UIS) Network, a community of credit unions, their associations, and partners, announced that its 9th Annual United in Sustainability Summit for the credit union indust...",
-      "url": "https://csrwire.com/press-release/9th-annual-united-sustainability-summit-credit-union-industry-kick-17-18-november-2026-hybrid/",
-      "publishedAt": "2026-10-28T11:05:00",
-      "content": "The United in Sustainability (UIS) Network, a community of credit unions, their associations, and partners, announced that its 9th Annual United in Sustainability Summit for the credit union indust..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "The climate crisis will destroy our economies – we learned this 20 years ago. When will we act? | Fiona Harvey",
-      "description": "The radical Stern report showed that a low-carbon future is also good economics.",
-      "url": "https://www.theguardian.com/commentisfree/2026/oct/28/nicholas-stern-report-climate-consensus-lessons-capitalism",
-      "publishedAt": "2026-10-28T08:00:01",
-      "content": "The radical Stern report showed that a low-carbon future is also good economics."
     },
     {
       "source": {
@@ -202,6 +180,215 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
+      "description": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe...",
+      "url": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
+      "publishedAt": "2026-10-29T17:51:12",
+      "content": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Bacardi Fosters Hospitality Talent Through 'Shake Your Future' In India",
+      "description": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou...",
+      "url": "https://csrwire.com/press-release/bacardi-fosters-hospitality-talent-through-shake-your-future-india/",
+      "publishedAt": "2026-10-29T14:05:00",
+      "content": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
+      "description": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane",
+      "url": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
+      "publishedAt": "2026-10-29T13:29:17",
+      "content": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "WHC Certification Applications for 2026 Due December 1",
+      "description": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub...",
+      "url": "https://csrwire.com/press-release/whc-certification-applications-2026-due-december-1/",
+      "publishedAt": "2026-10-29T13:19:57",
+      "content": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "It Takes a City: Building Stronger Stroke Systems of Care",
+      "description": "Our Angels Initiative exemplifies our commitment to advancing stroke systems of care, transforming outcomes through innovation and collaboration.",
+      "url": "https://csrwire.com/press-release/it-takes-city-building-stronger-stroke-systems-care/",
+      "publishedAt": "2026-10-29T12:00:00",
+      "content": "Our Angels Initiative exemplifies our commitment to advancing stroke systems of care, transforming outcomes through innovation and collaboration."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Singapore Airlines Signs Deal to Purchase SAF Made from Waste Carbon",
+      "description": "Singapore Airlines (SIA) announced that it has signed an agreement with Aether Fuels to purchase",
+      "url": "https://www.esgtoday.com/singapore-airlines-signs-deal-to-purchase-saf-made-from-waste-carbon/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-airlines-signs-deal-to-purchase-saf-made-from-waste-carbon",
+      "publishedAt": "2026-10-29T11:49:53",
+      "content": "Singapore Airlines (SIA) announced that it has signed an agreement with Aether Fuels to purchase"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Helicopter carrying six people crashes in northern Indian state",
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T10:07:58",
+      "content": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How Florida’s Amendment 3 Would Affect the State’s Iconic Water Resources",
+      "description": "A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes.",
+      "url": "https://insideclimatenews.org/news/30102026/florida-amendment-3-water-resources/",
+      "publishedAt": "2026-10-30T09:00:00",
+      "content": "A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Biodiversity Cop17 seems to be stalling. Is it time to reform the process?",
+      "description": "In this week’s newsletter: There are too many meetings, and not enough decisions, say experts – and time is running out• Don’t get Down to Earth delivered to your inbox? Sign up hereWhen things are...",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/biodiversity-cop17-process",
+      "publishedAt": "2026-10-30T07:00:46",
+      "content": "In this week’s newsletter: There are too many meetings, and not enough decisions, say experts – and time is running out• Don’t get Down to Earth delivered to your inbox? Sign up hereWhen things are..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Largest woodland bat survey a 'nice story of AI for good'",
+      "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T06:10:43",
+      "content": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+      "description": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured ani...",
+      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+      "publishedAt": "2026-10-30T05:00:45",
+      "content": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured ani..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "description": "A new generation is embracing eye-catching patching and visible mends.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T00:00:35",
+      "content": "A new generation is embracing eye-catching patching and visible mends."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum",
+      "description": "In less than two weeks, U.",
+      "url": "https://insideclimatenews.org/news/29102026/senate-debate-on-bipartisan-permitting-bill-approaches/",
+      "publishedAt": "2026-10-29T22:34:38",
+      "content": "In less than two weeks, U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates",
+      "description": "HUNTSVILLE, Ala.",
+      "url": "https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/",
+      "publishedAt": "2026-10-29T22:26:32",
+      "content": "HUNTSVILLE, Ala."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Firefighters celebrate rain during Indonesia wildfires",
+      "description": "A number of clips show firefighters celebrating in the rain.",
+      "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T18:31:27",
+      "content": "A number of clips show firefighters celebrating in the rain."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "New Batteries That Store Blistering Heat Are Taking Off",
+      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
+      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+      "publishedAt": "2026-10-29T16:05:30",
+      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "New Powder Mixing and Air-Jet Cleaning Trial Capabilities Now Available at Tetra Pak’s Winsted, Minn. Facility",
+      "description": "Tetra Pak U.",
+      "url": "https://csrwire.com/press-release/new-powder-mixing-and-air-jet-cleaning-trial-capabilities-now-available-tetra-paks-winsted/",
+      "publishedAt": "2026-10-29T10:30:00",
+      "content": "Tetra Pak U."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Boehringer Ingelheim Celebrates a Decade of Angels Initiative and Helping 28+ Million Patients Get Better Stroke Care",
+      "description": "Boehringer Ingelheim, today, on World Stroke Day, celebrates 10 years of the Angels Initiative and bringing better stroke care to more than 28 million patients worldwide.",
+      "url": "https://csrwire.com/press-release/boehringer-ingelheim-celebrates-decade-angels-initiative-and-helping-28-million-patients-get/",
+      "publishedAt": "2026-10-29T10:00:00",
+      "content": "Boehringer Ingelheim, today, on World Stroke Day, celebrates 10 years of the Angels Initiative and bringing better stroke care to more than 28 million patients worldwide."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "LA Kings Honor Chrissy Duarte’s Legacy Through Annual Blanket-Making Tradition",
+      "description": "AEG's LA Kings joined the Duarte family on Oct.",
+      "url": "https://csrwire.com/press-release/la-kings-honor-chrissy-duartes-legacy-through-annual-blanket-making-tradition/",
+      "publishedAt": "2026-10-29T10:00:00",
+      "content": "AEG's LA Kings joined the Duarte family on Oct."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -213,14 +400,47 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Most Wells Around the Grand Canyon With High Arsenic Levels Are at Uranium Mine, New Analysis Shows",
-      "description": "Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial u...",
-      "url": "https://insideclimatenews.org/news/28102026/grand-canyon-uranium-mine-high-arsenic-levels/",
-      "publishedAt": "2026-10-28T20:00:02",
-      "content": "Three of four wells across the Grand Canyon region that have average arsenic levels above the Environmental Protection Agency’s standard for safe drinking water are at the site of a controversial u..."
+      "author": "CSRWire",
+      "title": "Caring for Both Ends of the Leash: Elanco and The Veterinary Cooperative Support The Street Dog Coalition",
+      "description": "At Elanco, we believe that making life better for animals, makes life better.",
+      "url": "https://csrwire.com/press-release/caring-both-ends-leash-elanco-and-veterinary-cooperative-support-street-dog-coalition/",
+      "publishedAt": "2026-10-29T09:00:00",
+      "content": "At Elanco, we believe that making life better for animals, makes life better."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Learning, Growing, Leading: Alba's Tacos & Tuition Journey",
+      "description": "Alba R.",
+      "url": "https://csrwire.com/press-release/learning-growing-leading-albas-tacos-tuition-journey/",
+      "publishedAt": "2026-10-29T09:00:00",
+      "content": "Alba R."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Three Trends Shaping the Future of Mining",
+      "description": "Mining is entering a period of significant change. Demand for minerals such as copper, lithium and nickel continues to grow, driven by global infrastructure, manufacturing and energy transition.",
+      "url": "https://csrwire.com/press-release/three-trends-shaping-future-mining/",
+      "publishedAt": "2026-10-29T08:05:00",
+      "content": "Mining is entering a period of significant change. Demand for minerals such as copper, lithium and nickel continues to grow, driven by global infrastructure, manufacturing and energy transition."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Working Students Build Interview Skills at Free Resume Bootcamp",
+      "description": "Total Spark partners with local nonprofits like Goodwill to provide young job seekers with resume workshops, mentorship and free career resources directly in their communities.",
+      "url": "https://csrwire.com/press-release/working-students-build-interview-skills-free-resume-bootcamp/",
+      "publishedAt": "2026-10-29T08:05:00",
+      "content": "Total Spark partners with local nonprofits like Goodwill to provide young job seekers with resume workshops, mentorship and free career resources directly in their communities."
     },
     {
       "source": {
@@ -235,28 +455,6 @@
     },
     {
       "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Ten Years of Love On: A Decade of Showing Up",
-      "description": "For ten years, Love on Month of Service (LMOS) has reminded us that Lenovo’s greatest impact is not measured only by the technology we build, but by what happens when thousands of employees choose ...",
-      "url": "https://csrwire.com/press-release/ten-years-love-decade-showing/",
-      "publishedAt": "2026-10-28T13:05:00",
-      "content": "For ten years, Love on Month of Service (LMOS) has reminded us that Lenovo’s greatest impact is not measured only by the technology we build, but by what happens when thousands of employees choose ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Verified Transparency: A New EPD Covers Additional Caesarstone ICON™ Models",
-      "description": "A newly released Environmental Product Declaration (EPD) adds 24 Caesarstone ICON™ models to Caesarstone's EPD-certified portfolio, providing independently verified environmental impact data throug...",
-      "url": "https://csrwire.com/press-release/verified-transparency-new-epd-covers-additional-caesarstone-icontm-models/",
-      "publishedAt": "2026-10-28T10:25:00",
-      "content": "A newly released Environmental Product Declaration (EPD) adds 24 Caesarstone ICON™ models to Caesarstone's EPD-certified portfolio, providing independently verified environmental impact data throug..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -265,50 +463,6 @@
       "url": "https://goodonyou.eco/more-sustainable-brands-stores/",
       "publishedAt": "2026-10-29T11:01:10",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New Batteries That Store Blistering Heat Are Taking Off",
-      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
-      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
-      "publishedAt": "2026-10-29T09:00:29",
-      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Angry Labour MPs urge leadership not to overrule energy secretary on Rosebank",
-      "description": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decisionFurious Labour MPs have been lobbying the prime minister and chancellor not to overr...",
-      "url": "https://www.theguardian.com/environment/2026/oct/29/labour-mps-rosebank-oilfield-decision-miatta-fahnbulleh-john-healey",
-      "publishedAt": "2026-10-29T06:00:26",
-      "content": "Exclusive: Backbenchers voice alarm over ‘intolerable position’ faced by Miatta Fahnbulleh over oilfield decisionFurious Labour MPs have been lobbying the prime minister and chancellor not to overr..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Queen of Spain butterfly invades Britain – but will it become native?",
-      "description": "This year thousands of the golden-coloured butterfly have arrived in Britain in what one expert calls ‘a bold attempt at colonisation’The Queen of Spain has invaded. The enigmatic British visits of...",
-      "url": "https://www.theguardian.com/environment/2026/oct/29/queen-of-spain-butterfly-invades-britain-but-will-it-become-native",
-      "publishedAt": "2026-10-29T06:00:25",
-      "content": "This year thousands of the golden-coloured butterfly have arrived in Britain in what one expert calls ‘a bold attempt at colonisation’The Queen of Spain has invaded. The enigmatic British visits of..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A new chapter for the farm – we’re going organic | Andrea Meanwell",
-      "description": "Tebay, Cumbria: Historically it’s been a tricky thing for hill farms to do, but we’ve always run ours on organic principles, and now we’re fully convertingFrom 1 November we have change happening o...",
-      "url": "https://www.theguardian.com/environment/2026/oct/29/country-diary-a-new-chapter-for-the-farm-were-going-organic",
-      "publishedAt": "2026-10-29T05:30:23",
-      "content": "Tebay, Cumbria: Historically it’s been a tricky thing for hill farms to do, but we’ve always run ours on organic principles, and now we’re fully convertingFrom 1 November we have change happening o..."
     },
     {
       "source": {
@@ -323,17 +477,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In North Carolina, a ‘Mountain Democrat’ Vies for Residents Still Hurting From Helene",
-      "description": "This article was originally published by The Assembly.",
-      "url": "https://insideclimatenews.org/news/28102026/in-north-carolina-a-mountain-democrat-vies-for-residents-still-hurting-from-helene/",
-      "publishedAt": "2026-10-28T18:59:36",
-      "content": "This article was originally published by The Assembly."
-    },
-    {
-      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -342,17 +485,6 @@
       "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
       "publishedAt": "2026-10-28T16:19:56",
       "content": "El Niño is expected to push this winter’s high tides even higher."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "When the weather is frightful, you don’t need to be: everything we love to stay cozy during cold months",
-      "description": "Here are some of our writers’ best ways to stay toasty and occupied, even during cold weather, from teas to pajamasHow to start whimsymaxxing: 22 weird and wonderful products we loveSign up for the...",
-      "url": "https://www.theguardian.com/thefilter-us/2026/oct/28/cozy-essentials",
-      "publishedAt": "2026-10-28T14:15:04",
-      "content": "Here are some of our writers’ best ways to stay toasty and occupied, even during cold weather, from teas to pajamasHow to start whimsymaxxing: 22 weird and wonderful products we loveSign up for the..."
     },
     {
       "source": {
@@ -367,102 +499,14 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "Climate Change News"
       },
-      "author": "CSRWire",
-      "title": "Medtronic Spark Scholarship Applications Now Open for Students Pursuing Careers in Healthcare Technology",
-      "description": "Medtronic announced applications are open for the second cohort of the Medtronic Spark Scholarship, a program designed to remove financial barriers and provide development and support services for ...",
-      "url": "https://csrwire.com/press-release/medtronic-spark-scholarship-applications-now-open-students-pursuing-careers-healthcare/",
-      "publishedAt": "2026-10-28T10:50:00",
-      "content": "Medtronic announced applications are open for the second cohort of the Medtronic Spark Scholarship, a program designed to remove financial barriers and provide development and support services for ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Most Important AI Skills for Resumes and How To Prove You Have Them",
-      "description": "It may be tempting to type “AI” or a specific tool into the skills section of your resume and move on.",
-      "url": "https://csrwire.com/press-release/most-important-ai-skills-resumes-and-how-prove-you-have-them/",
-      "publishedAt": "2026-10-28T10:05:00",
-      "content": "It may be tempting to type “AI” or a specific tool into the skills section of your resume and move on."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Antarctic Sea Ice Decline Is Triggering Global Ocean Changes",
-      "description": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say.",
-      "url": "https://insideclimatenews.org/news/28102026/antarctic-sea-ice-decline-triggers-ocean-changes/",
-      "publishedAt": "2026-10-28T10:00:00",
-      "content": "The rapid decline of Antarctic sea ice since 2016 has triggered a dramatic shift in a crucial part of Earth’s climate system, scientists say."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Royal Neighbors Unveils Its 2026 Scholarship Recipients",
-      "description": "Royal Neighbors of America, one of the nation’s fastest growing life insurance organizations based in Rock Island, Ill.",
-      "url": "https://csrwire.com/press-release/royal-neighbors-unveils-its-2026-scholarship-recipients/",
-      "publishedAt": "2026-10-28T09:05:00",
-      "content": "Royal Neighbors of America, one of the nation’s fastest growing life insurance organizations based in Rock Island, Ill."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Developing World-Class Hospitality Talent: Sands’ 2026 Corporate Interns Experience Professional-Service Careers in the Integrated Resort Business",
-      "description": "On August 13, Sands concluded its 2026 corporate internship program with a graduation event culminating the experience and recognizing student progress over the 11-week summer term.",
-      "url": "https://csrwire.com/press-release/developing-world-class-hospitality-talent-sands-2026-corporate-interns-experience-professional/",
-      "publishedAt": "2026-10-28T08:55:00",
-      "content": "On August 13, Sands concluded its 2026 corporate internship program with a graduation event culminating the experience and recognizing student progress over the 11-week summer term."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "PureTerra Scores €30 Million Commitment for New Water Tech Venture Fund from EIF",
-      "description": "Water technology-focused venture capital firm PureTerra Ventures announced that it has secured a €30 million",
-      "url": "https://www.esgtoday.com/pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif/?utm_source=rss&utm_medium=rss&utm_campaign=pureterra-scores-e30-million-commitment-for-new-water-sustainability-venture-fund-from-eif",
-      "publishedAt": "2026-10-28T08:20:32",
-      "content": "Water technology-focused venture capital firm PureTerra Ventures announced that it has secured a €30 million"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "From Best Practice to Policy: Why the New South Wales Healthy Indoor Air Report Is a Turning Point for Healthy Buildings",
-      "description": "The average Australian spends over 74 years of their lives indoors.",
-      "url": "https://csrwire.com/press-release/best-practice-policy-why-new-south-wales-healthy-indoor-air-report-turning-point-healthy/",
-      "publishedAt": "2026-10-27T17:00:00",
-      "content": "The average Australian spends over 74 years of their lives indoors."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Meet Belma: Turning Curiosity Into Opportunity",
-      "description": "At Henkel, our pioneers are driven by an unwavering spirit to explore, create, and transform possibilities into progress and improve life for generations to come. Learn their stories.",
-      "url": "https://csrwire.com/press-release/meet-belma-turning-curiosity-opportunity/",
-      "publishedAt": "2026-10-27T15:45:00",
-      "content": "At Henkel, our pioneers are driven by an unwavering spirit to explore, create, and transform possibilities into progress and improve life for generations to come. Learn their stories."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Scotland's recycling rates at five-year low. How is your area doing?",
-      "description": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
-      "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T15:32:40",
-      "content": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year."
+      "author": "Climate Change News",
+      "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
+      "description": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o...",
+      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
+      "publishedAt": "2026-10-28T06:00:00",
+      "content": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o..."
     },
     {
       "source": {
@@ -488,83 +532,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "How rising seas transformed dry land into Venice lagoon",
-      "description": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern AdriaticVenice is famed for being a floating city, but research shows the land it sits on once lay ma...",
-      "url": "https://www.theguardian.com/science/2026/oct/28/rising-seas-transformed-dry-land-venice-lagoon",
-      "publishedAt": "2026-10-28T06:00:04",
-      "content": "Scientists uncover ancient hills and swamps that disappeared as sea levels rose across northern AdriaticVenice is famed for being a floating city, but research shows the land it sits on once lay ma..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
-      "description": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o...",
-      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
-      "publishedAt": "2026-10-28T06:00:00",
-      "content": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Will a new strategy help protect Northern Ireland's nature?",
-      "description": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\".",
-      "url": "https://www.bbc.co.uk/news/articles/cq0megg87n3po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:51:13",
-      "content": "About 40% of the plants and animals in protected sites across Northern Ireland fall short of meeting the standard for \"favourable condition\"."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
-      "description": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T17:10:15",
-      "content": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Slovenia mourns loss of glacier on its highest peak after scorching summer",
-      "description": "Extreme heat accelerated disappearance of Triglav glacier from mountain revered as a symbol of Slovenian identityThe final ice patch has vanished from Slovenia’s Triglav glacier, the latest Alpine ...",
-      "url": "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer",
-      "publishedAt": "2026-10-27T17:08:47",
-      "content": "Extreme heat accelerated disappearance of Triglav glacier from mountain revered as a symbol of Slovenian identityThe final ice patch has vanished from Slovenia’s Triglav glacier, the latest Alpine ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What's happening to our rubbish?",
-      "description": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish.",
-      "url": "https://www.bbc.co.uk/news/videos/c9ly02pj4kdjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T15:30:50",
-      "content": "As Scotland's recycling rate falls to its lowest level in five years, Kevin Keane looks at what happens to our rubbish."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What is Nasa's Artemis III mission? And what comes next?",
-      "description": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028.",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j40ezgz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-27T10:33:26",
-      "content": "Artemis III will help test crucial systems needed for the planned Artemis IV Moon landing in 2028."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -573,17 +540,6 @@
       "url": "https://triplepundit.com/2026/young-people-voting-barriers-gen-z-midterms/",
       "publishedAt": "2026-10-23T20:29:24",
       "content": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit"
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Can Good Samaritans Fix America’s $60 Billion Abandoned Mine Problem?",
-      "description": "Organizations across the U.",
-      "url": "https://triplepundit.com/2026/good-samaritan-act-abandoned-mine-cleanup-bodie-mine/",
-      "publishedAt": "2026-10-22T17:46:51",
-      "content": "Organizations across the U."
     }
   ]
 }
