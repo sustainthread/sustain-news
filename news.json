@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 49,
+  "totalResults": 51,
   "articles": [
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
-      "description": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to",
-      "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
-      "publishedAt": "2026-10-29T14:21:10",
-      "content": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to"
-    },
     {
       "source": {
         "name": "ESG Today"
@@ -23,6 +12,17 @@
       "url": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
       "publishedAt": "2026-10-28T15:50:23",
       "content": "The EU Platform on Sustainable Finance (PSF), an expert group mandated by the European Commission"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "DuPont Unveils SBTi-Validated Net Zero Targets",
+      "description": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to",
+      "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
+      "publishedAt": "2026-10-29T14:21:10",
+      "content": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to"
     },
     {
       "source": {
@@ -48,14 +48,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "Greener front gardens could help combat air pollution and summer heat",
-      "description": "Scientists call for incentives to preserve vegetation as study highlights benefits of plentiful planting in LondonYour front garden could be a first line of defence against air pollution, according...",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/greener-front-gardens-air-pollution-summer-heat",
-      "publishedAt": "2026-10-30T06:00:46",
-      "content": "Scientists call for incentives to preserve vegetation as study highlights benefits of plentiful planting in LondonYour front garden could be a first line of defence against air pollution, according..."
+      "author": "CSRWire",
+      "title": "Rooted in Community:  Leidos Innovations U.K. Limited and Carma Support Veterans and a Greener Future",
+      "description": "Environmental action can create benefits that reach far beyond the environment.",
+      "url": "https://csrwire.com/press-release/rooted-community-leidos-innovations-uk-limited-and-carma-support-veterans-and-greener-future/",
+      "publishedAt": "2026-10-30T08:05:00",
+      "content": "Environmental action can create benefits that reach far beyond the environment."
     },
     {
       "source": {
@@ -67,17 +67,6 @@
       "url": "https://www.esgtoday.com/clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals/?utm_source=rss&utm_medium=rss&utm_campaign=clarity-ai-launches-new-solution-to-enable-investors-to-assess-companies-progress-on-climate-goals",
       "publishedAt": "2026-10-29T15:15:29",
       "content": "Sustainability data and analytics company Clarity AI announced the launch of Transition Credibility Assessment, a"
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Pennsylvania’s Legislature Is Losing Its Climate Champion",
-      "description": "In what might have been his last hearing as chair of Pennsylvania’s House Environmental and Natural Resource Protection committee, long-time Democratic state Rep. Greg Vitali seemed to have little ...",
-      "url": "https://insideclimatenews.org/news/30102026/pennsylvania-legislature-loses-climate-champion-greg-vitali/",
-      "publishedAt": "2026-10-30T08:50:00",
-      "content": "In what might have been his last hearing as chair of Pennsylvania’s House Environmental and Natural Resource Protection committee, long-time Democratic state Rep. Greg Vitali seemed to have little ..."
     },
     {
       "source": {
@@ -95,6 +84,17 @@
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
+      "title": "From Australia to Chile, our cities are driving a green investment boom",
+      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
+      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
+      "publishedAt": "2026-10-29T08:43:50",
+      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
       "title": "Why COP31 needs to start talking about just transition finance",
       "description": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could undermine climate goals\nThe post Why COP31 nee...",
       "url": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
@@ -103,14 +103,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "New York Times"
       },
-      "author": "Climate Change News",
-      "title": "From Australia to Chile, our cities are driving a green investment boom",
-      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
-      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
-      "publishedAt": "2026-10-29T08:43:50",
-      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
+      "author": "New York Times",
+      "title": "Conservation Efforts for Caucasian Leopards Show Promise",
+      "description": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working.",
+      "url": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
+      "publishedAt": "2026-10-30T17:56:21",
+      "content": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working."
     },
     {
       "source": {
@@ -125,6 +125,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Trane Technologies Launches Season 6 of the Healthy Spaces Podcast, Spotlighting Sustainable Innovation in Action",
+      "description": "Trane Technologies brings together engineers, innovators and industry leaders for bold conversations at the forefront of sustainable technology in Season 6 of the Healthy Spaces Podcast.",
+      "url": "https://csrwire.com/press-release/trane-technologies-launches-season-6-healthy-spaces-podcast-spotlighting-sustainable/",
+      "publishedAt": "2026-10-30T08:30:00",
+      "content": "Trane Technologies brings together engineers, innovators and industry leaders for bold conversations at the forefront of sustainable technology in Season 6 of the Healthy Spaces Podcast."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -133,6 +144,28 @@
       "url": "https://www.esgtoday.com/over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey/?utm_source=rss&utm_medium=rss&utm_campaign=over-80-of-institutional-investors-plan-to-increase-allocations-to-sustainable-investments-survey",
       "publishedAt": "2026-10-29T12:31:57",
       "content": "More than four out of five institutional investors expect to increase allocations to sustainable investments"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
+      "description": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi...",
+      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
+      "publishedAt": "2026-10-28T15:57:17",
+      "content": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Meta Backs Low Carbon Cement Producer Fortera with Multi-year EAC Deal",
+      "description": "Green building materials manufacturer Fortera and tech giant Meta announced today a multi-year agreement under",
+      "url": "https://www.esgtoday.com/meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal/?utm_source=rss&utm_medium=rss&utm_campaign=meta-backs-low-carbon-cement-producer-fortera-with-long-term-eac-deal",
+      "publishedAt": "2026-10-30T12:26:22",
+      "content": "Green building materials manufacturer Fortera and tech giant Meta announced today a multi-year agreement under"
     },
     {
       "source": {
@@ -147,14 +180,36 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Inside Climate News"
       },
-      "author": "Climate Change News",
-      "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
-      "description": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi...",
-      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
-      "publishedAt": "2026-10-28T15:57:17",
-      "content": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi..."
+      "author": "Inside Climate News",
+      "title": "Pennsylvania Opens a New Loophole for Oil and Gas Wastewater Disposal",
+      "description": "If you’re an ordinary resident of Pennsylvania and you want to dispose of potentially toxic waste, the Department of Environmental Protection will direct you to specialized dropoff locations: recyc...",
+      "url": "https://insideclimatenews.org/news/31102026/pennsylvania-oil-gas-wastewater-disposal-loophole/",
+      "publishedAt": "2026-10-31T08:50:00",
+      "content": "If you’re an ordinary resident of Pennsylvania and you want to dispose of potentially toxic waste, the Department of Environmental Protection will direct you to specialized dropoff locations: recyc..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Why Microplastics Are So Dangerous for Human Health",
+      "description": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with  Plastics have been widely adopted in all sorts of produc...",
+      "url": "https://insideclimatenews.org/news/31102026/microplastics-human-health-dangers/",
+      "publishedAt": "2026-10-31T08:45:00",
+      "content": "From our collaborating partner “Living on Earth,” public radio’s environmental news magazine, an interview by producer Aynsley O’Neill with  Plastics have been widely adopted in all sorts of produc..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Lenovo Announced Tech World @ CES 2027: Defining the Next Era of Hybrid AI",
+      "description": "Lenovo, the global technology powerhouse, today announced that its annual global innovation event will return to  CES® 2027 in Las Vegas.",
+      "url": "https://csrwire.com/press-release/lenovo-announced-tech-world-ces-2027-defining-next-era-hybrid-ai/",
+      "publishedAt": "2026-10-30T11:25:00",
+      "content": "Lenovo, the global technology powerhouse, today announced that its annual global innovation event will return to  CES® 2027 in Las Vegas."
     },
     {
       "source": {
@@ -177,6 +232,116 @@
       "url": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
       "publishedAt": "2026-10-27T13:51:00",
       "content": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post National climate plans now promise half the emissi..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+      "description": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver...",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+      "publishedAt": "2026-10-31T10:01:29",
+      "content": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Plantation tourism’: court victory signals hope in Jamaica’s fight to keep beaches public",
+      "description": "A temporary injunction in the coastline battle for beaches to be publicly accessible, not sealed off for private developments, is just a step in fighting what islanders call a tourism model that di...",
+      "url": "https://www.theguardian.com/world/2026/oct/31/jamaicans-beach-access-fight-court-victory-hope",
+      "publishedAt": "2026-10-31T10:00:41",
+      "content": "A temporary injunction in the coastline battle for beaches to be publicly accessible, not sealed off for private developments, is just a step in fighting what islanders call a tourism model that di..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Year After Floodwaters Swept Away an Alaskan Native Village, Residents Remain in Limbo",
+      "description": "KWIGILLINGOK, Alaska—Lucy Martin’s family was among the last to be evacuated from Kwigillingok, a Yup’ik village a quarter mile from the Bering Sea that was devastated by Typhoon Halong in October ...",
+      "url": "https://insideclimatenews.org/news/31102026/alaska-village-typhoon-halong-recovery/",
+      "publishedAt": "2026-10-31T08:55:00",
+      "content": "KWIGILLINGOK, Alaska—Lucy Martin’s family was among the last to be evacuated from Kwigillingok, a Yup’ik village a quarter mile from the Bering Sea that was devastated by Typhoon Halong in October ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: An impromptu birding trip with a total stranger – and it was magical | Eben Muse",
+      "description": "Slimbridge, Gloucestershire: A chance meeting led me and my partner into an afternoon of discovery and generosity that is nothing like a certain YouTube documentary on birding“What did you just see...",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/country-diary-an-impromptu-birding-trip-with-a-total-stranger-and-it-was-magical",
+      "publishedAt": "2026-10-31T05:30:33",
+      "content": "Slimbridge, Gloucestershire: A chance meeting led me and my partner into an afternoon of discovery and generosity that is nothing like a certain YouTube documentary on birding“What did you just see..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T01:27:05",
+      "content": "Countries have been trying to get a global agreement to halt nature decline back on track."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "UK could see 10 days without rain after 'wettest week in two years'",
+      "description": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast.",
+      "url": "https://www.bbc.co.uk/weather/articles/cq98zrwd42jzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-31T00:06:31",
+      "content": "With high pressure developing across the UK, the start of November is looking very settled with no significant rain in the forecast."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Twice as many plants and animals sold in wildlife trade as previously thought, says report",
+      "description": "More than 100,000 species are traded globally, whether illegally smuggled, sold as ornaments or in fisheries, timber and fashion industries, study findsThe number of plant and animal species in use...",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/twice-as-many-plants-and-animals-sold-in-wildlife-trade-as-previously-thought-says-report",
+      "publishedAt": "2026-10-30T18:00:19",
+      "content": "More than 100,000 species are traded globally, whether illegally smuggled, sold as ornaments or in fisheries, timber and fashion industries, study findsThe number of plant and animal species in use..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Maui Prosecutor to Hire Investigator Focused On Post-Wildfire Contractor Fraud",
+      "description": "This story was originally published by Civil Beat.",
+      "url": "https://insideclimatenews.org/news/30102026/maui-prosecutor-to-hire-investigator-focused-on-post-wildfire-contractor-fraud/",
+      "publishedAt": "2026-10-30T17:49:27",
+      "content": "This story was originally published by Civil Beat."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Six dead after helicopter crashes in northern Indian state",
+      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T15:06:05",
+      "content": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
+      "description": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’The leader of the UK’s biggest trade union has called for the same political...",
+      "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
+      "publishedAt": "2026-10-30T13:04:03",
+      "content": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’The leader of the UK’s biggest trade union has called for the same political..."
     },
     {
       "source": {
@@ -246,116 +411,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Helicopter carrying six people crashes in northern Indian state",
-      "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
-      "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T10:07:58",
-      "content": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How Florida’s Amendment 3 Would Affect the State’s Iconic Water Resources",
-      "description": "A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes.",
-      "url": "https://insideclimatenews.org/news/30102026/florida-amendment-3-water-resources/",
-      "publishedAt": "2026-10-30T09:00:00",
-      "content": "A proposed amendment to the Florida Constitution on the ballot this November is aimed at cutting property taxes."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Biodiversity Cop17 seems to be stalling. Is it time to reform the process?",
-      "description": "In this week’s newsletter: There are too many meetings, and not enough decisions, say experts – and time is running out• Don’t get Down to Earth delivered to your inbox? Sign up hereWhen things are...",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/biodiversity-cop17-process",
-      "publishedAt": "2026-10-30T07:00:46",
-      "content": "In this week’s newsletter: There are too many meetings, and not enough decisions, say experts – and time is running out• Don’t get Down to Earth delivered to your inbox? Sign up hereWhen things are..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Largest woodland bat survey a 'nice story of AI for good'",
-      "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T06:10:43",
-      "content": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
-      "description": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured ani...",
-      "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
-      "publishedAt": "2026-10-30T05:00:45",
-      "content": "There is no end in sight for the drivers of illegal mining, while police action appears ineffectiveCora Bailey has been encountering illegal miners ever since she first started treating injured ani..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-      "description": "A new generation is embracing eye-catching patching and visible mends.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T00:00:35",
-      "content": "A new generation is embracing eye-catching patching and visible mends."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "As Permitting Bill Debate Approaches, Senators Have Fresh Doubts and an Ultimatum",
-      "description": "In less than two weeks, U.",
-      "url": "https://insideclimatenews.org/news/29102026/senate-debate-on-bipartisan-permitting-bill-approaches/",
-      "publishedAt": "2026-10-29T22:34:38",
-      "content": "In less than two weeks, U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "In a Rare Statewide Debate, Alabama Candidates Spar Over Data Centers, Utility Rates",
-      "description": "HUNTSVILLE, Ala.",
-      "url": "https://insideclimatenews.org/news/29102026/alabama-lieutenant-governor-debate-utility-rates-data-centers/",
-      "publishedAt": "2026-10-29T22:26:32",
-      "content": "HUNTSVILLE, Ala."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Firefighters celebrate rain during Indonesia wildfires",
-      "description": "A number of clips show firefighters celebrating in the rain.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T18:31:27",
-      "content": "A number of clips show firefighters celebrating in the rain."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New Batteries That Store Blistering Heat Are Taking Off",
-      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
-      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
-      "publishedAt": "2026-10-29T16:05:30",
-      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -411,47 +466,47 @@
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Learning, Growing, Leading: Alba's Tacos & Tuition Journey",
-      "description": "Alba R.",
-      "url": "https://csrwire.com/press-release/learning-growing-leading-albas-tacos-tuition-journey/",
-      "publishedAt": "2026-10-29T09:00:00",
-      "content": "Alba R."
+      "author": "BBC",
+      "title": "Largest woodland bat survey a 'nice story of AI for good'",
+      "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T06:10:43",
+      "content": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Three Trends Shaping the Future of Mining",
-      "description": "Mining is entering a period of significant change. Demand for minerals such as copper, lithium and nickel continues to grow, driven by global infrastructure, manufacturing and energy transition.",
-      "url": "https://csrwire.com/press-release/three-trends-shaping-future-mining/",
-      "publishedAt": "2026-10-29T08:05:00",
-      "content": "Mining is entering a period of significant change. Demand for minerals such as copper, lithium and nickel continues to grow, driven by global infrastructure, manufacturing and energy transition."
+      "author": "BBC",
+      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+      "description": "A new generation is embracing eye-catching patching and visible mends.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-30T00:00:35",
+      "content": "A new generation is embracing eye-catching patching and visible mends."
     },
     {
       "source": {
-        "name": "CSRWire"
+        "name": "BBC"
       },
-      "author": "CSRWire",
-      "title": "Working Students Build Interview Skills at Free Resume Bootcamp",
-      "description": "Total Spark partners with local nonprofits like Goodwill to provide young job seekers with resume workshops, mentorship and free career resources directly in their communities.",
-      "url": "https://csrwire.com/press-release/working-students-build-interview-skills-free-resume-bootcamp/",
-      "publishedAt": "2026-10-29T08:05:00",
-      "content": "Total Spark partners with local nonprofits like Goodwill to provide young job seekers with resume workshops, mentorship and free career resources directly in their communities."
+      "author": "BBC",
+      "title": "Firefighters celebrate rain during Indonesia wildfires",
+      "description": "A number of clips show firefighters celebrating in the rain.",
+      "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-29T18:31:27",
+      "content": "A number of clips show firefighters celebrating in the rain."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "LEGO Group Begins Using Material Made from Hydrogen and Captured CO2 in Plastic Pieces",
-      "description": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and",
-      "url": "https://www.esgtoday.com/lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces/?utm_source=rss&utm_medium=rss&utm_campaign=lego-group-begins-using-material-made-from-hydrogen-and-captured-co2-in-plastic-pieces",
-      "publishedAt": "2026-10-28T13:40:53",
-      "content": "The LEGO Group announced that it has started using e-methanol, made from renewable electricity, water and"
+      "author": "New York Times",
+      "title": "New Batteries That Store Blistering Heat Are Taking Off",
+      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
+      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+      "publishedAt": "2026-10-29T16:05:30",
+      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
     },
     {
       "source": {
@@ -463,17 +518,6 @@
       "url": "https://goodonyou.eco/more-sustainable-brands-stores/",
       "publishedAt": "2026-10-29T11:01:10",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Building boom puts 300,000 people in the path of potential Himalayan disasters",
-      "description": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand.",
-      "url": "https://www.bbc.co.uk/news/articles/c574pj3zljvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-28T23:11:59",
-      "content": "The construction of tourism facilities, housing, and infrastructure has surged in parts of Nepal and India's Uttarakhand."
     },
     {
       "source": {
@@ -499,17 +543,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Tensions set to flare over trade at COP31 as China makes it a priority",
-      "description": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o...",
-      "url": "https://www.climatechangenews.com/2026/10/28/tensions-set-to-flare-over-trade-at-cop31-as-china-makes-it-a-priority/",
-      "publishedAt": "2026-10-28T06:00:00",
-      "content": "After difficult talks in Belém last year, trade is likely to remain a sticking point at COP31 despite Brazil's efforts to contain the issue to a series of dialogues\nThe post Tensions set to flare o..."
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -529,17 +562,6 @@
       "url": "https://www.nytimes.com/2026/10/26/climate/glass-skyscrapers-heat-climate-change.html",
       "publishedAt": "2026-10-26T13:58:11",
       "content": "They’re transforming cities with million-dollar views and a message of modernity. But climate change makes cooling them tricky and costly."
-    },
-    {
-      "source": {
-        "name": "Triple Pundit"
-      },
-      "author": "Triple Pundit",
-      "title": "Despite New Barriers to Voting, Gen Z Could Break Records in the U.S. Midterms",
-      "description": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit",
-      "url": "https://triplepundit.com/2026/young-people-voting-barriers-gen-z-midterms/",
-      "publishedAt": "2026-10-23T20:29:24",
-      "content": "While polling shows Gen Z is pessimistic about their ability to sway public policy, recent surveys also suggest a boost in turnout exceeding even the 2024 presidential cycle.TriplePundit"
     }
   ]
 }
