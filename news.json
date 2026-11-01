@@ -1,13 +1,13 @@
 {
   "status": "ok",
-  "totalResults": 51,
+  "totalResults": 48,
   "articles": [
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "EU Sustainable Finance and Investor Groups Push Back Against Weaker Sustainability Reporting Rules for Non-EU Companies",
+      "title": "Sustainable Finance and Investor Groups Push Back Against Weaker CSRD Sustainability Reporting Rules for Non-EU Companies",
       "description": "The EU Platform on Sustainable Finance (PSF), an expert group mandated by the European Commission",
       "url": "https://www.esgtoday.com/eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies/?utm_source=rss&utm_medium=rss&utm_campaign=eu-sustainable-finance-investor-groups-push-back-against-weaker-sustainability-reporting-rules-for-non-eu-companies",
       "publishedAt": "2026-10-28T15:50:23",
@@ -23,17 +23,6 @@
       "url": "https://www.esgtoday.com/dupont-unveils-sbti-validated-net-zero-targets/?utm_source=rss&utm_medium=rss&utm_campaign=dupont-unveils-sbti-validated-net-zero-targets",
       "publishedAt": "2026-10-29T14:21:10",
       "content": "Multinational chemicals company DuPont announced a series of new emissions reduction targets, including goals to"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Emvolon Raises $22 Million to Turn Waste Greenhouse Gas into Sustainable Fuels",
-      "description": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A",
-      "url": "https://www.esgtoday.com/emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=emvolon-raises-22-million-to-turn-waste-greenhouse-gas-into-sustainable-fuels",
-      "publishedAt": "2026-10-28T14:30:59",
-      "content": "Clean energy startup Emvolon announced that it has raised $22 million in a Series A"
     },
     {
       "source": {
@@ -70,28 +59,6 @@
     },
     {
       "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Serious pollution by water industry remains high despite £5bn investment",
-      "description": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5ynxepy4gno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T12:08:01",
-      "content": "All but one of England's water companies were rated as \"poor\" or \"requiring improvement\" for environmental targets."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "From Australia to Chile, our cities are driving a green investment boom",
-      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
-      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
-      "publishedAt": "2026-10-29T08:43:50",
-      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -103,14 +70,14 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "Climate Change News"
       },
-      "author": "New York Times",
-      "title": "Conservation Efforts for Caucasian Leopards Show Promise",
-      "description": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working.",
-      "url": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
-      "publishedAt": "2026-10-30T17:56:21",
-      "content": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working."
+      "author": "Climate Change News",
+      "title": "From Australia to Chile, our cities are driving a green investment boom",
+      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
+      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
+      "publishedAt": "2026-10-29T08:43:50",
+      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
     },
     {
       "source": {
@@ -150,6 +117,39 @@
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
+      "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
+      "description": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 deliv...",
+      "url": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
+      "publishedAt": "2026-10-31T11:50:27",
+      "content": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 deliv..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Conservation Efforts for Caucasian Leopards Show Promise",
+      "description": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working.",
+      "url": "https://www.nytimes.com/2026/10/30/climate/injured-leopards-200-mile-trek-suggests-hope-for-a-species.html",
+      "publishedAt": "2026-10-30T17:56:21",
+      "content": "In Armenia, a three-legged Caucasian leopard’s astonishing hike signals that conservation efforts for the endangered animal may be working."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
+      "description": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H...",
+      "url": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+      "publishedAt": "2026-10-30T10:00:50",
+      "content": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
       "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
       "description": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi...",
       "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
@@ -169,14 +169,102 @@
     },
     {
       "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "8 LGBTQ+-owned more sustainable brands you should follow",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/lgbtq-owned-brands/",
+      "publishedAt": "2026-10-27T23:19:54",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Amazonian Community That Beat Big Oil Is Sharing Its Secrets",
+      "description": "SARAYAKU, Ecuador—The canoe motor rattled against the current as Guisel Marworno and Wagner Karipuna traveled down the Bobonaza River.",
+      "url": "https://insideclimatenews.org/news/01112026/how-sarayaku-people-beat-big-oil/",
+      "publishedAt": "2026-11-01T10:00:00",
+      "content": "SARAYAKU, Ecuador—The canoe motor rattled against the current as Guisel Marworno and Wagner Karipuna traveled down the Bobonaza River."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Rural Charms Drew Residents to Taylor, Texas. Then Came the Data Centers.",
+      "description": "TAYLOR, Texas—A red thresher cuts across the countryside off County Road 401 in Taylor, leaving behind tufts of discarded stalks as farmers prepare to plant seeds for the next year’s harvest.  Less...",
+      "url": "https://insideclimatenews.org/news/01112026/taylor-texas-data-center-development/",
+      "publishedAt": "2026-11-01T09:55:00",
+      "content": "TAYLOR, Texas—A red thresher cuts across the countryside off County Road 401 in Taylor, leaving behind tufts of discarded stalks as farmers prepare to plant seeds for the next year’s harvest.  Less..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Will Josh Shapiro’s Data Center Past Haunt his Political Future?",
+      "description": "Perhaps no issue has tested the political agility of Pennsylvania’s popular Gov.",
+      "url": "https://insideclimatenews.org/news/01112026/gov-josh-shapiro-data-center-history/",
+      "publishedAt": "2026-11-01T09:50:00",
+      "content": "Perhaps no issue has tested the political agility of Pennsylvania’s popular Gov."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Spill from vandalised home oil tank kills 13 birds",
+      "description": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T08:57:56",
+      "content": "A number of birds are also injured after the spill from the oil tank earlier this week."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+      "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T07:08:04",
+      "content": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
+      "description": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:42:13",
+      "content": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "'Rok' solid recognition for Slovenian space scientist",
+      "description": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx283v54zd6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-01T06:35:37",
+      "content": "Two men from the Armagh Planetarium and Observatory have had asteroids named in their honour in recognition of their work."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
-      "description": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H...",
-      "url": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
-      "publishedAt": "2026-10-30T10:00:50",
-      "content": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H..."
+      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+      "description": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver...",
+      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+      "publishedAt": "2026-10-31T12:30:06",
+      "content": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver..."
     },
     {
       "source": {
@@ -213,47 +301,47 @@
     },
     {
       "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "8 LGBTQ+-owned more sustainable brands you should follow",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/lgbtq-owned-brands/",
-      "publishedAt": "2026-10-27T23:19:54",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "National climate plans now promise half the emission cuts expected by UN",
-      "description": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post National climate plans now promise half the emissi...",
-      "url": "https://www.climatechangenews.com/2026/10/27/national-climate-plans-now-promise-half-the-emission-cuts-expected-by-un/",
-      "publishedAt": "2026-10-27T13:51:00",
-      "content": "The US exit from the Paris Agreement and weak new pledges leave 2035 emissions just 6% below 2019 levels, against 12% projected last year\nThe post National climate plans now promise half the emissi..."
+      "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
+      "description": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe...",
+      "url": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
+      "publishedAt": "2026-10-29T17:51:12",
+      "content": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
-      "description": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver...",
-      "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
-      "publishedAt": "2026-10-31T10:01:29",
-      "content": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver..."
+      "author": "CSRWire",
+      "title": "Bacardi Fosters Hospitality Talent Through 'Shake Your Future' In India",
+      "description": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou...",
+      "url": "https://csrwire.com/press-release/bacardi-fosters-hospitality-talent-through-shake-your-future-india/",
+      "publishedAt": "2026-10-29T14:05:00",
+      "content": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou..."
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "‘Plantation tourism’: court victory signals hope in Jamaica’s fight to keep beaches public",
-      "description": "A temporary injunction in the coastline battle for beaches to be publicly accessible, not sealed off for private developments, is just a step in fighting what islanders call a tourism model that di...",
-      "url": "https://www.theguardian.com/world/2026/oct/31/jamaicans-beach-access-fight-court-victory-hope",
-      "publishedAt": "2026-10-31T10:00:41",
-      "content": "A temporary injunction in the coastline battle for beaches to be publicly accessible, not sealed off for private developments, is just a step in fighting what islanders call a tourism model that di..."
+      "author": "ESG Today",
+      "title": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
+      "description": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane",
+      "url": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
+      "publishedAt": "2026-10-29T13:29:17",
+      "content": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "WHC Certification Applications for 2026 Due December 1",
+      "description": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub...",
+      "url": "https://csrwire.com/press-release/whc-certification-applications-2026-due-december-1/",
+      "publishedAt": "2026-10-29T13:19:57",
+      "content": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub..."
     },
     {
       "source": {
@@ -312,17 +400,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Maui Prosecutor to Hire Investigator Focused On Post-Wildfire Contractor Fraud",
-      "description": "This story was originally published by Civil Beat.",
-      "url": "https://insideclimatenews.org/news/30102026/maui-prosecutor-to-hire-investigator-focused-on-post-wildfire-contractor-fraud/",
-      "publishedAt": "2026-10-30T17:49:27",
-      "content": "This story was originally published by Civil Beat."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -345,47 +422,14 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "New York Times"
       },
-      "author": "Climate Change News",
-      "title": "Editor’s Desk: COP reform is happening quietly, behind the headlines",
-      "description": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe...",
-      "url": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
-      "publishedAt": "2026-10-29T17:51:12",
-      "content": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Bacardi Fosters Hospitality Talent Through 'Shake Your Future' In India",
-      "description": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou...",
-      "url": "https://csrwire.com/press-release/bacardi-fosters-hospitality-talent-through-shake-your-future-india/",
-      "publishedAt": "2026-10-29T14:05:00",
-      "content": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Salesforce Signs 500,000 Ton Superpollutant Carbon Credit Deal",
-      "description": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane",
-      "url": "https://www.esgtoday.com/salesforce-signs-500000-ton-superpollutant-carbon-credit-deal/?utm_source=rss&utm_medium=rss&utm_campaign=salesforce-signs-500000-ton-superpollutant-carbon-credit-deal",
-      "publishedAt": "2026-10-29T13:29:17",
-      "content": "CRM solutions provider Salesforce announced that it has signed a new agreement with agricultural methane"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "WHC Certification Applications for 2026 Due December 1",
-      "description": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub...",
-      "url": "https://csrwire.com/press-release/whc-certification-applications-2026-due-december-1/",
-      "publishedAt": "2026-10-29T13:19:57",
-      "content": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub..."
+      "author": "New York Times",
+      "title": "New Batteries That Store Blistering Heat Are Taking Off",
+      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
+      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
+      "publishedAt": "2026-10-29T16:05:30",
+      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
     },
     {
       "source": {
@@ -463,83 +507,6 @@
       "url": "https://csrwire.com/press-release/caring-both-ends-leash-elanco-and-veterinary-cooperative-support-street-dog-coalition/",
       "publishedAt": "2026-10-29T09:00:00",
       "content": "At Elanco, we believe that making life better for animals, makes life better."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Largest woodland bat survey a 'nice story of AI for good'",
-      "description": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm24kgr1jz4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T06:10:43",
-      "content": "Some of Britain's rarest and most threatened bats have been recorded in the south-west of England."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-      "description": "A new generation is embracing eye-catching patching and visible mends.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-30T00:00:35",
-      "content": "A new generation is embracing eye-catching patching and visible mends."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Firefighters celebrate rain during Indonesia wildfires",
-      "description": "A number of clips show firefighters celebrating in the rain.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93zere04plo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-29T18:31:27",
-      "content": "A number of clips show firefighters celebrating in the rain."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "New Batteries That Store Blistering Heat Are Taking Off",
-      "description": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative.",
-      "url": "https://www.nytimes.com/2026/10/29/climate/heat-battery-thermal-energy-storage.html",
-      "publishedAt": "2026-10-29T16:05:30",
-      "content": "Large batteries that store electricity have revolutionized power grids and car markets. Now some start-ups are betting that “heat batteries” could be just as transformative."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "Prefer to shop IRL? These top-rated brands have physical retail stores around the world",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/more-sustainable-brands-stores/",
-      "publishedAt": "2026-10-29T11:01:10",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "California’s High Tides Set Records This Week. They’re Going to Get Higher.",
-      "description": "El Niño is expected to push this winter’s high tides even higher.",
-      "url": "https://www.nytimes.com/2026/10/27/weather/king-tides-california-la-sf.html",
-      "publishedAt": "2026-10-28T16:19:56",
-      "content": "El Niño is expected to push this winter’s high tides even higher."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Stalemate on finance at COP17 nature talks exposes need for new sources",
-      "description": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity protection\nThe post Stalemate on finance at COP17...",
-      "url": "https://www.climatechangenews.com/2026/10/28/stalemate-finance-cop17-nature-un-exposes-need-new-sources-yerevan/",
-      "publishedAt": "2026-10-28T13:04:32",
-      "content": "At talks in Yerevan, the EU has proposed expanding the list of nature donors so that large emerging economies like China can help fund biodiversity protection\nThe post Stalemate on finance at COP17..."
     },
     {
       "source": {
