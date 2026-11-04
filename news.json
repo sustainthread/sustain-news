@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 51,
+  "totalResults": 56,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Thailand Launches Mandatory ISSB-Aligned Sustainability Reporting for Public Companies",
+      "description": "Thailand’s Securities and Exchange Commission (SEC) announced the publication of new regulations requiring listed companies",
+      "url": "https://www.esgtoday.com/thailand-launches-mandatory-issb-aligned-sustainability-reporting-for-public-companies/?utm_source=rss&utm_medium=rss&utm_campaign=thailand-launches-mandatory-issb-aligned-sustainability-reporting-for-public-companies",
+      "publishedAt": "2026-11-03T14:18:41",
+      "content": "Thailand’s Securities and Exchange Commission (SEC) announced the publication of new regulations requiring listed companies"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -26,6 +37,17 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BCG Appoints Jan Philipp Bender as New Global Climate & Sustainability Practice Leader",
+      "description": "Boston Consulting Group (BCG) announced the appointment of Jan Philipp Bender as its new Global",
+      "url": "https://www.esgtoday.com/bcg-appoints-jan-philipp-bender-as-new-global-climate-sustainability-practice-leader/?utm_source=rss&utm_medium=rss&utm_campaign=bcg-appoints-jan-philipp-bender-as-new-global-climate-sustainability-practice-leader",
+      "publishedAt": "2026-11-03T15:46:40",
+      "content": "Boston Consulting Group (BCG) announced the appointment of Jan Philipp Bender as its new Global"
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -45,17 +67,6 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-10-31T22:00:45",
       "content": "Feature image: ReCreate."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Green Climate Fund Approves Record $3.3 Billion Climate Investments",
-      "description": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that",
-      "url": "https://www.esgtoday.com/green-climate-fund-approves-record-3-3-billion-climate-investments/?utm_source=rss&utm_medium=rss&utm_campaign=green-climate-fund-approves-record-3-3-billion-climate-investments",
-      "publishedAt": "2026-11-02T10:25:47",
-      "content": "UN-backed Green Climate Fund (GCF), the largest global climate fund for developing countries, announced that"
     },
     {
       "source": {
@@ -92,58 +103,47 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Climate Change News"
       },
-      "author": "Inside Climate News",
-      "title": "China Bets on Renewable Energy to Gain an AI Edge",
-      "description": "As demand for artificial intelligence surges worldwide, China is looking to its renewable energy sector for an advantage in the race to build the data centers that fuel the technology. Its vast win...",
-      "url": "https://insideclimatenews.org/news/02112026/china-renewable-energy-data-centers/",
-      "publishedAt": "2026-11-02T09:55:00",
-      "content": "As demand for artificial intelligence surges worldwide, China is looking to its renewable energy sector for an advantage in the race to build the data centers that fuel the technology. Its vast win..."
+      "author": "Climate Change News",
+      "title": "Brazil’s fossil fuel roadmap sketches out first global timetable",
+      "description": "The COP30 presidency’s voluntary timetable asks countries to plan first, then build up clean energy - only turning to oil and gas supplies from 2031\nThe post Brazil’s fossil fuel roadmap sketches o...",
+      "url": "https://www.climatechangenews.com/2026/11/03/brazils-fossil-fuel-roadmap-sketches-out-first-global-timetable/",
+      "publishedAt": "2026-11-03T18:37:22",
+      "content": "The COP30 presidency’s voluntary timetable asks countries to plan first, then build up clean energy - only turning to oil and gas supplies from 2031\nThe post Brazil’s fossil fuel roadmap sketches o..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T06:11:43",
+      "content": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "From the archive: The trials of Robert Habeck: is the world’s most powerful green politician doomed to fail? – podcast",
+      "description": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authorsThis week, from 2023: A year ago, Germany’s vice-chancellor w...",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/04/from-the-archive-the-trials-of-robert-habeck-is-the-worlds-most-powerful-green-politician-doomed-to-fail-podcast",
+      "publishedAt": "2026-11-04T05:00:27",
+      "content": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authorsThis week, from 2023: A year ago, Germany’s vice-chancellor w..."
     },
     {
       "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
-      "title": "Rooted in Community:  Leidos Innovations U.K. Limited and Carma Support Veterans and a Greener Future",
-      "description": "Environmental action can create benefits that reach far beyond the environment.",
-      "url": "https://csrwire.com/press-release/rooted-community-leidos-innovations-uk-limited-and-carma-support-veterans-and-greener-future/",
-      "publishedAt": "2026-10-30T08:05:00",
-      "content": "Environmental action can create benefits that reach far beyond the environment."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Why COP31 needs to start talking about just transition finance",
-      "description": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could undermine climate goals\nThe post Why COP31 nee...",
-      "url": "https://www.climatechangenews.com/2026/10/28/why-cop31-needs-to-start-talking-about-just-transition-finance/",
-      "publishedAt": "2026-10-28T10:56:06",
-      "content": "Funding that helps workers and communities navigate the clean energy switch remains overlooked, splintered and poorly tracked - a blindspot that could undermine climate goals\nThe post Why COP31 nee..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "APG Invests €500 Million in Sustainable European Infrastructure with Equitix",
-      "description": "Dutch pension fund manager APG, on behalf of its pension fund client ABP, and infrastructure",
-      "url": "https://www.esgtoday.com/apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix/?utm_source=rss&utm_medium=rss&utm_campaign=apg-invests-e500-million-in-sustainable-european-infrastructure-with-equitix",
-      "publishedAt": "2026-11-02T14:06:15",
-      "content": "Dutch pension fund manager APG, on behalf of its pension fund client ABP, and infrastructure"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "From Australia to Chile, our cities are driving a green investment boom",
-      "description": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra...",
-      "url": "https://www.climatechangenews.com/2026/10/29/from-australia-to-chile-our-cities-are-driving-a-green-investment-boom/",
-      "publishedAt": "2026-10-29T08:43:50",
-      "content": "Cities' climate commitments are set to generate trillions of dollars in demand for clean tech and green infrastructure, creating huge opportunities for businesses and investors\nThe post From Austra..."
+      "title": "From Digital Spring Cleaning to Plastic-Free Living,  Leidos Innovations U.K. Limited Employees Drive Environmental Action",
+      "description": "Meaningful environmental change often begins with everyday decisions.",
+      "url": "https://csrwire.com/press-release/digital-spring-cleaning-plastic-free-living-leidos-innovations-uk-limited-employees-drive/",
+      "publishedAt": "2026-11-03T13:05:00",
+      "content": "Meaningful environmental change often begins with everyday decisions."
     },
     {
       "source": {
@@ -155,6 +155,17 @@
       "url": "https://www.climatechangenews.com/2026/11/02/whats-on-the-climate-calendar-for-november-2026/",
       "publishedAt": "2026-11-02T23:57:00",
       "content": "After the US midterms and the launch of the COP30 roadmaps, the climate world's attention turns to Antalya for COP31\nThe post What’s on the climate calendar for November 2026? appeared first on Cli..."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The ultimate guide to yoga clothes from more sustainable brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-sustainable-yoga-clothes/",
+      "publishedAt": "2026-11-02T23:00:55",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     },
     {
       "source": {
@@ -180,14 +191,201 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Regulators Propose Simplification of Taxonomy Reporting Rules for Banks, Insurers and Investors",
+      "description": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) announced the release of",
+      "url": "https://www.esgtoday.com/eu-regulators-propose-simplification-of-taxonomy-reporting-rules-for-banks-insurers-and-investors/?utm_source=rss&utm_medium=rss&utm_campaign=eu-regulators-propose-simplification-of-taxonomy-reporting-rules-for-banks-insurers-and-investors",
+      "publishedAt": "2026-11-04T11:53:46",
+      "content": "Europe’s three primary financial regulatory agencies, the European Supervisory Authorities (ESAs) announced the release of"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BlackRock Launches ESG-Focused Protected Equity Fund for UK Pension Schemes",
+      "description": "BlackRock announced the launch of the ACS World ESG Insights Protective Strategies Fund, an new",
+      "url": "https://www.esgtoday.com/blackrock-launches-esg-focused-protected-equity-fund-for-uk-pension-schemes/?utm_source=rss&utm_medium=rss&utm_campaign=blackrock-launches-esg-focused-protected-equity-fund-for-uk-pension-schemes",
+      "publishedAt": "2026-11-04T11:19:13",
+      "content": "BlackRock announced the launch of the ACS World ESG Insights Protective Strategies Fund, an new"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Is It Better to Speak, or to ‘Hush’?",
+      "description": "Hi, I’m Kate Waxman, and this is my first edition of Today’s Climate.",
+      "url": "https://insideclimatenews.org/news/03112026/todays-climate-election-hushing/",
+      "publishedAt": "2026-11-03T17:02:38",
+      "content": "Hi, I’m Kate Waxman, and this is my first edition of Today’s Climate."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Isometric Launches New CBAM Data Preparation and Reporting Service for Exporters",
+      "description": "Industrial certification provider Isometric announced today the launch of Ready for CBAM, a new service",
+      "url": "https://www.esgtoday.com/isometric-launches-new-cbam-preparation-service-for-exporters/?utm_source=rss&utm_medium=rss&utm_campaign=isometric-launches-new-cbam-preparation-service-for-exporters",
+      "publishedAt": "2026-11-03T16:15:26",
+      "content": "Industrial certification provider Isometric announced today the launch of Ready for CBAM, a new service"
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "Africa wants adaptation finance on COP31 agenda, raising risk of a fight",
-      "description": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi...",
-      "url": "https://www.climatechangenews.com/2026/10/28/africa-wants-adaptation-finance-on-cop31-agenda-raising-risk-of-a-fight/",
-      "publishedAt": "2026-10-28T15:57:17",
-      "content": "The African Group wants dedicated space on tripling adaptation finance, the Green Climate Fund and trade, setting up a possible clash\nThe post Africa wants adaptation finance on COP31 agenda, raisi..."
+      "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
+      "description": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 deliv...",
+      "url": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
+      "publishedAt": "2026-10-31T11:50:27",
+      "content": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 deliv..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "India builds deep-sea capacity in bet on critical minerals future",
+      "description": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for a precautionary pause\nThe post India builds de...",
+      "url": "https://www.climatechangenews.com/2026/11/04/india-builds-deep-sea-capacity-in-bet-on-critical-minerals-future/",
+      "publishedAt": "2026-11-04T12:53:31",
+      "content": "Striving to keep up with regional competitors, India has built up its ocean mining capacity - despite a push by 46 countries and marine scientists for a precautionary pause\nThe post India builds de..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "William meets firefighters who tackled summer blazes",
+      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
+      "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T11:35:08",
+      "content": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Federal Plan to Elevate Miami Homes Meets Skepticism",
+      "description": "Just in time for Halloween, floodwaters washed into South Florida businesses and submerged roads, forcing residents to drive and walk through shin-high water in what officials called the most inten...",
+      "url": "https://insideclimatenews.org/news/04112026/federal-plan-to-elevate-miami-homes-meets-skepticism/",
+      "publishedAt": "2026-11-04T10:00:00",
+      "content": "Just in time for Halloween, floodwaters washed into South Florida businesses and submerged roads, forcing residents to drive and walk through shin-high water in what officials called the most inten..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
+      "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
+      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-04T07:39:38",
+      "content": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How penguin poo is making Antarctic snow melt faster",
+      "description": "Researchers find the birds’ guano feeds algal blooms that absorb significantly more solar energyPenguin poo is making the Antarctic snow melt faster, a study shows. As temperatures rise, penguins a...",
+      "url": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
+      "publishedAt": "2026-11-04T06:00:27",
+      "content": "Researchers find the birds’ guano feeds algal blooms that absorb significantly more solar energyPenguin poo is making the Antarctic snow melt faster, a study shows. As temperatures rise, penguins a..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: This small bridge is becoming the site of so many stories | Derek Niemann",
+      "description": "Frome, Somerset: Dippers and fritillaries and pink campion … there is a deep satisfaction in accumulating associations with a regular hauntEnchantment surely fills the eyes of first-time visitors w...",
+      "url": "https://www.theguardian.com/environment/2026/nov/04/country-diary-this-small-bridge-is-becoming-the-site-of-so-many-stories",
+      "publishedAt": "2026-11-04T05:30:25",
+      "content": "Frome, Somerset: Dippers and fritillaries and pink campion … there is a deep satisfaction in accumulating associations with a regular hauntEnchantment surely fills the eyes of first-time visitors w..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Kashmir’s potato pits are vanishing – and generations of knowledge could be buried for ever",
+      "description": "Farmers in Gurez store their harvests underground to last the Himalayan winter.",
+      "url": "https://www.theguardian.com/environment/2026/nov/04/kashmir-potato-pits-vanishing-indigenous-knowledge-buried-aoe",
+      "publishedAt": "2026-11-04T03:00:22",
+      "content": "Farmers in Gurez store their harvests underground to last the Himalayan winter."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Why Floodwaters Won’t Solve the Southwestern Water Crisis",
+      "description": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
+      "url": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+      "publishedAt": "2026-11-03T21:06:37",
+      "content": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP30 roadmap says faster use of existing tools can halt forest loss by 2030",
+      "description": "The plan launched by Brazil to help the world end deforestation charts a path to meeting the global goal, but requires national efforts and finance to be stepped up, experts say\nThe post COP30 road...",
+      "url": "https://www.climatechangenews.com/2026/11/03/faster-action-existing-tools-halt-forest-loss-by-2030-cop30-roadmap/",
+      "publishedAt": "2026-11-03T19:16:08",
+      "content": "The plan launched by Brazil to help the world end deforestation charts a path to meeting the global goal, but requires national efforts and finance to be stepped up, experts say\nThe post COP30 road..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Few Repercussions for Oil Firm’s Continued Leaks After Couple’s Death From Toxic Gas",
+      "description": "This article was first reported by The Examination, a nonprofit newsroom that investigates global health threats.",
+      "url": "https://insideclimatenews.org/news/03112026/few-repercussions-for-oil-firms-continued-leaks-after-couples-death-from-toxic-gas/",
+      "publishedAt": "2026-11-03T18:57:19",
+      "content": "This article was first reported by The Examination, a nonprofit newsroom that investigates global health threats."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Great Britain’s worst-ever bluetongue season ‘a major animal welfare crisis’",
+      "description": "British Veterinary Association president tells MPs surge in cases putting farmers under severe pressure and stressThe worst bluetongue season on record has been a major animal welfare crisis in Gre...",
+      "url": "https://www.theguardian.com/environment/2026/nov/03/great-britain-worst-ever-bluetongue-season-major-animal-welfare-crisis",
+      "publishedAt": "2026-11-03T15:50:12",
+      "content": "British Veterinary Association president tells MPs surge in cases putting farmers under severe pressure and stressThe worst bluetongue season on record has been a major animal welfare crisis in Gre..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Africa launches long-delayed energy bank to finance fossil fuel projects",
+      "description": "The Africa Energy Bank's main aim is financing oil and gas projects, underscoring support among many African governments for continued fossil fuel development\nThe post Africa launches long-delayed ...",
+      "url": "https://www.climatechangenews.com/2026/11/03/africa-launches-long-delayed-energy-bank-to-finance-fossil-fuel-projects/",
+      "publishedAt": "2026-11-03T15:38:18",
+      "content": "The Africa Energy Bank's main aim is financing oil and gas projects, underscoring support among many African governments for continued fossil fuel development\nThe post Africa launches long-delayed ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Do You Think You Know the Flu? Get the Facts From a CVS Pharmacy Pharmacist",
+      "description": "When it comes to the flu, misconceptions can make it difficult to know how to protect yourself.",
+      "url": "https://csrwire.com/press-release/do-you-think-you-know-flu-get-facts-cvs-pharmacy-pharmacist/",
+      "publishedAt": "2026-11-03T12:40:00",
+      "content": "When it comes to the flu, misconceptions can make it difficult to know how to protect yourself."
     },
     {
       "source": {
@@ -202,6 +400,17 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Fiestóncito Brings Local Culture, Small Businesses and Community Together at L.A. LIVE",
+      "description": "AEG's Fiestóncito returned to L.",
+      "url": "https://csrwire.com/press-release/fiestoncito-brings-local-culture-small-businesses-and-community-together-la-live/",
+      "publishedAt": "2026-11-03T10:00:00",
+      "content": "AEG's Fiestóncito returned to L."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -210,6 +419,39 @@
       "url": "https://insideclimatenews.org/news/03112026/wildfire-building-damage-could-triple-by-2060/",
       "publishedAt": "2026-11-03T10:00:00",
       "content": "The number of buildings across the contiguous United States threatened by wildfires could almost triple by 2060, according to a new study, if the country continues to ignore the perils of climate c..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Advancing AI Responsibly With Lenovo",
+      "description": "As AI advances, its development can be shaped in ways that anticipate future risks while delivering meaningful benefits today.",
+      "url": "https://csrwire.com/press-release/advancing-ai-responsibly-lenovo/",
+      "publishedAt": "2026-11-03T09:05:00",
+      "content": "As AI advances, its development can be shaped in ways that anticipate future risks while delivering meaningful benefits today."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "She Spent Years Improving Stroke Care. Then It Helped Save Her Sister.",
+      "description": "Standing in front of Robin, Heather Vannes watched her sister change.",
+      "url": "https://csrwire.com/press-release/she-spent-years-improving-stroke-care-then-it-helped-save-her-sister/",
+      "publishedAt": "2026-11-03T08:00:00",
+      "content": "Standing in front of Robin, Heather Vannes watched her sister change."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Chemours Launches Faizeon™ Two-Phase Liquid Cooling Solutions for AI Data Centers",
+      "description": "The Chemours Company today launched Faizeon™ two-phase liquid cooling solutions1, for artificial intelligence (AI), high-performance computing (HPC), and high-density data centers.",
+      "url": "https://csrwire.com/press-release/chemours-launches-faizeontm-two-phase-liquid-cooling-solutions-ai-data-centers/",
+      "publishedAt": "2026-11-03T08:00:00",
+      "content": "The Chemours Company today launched Faizeon™ two-phase liquid cooling solutions1, for artificial intelligence (AI), high-performance computing (HPC), and high-density data centers."
     },
     {
       "source": {
@@ -235,36 +477,47 @@
     },
     {
       "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "A Career That Gives This Yum! Senior Comms Analyst Room To Stretch — and Sweat",
+      "description": "Alison Cox can stand the heat.",
+      "url": "https://csrwire.com/press-release/career-gives-yum-senior-comms-analyst-room-stretch-and-sweat/",
+      "publishedAt": "2026-11-02T09:00:00",
+      "content": "Alison Cox can stand the heat."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Cummins: Inside the Pressure Cooker",
+      "description": "In the subterranean labyrinth of Poland's Lower Silesia region, a thousand metres beneath the rolling hills, an intense battle is waged every day against heat, salt, and crushing pressure.",
+      "url": "https://csrwire.com/press-release/cummins-inside-pressure-cooker/",
+      "publishedAt": "2026-11-02T08:10:00",
+      "content": "In the subterranean labyrinth of Poland's Lower Silesia region, a thousand metres beneath the rolling hills, an intense battle is waged every day against heat, salt, and crushing pressure."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Rare ant nest stolen from last place in England where species survives",
-      "description": "Devon nature reserve says ‘reckless’ theft of narrow-headed ant colony sets back years of conservation workA nest containing up to 5,000 of England’s rarest ant species has been stolen from a natur...",
-      "url": "https://www.theguardian.com/environment/2026/nov/02/rare-narrow-headed-ant-nest-stolen-devon",
-      "publishedAt": "2026-11-02T15:00:43",
-      "content": "Devon nature reserve says ‘reckless’ theft of narrow-headed ant colony sets back years of conservation workA nest containing up to 5,000 of England’s rarest ant species has been stolen from a natur..."
+      "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
+      "description": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without...",
+      "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
+      "publishedAt": "2026-11-03T13:00:07",
+      "content": "Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementingAll countries can start to break their dependence on fossil fuels now without..."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "New York Times"
       },
-      "author": "Climate Change News",
-      "title": "COP17 delivers fragile deal to boost conservation and funding for nature",
-      "description": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 deliv...",
-      "url": "https://www.climatechangenews.com/2026/10/31/cop17-delivers-fragile-deal-scaling-up-biodiversity-conservation-armenia-cbd/",
-      "publishedAt": "2026-10-31T11:50:27",
-      "content": "After a two-week stalemate, countries agreed to invite wealthy emerging economies like China to assume donor status and help fund biodiversity protection as finance falls short\nThe post COP17 deliv..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "8 LGBTQ+-owned more sustainable brands you should follow",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/lgbtq-owned-brands/",
-      "publishedAt": "2026-10-27T23:19:54",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "New York Times",
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
+      "description": "",
+      "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
+      "publishedAt": "2026-11-03T10:00:11",
+      "content": ""
     },
     {
       "source": {
@@ -326,33 +579,11 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Farm workers are falling sick in a Kenyan horticultural town. Were they poisoned by pesticides?",
-      "description": "Timau’s industry has provided local Kenyans with an economic lifeline.",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/03/farm-workers-falling-sick-kenya-horticultural-town-timau-pesticides",
-      "publishedAt": "2026-11-03T06:00:41",
-      "content": "Timau’s industry has provided local Kenyans with an economic lifeline."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
       "description": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of  Vantara zoo ahead of UK-chaired Cites meeting on endangered animal importsBritish government ministers were told not to en...",
       "url": "https://www.theguardian.com/environment/2026/nov/03/uk-ministers-anant-ambani-indian-zoo-vantara-freedom-information-endangered-animals-cites",
       "publishedAt": "2026-11-03T06:00:39",
       "content": "Guardian and Mongabay reveal approaches to officials and MPs on behalf of  Vantara zoo ahead of UK-chaired Cites meeting on endangered animal importsBritish government ministers were told not to en..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: The sound of thousands of cranes is truly oceanic | Mark Cocker",
-      "description": "Hortobágy, Hungary: Their sheer size is striking enough, but the noise is something else, especially when they gather in huge migratory flocksWith a standing height of 1.4 metres, common cranes are...",
-      "url": "https://www.theguardian.com/environment/2026/nov/03/country-diary-the-sound-of-thousands-of-cranes-is-truly-oceanic",
-      "publishedAt": "2026-11-03T05:30:38",
-      "content": "Hortobágy, Hungary: Their sheer size is striking enough, but the noise is something else, especially when they gather in huge migratory flocksWith a standing height of 1.4 metres, common cranes are..."
     },
     {
       "source": {
@@ -364,127 +595,6 @@
       "url": "https://www.nytimes.com/2026/11/02/climate/disneyland-autopia-gas-electric.html",
       "publishedAt": "2026-11-02T21:11:41",
       "content": "The gas-powered engines in Disneyland’s Autopia ride weren’t properly certified. The little cars will be replaced by E.V.s."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Control of Britain’s 39m smart meters passes to non-profit startup",
-      "description": "The handover marks the end of a 13-year licence for Smart DCC, a subsidiary of Capita, after years of spiralling costs and delaysControl over Great Britain’s 39m smart meters has passed to a non-pr...",
-      "url": "https://www.theguardian.com/environment/2026/nov/02/control-of-britains-39m-smart-meters-passes-to-non-profit-startup",
-      "publishedAt": "2026-11-02T18:13:35",
-      "content": "The handover marks the end of a 13-year licence for Smart DCC, a subsidiary of Capita, after years of spiralling costs and delaysControl over Great Britain’s 39m smart meters has passed to a non-pr..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘It’s really, really unusual’: tender bond between male donkey and bull baffles scientists",
-      "description": "Patroclo and Achille’s interspecies affair sheds new light on social and sexual relations between animals, scientists sayIn ancient myth, Achilles and Patroclus were two Greek heroes of the Trojan ...",
-      "url": "https://www.theguardian.com/science/2026/nov/02/tender-bond-male-donkey-bull-baffles-scientists",
-      "publishedAt": "2026-11-02T16:53:15",
-      "content": "Patroclo and Achille’s interspecies affair sheds new light on social and sexual relations between animals, scientists sayIn ancient myth, Achilles and Patroclus were two Greek heroes of the Trojan ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "A Career That Gives This Yum! Senior Comms Analyst Room To Stretch — and Sweat",
-      "description": "Alison Cox can stand the heat.",
-      "url": "https://csrwire.com/press-release/career-gives-yum-senior-comms-analyst-room-stretch-and-sweat/",
-      "publishedAt": "2026-11-02T09:00:00",
-      "content": "Alison Cox can stand the heat."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Cummins: Inside the Pressure Cooker",
-      "description": "In the subterranean labyrinth of Poland's Lower Silesia region, a thousand metres beneath the rolling hills, an intense battle is waged every day against heat, salt, and crushing pressure.",
-      "url": "https://csrwire.com/press-release/cummins-inside-pressure-cooker/",
-      "publishedAt": "2026-11-02T08:10:00",
-      "content": "In the subterranean labyrinth of Poland's Lower Silesia region, a thousand metres beneath the rolling hills, an intense battle is waged every day against heat, salt, and crushing pressure."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-      "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
-      "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T18:04:52",
-      "content": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Amazonian Community That Beat Big Oil Is Sharing Its Secrets",
-      "description": "SARAYAKU, Ecuador—The canoe motor rattled against the current as Guisel Marworno and Wagner Karipuna traveled down the Bobonaza River.",
-      "url": "https://insideclimatenews.org/news/01112026/how-sarayaku-people-beat-big-oil/",
-      "publishedAt": "2026-11-01T10:00:00",
-      "content": "SARAYAKU, Ecuador—The canoe motor rattled against the current as Guisel Marworno and Wagner Karipuna traveled down the Bobonaza River."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Rural Charms Drew Residents to Taylor, Texas. Then Came the Data Centers.",
-      "description": "TAYLOR, Texas—A red thresher cuts across the countryside off County Road 401 in Taylor, leaving behind tufts of discarded stalks as farmers prepare to plant seeds for the next year’s harvest.  Less...",
-      "url": "https://insideclimatenews.org/news/01112026/taylor-texas-data-center-development/",
-      "publishedAt": "2026-11-01T09:55:00",
-      "content": "TAYLOR, Texas—A red thresher cuts across the countryside off County Road 401 in Taylor, leaving behind tufts of discarded stalks as farmers prepare to plant seeds for the next year’s harvest.  Less..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Will Josh Shapiro’s Data Center Past Haunt His Political Future?",
-      "description": "Perhaps no issue has tested the political agility of Pennsylvania’s popular Gov.",
-      "url": "https://insideclimatenews.org/news/01112026/gov-josh-shapiro-data-center-history/",
-      "publishedAt": "2026-11-01T09:50:00",
-      "content": "Perhaps no issue has tested the political agility of Pennsylvania’s popular Gov."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Spill from vandalised home oil tank kills 13 birds",
-      "description": "A number of birds are also injured after the spill from the oil tank earlier this week.",
-      "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T08:57:56",
-      "content": "A number of birds are also injured after the spill from the oil tank earlier this week."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Oil tank vandalism results in waterfowl park 'nightmare'",
-      "description": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g14ene2epo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-01T06:42:13",
-      "content": "The popular attraction in County Down has been forced to close while efforts continue to remove oil from the pond."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "COP17 Biodiversity Talks in Yerevan, Armenia",
-      "description": "Countries renewed their promises to protect wildlife at U.N. talks in Armenia, but how to cover the costs remains a question.",
-      "url": "https://www.nytimes.com/2026/10/31/climate/cop17-biodiversity-yerevan-conclusion.html",
-      "publishedAt": "2026-10-31T17:40:19",
-      "content": "Countries renewed their promises to protect wildlife at U.N. talks in Armenia, but how to cover the costs remains a question."
     },
     {
       "source": {
@@ -507,61 +617,6 @@
       "url": "https://www.climatechangenews.com/2026/10/29/editors-desk-cop-reform-is-happening-quietly-behind-the-headlines/",
       "publishedAt": "2026-10-29T17:51:12",
       "content": "It may seem like little has changed in how the UN climate summits are run, but there's been a gradual shift as action becomes as important as negotiation\nThe post Editor’s Desk: COP reform is happe..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Bacardi Fosters Hospitality Talent Through 'Shake Your Future' In India",
-      "description": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou...",
-      "url": "https://csrwire.com/press-release/bacardi-fosters-hospitality-talent-through-shake-your-future-india/",
-      "publishedAt": "2026-10-29T14:05:00",
-      "content": "Family-owned Bacardi is helping develop the next generation of hospitality talent in India through Shake Your Future, with the successful completion of the program's third cohort of 2026 in the cou..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "WHC Certification Applications for 2026 Due December 1",
-      "description": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub...",
-      "url": "https://csrwire.com/press-release/whc-certification-applications-2026-due-december-1/",
-      "publishedAt": "2026-10-29T13:19:57",
-      "content": "Organizations seeking to renew or obtain WHC Certification® in 2026 have until December 1, 2026, to submit their applications for consideration this year. Tandem Global encourages applicants to sub..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "It Takes a City: Building Stronger Stroke Systems of Care",
-      "description": "Our Angels Initiative exemplifies our commitment to advancing stroke systems of care, transforming outcomes through innovation and collaboration.",
-      "url": "https://csrwire.com/press-release/it-takes-city-building-stronger-stroke-systems-care/",
-      "publishedAt": "2026-10-29T12:00:00",
-      "content": "Our Angels Initiative exemplifies our commitment to advancing stroke systems of care, transforming outcomes through innovation and collaboration."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "New Powder Mixing and Air-Jet Cleaning Trial Capabilities Now Available at Tetra Pak’s Winsted, Minn. Facility",
-      "description": "Tetra Pak U.",
-      "url": "https://csrwire.com/press-release/new-powder-mixing-and-air-jet-cleaning-trial-capabilities-now-available-tetra-paks-winsted/",
-      "publishedAt": "2026-10-29T10:30:00",
-      "content": "Tetra Pak U."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Boehringer Ingelheim Celebrates a Decade of Angels Initiative and Helping 28+ Million Patients Get Better Stroke Care",
-      "description": "Boehringer Ingelheim, today, on World Stroke Day, celebrates 10 years of the Angels Initiative and bringing better stroke care to more than 28 million patients worldwide.",
-      "url": "https://csrwire.com/press-release/boehringer-ingelheim-celebrates-decade-angels-initiative-and-helping-28-million-patients-get/",
-      "publishedAt": "2026-10-29T10:00:00",
-      "content": "Boehringer Ingelheim, today, on World Stroke Day, celebrates 10 years of the Angels Initiative and bringing better stroke care to more than 28 million patients worldwide."
     }
   ]
 }
