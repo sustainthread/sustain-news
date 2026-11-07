@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 43,
+  "totalResults": 47,
   "articles": [
     {
       "source": {
@@ -37,6 +37,94 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "William Nordhaus Pioneered Putting a Price on Pollution",
+      "description": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
+      "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
+      "publishedAt": "2026-11-03T00:27:42",
+      "content": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Global Science Panel Hits Roadblocks Ahead of COP31 Climate Summit",
+      "description": "As global climate negotiators and government officials convene for the annual United Nations climate summit, the scientific organization they rely on to guide their decisions is mired in gridlock a...",
+      "url": "https://insideclimatenews.org/news/07112026/un-ipcc-funding-crunch-ahead-of-cop31/",
+      "publishedAt": "2026-11-07T09:50:00",
+      "content": "As global climate negotiators and government officials convene for the annual United Nations climate summit, the scientific organization they rely on to guide their decisions is mired in gridlock a..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: After the devastating summer fires, the first green shoots | Amanda Thomson",
+      "description": "Cairngorms: The scale and depth of damage is shocking, but there are precious small signs of recoveryIt’s over three months since the fire started that eventually engulfed 25 square kilometres of m...",
+      "url": "https://www.theguardian.com/environment/2026/nov/07/country-diary-after-the-devastating-summer-fires-the-first-green-shoots",
+      "publishedAt": "2026-11-07T05:30:02",
+      "content": "Cairngorms: The scale and depth of damage is shocking, but there are precious small signs of recoveryIt’s over three months since the fire started that eventually engulfed 25 square kilometres of m..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "description": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progressIt was a curious way of conducting negotiations. Ahead of the 2025 climate ...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+      "publishedAt": "2026-11-07T05:00:02",
+      "content": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progressIt was a curious way of conducting negotiations. Ahead of the 2025 climate ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
+      "description": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:43:30",
+      "content": "Rising global temperatures mean extreme weather events are becoming more common and more intense."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "A really simple guide to climate change",
+      "description": "Human activities are causing the world to heat up, posing serious threats to people and nature.",
+      "url": "https://www.bbc.co.uk/news/articles/c9w15nggj58o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:40:51",
+      "content": "Human activities are causing the world to heat up, posing serious threats to people and nature."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
+      "description": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe post Nepal seeks stronger recognition of mounta...",
+      "url": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
+      "publishedAt": "2026-11-06T14:57:02",
+      "content": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe post Nepal seeks stronger recognition of mounta..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
+      "description": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a surv...",
+      "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
+      "publishedAt": "2026-11-06T12:27:54",
+      "content": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a surv..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -70,28 +158,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "William Nordhaus Pioneered Putting a Price on Pollution",
-      "description": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement.",
-      "url": "https://www.nytimes.com/2026/11/02/climate/william-nordhaus-carbon-tax-american-business.html",
-      "publishedAt": "2026-11-03T00:27:42",
-      "content": "Economist William Nordhaus said putting a price on pollution was the best way to reduce climate change. Then came the fossil fuel lobby and the anti-tax movement."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-      "description": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a surv...",
-      "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-      "publishedAt": "2026-11-06T12:27:54",
-      "content": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a surv..."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -114,17 +180,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Impact Investing Platform Builders Vision Appoints Matt Knott as CEO",
-      "description": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its",
-      "url": "https://www.esgtoday.com/impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo",
-      "publishedAt": "2026-11-06T09:28:00",
-      "content": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its"
-    },
-    {
-      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -133,28 +188,6 @@
       "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
       "publishedAt": "2026-11-04T23:00:07",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "The great disaster divide: How the super-rich are profiting from global climate suffering",
-      "description": "New research from Oxfam shows the wealthiest 0.",
-      "url": "https://www.climatechangenews.com/2026/11/04/the-great-disaster-divide-how-the-super-rich-are-profiting-from-global-climate-suffering/",
-      "publishedAt": "2026-11-04T17:29:57",
-      "content": "New research from Oxfam shows the wealthiest 0."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
-      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T06:11:43",
-      "content": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
     },
     {
       "source": {
@@ -169,14 +202,36 @@
     },
     {
       "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Rural Montanans Are Reckoning with the Global Mineral Boom, One Mine at a Time",
+      "description": "White Sulphur Springs is no stranger to the boom-and-bust cycle that often courts small town America.",
+      "url": "https://triplepundit.com/2026/rural-montanans-are-reckoning-with-the-global-mineral-boom-one-mine-at-a-time/",
+      "publishedAt": "2026-11-06T18:53:28",
+      "content": "White Sulphur Springs is no stranger to the boom-and-bust cycle that often courts small town America."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Curiosity in Action: Celebrating 15 Years of Hands-On STEM Learning",
+      "description": "Every child should have the opportunity to discover what they’re capable of—to ask questions, explore possibilities and gain the confidence to bring their own ideas to life.",
+      "url": "https://csrwire.com/press-release/curiosity-action-celebrating-15-years-hands-stem-learning/",
+      "publishedAt": "2026-11-06T13:35:00",
+      "content": "Every child should have the opportunity to discover what they’re capable of—to ask questions, explore possibilities and gain the confidence to bring their own ideas to life."
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "European nations signal support for fossil fuels roadmap, says COP30 president",
-      "description": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post European nations signal support for fossil fuels...",
+      "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
+      "description": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post European nations signal support for fossil fuel ...",
       "url": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
       "publishedAt": "2026-11-06T12:44:50",
-      "content": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post European nations signal support for fossil fuels..."
+      "content": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post European nations signal support for fossil fuel ..."
     },
     {
       "source": {
@@ -188,6 +243,94 @@
       "url": "https://www.esgtoday.com/nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment/?utm_source=rss&utm_medium=rss&utm_campaign=nbim-acquires-300-million-stake-in-aypa-power-in-first-direct-battery-storage-investment",
       "publishedAt": "2026-11-06T12:34:08",
       "content": "Norges Bank Investment Management (NBIM), the investment manager for Norway’s $2 trillion oil fund, announced"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Impact Investing Platform Builders Vision Appoints Matt Knott as CEO",
+      "description": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its",
+      "url": "https://www.esgtoday.com/impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=impact-investing-platform-builders-vision-appoints-matt-knott-as-ceo",
+      "publishedAt": "2026-11-06T09:28:00",
+      "content": "Sustainability-focused investment and philanthropy platform Builders Vision announced the appointment of Matt Knott as its"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "The ultimate guide to yoga clothes from more sustainable brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/ethical-sustainable-yoga-clothes/",
+      "publishedAt": "2026-11-02T23:00:55",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+      "description": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+      "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-07T02:03:28",
+      "content": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A US Senator’s Push to Fast-Track Pipelines Would Benefit His Former Company",
+      "description": "Alan Armstrong of Oklahoma entered the U.",
+      "url": "https://insideclimatenews.org/news/06112026/sen-alan-armstrong-bipartisan-permitting-bill-pipelines/",
+      "publishedAt": "2026-11-07T00:30:44",
+      "content": "Alan Armstrong of Oklahoma entered the U."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Billions of Gallons of Raw Sewage Are Pouring Into the Chicago River After Storms",
+      "description": "This article originally appeared in the Chicago Sun-Times.",
+      "url": "https://insideclimatenews.org/news/06112026/raw-sewage-chicago-river-deep-tunnel-storms-climate-change/",
+      "publishedAt": "2026-11-06T19:50:31",
+      "content": "This article originally appeared in the Chicago Sun-Times."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Old, Polluting Jet Engines Are Being Scavenged to Power Data Centers",
+      "description": "",
+      "url": "https://www.nytimes.com/2026/11/03/climate/jet-engines-ai-data-center-generators-boneyard.html",
+      "publishedAt": "2026-11-06T18:13:22",
+      "content": ""
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "‘Blue COP31’ set to spotlight need for ocean protections amid record heat",
+      "description": "A block of over 100 countries has pushed for a plan on ocean measures at COP31, as an extreme El Niño breaks temperature records at sea\nThe post ‘Blue COP31’ set to spotlight need for ocean protect...",
+      "url": "https://www.climatechangenews.com/2026/11/06/blue-cop31-antalya-ocean-protections-record-heat-climate-finance/",
+      "publishedAt": "2026-11-06T17:16:31",
+      "content": "A block of over 100 countries has pushed for a plan on ocean measures at COP31, as an extreme El Niño breaks temperature records at sea\nThe post ‘Blue COP31’ set to spotlight need for ocean protect..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What is the Paris Agreement and why does 1.5C matter?",
+      "description": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures.",
+      "url": "https://www.bbc.co.uk/news/articles/c93d59d4zy1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T16:39:07",
+      "content": "The 2015 pact is at the heart of the international commitment to tackle rising global temperatures."
     },
     {
       "source": {
@@ -221,72 +364,6 @@
       "url": "https://www.esgtoday.com/outrigger-impact-launches-100-million-blue-economy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=outrigger-impact-launches-100-million-blue-economy-fund",
       "publishedAt": "2026-11-05T14:31:07",
       "content": "Blue economy-focused investment platform Outrigger Impact announced the launch and first close of Outrigger Impact"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "The ultimate guide to yoga clothes from more sustainable brands",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/ethical-sustainable-yoga-clothes/",
-      "publishedAt": "2026-11-02T23:00:55",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wales scraps controversial Uganda tree-planting scheme",
-      "description": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures.",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26m2l4p7eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T13:14:24",
-      "content": "The Welsh government has given more than £4m to the scheme since 2015, but will end it due to budget pressures."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "As Data Centers Move In, Iowa Residents Fight Plans For a New Gas Plant",
-      "description": "FAIRFAX, Iowa—Nearly 50 people gathered at the American Legion Post on a July evening to learn about a proposed natural gas plant less than three miles from town. Seated in folding chairs, they pul...",
-      "url": "https://insideclimatenews.org/news/06112026/iowa-residents-fight-proposed-gas-plant-for-data-centers/",
-      "publishedAt": "2026-11-06T09:55:00",
-      "content": "FAIRFAX, Iowa—Nearly 50 people gathered at the American Legion Post on a July evening to learn about a proposed natural gas plant less than three miles from town. Seated in folding chairs, they pul..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: This could be a case of mistaken rodentity | Nic Wilson",
-      "description": "Clophill Lakes, Bedfordshire: Bank vole or wood mouse? On a series of nine-second videos, they’re not so easy to tell apartBank vole or wood mouse? That is the question. I’m working my way through ...",
-      "url": "https://www.theguardian.com/environment/2026/nov/06/country-diary-this-could-be-a-case-of-mistaken-rodentity",
-      "publishedAt": "2026-11-06T05:30:44",
-      "content": "Clophill Lakes, Bedfordshire: Bank vole or wood mouse? On a series of nine-second videos, they’re not so easy to tell apartBank vole or wood mouse? That is the question. I’m working my way through ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
-      "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
-      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T01:22:39",
-      "content": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "When the oil companies leave, who pays?",
-      "description": "Across the world, communities facing the decline of fossil fuel industries are demanding a Just Transition that gives them a say in what comes next.",
-      "url": "https://www.climatechangenews.com/2026/11/05/when-the-oil-companies-leave-who-pays/",
-      "publishedAt": "2026-11-05T16:22:25",
-      "content": "Across the world, communities facing the decline of fossil fuel industries are demanding a Just Transition that gives them a say in what comes next."
     },
     {
       "source": {
@@ -334,6 +411,72 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "As Data Centers Move In, Iowa Residents Fight Plans for a New Gas Plant",
+      "description": "FAIRFAX, Iowa—Nearly 50 people gathered at the American Legion Post on a July evening to learn about a proposed natural gas plant less than three miles from town. Seated in folding chairs, they pul...",
+      "url": "https://insideclimatenews.org/news/06112026/iowa-residents-fight-proposed-gas-plant-for-data-centers/",
+      "publishedAt": "2026-11-06T09:55:00",
+      "content": "FAIRFAX, Iowa—Nearly 50 people gathered at the American Legion Post on a July evening to learn about a proposed natural gas plant less than three miles from town. Seated in folding chairs, they pul..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+      "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
+      "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-06T01:22:39",
+      "content": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "When the oil companies leave, who pays?",
+      "description": "Across the world, communities facing the decline of fossil fuel industries are demanding a Just Transition that gives them a say in what comes next.",
+      "url": "https://www.climatechangenews.com/2026/11/05/when-the-oil-companies-leave-who-pays/",
+      "publishedAt": "2026-11-05T16:22:25",
+      "content": "Across the world, communities facing the decline of fossil fuel industries are demanding a Just Transition that gives them a say in what comes next."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Governments must embrace Fossil Free Zones as they head to COP31",
+      "description": "Colombia and Vanuatu share their experiences of creating new fossil fuel-free zones as a tool to transition away from coal, oil and gas\nThe post Governments must embrace Fossil Free Zones as they h...",
+      "url": "https://www.climatechangenews.com/2026/11/05/governments-colombia-vanuatu-fossil-free-zone-cop31-antalya-turkiye-australia/",
+      "publishedAt": "2026-11-05T11:19:29",
+      "content": "Colombia and Vanuatu share their experiences of creating new fossil fuel-free zones as a tool to transition away from coal, oil and gas\nThe post Governments must embrace Fossil Free Zones as they h..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Clean power shields China from oil shock more than any other country",
+      "description": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say \nThe post Clean power shields China from oi...",
+      "url": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
+      "publishedAt": "2026-11-05T01:00:00",
+      "content": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say \nThe post Clean power shields China from oi..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
+      "description": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
+      "url": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
+      "publishedAt": "2026-11-04T17:01:11",
+      "content": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak."
+    },
+    {
+      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -364,105 +507,6 @@
       "url": "https://csrwire.com/press-release/ray-host-webinar-digital-inspection-and-oem-data-alignment/",
       "publishedAt": "2026-11-04T09:40:00",
       "content": "An industry-wide conversation centered around digital inspection and the necessity for OEM manufacturers to be engaged stakeholders as state transportation agencies navigate digital transformation"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Governments must embrace Fossil Free Zones as they head to COP31",
-      "description": "Colombia and Vanuatu share their experiences of creating new fossil fuel-free zones as a tool to transition away from coal, oil and gas\nThe post Governments must embrace Fossil Free Zones as they h...",
-      "url": "https://www.climatechangenews.com/2026/11/05/governments-colombia-vanuatu-fossil-free-zone-cop31-antalya-turkiye-australia/",
-      "publishedAt": "2026-11-05T11:19:29",
-      "content": "Colombia and Vanuatu share their experiences of creating new fossil fuel-free zones as a tool to transition away from coal, oil and gas\nThe post Governments must embrace Fossil Free Zones as they h..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "South West Water’s failure to fix leaks ‘putting customer supplies at risk’",
-      "description": "With parts of region served by company in severe drought still, regulators give it six weeks to come up with action planRepeated failures by South West Water to tackle leaks are putting customers a...",
-      "url": "https://www.theguardian.com/business/2026/nov/05/south-west-water-failure-fix-leaks-putting-customer-supplies-at-risk",
-      "publishedAt": "2026-11-05T10:00:02",
-      "content": "With parts of region served by company in severe drought still, regulators give it six weeks to come up with action planRepeated failures by South West Water to tackle leaks are putting customers a..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Clean power shields China from oil shock more than any other country",
-      "description": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say \nThe post Clean power shields China from oi...",
-      "url": "https://www.climatechangenews.com/2026/11/05/clean-power-shields-china-from-oil-shock-more-than-any-other-country/",
-      "publishedAt": "2026-11-05T01:00:00",
-      "content": "Rapid clean power growth and electrification have boosted China's energy resilience as well as its confidence in its energy policy pre-COP31, experts say \nThe post Clean power shields China from oi..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T23:12:47",
-      "content": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "The Southwest Is Parched. Can the Recent Floodwaters Quench It?",
-      "description": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak.",
-      "url": "https://www.nytimes.com/2026/11/03/climate/floods-arizona-colorado-river-water.html",
-      "publishedAt": "2026-11-04T17:01:11",
-      "content": "A series of storms has added to reservoirs in the Colorado River basin, but the long-term water outlook remains bleak."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "William meets firefighters who tackled summer blazes",
-      "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
-      "url": "https://www.bbc.co.uk/news/videos/c94g1m232pgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T11:35:08",
-      "content": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\"."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "description": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category.",
-      "url": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-04T07:39:38",
-      "content": "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Do You Think You Know the Flu? Get the Facts From a CVS Pharmacy Pharmacist",
-      "description": "When it comes to the flu, misconceptions can make it difficult to know how to protect yourself.",
-      "url": "https://csrwire.com/press-release/do-you-think-you-know-flu-get-facts-cvs-pharmacy-pharmacist/",
-      "publishedAt": "2026-11-03T12:40:00",
-      "content": "When it comes to the flu, misconceptions can make it difficult to know how to protect yourself."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Fiestóncito Brings Local Culture, Small Businesses and Community Together at L.A. LIVE",
-      "description": "AEG's Fiestóncito returned to L.",
-      "url": "https://csrwire.com/press-release/fiestoncito-brings-local-culture-small-businesses-and-community-together-la-live/",
-      "publishedAt": "2026-11-03T10:00:00",
-      "content": "AEG's Fiestóncito returned to L."
     },
     {
       "source": {
