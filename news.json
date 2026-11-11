@@ -1,7 +1,40 @@
 {
   "status": "ok",
-  "totalResults": 55,
+  "totalResults": 57,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Mercedes-Benz Adjusts 2039 Carbon Neutral Goal, Sets 2049 Net Zero Target",
+      "description": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior",
+      "url": "https://www.esgtoday.com/mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target/?utm_source=rss&utm_medium=rss&utm_campaign=mercedes-benz-adjusts-2039-carbon-neutral-goal-sets-2049-net-zero-target",
+      "publishedAt": "2026-11-10T16:08:46",
+      "content": "Mercedes-Benz unveiled a series of revisions to its long-term climate goals, including changing its prior"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Octopus Launches $600 Million Asia Clean Energy Fund",
+      "description": "UK-based renewable energy company Octopus Energy Generation announced today the launch of the Octopus Asia",
+      "url": "https://www.esgtoday.com/octopus-launches-600-million-asia-clean-energy-fund/?utm_source=rss&utm_medium=rss&utm_campaign=octopus-launches-600-million-asia-clean-energy-fund",
+      "publishedAt": "2026-11-10T17:08:37",
+      "content": "UK-based renewable energy company Octopus Energy Generation announced today the launch of the Octopus Asia"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this November 2026",
+      "description": "Feature image: Jyoti – Fair Works.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-11-10T22:00:45",
+      "content": "Feature image: Jyoti – Fair Works."
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -15,47 +48,69 @@
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "Al Jazeera"
       },
-      "author": "Good On You",
-      "title": "More sustainable fashion brand offers this November 2026",
-      "description": "Feature image: ReCreate.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-11-08T22:00:45",
-      "content": "Feature image: ReCreate."
+      "author": "Al Jazeera",
+      "title": "‘Climate crisis is outrunning us,’ UN chief Guterres says at COP31",
+      "description": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31?traffic_source=rss",
+      "publishedAt": "2026-11-11T12:48:21",
+      "content": "Guterres says the world must fight harder, accuses the fossil fuel lobby of delaying climate action at critical talks."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
+      "description": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
+      "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
+      "publishedAt": "2026-11-10T10:01:42",
+      "content": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Levi’s appoints new sustainability chief",
+      "description": "Levi Strauss & Co has appointed Jeannie Renné-Malone as vice president and chief sustainability officer, effective from 1st December.",
+      "url": "https://www.ecotextile.com/2026111167199/radar/levis-appoints-new-sustainability-chief/",
+      "publishedAt": "2026-11-11T09:51:57",
+      "content": "Levi Strauss & Co has appointed Jeannie Renné-Malone as vice president and chief sustainability officer, effective from 1st December."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Climate always comes second: are green issues slipping down Burnham’s agenda?",
-      "description": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwiseLabour expected to cut EV targets for car industry despite MPs’ climate concernsAndy Bur...",
-      "url": "https://www.theguardian.com/environment/2026/nov/08/andy-burnham-uk-climate-crisis-rosebank-jackdaw",
-      "publishedAt": "2026-11-08T18:01:01",
-      "content": "Prime minister says he’s committed to meeting climate targets, but some believe his actions suggest otherwiseLabour expected to cut EV targets for car industry despite MPs’ climate concernsAndy Bur..."
+      "title": "Thousands of rare wildflowers rescued from eroding Scottish coast",
+      "description": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 yearsThousands of one of Britain’s rarest wildflowers hav...",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/one-flowered-wintergreen-rescue-eroding-coast-scotland",
+      "publishedAt": "2026-11-11T05:00:32",
+      "content": "Conservationists relocate 3,400 one-flowered wintergreens, a species estimated to have lost more than half its UK population in the past 50 yearsThousands of one of Britain’s rarest wildflowers hav..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "The Guardian"
       },
-      "author": "ESG Today",
-      "title": "ICE Launches Wind Power Futures to Help Manage Risk from Intermittent Renewable Energy Supply",
-      "description": "Financial technology provider and exchange operator Intercontinental Exchange (ICE) announced its entry into climatic variable",
-      "url": "https://www.esgtoday.com/ice-launches-wind-power-futures-to-help-manage-risk-from-intermittent-renewable-energy-supply/?utm_source=rss&utm_medium=rss&utm_campaign=ice-launches-wind-power-futures-to-help-manage-risk-from-intermittent-renewable-energy-supply",
-      "publishedAt": "2026-11-09T14:59:25",
-      "content": "Financial technology provider and exchange operator Intercontinental Exchange (ICE) announced its entry into climatic variable"
+      "author": "The Guardian",
+      "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+      "description": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfieldUK politics live – latest updatesAndy Burnham has hailed a record investment in offsh...",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+      "publishedAt": "2026-11-11T09:46:18",
+      "content": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfieldUK politics live – latest updatesAndy Burnham has hailed a record investment in offsh..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "EBA Delays ESG Reporting Simplification Measures for Banks to 2028",
-      "description": "EU banking supervisor The European Banking Authority (EBA) provided an update to its ongoing initiative",
-      "url": "https://www.esgtoday.com/eba-delays-esg-reporting-simplification-measures-for-banks-to-2028/?utm_source=rss&utm_medium=rss&utm_campaign=eba-delays-esg-reporting-simplification-measures-for-banks-to-2028",
-      "publishedAt": "2026-11-09T12:27:14",
-      "content": "EU banking supervisor The European Banking Authority (EBA) provided an update to its ongoing initiative"
+      "author": "New York Times",
+      "title": "How an Italian Capital of Design Is Coping with Climate Change",
+      "description": "Some of Milan’s best creative minds are working on solutions to floods, drought and 100-degree days.",
+      "url": "https://www.nytimes.com/2026/11/10/arts/design/milan-architecture-design-climate-change.html",
+      "publishedAt": "2026-11-10T17:06:01",
+      "content": "Some of Milan’s best creative minds are working on solutions to floods, drought and 100-degree days."
     },
     {
       "source": {
@@ -67,6 +122,17 @@
       "url": "https://www.esgtoday.com/u-s-appeals-court-blocks-key-parts-of-california-corporate-climate-reporting-laws/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-appeals-court-blocks-key-parts-of-california-corporate-climate-reporting-laws",
       "publishedAt": "2026-11-10T11:20:23",
       "content": "A U.S. appeals court ruled on Tuesday to pause key parts of new California laws"
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Modified enzyme accelerates PET breakdown",
+      "description": "Researchers report faster polyester breakdown in lab tests, but enzyme reuse and environmental performance remain barriers to scale-up LONDON — \nThe post Modified enzyme accelerates PET breakdown a...",
+      "url": "https://www.ecotextile.com/2026111167211/news/materials-production-news/modified-enzyme-accelerates-pet-breakdown/",
+      "publishedAt": "2026-11-11T10:21:58",
+      "content": "Researchers report faster polyester breakdown in lab tests, but enzyme reuse and environmental performance remain barriers to scale-up LONDON — \nThe post Modified enzyme accelerates PET breakdown a..."
     },
     {
       "source": {
@@ -92,14 +158,146 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
+      "description": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-09T07:30:12",
+      "content": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Where the Rubber Meets the Road: Recycled Tires Make Roads Quieter, Greener and Longer Lasting",
+      "description": "Rubber-modified asphalt made with tires is shown to reduce traffic noise, improve vehicle fuel economy, and create fewer lifecycle emissions compared to conventional asphalt. It also provides a via...",
+      "url": "https://triplepundit.com/2026/rubber-modified-asphalt-recycled-tires-quieter-roads/",
+      "publishedAt": "2026-11-05T16:25:23",
+      "content": "Rubber-modified asphalt made with tires is shown to reduce traffic noise, improve vehicle fuel economy, and create fewer lifecycle emissions compared to conventional asphalt. It also provides a via..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Colour and leather societies forge partnership",
+      "description": "The Society of Dyers and Colourists (SDC) has partnered with the Society of Leather Technologists and Chemists (SLTC) to strengthen \nThe post Colour and leather societies forge partnership appeared...",
+      "url": "https://www.ecotextile.com/2026111167219/radar/colour-and-leather-societies-forge-partnership/",
+      "publishedAt": "2026-11-11T12:13:01",
+      "content": "The Society of Dyers and Colourists (SDC) has partnered with the Society of Leather Technologists and Chemists (SLTC) to strengthen \nThe post Colour and leather societies forge partnership appeared..."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "BBVA Sustainable Finance Activity Jumps 27% to €120 Billion",
-      "description": "Spanish bank BBVA announced a significant increase in its sustainable finance activity in the first",
-      "url": "https://www.esgtoday.com/bbva-sustainable-finance-activity-jumps-27-to-e120-billion/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-sustainable-finance-activity-jumps-27-to-e120-billion",
-      "publishedAt": "2026-11-09T14:23:47",
-      "content": "Spanish bank BBVA announced a significant increase in its sustainable finance activity in the first"
+      "title": "RWE, KKR Secure Record $17 Billion Financing to Build Major UK Offshore Wind Projects",
+      "description": "German power producer RWE and alternative asset manager KKR announced on Wednesday that they have",
+      "url": "https://www.esgtoday.com/rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects/?utm_source=rss&utm_medium=rss&utm_campaign=rwe-kkr-secure-record-17-billion-financing-to-build-major-uk-offshore-wind-projects",
+      "publishedAt": "2026-11-11T10:35:41",
+      "content": "German power producer RWE and alternative asset manager KKR announced on Wednesday that they have"
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
+      "description": "Roads around the COP31 venue have been closed so that 40 leaders - including Lula, Erdoğan and Albanese - can address the UN climate summit in Antalya\nThe post COP31 Bulletin Day 3: With the people...",
+      "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
+      "publishedAt": "2026-11-11T10:31:13",
+      "content": "Roads around the COP31 venue have been closed so that 40 leaders - including Lula, Erdoğan and Albanese - can address the UN climate summit in Antalya\nThe post COP31 Bulletin Day 3: With the people..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Children’s Place seeks buyer through bankruptcy",
+      "description": "US childrenswear retailer The Children’s Place has filed for bankruptcy protection, seeking a buyer while requesting court approval to continue \nThe post Children’s Place seeks buyer through bankru...",
+      "url": "https://www.ecotextile.com/2026111167203/radar/childrens-place-seeks-buyer-through-bankruptcy/",
+      "publishedAt": "2026-11-11T09:58:59",
+      "content": "US childrenswear retailer The Children’s Place has filed for bankruptcy protection, seeking a buyer while requesting court approval to continue \nThe post Children’s Place seeks buyer through bankru..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "World Collective launches pooled sourcing portal",
+      "description": "World Collective has launched a sourcing portal allowing fashion brands to pool orders and access materials whose minimum order quantities \nThe post World Collective launches pooled sourcing portal...",
+      "url": "https://www.ecotextile.com/2026111167201/radar/world-collective-launches-pooled-sourcing-portal/",
+      "publishedAt": "2026-11-11T09:55:24",
+      "content": "World Collective has launched a sourcing portal allowing fashion brands to pool orders and access materials whose minimum order quantities \nThe post World Collective launches pooled sourcing portal..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Trailblazer opens applications for fashion innovators",
+      "description": "Global Fashion Agenda (GFA) and PDS Ventures have opened applications for their 2027 Trailblazer Programme, offering one winner an investment \nThe post Trailblazer opens applications for fashion in...",
+      "url": "https://www.ecotextile.com/2026111167197/radar/trailblazer-opens-applications-for-fashion-innovators/",
+      "publishedAt": "2026-11-11T09:48:55",
+      "content": "Global Fashion Agenda (GFA) and PDS Ventures have opened applications for their 2027 Trailblazer Programme, offering one winner an investment \nThe post Trailblazer opens applications for fashion in..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Cotton sourcing faces renewed tariff uncertainty",
+      "description": "US apparel sourcing faces continued tariff uncertainty, despite stable underlying cotton clothing import costs, according to Cotton Incorporated’s November Executive \nThe post Cotton sourcing faces...",
+      "url": "https://www.ecotextile.com/2026111167191/radar/cotton-sourcing-faces-renewed-tariff-uncertainty/",
+      "publishedAt": "2026-11-11T09:41:30",
+      "content": "US apparel sourcing faces continued tariff uncertainty, despite stable underlying cotton clothing import costs, according to Cotton Incorporated’s November Executive \nThe post Cotton sourcing faces..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Bird flu has caused catastrophic die-offs – could a wave of extinctions follow?",
+      "description": "As the IUCN global conservation body prepares to update its red list of endangered species, scientists explain why calculating the true toll of a pandemic is so hardIt began with the brown skuas. T...",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/wildlife-bird-flu-killed-millions-animals-iucn-endangered-red-list-aoe",
+      "publishedAt": "2026-11-11T09:00:35",
+      "content": "As the IUCN global conservation body prepares to update its red list of endangered species, scientists explain why calculating the true toll of a pandemic is so hardIt began with the brown skuas. T..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Türkiye pushes “zero waste” at COP31, but is it delivering at home?",
+      "description": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports from Europe look set to boom\nThe post Türkiye pu...",
+      "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
+      "publishedAt": "2026-11-11T07:00:32",
+      "content": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports from Europe look set to boom\nThe post Türkiye pu..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
+      "description": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big fossil-fuel countries back Brazil-led transition ro...",
+      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
+      "publishedAt": "2026-11-10T17:26:10",
+      "content": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big fossil-fuel countries back Brazil-led transition ro..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "COP31 Meets the Overshoot Era",
+      "description": "Yesterday, delegates from about 200 countries arrived in Antalya, a resort city on Turkey’s Mediterranean coast, for the 31st United Nations climate summit. It is the first “Conference of Parties” ...",
+      "url": "https://insideclimatenews.org/news/10112026/cop31-meets-overshoot-era/",
+      "publishedAt": "2026-11-10T14:47:54",
+      "content": "Yesterday, delegates from about 200 countries arrived in Antalya, a resort city on Turkey’s Mediterranean coast, for the 31st United Nations climate summit. It is the first “Conference of Parties” ..."
     },
     {
       "source": {
@@ -128,28 +326,6 @@
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "‘I’m surrounded by millions of people but I could still die from the heat’ – This is climate breakdown",
-      "description": "He went to Saudi Arabia to perform the sacred hajj pilgrimage – then the heat came.",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/09/extreme-heat-mecca-hajj-pilgrimage-this-is-climate-breakdown-saudi-arabia",
-      "publishedAt": "2026-11-09T12:00:08",
-      "content": "He went to Saudi Arabia to perform the sacred hajj pilgrimage – then the heat came."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Scientists predict 2026 hottest year on record as climate talks begin",
-      "description": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens.",
-      "url": "https://www.bbc.co.uk/news/articles/c6pvgg7mdvdvo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T07:30:12",
-      "content": "Scientists are predictng this could be the hottest year on record as the COP31 climate summit opens."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
       "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
       "description": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absentAs the planet faces unprecedented human-caused global heating, heads of government are mee...",
       "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
@@ -169,25 +345,80 @@
     },
     {
       "source": {
-        "name": "Triple Pundit"
+        "name": "Good On You"
       },
-      "author": "Triple Pundit",
-      "title": "Where the Rubber Meets the Road: Recycled Tires Make Roads Quieter, Greener and Longer Lasting",
-      "description": "Rubber-modified asphalt made with tires is shown to reduce traffic noise, improve vehicle fuel economy, and create fewer lifecycle emissions compared to conventional asphalt. It also provides a via...",
-      "url": "https://triplepundit.com/2026/rubber-modified-asphalt-recycled-tires-quieter-roads/",
-      "publishedAt": "2026-11-05T16:25:23",
-      "content": "Rubber-modified asphalt made with tires is shown to reduce traffic noise, improve vehicle fuel economy, and create fewer lifecycle emissions compared to conventional asphalt. It also provides a via..."
+      "author": "Good On You",
+      "title": "50+ more sustainable ideas for Christmas gifts and holiday presents",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
+      "publishedAt": "2026-11-04T23:00:07",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cop31 live: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
+      "description": "Third day of UN talks begin but leaders of many big polluting nations absentAfter a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from ...",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
+      "publishedAt": "2026-11-11T12:53:57",
+      "content": "Third day of UN talks begin but leaders of many big polluting nations absentAfter a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from ..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "COP31 Meets the Overshoot Era",
-      "description": "Yesterday, delegates from about 200 countries arrived in Antalya, a resort city on Turkey’s Mediterranean coast, for the 31st United Nations climate summit. It is the first “Conference of Parties” ...",
-      "url": "https://insideclimatenews.org/news/10112026/cop31-meets-overshoot-era/",
-      "publishedAt": "2026-11-10T14:47:54",
-      "content": "Yesterday, delegates from about 200 countries arrived in Antalya, a resort city on Turkey’s Mediterranean coast, for the 31st United Nations climate summit. It is the first “Conference of Parties” ..."
+      "title": "The Pace of Everglades Restoration Has Accelerated. But Is It Working?",
+      "description": "A historic restoration of Florida’s Everglades is proceeding at an unprecedented pace, although more scientific analysis is needed to understand how the fragile watershed is responding to the multi...",
+      "url": "https://insideclimatenews.org/news/11112026/everglades-restoration-effectiveness-report/",
+      "publishedAt": "2026-11-11T10:00:00",
+      "content": "A historic restoration of Florida’s Everglades is proceeding at an unprecedented pace, although more scientific analysis is needed to understand how the fragile watershed is responding to the multi..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Why are Britain's streets still so polluted? Because the car industry dinosaurs do what they like, and politicians let them | George Monbiot",
+      "description": "The transition to electric vehicles should be moving apace, but it is not.",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/britain-streets-polluted-car-industry-electric-vehicles-transition",
+      "publishedAt": "2026-11-11T06:00:31",
+      "content": "The transition to electric vehicles should be moving apace, but it is not."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Could this be the most beautiful fungus in the UK? | Sarah Lambert",
+      "description": "Upwood, Cambridgeshire: This woodland is a stronghold for elm trees – and that brings the prospect of finding a stunning rarity, the wrinkled peachAbove me, a lively breeze moves through the tall e...",
+      "url": "https://www.theguardian.com/environment/2026/nov/11/country-diary-could-this-be-the-most-beautiful-fungus-in-the-uk",
+      "publishedAt": "2026-11-11T05:30:29",
+      "content": "Upwood, Cambridgeshire: This woodland is a stronghold for elm trees – and that brings the prospect of finding a stunning rarity, the wrinkled peachAbove me, a lively breeze moves through the tall e..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+      "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-11T00:35:14",
+      "content": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Japan urged to ditch fossil fuel support to maximise clean-tech exports",
+      "description": "Japan could be one of the big winners of Asia's electrification push, but it must radically pivot its policies away from propping up fossil fuels, a new analysis says\nThe post Japan urged to ditch ...",
+      "url": "https://www.climatechangenews.com/2026/11/10/japan-urged-to-ditch-fossil-fuel-support-to-maximise-clean-tech-exports/",
+      "publishedAt": "2026-11-10T15:14:13",
+      "content": "Japan could be one of the big winners of Asia's electrification push, but it must radically pivot its policies away from propping up fossil fuels, a new analysis says\nThe post Japan urged to ditch ..."
     },
     {
       "source": {
@@ -202,14 +433,14 @@
     },
     {
       "source": {
-        "name": "Ecotextile"
+        "name": "CSRWire"
       },
-      "author": "Ecotextile",
-      "title": "Inditex backs $400m supplier fund",
-      "description": "Inditex and the International Finance Corporation are leading a new $400 million fund to finance improvements across textile supply chains \nThe post Inditex backs $400m supplier fund appeared first...",
-      "url": "https://www.ecotextile.com/2026111067179/news/shows-events/inditex-backs-400m-supplier-fund/",
-      "publishedAt": "2026-11-10T11:47:01",
-      "content": "Inditex and the International Finance Corporation are leading a new $400 million fund to finance improvements across textile supply chains \nThe post Inditex backs $400m supplier fund appeared first..."
+      "author": "CSRWire",
+      "title": "Sustained Health Equity Progress Lifts Boehringer To Rank 6th in Access to Medicine Index",
+      "description": "Boehringer Ingelheim has advanced to 6th place in the 2026 Access to Medicine Index (ATMI), continuing its rise from 13th in 2022 and 8th in 2024.",
+      "url": "https://csrwire.com/press-release/sustained-health-equity-progress-lifts-boehringer-rank-6th-access-medicine-index/",
+      "publishedAt": "2026-11-10T12:10:00",
+      "content": "Boehringer Ingelheim has advanced to 6th place in the 2026 Access to Medicine Index (ATMI), continuing its rise from 13th in 2022 and 8th in 2024."
     },
     {
       "source": {
@@ -224,69 +455,14 @@
     },
     {
       "source": {
-        "name": "Ecotextile"
+        "name": "CSRWire"
       },
-      "author": "Ecotextile",
-      "title": "Lululemon launches enzyme-recycled polyester running shorts",
-      "description": "Lululemon has launched two running shorts incorporating enzymatically recycled polyester, extending its collaboration with Australian recycling technology company Samsara Eco. \nThe post Lululemon l...",
-      "url": "https://www.ecotextile.com/2026111067176/radar/lululemon-launches-enzyme-recycled-polyester-running-shorts/",
-      "publishedAt": "2026-11-10T10:58:26",
-      "content": "Lululemon has launched two running shorts incorporating enzymatically recycled polyester, extending its collaboration with Australian recycling technology company Samsara Eco. \nThe post Lululemon l..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Bangladesh garment owners demand pricing reform",
-      "description": "Bangladesh’s garment manufacturers have reportedly called for minimum buying prices covering wages and compliance costs among 11 demands submitted to \nThe post Bangladesh garment owners demand pric...",
-      "url": "https://www.ecotextile.com/2026111067174/radar/bangladesh-garment-owners-demand-pricing-reform/",
-      "publishedAt": "2026-11-10T10:50:31",
-      "content": "Bangladesh’s garment manufacturers have reportedly called for minimum buying prices covering wages and compliance costs among 11 demands submitted to \nThe post Bangladesh garment owners demand pric..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Light-powered filter targets polyester microplastics",
-      "description": "Spanish researchers report complete removal of polyester microplastics in lab trials, but testing leaves practical questions unresolved VALENCIA — Spanish \nThe post Light-powered filter targets pol...",
-      "url": "https://www.ecotextile.com/2026111067171/news/materials-production-news/light-powered-filter-targets-polyester-microplastics/",
-      "publishedAt": "2026-11-10T10:35:19",
-      "content": "Spanish researchers report complete removal of polyester microplastics in lab trials, but testing leaves practical questions unresolved VALENCIA — Spanish \nThe post Light-powered filter targets pol..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Circulose changes chief as recycling resumes",
-      "description": "Amanda Geijer will replace Jonatan Janmark on an interim basis as the recycler restarts production at its Swedish plant SUNDSVALL \nThe post Circulose changes chief as recycling resumes appeared fir...",
-      "url": "https://www.ecotextile.com/2026111067167/news/shows-events/circulose-changes-chief-as-recycling-resumes/",
-      "publishedAt": "2026-11-10T10:25:52",
-      "content": "Amanda Geijer will replace Jonatan Janmark on an interim basis as the recycler restarts production at its Swedish plant SUNDSVALL \nThe post Circulose changes chief as recycling resumes appeared fir..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Arvind takes low waste 3D weaving into factories",
-      "description": "Two machines will bring yarn-to-garment weaving into industrial production, with further expansion planned as brands place orders AHMEDABAD — Indian \nThe post Arvind takes low waste 3D weaving into...",
-      "url": "https://www.ecotextile.com/2026111067164/news/shows-events/arvind-takes-low-waste-3d-weaving-into-factories/",
-      "publishedAt": "2026-11-10T10:15:56",
-      "content": "Two machines will bring yarn-to-garment weaving into industrial production, with further expansion planned as brands place orders AHMEDABAD — Indian \nThe post Arvind takes low waste 3D weaving into..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "UK to legislate on forced labour",
-      "description": "The UK Government will introduce mandatory human rights due diligence legislation to tackle forced labour in supply chains, following sustained \nThe post UK to legislate on forced labour appeared f...",
-      "url": "https://www.ecotextile.com/2026111067162/radar/uk-to-legislate-on-forced-labour/",
-      "publishedAt": "2026-11-10T09:56:58",
-      "content": "The UK Government will introduce mandatory human rights due diligence legislation to tackle forced labour in supply chains, following sustained \nThe post UK to legislate on forced labour appeared f..."
+      "author": "CSRWire",
+      "title": "Leidos Launches Agentic AI Platform To Speed Response to Cyber Threats",
+      "description": "Leidos (NYSE: LDOS) is introducing UpHold Effect™ Agentic SOC Automation, a capability that uses AI agents around the clock to help security operations center teams identify threats requiring immed...",
+      "url": "https://csrwire.com/press-release/leidos-launches-agentic-ai-platform-speed-response-cyber-threats/",
+      "publishedAt": "2026-11-10T10:05:00",
+      "content": "Leidos (NYSE: LDOS) is introducing UpHold Effect™ Agentic SOC Automation, a capability that uses AI agents around the clock to help security operations center teams identify threats requiring immed..."
     },
     {
       "source": {
@@ -323,28 +499,6 @@
     },
     {
       "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Polyester prices squeeze Indorama’s textile fibres",
-      "description": "Indorama Ventures reported weaker demand for apparel and activewear fibres in the third quarter, as higher polyester prices encouraged customers \nThe post Polyester prices squeeze Indorama’s textil...",
-      "url": "https://www.ecotextile.com/2026111067157/radar/polyester-prices-squeeze-indoramas-textile-fibres/",
-      "publishedAt": "2026-11-10T08:19:27",
-      "content": "Indorama Ventures reported weaker demand for apparel and activewear fibres in the third quarter, as higher polyester prices encouraged customers \nThe post Polyester prices squeeze Indorama’s textil..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Alien menace or victim of xenophobia? The battle over Britain’s parakeets",
-      "description": "Established in UK cities for decades and much loved for their green plumage, the Himalayan birds have been recast as an ecological threat.",
-      "url": "https://www.theguardian.com/news/2026/nov/10/alien-menace-or-victim-of-xenophobia-the-battle-over-britains-parakeets",
-      "publishedAt": "2026-11-10T05:00:29",
-      "content": "Established in UK cities for decades and much loved for their green plumage, the Himalayan birds have been recast as an ecological threat."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -356,105 +510,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Circularity Fuels Raises $7 Million to Turn Dairy Biogas into Clean Jet Fuel",
-      "description": "Sustainable fuels technology developer Circularity Fuels announced that it has raised $7 million in a",
-      "url": "https://www.esgtoday.com/circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel/?utm_source=rss&utm_medium=rss&utm_campaign=circularity-fuels-raises-7-million-to-turn-dairy-biogas-into-clean-jet-fuel",
-      "publishedAt": "2026-11-09T11:43:49",
-      "content": "Sustainable fuels technology developer Circularity Fuels announced that it has raised $7 million in a"
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "How climate change worsens heatwaves, droughts, wildfires and floods",
-      "description": "Rising global temperatures mean extreme weather events are becoming more common and more intense.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4dgp1p3p1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T16:43:30",
-      "content": "Rising global temperatures mean extreme weather events are becoming more common and more intense."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Nepal seeks stronger recognition of mountain issues in UN climate process",
-      "description": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe post Nepal seeks stronger recognition of mounta...",
-      "url": "https://www.climatechangenews.com/2026/11/06/nepal-seeks-stronger-recognition-of-mountain-issues-in-un-climate-process/",
-      "publishedAt": "2026-11-06T14:57:02",
-      "content": "Flood-hit Nepal wants COP31 to adopt a new agenda item formalising work on mountains and climate change and boosting the response to rising risks\nThe post Nepal seeks stronger recognition of mounta..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "50+ more sustainable ideas for Christmas gifts and holiday presents",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
-      "publishedAt": "2026-11-04T23:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Japan urged to ditch fossil fuel support to maximise clean-tech exports",
-      "description": "Japan could be one of the big winners of Asia's electrification push, but it must radically pivot its policies away from propping up fossil fuels, a new analysis says\nThe post Japan urged to ditch ...",
-      "url": "https://www.climatechangenews.com/2026/11/10/japan-urged-to-ditch-fossil-fuel-support-to-maximise-clean-tech-exports/",
-      "publishedAt": "2026-11-10T15:14:13",
-      "content": "Japan could be one of the big winners of Asia's electrification push, but it must radically pivot its policies away from propping up fossil fuels, a new analysis says\nThe post Japan urged to ditch ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "This small Alaska town is swamped by cruise ship visitors every summer. But what happens when they all go home?",
-      "description": "Skagway’s 1,100 permanent residents are caught between a boom time – when the ships bring more than a million tourists – and a lull in winterOctober comes to the small Alaska coastal town of Skagwa...",
-      "url": "https://www.theguardian.com/environment/2026/nov/10/alaska-skagway-community-cruise-ship-tourism-housing",
-      "publishedAt": "2026-11-10T13:00:52",
-      "content": "Skagway’s 1,100 permanent residents are caught between a boom time – when the ships bring more than a million tourists – and a lull in winterOctober comes to the small Alaska coastal town of Skagwa..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 2: Energy Day off to slow start amid transport chaos",
-      "description": "Momentum starts to build around the COP31 presidency's electrification pledge, while the UN chief calls on all countries to plan their transition away from fossil fuels\nThe post COP31 Bulletin Day ...",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
-      "publishedAt": "2026-11-10T12:21:33",
-      "content": "Momentum starts to build around the COP31 presidency's electrification pledge, while the UN chief calls on all countries to plan their transition away from fossil fuels\nThe post COP31 Bulletin Day ..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 outcome needs to prioritise transition away from fossil fuels",
-      "description": "Many countries are already working on parts of their transition, such as phasing out coal or ending fossil fuel subsidies, with more expected to follow soon\nThe post COP31 outcome needs to prioriti...",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-outcome-needs-to-prioritise-transition-away-from-fossil-fuels/",
-      "publishedAt": "2026-11-10T09:36:39",
-      "content": "Many countries are already working on parts of their transition, such as phasing out coal or ending fossil fuel subsidies, with more expected to follow soon\nThe post COP31 outcome needs to prioriti..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Alabama Power Lawyer Calls Landowner’s Statements, Stance ‘Ridiculous Stuff’",
-      "description": "COLUMBIANA, Ala.",
-      "url": "https://insideclimatenews.org/news/09112026/landowner-fights-alabama-power-transmission-construction/",
-      "publishedAt": "2026-11-10T00:20:44",
-      "content": "COLUMBIANA, Ala."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -463,17 +518,6 @@
       "url": "https://csrwire.com/press-release/what-wild-hearts-reveal/",
       "publishedAt": "2026-11-09T14:30:00",
       "content": "On a winter day in northern Minnesota, a black bear does something that would terrify a human cardiologist: she settles into hibernation."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Anchor Energy Partners Launches Debut €75 Million Fund to Target Energy Storage and Flexibility Opportunities",
-      "description": "Newly formed investment platform Anchor Energy Partners announced today the launch of its first fund,",
-      "url": "https://www.esgtoday.com/anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities/?utm_source=rss&utm_medium=rss&utm_campaign=anchor-energy-partners-launches-debut-e75-million-fund-to-target-energy-storage-and-flexibility-opportunities",
-      "publishedAt": "2026-11-09T13:34:57",
-      "content": "Newly formed investment platform Anchor Energy Partners announced today the launch of its first fund,"
     },
     {
       "source": {
@@ -499,17 +543,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Britain’s Data Center Boom Meets Growing Resistance",
-      "description": "Ambily Banerjee moved to Langley, in the borough of Slough, 18 miles west of London, for its good schools and green spaces.",
-      "url": "https://insideclimatenews.org/news/09112026/britain-data-center-resistance/",
-      "publishedAt": "2026-11-09T09:55:00",
-      "content": "Ambily Banerjee moved to Langley, in the borough of Slough, 18 miles west of London, for its good schools and green spaces."
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -521,6 +554,50 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition",
+      "description": "The COP31 presidency whips up support for its 35x35 electrification goal, while the UN chief calls on all countries to plan their shift away from fossil fuels\nThe post COP31 Bulletin Day 2: Momentu...",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
+      "publishedAt": "2026-11-10T12:21:33",
+      "content": "The COP31 presidency whips up support for its 35x35 electrification goal, while the UN chief calls on all countries to plan their shift away from fossil fuels\nThe post COP31 Bulletin Day 2: Momentu..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "El Niño Is Hitting California Hard",
+      "description": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast.",
+      "url": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
+      "publishedAt": "2026-11-10T10:00:54",
+      "content": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 outcome needs to prioritise transition away from fossil fuels",
+      "description": "Many countries are already working on parts of their transition, such as phasing out coal or ending fossil fuel subsidies, with more expected to follow soon\nThe post COP31 outcome needs to prioriti...",
+      "url": "https://www.climatechangenews.com/2026/11/10/cop31-outcome-needs-to-prioritise-transition-away-from-fossil-fuels/",
+      "publishedAt": "2026-11-10T09:36:39",
+      "content": "Many countries are already working on parts of their transition, such as phasing out coal or ending fossil fuel subsidies, with more expected to follow soon\nThe post COP31 outcome needs to prioriti..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama Power Lawyer Calls Landowner’s Statements, Stance ‘Ridiculous Stuff’",
+      "description": "This article has been updated to include Circuit Court Judge Jonathan Spann’s ruling on Tuesday afternoon.",
+      "url": "https://insideclimatenews.org/news/09112026/landowner-fights-alabama-power-transmission-construction/",
+      "publishedAt": "2026-11-10T00:20:44",
+      "content": "This article has been updated to include Circuit Court Judge Jonathan Spann’s ruling on Tuesday afternoon."
+    },
+    {
+      "source": {
         "name": "Good On You"
       },
       "author": "Good On You",
@@ -529,28 +606,6 @@
       "url": "https://goodonyou.eco/ethical-boots/",
       "publishedAt": "2026-11-08T23:00:04",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Unrelenting Ordeal of Wildfire Recovery",
-      "description": "Second of two stories about the effort to support Lahaina fire survivors’ health in the long, hard aftermath.",
-      "url": "https://insideclimatenews.org/news/08112026/maui-family-wildfire-recovery/",
-      "publishedAt": "2026-11-08T10:05:00",
-      "content": "Second of two stories about the effort to support Lahaina fire survivors’ health in the long, hard aftermath."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Scientists Fighting to Help Wildfire Survivors Heal",
-      "description": "First of two stories about the effort to support Lahaina fire survivors’ health in the disaster’s long, hard aftermath.",
-      "url": "https://insideclimatenews.org/news/08112026/maui-wildfire-exposure-study-public-health/",
-      "publishedAt": "2026-11-08T10:00:00",
-      "content": "First of two stories about the effort to support Lahaina fire survivors’ health in the disaster’s long, hard aftermath."
     },
     {
       "source": {
@@ -573,39 +628,6 @@
       "url": "https://csrwire.com/press-release/curiosity-action-celebrating-15-years-hands-stem-learning/",
       "publishedAt": "2026-11-06T13:35:00",
       "content": "Every child should have the opportunity to discover what they’re capable of—to ask questions, explore possibilities and gain the confidence to bring their own ideas to life."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "European nations signal support for fossil fuel roadmap, says COP30 president",
-      "description": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post European nations signal support for fossil fuel ...",
-      "url": "https://www.climatechangenews.com/2026/11/06/european-nations-uk-fossil-fuel-roadmaps-brazil-cop30-president/",
-      "publishedAt": "2026-11-06T12:44:50",
-      "content": "André Corrêa do Lago told Climate Home News that it's up to other nations to decide how the fossil fuel and deforestation roadmaps are used\nThe post European nations signal support for fossil fuel ..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "How Advanced Connectivity Can Help Electrify Society",
-      "description": "The AI supercycle is changing the way the world’s energy systems operate.",
-      "url": "https://csrwire.com/press-release/how-advanced-connectivity-can-help-electrify-society/",
-      "publishedAt": "2026-11-05T10:05:00",
-      "content": "The AI supercycle is changing the way the world’s energy systems operate."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "The Next 25 Years of Airport Security",
-      "description": "In a recent article, Darby LaJoye, Leidos vice president of Airports, Borders and Security, reflects on how airport security has evolved since Sept. 11, 2001, and what the next 25 years could bring.",
-      "url": "https://csrwire.com/press-release/next-25-years-airport-security/",
-      "publishedAt": "2026-11-04T13:05:00",
-      "content": "In a recent article, Darby LaJoye, Leidos vice president of Airports, Borders and Security, reflects on how airport security has evolved since Sept. 11, 2001, and what the next 25 years could bring."
     }
   ]
 }
