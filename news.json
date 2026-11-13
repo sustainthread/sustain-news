@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 45,
+  "totalResults": 58,
   "articles": [
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU Commission Releases Draft Sustainability Reporting Assurance Standards",
+      "description": "The European Commission announced today the launch of a consultation on a newly released draft",
+      "url": "https://www.esgtoday.com/eu-commission-releases-draft-sustainability-reporting-assurance-standards/?utm_source=rss&utm_medium=rss&utm_campaign=eu-commission-releases-draft-sustainability-reporting-assurance-standards",
+      "publishedAt": "2026-11-12T15:33:42",
+      "content": "The European Commission announced today the launch of a consultation on a newly released draft"
+    },
     {
       "source": {
         "name": "ESG Today"
@@ -12,6 +23,17 @@
       "url": "https://www.esgtoday.com/just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=just-climate-raises-540-million-for-agriculture-focused-decarbonization-solutions-fund",
       "publishedAt": "2026-11-12T10:34:31",
       "content": "Climate solutions-focused investment business Just Climate announced that it has raised $540 million in commitments"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amazon Launches Product Carbon Footprinting Solution",
+      "description": "Amazon announced the release of its product carbon footprint (PCF) tool on its Sustainability Exchange",
+      "url": "https://www.esgtoday.com/amazon-launches-product-carbon-footprinting-solution/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-product-carbon-footprinting-solution",
+      "publishedAt": "2026-11-13T12:50:45",
+      "content": "Amazon announced the release of its product carbon footprint (PCF) tool on its Sustainability Exchange"
     },
     {
       "source": {
@@ -29,33 +51,11 @@
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Climate Asset Management Appoints Former HSBC AM Sustainability Head Erin Leonard as New CEO",
-      "description": "Natural capital investment firm Climate Asset Management has appointed Erin Leonard, formerly HSBC Asset Management’s",
-      "url": "https://www.esgtoday.com/climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo/?utm_source=rss&utm_medium=rss&utm_campaign=climate-asset-management-appoints-former-hsbc-am-sustainability-head-erin-leonard-as-new-ceo",
-      "publishedAt": "2026-11-11T13:32:25",
-      "content": "Natural capital investment firm Climate Asset Management has appointed Erin Leonard, formerly HSBC Asset Management’s"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Amazon Launches Program to Speed Adoption of Sustainable Solutions Across AWS, Devices, Brands",
-      "description": "Amazon announced the launch of the Amazon Sustainability Deep Tech Accelerator, a new program designed",
-      "url": "https://www.esgtoday.com/amazon-launches-program-to-speed-adoption-of-sustainable-solutions-across-aws-devices-brands/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-launches-program-to-speed-adoption-of-sustainable-solutions-across-aws-devices-brands",
-      "publishedAt": "2026-11-11T14:59:19",
-      "content": "Amazon announced the launch of the Amazon Sustainability Deep Tech Accelerator, a new program designed"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Cop31 live: ‘No one is coming to rescue us,’ Greta Thunberg tells climate summit",
-      "description": "World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third dayZack Polanski, leader of the Green party in the UK, criticised Andy Burnham’s...",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/12/cop31-the-crisis-is-upon-us-now-burnham-due-to-tell-climate-summit",
-      "publishedAt": "2026-11-12T13:51:03",
-      "content": "World leaders including UK prime minister Andy Burnham are addressing the summit today, as talks head into the third dayZack Polanski, leader of the Green party in the UK, criticised Andy Burnham’s..."
+      "title": "How Can We Finance COP31’s Electrification Plan?",
+      "description": "Guest post by: Tsvetelina Kuzmanova, EU Sustainable Finance Policy Lead, Cambridge Institute for Sustainability Leadership",
+      "url": "https://www.esgtoday.com/how-can-we-finance-cop31s-electrification-plan/?utm_source=rss&utm_medium=rss&utm_campaign=how-can-we-finance-cop31s-electrification-plan",
+      "publishedAt": "2026-11-13T09:47:16",
+      "content": "Guest post by: Tsvetelina Kuzmanova, EU Sustainable Finance Policy Lead, Cambridge Institute for Sustainability Leadership"
     },
     {
       "source": {
@@ -70,17 +70,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Turkey Promotes Itself as a Climate Champion. Not Everyone Agrees.",
-      "description": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit.",
-      "url": "https://www.nytimes.com/2026/11/10/world/europe/turkey-erdogan-cop31-climate.html",
-      "publishedAt": "2026-11-10T10:01:42",
-      "content": "Critics say some of the country’s environmental policies run counter to the image it is offering as host of a United Nations climate summit."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -89,6 +78,50 @@
       "url": "https://www.esgtoday.com/nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds/?utm_source=rss&utm_medium=rss&utm_campaign=nordea-am-eq-investors-launch-new-sustainability-focused-multi-asset-funds",
       "publishedAt": "2026-11-12T13:45:08",
       "content": "UK-based investment manager EQ Investors and Nordic asset manager Nordea Asset Management announced the launch"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cop31 live: ‘I will never give up’ UN chief tells climate summit ahead of last address",
+      "description": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summitFar away from the conference centre, Norway’...",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "publishedAt": "2026-11-13T13:17:46",
+      "content": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summitFar away from the conference centre, Norway’..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Nepal’s climate suffering should pave the way for a safe and fair future",
+      "description": "Young people in Nepal are seeking international solidarity from COP31 to help our nation tackle the worsening climate disasters knocking at all of our doors\nThe post Nepal’s climate suffering shoul...",
+      "url": "https://www.climatechangenews.com/2026/11/13/nepals-climate-suffering-must-pave-the-way-for-a-safe-and-fair-future/",
+      "publishedAt": "2026-11-13T12:33:06",
+      "content": "Young people in Nepal are seeking international solidarity from COP31 to help our nation tackle the worsening climate disasters knocking at all of our doors\nThe post Nepal’s climate suffering shoul..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "We must strengthen trade cooperation to deliver on global climate goals",
+      "description": "As governments turn to trade-related measures to deliver on their climate targets, cooperation is vital to reduce fragmentation, costs and build more resilient economies\nThe post We must strengthen...",
+      "url": "https://www.climatechangenews.com/2026/11/13/we-must-strengthen-trade-cooperation-to-deliver-on-global-climate-goals/",
+      "publishedAt": "2026-11-13T04:00:00",
+      "content": "As governments turn to trade-related measures to deliver on their climate targets, cooperation is vital to reduce fragmentation, costs and build more resilient economies\nThe post We must strengthen..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Feds Greenlight Construction of Advanced Nuclear Reactors in Texas",
+      "description": "The Nuclear Regulatory Commission this week issued a permit for construction of four next-generation nuclear reactors at a petrochemical complex on the rural Gulf Coast of Texas.  The Long Mott Gen...",
+      "url": "https://insideclimatenews.org/news/12112026/texas-dow-nuclear-plant-greenlit/",
+      "publishedAt": "2026-11-12T18:18:03",
+      "content": "The Nuclear Regulatory Commission this week issued a permit for construction of four next-generation nuclear reactors at a petrochemical complex on the rural Gulf Coast of Texas.  The Long Mott Gen..."
     },
     {
       "source": {
@@ -103,14 +136,25 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "‘I was home alone when the glacier collapsed. My mum called and told me to run’ – This is climate breakdown",
-      "description": "She was sleeping in when the house started shaking.",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/12/nepal-tibet-flood-bidur-this-is-climate-breakdown",
-      "publishedAt": "2026-11-12T12:00:48",
-      "content": "She was sleeping in when the house started shaking."
+      "author": "CSRWire",
+      "title": "The Engineering Behind a Beauty Icon: How Mary Kay Is Advancing More Sustainable Packaging",
+      "description": "A familiar package can look simple on a bathroom counter.",
+      "url": "https://csrwire.com/press-release/engineering-behind-beauty-icon-how-mary-kay-advancing-more-sustainable-packaging/",
+      "publishedAt": "2026-11-11T08:00:00",
+      "content": "A familiar package can look simple on a bathroom counter."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "CleanDye CO₂ dyeing business fails",
+      "description": "Vietnam-based waterless dyeing venture CleanDye has said it could not sustain operations, despite environmental gains HO CHI MINH CITY – CleanDye \nThe post CleanDye CO₂ dyeing business fails appear...",
+      "url": "https://www.ecotextile.com/2026111367284/news/shows-events/cleandye-co%e2%82%82-dyeing-business-fails/",
+      "publishedAt": "2026-11-13T11:07:03",
+      "content": "Vietnam-based waterless dyeing venture CleanDye has said it could not sustain operations, despite environmental gains HO CHI MINH CITY – CleanDye \nThe post CleanDye CO₂ dyeing business fails appear..."
     },
     {
       "source": {
@@ -147,91 +191,69 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "Ecotextile"
       },
-      "author": "ESG Today",
-      "title": "Levi Strauss Appoints Jeannie Renné-Malone as New Chief Sustainability Officer",
-      "description": "Levi Strauss & Co. (LS&Co.) announced the appointment of Jeannie Renné-Malone as its new Chief",
-      "url": "https://www.esgtoday.com/levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=levi-strauss-appoints-jeannie-renne-malone-as-new-chief-sustainability-officer",
-      "publishedAt": "2026-11-11T14:03:33",
-      "content": "Levi Strauss & Co. (LS&Co.) announced the appointment of Jeannie Renné-Malone as its new Chief"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
-      "description": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfieldComment: KKR and RWE are rich firms.",
-      "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
-      "publishedAt": "2026-11-11T09:46:18",
-      "content": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfieldComment: KKR and RWE are rich firms."
+      "author": "Ecotextile",
+      "title": "Ghana targets global exports with US$1bn textile investment",
+      "description": "Ghana’s government is to invest US$1 billion in the textile and garment industry between 2027 and 2030 as it aims \nThe post Ghana targets global exports with US$1bn textile investment appeared firs...",
+      "url": "https://www.ecotextile.com/2026111367297/radar/ghana-targets-global-exports-with-us1bn-textile-investment/",
+      "publishedAt": "2026-11-13T12:48:50",
+      "content": "Ghana’s government is to invest US$1 billion in the textile and garment industry between 2027 and 2030 as it aims \nThe post Ghana targets global exports with US$1bn textile investment appeared firs..."
     },
     {
       "source": {
         "name": "Ecotextile"
       },
       "author": "Ecotextile",
-      "title": "BGMEA explores waste platform tie-up",
-      "description": "Bangladesh’s apparel body has held talks with Wire Waste on a platform to connect manufacturers, waste collectors and recyclers DHAKA \nThe post BGMEA explores waste platform tie-up appeared first o...",
-      "url": "https://www.ecotextile.com/2026111267251/news/shows-events/bgmea-explores-waste-platform-tie-up/",
-      "publishedAt": "2026-11-12T12:01:52",
-      "content": "Bangladesh’s apparel body has held talks with Wire Waste on a platform to connect manufacturers, waste collectors and recyclers DHAKA \nThe post BGMEA explores waste platform tie-up appeared first o..."
+      "title": "West African cotton seeks market gains",
+      "description": "West African cotton’s share of the Bangladeshi market fell from 40% to 28% last season as Brazilian cotton expanded, according \nThe post West African cotton seeks market gains appeared first on Eco...",
+      "url": "https://www.ecotextile.com/2026111367291/radar/west-african-cotton-seeks-market-gains/",
+      "publishedAt": "2026-11-13T11:32:08",
+      "content": "West African cotton’s share of the Bangladeshi market fell from 40% to 28% last season as Brazilian cotton expanded, according \nThe post West African cotton seeks market gains appeared first on Eco..."
     },
     {
       "source": {
         "name": "Ecotextile"
       },
       "author": "Ecotextile",
-      "title": "M&S shifts Asia Pacific order fulfilment",
-      "description": "M&S has partnered with Global Fashion Group (GFG) to expand online clothing sales across Asia Pacific and fulfil regional orders \nThe post M&S shifts Asia Pacific order fulfilment appeared first on...",
-      "url": "https://www.ecotextile.com/2026111267258/radar/ms-shifts-asia-pacific-order-fulfilment/",
-      "publishedAt": "2026-11-12T11:15:19",
-      "content": "M&S has partnered with Global Fashion Group (GFG) to expand online clothing sales across Asia Pacific and fulfil regional orders \nThe post M&S shifts Asia Pacific order fulfilment appeared first on..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "First guidelines on attempts to manipulate the ocean put spotlight on geoengineering industry",
-      "description": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster of candy cane-striped smoke stacks dots the hori...",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/canada-climate-geoengineering-marine-carbon-credits-biology-ocean-alkalinity-enhancement",
-      "publishedAt": "2026-11-12T11:00:47",
-      "content": "Proponents argue ocean carbon removal is necessary to counteract the effects of the climate crisis but critics say more research is needed A cluster of candy cane-striped smoke stacks dots the hori..."
+      "title": "Hugo Boss CEO to be replaced by Frasers Group executive",
+      "description": "Hugo Boss has confirmed that Daniel Grieder is to step down as CEO and will be replaced by Frasers Group \nThe post Hugo Boss CEO to be replaced by Frasers Group executive appeared first on Ecotexti...",
+      "url": "https://www.ecotextile.com/2026111367288/radar/hugo-boss-ceo-to-be-replaced-by-frasers-group-executive/",
+      "publishedAt": "2026-11-13T11:20:39",
+      "content": "Hugo Boss has confirmed that Daniel Grieder is to step down as CEO and will be replaced by Frasers Group \nThe post Hugo Boss CEO to be replaced by Frasers Group executive appeared first on Ecotexti..."
     },
     {
       "source": {
         "name": "Ecotextile"
       },
       "author": "Ecotextile",
-      "title": "PFAS substitute disrupts zebrafish embryos",
-      "description": "Researchers identify metabolic and organ damage from exposure to PFBS, mooted as a PFAS replacement for textiles FUKUOKA — Researchers \nThe post PFAS substitute disrupts zebrafish embryos appeared ...",
-      "url": "https://www.ecotextile.com/2026111267255/news/materials-production-news/pfas-substitute-disrupts-zebrafish-embryos/",
-      "publishedAt": "2026-11-12T11:00:03",
-      "content": "Researchers identify metabolic and organ damage from exposure to PFBS, mooted as a PFAS replacement for textiles FUKUOKA — Researchers \nThe post PFAS substitute disrupts zebrafish embryos appeared ..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Burberry inventories rise as restructuring continues",
-      "description": "Burberry has reported higher inventories and further restructuring costs, mainly from redundancies and consultancy, as its turnaround returned first-half operating \nThe post Burberry inventories ri...",
-      "url": "https://www.ecotextile.com/2026111267248/radar/burberry-inventories-rise-as-restructuring-continues/",
-      "publishedAt": "2026-11-12T09:50:16",
-      "content": "Burberry has reported higher inventories and further restructuring costs, mainly from redundancies and consultancy, as its turnaround returned first-half operating \nThe post Burberry inventories ri..."
+      "title": "David Jones enters administration amid store cuts",
+      "description": "Australian department store David Jones has entered voluntary administration after talks with landlord Westfield failed, leaving its 188-year-old retail business \nThe post David Jones enters admini...",
+      "url": "https://www.ecotextile.com/2026111367281/radar/david-jones-enters-administration-amid-store-cuts/",
+      "publishedAt": "2026-11-13T10:46:22",
+      "content": "Australian department store David Jones has entered voluntary administration after talks with landlord Westfield failed, leaving its 188-year-old retail business \nThe post David Jones enters admini..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
-      "description": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million)",
-      "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss&utm_medium=rss&utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
-      "publishedAt": "2026-11-12T09:34:17",
-      "content": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million)"
+      "title": "EU Parliament, Council Strike Deal to Give Industry €10 Billion in Additional Free Carbon Allowances",
+      "description": "Lawmakers in the European Parliament and EU Member States announced that they reached a late-night",
+      "url": "https://www.esgtoday.com/eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances/?utm_source=rss&utm_medium=rss&utm_campaign=eu-parliament-council-strike-deal-to-give-industry-e10-billion-in-additional-free-carbon-allowances",
+      "publishedAt": "2026-11-13T10:42:29",
+      "content": "Lawmakers in the European Parliament and EU Member States announced that they reached a late-night"
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Italian labels face worker exploitation probe",
+      "description": "Fashion labels placed under court administration amid allegations that subcontractors exploited migrant garment workers PRATO – Italian fashion labels Patrizia \nThe post Italian labels face worker ...",
+      "url": "https://www.ecotextile.com/2026111367278/news/social-compliance-and-csr/italian-labels-face-worker-exploitation-probe/",
+      "publishedAt": "2026-11-13T10:34:18",
+      "content": "Fashion labels placed under court administration amid allegations that subcontractors exploited migrant garment workers PRATO – Italian fashion labels Patrizia \nThe post Italian labels face worker ..."
     },
     {
       "source": {
@@ -241,52 +263,30 @@
       "title": "Why climate finance remains a recurring flashpoint at UN summits",
       "description": "As climate negotiators meet in Türkiye, the familiar battle over climate finance exposes a deeper divide.",
       "url": "https://www.thehindu.com/business/why-the-same-climate-finance-dispute-returns-at-every-un-climate-summit/article71690224.ece",
-      "publishedAt": "2026-11-12T05:20:50",
+      "publishedAt": "2026-11-13T10:18:17",
       "content": "As climate negotiators meet in Türkiye, the familiar battle over climate finance exposes a deeper divide."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "H&M report sets out textile challenges for 2040",
-      "description": "H&M Foundation and Forum for the Future develop four scenarios exploring how different forces could shape textile industry by 2040 \nThe post H&M report sets out textile challenges for 2040 appeared...",
-      "url": "https://www.ecotextile.com/2026111167234/news/environment/hm-report-sets-out-textile-challenges-for-2040/",
-      "publishedAt": "2026-11-11T17:46:32",
-      "content": "H&M Foundation and Forum for the Future develop four scenarios exploring how different forces could shape textile industry by 2040 \nThe post H&M report sets out textile challenges for 2040 appeared..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Cascale report: Audit duplication persists for suppliers",
-      "description": "Manufacturer responses reveal that in 10% of cases, buyers do not accept any existing audit and require their own proprietary \nThe post Cascale report: Audit duplication persists for suppliers appe...",
-      "url": "https://www.ecotextile.com/2026111167232/news/social-compliance-and-csr/cascale-report-audit-duplication-persists-for-suppliers/",
-      "publishedAt": "2026-11-11T16:45:20",
-      "content": "Manufacturer responses reveal that in 10% of cases, buyers do not accept any existing audit and require their own proprietary \nThe post Cascale report: Audit duplication persists for suppliers appe..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "Rule 14a-8: Reform, Not Demolition",
-      "description": "Guest post by: Matthew Illian, Director of Responsible Investing, and Noah Tabor, General Counsel, United",
-      "url": "https://www.esgtoday.com/rule-14a-8-reform-not-demolition/?utm_source=rss&utm_medium=rss&utm_campaign=rule-14a-8-reform-not-demolition",
-      "publishedAt": "2026-11-11T15:22:49",
-      "content": "Guest post by: Matthew Illian, Director of Responsible Investing, and Noah Tabor, General Counsel, United"
+      "title": "Nuveen Launches New Nature-Based Solutions Fund",
+      "description": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the",
+      "url": "https://www.esgtoday.com/nuveen-launches-new-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=nuveen-launches-new-nature-based-solutions-fund",
+      "publishedAt": "2026-11-12T17:03:04",
+      "content": "Nuveen Natural Capital, the land-focused asset management platform of global asset manager Nuveen, announced the"
     },
     {
       "source": {
-        "name": "Ecotextile"
+        "name": "CSRWire"
       },
-      "author": "Ecotextile",
-      "title": "African group targets textile production boost",
-      "description": "Industry initiative Africa Made It unveils blueprint to expand cotton garment processing across the continent and capture $34bn in annual \nThe post African group targets textile production boost ap...",
-      "url": "https://www.ecotextile.com/2026111167228/news/social-compliance-and-csr/african-group-targets-textile-production-boost/",
-      "publishedAt": "2026-11-11T15:14:26",
-      "content": "Industry initiative Africa Made It unveils blueprint to expand cotton garment processing across the continent and capture $34bn in annual \nThe post African group targets textile production boost ap..."
+      "author": "CSRWire",
+      "title": "AllianceBernstein: Super El Niño: The 30,000-Foot View for Investors",
+      "description": "El Niño is a climate phenomenon, but its effects transcend the weather map.",
+      "url": "https://csrwire.com/press-release/alliancebernstein-super-el-nino-30000-foot-view-investors/",
+      "publishedAt": "2026-11-12T08:45:00",
+      "content": "El Niño is a climate phenomenon, but its effects transcend the weather map."
     },
     {
       "source": {
@@ -301,47 +301,234 @@
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "BBC"
       },
-      "author": "New York Times",
-      "title": "A Guide to COP31 Climate Talks in Antalya, Turkey",
-      "description": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold.",
-      "url": "https://www.nytimes.com/2026/11/08/climate/what-is-cop31-climate.html",
-      "publishedAt": "2026-11-08T10:01:51",
-      "content": "Negotiators and leaders are gathering for annual United Nations climate talks. They come as global temperatures are set to breach a key threshold."
+      "author": "BBC",
+      "title": "Summer heatwave put bin crews lives at risk, says council worker",
+      "description": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+      "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T12:03:04",
+      "content": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Datacentres are deeply unpopular. Has Sweden made one we can all love?",
-      "description": "It is built of wood, resembles an Ikea and its power is totally renewable.",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/datacentres-unpopular-sweden-ecodatacenter-falun",
-      "publishedAt": "2026-11-12T11:00:46",
-      "content": "It is built of wood, resembles an Ikea and its power is totally renewable."
+      "title": "El Niño will increase risk of death in childbirth for millions, say midwives",
+      "description": "Effects of extreme weather expected in countries that already have high maternal and newborn death ratesEl Niño stokes a higher risk of death in childbirth for millions of women in the world’s hars...",
+      "url": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
+      "publishedAt": "2026-11-13T12:00:18",
+      "content": "Effects of extreme weather expected in countries that already have high maternal and newborn death ratesEl Niño stokes a higher risk of death in childbirth for millions of women in the world’s hars..."
     },
     {
       "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 4: Burnham praises electrification while Greta rails at “detached” leaders",
-      "description": "The UK prime minister is one of 25 leaders speaking in Antalya on Thursday while Lula, Greta Thunberg and Gavin Newsom are set to draw crowds\nThe post COP31 Bulletin Day 4: Burnham praises electrif...",
-      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
-      "publishedAt": "2026-11-12T08:33:44",
-      "content": "The UK prime minister is one of 25 leaders speaking in Antalya on Thursday while Lula, Greta Thunberg and Gavin Newsom are set to draw crowds\nThe post COP31 Bulletin Day 4: Burnham praises electrif..."
+      "title": "COP31 Bulletin Day 5: Cover decision wishlist issued as China bows out of COP33",
+      "description": "Governments must start narrowing down what a political decision could look like in Antalya, while the conversation buzzes around who will host 2028's important COP  \nThe post COP31 Bulletin Day 5: ...",
+      "url": "https://www.climatechangenews.com/2026/11/13/cop31-bulletin-day-5-cover-decision-wishlist-issued-as-china-bows-out-of-cop33/",
+      "publishedAt": "2026-11-13T10:28:21",
+      "content": "Governments must start narrowing down what a political decision could look like in Antalya, while the conversation buzzes around who will host 2028's important COP  \nThe post COP31 Bulletin Day 5: ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "How many sewage spills have happened in your part of Scotland?",
+      "description": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found.",
+      "url": "https://www.bbc.co.uk/news/articles/c0re545l8jdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-13T06:31:51",
+      "content": "More than 76,000 sewage spills were recorded at overflow sites previously unmonitored by Scottish Water, BBC Scotland News analysis has found."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Country diary: An ancient bridge, laid low by one storm after another | Sara Hudston",
-      "description": "Exmoor, Somerset: Tarr Steps is no stranger to flooding, but the damage is becoming more and more frequentFog cloaked the combe as we walked down to the River Barle, and for the first time in month...",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/country-diary-an-ancient-bridge-laid-low-by-one-storm-after-another",
-      "publishedAt": "2026-11-12T05:30:09",
-      "content": "Exmoor, Somerset: Tarr Steps is no stranger to flooding, but the damage is becoming more and more frequentFog cloaked the combe as we walked down to the River Barle, and for the first time in month..."
+      "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
+      "description": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heatingChildren’s exposure to home wood-burning could be as significant as exposure to traffic exh...",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
+      "publishedAt": "2026-11-13T06:00:12",
+      "content": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heatingChildren’s exposure to home wood-burning could be as significant as exposure to traffic exh..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Why did some trees fall in the storms and others not? It could be spalting | Kate Blincoe",
+      "description": "Caistor St Edmund, Norfolk: The woodland floor is littered with sycamore and ash, some revealing a pattern that runs through trunks like words in a stick of rockAn ash tree swayed, audibly groaning...",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/country-diary-why-did-some-trees-fall-in-the-storms-and-others-not-it-could-be-spalting",
+      "publishedAt": "2026-11-13T05:30:09",
+      "content": "Caistor St Edmund, Norfolk: The woodland floor is littered with sycamore and ash, some revealing a pattern that runs through trunks like words in a stick of rockAn ash tree swayed, audibly groaning..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "World is now in ‘age of electricity’, energy agency chief says",
+      "description": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the...",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+      "publishedAt": "2026-11-13T05:00:11",
+      "content": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘El Niño turned off the taps’: factors behind Indonesia’s wildfires revealed",
+      "description": "Country’s fiercest blazes in at least a decade produced toxic smog blamed for 400,000 respiratory infections Indonesia’s fiercest fires in at least a decade were amplified by an “El Niño that turne...",
+      "url": "https://www.theguardian.com/world/2026/nov/13/indonesia-el-nino-wildfires",
+      "publishedAt": "2026-11-13T04:00:08",
+      "content": "Country’s fiercest blazes in at least a decade produced toxic smog blamed for 400,000 respiratory infections Indonesia’s fiercest fires in at least a decade were amplified by an “El Niño that turne..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Pacific leaves empty handed from COP31 “pledging event” for new fund",
+      "description": "With developed countries only re-announcing old pledges, the facility remains $300 million away from meeting its 2026 target of $500m for resilience projects\nThe post Pacific leaves empty handed fr...",
+      "url": "https://www.climatechangenews.com/2026/11/12/pacific-leaves-empty-handed-from-cop31-pledging-event-for-new-fund/",
+      "publishedAt": "2026-11-12T17:01:43",
+      "content": "With developed countries only re-announcing old pledges, the facility remains $300 million away from meeting its 2026 target of $500m for resilience projects\nThe post Pacific leaves empty handed fr..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Historic S.S. United States Sinks to Become an Artificial Reef",
+      "description": "The 20th-century ocean liner will become an artificial reef, ending efforts to save a ship that was fast, luxurious and (almost) indestructible.",
+      "url": "https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html",
+      "publishedAt": "2026-11-12T14:47:27",
+      "content": "The 20th-century ocean liner will become an artificial reef, ending efforts to save a ship that was fast, luxurious and (almost) indestructible."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "BGMEA explores waste platform tie-up",
+      "description": "Bangladesh’s apparel body has held talks with Wire Waste on a platform to connect manufacturers, waste collectors and recyclers DHAKA \nThe post BGMEA explores waste platform tie-up appeared first o...",
+      "url": "https://www.ecotextile.com/2026111267251/news/shows-events/bgmea-explores-waste-platform-tie-up/",
+      "publishedAt": "2026-11-12T12:01:52",
+      "content": "Bangladesh’s apparel body has held talks with Wire Waste on a platform to connect manufacturers, waste collectors and recyclers DHAKA \nThe post BGMEA explores waste platform tie-up appeared first o..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Bringing Women's Preventive Care Closer to Home",
+      "description": "For women living in rural and underserved communities, obtaining a mammogram can mean traveling long distances, navigating limited provider availability or waiting weeks for an appointment.",
+      "url": "https://csrwire.com/press-release/bringing-womens-preventive-care-closer-home/",
+      "publishedAt": "2026-11-12T11:55:00",
+      "content": "For women living in rural and underserved communities, obtaining a mammogram can mean traveling long distances, navigating limited provider availability or waiting weeks for an appointment."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "M&S shifts Asia Pacific order fulfilment",
+      "description": "M&S has partnered with Global Fashion Group (GFG) to expand online clothing sales across Asia Pacific and fulfil regional orders \nThe post M&S shifts Asia Pacific order fulfilment appeared first on...",
+      "url": "https://www.ecotextile.com/2026111267258/radar/ms-shifts-asia-pacific-order-fulfilment/",
+      "publishedAt": "2026-11-12T11:15:19",
+      "content": "M&S has partnered with Global Fashion Group (GFG) to expand online clothing sales across Asia Pacific and fulfil regional orders \nThe post M&S shifts Asia Pacific order fulfilment appeared first on..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "PFAS substitute disrupts zebrafish embryos",
+      "description": "Researchers identify metabolic and organ damage from exposure to PFBS, mooted as a PFAS replacement for textiles FUKUOKA — Researchers \nThe post PFAS substitute disrupts zebrafish embryos appeared ...",
+      "url": "https://www.ecotextile.com/2026111267255/news/materials-production-news/pfas-substitute-disrupts-zebrafish-embryos/",
+      "publishedAt": "2026-11-12T11:00:03",
+      "content": "Researchers identify metabolic and organ damage from exposure to PFBS, mooted as a PFAS replacement for textiles FUKUOKA — Researchers \nThe post PFAS substitute disrupts zebrafish embryos appeared ..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Decade of Flight: How FedEx Keeps the Orbis Flying Eye Hospital Soaring",
+      "description": "For more than 40 years, FedEx has teamed up with Orbis to bring sight-saving training and care to underserved communities worldwide.",
+      "url": "https://csrwire.com/press-release/decade-flight-how-fedex-keeps-orbis-flying-eye-hospital-soaring/",
+      "publishedAt": "2026-11-12T11:00:00",
+      "content": "For more than 40 years, FedEx has teamed up with Orbis to bring sight-saving training and care to underserved communities worldwide."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Course Corrected Raises €80 Million to Back European Energy and Resource Transition Startups",
+      "description": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million)",
+      "url": "https://www.esgtoday.com/course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups/?utm_source=rss&utm_medium=rss&utm_campaign=course-corrected-raises-e80-million-to-back-european-energy-and-resource-transition-startups",
+      "publishedAt": "2026-11-12T09:34:17",
+      "content": "Venture capital investor Course Corrected announced today that it has raised €80 million (USD$89 million)"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Innovation Shaped by You: The KOLO® Smart Monitoring System 2.0",
+      "description": "GP PRO, a division of Georgia-Pacific, is an industry leader in advanced dispensing and smart monitoring solutions in commercial spaces.",
+      "url": "https://csrwire.com/press-release/innovation-shaped-you-kolor-smart-monitoring-system-20/",
+      "publishedAt": "2026-11-12T09:00:00",
+      "content": "GP PRO, a division of Georgia-Pacific, is an industry leader in advanced dispensing and smart monitoring solutions in commercial spaces."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Veteran Aviator Brian Moll: From Cockpit to Disaster Relief",
+      "description": "For Marine Corps veteran and FedEx Boeing 777 pilot Brian Moll, service isn’t just a chapter in a resume—it is a lifelong compass.",
+      "url": "https://csrwire.com/press-release/veteran-aviator-brian-moll-cockpit-disaster-relief/",
+      "publishedAt": "2026-11-11T11:00:00",
+      "content": "For Marine Corps veteran and FedEx Boeing 777 pilot Brian Moll, service isn’t just a chapter in a resume—it is a lifelong compass."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
+      "description": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe post COP31 Bulletin Day 3: With the people stuc...",
+      "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
+      "publishedAt": "2026-11-11T10:31:13",
+      "content": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe post COP31 Bulletin Day 3: With the people stuc..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Malawi Lacks Money to Fund its El Niño Plans",
+      "description": "The question is being asked across the developing world, where hunger risk is high from the extreme weather El Niño is expected to bring. Malawi has a big plan, but little money.",
+      "url": "https://www.nytimes.com/2026/11/12/climate/el-nino-malawi-farmer-drought.html",
+      "publishedAt": "2026-11-12T11:57:04",
+      "content": "The question is being asked across the developing world, where hunger risk is high from the extreme weather El Niño is expected to bring. Malawi has a big plan, but little money."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 4: Emerging economies question need for COP31 cover decision",
+      "description": "Russia, Saudi Arabia and others are questioning the legitimacy of the Australian-Turkish push for an overarching COP31 agreement\nThe post COP31 Bulletin Day 4: Emerging economies question need for ...",
+      "url": "https://www.climatechangenews.com/2026/11/12/cop31-bulletin-day-4-burnham-speaks-with-uk-climate-policy-under-fire/",
+      "publishedAt": "2026-11-12T08:33:44",
+      "content": "Russia, Saudi Arabia and others are questioning the legitimacy of the Australian-Turkish push for an overarching COP31 agreement\nThe post COP31 Bulletin Day 4: Emerging economies question need for ..."
     },
     {
       "source": {
@@ -367,50 +554,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 3: With the people stuck outside, world leaders jet in",
-      "description": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe post COP31 Bulletin Day 3: With the people stuc...",
-      "url": "https://www.climatechangenews.com/2026/11/11/cop31-bulletin-day-3-with-the-people-stuck-outside-world-leaders-jet-in/",
-      "publishedAt": "2026-11-11T10:31:13",
-      "content": "Around 40 leaders, including Lula, Erdoğan and Albanese, addressed the summit in Antalya, where the UN chief proposed a \"climate justice compact\"\nThe post COP31 Bulletin Day 3: With the people stuc..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Türkiye pushes “zero waste” at COP31, but is it delivering at home?",
-      "description": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports from Europe look set to boom\nThe post Türkiye pu...",
-      "url": "https://www.climatechangenews.com/2026/11/11/turkiye-pushes-zero-waste-at-cop31-but-is-it-delivering-at-home/",
-      "publishedAt": "2026-11-11T07:00:32",
-      "content": "Türkiye is hosting a Zero Waste Day at the UN climate summit, led by its First Lady, but its own waste generation keeps rising while plastic imports from Europe look set to boom\nThe post Türkiye pu..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Big fossil-fuel countries back Brazil-led transition roadmap",
-      "description": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big fossil-fuel countries back Brazil-led transition ro...",
-      "url": "https://www.climatechangenews.com/2026/11/10/big-fossil-fuel-countries-back-brazil-led-transition-roadmap/",
-      "publishedAt": "2026-11-10T17:26:10",
-      "content": "Some countries including Germany and the Netherlands call for the roadmaps to inform a key global review of climate progress in 2028\nThe post Big fossil-fuel countries back Brazil-led transition ro..."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "What the EU’s EmpCo rules mean for you, and the brands you shop from",
-      "description": "It just got a whole lot harder to make vague green claims thanks to a new EU regulation called EmpCo.",
-      "url": "https://goodonyou.eco/empco-explained/",
-      "publishedAt": "2026-11-10T11:46:41",
-      "content": "It just got a whole lot harder to make vague green claims thanks to a new EU regulation called EmpCo."
-    },
-    {
-      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -419,17 +562,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T13:24:29",
       "content": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "The Pace of Everglades Restoration Has Accelerated. But Is It Working?",
-      "description": "A historic restoration of Florida’s Everglades is proceeding at an unprecedented pace, although more scientific analysis is needed to understand how the fragile watershed is responding to the multi...",
-      "url": "https://insideclimatenews.org/news/11112026/everglades-restoration-effectiveness-report/",
-      "publishedAt": "2026-11-11T10:00:00",
-      "content": "A historic restoration of Florida’s Everglades is proceeding at an unprecedented pace, although more scientific analysis is needed to understand how the fragile watershed is responding to the multi..."
     },
     {
       "source": {
@@ -455,47 +587,58 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "Japan urged to ditch fossil fuel support to maximise clean-tech exports",
-      "description": "Japan could be one of the big winners of Asia's electrification push, but it must radically pivot its policies away from propping up fossil fuels, a new analysis says\nThe post Japan urged to ditch ...",
-      "url": "https://www.climatechangenews.com/2026/11/10/japan-urged-to-ditch-fossil-fuel-support-to-maximise-clean-tech-exports/",
-      "publishedAt": "2026-11-10T15:14:13",
-      "content": "Japan could be one of the big winners of Asia's electrification push, but it must radically pivot its policies away from propping up fossil fuels, a new analysis says\nThe post Japan urged to ditch ..."
+      "author": "CSRWire",
+      "title": "Sustained Health Equity Progress Lifts Boehringer To Rank 6th in Access to Medicine Index",
+      "description": "Boehringer Ingelheim has advanced to 6th place in the 2026 Access to Medicine Index (ATMI), continuing its rise from 13th in 2022 and 8th in 2024.",
+      "url": "https://csrwire.com/press-release/sustained-health-equity-progress-lifts-boehringer-rank-6th-access-medicine-index/",
+      "publishedAt": "2026-11-10T12:10:00",
+      "content": "Boehringer Ingelheim has advanced to 6th place in the 2026 Access to Medicine Index (ATMI), continuing its rise from 13th in 2022 and 8th in 2024."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "Good On You"
       },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 2: Momentum builds on electrification and fossil fuel transition",
-      "description": "The COP31 presidency whips up support for its 35x35 electrification goal, while the UN chief calls on all countries to plan their shift away from fossil fuels\nThe post COP31 Bulletin Day 2: Momentu...",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-bulletin-day-2-energy-day-off-to-slow-start-amid-transport-chaos/",
-      "publishedAt": "2026-11-10T12:21:33",
-      "content": "The COP31 presidency whips up support for its 35x35 electrification goal, while the UN chief calls on all countries to plan their shift away from fossil fuels\nThe post COP31 Bulletin Day 2: Momentu..."
+      "author": "Good On You",
+      "title": "What the EU’s EmpCo rules mean for you, and the brands you shop from",
+      "description": "It just got a whole lot harder to make vague green claims thanks to a new EU regulation called EmpCo.",
+      "url": "https://goodonyou.eco/empco-explained/",
+      "publishedAt": "2026-11-10T11:46:41",
+      "content": "It just got a whole lot harder to make vague green claims thanks to a new EU regulation called EmpCo."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "El Niño Is Hitting California Hard",
-      "description": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast.",
-      "url": "https://www.nytimes.com/2026/11/10/climate/el-nino-california-flooding-fires-kelvin-wave.html",
-      "publishedAt": "2026-11-10T10:00:54",
-      "content": "Rising sea levels and violent weather are testing residents in some of the most picturesque cities along the Pacific Coast."
+      "author": "CSRWire",
+      "title": "Leidos Launches Agentic AI Platform To Speed Response to Cyber Threats",
+      "description": "Leidos (NYSE: LDOS) is introducing UpHold Effect™ Agentic SOC Automation, a capability that uses AI agents around the clock to help security operations center teams identify threats requiring immed...",
+      "url": "https://csrwire.com/press-release/leidos-launches-agentic-ai-platform-speed-response-cyber-threats/",
+      "publishedAt": "2026-11-10T10:05:00",
+      "content": "Leidos (NYSE: LDOS) is introducing UpHold Effect™ Agentic SOC Automation, a capability that uses AI agents around the clock to help security operations center teams identify threats requiring immed..."
     },
     {
       "source": {
-        "name": "Climate Change News"
+        "name": "CSRWire"
       },
-      "author": "Climate Change News",
-      "title": "COP31 outcome needs to prioritise transition away from fossil fuels",
-      "description": "Many countries are already working on parts of their transition, such as phasing out coal or ending fossil fuel subsidies, with more expected to follow soon\nThe post COP31 outcome needs to prioriti...",
-      "url": "https://www.climatechangenews.com/2026/11/10/cop31-outcome-needs-to-prioritise-transition-away-from-fossil-fuels/",
-      "publishedAt": "2026-11-10T09:36:39",
-      "content": "Many countries are already working on parts of their transition, such as phasing out coal or ending fossil fuel subsidies, with more expected to follow soon\nThe post COP31 outcome needs to prioriti..."
+      "author": "CSRWire",
+      "title": "How Utilities Can Build Resilient Mission-Critical OT Networks",
+      "description": "Operational technology (OT) networks are the unsung heroes of modern power grids, working behind the scenes to help utilities deliver safe and reliable electricity services that comply with industr...",
+      "url": "https://csrwire.com/press-release/how-utilities-can-build-resilient-mission-critical-ot-networks/",
+      "publishedAt": "2026-11-10T09:45:00",
+      "content": "Operational technology (OT) networks are the unsung heroes of modern power grids, working behind the scenes to help utilities deliver safe and reliable electricity services that comply with industr..."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Rural Montanans Are Reckoning with the Global Mineral Boom, One Mine at a Time",
+      "description": "White Sulphur Springs is no stranger to the boom-and-bust cycle that often courts small town America.",
+      "url": "https://triplepundit.com/2026/rural-montanans-are-reckoning-with-the-global-mineral-boom-one-mine-at-a-time/",
+      "publishedAt": "2026-11-06T18:53:28",
+      "content": "White Sulphur Springs is no stranger to the boom-and-bust cycle that often courts small town America."
     }
   ]
 }
