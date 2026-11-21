@@ -1,18 +1,7 @@
 {
   "status": "ok",
-  "totalResults": 55,
+  "totalResults": 60,
   "articles": [
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Beyond Static Estimates: How Cisco’s Product Carbon Footprint Feature Tracks a Decarbonizing Grid",
-      "description": "Businesses are setting ambitious net-zero targets while facing increasing demands for transparent, verifiable data on their Scope 3 greenhouse gas (GHG) emissions.",
-      "url": "https://csrwire.com/press-release/beyond-static-estimates-how-ciscos-product-carbon-footprint-feature-tracks-decarbonizing-grid/",
-      "publishedAt": "2026-11-18T21:30:00",
-      "content": "Businesses are setting ambitious net-zero targets while facing increasing demands for transparent, verifiable data on their Scope 3 greenhouse gas (GHG) emissions."
-    },
     {
       "source": {
         "name": "Good On You"
@@ -23,6 +12,17 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-11-15T22:00:45",
       "content": "Feature image: Jyoti – Fair Works."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
+      "description": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp.",
+      "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+      "publishedAt": "2026-11-21T10:00:00",
+      "content": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp."
     },
     {
       "source": {
@@ -59,17 +59,6 @@
     },
     {
       "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Rich countries must step up to replenish Green Climate Fund, Duarte says",
-      "description": "GCF Executive Director Mafalda Duarte tells Climate Home News efforts to leverage the fund's balance sheet more effectively and find new contributors do not mean letting wealthy donor nations off t...",
-      "url": "https://www.climatechangenews.com/2026/11/17/rich-countries-must-step-up-to-replenish-green-climate-fund-duarte-says/",
-      "publishedAt": "2026-11-17T13:33:41",
-      "content": "GCF Executive Director Mafalda Duarte tells Climate Home News efforts to leverage the fund's balance sheet more effectively and find new contributors do not mean letting wealthy donor nations off t..."
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -78,6 +67,28 @@
       "url": "https://triplepundit.com/2026/solar-murals-artwork-renewable-energy-aesthetics/",
       "publishedAt": "2026-11-17T12:00:00",
       "content": "Ordinary solar panels can be transformed into art with a layer of thin, decorative film. Will the aesthetic boost convince hesitant communities to give solar a shot?  TriplePundit"
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T09:52:11",
+      "content": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "publishedAt": "2026-11-20T15:20:14",
+      "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
     },
     {
       "source": {
@@ -92,14 +103,14 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "ESG Today"
       },
-      "author": "The Guardian",
-      "title": "Cop31 live: ‘We didn’t come here to beg’, African ministers say as climate talks enter final day",
-      "description": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official endAntalya 2026 is the “worst Cop ever”, civil society activists have said in a packe...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "publishedAt": "2026-11-20T14:07:02",
-      "content": "Disagreements between rich polluting countries and everyone else threaten to push UN summit beyond its official endAntalya 2026 is the “worst Cop ever”, civil society activists have said in a packe..."
+      "author": "ESG Today",
+      "title": "Green Bond Issuance Jumps 29% in Q3 2026: Moody’s",
+      "description": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by",
+      "url": "https://www.esgtoday.com/green-bond-issuance-jumps-29-in-q3-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-jumps-29-in-q3-2026-moodys",
+      "publishedAt": "2026-11-18T15:35:32",
+      "content": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by"
     },
     {
       "source": {
@@ -125,50 +136,6 @@
     },
     {
       "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Green Bond Issuance Jumps 29% in Q3 2026: Moody’s",
-      "description": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by",
-      "url": "https://www.esgtoday.com/green-bond-issuance-jumps-29-in-q3-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-jumps-29-in-q3-2026-moodys",
-      "publishedAt": "2026-11-18T15:35:32",
-      "content": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-      "description": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6",
-      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-      "publishedAt": "2026-11-19T14:37:09",
-      "content": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-      "publishedAt": "2026-11-19T10:02:50",
-      "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
-      "description": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at riskClimate science is “foundational” to the Paris agreement and worldwide progress on...",
-      "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
-      "publishedAt": "2026-11-19T07:16:45",
-      "content": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at riskClimate science is “foundational” to the Paris agreement and worldwide progress on..."
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -191,14 +158,190 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+      "description": "Though the climate talks officially finished on Friday, no final deal was agreed.",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+      "publishedAt": "2026-11-21T13:19:13",
+      "content": "Though the climate talks officially finished on Friday, no final deal was agreed."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Gap Q3 sales flat as it lowers full-year outlook",
+      "description": "US fashion giant Gap Inc.",
+      "url": "https://www.ecotextile.com/2026112067460/radar/gap-q3-sales-flat-as-it-lowers-full-year-outlook/",
+      "publishedAt": "2026-11-20T16:30:50",
+      "content": "US fashion giant Gap Inc."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Aura partners with Fairly Made on DPP solution",
+      "description": "Strategic alliance aims to help fashion brands comply with European digital product passport regulation GENEVA – Aura Consortium, the traceability \nThe post Aura partners with Fairly Made on DPP so...",
+      "url": "https://www.ecotextile.com/2026112067458/news/materials-production-news/aura-partners-with-fairly-made-on-dpp-solution/",
+      "publishedAt": "2026-11-20T16:20:56",
+      "content": "Strategic alliance aims to help fashion brands comply with European digital product passport regulation GENEVA – Aura Consortium, the traceability \nThe post Aura partners with Fairly Made on DPP so..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+      "description": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6",
+      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+      "publishedAt": "2026-11-19T14:37:09",
+      "content": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
+      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability",
+      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "publishedAt": "2026-11-19T10:45:51",
+      "content": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "50+ more sustainable ideas for Christmas gifts and holiday presents",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
+      "publishedAt": "2026-11-17T12:00:07",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "publishedAt": "2026-11-21T12:31:35",
+      "content": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
+      "description": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/strange-saga-timmy-the-whale-germany",
+      "publishedAt": "2026-11-21T12:00:57",
+      "content": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
+      "description": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new species emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gr...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
+      "publishedAt": "2026-11-21T11:00:57",
+      "content": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new species emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gr..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
+      "description": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh...",
+      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+      "publishedAt": "2026-11-21T10:18:17",
+      "content": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Watching a garden spider at work – do I detect a personality? | Oliver Southall",
+      "description": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/country-diary-watching-a-garden-spider-at-work-do-i-detect-a-personality",
+      "publishedAt": "2026-11-21T05:30:49",
+      "content": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect..."
+    },
+    {
+      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "Former Climate Diplomats Blame Three Nations for Research Funding Stalemate",
-      "description": "ANTALYA, Turkey—The science that guides negotiators and policymakers at the United Nations’ COP31 climate change conference is “under a serious and highly politicized attack,” said Laurence Tubiana...",
-      "url": "https://insideclimatenews.org/news/18112026/cop31-russia-saudi-arabia-india-blocking-progress/",
-      "publishedAt": "2026-11-18T20:06:52",
-      "content": "ANTALYA, Turkey—The science that guides negotiators and policymakers at the United Nations’ COP31 climate change conference is “under a serious and highly politicized attack,” said Laurence Tubiana..."
+      "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
+      "description": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1.",
+      "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+      "publishedAt": "2026-11-20T23:32:21",
+      "content": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T22:57:26",
+      "content": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
+      "description": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
+      "url": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+      "publishedAt": "2026-11-20T22:52:14",
+      "content": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
+      "description": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a...",
+      "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
+      "publishedAt": "2026-11-20T22:31:02",
+      "content": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
+      "description": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off...",
+      "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
+      "publishedAt": "2026-11-20T15:05:35",
+      "content": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "publishedAt": "2026-11-20T14:16:51",
+      "content": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining."
     },
     {
       "source": {
@@ -221,6 +364,39 @@
       "url": "https://www.ecotextile.com/2026112067451/news/shows-events/india-proposes-1-72bn-fibre-support-plan/",
       "publishedAt": "2026-11-20T10:21:49",
       "content": "India’s textiles ministry proposes a five-year National Fibre Scheme to strengthen domestic production of fibres and reduce import reliance NEW \nThe post India proposes $1.72bn fibre support plan a..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Southern Company Gas Pilots Aerial LiDAR Technology for Methane Emissions Detection",
+      "description": "Southern Company Gas recently piloted an innovative aerial LiDAR technology for methane emissions detection to evaluate whether the solution could enhance emissions detection, support system integr...",
+      "url": "https://csrwire.com/press-release/southern-company-gas-pilots-aerial-lidar-technology-methane-emissions-detection/",
+      "publishedAt": "2026-11-20T10:05:00",
+      "content": "Southern Company Gas recently piloted an innovative aerial LiDAR technology for methane emissions detection to evaluate whether the solution could enhance emissions detection, support system integr..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Nokia Is Working With Partners to Modernize Critical Systems Around the World",
+      "description": "The International Energy Agency projects that global electricity consumption from data centres will more than double by 2030.",
+      "url": "https://csrwire.com/press-release/nokia-working-partners-modernize-critical-systems-around-world/",
+      "publishedAt": "2026-11-20T09:05:00",
+      "content": "The International Energy Agency projects that global electricity consumption from data centres will more than double by 2030."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Combatting Water Scarcity in Bangalore Through Lake Restoration",
+      "description": "With nearly three-quarters of the world’s population living in countries classified as water-insecure or critically water-insecure, many groundwater systems across the world are beyond safe depleti...",
+      "url": "https://csrwire.com/press-release/combatting-water-scarcity-bangalore-through-lake-restoration/",
+      "publishedAt": "2026-11-20T09:00:00",
+      "content": "With nearly three-quarters of the world’s population living in countries classified as water-insecure or critically water-insecure, many groundwater systems across the world are beyond safe depleti..."
     },
     {
       "source": {
@@ -279,58 +455,80 @@
     },
     {
       "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+      "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
+      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T13:35:29",
+      "content": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back."
+    },
+    {
+      "source": {
         "name": "Ecotextile"
       },
       "author": "Ecotextile",
-      "title": "Uniqlo to audit new mills",
-      "description": "Fast Retailing will carry out environmental and human rights audits at all new fabric and spinning mills for Uniqlo before \nThe post Uniqlo to audit new mills appeared first on Ecotextile News.",
-      "url": "https://www.ecotextile.com/2026111967417/radar/uniqlo-to-audit-new-mills/",
-      "publishedAt": "2026-11-19T13:14:03",
-      "content": "Fast Retailing will carry out environmental and human rights audits at all new fabric and spinning mills for Uniqlo before \nThe post Uniqlo to audit new mills appeared first on Ecotextile News."
+      "title": "Accord trials garment factory heat checks",
+      "description": "A pilot in Bangladesh and Pakistan will inform when factories must act to protect workers from excessive heat AMSTERDAM — \nThe post Accord trials garment factory heat checks appeared first on Ecote...",
+      "url": "https://www.ecotextile.com/2026111967419/news/social-compliance-and-csr/accord-trials-garment-factory-heat-checks/",
+      "publishedAt": "2026-11-19T13:27:02",
+      "content": "A pilot in Bangladesh and Pakistan will inform when factories must act to protect workers from excessive heat AMSTERDAM — \nThe post Accord trials garment factory heat checks appeared first on Ecote..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
-      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability",
-      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
-      "publishedAt": "2026-11-19T10:45:51",
-      "content": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability"
+      "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
+      "description": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone",
+      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
+      "publishedAt": "2026-11-19T13:02:36",
+      "content": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone"
     },
     {
       "source": {
-        "name": "Good On You"
+        "name": "CSRWire"
       },
-      "author": "Good On You",
-      "title": "50+ more sustainable ideas for Christmas gifts and holiday presents",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
-      "publishedAt": "2026-11-17T12:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+      "author": "CSRWire",
+      "title": "Southern Company Aligns Leadership, Operations To Serve Growth, Develop Talent and Prepare for the Future",
+      "description": "Southern Company Chairman, President and CEO Chris Womack, today announced several executive leadership changes designed to position the company to continue serving growing energy needs, execute si...",
+      "url": "https://csrwire.com/press-release/southern-company-aligns-leadership-operations-serve-growth-develop-talent-and-prepare-future/",
+      "publishedAt": "2026-11-19T12:05:00",
+      "content": "Southern Company Chairman, President and CEO Chris Womack, today announced several executive leadership changes designed to position the company to continue serving growing energy needs, execute si..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
-      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
-      "publishedAt": "2026-11-20T14:16:51",
-      "content": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining."
+      "author": "CSRWire",
+      "title": "Henkel North America Celebrates Community Impact Day 2026",
+      "description": "On October 8, over 2,000 Henkel employees across 25 locations participated in volunteer activities in support of more than 50 local nonprofit organizations in recognition of Henkel's 4th annual Com...",
+      "url": "https://csrwire.com/press-release/henkel-north-america-celebrates-community-impact-day-2026/",
+      "publishedAt": "2026-11-19T11:05:00",
+      "content": "On October 8, over 2,000 Henkel employees across 25 locations participated in volunteer activities in support of more than 50 local nonprofit organizations in recognition of Henkel's 4th annual Com..."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "CSRWire"
       },
-      "author": "New York Times",
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "description": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "publishedAt": "2026-11-20T14:01:44",
-      "content": "A feline research center uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
+      "author": "CSRWire",
+      "title": "Connecting People to Humanitarian Assistance With Responsible AI",
+      "description": "When disaster strikes, survival often comes down to getting the right answers to simple, but potentially lifesaving, questions: Where can I find a safe place to sleep tonight? How can I get medical...",
+      "url": "https://csrwire.com/press-release/connecting-people-humanitarian-assistance-responsible-ai/",
+      "publishedAt": "2026-11-19T10:00:00",
+      "content": "When disaster strikes, survival often comes down to getting the right answers to simple, but potentially lifesaving, questions: Where can I find a safe place to sleep tonight? How can I get medical..."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Georgia-Pacific Lebanon Tennessee Facility Recognized by the State for Workplace Safety",
+      "description": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi...",
+      "url": "https://csrwire.com/press-release/georgia-pacific-lebanon-tennessee-facility-recognized-state-workplace-safety/",
+      "publishedAt": "2026-11-19T09:00:00",
+      "content": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi..."
     },
     {
       "source": {
@@ -400,17 +598,6 @@
     },
     {
       "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Amid Outcry, Army Delays its Plan to Blow Up Toxic Ammunition in Iowa",
-      "description": "The Army had planned to detonate a cache of dangerous explosives on Friday, potentially creating a plume of toxic lead dust stretching for 60 miles. The explosion is now set for Monday.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/iowa-ammunition-explosion-lead-dust.html",
-      "publishedAt": "2026-11-20T04:08:12",
-      "content": "The Army had planned to detonate a cache of dangerous explosives on Friday, potentially creating a plume of toxic lead dust stretching for 60 miles. The explosion is now set for Monday."
-    },
-    {
-      "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
@@ -430,116 +617,6 @@
       "url": "https://insideclimatenews.org/news/19112026/alabama-chemical-fire-resident-health/",
       "publishedAt": "2026-11-20T00:00:00",
       "content": "ATTALLA, Ala."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "California Refinery That Locked Out Workers Fined for Safety Violations",
-      "description": "When refinery operators went on strike to demand safer conditions at a renewable fuels facility northeast of San Francisco in April, they worried that workers brought in to replace them hadn’t been...",
-      "url": "https://insideclimatenews.org/news/19112026/california-marathon-martinez-refinery-osha-violations/",
-      "publishedAt": "2026-11-19T18:36:28",
-      "content": "When refinery operators went on strike to demand safer conditions at a renewable fuels facility northeast of San Francisco in April, they worried that workers brought in to replace them hadn’t been..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-      "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T13:35:29",
-      "content": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Accord trials garment factory heat checks",
-      "description": "A pilot in Bangladesh and Pakistan will inform when factories must act to protect workers from excessive heat AMSTERDAM — \nThe post Accord trials garment factory heat checks appeared first on Ecote...",
-      "url": "https://www.ecotextile.com/2026111967419/news/social-compliance-and-csr/accord-trials-garment-factory-heat-checks/",
-      "publishedAt": "2026-11-19T13:27:02",
-      "content": "A pilot in Bangladesh and Pakistan will inform when factories must act to protect workers from excessive heat AMSTERDAM — \nThe post Accord trials garment factory heat checks appeared first on Ecote..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
-      "description": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone",
-      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
-      "publishedAt": "2026-11-19T13:02:36",
-      "content": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone"
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Southern Company Aligns Leadership, Operations To Serve Growth, Develop Talent and Prepare for the Future",
-      "description": "Southern Company Chairman, President and CEO Chris Womack, today announced several executive leadership changes designed to position the company to continue serving growing energy needs, execute si...",
-      "url": "https://csrwire.com/press-release/southern-company-aligns-leadership-operations-serve-growth-develop-talent-and-prepare-future/",
-      "publishedAt": "2026-11-19T12:05:00",
-      "content": "Southern Company Chairman, President and CEO Chris Womack, today announced several executive leadership changes designed to position the company to continue serving growing energy needs, execute si..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Henkel North America Celebrates Community Impact Day 2026",
-      "description": "On October 8, over 2,000 Henkel employees across 25 locations participated in volunteer activities in support of more than 50 local nonprofit organizations in recognition of Henkel's 4th annual Com...",
-      "url": "https://csrwire.com/press-release/henkel-north-america-celebrates-community-impact-day-2026/",
-      "publishedAt": "2026-11-19T11:05:00",
-      "content": "On October 8, over 2,000 Henkel employees across 25 locations participated in volunteer activities in support of more than 50 local nonprofit organizations in recognition of Henkel's 4th annual Com..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Race to replant five South African baobabs after export blocked",
-      "description": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the...",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
-      "publishedAt": "2026-11-19T11:03:24",
-      "content": "The trees, intended for an unnamed buyer in Georgia, were reportedly dug up without the necessary permitsEnvironmentalists in South Africa are racing to replant five centuries-old baobabs after the..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Connecting People to Humanitarian Assistance With Responsible AI",
-      "description": "When disaster strikes, survival often comes down to getting the right answers to simple, but potentially lifesaving, questions: Where can I find a safe place to sleep tonight? How can I get medical...",
-      "url": "https://csrwire.com/press-release/connecting-people-humanitarian-assistance-responsible-ai/",
-      "publishedAt": "2026-11-19T10:00:00",
-      "content": "When disaster strikes, survival often comes down to getting the right answers to simple, but potentially lifesaving, questions: Where can I find a safe place to sleep tonight? How can I get medical..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Georgia-Pacific Lebanon Tennessee Facility Recognized by the State for Workplace Safety",
-      "description": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi...",
-      "url": "https://csrwire.com/press-release/georgia-pacific-lebanon-tennessee-facility-recognized-state-workplace-safety/",
-      "publishedAt": "2026-11-19T09:00:00",
-      "content": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Texas-Born. Globally Driven. Mary Kay Announces New Headquarters Designed for Its Next Chapter",
-      "description": "Mary Kay Inc., the iconic beauty and entrepreneurship company today announced a new global headquarters in Plano, Texas, making its mark on the Legacy skyline.",
-      "url": "https://csrwire.com/press-release/texas-born-globally-driven-mary-kay-announces-new-headquarters-designed-its-next-chapter/",
-      "publishedAt": "2026-11-19T08:00:00",
-      "content": "Mary Kay Inc., the iconic beauty and entrepreneurship company today announced a new global headquarters in Plano, Texas, making its mark on the Legacy skyline."
     },
     {
       "source": {
@@ -584,28 +661,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T23:42:07",
       "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Torrential rain causes widespread flooding in South Florida",
-      "description": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
-      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T20:29:18",
-      "content": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Building coastal resilience for local communities in Honduras",
-      "description": "Climate adaptation projects that focus on ocean and coastal management could provide useful case studies for negotiators at COP31\nThe post Building coastal resilience for local communities in Hondu...",
-      "url": "https://www.climatechangenews.com/2026/11/17/building-coastal-resilience-for-local-communities-in-honduras/",
-      "publishedAt": "2026-11-17T11:02:29",
-      "content": "Climate adaptation projects that focus on ocean and coastal management could provide useful case studies for negotiators at COP31\nThe post Building coastal resilience for local communities in Hondu..."
     }
   ]
 }
