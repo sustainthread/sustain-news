@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 60,
+  "totalResults": 59,
   "articles": [
     {
       "source": {
@@ -12,17 +12,6 @@
       "url": "https://goodonyou.eco/good-offers-wrap/",
       "publishedAt": "2026-11-15T22:00:45",
       "content": "Feature image: Jyoti – Fair Works."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
-      "description": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp.",
-      "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
-      "publishedAt": "2026-11-21T10:00:00",
-      "content": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp."
     },
     {
       "source": {
@@ -48,6 +37,17 @@
     },
     {
       "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
+      "description": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp.",
+      "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+      "publishedAt": "2026-11-21T10:00:00",
+      "content": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp."
+    },
+    {
+      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -70,25 +70,58 @@
     },
     {
       "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+      "description": "Although parties are still talking, the summit president said there can be no agreement on key dealFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, dir...",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+      "publishedAt": "2026-11-22T13:19:53",
+      "content": "Although parties are still talking, the summit president said there can be no agreement on key dealFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, dir..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
+      "description": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:54:06",
+      "content": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Will COP31 end with a new global climate deal?",
+      "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
+      "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T22:44:52",
+      "content": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T09:52:11",
+      "publishedAt": "2026-11-21T22:19:43",
       "content": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement."
     },
     {
       "source": {
-        "name": "New York Times"
+        "name": "The Guardian"
       },
-      "author": "New York Times",
-      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-      "publishedAt": "2026-11-20T15:20:14",
-      "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
+      "author": "The Guardian",
+      "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+      "description": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing worldClimate talks reached a standstill on Saturday night in Turkey as some count...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+      "publishedAt": "2026-11-21T19:43:52",
+      "content": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing worldClimate talks reached a standstill on Saturday night in Turkey as some count..."
     },
     {
       "source": {
@@ -103,14 +136,14 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "New York Times"
       },
-      "author": "ESG Today",
-      "title": "Green Bond Issuance Jumps 29% in Q3 2026: Moody’s",
-      "description": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by",
-      "url": "https://www.esgtoday.com/green-bond-issuance-jumps-29-in-q3-2026-moodys/?utm_source=rss&utm_medium=rss&utm_campaign=green-bond-issuance-jumps-29-in-q3-2026-moodys",
-      "publishedAt": "2026-11-18T15:35:32",
-      "content": "Issuance of green bonds continued to increase in the third quarter of 2026, jumping by"
+      "author": "New York Times",
+      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
+      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
+      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
+      "publishedAt": "2026-11-20T15:20:14",
+      "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
     },
     {
       "source": {
@@ -136,6 +169,39 @@
     },
     {
       "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "ITMA Asia leaves China for Singapore",
+      "description": "CEMATEX will end its 20-year partnership with Chinese organisers and move ITMA Asia to Singapore in 2029, moving a major \nThe post ITMA Asia leaves China for Singapore appeared first on Ecotextile ...",
+      "url": "https://www.ecotextile.com/2026112267463/news/shows-events/itma-asia-leaves-china-for-singapore/",
+      "publishedAt": "2026-11-22T12:32:09",
+      "content": "CEMATEX will end its 20-year partnership with Chinese organisers and move ITMA Asia to Singapore in 2029, moving a major \nThe post ITMA Asia leaves China for Singapore appeared first on Ecotextile ..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 13: Summit faces collapse after several countries reject cover decision",
+      "description": "EU said it cannot accept deal that was \"hijacked by fossil fuel producers\", but the bloc came under fire for failure to make climate finance promises\nThe post COP31 Bulletin Day 13: Summit faces co...",
+      "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
+      "publishedAt": "2026-11-22T05:59:32",
+      "content": "EU said it cannot accept deal that was \"hijacked by fossil fuel producers\", but the bloc came under fire for failure to make climate finance promises\nThe post COP31 Bulletin Day 13: Summit faces co..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+      "description": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6",
+      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+      "publishedAt": "2026-11-19T14:37:09",
+      "content": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6"
+    },
+    {
+      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -158,14 +224,36 @@
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "Good On You"
       },
-      "author": "The Guardian",
-      "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
-      "description": "Though the climate talks officially finished on Friday, no final deal was agreed.",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-      "publishedAt": "2026-11-21T13:19:13",
-      "content": "Though the climate talks officially finished on Friday, no final deal was agreed."
+      "author": "Good On You",
+      "title": "50+ more sustainable ideas for Christmas gifts and holiday presents",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
+      "publishedAt": "2026-11-17T12:00:07",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T10:44:12",
+      "content": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "The Defenders of Mexico’s Scorpion Reef",
+      "description": "ABOARD THE MV SHARKWATER—At 5 a.",
+      "url": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
+      "publishedAt": "2026-11-22T10:00:00",
+      "content": "ABOARD THE MV SHARKWATER—At 5 a."
     },
     {
       "source": {
@@ -188,160 +276,6 @@
       "url": "https://www.ecotextile.com/2026112067458/news/materials-production-news/aura-partners-with-fairly-made-on-dpp-solution/",
       "publishedAt": "2026-11-20T16:20:56",
       "content": "Strategic alliance aims to help fashion brands comply with European digital product passport regulation GENEVA – Aura Consortium, the traceability \nThe post Aura partners with Fairly Made on DPP so..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-      "description": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6",
-      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-      "publishedAt": "2026-11-19T14:37:09",
-      "content": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6"
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
-      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability",
-      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
-      "publishedAt": "2026-11-19T10:45:51",
-      "content": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability"
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
-      "title": "50+ more sustainable ideas for Christmas gifts and holiday presents",
-      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
-      "url": "https://goodonyou.eco/sustainable-christmas-gifts/",
-      "publishedAt": "2026-11-17T12:00:07",
-      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "publishedAt": "2026-11-21T12:31:35",
-      "content": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
-      "description": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/strange-saga-timmy-the-whale-germany",
-      "publishedAt": "2026-11-21T12:00:57",
-      "content": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
-      "description": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new species emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gr...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
-      "publishedAt": "2026-11-21T11:00:57",
-      "content": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new species emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gr..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
-      "description": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh...",
-      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
-      "publishedAt": "2026-11-21T10:18:17",
-      "content": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Watching a garden spider at work – do I detect a personality? | Oliver Southall",
-      "description": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/country-diary-watching-a-garden-spider-at-work-do-i-detect-a-personality",
-      "publishedAt": "2026-11-21T05:30:49",
-      "content": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
-      "description": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1.",
-      "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
-      "publishedAt": "2026-11-20T23:32:21",
-      "content": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-      "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:57:26",
-      "content": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
-      "description": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
-      "url": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
-      "publishedAt": "2026-11-20T22:52:14",
-      "content": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
-      "description": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a...",
-      "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
-      "publishedAt": "2026-11-20T22:31:02",
-      "content": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
-      "description": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off...",
-      "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
-      "publishedAt": "2026-11-20T15:05:35",
-      "content": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
-      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
-      "publishedAt": "2026-11-20T14:16:51",
-      "content": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining."
     },
     {
       "source": {
@@ -455,6 +389,204 @@
     },
     {
       "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
+      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability",
+      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
+      "publishedAt": "2026-11-19T10:45:51",
+      "content": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability"
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "publishedAt": "2026-11-21T12:31:35",
+      "content": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
+      "description": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/strange-saga-timmy-the-whale-germany",
+      "publishedAt": "2026-11-21T12:00:57",
+      "content": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
+      "description": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gro...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
+      "publishedAt": "2026-11-21T11:00:57",
+      "content": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gro..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
+      "description": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh...",
+      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+      "publishedAt": "2026-11-21T10:18:17",
+      "content": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 12: Divisions on fossil fuels, adaptation finance and trade set to delay deal until Sunday",
+      "description": "A COP31 cover decision is not likely to be adopted before 9am on Sunday, with many negotiators complaining they had not yet seen the full text\nThe post COP31 Bulletin Day 12: Divisions on fossil fu...",
+      "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
+      "publishedAt": "2026-11-21T07:46:00",
+      "content": "A COP31 cover decision is not likely to be adopted before 9am on Sunday, with many negotiators complaining they had not yet seen the full text\nThe post COP31 Bulletin Day 12: Divisions on fossil fu..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Watching a garden spider at work – do I detect a personality? | Oliver Southall",
+      "description": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/country-diary-watching-a-garden-spider-at-work-do-i-detect-a-personality",
+      "publishedAt": "2026-11-21T05:30:49",
+      "content": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
+      "description": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1.",
+      "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+      "publishedAt": "2026-11-20T23:32:21",
+      "content": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T22:57:26",
+      "content": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
+      "description": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
+      "url": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
+      "publishedAt": "2026-11-20T22:52:14",
+      "content": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
+      "description": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a...",
+      "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
+      "publishedAt": "2026-11-20T22:31:02",
+      "content": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
+      "description": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off...",
+      "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
+      "publishedAt": "2026-11-20T15:05:35",
+      "content": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
+      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
+      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
+      "publishedAt": "2026-11-20T14:16:51",
+      "content": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What are heat pumps and how much do they cost?",
+      "description": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
+      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T10:24:52",
+      "content": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 11: Countries decry cover text for omitting fossil fuels",
+      "description": "Small island states and a group of Global North and South nations say the draft decision is too weak on issues ranging from the transition away from fossil fuels to finance provision\nThe post COP31...",
+      "url": "https://www.climatechangenews.com/2026/11/20/cop31-bulletin-day-11-best-cop-worst-cop-weary-negotiators-seek-to-strengthen-outcome/",
+      "publishedAt": "2026-11-20T10:08:40",
+      "content": "Small island states and a group of Global North and South nations say the draft decision is too weak on issues ranging from the transition away from fossil fuels to finance provision\nThe post COP31..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Blue Wave Trickled Down to Little-Known Utility Commissions",
+      "description": "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.  Nine states, all historically ...",
+      "url": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
+      "publishedAt": "2026-11-20T10:00:00",
+      "content": "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.  Nine states, all historically ..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Eat your cup: could edible packaging help solve the world’s plastic problem?",
+      "description": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019The name of the Northamptonshire hamlet of Nobottle means “new building” in Old...",
+      "url": "https://www.theguardian.com/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
+      "publishedAt": "2026-11-20T08:00:27",
+      "content": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019The name of the Northamptonshire hamlet of Nobottle means “new building” in Old..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "How the Bipartisan Permitting Bill Could Drive Up Natural Gas Exports",
+      "description": "U.",
+      "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
+      "publishedAt": "2026-11-20T00:09:32",
+      "content": "U."
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -463,17 +595,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T13:35:29",
       "content": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Accord trials garment factory heat checks",
-      "description": "A pilot in Bangladesh and Pakistan will inform when factories must act to protect workers from excessive heat AMSTERDAM — \nThe post Accord trials garment factory heat checks appeared first on Ecote...",
-      "url": "https://www.ecotextile.com/2026111967419/news/social-compliance-and-csr/accord-trials-garment-factory-heat-checks/",
-      "publishedAt": "2026-11-19T13:27:02",
-      "content": "A pilot in Bangladesh and Pakistan will inform when factories must act to protect workers from excessive heat AMSTERDAM — \nThe post Accord trials garment factory heat checks appeared first on Ecote..."
     },
     {
       "source": {
@@ -529,138 +650,6 @@
       "url": "https://csrwire.com/press-release/georgia-pacific-lebanon-tennessee-facility-recognized-state-workplace-safety/",
       "publishedAt": "2026-11-19T09:00:00",
       "content": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What are heat pumps and how much do they cost?",
-      "description": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T10:24:52",
-      "content": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 11: Countries decry cover text for omitting fossil fuels",
-      "description": "Small island states and a group of Global North and South nations say the draft decision is too weak on issues ranging from the transition away from fossil fuels to finance provision\nThe post COP31...",
-      "url": "https://www.climatechangenews.com/2026/11/20/cop31-bulletin-day-11-best-cop-worst-cop-weary-negotiators-seek-to-strengthen-outcome/",
-      "publishedAt": "2026-11-20T10:08:40",
-      "content": "Small island states and a group of Global North and South nations say the draft decision is too weak on issues ranging from the transition away from fossil fuels to finance provision\nThe post COP31..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Blue Wave Trickled Down to Little-Known Utility Commissions",
-      "description": "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.  Nine states, all historically ...",
-      "url": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
-      "publishedAt": "2026-11-20T10:00:00",
-      "content": "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.  Nine states, all historically ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Eat your cup: could edible packaging help solve the world’s plastic problem?",
-      "description": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019The name of the Northamptonshire hamlet of Nobottle means “new building” in Old...",
-      "url": "https://www.theguardian.com/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
-      "publishedAt": "2026-11-20T08:00:27",
-      "content": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019The name of the Northamptonshire hamlet of Nobottle means “new building” in Old..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "World’s biggest wave machine tests resilience of salt marshes",
-      "description": "Dutch researchers discover sections of coastal wetland suffer remarkably little erosion after 21 hours of powerful wavesResearchers in the Netherlands have investigated how salt marshes withstand p...",
-      "url": "https://www.theguardian.com/news/2026/nov/20/worlds-biggest-wave-machine-tests-resilience-salt-marshes",
-      "publishedAt": "2026-11-20T06:00:25",
-      "content": "Dutch researchers discover sections of coastal wetland suffer remarkably little erosion after 21 hours of powerful wavesResearchers in the Netherlands have investigated how salt marshes withstand p..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Mysterious Mercury is about to get a visitor - after spacecraft's eight-year epic voyage",
-      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T05:59:56",
-      "content": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How the Bipartisan Permitting Bill Could Drive Up Natural Gas Exports",
-      "description": "U.",
-      "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
-      "publishedAt": "2026-11-20T00:09:32",
-      "content": "U."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Public Officials in Alabama Say a Huge, Chemically-Fueled Blaze Won’t Harm Residents. CDC and EPA Advise Otherwise.",
-      "description": "ATTALLA, Ala.",
-      "url": "https://insideclimatenews.org/news/19112026/alabama-chemical-fire-resident-health/",
-      "publishedAt": "2026-11-20T00:00:00",
-      "content": "ATTALLA, Ala."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driving electrification",
-      "description": "The report estimates that a planned transition away from fossil fuels and into renewables can add energy jobs and cut energy bills\nThe post As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driv...",
-      "url": "https://www.climatechangenews.com/2026/11/19/iea-report-hormuz-crisis-climate-electrification-shift-cop31-35x35-pledge/",
-      "publishedAt": "2026-11-19T12:46:05",
-      "content": "The report estimates that a planned transition away from fossil fuels and into renewables can add energy jobs and cut energy bills\nThe post As COP31 weighs 35×35 pledge, IEA says Hormuz crisis driv..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
-      "description": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.",
-      "url": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T09:21:54",
-      "content": "Survivors reject relocation plans they say ignore their safety, land rights and livelihoods."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 10: New draft keeps electrification goal but drops fossil fuel references",
-      "description": "The second draft of the COP31 cover decision also leaves out a key ask from many developing countries to put a number on tripling finance for adaptation\nThe post COP31 Bulletin Day 10: New draft ke...",
-      "url": "https://www.climatechangenews.com/2026/11/19/cop31-antalya-turkiye-australia-ministers-agremeent-fossil-fuels-electrification/",
-      "publishedAt": "2026-11-19T08:28:07",
-      "content": "The second draft of the COP31 cover decision also leaves out a key ask from many developing countries to put a number on tripling finance for adaptation\nThe post COP31 Bulletin Day 10: New draft ke..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T23:42:07",
-      "content": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
     }
   ]
 }
