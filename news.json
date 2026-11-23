@@ -1,7 +1,18 @@
 {
   "status": "ok",
-  "totalResults": 59,
+  "totalResults": 62,
   "articles": [
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "54 more affordable sustainable fashion brands",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/affordable-sustainable-fashion-brands/",
+      "publishedAt": "2026-11-22T23:00:15",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
+    },
     {
       "source": {
         "name": "Good On You"
@@ -10,8 +21,52 @@
       "title": "More sustainable fashion brand offers this November 2026",
       "description": "Feature image: Jyoti – Fair Works.",
       "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-11-15T22:00:45",
+      "publishedAt": "2026-11-22T22:00:45",
       "content": "Feature image: Jyoti – Fair Works."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "COP31 Climate Talks Broke Down. Now What?",
+      "description": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage.",
+      "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
+      "publishedAt": "2026-11-23T16:18:49",
+      "content": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Cambodia-EU partnership targets clean energy boost",
+      "description": "New initiative aims to help Cambodian garment factories improve energy efficiency and adopt cleaner production practices PHNOM PENH – Cambodia has \nThe post Cambodia-EU partnership targets clean en...",
+      "url": "https://www.ecotextile.com/2026112367472/news/environment/cambodia-eu-agreement-targets-clean-energy-boost/",
+      "publishedAt": "2026-11-23T12:31:27",
+      "content": "New initiative aims to help Cambodian garment factories improve energy efficiency and adopt cleaner production practices PHNOM PENH – Cambodia has \nThe post Cambodia-EU partnership targets clean en..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "Australia and South Korea’s clean energy deal could boost low-carbon trade",
+      "description": "The deal aims to connect Australia's renewable resources with Korean industries' clean energy demand, potentially transforming a relationship built on coal and gas \nThe post Australia and South Kor...",
+      "url": "https://www.climatechangenews.com/2026/11/23/australia-and-south-koreas-clean-energy-deal-could-boost-low-carbon-trade/",
+      "publishedAt": "2026-11-23T13:58:44",
+      "content": "The deal aims to connect Australia's renewable resources with Korean industries' clean energy demand, potentially transforming a relationship built on coal and gas \nThe post Australia and South Kor..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
+      "description": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp.",
+      "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+      "publishedAt": "2026-11-21T10:00:00",
+      "content": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp."
     },
     {
       "source": {
@@ -37,28 +92,6 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
-      "description": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp.",
-      "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
-      "publishedAt": "2026-11-21T10:00:00",
-      "content": "The Resistance, Part 3: A key ally to environmentalist Diane Wilson opposes a move by Texas regulators to issue Formosa Plastics Corp."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Banque des Territoires Acquires Stake in ESG Ratings Provider EthiFinance",
-      "description": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des",
-      "url": "https://www.esgtoday.com/banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance/?utm_source=rss&utm_medium=rss&utm_campaign=banque-des-territoires-acquires-stake-in-esg-ratings-provider-ethifinance",
-      "publishedAt": "2026-11-19T12:21:36",
-      "content": "Banque des Territoires, the regional development financing arm of French public financial institution Caisse des"
-    },
-    {
-      "source": {
         "name": "Triple Pundit"
       },
       "author": "Triple Pundit",
@@ -70,14 +103,102 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "After COP31, our chance to save climate diplomacy lies in global shipping",
+      "description": "If COP31's high ambition countries can show the same resolve at London shipping talks, a climate breakthrough is possible next week\nThe post After COP31, our chance to save climate diplomacy lies i...",
+      "url": "https://www.climatechangenews.com/2026/11/23/after-cop31-our-chance-to-save-climate-diplomacy-lies-in-global-shipping/",
+      "publishedAt": "2026-11-23T13:56:35",
+      "content": "If COP31's high ambition countries can show the same resolve at London shipping talks, a climate breakthrough is possible next week\nThe post After COP31, our chance to save climate diplomacy lies i..."
+    },
+    {
+      "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
-      "description": "Although parties are still talking, the summit president said there can be no agreement on key dealFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, dir...",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-      "publishedAt": "2026-11-22T13:19:53",
-      "content": "Although parties are still talking, the summit president said there can be no agreement on key dealFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, dir..."
+      "title": "Environment Agency and Natural England face axe in Labour quango cull",
+      "description": "Louise Haigh says the two environmental regulators are being reviewed as part of shake-up of arm’s length bodiesMinisters are considering abolishing two of England’s biggest environmental regulator...",
+      "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+      "publishedAt": "2026-11-23T13:03:42",
+      "content": "Louise Haigh says the two environmental regulators are being reviewed as part of shake-up of arm’s length bodiesMinisters are considering abolishing two of England’s biggest environmental regulator..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+      "description": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how ...",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+      "publishedAt": "2026-11-23T12:21:23",
+      "content": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how ..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Climate Hope",
+      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
+      "url": "https://insideclimatenews.org/news/23112026/inside-climate-podcast-glimmers-of-hope/",
+      "publishedAt": "2026-11-23T10:30:00",
+      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "A Midwest Manufacturer Ditched a Potent Greenhouse Gas. Will Others Follow?",
+      "description": "ANDERSON, Ind.",
+      "url": "https://insideclimatenews.org/news/23112026/indiana-magnesium-recycler-stopped-releasing-super-pollutant/",
+      "publishedAt": "2026-11-23T10:00:00",
+      "content": "ANDERSON, Ind."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Five takeaways from the failed climate talks COP31",
+      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T06:33:50",
+      "content": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T05:15:06",
+      "content": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
+      "description": "ANTALYA, Turkey—By the time the United Nations COP31 climate talks ended Sunday afternoon, the conference center resembled a going-out-of-business sale at a pawnshop for broken dreams. As cleaning ...",
+      "url": "https://insideclimatenews.org/news/22112026/uns-cop31-climate-conference-fizzles-out-as-global-policy-divides-deepen/",
+      "publishedAt": "2026-11-22T18:54:50",
+      "content": "ANTALYA, Turkey—By the time the United Nations COP31 climate talks ended Sunday afternoon, the conference center resembled a going-out-of-business sale at a pawnshop for broken dreams. As cleaning ..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "What's next after no deal at COP31 climate summit?",
+      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T18:28:48",
+      "content": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
     },
     {
       "source": {
@@ -114,17 +235,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
-      "description": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing worldClimate talks reached a standstill on Saturday night in Turkey as some count...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
-      "publishedAt": "2026-11-21T19:43:52",
-      "content": "New draft text released at Cop31 summit after countries fail to agree on electrification and finance for developing worldClimate talks reached a standstill on Saturday night in Turkey as some count..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
@@ -136,6 +246,138 @@
     },
     {
       "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "What was agreed – and not agreed – on key issues at COP31 talks?",
+      "description": "Climate Home News walks you through the main outcomes on negotiated items, ranging from finance to adaptation and carbon markets  \nThe post What was agreed – and not agreed – on key issues at COP31...",
+      "url": "https://www.climatechangenews.com/2026/11/23/what-was-agreed-and-not-agreed-on-key-issues-at-cop31-talks/",
+      "publishedAt": "2026-11-23T16:25:44",
+      "content": "Climate Home News walks you through the main outcomes on negotiated items, ranging from finance to adaptation and carbon markets  \nThe post What was agreed – and not agreed – on key issues at COP31..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Textile ETP unveils new strategy to boost technical textiles",
+      "description": "The European Technology Platform for the Future of Textiles and Clothing (Textile ETP) has launched a new strategy designed to \nThe post Textile ETP unveils new strategy to boost technical textiles...",
+      "url": "https://www.ecotextile.com/2026112367476/radar/textile-etp-unveils-new-strategy-to-boost-technical-textiles/",
+      "publishedAt": "2026-11-23T16:08:13",
+      "content": "The European Technology Platform for the Future of Textiles and Clothing (Textile ETP) has launched a new strategy designed to \nThe post Textile ETP unveils new strategy to boost technical textiles..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Social media app Xiaohongshu boosts outlook for new Chinese brands",
+      "description": "A rapidly growing number of new Chinese clothing brands are looking to expand across the country, with social media app \nThe post Social media app Xiaohongshu boosts outlook for new Chinese brands ...",
+      "url": "https://www.ecotextile.com/2026112367474/radar/social-media-app-xiaohongshu-boosts-outlook-for-new-chinese-brands/",
+      "publishedAt": "2026-11-23T13:10:29",
+      "content": "A rapidly growing number of new Chinese clothing brands are looking to expand across the country, with social media app \nThe post Social media app Xiaohongshu boosts outlook for new Chinese brands ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Enel Acquires U.S. Solar Portfolio from energyRe",
+      "description": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the",
+      "url": "https://www.esgtoday.com/enel-acquires-u-s-solar-portfolio-from-energyre/?utm_source=rss&utm_medium=rss&utm_campaign=enel-acquires-u-s-solar-portfolio-from-energyre",
+      "publishedAt": "2026-11-23T10:50:11",
+      "content": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the"
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Global brands urge Bangladesh wage rise",
+      "description": "Brands demand urgent increase in Bangladesh’s garment minimum wage as production losses from recent unrest climb to $428 million DHAKA \nThe post Global brands urge Bangladesh wage rise appeared fir...",
+      "url": "https://www.ecotextile.com/2026112367466/news/social-compliance-and-csr/global-brands-urge-bangladesh-wage-rise/",
+      "publishedAt": "2026-11-23T10:20:05",
+      "content": "Brands demand urgent increase in Bangladesh’s garment minimum wage as production losses from recent unrest climb to $428 million DHAKA \nThe post Global brands urge Bangladesh wage rise appeared fir..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Ardian Raises Over $250 Million for Nature Based Solutions Fund",
+      "description": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa",
+      "url": "https://www.esgtoday.com/ardian-raises-over-250-million-for-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=ardian-raises-over-250-million-for-nature-based-solutions-fund",
+      "publishedAt": "2026-11-23T10:06:23",
+      "content": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa"
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "Qualcomm Launches 2027 Innovation Fellowship Program for North America",
+      "description": "Qualcomm Technologies, Inc.",
+      "url": "https://csrwire.com/press-release/qualcomm-launches-2027-innovation-fellowship-program-north-america/",
+      "publishedAt": "2026-11-23T09:05:00",
+      "content": "Qualcomm Technologies, Inc."
+    },
+    {
+      "source": {
+        "name": "CSRWire"
+      },
+      "author": "CSRWire",
+      "title": "We Did It Again: Georgia-Pacific Produces 3 Billion Recyclable Padded and Unpadded Mailers",
+      "description": "Georgia-Pacific has produced our 3 BILLIONTH EarthKraft™ recyclable mailer.",
+      "url": "https://csrwire.com/press-release/we-did-it-again-georgia-pacific-produces-3-billion-recyclable-padded-and-unpadded-mailers/",
+      "publishedAt": "2026-11-23T09:00:00",
+      "content": "Georgia-Pacific has produced our 3 BILLIONTH EarthKraft™ recyclable mailer."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "EU, UK Agree to Link Carbon Markets from 2028",
+      "description": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems",
+      "url": "https://www.esgtoday.com/eu-uk-agree-to-link-carbon-markets-from-2028/?utm_source=rss&utm_medium=rss&utm_campaign=eu-uk-agree-to-link-carbon-markets-from-2028",
+      "publishedAt": "2026-11-23T07:48:09",
+      "content": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Once installed, there’s no getting rid of it’: what Falklands oil plans mean for its seals, whales and penguins",
+      "description": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystemsFrom the air, the main Falkland Islands...",
+      "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+      "publishedAt": "2026-11-23T06:00:49",
+      "content": "While Argentina and the UK dispute sovereignty over the islands and its vast oil reserves, environmentalists fear for one of the Atlantic’s richest ecosystemsFrom the air, the main Falkland Islands..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
+      "description": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31",
+      "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
+      "publishedAt": "2026-11-22T23:09:39",
+      "content": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31"
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning | Bill Hare",
+      "description": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate painThe failure of Cop31 in Antalya was a line in the sand moment, a...",
+      "url": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+      "publishedAt": "2026-11-22T22:30:48",
+      "content": "Co-chairing global climate talks is clearly not something to be repeated, certainly not by Australia, which is exporting climate painThe failure of Cop31 in Antalya was a line in the sand moment, a..."
+    },
+    {
+      "source": {
         "name": "New York Times"
       },
       "author": "New York Times",
@@ -144,72 +386,6 @@
       "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
       "publishedAt": "2026-11-20T15:20:14",
       "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘I went to bed … then Dad called to say Mum was convulsing’ - This is climate breakdown",
-      "description": "She had been worrying about her elderly parents, but the ferocity of the heatwave took them all by surprise.",
-      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/20/ferocity-of-heatwave-took-them-by-surprise-anne-sophie-woronoff-climate-breakdown",
-      "publishedAt": "2026-11-20T12:00:18",
-      "content": "She had been worrying about her elderly parents, but the ferocity of the heatwave took them all by surprise."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T05:03:43",
-      "content": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "ITMA Asia leaves China for Singapore",
-      "description": "CEMATEX will end its 20-year partnership with Chinese organisers and move ITMA Asia to Singapore in 2029, moving a major \nThe post ITMA Asia leaves China for Singapore appeared first on Ecotextile ...",
-      "url": "https://www.ecotextile.com/2026112267463/news/shows-events/itma-asia-leaves-china-for-singapore/",
-      "publishedAt": "2026-11-22T12:32:09",
-      "content": "CEMATEX will end its 20-year partnership with Chinese organisers and move ITMA Asia to Singapore in 2029, moving a major \nThe post ITMA Asia leaves China for Singapore appeared first on Ecotextile ..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 13: Summit faces collapse after several countries reject cover decision",
-      "description": "EU said it cannot accept deal that was \"hijacked by fossil fuel producers\", but the bloc came under fire for failure to make climate finance promises\nThe post COP31 Bulletin Day 13: Summit faces co...",
-      "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
-      "publishedAt": "2026-11-22T05:59:32",
-      "content": "EU said it cannot accept deal that was \"hijacked by fossil fuel producers\", but the bloc came under fire for failure to make climate finance promises\nThe post COP31 Bulletin Day 13: Summit faces co..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
-      "description": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6",
-      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
-      "publishedAt": "2026-11-19T14:37:09",
-      "content": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6"
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Bangladesh needs COP31 to deliver clarity on climate finance",
-      "description": "Bangladesh cannot bear rising climate costs alone - the UN summit in Antalya must show how timely, accessible finance will be delivered at the scale needed\nThe post Bangladesh needs COP31 to delive...",
-      "url": "https://www.climatechangenews.com/2026/11/19/bangladesh-needs-cop31-to-deliver-clarity-on-climate-finance/",
-      "publishedAt": "2026-11-19T01:00:00",
-      "content": "Bangladesh cannot bear rising climate costs alone - the UN summit in Antalya must show how timely, accessible finance will be delivered at the scale needed\nThe post Bangladesh needs COP31 to delive..."
     },
     {
       "source": {
@@ -235,6 +411,61 @@
     },
     {
       "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "What to Know About the Planned Explosion in Iowa",
+      "description": "The Army intends to detonate a stockpile of lead azide on Wednesday at a facility in southeastern Iowa, sending a plume of toxic lead dust into the nearby community.",
+      "url": "https://www.nytimes.com/2026/11/21/climate/what-to-know-about-the-planned-explosion-in-iowa.html",
+      "publishedAt": "2026-11-23T15:40:58",
+      "content": "The Army intends to detonate a stockpile of lead azide on Wednesday at a facility in southeastern Iowa, sending a plume of toxic lead dust into the nearby community."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Court Filing Shows How Iowa Explosives Crisis Grew",
+      "description": "The Army now plans to detonate a cache of dangerous explosives on Wednesday, potentially sending a plume of lead dust for miles over homes and farmland.",
+      "url": "https://www.nytimes.com/2026/11/22/climate/iowa-lead-crisis-court-filing-detonation-delay-army.html",
+      "publishedAt": "2026-11-23T12:19:16",
+      "content": "The Army now plans to detonate a cache of dangerous explosives on Wednesday, potentially sending a plume of lead dust for miles over homes and farmland."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Top deck of the bus for the finest views of autumn | John Gilbey",
+      "description": "Gwynedd: Past golden hillsides and the great Cadair Idris, through wooded valleys, to the starting point for my walkThe morning starts bright but cold, with a hazy mist clinging to the trees across...",
+      "url": "https://www.theguardian.com/environment/2026/nov/23/country-diary-top-deck-of-the-bus-for-the-finest-views-of-autumn",
+      "publishedAt": "2026-11-23T05:30:47",
+      "content": "Gwynedd: Past golden hillsides and the great Cadair Idris, through wooded valleys, to the starting point for my walkThe morning starts bright but cold, with a hazy mist clinging to the trees across..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "ITMA Asia leaves China for Singapore",
+      "description": "CEMATEX will end its 20-year partnership with Chinese organisers and move ITMA Asia to Singapore in 2029, moving a major \nThe post ITMA Asia leaves China for Singapore appeared first on Ecotextile ...",
+      "url": "https://www.ecotextile.com/2026112267463/news/shows-events/itma-asia-leaves-china-for-singapore/",
+      "publishedAt": "2026-11-22T12:32:09",
+      "content": "CEMATEX will end its 20-year partnership with Chinese organisers and move ITMA Asia to Singapore in 2029, moving a major \nThe post ITMA Asia leaves China for Singapore appeared first on Ecotextile ..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Pulpex Raises Over $30 Million to Scale Paper-based Bottle Production",
+      "description": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6",
+      "url": "https://www.esgtoday.com/pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology/?utm_source=rss&utm_medium=rss&utm_campaign=pulpex-raises-over-30-million-to-scale-paper-based-bottle-technology",
+      "publishedAt": "2026-11-19T14:37:09",
+      "content": "Sustainable packaging technology company Pulpex announced £24.6 million (USD$32.3 million) in new investments, including £19.6"
+    },
+    {
+      "source": {
         "name": "BBC"
       },
       "author": "BBC",
@@ -254,6 +485,94 @@
       "url": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
       "publishedAt": "2026-11-22T10:00:00",
       "content": "ABOARD THE MV SHARKWATER—At 5 a."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 13: Talks fail as many countries reject main deal",
+      "description": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\"\nThe post COP31 Bulletin Day 13: Talks fail as many coun...",
+      "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
+      "publishedAt": "2026-11-22T05:59:32",
+      "content": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\"\nThe post COP31 Bulletin Day 13: Talks fail as many coun..."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
+      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
+      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
+      "publishedAt": "2026-11-21T12:31:35",
+      "content": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
+      "description": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gro...",
+      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
+      "publishedAt": "2026-11-21T11:00:57",
+      "content": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gro..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
+      "description": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh...",
+      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
+      "publishedAt": "2026-11-21T10:18:17",
+      "content": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh..."
+    },
+    {
+      "source": {
+        "name": "Climate Change News"
+      },
+      "author": "Climate Change News",
+      "title": "COP31 Bulletin Day 12: Divisions on fossil fuels, adaptation finance and trade set to delay deal until Sunday",
+      "description": "A COP31 cover decision is not likely to be adopted before 9am on Sunday, with many negotiators complaining they had not yet seen the full text\nThe post COP31 Bulletin Day 12: Divisions on fossil fu...",
+      "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
+      "publishedAt": "2026-11-21T07:46:00",
+      "content": "A COP31 cover decision is not likely to be adopted before 9am on Sunday, with many negotiators complaining they had not yet seen the full text\nThe post COP31 Bulletin Day 12: Divisions on fossil fu..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
+      "description": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1.",
+      "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
+      "publishedAt": "2026-11-20T23:32:21",
+      "content": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+      "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T22:57:26",
+      "content": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
+      "description": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a...",
+      "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
+      "publishedAt": "2026-11-20T22:31:02",
+      "content": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a..."
     },
     {
       "source": {
@@ -345,270 +664,6 @@
     },
     {
       "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Tracker maps China’s new textile rulebook",
-      "description": "A new Ecotextile News interactive tracker for subscribers maps 15 Chinese laws, standards and policies reshaping textile compliance, with key \nThe post Tracker maps China’s new textile rulebook app...",
-      "url": "https://www.ecotextile.com/2026112067430/news/legislation/tracker-maps-chinas-new-textile-rulebook/",
-      "publishedAt": "2026-11-20T08:22:04",
-      "content": "A new Ecotextile News interactive tracker for subscribers maps 15 Chinese laws, standards and policies reshaping textile compliance, with key \nThe post Tracker maps China’s new textile rulebook app..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Target apparel sales buck growth",
-      "description": "Apparel and accessories sales at Target fell 3.8% year on year to $3.69 billion in the third quarter, even as \nThe post Target apparel sales buck growth appeared first on Ecotextile News.",
-      "url": "https://www.ecotextile.com/2026111967428/radar/target-apparel-sales-buck-growth/",
-      "publishedAt": "2026-11-19T14:48:10",
-      "content": "Apparel and accessories sales at Target fell 3.8% year on year to $3.69 billion in the third quarter, even as \nThe post Target apparel sales buck growth appeared first on Ecotextile News."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Screen printers drive Kornit deliveries",
-      "description": "Traditional screen printers accounted for about 60% of the digital printing systems Kornit Digital shipped in the first nine months \nThe post Screen printers drive Kornit deliveries appeared first ...",
-      "url": "https://www.ecotextile.com/2026111967426/radar/screen-printers-drive-kornit-deliveries/",
-      "publishedAt": "2026-11-19T14:43:12",
-      "content": "Traditional screen printers accounted for about 60% of the digital printing systems Kornit Digital shipped in the first nine months \nThe post Screen printers drive Kornit deliveries appeared first ..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Walmart’s Sam’s Club grows home and apparel",
-      "description": "Comparable sales in the US home and apparel category at Sam’s Club rose by mid-single digits in the third quarter, \nThe post Walmart’s Sam’s Club grows home and apparel appeared first on Ecotextile...",
-      "url": "https://www.ecotextile.com/2026111967424/radar/walmarts-sams-club-grows-home-and-apparel/",
-      "publishedAt": "2026-11-19T14:37:30",
-      "content": "Comparable sales in the US home and apparel category at Sam’s Club rose by mid-single digits in the third quarter, \nThe post Walmart’s Sam’s Club grows home and apparel appeared first on Ecotextile..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "TNFD Calls for Mandatory ISSB Nature Reporting Standard by 2030",
-      "description": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability",
-      "url": "https://www.esgtoday.com/tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard/?utm_source=rss&utm_medium=rss&utm_campaign=tnfd-urges-issb-to-issue-mandatory-nature-related-reporting-standard",
-      "publishedAt": "2026-11-19T10:45:51",
-      "content": "The Taskforce on Nature-related Financial Disclosures (TNFD) has called on the IFRS Foundation’s International Sustainability"
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Turkey’s Van Cats Contend With Rising Temperatures",
-      "description": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim.",
-      "url": "https://www.nytimes.com/2026/11/20/climate/van-cats-turkey.html",
-      "publishedAt": "2026-11-21T12:31:35",
-      "content": "A feline research center in Turkey uses air-conditioning and pools to keep residents comfortable as their numbers recover. And yes, they like to swim."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘People couldn’t deal with watching an animal die’: the strange saga of Timmy the whale – and how a whole country lost its mind",
-      "description": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/strange-saga-timmy-the-whale-germany",
-      "publishedAt": "2026-11-21T12:00:57",
-      "content": "When the humpback got stranded on Germany’s Baltic coast, crowds gathered, conspiracy theorists pitted themselves against scientists and animal lovers argued with vets. Why did the animal trigger s..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Legally, they don’t exist’: the hybrid crabs puzzling biologists and fishers",
-      "description": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gro...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas",
-      "publishedAt": "2026-11-21T11:00:57",
-      "content": "A heatwave in the Bering Sea that killed 10bn snow crabs has led to a new hybrid emerging that has no fishing quotasSomewhere out on the Bering Sea, hundreds of miles off the coast of Alaska, a gro..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 is shaping up to be a disaster – not only because it’s weak on fossil fuels",
-      "description": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh...",
-      "url": "https://www.climatechangenews.com/2026/11/21/cop31-is-shaping-up-to-be-a-disaster-not-only-because-its-weak-on-fossil-fuels/",
-      "publishedAt": "2026-11-21T10:18:17",
-      "content": "A singular focus on the lack of fossil fuel outcomes - which weren't actually on the agenda - obscures the story of EU and Global North bad faith on finance and just transition\nThe post COP31 is sh..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 12: Divisions on fossil fuels, adaptation finance and trade set to delay deal until Sunday",
-      "description": "A COP31 cover decision is not likely to be adopted before 9am on Sunday, with many negotiators complaining they had not yet seen the full text\nThe post COP31 Bulletin Day 12: Divisions on fossil fu...",
-      "url": "https://www.climatechangenews.com/2026/11/21/cop31-bulletin-day-12-dont-ignore-us-panama-warns-as-cop31-runs-into-overtime/",
-      "publishedAt": "2026-11-21T07:46:00",
-      "content": "A COP31 cover decision is not likely to be adopted before 9am on Sunday, with many negotiators complaining they had not yet seen the full text\nThe post COP31 Bulletin Day 12: Divisions on fossil fu..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: Watching a garden spider at work – do I detect a personality? | Oliver Southall",
-      "description": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect...",
-      "url": "https://www.theguardian.com/environment/2026/nov/21/country-diary-watching-a-garden-spider-at-work-do-i-detect-a-personality",
-      "publishedAt": "2026-11-21T05:30:49",
-      "content": "Hurstpierpoint, West Sussex: The way that it sits patiently, and solves problems … it’s hard not to wonder if it has some kind of inner lifeThree months with a newborn has given me a fresh perspect..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Alabama Power Announces $160 Million Rate Decrease for 2027 After Pushback on High Energy Costs",
-      "description": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1.",
-      "url": "https://insideclimatenews.org/news/20112026/alabama-power-rate-decrease/",
-      "publishedAt": "2026-11-20T23:32:21",
-      "content": "Alabama Power announced Friday its electric rates would decrease across the board next year, saving its 1."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-      "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T22:57:26",
-      "content": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "What Are King Tides, and Why Is Everyone Talking About Them?",
-      "description": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides.",
-      "url": "https://www.nytimes.com/2026/11/20/weather/what-is-a-king-tide.html",
-      "publishedAt": "2026-11-20T22:52:14",
-      "content": "Because of El Niño, the Pacific Ocean is already higher than normal. This year, that could lead to some especially high tides."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Court Delays Plan to Detonate Toxic Explosives in Iowa",
-      "description": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a...",
-      "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/",
-      "publishedAt": "2026-11-20T22:31:02",
-      "content": "Plans to detonate nearly 10,000 pounds of degraded lead azide at an Eastern Iowa ammunition plant are on hold after the Army postponed the operation and a federal appeals court temporarily halted a..."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "Ugandan oil official welcomes transition roadmap as nation gears up for exports",
-      "description": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off...",
-      "url": "https://www.climatechangenews.com/2026/11/20/uganda-backs-fossil-fuel-transition-roadmap-gears-up-oil-exports/",
-      "publishedAt": "2026-11-20T15:05:35",
-      "content": "A senior Petroleum Authority official described the global roadmap as \"fundamental\" to Uganda's transition planning as it prepares to become the world's newest oil exporter\nThe post Ugandan oil off..."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "U.S. Auctions 31.5 Million Acres of Pacific Ocean to Deep Sea Mining Company",
-      "description": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/metals-company-seafloor-mining-auction.html",
-      "publishedAt": "2026-11-20T14:16:51",
-      "content": "The first-ever lease sale took place over the objections of a federal judge. Wetstone U.S. Ventures paid $6 million to lease the seabed for mapping and preparation, not actual mining."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What are heat pumps and how much do they cost?",
-      "description": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills.",
-      "url": "https://www.bbc.co.uk/news/articles/c8xgdv9e007o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T10:24:52",
-      "content": "The government wants more homes to have heat pumps to cut fossil fuel use and drive down energy bills."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 11: Countries decry cover text for omitting fossil fuels",
-      "description": "Small island states and a group of Global North and South nations say the draft decision is too weak on issues ranging from the transition away from fossil fuels to finance provision\nThe post COP31...",
-      "url": "https://www.climatechangenews.com/2026/11/20/cop31-bulletin-day-11-best-cop-worst-cop-weary-negotiators-seek-to-strengthen-outcome/",
-      "publishedAt": "2026-11-20T10:08:40",
-      "content": "Small island states and a group of Global North and South nations say the draft decision is too weak on issues ranging from the transition away from fossil fuels to finance provision\nThe post COP31..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "Blue Wave Trickled Down to Little-Known Utility Commissions",
-      "description": "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.  Nine states, all historically ...",
-      "url": "https://insideclimatenews.org/news/20112026/utility-commissions-democrat-election-victories/",
-      "publishedAt": "2026-11-20T10:00:00",
-      "content": "Data centers and increased energy costs brought attention to typically low-profile utility commission races in states across the country during this year’s midterms.  Nine states, all historically ..."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Eat your cup: could edible packaging help solve the world’s plastic problem?",
-      "description": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019The name of the Northamptonshire hamlet of Nobottle means “new building” in Old...",
-      "url": "https://www.theguardian.com/environment/2026/nov/20/could-edible-packaging-help-solve-world-plastic-problem",
-      "publishedAt": "2026-11-20T08:00:27",
-      "content": "Experts say seaweed could be a solution in the fight against global plastic waste, which doubled between 2000 and 2019The name of the Northamptonshire hamlet of Nobottle means “new building” in Old..."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "How the Bipartisan Permitting Bill Could Drive Up Natural Gas Exports",
-      "description": "U.",
-      "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/",
-      "publishedAt": "2026-11-20T00:09:32",
-      "content": "U."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
-      "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T13:35:29",
-      "content": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "EU Reaches Deal to Delay to Methane Monitoring and Reporting Rules",
-      "description": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone",
-      "url": "https://www.esgtoday.com/eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules/?utm_source=rss&utm_medium=rss&utm_campaign=eu-lawmakers-states-agree-to-2-year-delay-to-methane-reporting-rules",
-      "publishedAt": "2026-11-19T13:02:36",
-      "content": "Lawmakers in the European Parliament and EU Member States announced a provisional agreement to postpone"
-    },
-    {
-      "source": {
         "name": "CSRWire"
       },
       "author": "CSRWire",
@@ -628,28 +683,6 @@
       "url": "https://csrwire.com/press-release/henkel-north-america-celebrates-community-impact-day-2026/",
       "publishedAt": "2026-11-19T11:05:00",
       "content": "On October 8, over 2,000 Henkel employees across 25 locations participated in volunteer activities in support of more than 50 local nonprofit organizations in recognition of Henkel's 4th annual Com..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Connecting People to Humanitarian Assistance With Responsible AI",
-      "description": "When disaster strikes, survival often comes down to getting the right answers to simple, but potentially lifesaving, questions: Where can I find a safe place to sleep tonight? How can I get medical...",
-      "url": "https://csrwire.com/press-release/connecting-people-humanitarian-assistance-responsible-ai/",
-      "publishedAt": "2026-11-19T10:00:00",
-      "content": "When disaster strikes, survival often comes down to getting the right answers to simple, but potentially lifesaving, questions: Where can I find a safe place to sleep tonight? How can I get medical..."
-    },
-    {
-      "source": {
-        "name": "CSRWire"
-      },
-      "author": "CSRWire",
-      "title": "Georgia-Pacific Lebanon Tennessee Facility Recognized by the State for Workplace Safety",
-      "description": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi...",
-      "url": "https://csrwire.com/press-release/georgia-pacific-lebanon-tennessee-facility-recognized-state-workplace-safety/",
-      "publishedAt": "2026-11-19T09:00:00",
-      "content": "Georgia-Pacific’s Lebanon Corrugated facility was recently recognized by the Tennessee Occupational Safety and Health Administration division of the Department of Labor and Workforce Development wi..."
     }
   ]
 }
