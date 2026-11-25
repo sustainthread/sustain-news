@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 49,
+  "totalResults": 61,
   "articles": [
     {
       "source": {
@@ -12,6 +12,28 @@
       "url": "https://www.esgtoday.com/snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals/?utm_source=rss&utm_medium=rss&utm_campaign=snam-issues-1-25-billion-sustainability-linked-bonds-tied-to-value-chain-decarbonization-goals",
       "publishedAt": "2026-11-24T08:03:55",
       "content": "Italian energy infrastructure and services provider Snam announced that is has raised $1.25 billion a"
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "More sustainable fashion brand offers this November 2026",
+      "description": "Feature image: Jyoti – Fair Works.",
+      "url": "https://goodonyou.eco/good-offers-wrap/",
+      "publishedAt": "2026-11-24T21:00:45",
+      "content": "Feature image: Jyoti – Fair Works."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Amalgamated Bank Appoints Morgan Stanley Head of Climate Transition Sean Wright as Chief Sustainability Officer",
+      "description": "New York City-based social responsibility-focused Amalgamated Bank announced the appointment of Sean Wright as its",
+      "url": "https://www.esgtoday.com/amalgamated-bank-appoints-morgan-stanley-head-of-climate-transition-sean-wright-as-chief-sustainability-officer/?utm_source=rss&utm_medium=rss&utm_campaign=amalgamated-bank-appoints-morgan-stanley-head-of-climate-transition-sean-wright-as-chief-sustainability-officer",
+      "publishedAt": "2026-11-24T17:12:09",
+      "content": "New York City-based social responsibility-focused Amalgamated Bank announced the appointment of Sean Wright as its"
     },
     {
       "source": {
@@ -29,33 +51,11 @@
         "name": "Good On You"
       },
       "author": "Good On You",
-      "title": "More sustainable fashion brand offers this November 2026",
-      "description": "Feature image: Jyoti – Fair Works.",
-      "url": "https://goodonyou.eco/good-offers-wrap/",
-      "publishedAt": "2026-11-23T21:00:45",
-      "content": "Feature image: Jyoti – Fair Works."
-    },
-    {
-      "source": {
-        "name": "Good On You"
-      },
-      "author": "Good On You",
       "title": "54 more affordable sustainable fashion brands",
       "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
       "url": "https://goodonyou.eco/affordable-sustainable-fashion-brands/",
       "publishedAt": "2026-11-22T23:00:15",
       "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "‘Scapegoating’: green groups condemn plan to axe Environment Agency and Natural England",
-      "description": "Ministers proposing to abolish the quangos in attempt to give politicians more control over what gets built and where Scientists have accused the government of scapegoating nature for proposing to ...",
-      "url": "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
-      "publishedAt": "2026-11-23T17:47:58",
-      "content": "Ministers proposing to abolish the quangos in attempt to give politicians more control over what gets built and where Scientists have accused the government of scapegoating nature for proposing to ..."
     },
     {
       "source": {
@@ -67,6 +67,17 @@
       "url": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html",
       "publishedAt": "2026-11-23T16:18:49",
       "content": "With big diplomatic efforts faltering, smaller pacts, local leaders and booming clean energy take center stage."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "BBVA Launches Transition Finance Framework to Back Decarbonization of Hard-to-Abate Sectors",
+      "description": "Spanish bank BBVA announced the launch of its new Transition Debt Finance Framework, aimed at",
+      "url": "https://www.esgtoday.com/bbva-launches-transition-finance-framework-to-back-decarbonization-of-hard-to-abate-sectors/?utm_source=rss&utm_medium=rss&utm_campaign=bbva-launches-transition-finance-framework-to-back-decarbonization-of-hard-to-abate-sectors",
+      "publishedAt": "2026-11-25T09:42:41",
+      "content": "Spanish bank BBVA announced the launch of its new Transition Debt Finance Framework, aimed at"
     },
     {
       "source": {
@@ -84,11 +95,22 @@
         "name": "Ecotextile"
       },
       "author": "Ecotextile",
-      "title": "Apani buys seaweed fibre assets",
-      "description": "Apani acquires the assets of bankrupt seaweed fibre developer Keel Labs, expanding its cotton-cellulose platform RALEIGH – Textile recycling and \nThe post Apani buys seaweed fibre assets appeared f...",
-      "url": "https://www.ecotextile.com/2026112467502/news/shows-events/apani-buys-seaweed-fibre-assets/",
-      "publishedAt": "2026-11-24T12:00:35",
-      "content": "Apani acquires the assets of bankrupt seaweed fibre developer Keel Labs, expanding its cotton-cellulose platform RALEIGH – Textile recycling and \nThe post Apani buys seaweed fibre assets appeared f..."
+      "title": "Nine chemical companies acknowledge PFAS concerns",
+      "description": "Nine chemical companies have publicly acknowledged concerns about PFAS persistence or potential impacts in statements compiled by environmental organisation ChemSec. \nThe post Nine chemical compani...",
+      "url": "https://www.ecotextile.com/2026112567469/radar/nine-chemical-companies-acknowledge-pfas-concerns/",
+      "publishedAt": "2026-11-25T14:00:04",
+      "content": "Nine chemical companies have publicly acknowledged concerns about PFAS persistence or potential impacts in statements compiled by environmental organisation ChemSec. \nThe post Nine chemical compani..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Verified cashmere production rises by 36%",
+      "description": "Farm participation expands as latest verification cycle reports uneven compliance across animal welfare, environmental and management criteria HAMBURG — Verified \nThe post Verified cashmere product...",
+      "url": "https://www.ecotextile.com/2026112567564/news/environment/verified-cashmere-production-rises-by-36/",
+      "publishedAt": "2026-11-25T10:50:55",
+      "content": "Farm participation expands as latest verification cycle reports uneven compliance across animal welfare, environmental and management criteria HAMBURG — Verified \nThe post Verified cashmere product..."
     },
     {
       "source": {
@@ -103,61 +125,6 @@
     },
     {
       "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
-      "description": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliancesWe are “misplacing our trust” in the Cop climate summits and their “capacity to deliver conseque...",
-      "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-      "publishedAt": "2026-11-24T00:01:00",
-      "content": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliancesWe are “misplacing our trust” in the Cop climate summits and their “capacity to deliver conseque..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "EU-Indonesia deal promises duty-free exports",
-      "description": "New trade agreement could boost Indonesia’s textile, apparel and footwear industries, but manufacturers face growing EU regulatory and sustainability demands \nThe post EU-Indonesia deal promises du...",
-      "url": "https://www.ecotextile.com/2026112467523/news/shows-events/eu-indonesia-deal-promises-duty-free-exports/",
-      "publishedAt": "2026-11-24T13:13:44",
-      "content": "New trade agreement could boost Indonesia’s textile, apparel and footwear industries, but manufacturers face growing EU regulatory and sustainability demands \nThe post EU-Indonesia deal promises du..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "STICA week to tackle fashion’s decarbonisation barriers",
-      "description": "Event will examine climate finance, factory emissions and worker protection as fashion industry faces pressure to accelerate action STOCKHOLM — \nThe post STICA week to tackle fashion’s decarbonisat...",
-      "url": "https://www.ecotextile.com/2026112467503/news/environment/stica-week-to-tackle-fashions-decarbonisation-barriers/",
-      "publishedAt": "2026-11-24T11:50:53",
-      "content": "Event will examine climate finance, factory emissions and worker protection as fashion industry faces pressure to accelerate action STOCKHOLM — \nThe post STICA week to tackle fashion’s decarbonisat..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Better Cotton unveils African conference speakers",
-      "description": "The Better Cotton Initiative has confirmed climate activist Vanessa Nakate and cotton farmer Adrain Nelson as keynote speakers for its \nThe post Better Cotton unveils African conference speakers ap...",
-      "url": "https://www.ecotextile.com/2026112467511/radar/better-cotton-unveils-african-conference-speakers/",
-      "publishedAt": "2026-11-24T11:48:02",
-      "content": "The Better Cotton Initiative has confirmed climate activist Vanessa Nakate and cotton farmer Adrain Nelson as keynote speakers for its \nThe post Better Cotton unveils African conference speakers ap..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "BASF Sells Battery Recycling Business to Cylib",
-      "description": "Sustainable battery recycling technology company cylib announced an agreement to acquire chemicals giant BASF’s Battery",
-      "url": "https://www.esgtoday.com/basf-sells-battery-recycling-business-to-cylib/?utm_source=rss&utm_medium=rss&utm_campaign=basf-sells-battery-recycling-business-to-cylib",
-      "publishedAt": "2026-11-24T11:14:48",
-      "content": "Sustainable battery recycling technology company cylib announced an agreement to acquire chemicals giant BASF’s Battery"
-    },
-    {
-      "source": {
         "name": "Climate Change News"
       },
       "author": "Climate Change News",
@@ -169,76 +136,153 @@
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Ecotextile"
       },
-      "author": "Inside Climate News",
-      "title": "Climate Hope",
-      "description": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News.",
-      "url": "https://insideclimatenews.org/news/23112026/inside-climate-podcast-glimmers-of-hope/",
-      "publishedAt": "2026-11-23T10:30:00",
-      "content": "Welcome to Inside Climate, a podcast from the staff of Inside Climate News."
+      "author": "Ecotextile",
+      "title": "Burlington posts 8% sales growth for Q3",
+      "description": "American retailer Burlington Stores has reported an 8% year-on-year increase in total sales to $2.",
+      "url": "https://www.ecotextile.com/2026112567586/radar/burlington-posts-8-sales-growth-for-q3/",
+      "publishedAt": "2026-11-25T14:30:58",
+      "content": "American retailer Burlington Stores has reported an 8% year-on-year increase in total sales to $2."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Dick’s raises FY26 outlook after strong Q3",
+      "description": "US chain Dick’s Sporting Goods has raised its full-year guidance after a strong third quarter, reporting net sales of $5.",
+      "url": "https://www.ecotextile.com/2026112567582/radar/dicks-raises-fy26-outlook-after-strong-q3/",
+      "publishedAt": "2026-11-25T14:15:28",
+      "content": "US chain Dick’s Sporting Goods has raised its full-year guidance after a strong third quarter, reporting net sales of $5."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Kohl’s returns to growth in Q3 and raises FY26 outlook",
+      "description": "US department store Kohl’s has reported a return to top-line growth in its third quarter of FY26, with net sales \nThe post Kohl’s returns to growth in Q3 and raises FY26 outlook appeared first on E...",
+      "url": "https://www.ecotextile.com/2026112567579/radar/kohls-returns-to-growth-in-q3-and-raises-fy26-outlook/",
+      "publishedAt": "2026-11-25T13:25:51",
+      "content": "US department store Kohl’s has reported a return to top-line growth in its third quarter of FY26, with net sales \nThe post Kohl’s returns to growth in Q3 and raises FY26 outlook appeared first on E..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Brands divided over factory abuse allegations",
+      "description": "Next and Primark dispute watchdog findings at Bangladesh supplier, while LPP says serious violations prompted its exit decision GAZIPUR — \nThe post Brands divided over factory abuse allegations app...",
+      "url": "https://www.ecotextile.com/2026112567576/news/social-compliance-and-csr/brands-divided-over-factory-abuse-allegations/",
+      "publishedAt": "2026-11-25T13:09:35",
+      "content": "Next and Primark dispute watchdog findings at Bangladesh supplier, while LPP says serious violations prompted its exit decision GAZIPUR — \nThe post Brands divided over factory abuse allegations app..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Abercrombie & Fitch posts Q3 sales of $1.4bn, up 11%",
+      "description": "US fashion giant Abercrombie & Fitch has reported net sales of $1.",
+      "url": "https://www.ecotextile.com/2026112567573/radar/abercrombie-fitch-posts-fy26-q3-net-sales-of-1-4bn-up-11/",
+      "publishedAt": "2026-11-25T12:33:00",
+      "content": "US fashion giant Abercrombie & Fitch has reported net sales of $1."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Bangladesh textile output falls as energy disruptions intensify",
+      "description": "A new industry survey in Bangladesh has revealed a sharp fall in textile output and capacity use among textile manufacturers \nThe post Bangladesh textile output falls as energy disruptions intensif...",
+      "url": "https://www.ecotextile.com/2026112567570/radar/bangladesh-textile-output-falls-as-energy-disruptions-intensify/",
+      "publishedAt": "2026-11-25T11:55:40",
+      "content": "A new industry survey in Bangladesh has revealed a sharp fall in textile output and capacity use among textile manufacturers \nThe post Bangladesh textile output falls as energy disruptions intensif..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Tesco challenges UK forced labour claim",
+      "description": "Migrant garment workers face a jurisdiction battle as Tesco argues their claims should be heard in Thailand instead of the \nThe post Tesco challenges UK forced labour claim appeared first on Ecotex...",
+      "url": "https://www.ecotextile.com/2026112567567/news/social-compliance-and-csr/tesco-challenges-uk-forced-labour-claim/",
+      "publishedAt": "2026-11-25T11:21:14",
+      "content": "Migrant garment workers face a jurisdiction battle as Tesco argues their claims should be heard in Thailand instead of the \nThe post Tesco challenges UK forced labour claim appeared first on Ecotex..."
+    },
+    {
+      "source": {
+        "name": "Ecotextile"
+      },
+      "author": "Ecotextile",
+      "title": "Grid costs stall textile heat pumps – Aii",
+      "description": "Electricity infrastructure, renewable power access and lengthy paybacks identified as barriers to heat pump adoption in textile supply chains SAN \nThe post Grid costs stall textile heat pumps – Aii...",
+      "url": "https://www.ecotextile.com/2026112567560/news/environment/grid-costs-stall-textile-heat-pumps-aii/",
+      "publishedAt": "2026-11-25T10:33:35",
+      "content": "Electricity infrastructure, renewable power access and lengthy paybacks identified as barriers to heat pump adoption in textile supply chains SAN \nThe post Grid costs stall textile heat pumps – Aii..."
     },
     {
       "source": {
         "name": "Inside Climate News"
       },
       "author": "Inside Climate News",
-      "title": "A Midwest Manufacturer Ditched a Potent Greenhouse Gas. Will Others Follow?",
-      "description": "ANDERSON, Ind.",
-      "url": "https://insideclimatenews.org/news/23112026/indiana-magnesium-recycler-stopped-releasing-super-pollutant/",
-      "publishedAt": "2026-11-23T10:00:00",
-      "content": "ANDERSON, Ind."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Five takeaways from the failed climate talks COP31",
-      "description": "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
-      "url": "https://www.bbc.co.uk/news/articles/cm75237wlp3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T06:33:50",
-      "content": "The COP31 summit in Antalya was the longest-running climate talks in UN history."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T05:15:06",
-      "content": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\"."
-    },
-    {
-      "source": {
-        "name": "Inside Climate News"
-      },
-      "author": "Inside Climate News",
-      "title": "UN’s COP31 Climate Conference Fizzles Out as Global Policy Divides Deepen",
-      "description": "ANTALYA, Turkey—By the time the United Nations COP31 climate talks ended Sunday afternoon, the conference center resembled a going-out-of-business sale at a pawnshop for broken dreams. As cleaning ...",
-      "url": "https://insideclimatenews.org/news/22112026/uns-cop31-climate-conference-fizzles-out-as-global-policy-divides-deepen/",
-      "publishedAt": "2026-11-22T18:54:50",
-      "content": "ANTALYA, Turkey—By the time the United Nations COP31 climate talks ended Sunday afternoon, the conference center resembled a going-out-of-business sale at a pawnshop for broken dreams. As cleaning ..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What's next after no deal at COP31 climate summit?",
-      "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T18:28:48",
-      "content": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal."
+      "title": "Maryland Regulators, Air Force Squabble Over Fuel Spill and Golf Course at Joint Base Andrews",
+      "description": "Recent testing at Joint Base Andrews found a thick layer of jet fuel beneath the airfield, eight months after a spill was detected near Piscataway Creek. But the Air Force and Maryland environmenta...",
+      "url": "https://insideclimatenews.org/news/25112026/joint-base-andrews-jet-fuel-spill-cleanup-golf-course-renovation/",
+      "publishedAt": "2026-11-25T09:55:00",
+      "content": "Recent testing at Joint Base Andrews found a thick layer of jet fuel beneath the airfield, eight months after a spill was detected near Piscataway Creek. But the Air Force and Maryland environmenta..."
     },
     {
       "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "U.S. DOL Proposes Retirement Plan Rules Estimated to Shift $15 Billion Out of ESG Funds",
+      "title": "LEGO Plans New €1 Billion 100% Renewables-Powered Factory in Portugal",
+      "description": "The LEGO Group announced plans to build a new factory in Estarreja, Portugal, designed with",
+      "url": "https://www.esgtoday.com/lego-plans-new-e1-billion-100-renewables-powered-factory-in-portugal/?utm_source=rss&utm_medium=rss&utm_campaign=lego-plans-new-e1-billion-100-renewables-powered-factory-in-portugal",
+      "publishedAt": "2026-11-25T09:19:19",
+      "content": "The LEGO Group announced plans to build a new factory in Estarreja, Portugal, designed with"
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "Sarasin & Partners Hires Fiona Manning to Lead Responsible Global Equity Strategy",
+      "description": "UK-based thematic investment manager Sarasin & Partners announced a series of new hires, including the",
+      "url": "https://www.esgtoday.com/sarasin-partners-hires-fiona-manning-to-lead-responsible-global-equity-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=sarasin-partners-hires-fiona-manning-to-lead-responsible-global-equity-strategy",
+      "publishedAt": "2026-11-25T08:30:51",
+      "content": "UK-based thematic investment manager Sarasin & Partners announced a series of new hires, including the"
+    },
+    {
+      "source": {
+        "name": "The Hindu"
+      },
+      "author": "The Hindu",
+      "title": "Global climate talks must shut door on fossil fuel ‘clout’",
+      "description": "The breakdown in the Antalya summit has deepened the crisis of confidence in climate diplomacy, making transparency and accountability in the negotiating process more urgent than ever.",
+      "url": "https://www.thehindu.com/business/global-climate-talks-must-shut-the-door-on-fossil-fuel-influence/article71738093.ece",
+      "publishedAt": "2026-11-25T05:11:40",
+      "content": "The breakdown in the Antalya summit has deepened the crisis of confidence in climate diplomacy, making transparency and accountability in the negotiating process more urgent than ever."
+    },
+    {
+      "source": {
+        "name": "Triple Pundit"
+      },
+      "author": "Triple Pundit",
+      "title": "Tire Wear Emissions: A Science Still in Motion",
+      "description": "The Tire Industry Project’s State of Knowledge papers consolidate more than 850 peer-reviewed publications into one of the most comprehensive independent reviews of tire wear emissions to date. Whi...",
+      "url": "https://triplepundit.com/2026/tire-wear-emissions-science-motion/",
+      "publishedAt": "2026-11-24T17:41:26",
+      "content": "The Tire Industry Project’s State of Knowledge papers consolidate more than 850 peer-reviewed publications into one of the most comprehensive independent reviews of tire wear emissions to date. Whi..."
+    },
+    {
+      "source": {
+        "name": "ESG Today"
+      },
+      "author": "ESG Today",
+      "title": "U.S. DOL Proposal Estimated to Shift $15 Billion of Retirement Assets Out of ESG Funds",
       "description": "The U.S. Department of Labor announced the release of a series of proposed amendments to",
       "url": "https://www.esgtoday.com/u-s-dol-proposes-retirement-plan-rules-expected-to-shift-15-billion-out-of-esg-funds/?utm_source=rss&utm_medium=rss&utm_campaign=u-s-dol-proposes-retirement-plan-rules-expected-to-shift-15-billion-out-of-esg-funds",
       "publishedAt": "2026-11-24T16:22:51",
@@ -246,102 +290,14 @@
     },
     {
       "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Everdye joins denim circularity initiative",
-      "description": "French dyeing technology company Everdye has joined the Denim Deal, bringing low-temperature textile colouring expertise to an initiative focused on \nThe post Everdye joins denim circularity initia...",
-      "url": "https://www.ecotextile.com/2026112467539/radar/everdye-joins-denim-circularity-initiative/",
-      "publishedAt": "2026-11-24T14:21:55",
-      "content": "French dyeing technology company Everdye has joined the Denim Deal, bringing low-temperature textile colouring expertise to an initiative focused on \nThe post Everdye joins denim circularity initia..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Lenzing backs Treetotextile fibre scale-up plans",
-      "description": "Cellulose fibre developer targets industrial production in Europe, while anticipated resource efficiency and cost benefits remain subject to validation LENZING \nThe post Lenzing backs Treetotextile...",
-      "url": "https://www.ecotextile.com/2026112467534/news/shows-events/lenzing-backs-treetotextile-fibre-scale-up-plans/",
-      "publishedAt": "2026-11-24T14:19:26",
-      "content": "Cellulose fibre developer targets industrial production in Europe, while anticipated resource efficiency and cost benefits remain subject to validation LENZING \nThe post Lenzing backs Treetotextile..."
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Inspectors find online chemical non-compliance",
-      "description": "Inspectors across 27 European Economic Area (EEA) countries found that 61% of 5,281 products or online offers checked under the \nThe post Inspectors find online chemical non-compliance appeared fir...",
-      "url": "https://www.ecotextile.com/2026112467521/radar/inspectors-find-online-chemical-non-compliance/",
-      "publishedAt": "2026-11-24T13:06:20",
-      "content": "Inspectors across 27 European Economic Area (EEA) countries found that 61% of 5,281 products or online offers checked under the \nThe post Inspectors find online chemical non-compliance appeared fir..."
-    },
-    {
-      "source": {
         "name": "ESG Today"
       },
       "author": "ESG Today",
-      "title": "CIP Raises $1.9 Billion Through New Instrument Providing Investors Access to Energy Transition Infrastructure Funds",
-      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the close of its first rated,",
-      "url": "https://www.esgtoday.com/cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds/?utm_source=rss&utm_medium=rss&utm_campaign=cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds",
-      "publishedAt": "2026-11-24T12:52:42",
-      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the close of its first rated,"
-    },
-    {
-      "source": {
-        "name": "Ecotextile"
-      },
-      "author": "Ecotextile",
-      "title": "Due diligence boosts textile SME growth",
-      "description": "Research finds no commercial penalty for stronger human rights due diligence among garment, textile and footwear SMEs GENEVA – Stronger \nThe post Due diligence boosts textile SME growth appeared fi...",
-      "url": "https://www.ecotextile.com/2026112467518/news/shows-events/due-diligence-boosts-textile-sme-growth/",
-      "publishedAt": "2026-11-24T12:52:19",
-      "content": "Research finds no commercial penalty for stronger human rights due diligence among garment, textile and footwear SMEs GENEVA – Stronger \nThe post Due diligence boosts textile SME growth appeared fi..."
-    },
-    {
-      "source": {
-        "name": "ESG Today"
-      },
-      "author": "ESG Today",
-      "title": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
-      "description": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6",
-      "url": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
-      "publishedAt": "2026-11-24T09:19:40",
-      "content": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6"
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Country diary: A close watch on this autumn’s leaf fall – it’s been unpredictable | Elizabeth-Jane Burnett",
-      "description": "Creedy Valley, Devon: Three oaks in a row – one is green, one is bronze and the other is shedding its golden leaves like a shaken snow globeLeaves fall from the oak on the brow of the hill in a flu...",
-      "url": "https://www.theguardian.com/environment/2026/nov/24/country-diary-a-close-watch-on-this-autumns-leaf-fall-its-been-unpredictable",
-      "publishedAt": "2026-11-24T05:30:07",
-      "content": "Creedy Valley, Devon: Three oaks in a row – one is green, one is bronze and the other is shedding its golden leaves like a shaken snow globeLeaves fall from the oak on the brow of the hill in a flu..."
-    },
-    {
-      "source": {
-        "name": "BBC"
-      },
-      "author": "BBC",
-      "title": "What failure of COP31 reveals about a divided world",
-      "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-23T17:24:25",
-      "content": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks."
-    },
-    {
-      "source": {
-        "name": "New York Times"
-      },
-      "author": "New York Times",
-      "title": "Inside COP31: Part Trade Show, Part Climate Therapy Session",
-      "description": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session.",
-      "url": "https://www.nytimes.com/2026/11/19/climate/cop31-turkey-event-scene.html",
-      "publishedAt": "2026-11-20T15:20:14",
-      "content": "A record number of people are attending the U.N. climate talks in Turkey, which has become part trade show, part carnival, part climate therapy session."
+      "title": "BASF Sells Battery Recycling Business to Cylib",
+      "description": "Sustainable battery recycling technology company cylib announced an agreement to acquire chemicals giant BASF’s Battery",
+      "url": "https://www.esgtoday.com/basf-sells-battery-recycling-business-to-cylib/?utm_source=rss&utm_medium=rss&utm_campaign=basf-sells-battery-recycling-business-to-cylib",
+      "publishedAt": "2026-11-24T11:14:48",
+      "content": "Sustainable battery recycling technology company cylib announced an agreement to acquire chemicals giant BASF’s Battery"
     },
     {
       "source": {
@@ -359,99 +315,286 @@
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Record 5,200 heat-linked deaths estimated in England this year",
-      "description": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e83egrez3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T16:22:16",
-      "content": "The UK Health Security Agency says this year's number of deaths is twice that of the previous record year."
+      "title": "Canadian astronaut welcomes baby girl  from space station",
+      "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+      "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T15:41:39",
+      "content": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station."
     },
     {
       "source": {
         "name": "The Guardian"
       },
       "author": "The Guardian",
-      "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
-      "description": "Chancellor’s decision to exempt plots up to 1.",
-      "url": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
-      "publishedAt": "2026-11-24T14:00:47",
-      "content": "Chancellor’s decision to exempt plots up to 1."
-    },
-    {
-      "source": {
-        "name": "The Guardian"
-      },
-      "author": "The Guardian",
-      "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-      "description": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional ...",
-      "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-      "publishedAt": "2026-11-24T12:39:50",
-      "content": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional ..."
+      "title": "World has six consecutive days 2C above preindustrial levels for first time",
+      "description": "Daily global surface temperature hit record 2.",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
+      "publishedAt": "2026-11-25T14:52:30",
+      "content": "Daily global surface temperature hit record 2."
     },
     {
       "source": {
         "name": "BBC"
       },
       "author": "BBC",
-      "title": "Badger cull ruled out by Welsh government after speculation",
+      "title": "New York's annual Thanksgiving Parade threatened by approaching storm",
+      "description": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.",
+      "url": "https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T14:41:42",
+      "content": "Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How datacentres are driving an illegal mining rush in the Amazon ‘more devastating than gold’",
+      "description": "As demand for tin ores pushes up prices, criminal gangs are exploiting Indigenous lands and weak regulation to profit from Brazil’s abundant cassiteriteWhile searching for documents tied to an ille...",
+      "url": "https://www.theguardian.com/global-development/2026/nov/25/tin-cassiterite-brazil-amazon-illegal-mining-datacentres-evs",
+      "publishedAt": "2026-11-25T13:00:27",
+      "content": "As demand for tin ores pushes up prices, criminal gangs are exploiting Indigenous lands and weak regulation to profit from Brazil’s abundant cassiteriteWhile searching for documents tied to an ille..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Why has China sent the first Pakistani astronaut to space?",
+      "description": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station.",
+      "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T10:26:50",
+      "content": "Pakistan's Muhammad Zeeshan Ali has become the first foreign national to board China's Tiangong space station."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Storm Costs Are Sending Maine’s Power Bills Soaring",
+      "description": "Squeezing blood from a stone.",
+      "url": "https://insideclimatenews.org/news/25112026/maine-storms-power-bill-costs/",
+      "publishedAt": "2026-11-25T10:00:00",
+      "content": "Squeezing blood from a stone."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Dolphins with active social lives and big friendship groups live longer, Australian researchers discover",
+      "description": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphinsDolphins who spend time socialising in large and consistently sized s...",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/dolphins-with-active-social-lives-and-big-friendship-groups-live-longer",
+      "publishedAt": "2026-11-25T06:02:05",
+      "content": "Decades of data collected at WA’s Shark Bay shows level of socialising may affect longevity for Indo-Pacific bottlenose dolphinsDolphins who spend time socialising in large and consistently sized s..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+      "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T06:00:36",
+      "content": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "How a new way of measuring tides could make flood forecasts more accurate",
+      "description": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecastsThe sea might look level, but it turns out tidal height can vary by as much as a metre ac...",
+      "url": "https://www.theguardian.com/science/2026/nov/25/new-way-of-measuring-tides-flood-forecasts-accurate",
+      "publishedAt": "2026-11-25T06:00:08",
+      "content": "Analysis of differences in tidal height across beaches could lead to more localised tide and flood forecastsThe sea might look level, but it turns out tidal height can vary by as much as a metre ac..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Country diary: Stalked by a herd of ghostly white deer | Mary Montague",
+      "description": "Parkanaur Forest Park, County Tyrone: The autumn rut is over, and I meet the eye of a patriarch male as it surveys his extended familyEmerging from a dip in the hillside, the deer’s antlers crown a...",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/country-diary-stalked-by-a-herd-of-ghostly-white-deer",
+      "publishedAt": "2026-11-25T05:30:06",
+      "content": "Parkanaur Forest Park, County Tyrone: The autumn rut is over, and I meet the eye of a patriarch male as it surveys his extended familyEmerging from a dip in the hillside, the deer’s antlers crown a..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "China's Shenzhou-24 carries Pakistan's first astronaut into space",
+      "description": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2e0j3kx28o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T04:46:23",
+      "content": "Muhammad Zeeshan Ali, a former fighter pilot, is the first foreigner to join a Chinese crewed space mission."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Will there be a white Christmas this year?",
+      "description": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
+      "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T01:03:24",
+      "content": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?"
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "San Francisco Bay Area Braces for Record Coastal Flooding",
+      "description": "The first thing renowned climatologist Daniel Swain did during his virtual office hours on Monday was set the record straight about California’s upcoming flood risk. This week, water levels along t...",
+      "url": "https://insideclimatenews.org/news/24112026/san-francisco-bay-area-coastal-flooding/",
+      "publishedAt": "2026-11-25T00:07:57",
+      "content": "The first thing renowned climatologist Daniel Swain did during his virtual office hours on Monday was set the record straight about California’s upcoming flood risk. This week, water levels along t..."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Coastal areas in England at risk of erosion to receive £11m in new funding",
+      "description": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government supportLaser-equipped drone surveys, sand dune restoration and moving roads inland are among the project...",
+      "url": "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
+      "publishedAt": "2026-11-25T00:01:01",
+      "content": "Exclusive: Laser-equipped drone surveys and road relocations among schemes to get government supportLaser-equipped drone surveys, sand dune restoration and moving roads inland are among the project..."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Iowa Lead Blast Will Have Lasting Health Impacts",
+      "description": "The U.",
+      "url": "https://insideclimatenews.org/news/24112026/iowa-lead-blast-health-impacts/",
+      "publishedAt": "2026-11-24T23:05:20",
+      "content": "The U."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "3 questions to help you avoid the Black Friday hype",
+      "description": "On 27th November 2026, the world will once again fall under the Black Friday spell.",
+      "url": "https://goodonyou.eco/black-friday/",
+      "publishedAt": "2026-11-24T23:00:57",
+      "content": "On 27th November 2026, the world will once again fall under the Black Friday spell."
+    },
+    {
+      "source": {
+        "name": "Good On You"
+      },
+      "author": "Good On You",
+      "title": "How Toad&Co’s clothes help everyone enjoy the outdoors",
+      "description": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/toad-and-co-colourful-clothes/",
+      "publishedAt": "2026-11-24T21:00:39",
+      "content": "This is a sponsored article about a brand that was independently assessed by our rigorous ratings system."
+    },
+    {
+      "source": {
+        "name": "New York Times"
+      },
+      "author": "New York Times",
+      "title": "Iowa’s Toxic Explosion",
+      "description": "The Army is scheduled blow up thousands of pounds of explosives that could spread toxic lead dust for miles.",
+      "url": "https://www.nytimes.com/2026/11/24/climate/iowas-toxic-explosion.html",
+      "publishedAt": "2026-11-24T20:11:35",
+      "content": "The Army is scheduled blow up thousands of pounds of explosives that could spread toxic lead dust for miles."
+    },
+    {
+      "source": {
+        "name": "Inside Climate News"
+      },
+      "author": "Inside Climate News",
+      "title": "Britain’s ‘Rigged’ Fishing Industry Is Fueling Overfishing",
+      "description": "Along England’s southern coast lies a fishing community whose existence can be traced back almost a millennium.",
+      "url": "https://insideclimatenews.org/news/24112026/uk-fishing-industry-fuels-overfishing/",
+      "publishedAt": "2026-11-24T17:03:01",
+      "content": "Along England’s southern coast lies a fishing community whose existence can be traced back almost a millennium."
+    },
+    {
+      "source": {
+        "name": "The Guardian"
+      },
+      "author": "The Guardian",
+      "title": "Oceans, fossil fuels and keeping 1.5 alive: the missed opportunities at Cop31",
+      "description": "The collapse of the ‘Antalya pact’ took away the chance of a unifying effort to deal with a number of issuesThe “Antalya pact” was supposed to be the keystone document agreed at the UN’s Cop31 clim...",
+      "url": "https://www.theguardian.com/environment/2026/nov/24/missed-opportunities-cop31-oceans-fossil-fuels",
+      "publishedAt": "2026-11-24T16:53:32",
+      "content": "The collapse of the ‘Antalya pact’ took away the chance of a unifying effort to deal with a number of issuesThe “Antalya pact” was supposed to be the keystone document agreed at the UN’s Cop31 clim..."
+    },
+    {
+      "source": {
+        "name": "BBC"
+      },
+      "author": "BBC",
+      "title": "Mass badger cull ruled out by Welsh government after speculation",
       "description": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
       "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T12:01:32",
+      "publishedAt": "2026-11-24T16:47:05",
       "content": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "ESG Today"
       },
-      "author": "BBC",
-      "title": "Storms targeting both US coasts threaten to snarl Thanksgiving travel for millions",
-      "description": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.",
-      "url": "https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-24T11:40:46",
-      "content": "Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends."
+      "author": "ESG Today",
+      "title": "CIP Raises $1.9 Billion Through New Instrument Providing Investors Access to Energy Transition Infrastructure Funds",
+      "description": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the close of its first rated,",
+      "url": "https://www.esgtoday.com/cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds/?utm_source=rss&utm_medium=rss&utm_campaign=cip-raises-1-9-billion-through-new-instrument-providing-investors-access-to-energy-transition-infrastructure-funds",
+      "publishedAt": "2026-11-24T12:52:42",
+      "content": "Energy infrastructure investment manager Copenhagen Infrastructure Partners (CIP) announced the close of its first rated,"
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "ESG Today"
       },
-      "author": "Inside Climate News",
-      "title": "As Wildfires Stress Montana’s Insurance Market, the State is Getting Harder to Call Home",
-      "description": "Montana’s snow-capped mountains, vast forests and open valleys have long attracted people seeking a life close to nature.",
-      "url": "https://insideclimatenews.org/news/24112026/montana-wildfire-insurance-costs/",
-      "publishedAt": "2026-11-24T10:00:00",
-      "content": "Montana’s snow-capped mountains, vast forests and open valleys have long attracted people seeking a life close to nature."
+      "author": "ESG Today",
+      "title": "Planet Savers Raises Over $10 Million to Scale Direct Air Capture Carbon Removal Tech in Japan",
+      "description": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6",
+      "url": "https://www.esgtoday.com/planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan/?utm_source=rss&utm_medium=rss&utm_campaign=planet-savers-raises-over-10-million-to-scale-direct-air-capture-technology-in-japan",
+      "publishedAt": "2026-11-24T09:19:40",
+      "content": "Direct air capture (DAC) technology startup Planet Savers announced that it has raised over JPY1.6"
     },
     {
       "source": {
-        "name": "The Guardian"
+        "name": "CSRWire"
       },
-      "author": "The Guardian",
-      "title": "A year of deadly floods and fires – and yet Cop31 still collapsed. When will our leaders grasp the scale of this crisis? | Bill McGuire",
-      "description": "Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction.",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/24/deadly-floods-fires-cop31-collapsed-climate-crisis",
-      "publishedAt": "2026-11-24T06:00:08",
-      "content": "Fossil fuel producers are choking off progress while we reap the whirlwind of our inaction."
+      "author": "CSRWire",
+      "title": "Our Nation's Blueprint: Why America Has Always Bet on Its Inventors",
+      "description": "America's commitment to protecting inventors is as old as the country itself.",
+      "url": "https://csrwire.com/press-release/our-nations-blueprint-why-america-has-always-bet-its-inventors/",
+      "publishedAt": "2026-11-24T08:05:00",
+      "content": "America's commitment to protecting inventors is as old as the country itself."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "An Alabama Pipeline Exploded. Its Owner Is Fighting To Expand It.",
-      "description": "On Saturday night, the midnight skies over west Alabama lit up as a massive fireball leaped hundreds of feet in the air, visible from more than 50 miles away.  The source of the explosion, official...",
-      "url": "https://insideclimatenews.org/news/23112026/alabama-pipeline-explosion/",
-      "publishedAt": "2026-11-23T23:11:10",
-      "content": "On Saturday night, the midnight skies over west Alabama lit up as a massive fireball leaped hundreds of feet in the air, visible from more than 50 miles away.  The source of the explosion, official..."
+      "author": "CSRWire",
+      "title": "Chemours' Approach to Health and Safety",
+      "description": "Safety is a core Chemours value.",
+      "url": "https://csrwire.com/press-release/chemours-approach-health-and-safety/",
+      "publishedAt": "2026-11-24T08:00:00",
+      "content": "Safety is a core Chemours value."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "CSRWire"
       },
-      "author": "Inside Climate News",
-      "title": "Court Decision Clears Way for Army to Detonate Lead Explosives in Iowa",
-      "description": "The U.",
-      "url": "https://insideclimatenews.org/news/23112026/iowa-army-lead-explosives-detonation/",
-      "publishedAt": "2026-11-23T20:56:48",
-      "content": "The U."
+      "author": "CSRWire",
+      "title": "Empowering Women. Delivering Exceptional Experiences. Mary Kay Earns Forbes Best Customer Service Recognition",
+      "description": "Behind every exceptional customer experience is a person who chooses to serve, connect, and make a difference.",
+      "url": "https://csrwire.com/press-release/empowering-women-delivering-exceptional-experiences-mary-kay-earns-forbes-best-customer/",
+      "publishedAt": "2026-11-24T08:00:00",
+      "content": "Behind every exceptional customer experience is a person who chooses to serve, connect, and make a difference."
     },
     {
       "source": {
@@ -466,80 +609,69 @@
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Enel Acquires U.S. Solar Portfolio from energyRe",
-      "description": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the",
-      "url": "https://www.esgtoday.com/enel-acquires-u-s-solar-portfolio-from-energyre/?utm_source=rss&utm_medium=rss&utm_campaign=enel-acquires-u-s-solar-portfolio-from-energyre",
-      "publishedAt": "2026-11-23T10:50:11",
-      "content": "Italian energy company Enel announced an agreement with U.S. energy infrastructure developer energyRe for the"
+      "author": "CSRWire",
+      "title": "The Royal Neighbor Magazine: More Than a Safe Place",
+      "description": "Founded by Cloey Miller and Christie Adamson, The Third Place QC was created to bridge the gap between crisis and stability for people experiencing homelessness.",
+      "url": "https://csrwire.com/press-release/royal-neighbor-magazine-more-safe-place/",
+      "publishedAt": "2026-11-23T13:05:00",
+      "content": "Founded by Cloey Miller and Christie Adamson, The Third Place QC was created to bridge the gap between crisis and stability for people experiencing homelessness."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "Ardian Raises Over $250 Million for Nature Based Solutions Fund",
-      "description": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa",
-      "url": "https://www.esgtoday.com/ardian-raises-over-250-million-for-nature-based-solutions-fund/?utm_source=rss&utm_medium=rss&utm_campaign=ardian-raises-over-250-million-for-nature-based-solutions-fund",
-      "publishedAt": "2026-11-23T10:06:23",
-      "content": "Private markets investor Ardian announced that it has raised €230 million (USD$252 million) for its “Averrhoa"
+      "author": "CSRWire",
+      "title": "Healthier Buildings Boost Recruitment and Retention",
+      "description": "Leveraging healthy building strategies can help solve labor shortages by boosting employee retention, reducing absenteeism and maximizing productivity with better air quality, lighting and thermal ...",
+      "url": "https://csrwire.com/press-release/healthier-buildings-boost-recruitment-and-retention/",
+      "publishedAt": "2026-11-23T12:45:00",
+      "content": "Leveraging healthy building strategies can help solve labor shortages by boosting employee retention, reducing absenteeism and maximizing productivity with better air quality, lighting and thermal ..."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "EU, UK Agree to Link Carbon Markets from 2028",
-      "description": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems",
-      "url": "https://www.esgtoday.com/eu-uk-agree-to-link-carbon-markets-from-2028/?utm_source=rss&utm_medium=rss&utm_campaign=eu-uk-agree-to-link-carbon-markets-from-2028",
-      "publishedAt": "2026-11-23T07:48:09",
-      "content": "The European Commission and UK government announced an agreement to link their Emissions Trading Systems"
+      "author": "CSRWire",
+      "title": "Planting for Good: How FedEx and Local Communities Are Planting Trees",
+      "description": "At FedEx, our purpose is to connect people and possibilities.",
+      "url": "https://csrwire.com/press-release/planting-good-how-fedex-and-local-communities-are-planting-trees/",
+      "publishedAt": "2026-11-23T11:00:00",
+      "content": "At FedEx, our purpose is to connect people and possibilities."
     },
     {
       "source": {
-        "name": "ESG Today"
+        "name": "CSRWire"
       },
-      "author": "ESG Today",
-      "title": "COP31 Talks Collapse as EU, UK Walk Over Failure to Address Fossil Fuels",
-      "description": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31",
-      "url": "https://www.esgtoday.com/cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-talks-collapse-as-eu-uk-walk-over-failure-to-address-fossil-fuels",
-      "publishedAt": "2026-11-22T23:09:39",
-      "content": "After a contentious negotiating session that extended past Friday’s deadline into early Sunday, the COP31"
+      "author": "CSRWire",
+      "title": "Lenovo Named a Top Company for Women in 2026",
+      "description": "Lenovo has been recognized by Forbes as one of the World’s Top Companies for Women 2026, ranking No.",
+      "url": "https://csrwire.com/press-release/lenovo-named-top-company-women-2026/",
+      "publishedAt": "2026-11-23T11:00:00",
+      "content": "Lenovo has been recognized by Forbes as one of the World’s Top Companies for Women 2026, ranking No."
     },
     {
       "source": {
-        "name": "BBC"
+        "name": "CSRWire"
       },
-      "author": "BBC",
-      "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-      "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-22T10:44:12",
-      "content": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun."
+      "author": "CSRWire",
+      "title": "Qualcomm Launches 2027 Innovation Fellowship Program for North America",
+      "description": "Qualcomm Technologies, Inc.",
+      "url": "https://csrwire.com/press-release/qualcomm-launches-2027-innovation-fellowship-program-north-america/",
+      "publishedAt": "2026-11-23T09:05:00",
+      "content": "Qualcomm Technologies, Inc."
     },
     {
       "source": {
-        "name": "Inside Climate News"
+        "name": "Good On You"
       },
-      "author": "Inside Climate News",
-      "title": "The Defenders of Mexico’s Scorpion Reef",
-      "description": "ABOARD THE MV SHARKWATER—At 5 a.",
-      "url": "https://insideclimatenews.org/news/22112026/protecting-mexicos-scorpion-reef-from-climate-change-illegal-fishing/",
-      "publishedAt": "2026-11-22T10:00:00",
-      "content": "ABOARD THE MV SHARKWATER—At 5 a."
-    },
-    {
-      "source": {
-        "name": "Climate Change News"
-      },
-      "author": "Climate Change News",
-      "title": "COP31 Bulletin Day 13: Talks fail as many countries reject main deal",
-      "description": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\"\nThe post COP31 Bulletin Day 13: Talks fail as many coun...",
-      "url": "https://www.climatechangenews.com/2026/11/22/cop31-bulletin-day-13-new-draft-retains-electrification-goal-but-delays-adaptation-finance-and-science-decisions/",
-      "publishedAt": "2026-11-22T05:59:32",
-      "content": "The EU, the AILAC group of Latin American states and the Least Developed Countries (LDCs) said they could not accept the draft \"Antalya Pact\"\nThe post COP31 Bulletin Day 13: Talks fail as many coun..."
+      "author": "Good On You",
+      "title": "10 fast fashion brands we avoid at all costs",
+      "description": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system.",
+      "url": "https://goodonyou.eco/fast-fashion-brands-we-avoid/",
+      "publishedAt": "2026-11-23T23:00:01",
+      "content": "Our editors curate highly rated brands that are first assessed by our rigorous ratings system."
     }
   ]
 }
